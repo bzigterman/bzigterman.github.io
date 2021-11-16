@@ -65,20 +65,26 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/business/germany-gas-pipeline.html">Germany Suspends Approval of Gas Pipeline, Sending Prices Soaring</a> NYT: The decision to delay certification of the Russia-to-Germany gas pipeline comes amid rising political tensions between the West and Russia. 
  <p class="updated_time"> 07:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
+ <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 07:26 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
- <p class="updated_time"> 06:51 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
- <p class="updated_time"> 06:43 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
+ <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/belarus-migrant-crisis-exposes-tensions-within-european-union-11637083429">Belarus Migrant Crisis Exposes Tensions Within European Union</a> WSJ: German Chancellor Angela Merkel’s call to Belarus leader Alexander Lukashenko causes fear among East Europe nations about being sidelined in standoff with Russian ally. 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
+ <p class="updated_time"> 05:23 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/libyan-warlord-announces-presidential-bid-11637079780">Libyan Militia Leader Says He Will Run for President</a> WSJ: Khalifa Haftar registered his candidacy in his military stronghold of Benghazi where his militia forces control a swath of eastern Libya. His 14-month offensive to oust the internationally-recognized government in Tripoli ended in a United Nations-brokered truce last year. 
+ <p class="updated_time"> 05:15 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334">Iran Resumes Production of Nuclear-Program Parts, Diplomats Say</a> WSJ: The resumption at a site the U.N.’s atomic energy agency has been unable to monitor or gain access to for months presents a new challenge for the Biden administration as it prepares for nuclear talks. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 04:34 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-moves-to-bolster-asia-trade-ties-in-bid-to-counter-chinas-influence-11637076879">U.S. Moves to Bolster Asia Trade Ties in Bid to Counter China's Influence</a> WSJ: Trade Representative Katherine Tai and Commerce Secretary Gina Raimondo are set to discuss economic issues in countries including Japan, South Korea and India. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
- <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Cool Down Hostilities in Virtual Meeting</a> WSJ: The White House said the U.S. and Chinese presidents discussed a variety of topics including Afghanistan, North Korea and Iran, as well as human rights, climate change and concerns over Taiwan. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
- <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/cubas-government-deploys-security-forces-to-prevent-protest-11637008806">Cuba's Government Deploys Security Forces to Prevent Protest</a> WSJ: Police officers flooded streets in Havana and other cities and detained some activists, and the government stationed police and civilian militants at the homes of pro-democracy organizers to keep them from taking action. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele opens up to Oprah Winfrey about her weight loss, divorce and finding herself again.</a> BBC: Award-winning singer Adele describes how she saved her mental health through exercise and why she's now at peace with herself. 
- <p class="updated_time"> 05:56 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/eu-sanctions-russias-wagner-group-to-thwart-private-military-11636995416">EU Sanctions Russia's Wagner Group to Thwart Private Military</a> WSJ: European diplomats warned that the Russian mercenary company, which some EU countries and the U.S. say is a proxy force for Russia’s Defense Ministry, poses a growing threat to EU interests. 
  <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
