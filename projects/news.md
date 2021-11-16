@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:15 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 10:38 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
+ <p class="updated_time"> 10:20 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders begin first face-to-face virtual summit</a> BBC: Taiwan has recently become a point of growing contention between both countries. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
- <p class="updated_time"> 08:47 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders begin first face-to-face virtual summit</a> BBC: Taiwan has recently become a point of growing contention between both countries. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
- <p class="updated_time"> 07:11 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday is addressing several thorny issues, including Taiwan, cybersecurity and trade. 
  <p class="updated_time"> 06:53 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
@@ -95,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
  <p class="updated_time"> 12:47 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
- <p class="updated_time"> 12:07 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
@@ -105,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 11:06 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59296328?at_medium=RSS&at_campaign=KARANGA">Ecuador prison and armed forces chiefs resign after riots</a> BBC: The move came after 68 inmates were killed in a deadly fight in a Guayaquil jail over the weekend. 
- <p class="updated_time"> 11:03 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen jailed over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
  <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
@@ -117,12 +113,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
- <p class="updated_time"> 09:57 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-london-59253057?at_medium=RSS&at_campaign=KARANGA">Tamara Ecclestone burglary: Italian gang jailed for £26m celebrity raids</a> BBC: The homes of Frank Lampard and Tamara Ecclestone were among those targeted by the thieves. 
  <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 09:32 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59289345?at_medium=RSS&at_campaign=KARANGA">Israel urges Turkey to free couple held for spying over palace photos</a> BBC: Natalie and Mordi Oknin were arrested after taking photos of the president's residence in Istanbul. 
  <p class="updated_time"> 09:22 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
@@ -131,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
- <p class="updated_time"> 07:41 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro and guns: A US culture war raging in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
@@ -157,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
- <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">A watered-down COP26 deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
@@ -230,16 +218,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
+ <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
+ <p class="updated_time"> 10:28 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
+ <p class="updated_time"> 10:19 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Chris Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 09:57 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
- <p class="updated_time"> 09:50 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
- <p class="updated_time"> 09:33 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Chris Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 09:31 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
@@ -326,16 +318,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 02:38 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
- <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
- <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Prosecutor: Rittenhouse provoked the bloodshed in Kenosha</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
