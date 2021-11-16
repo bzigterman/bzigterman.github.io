@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. In Abbotsford, residents took shelter in a convention center. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263648/pfizer-says-it-will-share-the-rights-to-its-covid-19-pill">Pfizer says it will share the rights to its COVID-19 pill</a> NPR: Pfizer says it is willing to share rights to its COVID-19 pill, Paxlovid. It's an oral antiviral drug that can be taken outside the hospital, which could be a help to low income countries. 
- <p class="updated_time"> 03:45 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. The mayor of Abbotsford warned of an “uncertain and scary time” as residents took shelter in a convention center. 
  <p class="updated_time"> 03:41 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
@@ -122,7 +122,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
+ <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
  <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
@@ -212,10 +212,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/ahmaud-arbery-prosecution-rests-522766">Prosecution rests in trial of men who chased Ahmaud Arbery</a> Politico: Prosecutors concluded with Dr. Edmund Donoghue, the state medical examiner. 
  <p class="updated_time"> 05:44 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
+ <p class="updated_time"> 05:12 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
+ <p class="updated_time"> 05:03 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/debt-ceiling-deadline-december-15-treasury-secretary-yellen/index.html">Treasury secretary estimates US could reach debt limit on December 15</a> CNN: Treasury Secretary Janet Yellen now estimates that the government will run out of money on December 15, an extension from the previous deadline of December 3. 
+ <p class="updated_time"> 05:02 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/business/janet-yellen-debt-limit.html">Janet Yellen Says U.S. Could Hit Debt Limit by Dec. 15</a> NYT: The Treasury secretary’s letter comes weeks after she issued similar calls, before Congress temporarily raised the cap on borrowing. 
+ <p class="updated_time"> 05:01 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shots-adults.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults Soon</a> NYT: The move would expand the number of Americans eligible for additional shots by tens of millions. 
  <p class="updated_time"> 04:50 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
@@ -226,18 +238,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/border-patrol-horses-del-rio/index.html">DHS inspector general declines to investigate Del Rio horse patrol incident</a> CNN: The horse patrol incident in Del Rio, Texas, that drew swift condemnation from senior Biden administration officials will not be investigated by the Department of Homeland Security's inspector general, the department announced Tuesday. 
- <p class="updated_time"> 04:17 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shots-adults.html">F.D.A. Plans to Authorize Pfizer-BioNTech Boosters as Soon as Thursday</a> NYT: The move would expand the number of Americans eligible for additional shots by tens of millions. 
  <p class="updated_time"> 04:13 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
  <p class="updated_time"> 03:47 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1.2 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
- <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
  <p class="updated_time"> 03:35 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056240650/time-has-run-out-on-some-biden-administration-appointees">Time has run out on some Biden administration appointees</a> NPR: The Vacancies Act says many temporary government appointees cannot remain in their posts after the 300th day of a President's first year in office. 
+ <a href="https://www.npr.org/2021/11/16/1056240650/time-has-run-out-on-some-biden-administration-appointees">Time has run out on some Biden administration appointees</a> NPR: The Vacancies Act says many temporary government appointees cannot remain in their posts after the 300th day of a president's first year in office. 
  <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Conservative-leaning appeals court to hear challenges to Biden's vaccine mandate after ping-pong ball lottery</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
@@ -268,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">Analysis: Biden's economic policy moves away from the strategy of his party's past two presidents</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/trump-files-jan-6-committee.html">Trump Seeks Continued Block on Sending White House Files to Jan. 6 Panel</a> NYT: The ex-president’s brief to a federal appeals court argued that his residual secrecy powers could block a House subpoena for information about the Capitol riot. 
- <p class="updated_time"> 12:35 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/trevor-reed-ends-hunger-strike/index.html">US citizen Trevor Reed jailed in Russia ended hunger strike after 6 days</a> CNN: American citizen Trevor Reed, who has been detained and jailed in Russia for more than two years, ended a days-long hunger strike last week, saying that he has "lost a lot of weight" and is "very sick now." 
  <p class="updated_time"> 12:29 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 12:14 PM CT, Nov. 16 </p> 
@@ -294,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082057/in-an-attempt-to-ease-tensions-biden-and-chinas-xi-meet-virtually">In an attempt to ease tensions, Biden and China's Xi meet virtually</a> NPR: President Biden held a virtual summit with his Chinese counterpart Xi Jinping to go over some of the thorniest issues between the two countries. They gave no hint of Trump-era tariffs being dropped. 
- <p class="updated_time"> 06:15 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
@@ -309,11 +313,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
+ <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
- <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
- <p class="updated_time"> 05:21 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1054418311/tribes-hope-infrastructure-law-means-theyll-finally-get-clean-drinking-water">Tribes hope infrastructure law means they'll finally get clean drinking water</a> NPR: The Warm Springs Reservation in Oregon has been without clean drinking water for years, the just-passed infrastructure bill promises to fix that. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
@@ -406,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
