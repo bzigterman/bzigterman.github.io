@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia and Azerbaijan have agreed to a Russian-backed ceasefire, reports say. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
  <p class="updated_time"> 11:58 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Gas prices soar after setback for Russian pipeline</a> BBC: Gas prices surge 17% after German regulators suspend approval of the Nord Stream 2 project. 
- <p class="updated_time"> 11:33 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 11:32 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/trump-files-jan-6-committee.html">Trump Seeks Continued Block on Sending White House Files to Jan. 6 Panel</a> NYT: The ex-president’s brief to a federal appeals court argued that his residual secrecy powers could block a House subpoena for information about the Capitol riot. 
  <p class="updated_time"> 01:08 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 12:29 PM CT, Nov. 16 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936681/vermonts-patrick-leahy-says-he-will-retire-from-the-u-s-senate">Vermont's Patrick Leahy says he will retire from the U.S. Senate</a> NPR: After eight terms in the U.S. Senate, Democrat Patrick Leahy of Vermont announced his retirement on Monday. The powerful senator was at the center of many Supreme Court nomination fights. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
- <p class="updated_time"> 03:19 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/supreme-court-death-penalty.html">Supreme Court Shows Impatience in Death Penalty Cases</a> NYT: Recent rulings, including one turning down a death row inmate’s request supported by the prosecution, offer telling glimpses of the state of capital punishment. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
