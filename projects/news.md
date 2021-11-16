@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:53 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 09:05 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Begin Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 08:52 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
@@ -232,6 +232,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
+ <p class="updated_time"> 08:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows in Tuesday meeting</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
+ <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-peter-meijer-impeachment-endorsement/index.html">Trump endorses primary opponent to Michigan Republican who voted for impeachment earlier this year </a> CNN: Former President Donald Trump on Monday endorsed a primary challenger running against Republican Rep. Peter Meijer of Michigan in his latest effort to oust the GOP lawmakers who voted to impeach him earlier this year. 
  <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 08:20 PM CT, Nov. 15 </p> 
@@ -244,6 +248,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and Xi begin 'candid and direct' virtual meeting</a> Politico: The much-anticipated encounter aims to reduce bilateral tensions. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 07:49 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -262,6 +268,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 05:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 05:48 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-trump-2024/index.html">Analysis: Why Chris Christie isn't sorry</a> CNN: Former New Jersey Gov. Chris Christie is trying to make a political comeback after a dark few years in the shadow of Donald Trump -- including writing a new book that Christie is pitching as a blueprint for a post-Trump GOP. 
+ <p class="updated_time"> 05:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Analysis: Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
  <p class="updated_time"> 05:40 PM CT, Nov. 15 </p> 
@@ -364,14 +374,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
- <p class="updated_time"> 04:05 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/congress-debt-ceiling-government-funding-build-back-better-act/index.html">Congress returns Monday with government funding, debt ceiling, economic bill looming</a> CNN: While Democratic leaders plan to take a victory lap Monday to celebrate President Joe Biden signing the bipartisan infrastructure bill, other pressing issues remain for lawmakers when they return for session this week. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
  <p class="updated_time"> 11:06 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
- <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
@@ -396,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
- <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
@@ -416,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
- <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
@@ -448,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
