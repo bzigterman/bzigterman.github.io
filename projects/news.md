@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 01:16 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 12:56 AM CT, Nov. 16 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
- <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
- <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 11:54 AM CT, Nov. 14 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055767730/climate-talks-have-wrapped-up-granholm-weighs-in-on-the-highlights">Climate talks have wrapped up. Granholm weighs in on the highlights</a> NPR: NPR's Noel King talks to Energy Secretary Jennifer Granholm about the compromise deal reached at the U.N. climate summit that gave a last-minute reprieve to coal-burning economies. 
- <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055749029/biden-prepares-for-mondays-high-stakes-virtual-summit-with-xi-jinping">Biden prepares for Monday's high-stakes virtual summit with Xi Jinping</a> NPR: When President Biden and China's president talk, the White House wants to discuss U.S. concern over human rights, trade and Taiwan — plus how they can cooperate including on climate. 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
