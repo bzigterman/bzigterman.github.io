@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
  <p class="updated_time"> 03:58 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital</a> NYT: Witnesses said there was a blast near a police station and another near Parliament. At least 24 people have been hospitalized. 
- <p class="updated_time"> 03:33 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 03:33 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 03:17 AM CT, Nov. 16 </p> 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-shiite-minority-cautiously-embraces-taliban-rule-seeking-protection-11637058601">Afghanistan's Shiite Minority Cautiously Embraces Taliban Rule</a> WSJ: This emergence of Shiite Taliban shows how the country’s new rulers are trying to blunt the sectarian divide and position themselves as a pan-Afghan national-liberation movement. 
  <p class="updated_time"> 11:28 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
  <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
+ <p class="updated_time"> 10:27 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Ugandan Capital Hit by Twin Explosions</a> WSJ: Two blasts ripped through locations in the center of Uganda’s capital during morning rush hour in a suspected terrorist attack targeting a police facility and a building complex housing commercial offices. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
  <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 09:22 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
- <p class="updated_time"> 02:13 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
@@ -177,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">Young Dissidents Call for a Day of Protest in Cuba</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
- <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -464,8 +462,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
 
 
 </details>
