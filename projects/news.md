@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:09 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Begin Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 07:55 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden and Xi Jinping hold virtual meeting</a> BBC: Mr Xi said that China was "ready to move US-China relations forward in a positive direction". 
+ <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
+ <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury retires in trial of US teen gunman Rittenhouse</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the Kyle Rittenhouse case. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
- <p class="updated_time"> 07:24 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden and Xi Jinping hold virtual meeting</a> BBC: Mr Xi said that China was "ready to move US-China relations forward in a positive direction". 
- <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:11 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday is addressing several thorny issues, including Taiwan, cybersecurity and trade. 
  <p class="updated_time"> 06:53 PM CT, Nov. 15 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The harmonious US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Steve Bannon defiant after surrendering to FBI</a> BBC: The former top Trump adviser told reporters: "This is going to be the misdemeanour from hell." 
- <p class="updated_time"> 06:26 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury retires in trial of US teen gunman Rittenhouse</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the Kyle Rittenhouse case. 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59294013?at_medium=RSS&at_campaign=KARANGA">Rod Stewart reveals why he didn't play Live Aid</a> BBC: The star clears up his absence from the charity gig, and insists he doesn't style his hair with mayo. 
  <p class="updated_time"> 06:02 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59255165?at_medium=RSS&at_campaign=KARANGA">How Covid conspiracists are shifting to climate change denial</a> BBC: Anti-lockdown movements online are turning their attention to climate conspiracy theories. 
- <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
  <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
@@ -52,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
+ <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Plagues Strike Egypt: Sudden Floods, Then Scorpions Called Deathstalkers</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936674/testing-temperature-with-your-ears">Testing temperature with your ears</a> NPR: Chefs in Japan dip a wet chopstick in hot oil and listen to the sizzle, to know when it's ready for tempura. A physicist investigated that technique in the lab to zero in on the perfect fry frequency. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
@@ -87,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/cubas-government-deploys-security-forces-to-prevent-protest-11637008806">Cuba's Government Deploys Security Forces to Prevent Protest</a> WSJ: Police officers flooded streets in Havana and other cities and detained some activists, and the government stationed police and civilian militants at the homes of pro-democracy organizers to keep them from taking action. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
@@ -217,8 +221,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
- <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
 
 
 </details>
@@ -226,18 +228,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
+ <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and Xi begin 'candid and direct' virtual meeting</a> Politico: The much-anticipated encounter aims to reduce bilateral tensions. 
+ <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
+ <p class="updated_time"> 07:35 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
- <p class="updated_time"> 07:19 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
- <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
- <p class="updated_time"> 06:37 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 06:34 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 06:23 PM CT, Nov. 15 </p> 
@@ -248,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
- <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 05:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 05:46 PM CT, Nov. 15 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055749029/biden-prepares-for-mondays-high-stakes-virtual-summit-with-xi-jinping">Biden prepares for Monday's high-stakes virtual summit with Xi Jinping</a> NPR: When President Biden and China's president talk, the White House wants to discuss U.S. concern over human rights, trade and Taiwan — plus how they can cooperate including on climate. 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
- <p class="updated_time"> 05:00 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/dc-new-top-cop-steve-bannon-522259">D.C.'s new top cop vs. Steve Bannon</a> Politico: Matthew Graves has represented Ben Carson and Gazprom — but overseeing hundreds of Jan. 6 prosecutions will bring a different level of scrutiny. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
@@ -402,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
+ <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
