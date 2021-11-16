@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:26 PM CT, Nov. 16 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
- <p class="updated_time"> 11:09 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 11:08 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 11:06 AM CT, Nov. 16 </p> 
@@ -212,14 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from the House Oversight and Reform Committee, a panel he serves on alongside Rep. Alexandria Ocasio-Cortez. 
+ <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
+ <p class="updated_time"> 04:50 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:25 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
- <p class="updated_time"> 04:23 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:21 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
  <p class="updated_time"> 05:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
- <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
  <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1054418311/tribes-hope-infrastructure-law-means-theyll-finally-get-clean-drinking-water">Tribes hope infrastructure law means they'll finally get clean drinking water</a> NPR: The Warm Springs Reservation in Oregon has been without clean drinking water for years, the just-passed infrastructure bill promises to fix that. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
