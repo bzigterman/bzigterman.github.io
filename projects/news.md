@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:10 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
+ <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 08:06 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 07:58 AM CT, Nov. 16 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 07:02 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
- <p class="updated_time"> 07:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/libya-president-qaddafi.html">Qaddafi Son to Run for President in Libya</a> NYT: Seif al-Islam el-Qaddafi, the former heir apparent of the deposed Libyan dictator Col. Muammar el-Qaddafi, filed his candidacy papers on Sunday for the election expected next month. 
- <p class="updated_time"> 11:13 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 11:01 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
