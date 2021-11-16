@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:12 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
+ <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
  <p class="updated_time"> 06:33 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
- <p class="updated_time"> 05:51 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
- <p class="updated_time"> 05:28 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
- <p class="updated_time"> 03:58 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital</a> NYT: Witnesses said there was a blast near a police station and another near Parliament. At least 24 people have been hospitalized. 
  <p class="updated_time"> 03:33 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 03:17 AM CT, Nov. 16 </p> 
@@ -42,13 +44,17 @@ permalink: /projects/news/
  <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged down in mud. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in mud. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: China warns US about 'playing with fire' on Taiwan</a> BBC: Xi Jinping and Joe Biden hold substantial talks but exchange sharp words on Taiwan. 
+ <p class="updated_time"> 01:54 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Ugandan Capital Kampala Hit by Double Suicide Bombings</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
+ <p class="updated_time"> 01:23 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">'It Is a Very Large Bank'---Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
  <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
- <p class="updated_time"> 10:27 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Ugandan Capital Hit by Twin Explosions</a> WSJ: Two blasts ripped through locations in the center of Uganda’s capital during morning rush hour in a suspected terrorist attack targeting a police facility and a building complex housing commercial offices. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -84,13 +88,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
  <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The harmonious US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Steve Bannon defiant after surrendering to FBI</a> BBC: The former top Trump adviser told reporters: "This is going to be the misdemeanour from hell." 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
- <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286790?at_medium=RSS&at_campaign=KARANGA">COP26: Did India betray vulnerable nations?</a> BBC: India and China are being criticised for forcing a key part of the Glasgow climate deal to be diluted. 
  <p class="updated_time"> 06:03 PM CT, Nov. 15 </p> 
@@ -119,6 +121,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936632/with-american-journalist-danny-fenster-released-whats-next-for-u-s-and-myanmar">With American journalist Danny Fenster released, what's next for U.S. and Myanmar?</a> NPR: NPR's Ailsa Chang talks with Zachary Abuza, Southeast Asia expert and National War College professor, about the White House's options following Myanmar's release of American journalist Danny Fenster. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
+ <p class="updated_time"> 03:07 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/business/shell-britain-move.html">Shell Plans Shift to Britain, and Dropping 'Royal Dutch'</a> NYT: The restructuring is meant to make the company more appealing to investors and make it easier to sell assets, the oil giant said. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
@@ -131,12 +135,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into people's homes and killing their pets while the owners are in quarantine, prompting outrage online. 
- <p class="updated_time"> 10:23 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/arrests-made-following-car-explosion-outside-u-k-hospital-11636939092">U.K. Raises Terrorist Threat Level After Liverpool Taxi Explosion</a> WSJ: Police said investigators were working to determine whether anyone else was involved in the Sunday incident. 
  <p class="updated_time"> 10:21 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
@@ -173,6 +177,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/libya-president-qaddafi.html">Qaddafi Son to Run for President in Libya</a> NYT: Seif al-Islam el-Qaddafi, the former heir apparent of the deposed Libyan dictator Col. Muammar el-Qaddafi, filed his candidacy papers on Sunday for the election expected next month. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
@@ -193,6 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
@@ -208,6 +216,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:05 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">The big shift behind Biden's infrastructure plan</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
@@ -217,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/infrastructure-bill-climate-resilience/index.html">How Biden's infrastructure funding will help the US prepare for future climate disasters</a> CNN: Around $50 billion of President Joe Biden's infrastructure package is marked for climate resilience -- replacing roads to withstand extreme rainfall, treating forests to prevent wildfires and shoring up reservoirs that sank to new lows this year amid incredible drought. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
@@ -242,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 11:02 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">Biden's economic plan bets on blue collars, from infrastructure to child care</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 11:01 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
@@ -304,6 +312,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/climate/biden-bans-drilling-chaco-canyon.html">Biden Plans to Bar New Drilling Around Chaco Canyon in New Mexico</a> NYT: After years of tribal requests, the president plans to block new oil and gas leases within 10 miles of Chaco Canyon in New Mexico. The move generated strong pushback from industry groups. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
+ <p class="updated_time"> 04:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html">Here's what's in the bipartisan infrastructure package</a> CNN: President Joe Biden signed a $1.2 trillion infrastructure bill into law Monday, finalizing a key part of his economic agenda. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
@@ -380,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
  <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
- <p class="updated_time"> 12:00 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/january-6-jail-complaints-washington-dc/index.html">Insurrectionists' jail complaints lead to overdue reform within DC's jail system</a> CNN: A scathing report by the US Marshals Service this month uncovered the deplorable conditions inside one of the three facilities within the Washington, DC, jail, citing systemic failures like lack of water, inadequate quality of food and standing human sewage. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
