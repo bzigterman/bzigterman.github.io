@@ -212,12 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 06:05 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/ahmaud-arbery-prosecution-rests-522766">Prosecution rests in trial of men who chased Ahmaud Arbery</a> Politico: Prosecutors concluded with Dr. Edmund Donoghue, the state medical examiner. 
  <p class="updated_time"> 05:44 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
+ <p class="updated_time"> 05:39 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-infrastructure-china.html">Biden Sells Infrastructure Improvements as a Way to Counter China</a> NYT: Spending on roads, broadband internet and more will help revitalize U.S. competitiveness against its top economic adversary, the president says. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
  <p class="updated_time"> 05:12 PM CT, Nov. 16 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
- <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 06:18 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the chamber for nearly half a century. 
- <p class="updated_time"> 05:59 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
  <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
@@ -376,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
@@ -383,7 +385,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
+ <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">‘He’s nuts and he’s got a vendetta’: Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
@@ -404,10 +406,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
- <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
@@ -440,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
- <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
 
