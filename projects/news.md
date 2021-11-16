@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:34 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 02:34 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/china-biden-summit-roosevelt-room.html">Roosevelt Room, China's East Hall Hosted Biden-Xi Summit</a> NYT: Each leader took the call in a room freighted with symbolic weight, as diplomatic protocol persists even in the coronavirus era. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: China warns US about 'playing with fire' on Taiwan</a> BBC: Xi Jinping and Joe Biden hold substantial talks but exchange sharp words on Taiwan. 
- <p class="updated_time"> 02:04 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests. 
- <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
@@ -125,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
- <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
@@ -253,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for tone shift in bilateral relationship. 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
