@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
+ <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
+ <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:12 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
- <p class="updated_time"> 06:33 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Cool Down Hostilities in Virtual Meeting</a> WSJ: The White House said the U.S. and Chinese presidents discussed a variety of topics including Afghanistan, North Korea and Iran, as well as human rights, climate change and concerns over Taiwan. 
- <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
@@ -214,8 +216,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:05 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">The big shift behind Biden's infrastructure plan</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
- <p class="updated_time"> 10:44 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 09:57 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
- <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -458,8 +460,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
- <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
