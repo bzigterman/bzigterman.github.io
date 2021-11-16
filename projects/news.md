@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:16 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 10:42 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
+ <p class="updated_time"> 10:40 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59309528?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi charged with election fraud by Myanmar junta</a> BBC: The ousted leader is accused of electoral fraud, as the junta insists she is being treated well. 
  <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
  <p class="updated_time"> 10:14 AM CT, Nov. 16 </p> 
@@ -29,12 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056115953/russia-missile-satellite-astronaut-space-station-junk">A Russian missile creates enough space junk to pose risk to astronauts for years</a> NPR: The U.S. condemned the test, which blasted a cloud of debris into orbit, forcing astronauts aboard the ISS to spend two hours inside spacecraft that could return them to Earth in an emergency. 
- <p class="updated_time"> 08:48 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
- <p class="updated_time"> 08:34 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
  <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
- <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 05:13 AM CT, Nov. 16 </p> 
@@ -212,6 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
+ <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
+ <p class="updated_time"> 10:29 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/americans-abortion-roe-v-wade-poll/index.html">Majority of Americans support Roe v. Wade being upheld, new poll shows</a> CNN: A majority of Americans support the US Supreme Court upholding its landmark decision in Roe v. Wade guaranteeing a constitutional right to abortion, according to a new ABC News/Washington Post poll. 
  <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
@@ -243,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/inflation-2022-campaign-522651">Inflation emerges as a 2022 campaign dividing line</a> Politico: With voters raising concerns over soaring prices, Democrats point to Biden’s social spending agenda as the way out. 
+ <a href="https://www.politico.com/news/2021/11/16/inflation-2022-campaign-522651">Dem candidates go all-in on Biden spending as inflation angst soars</a> Politico: With voters raising concerns over soaring prices, Democrats point to Biden’s social spending agenda as the way out. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082113/bannon-threatens-vengeance-after-surrendering-on-criminal-contempt-charges">Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: NPR's Noel King speaks to former federal prosecutor Renato Mariotti about the contempt charge against former Trump adviser Steve Bannon. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
@@ -274,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
  <p class="updated_time"> 09:01 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/paul-gosar-kevin-mccarthy-talk/index.html">Kevin McCarthy says he called Paul Gosar about now-deleted tweet </a> CNN: House Minority Leader Kevin McCarthy told CNN that he called Rep. Paul Gosar last week after the Arizona Republican posted an anime video on Twitter depicting him killing Democratic Rep. Alexandria Ocasio-Cortez and swinging a sword at President Joe Biden. 
- <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-peter-meijer-impeachment-endorsement/index.html">Trump endorses primary opponent to Michigan Republican who voted for impeachment earlier this year </a> CNN: Former President Donald Trump on Monday endorsed a primary challenger running against Republican Rep. Peter Meijer of Michigan in his latest effort to oust the GOP lawmakers who voted to impeach him earlier this year. 
  <p class="updated_time"> 08:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1056025589/wyoming-gop-votes-to-stop-recognizing-cheney-as-a-republican">Wyoming GOP votes to stop recognizing Cheney as a Republican</a> NPR: The Wyoming Republican Party will no longer recognize Liz Cheney as a member of the GOP in its second formal rebuke for her criticism of former President Donald Trump. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
- <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
- <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
