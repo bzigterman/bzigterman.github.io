@@ -7,14 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:52 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 03:07 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in heavy rain. 
- <p class="updated_time"> 02:34 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/china-biden-summit-roosevelt-room.html">Roosevelt Room, China's East Hall Hosted Biden-Xi Summit</a> NYT: Each leader took the call in a room freighted with symbolic weight, as diplomatic protocol persists even in the coronavirus era. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged down in mud. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: China warns US about 'playing with fire' on Taiwan</a> BBC: Xi Jinping and Joe Biden hold substantial talks but exchange sharp words on Taiwan. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
@@ -129,6 +127,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
