@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
+ <p class="updated_time"> 10:49 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 10:42 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 10:40 AM CT, Nov. 16 </p> 
@@ -68,13 +74,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
- <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
- <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in mud. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: China warns US about 'playing with fire' on Taiwan</a> BBC: Xi Jinping and Joe Biden hold substantial talks but exchange sharp words on Taiwan. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
- <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
 
@@ -212,10 +212,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/fbi-cyberattack-reporting-bill-522699">FBI left out of the loop in cyberattack reporting bill</a> Politico: The Biden administration is "troubled" by legislation that would require companies to report cyberattacks to the Department of Homeland Security but not the FBI. 
  <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
+ <p class="updated_time"> 11:01 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
+ <p class="updated_time"> 10:58 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
+ <p class="updated_time"> 10:52 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/aduhelm-alzheimer-medicare-increase/index.html">How one new Alzheimer's drug is pushing up Medicare premiums</a> CNN: When the US Food and Drug Administration approved a costly new drug for Alzheimer's disease, Aduhelm, earlier this year, experts warned that all of Medicare's more than 63 million enrollees could wind up paying the price. 
  <p class="updated_time"> 10:29 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/americans-abortion-roe-v-wade-poll/index.html">Majority of Americans support Roe v. Wade being upheld, new poll shows</a> CNN: A majority of Americans support the US Supreme Court upholding its landmark decision in Roe v. Wade guaranteeing a constitutional right to abortion, according to a new ABC News/Washington Post poll. 
  <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
@@ -226,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 09:57 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jumaane-williams-new-york-governor-bid/index.html">Jumaane Williams announced bid for New York governor</a> CNN: New York City Public Advocate Jumaane Williams announced on Tuesday he is running for governor, joining a Democratic primary that already includes Gov. Kathy Hochul, who replaced Andrew Cuomo following his resignation this summer, and New York Attorney General Letitia James. 
- <p class="updated_time"> 09:40 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 08:14 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
@@ -256,10 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056082050/morning-news-brief">News brief: Biden-Xi summit, Steve Bannon, Cuba thwarts protests</a> NPR: President Biden and his Chinese counterpart held a virtual meeting. Ex-Trump adviser Steve Bannon threatens vengeance after surrendering on criminal contempt charges. Cuba is crushing protest plans. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055972179/michelle-wu-inaugurated-boston-mayor">Cheers and some letdown as 1st elected woman and person of color becomes Boston Mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
- <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
- <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
  <p class="updated_time"> 03:19 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/supreme-court-death-penalty.html">Supreme Court Shows Impatience in Death Penalty Cases</a> NYT: Recent rulings, including one turning down a death row inmate’s request supported by the prosecution, offer telling glimpses of the state of capital punishment. 
- <p class="updated_time"> 03:14 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-putin-russia-522515">Biden tried to push Putin aside. The Russian isn’t having it.</a> Politico: Putin’s troop buildup near Ukraine is spurring criticism that President Biden and his team aren’t tough enough on the Kremlin. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
@@ -354,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/bannon-surrenders-to-fbi-522373">Bannon surrenders to FBI</a> Politico: The longtime Trump adviser faces prosecution on contempt of Congress charges. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
@@ -374,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
- <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
- <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
- <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The selection ends the administration's lengthy search for a permanent FDA commissioner. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
