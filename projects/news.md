@@ -7,6 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
+ <p class="updated_time"> 07:24 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden and Xi Jinping hold virtual meeting</a> BBC: Mr Xi said that China was "ready to move US-China relations forward in a positive direction". 
+ <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 07:11 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday is addressing several thorny issues, including Taiwan, cybersecurity and trade. 
+ <p class="updated_time"> 06:53 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
+ <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The harmonious US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
+ <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Steve Bannon defiant after surrendering to FBI</a> BBC: The former top Trump adviser told reporters: "This is going to be the misdemeanour from hell." 
+ <p class="updated_time"> 06:26 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury retires in trial of US teen gunman Rittenhouse</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the Kyle Rittenhouse case. 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
@@ -15,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286790?at_medium=RSS&at_campaign=KARANGA">How India diluted the coal pledge at COP26</a> BBC: India and China are being criticised for forcing a key part of the Glasgow climate deal to be diluted. 
- <p class="updated_time"> 06:03 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury retires in trial of US teen gunman Rittenhouse</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the Kyle Rittenhouse case. 
  <p class="updated_time"> 06:03 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59294013?at_medium=RSS&at_campaign=KARANGA">Rod Stewart reveals why he didn't play Live Aid</a> BBC: The star clears up his absence from the charity gig, and insists he doesn't style his hair with mayo. 
  <p class="updated_time"> 06:02 PM CT, Nov. 15 </p> 
@@ -27,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
  <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
- <p class="updated_time"> 05:49 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests. 
  <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
@@ -63,8 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 02:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
- <p class="updated_time"> 01:57 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
+ <p class="updated_time"> 02:16 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Hold Talks, Aiming to Ease Tension and Build on Cooperation</a> WSJ: The president began a virtual meeting with his Chinese counterpart, as both leaders seek to work through areas of disagreement and ease hostilities between the two largest economies. 
  <p class="updated_time"> 01:05 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59298320?at_medium=RSS&at_campaign=KARANGA">Sandy Hook: Alex Jones liable in defamation lawsuit</a> BBC: The radio host spread false claims that the 2012 school shooting had been faked to push gun control. 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
@@ -85,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen jailed over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
  <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
- <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster has been "pardoned" just days after getting an 11-year sentence, and is flying home. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into people's homes and killing their pets while the owners are in quarantine, prompting outrage online. 
  <p class="updated_time"> 10:23 AM CT, Nov. 15 </p> 
@@ -97,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">Two Journalists in India Arrested as Media Crackdown Continues</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
- <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi to meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 09:57 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-59253057?at_medium=RSS&at_campaign=KARANGA">Tamara Ecclestone burglary: Italian gang jailed for £26m celebrity raids</a> BBC: The homes of Frank Lampard and Tamara Ecclestone were among those targeted by the thieves. 
  <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
@@ -141,16 +149,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">A watered-down COP26 deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
- <p class="updated_time"> 11:00 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Teams Set Modest Hopes for Bilateral Talks</a> WSJ: With no concrete outcomes expected from their virtual meeting on Monday evening, the U.S. and China aim to build on signs of easing hostility between the two nations. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
- <p class="updated_time"> 06:05 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday will address several thorny issues, including Taiwan, cybersecurity and trade. 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
@@ -222,10 +226,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:23 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and Xi begin 'candid and direct' virtual meeting</a> Politico: The much-anticipated encounter aims to reduce bilateral tensions. 
+ <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
+ <p class="updated_time"> 07:19 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
- <p class="updated_time"> 06:23 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
+ <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 06:37 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
+ <p class="updated_time"> 06:34 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 06:23 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/alex-jones-sandy-hook-liable-defamation-522636">Alex Jones liable for defamation in Sandy Hook ‘hoax’ case</a> Politico: He claimed that the school massacre didn’t actually happen. 
  <p class="updated_time"> 06:18 PM CT, Nov. 15 </p> 
@@ -265,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
  <p class="updated_time"> 04:03 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055841358/biden-signs-1t-bipartisan-infrastructure-bill-into-law">Biden signs the $1 trillion bipartisan infrastructure bill into law</a> NPR: Biden said the measure was "a monumental step forward" and praised the bipartisanship work to craft and pass the bill. But Republicans who supported the measure continue to face blowback. 
+ <a href="https://www.npr.org/2021/11/15/1055841358/biden-signs-1t-bipartisan-infrastructure-bill-into-law">Biden signs the $1 trillion bipartisan infrastructure bill into law</a> NPR: President Biden praised the bipartisanship work to craft and pass the bill. But Republicans who supported the measure continue to face blowback. 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
  <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
@@ -308,24 +322,18 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
- <p class="updated_time"> 10:39 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/bannon-surrenders-to-fbi-522373">Bannon surrenders to FBI</a> Politico: The longtime Trump adviser faces prosecution on contempt of Congress charges. 
  <p class="updated_time"> 10:29 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon has turned himself in on criminal contempt charges</a> NPR: Former President Donald Trump's onetime top adviser surrendered to federal authorities Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
+ <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: Former President Donald Trump's onetime top adviser surrendered to federal authorities Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055791697/vermont-sen-patrick-leahy-wont-seek-reelection-next-year">Vermont Sen. Patrick Leahy won't seek reelection next year</a> NPR: Leahy, 81, is the longest-serving member of the U.S. Senate. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 10:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832971/steve-bannon-turns-himself-in-to-face-criminal-contempt-charges">Steve Bannon turns himself in to face criminal contempt charges</a> NPR: Former Trump adviser Steve Bannon has turned himself in at the FBI field office in Washington. He faces charges of contempt of Congress. 
- <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi to meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
- <p class="updated_time"> 09:52 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
@@ -357,7 +365,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1053917252/infrastructure-bill-broadband-internet-rural-college-students">Students are still struggling to get internet. The infrastructure bill could help</a> NPR: President Biden's infrastructure bill includes $65 billion for improving broadband. That money could make a big difference for rural college students, who are especially disconnected. 
+ <a href="https://www.npr.org/2021/11/15/1053917252/infrastructure-bill-broadband-internet-rural-college-students">Students are still struggling to get internet. The infrastructure law could help</a> NPR: President Biden's infrastructure package includes $65 billion for improving broadband. That money could make a big difference for rural college students, who are especially disconnected. 
  <p class="updated_time"> 11:06 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
  <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
@@ -394,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
