@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 05:18 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
- <p class="updated_time"> 05:07 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 04:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 04:39 AM CT, Nov. 16 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/libya-president-qaddafi.html">Qaddafi Son to Run for President in Libya</a> NYT: Seif al-Islam el-Qaddafi, the former heir apparent of the deposed Libyan dictator Col. Muammar el-Qaddafi, filed his candidacy papers on Sunday for the election expected next month. 
- <p class="updated_time"> 11:13 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
@@ -209,7 +207,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 05:18 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
@@ -219,11 +217,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/inflation-2022-campaign-522651">Inflation emerges as a 2022 campaign dividing line</a> Politico: With voters raising concerns over soaring prices, Democrats point to Biden’s social spending agenda as the way out. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055972179/michelle-wu-inaugurated-boston-mayor">Cheers and some letdown as 1st elected woman and person of color becomes Boston Mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
- <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082113/bannon-threatens-vengeance-after-surrendering-on-criminal-contempt-charges">Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: NPR's Noel King speaks to former federal prosecutor Renato Mariotti about the contempt charge against former Trump adviser Steve Bannon. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082050/morning-news-brief">News brief: Biden-Xi summit, Steve Bannon, Cuba thwarts protests</a> NPR: President Biden and his Chinese counterpart held a virtual meeting. Ex-Trump adviser Steve Bannon threatens vengeance after surrendering on criminal contempt charges. Cuba is crushing protest plans. 
+ <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1055972179/michelle-wu-inaugurated-boston-mayor">Cheers and some letdown as 1st elected woman and person of color becomes Boston Mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
