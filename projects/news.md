@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 02:52 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
+ <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in heavy rain. 
  <p class="updated_time"> 02:34 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-biden-summit-roosevelt-room.html">Roosevelt Room, China's East Hall Hosted Biden-Xi Summit</a> NYT: Each leader took the call in a room freighted with symbolic weight, as diplomatic protocol persists even in the coronavirus era. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
- <p class="updated_time"> 01:16 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
@@ -71,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October to protest against police brutality. 
+ <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
- <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 02:13 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
