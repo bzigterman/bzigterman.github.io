@@ -7,10 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
+ <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
+ <p class="updated_time"> 11:09 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 11:06 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
+ <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
+ <p class="updated_time"> 11:03 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
+ <p class="updated_time"> 10:51 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. 
  <p class="updated_time"> 10:49 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 10:42 AM CT, Nov. 16 </p> 
@@ -23,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59309528?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi charged with election fraud by Myanmar junta</a> BBC: The ousted leader is accused of electoral fraud, as the junta insists she is being treated well. 
  <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
- <p class="updated_time"> 10:14 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
@@ -35,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. Spies Look To The Future, One Target Stands Out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
- <p class="updated_time"> 09:14 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
@@ -45,22 +57,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
- <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
- <p class="updated_time"> 08:06 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 07:58 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/germany-gas-pipeline.html">Germany Suspends Approval of Gas Pipeline, Sending Prices Soaring</a> NYT: The decision to delay certification of the Russia-to-Germany gas pipeline comes amid rising political tensions between the West and Russia. 
  <p class="updated_time"> 07:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 07:26 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
- <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
+ <p class="updated_time"> 06:14 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
@@ -83,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
- <p class="updated_time"> 01:23 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
@@ -141,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/business/shell-britain-move.html">Shell Plans Shift to Britain, and Dropping 'Royal Dutch'</a> NYT: The restructuring is meant to make the company more appealing to investors and make it easier to sell assets, the oil giant said. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
- <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
  <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into people's homes and killing their pets while the owners are in quarantine, prompting outrage online. 
- <p class="updated_time"> 10:21 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
- <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
 
@@ -218,6 +218,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Ping-pong balls to determine court venue for challenges to Biden's vaccine mandate</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 11:05 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden to sell his new infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
  <p class="updated_time"> 11:01 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 10:58 AM CT, Nov. 16 </p> 
@@ -240,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:05 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">The big shift behind Biden's infrastructure plan</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
- <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
- <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
