@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:26 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for nearly four hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
+ <p class="updated_time"> 11:17 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
  <p class="updated_time"> 10:55 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders conclude first virtual summit, says state media</a> BBC: A highly anticipated meeting in which issues like Taiwan were expected to be discussed has now ended. 
  <p class="updated_time"> 10:53 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
- <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for nearly four hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
- <p class="updated_time"> 10:40 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
  <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
- <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59286790?at_medium=RSS&at_campaign=KARANGA">Did India betray climate vulnerable nations?</a> BBC: India and China are being criticised for forcing a key part of the Glasgow climate deal to be diluted. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59286790?at_medium=RSS&at_campaign=KARANGA">COP26: Did India betray vulnerable nations?</a> BBC: India and China are being criticised for forcing a key part of the Glasgow climate deal to be diluted. 
  <p class="updated_time"> 06:03 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59294013?at_medium=RSS&at_campaign=KARANGA">Rod Stewart reveals why he didn't play Live Aid</a> BBC: The star clears up his absence from the charity gig, and insists he doesn't style his hair with mayo. 
  <p class="updated_time"> 06:02 PM CT, Nov. 15 </p> 
@@ -218,14 +218,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
+ <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Analysis: Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 10:44 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Chris Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
- <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 10:28 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
  <p class="updated_time"> 09:57 PM CT, Nov. 15 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: Biden planned to raise human rights, economics and a "free and fair" Indo-Pacific. 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: In the opening minutes, Biden warned of the hazards of unchecked bilateral competition. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
