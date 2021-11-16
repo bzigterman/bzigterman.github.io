@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:03 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Nord Stream 2 has been beset by delays and criticised by many of Germany's allies. 
+ <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
+ <p class="updated_time"> 06:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:51 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
- <p class="updated_time"> 05:33 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Explosions hit Ugandan capital</a> BBC: At least six people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 05:28 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
