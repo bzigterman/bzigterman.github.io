@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 02:11 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Melee Erupts Between Migrants in Belarus and Polish Border Forces</a> NYT: Poland used water cannons to drive back migrants who tried to rush the border. Belarus forces took some migrants to shelter for the first time, but it was unclear if that meant tensions would ease. 
  <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
  <p class="updated_time"> 10:49 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
- <p class="updated_time"> 10:40 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
  <p class="updated_time"> 10:24 AM CT, Nov. 16 </p> 
@@ -67,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59169899?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test poses no threat - Moscow</a> BBC: The US earlier said Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
+ <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Claims Deadly Bombings in Ugandan Capital</a> WSJ: Suicide bombers set off two powerful explosions in the center of Uganda’s capital during rush hour in an attack later claimed by Islamic State. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
  <p class="updated_time"> 07:58 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/germany-gas-pipeline.html">Germany Suspends Approval of Gas Pipeline, Sending Prices Soaring</a> NYT: The decision to delay certification of the Russia-to-Germany gas pipeline comes amid rising political tensions between the West and Russia. 
- <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -214,10 +214,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:08 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/pfizer-emergency-use-fda-covid-pill-522726">Pfizer seeks emergency use authorization for Covid-19 antiviral pill</a> Politico: The pill, called Paxlovid, was slightly less effective when given up to five days after patients presented symptoms, Pfizer said. 
  <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-biden-winter-olympics-diplomacy-522711">Lawmakers pressure Biden to bar U.S. officials from attending Beijing Olympics</a> Politico: The president is reportedly considering a diplomatic boycott of the Winter Games. 
- <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
+ <p class="updated_time"> 02:28 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
+ <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/fenster-richardson-release-myanmar/index.html">Danny Fenster arrives in US 'with so much gratitude' after release from Myanmar prison </a> CNN: American journalist Danny Fenster arrived in the United States on Tuesday after almost six months in a Myanmar prison and expressed thanks to everyone involved in securing his release. 
  <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 02:18 PM CT, Nov. 16 </p> 
@@ -278,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056082057/in-an-attempt-to-ease-tensions-biden-and-chinas-xi-meet-virtually">In an attempt to ease tensions, Biden and China's Xi meet virtually</a> NPR: President Biden held a virtual summit with his Chinese counterpart Xi Jinping to go over some of the thorniest issues between the two countries. They gave no hint of Trump-era tariffs being dropped. 
  <p class="updated_time"> 06:15 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
- <p class="updated_time"> 06:00 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/infrastructure-bill-climate-resilience/index.html">How Biden's infrastructure funding will help the US prepare for future climate disasters</a> CNN: Around $50 billion of President Joe Biden's infrastructure package is marked for climate resilience -- replacing roads to withstand extreme rainfall, treating forests to prevent wildfires and shoring up reservoirs that sank to new lows this year amid incredible drought. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
