@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:35 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 10:16 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
+ <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
+ <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <p class="updated_time"> 10:01 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59169899?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test poses no threat - Moscow</a> BBC: The US earlier said Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 09:28 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
@@ -19,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056115953/russia-missile-satellite-astronaut-space-station-junk">A Russian missile creates enough space junk to pose risk to astronauts for years</a> NPR: The U.S. condemned the test, which blasted a cloud of debris into orbit, forcing astronauts aboard the ISS to spend two hours inside spacecraft that could return them to Earth in an emergency. 
- <p class="updated_time"> 08:56 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenia loses positions in deadly border clash</a> BBC: A number of troops are killed and captured in a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 08:48 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
@@ -47,12 +55,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
- <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
+ <p class="updated_time"> 05:13 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -65,14 +73,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
- <p class="updated_time"> 03:17 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/sport/formula1/59298238?at_medium=RSS&at_campaign=KARANGA">Formula 1: Guanyu Zhou becomes first Chinese driver after signing for Alfa Romeo</a> BBC: Guanyu Zhou becomes Formula 1's first Chinese driver after signing to race for Alfa Romeo in 2022. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in mud. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: China warns US about 'playing with fire' on Taiwan</a> BBC: Xi Jinping and Joe Biden hold substantial talks but exchange sharp words on Taiwan. 
- <p class="updated_time"> 01:54 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Ugandan Capital Kampala Hit by Double Suicide Bombings</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
@@ -89,10 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
- <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
- <p class="updated_time"> 09:35 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test draws condemnation</a> BBC: The US says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
@@ -105,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
  <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
- <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Steve Bannon defiant after surrendering to FBI</a> BBC: The former top Trump adviser told reporters: "This is going to be the misdemeanour from hell." 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
@@ -214,14 +212,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <p class="updated_time"> 09:57 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/jumaane-williams-new-york-governor-bid/index.html">Jumaane Williams announced bid for New York governor</a> CNN: New York City Public Advocate Jumaane Williams announced on Tuesday he is running for governor, joining a Democratic primary that already includes Gov. Kathy Hochul, who replaced Andrew Cuomo following his resignation this summer, and New York Attorney General Letitia James. 
  <p class="updated_time"> 09:40 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 08:14 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
- <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:16 AM CT, Nov. 16 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
  <p class="updated_time"> 06:00 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/infrastructure-bill-climate-resilience/index.html">How Biden's infrastructure funding will help the US prepare for future climate disasters</a> CNN: Around $50 billion of President Joe Biden's infrastructure package is marked for climate resilience -- replacing roads to withstand extreme rainfall, treating forests to prevent wildfires and shoring up reservoirs that sank to new lows this year amid incredible drought. 
- <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
@@ -266,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
- <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:31 PM CT, Nov. 15 </p> 
@@ -340,12 +338,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/biden-putin-russia-522515">Biden tried to push Putin aside. The Russian isn’t having it.</a> Politico: Putin’s troop buildup near Ukraine is spurring criticism that President Biden and his team aren’t tough enough on the Kremlin. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
- <p class="updated_time"> 02:38 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
+ <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
@@ -358,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
- <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
@@ -378,6 +374,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
+ <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
@@ -392,14 +390,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
- <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
