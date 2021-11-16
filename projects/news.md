@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. Spies Look To The Future, One Target Stands Out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
  <p class="updated_time"> 09:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
- <p class="updated_time"> 09:07 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
- <p class="updated_time"> 08:10 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 08:06 AM CT, Nov. 16 </p> 
@@ -76,7 +78,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 01:23 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">'It Is a Very Large Bank'---Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
+ <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into people's homes and killing their pets while the owners are in quarantine, prompting outrage online. 
  <p class="updated_time"> 10:21 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
- <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59278509?at_medium=RSS&at_campaign=KARANGA">COP26: 'Paris built the arena, Glasgow starts the race' - Kerry</a> BBC: US climate envoy, John Kerry, says "we raised ambition here in Glasgow, this was not business as usual". 
  <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
- <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
@@ -276,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
- <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
  <p class="updated_time"> 09:01 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/paul-gosar-kevin-mccarthy-talk/index.html">Kevin McCarthy says he called Paul Gosar about now-deleted tweet </a> CNN: House Minority Leader Kevin McCarthy told CNN that he called Rep. Paul Gosar last week after the Arizona Republican posted an anime video on Twitter depicting him killing Democratic Rep. Alexandria Ocasio-Cortez and swinging a sword at President Joe Biden. 
  <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
