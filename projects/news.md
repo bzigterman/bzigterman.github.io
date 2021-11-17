@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 05:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/libyan-warlord-announces-presidential-bid-11637079780">Libyan Militia Leader Says He Will Run for President</a> WSJ: Khalifa Haftar registered his candidacy in his military stronghold of Benghazi where his militia forces control a swath of eastern Libya. His 14-month offensive to oust the internationally-recognized government in Tripoli ended in a United Nations-brokered truce last year. 
  <p class="updated_time"> 05:15 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334">Iran Resumes Production of Nuclear-Program Parts, Diplomats Say</a> WSJ: The resumption at a site the U.N.’s atomic energy agency has been unable to monitor or gain access to for months presents a new challenge for the Biden administration as it prepares for nuclear talks. 
- <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 04:34 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-moves-to-bolster-asia-trade-ties-in-bid-to-counter-chinas-influence-11637076879">U.S. Moves to Bolster Asia Trade Ties in Bid to Counter China's Influence</a> WSJ: Trade Representative Katherine Tai and Commerce Secretary Gina Raimondo are set to discuss economic issues in countries including Japan, South Korea and India. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -181,24 +183,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936667/cuban-government-vowed-to-prevent-todays-planned-march">Cuban government vowed to prevent today's planned march</a> NPR: In Cuba, opponents of the government urged citizens to put on white shirts and march in the streets.  The government denied permits for the protest. Activists now face detentions and intimidation. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
- <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
- <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
- <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
- <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
- <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/libya-president-qaddafi.html">Qaddafi Son to Run for President in Libya</a> NYT: Seif al-Islam el-Qaddafi, the former heir apparent of the deposed Libyan dictator Col. Muammar el-Qaddafi, filed his candidacy papers on Sunday for the election expected next month. 
- <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
 
 
 </details>
@@ -206,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/17/mccarthys-latest-crazy-town-headache-495132">POLITICO Playbook: McCarthy’s latest crazy-town headache</a> Politico: And new polling shows fresh voter concern about Biden’s acuity. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gop-graves-cop26-pact-522755">Will the GOP go along with the COP26 pact?</a> Politico: Meeting Biden’s climate target will likely need the support of both parties. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
