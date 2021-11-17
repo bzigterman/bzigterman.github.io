@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59328040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges</a> BBC: A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins. 
  <p class="updated_time"> 04:55 PM CT, Nov. 17 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253091?at_medium=RSS&at_campaign=KARANGA">US annual drug overdose deaths hit record levels</a> BBC: Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise. 
  <p class="updated_time"> 11:09 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/china-u-s-to-ease-limits-on-one-anothers-journalists-11637186985">China, U.S. to Ease Limits on One Another's Journalists</a> WSJ: Beijing ejected U.S. reporters from The Wall Street Journal, other newspapers in 2020; the Trump administration limited China outlets’ personnel. 
- <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
  <p class="updated_time"> 11:06 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253090?at_medium=RSS&at_campaign=KARANGA">Capitol riot: 'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison</a> BBC: Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol. 
  <p class="updated_time"> 10:25 AM CT, Nov. 17 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/psaki-says-harris-faces-more-criticism-because-she-is-a-woman-and-woman-of-color-522853">Psaki says Harris faces more criticism because she is a woman and woman of color</a> Politico: The White House press secretary defended the vice president during POLITICO’s inaugural Women Rule Exchange. 
+ <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Democrats weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Visions of a U.S. Computer Chip Boom Have Cities Hustling</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
+ <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
- <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056225488/self-styled-qanon-shaman-is-sentenced-to-41-months-in-capitol-riot">Self-styled 'QAnon shaman' is sentenced to 41 months in Capitol riot</a> NPR: Jacob Chansley, who had pleaded guilty to obstruction, apologized and called his high-profile actions on Jan. 6 "indefensible." 
  <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
