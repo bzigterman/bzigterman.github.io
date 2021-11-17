@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
- <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
+ <p class="updated_time"> 12:56 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 12:54 PM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
+ <p class="updated_time"> 12:53 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
  <p class="updated_time"> 12:21 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
- <p class="updated_time"> 12:18 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:01 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253091?at_medium=RSS&at_campaign=KARANGA">US annual drug overdose deaths hit record levels</a> BBC: Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise. 
  <p class="updated_time"> 11:17 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: Minister says there is 'no doubt' it is linked to climate change</a> BBC: Mike Farnworth says he has "no doubt these are climate-related events", as at least one person dies. 
- <p class="updated_time"> 11:11 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
  <p class="updated_time"> 11:06 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253090?at_medium=RSS&at_campaign=KARANGA">Capitol riot: 'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison</a> BBC: Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol. 
  <p class="updated_time"> 10:25 AM CT, Nov. 17 </p> 
@@ -198,12 +198,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">Report: 2 men to be cleared in 1965 killing of Malcolm X</a> Politico: The New York Times reported Wednesday that Muhammad Aziz and the late Khalil Islam, who spent decades in prison for the crime, were being exonerated after a nearly two-year legal investigation. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">China bill throws a wrench in Senate's defense policy push</a> Politico: Majority Leader Chuck Schumer delayed advancing the National Defense Authorization Act on Wednesday morning amid disagreements on the Senate's China competition bill. 
  <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">White House Estimates Nearly 10 Percent of Younger Children Got One Dose</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/vaccine-dose-kids-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 12:38 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Brannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
