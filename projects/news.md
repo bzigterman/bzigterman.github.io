@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:47 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
+ <p class="updated_time"> 10:45 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 10:34 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59315452?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man wrongly identified as abduction suspect sues TV station</a> BBC: An Australian channel used Facebook pictures of the wrong man when reporting about Cleo Smith's rescue. 
- <p class="updated_time"> 10:17 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
+ <p class="updated_time"> 10:22 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59258910?at_medium=RSS&at_campaign=KARANGA">Delhi smog: Schools and colleges shut as pollution worsens</a> BBC: The decision was announced after several parts of the city recorded severe air quality. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59315209?at_medium=RSS&at_campaign=KARANGA">Supply chain crisis: Japan's export growth slows as car production slides</a> BBC: Shipments of cars fell sharply as the global computer chip shortage has impacted the motor industry. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
- <p class="updated_time"> 04:26 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Melee Erupts Between Migrants in Belarus and Polish Border Forces</a> NYT: Poland used water cannons to drive back migrants who tried to rush the border. Belarus forces took some migrants to shelter for the first time, but it was unclear if that meant tensions would ease. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
@@ -105,10 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
  <p class="updated_time"> 10:36 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
- <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
- <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
  <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
