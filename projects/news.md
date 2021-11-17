@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:11 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
+ <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59322526?at_medium=RSS&at_campaign=KARANGA">Britney Spears discusses life after conservatorship</a> BBC: Britney Spears says she is enjoying new found freedoms, and thanks her fans. 
+ <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
+ <p class="updated_time"> 07:27 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 07:22 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
  <p class="updated_time"> 07:08 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 06:53 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
- <p class="updated_time"> 06:19 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
  <p class="updated_time"> 06:05 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59296288?at_medium=RSS&at_campaign=KARANGA">Ding Ding! Crazy Frog to make a comeback in December</a> BBC: The infuriatingly infectious amphibian topped the charts around the world in 2005 with Axel F. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
- <p class="updated_time"> 03:49 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
  <p class="updated_time"> 03:42 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313778?at_medium=RSS&at_campaign=KARANGA">Life after deportation: 'Living the Mexican dream'</a> BBC: The experience of being sent back to Mexico can be a daunting one, though it can also have an upside. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
- <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59309907?at_medium=RSS&at_campaign=KARANGA">Postpartum depression: A deaf mum's story.</a> BBC: Catherine, a single parent who is also deaf, struggled with postpartum depression. 
  <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59312656?at_medium=RSS&at_campaign=KARANGA">Afghan judges in UK fear for colleagues left behind</a> BBC: The BBC has spoken to female judges who have just arrived in the UK as part of a rescue mission. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
@@ -229,13 +231,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397095/morning-news-brief">News brief: Pfizer booster, Democrats promote Biden's plans, Blinken's Africa trip</a> NPR: All vaccinated adults could soon be eligible for a Pfizer COVID-19 booster. Democrats begin a nationwide drive to try to sell President Biden's agenda. Secretary of State Antony Blinken is in Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
- <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/11/17/1056276890/surprise-medical-bills-doctors-congress">Biden's plan to stop surprise medical bills faces bipartisan pushback in Congress</a> NPR: Congress passed a law last year to shield patients from surprise out-of-network medical charges. But many doctors in the House now say the way the law is to be implemented unfairly favors insurers. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
@@ -438,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
