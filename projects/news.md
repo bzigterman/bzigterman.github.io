@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
+ <p class="updated_time"> 01:37 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59258910?at_medium=RSS&at_campaign=KARANGA">Delhi smog: Schools and colleges shut as pollution worsens</a> BBC: The decision was announced after several parts of the city recorded severe air quality. 
+ <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <p class="updated_time"> 01:27 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59315374?at_medium=RSS&at_campaign=KARANGA">Naomi Osaka voices concern over Chinese tennis star Peng Shuai</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official. 
  <p class="updated_time"> 01:24 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
  <p class="updated_time"> 11:55 PM CT, Nov. 16 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 10:34 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59315452?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man wrongly identified as abduction suspect sues TV station</a> BBC: An Australian channel used Facebook pictures of the wrong man when reporting about Cleo Smith's rescue. 
- <p class="updated_time"> 10:22 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59258910?at_medium=RSS&at_campaign=KARANGA">Delhi smog: Schools and colleges shut as pollution worsens</a> BBC: The decision was announced after several parts of the city recorded severe air quality. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59315209?at_medium=RSS&at_campaign=KARANGA">Supply chain crisis: Japan's export growth slows as car production slides</a> BBC: Shipments of cars fell sharply as the global computer chip shortage has impacted the motor industry. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59315168?at_medium=RSS&at_campaign=KARANGA">New York allows revellers at New Year's Eve celebrations</a> BBC: People who are vaccinated will be allowed into Times Square with proof of vaccination. 
- <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 PM CT, Nov. 16 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
  <p class="updated_time"> 06:28 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
- <p class="updated_time"> 06:27 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 06:13 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 06:12 PM CT, Nov. 16 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263575/gazans-are-still-coping-with-the-trauma-of-the-war-with-israel-in-may">Gazans are still coping with the trauma of the war with Israel in May</a> NPR: When a rocket hit their building during the war between Hamas and Israel, a Gaza therapist calmed his family with breathing exercises — one way parents there have dealt with their children's trauma. 
  <p class="updated_time"> 02:48 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
- <p class="updated_time"> 02:30 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
@@ -118,15 +118,13 @@ permalink: /projects/news/
  <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Claims Deadly Bombings in Ugandan Capital</a> WSJ: Suicide bombers set off two powerful explosions in the center of Uganda’s capital during rush hour in an attack later claimed by Islamic State. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">BBC witnesses scenes of chaos on Poland border</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056115953/russia-missile-satellite-astronaut-space-station-junk">A Russian missile creates enough space junk to pose risk to astronauts for years</a> NPR: The U.S. condemned the test, which blasted a cloud of debris into orbit, forcing astronauts aboard the ISS to spend two hours inside spacecraft that could return them to Earth in an emergency. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
- <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/belarus-migrant-crisis-exposes-tensions-within-european-union-11637083429">Belarus Migrant Crisis Exposes Tensions Within European Union</a> WSJ: German Chancellor Angela Merkel’s call to Belarus leader Alexander Lukashenko causes fear among East Europe nations about being sidelined in standoff with Russian ally. 
  <p class="updated_time"> 05:23 AM CT, Nov. 16 </p> 
@@ -163,6 +161,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
+ <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
