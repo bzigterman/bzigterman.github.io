@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59308958?at_medium=RSS&at_campaign=KARANGA">Climate change: What did the scientists make of COP26?</a> BBC: Scientists applaud some COP26 policies but fear measures don't go far enough and won’t be delivered. 
  <p class="updated_time"> 06:07 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59251912?at_medium=RSS&at_campaign=KARANGA">COP26: The truth behind the new climate change denial</a> BBC: The claims that went viral in the lead-up to the COP climate summit – and what you need to know about them. 
+ <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59313778?at_medium=RSS&at_campaign=KARANGA">Life after deportation: 'Living the Mexican dream'</a> BBC: The experience of being sent back to Mexico can be a daunting one, though it can also have an upside. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
  <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
- <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
