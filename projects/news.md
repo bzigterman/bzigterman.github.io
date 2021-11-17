@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:21 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 02:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 02:19 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:43 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
+ <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 02:32 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
  <p class="updated_time"> 01:52 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">Catholic bishops approve document that falls short of denying communion to Biden or other politicians who support abortion rights</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
- <p class="updated_time"> 01:46 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 01:30 PM CT, Nov. 17 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:30 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republican-retaliation-gosar-censure-clyburn-cnntv/index.html">Clyburn on GOP threats of retaliation for Gosar censure vote: 'They're free to do that'</a> CNN: House Majority Whip Jim Clyburn dismissed GOP threats of retaliation in response to Democrats' censure resolution against Rep. Paul Gosar of Arizona, saying Republicans are "free to do that" if they win back control of the House in next year's midterms. 
- <p class="updated_time"> 12:09 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 12:05 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kemp-perdue-trump-georgia-governor/index.html">Trump's thirst for revenge is causing chaos in the Georgia governor's race</a> CNN: A simmering war within the Georgia Republican Party is about -- what else? -- Donald Trump. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
