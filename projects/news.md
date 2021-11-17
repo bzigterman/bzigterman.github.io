@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 09:24 PM CT, Nov. 16 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/deliberations-rittenhouse-jury-verdict-522773">No verdict after daylong deliberations by Rittenhouse jury</a> Politico: The 18-year-old faces life in prison if convicted as charged. 
  <p class="updated_time"> 07:17 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
- <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/kristina-karamo-michigan-secretary-of-state-candidate/index.html">Trump-backed Michigan secretary of state candidate spread false election claims and January 6 conspiracy theories</a> CNN: Kristina Karamo -- the candidate Donald Trump is backing to be Michigan's next secretary of state -- has falsely claimed the former President was the true victor in Michigan in 2020 and has spread the conspiracy theory that left-wing anarchists were behind the January 6 attack on the Capitol. 
  <p class="updated_time"> 07:12 PM CT, Nov. 16 </p> 
