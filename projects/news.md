@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 09:40 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 09:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
+ <p class="updated_time"> 08:36 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59317168?at_medium=RSS&at_campaign=KARANGA">Waterspout: Tornado-like funnels form off coast of Sicilian city of Licata</a> BBC: Residents of Licata share footage of multiple waterspouts, as southern Sicily reports severe weather. 
  <p class="updated_time"> 08:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 08:18 AM CT, Nov. 17 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
- <p class="updated_time"> 11:59 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59313349?at_medium=RSS&at_campaign=KARANGA">Ollie the comfort dog makes getting jabbed a little easier for California children</a> BBC: Ollie the Goldendoodle is helping California children overcome their fear of getting a Covid jab. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
@@ -198,14 +198,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
+ <p class="updated_time"> 09:43 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
- <p class="updated_time"> 09:28 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 09:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/us-iran-hackers-warning/index.html">US warns that Iranian government-sponsored hackers are targeting key US infrastructure</a> CNN: Iranian government-sponsored hackers are actively targeting a "broad range of victims" across the US transportation and health care sectors, and in some cases are deploying ransomware against those victims, US federal agencies and their counterparts from the United Kingdom and Australia warned on Wednesday. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
  <p class="updated_time"> 08:59 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden administration seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
+ <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 08:55 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
@@ -256,10 +262,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
- <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 11:32 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">2022 election: The GOP is engineering a majority with new maps</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
+ <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">Analysis: The GOP is engineering a majority with new maps ahead of the 2022 elections</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
  <p class="updated_time"> 09:24 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/marjorie-taylor-greene-vaccination-status/index.html">Rep. Marjorie Taylor Greene says she hasn't received a Covid-19 vaccine</a> CNN: Rep. Marjorie Taylor Greene, who has publicly cast doubt on and spread misinformation about the efficacy of Covid-19 vaccines, revealed Tuesday that she has not been inoculated against the virus, answering a question she has dodged for months. 
  <p class="updated_time"> 09:11 PM CT, Nov. 16 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
  <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
- <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:47 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html">Here's what's in the bipartisan infrastructure package</a> CNN: President Joe Biden signed a $1.2 trillion infrastructure bill into law Monday, finalizing a key part of his economic agenda. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
