@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59316602?at_medium=RSS&at_campaign=KARANGA">Britney Spears grateful for 'little things' in life after conservatorship</a> BBC: The singer says having "little things" like car keys and a bank card back makes "a huge difference". 
  <p class="updated_time"> 04:19 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59317919?at_medium=RSS&at_campaign=KARANGA">Pike River: Bodies spotted 11 years after New Zealand mine disaster</a> BBC: Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives. 
  <p class="updated_time"> 04:15 AM CT, Nov. 17 </p> 
@@ -122,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Claims Deadly Bombings in Ugandan Capital</a> WSJ: Suicide bombers set off two powerful explosions in the center of Uganda’s capital during rush hour in an attack later claimed by Islamic State. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">BBC witnesses scenes of chaos on Poland border</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056115953/russia-missile-satellite-astronaut-space-station-junk">A Russian missile creates enough space junk to pose risk to astronauts for years</a> NPR: The U.S. condemned the test, which blasted a cloud of debris into orbit, forcing astronauts aboard the ISS to spend two hours inside spacecraft that could return them to Earth in an emergency. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
- <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
@@ -208,10 +208,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/gas-prices-biden-inflation-522777">Pain at the pump drives Biden’s suffering in the polls</a> Politico: Consumer sentiment has plunged in recent weeks as inflation climbed to the highest levels in more than a generation. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema strikes back</a> Politico: The normally silent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">‘A dent in the machine‘: An old-guard political operation fights to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
@@ -244,10 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 07:47 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/judge-trump-taxes-522774">Judge questions why Justice reversed course on Trump taxes</a> Politico: The Trump appointee is considering a drive by the former president to block Congress from seeing his returns. 
- <p class="updated_time"> 07:45 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/judge-schroeder-kyle-rittenhouse-trial-522772">Judge shares the spotlight in Kyle Rittenhouse trial</a> Politico: Judge Bruce Schroeder’s mannerisms and decisions are getting a lot of attention in the high-profile homicide case in Wisconsin. 
- <p class="updated_time"> 07:37 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/deliberations-rittenhouse-jury-verdict-522773">No verdict after daylong deliberations by Rittenhouse jury</a> Politico: The 18-year-old faces life in prison if convicted as charged. 
  <p class="updated_time"> 07:17 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
@@ -310,12 +312,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 03:08 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/pfizer-emergency-use-fda-covid-pill-522726">Pfizer seeks emergency use authorization for Covid-19 antiviral pill</a> Politico: The pill, called Paxlovid, was slightly less effective when given up to five days after patients presented symptoms, Pfizer said. 
- <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/congress-biden-winter-olympics-diplomacy-522711">Lawmakers pressure Biden to bar U.S. officials from attending Beijing Olympics</a> Politico: The president is reportedly considering a diplomatic boycott of the Winter Games. 
  <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/fenster-richardson-release-myanmar/index.html">Danny Fenster arrives in US 'with so much gratitude' after release from Myanmar prison </a> CNN: American journalist Danny Fenster arrived in the United States on Tuesday after almost six months in a Myanmar prison and expressed thanks to everyone involved in securing his release. 
- <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he seeks to keep his White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
  <p class="updated_time"> 01:37 PM CT, Nov. 16 </p> 
@@ -340,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082057/in-an-attempt-to-ease-tensions-biden-and-chinas-xi-meet-virtually">In an attempt to ease tensions, Biden and China's Xi meet virtually</a> NPR: President Biden held a virtual summit with his Chinese counterpart Xi Jinping to go over some of the thorniest issues between the two countries. They gave no hint of Trump-era tariffs being dropped. 
- <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
@@ -412,8 +408,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
+ <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
+ <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
