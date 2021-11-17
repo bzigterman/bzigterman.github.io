@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
+ <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
+ <p class="updated_time"> 03:49 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
  <p class="updated_time"> 03:42 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent clip</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
- <p class="updated_time"> 08:15 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59315168?at_medium=RSS&at_campaign=KARANGA">New York allows revellers at New Year's Eve celebrations</a> BBC: People who are vaccinated will be allowed into Times Square with proof of vaccination. 
  <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
@@ -210,6 +214,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema strikes back</a> Politico: The normally silent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar faces censure over an anime video of himself killing AOC</a> NPR: The House will vote on a resolution to censure Arizona Republican Rep. Paul Gosar for posting a video on social media that depicts him murdering Democratic Rep. Alexandria Ocasio Cortez. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2021/11/17/1056276890/surprise-medical-bills-doctors-congress">Biden's plan to stop surprise medical bills faces bipartisan pushback in Congress</a> NPR: Congress passed a law last year to shield patients from surprise out-of-network medical charges. But many doctors in the House now say the way the law is to be implemented unfairly favors insurers. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
@@ -340,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
@@ -370,18 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936716/biden-signs-order-to-address-violence-against-native-people-at-tribal-nations-su">Biden signs order to address violence against Native people at tribal nations summit</a> NPR: President Biden hosted a summit with tribal nations at the White House, signing an executive order directing several federal agencies to better address violent crimes that target Native people. 
- <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
- <p class="updated_time"> 04:03 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055841358/biden-signs-1t-bipartisan-infrastructure-bill-into-law">Biden signs the $1 trillion bipartisan infrastructure bill into law</a> NPR: President Biden praised the bipartisanship work to craft and pass the bill. But Republicans who supported the measure continue to face blowback. 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
- <p class="updated_time"> 03:51 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936695/president-biden-has-signed-a-1-2-trillion-infrastructure-bill">President Biden has signed a $1.2 trillion infrastructure bill</a> NPR: President Biden signed the bipartisan infrastructure bill into law Monday, surrounded by members of both parties. But some of the Republicans backing the bill face death threats. 
- <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936681/vermonts-patrick-leahy-says-he-will-retire-from-the-u-s-senate">Vermont's Patrick Leahy says he will retire from the U.S. Senate</a> NPR: After eight terms in the U.S. Senate, Democrat Patrick Leahy of Vermont announced his retirement on Monday. The powerful senator was at the center of many Supreme Court nomination fights. 
- <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
