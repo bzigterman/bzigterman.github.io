@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
  <p class="updated_time"> 11:10 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 11:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59253090?at_medium=RSS&at_campaign=KARANGA">Capitol riot: 'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison</a> BBC: Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol. 
  <p class="updated_time"> 10:25 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59297278?at_medium=RSS&at_campaign=KARANGA">Artists denounce Israeli ban on Palestinian civil society groups</a> BBC: More than 100 high-profile figures pledge support for the outlawed civil society organisations. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
@@ -198,16 +200,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House set to punish Gosar for violent video depicting killing of Ocasio-Cortez</a> Politico: “We have to address it immediately," Speaker Nancy Pelosi said. "It’s outrageous on the part of the Republican leadership not to act upon this.” 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
+ <p class="updated_time"> 11:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
+ <p class="updated_time"> 11:26 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
+ <p class="updated_time"> 11:25 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
- <p class="updated_time"> 11:07 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
- <p class="updated_time"> 11:07 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 11:05 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
@@ -244,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 08:45 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
- <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:50 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/build-back-better-bill-state-of-play/index.html">This could actually be the week Biden's Build Back Better passes the House </a> CNN: Don't look now, but House Democrats may be inching closer to actually passing the Build Back Better plan this week. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
@@ -257,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters' doubts rising about Biden’s health, mental fitness</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
  <p class="updated_time"> 05:52 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">GOP extremism could alienate midterm voters</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
+ <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">Analysis: GOP extremism could alienate midterm voters</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
  <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-oil-gas-leasing-gulf-of-mexico-climate/index.html">Why the Biden administration is reopening oil and gas leasing in the Gulf of Mexico</a> CNN: One of President Joe Biden's boldest environmental campaign promises was to ban new oil and natural gas leasing on public land and water. But on Wednesday his administration will open more than 80 million acres in the Gulf of Mexico to auction for drilling. 
  <p class="updated_time"> 04:31 AM CT, Nov. 17 </p> 
@@ -266,6 +270,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
@@ -376,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
- <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -412,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
- <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
