@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:54 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 06:19 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
+ <p class="updated_time"> 06:16 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 06:15 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59296288?at_medium=RSS&at_campaign=KARANGA">Ding Ding! Crazy Frog to make a comeback in December</a> BBC: The infuriatingly infectious amphibian topped the charts around the world in 2005 with Axel F. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
- <p class="updated_time"> 05:38 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 04:46 AM CT, Nov. 17 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent clip</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
- <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59315168?at_medium=RSS&at_campaign=KARANGA">New York allows revellers at New Year's Eve celebrations</a> BBC: People who are vaccinated will be allowed into Times Square with proof of vaccination. 
  <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 PM CT, Nov. 16 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/17/mccarthys-latest-crazy-town-headache-495132">POLITICO Playbook: McCarthy’s latest crazy-town headache</a> Politico: And new polling shows fresh voter concern about Biden’s acuity. 
+ <p class="updated_time"> 06:08 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/bennie-thompson-mark-meadows-january-6-committee/index.html">January 6 committee chair to send new letter to Mark Meadows as panel weighs whether to pursue criminal contempt</a> CNN: The chairman of the House select committee investigating the January 6 Capitol Hill riot told reporters Tuesday he is signing a letter by the end of the day to send to Trump White House chief of staff Mark Meadows outlining everything the committee wants to learn from him, as the panel weighs whether to pursue another criminal contempt referral. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gop-graves-cop26-pact-522755">Will the GOP go along with the COP26 pact?</a> Politico: Meeting Biden’s climate target will likely need the support of both parties. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
@@ -254,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
- <p class="updated_time"> 06:58 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/bennie-thompson-mark-meadows-january-6-committee/index.html">January 6 committee chair to send new letter to Mark Meadows as panel weighs whether to pursue criminal contempt</a> CNN: The chairman of the House select committee investigating the January 6 Capitol Hill riot told reporters Tuesday he is signing a letter by the end of the day to send to Trump White House chief of staff Mark Meadows outlining everything the committee wants to learn from him, as the panel weighs whether to pursue another criminal contempt referral. 
  <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
@@ -408,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
+ <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
@@ -434,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
 
 
 </details>
