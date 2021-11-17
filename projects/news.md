@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 03:54 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
+ <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056646761/poland-has-accused-belarus-and-russia-of-trying-to-use-migrants-to-destabilize-t">Poland has accused Belarus and Russia of trying to use migrants to destabilize the EU</a> NPR: Some European countries have accused Russia of encouraging Belarus in its strategy of trying to push migrants across its border with the EU, but the Kremlin says it's not involved. 
+ <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
+ <p class="updated_time"> 03:51 PM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: A state of emergency has been declared in British Columbia after a major storm cut transport links. 
  <p class="updated_time"> 03:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
  <p class="updated_time"> 03:44 PM CT, Nov. 17 </p> 
@@ -17,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646726/frida-kahlo-self-portrait-breaks-records-by-selling-for-34-9-million">Frida Kahlo self-portrait breaks records by selling for $34.9 million</a> NPR: A 1949 self-portrait by Frida Kahlo broke records when it sold for $34.9 million this week. It's now the highest price paid for Latin American artwork. It was sold in just under two minutes. 
  <p class="updated_time"> 03:35 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: The head of the WTA says he has a "hard time believing" email attributed to Peng Shuai is from her. 
+ <p class="updated_time"> 03:32 PM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59327673?at_medium=RSS&at_campaign=KARANGA">Malcolm X's 1965 assassination: Convictions of two men to be quashed</a> BBC: Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
@@ -53,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59325398?at_medium=RSS&at_campaign=KARANGA">US tourists fined for sneaking into Rome's Colosseum for a beer</a> BBC: A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view. 
  <p class="updated_time"> 11:22 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253091?at_medium=RSS&at_campaign=KARANGA">US annual drug overdose deaths hit record levels</a> BBC: Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise. 
- <p class="updated_time"> 11:17 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: Minister says there is 'no doubt' it is linked to climate change</a> BBC: Mike Farnworth says he has "no doubt these are climate-related events", as at least one person dies. 
  <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
  <p class="updated_time"> 11:06 AM CT, Nov. 17 </p> 
@@ -95,10 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/panel-urges-restricting-u-s-investment-in-china-over-security-concerns-11637163001">U.S. Should Restrict Investment in China Due to Security Concerns, Panel Says</a> WSJ: The commission of security and economic experts convened by Congress recommended that the U.S. take more aggressive steps to dial back commercial ties with China, warning of heightened national security risks. 
- <p class="updated_time"> 04:19 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59317919?at_medium=RSS&at_campaign=KARANGA">Pike River: Bodies spotted 11 years after New Zealand mine disaster</a> BBC: Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives. 
- <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
  <p class="updated_time"> 03:26 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/u-k-inflation-hits-10-year-high-stirring-expectations-of-rate-rise-11637159168">U.K. Inflation Hits 10-Year High, Stirring Expectations of Rate Rise</a> WSJ: The rise in consumer prices has strengthened expectations the Bank of England will be the first major central bank to lift interest rates from pandemic lows as worries over global inflation intensify. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
@@ -161,14 +163,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
- <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
  <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
- <p class="updated_time"> 10:51 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
@@ -198,6 +196,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:07 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/pentagon-rising-costs-522829">Pentagon rushes to combat rising housing and food costs for troops</a> Politico: The moves come in the wake of dire news about inflation. 
+ <p class="updated_time"> 03:54 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members do not need to be vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
+ <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
+ <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056646747/trimming-their-social-agenda-democrats-cut-the-proposal-of-free-community-colleg">Trimming their social agenda, Democrats cut the proposal of free community college</a> NPR: A federal tuition-free college program was cut from Biden's social agenda — but a patchwork of state and local programs persists. And at the lower level, it's a far more bipartisan policy. 
+ <p class="updated_time"> 03:52 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 03:49 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/austin-transparency-civilian-casualties-522830">'We must work harder': Austin promises more transparency following new report on civilian casualties</a> Politico: A New York Times investigation showed military leaders attempted to cover up a strike on Syrian civilians in 2019. 
  <p class="updated_time"> 03:43 PM CT, Nov. 17 </p> 
@@ -206,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 03:35 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/court-picks-joe-biden/index.html">Biden set to announce two new circuit court selections in first-year sprint to fill judicial openings </a> CNN: President Joe Biden will soon announce two new selections to serve as circuit judges as the push to name -- and confirm -- a raft of judicial nominees stays a central focus of the White House and Senate Democrats, according to a White House official. 
- <p class="updated_time"> 03:34 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646719/beto-orourke-is-campaigning-against-greg-abbott-for-texas-governor-seat">Beto O'Rourke is campaigning against Greg Abbott for Texas governor seat</a> NPR: Beto O'Rourke has begun his campaign against Texas GOP Gov. Greg Abbott. In this third run for office since leaving the House, O'Rourke's chances at winning the seat for Texas governor are slim. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">Catholic bishops approve document that falls short of denying communion to Biden or other politicians who support abortion rights</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-build-back-better-act.html">Biden's Bill Funds Niche Items from Electric Bikes to 'Tree Equity'</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
- <p class="updated_time"> 01:30 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members don’t need to get vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
@@ -319,7 +321,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar censured over an anime video showing him killing AOC</a> NPR: The mainly party line vote of 223-207 came after GOP Rep. Gosar posted a video on social media that depicts him murdering Democratic Rep. Alexandria Ocasio-Cortez. 
+ <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar is censured over an anime video showing him killing AOC</a> NPR: The mainly party line vote of 223-207 came after GOP Rep. Gosar posted a video on social media that depicts him murdering Democratic Rep. Alexandria Ocasio-Cortez. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397095/morning-news-brief">News brief: Pfizer booster, Democrats promote Biden's plans, Blinken's Africa trip</a> NPR: All vaccinated adults could soon be eligible for a Pfizer COVID-19 booster. Democrats begin a nationwide drive to try to sell President Biden's agenda. Secretary of State Antony Blinken is in Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
@@ -372,12 +374,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
- <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056082057/in-an-attempt-to-ease-tensions-biden-and-chinas-xi-meet-virtually">In an attempt to ease tensions, Biden and China's Xi meet virtually</a> NPR: President Biden held a virtual summit with his Chinese counterpart Xi Jinping to go over some of the thorniest issues between the two countries. They gave no hint of Trump-era tariffs being dropped. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
- <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056082113/bannon-threatens-vengeance-after-surrendering-on-criminal-contempt-charges">Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: NPR's Noel King speaks to former federal prosecutor Renato Mariotti about the contempt charge against former Trump adviser Steve Bannon. 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
