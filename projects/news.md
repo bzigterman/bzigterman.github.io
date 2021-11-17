@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:57 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
+ <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59315168?at_medium=RSS&at_campaign=KARANGA">New York allows revellers at New Year's Eve celebrations</a> BBC: People who are vaccinated will be allowed into Times Square with proof of vaccination. 
  <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59309907?at_medium=RSS&at_campaign=KARANGA">Postpartum depression: A deaf mum's story.</a> BBC: Catherine, a single parent who is also deaf, struggled with postpartum depression. 
  <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59312656?at_medium=RSS&at_campaign=KARANGA">Afghan judges in UK fear for colleagues left behind</a> BBC: The BBC has spoken to female judges who have just arrived in the UK as part of a rescue mission. 
- <p class="updated_time"> 05:55 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. In Abbotsford, residents took shelter in a convention center. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
- <p class="updated_time"> 06:05 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59286790?at_medium=RSS&at_campaign=KARANGA">COP26: Did India betray vulnerable nations?</a> BBC: India and China are being criticised for forcing a key part of the Glasgow climate deal to be diluted. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
  <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
@@ -203,12 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
- <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59277713?at_medium=RSS&at_campaign=KARANGA">COP26: The two week summit in two minutes</a> BBC: The UN’s climate summit has come to an end after two weeks in Glasgow, here are some of the stand out moments. 
- <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
- <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
 
 
 </details>
@@ -216,16 +210,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of committee assignments</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
+ <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/business/janet-yellen-debt-limit.html">Janet Yellen Says U.S. Could Hit Debt Limit by Dec. 15</a> NYT: The Treasury secretary’s letter comes weeks after she issued similar calls, before Congress temporarily raised the cap on borrowing. 
+ <p class="updated_time"> 08:02 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 07:47 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/judge-trump-taxes-522774">Judge questions why Justice reversed course on Trump taxes</a> Politico: Trump appointee is considering motion by Trump to block Congress from seeing returns. 
+ <a href="https://www.politico.com/news/2021/11/16/judge-trump-taxes-522774">Judge questions why Justice reversed course on Trump taxes</a> Politico: The Trump appointee is considering a drive by the former president to block Congress from seeing his returns. 
  <p class="updated_time"> 07:45 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/judge-schroeder-kyle-rittenhouse-trial-522772">Judge shares the spotlight in Kyle Rittenhouse trial</a> Politico: Judge Bruce Schroeder’s mannerisms and decisions are getting a lot of attention in the high-profile homicide case in Wisconsin. 
  <p class="updated_time"> 07:37 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/deliberations-rittenhouse-jury-verdict-522773">No verdict after daylong deliberations by Rittenhouse jury</a> Politico: The 18-year-old faces life in prison if convicted as charged. 
  <p class="updated_time"> 07:17 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
- <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
  <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
@@ -236,12 +234,16 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
+ <p class="updated_time"> 06:58 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/bennie-thompson-mark-meadows-january-6-committee/index.html">January 6 committee chair to send new letter to Mark Meadows as panel weighs whether to pursue criminal contempt</a> CNN: The chairman of the House select committee investigating the January 6 Capitol Hill riot told reporters Tuesday he is signing a letter by the end of the day to send to Trump White House chief of staff Mark Meadows outlining everything the committee wants to learn from him, as the panel weighs whether to pursue another criminal contempt referral. 
  <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:45 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
+ <p class="updated_time"> 06:37 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/dhs-migrants-paperwork-ice-notice-to-appear/index.html">DHS stops releasing some migrants without providing immigration court dates</a> CNN: The Department of Homeland Security has stopped the practice of releasing migrants in the United States only with paperwork that tells them to report to an Immigration and Customs Enforcement office, Secretary Alejandro Mayorkas told senators Tuesday. 
  <p class="updated_time"> 06:27 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 06:09 PM CT, Nov. 16 </p> 
@@ -252,6 +254,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 06:05 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/ahmaud-arbery-prosecution-rests-522766">Prosecution rests in trial of men who chased Ahmaud Arbery</a> Politico: Prosecutors concluded with Dr. Edmund Donoghue, the state medical examiner. 
+ <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-china-taiwan/index.html">Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi</a> CNN: President Joe Biden made clear Tuesday evening he was not encouraging Taiwan's "independence" after using the word an hour earlier to describe the progress he made during a discussion of the island with his Chinese counterpart Monday evening. 
  <p class="updated_time"> 05:57 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/2022-midterm-elections.html">For a Clue About the 2022 Midterm Elections, Look at 2 Ohio Races</a> NYT: Neither race received much national attention, but there’s a long history of special election results foreshadowing the next general election. 
  <p class="updated_time"> 05:46 PM CT, Nov. 16 </p> 
@@ -260,8 +264,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
- <p class="updated_time"> 05:02 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/business/janet-yellen-debt-limit.html">Janet Yellen Says U.S. Could Hit Debt Limit by Dec. 15</a> NYT: The Treasury secretary’s letter comes weeks after she issued similar calls, before Congress temporarily raised the cap on borrowing. 
+ <p class="updated_time"> 05:28 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/navy-covid-vaccinations/index.html">Navy says sailors denied an exemption from Covid-19 vaccinations have 5 days to start process or face discharge</a> CNN: Sailors who are denied an exemption from being vaccinated against Covid-19 have five days to begin the process or face being discharged, the Navy said Tuesday, less than two weeks before the deadline for being fully vaccinated. 
  <p class="updated_time"> 04:50 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
@@ -356,12 +360,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
  <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
- <p class="updated_time"> 06:34 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
  <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1054418311/tribes-hope-infrastructure-law-means-theyll-finally-get-clean-drinking-water">Tribes hope infrastructure law means they'll finally get clean drinking water</a> NPR: The Warm Springs Reservation in Oregon has been without clean drinking water for years, the just-passed infrastructure bill promises to fix that. 
- <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:47 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html">Here's what's in the bipartisan infrastructure package</a> CNN: President Joe Biden signed a $1.2 trillion infrastructure bill into law Monday, finalizing a key part of his economic agenda. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
@@ -380,10 +380,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936681/vermonts-patrick-leahy-says-he-will-retire-from-the-u-s-senate">Vermont's Patrick Leahy says he will retire from the U.S. Senate</a> NPR: After eight terms in the U.S. Senate, Democrat Patrick Leahy of Vermont announced his retirement on Monday. The powerful senator was at the center of many Supreme Court nomination fights. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
- <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
- <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
@@ -410,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
- <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
