@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:19 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59317919?at_medium=RSS&at_campaign=KARANGA">Pike River: Bodies spotted 11 years after New Zealand mine disaster</a> BBC: Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives. 
  <p class="updated_time"> 04:15 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59315372?at_medium=RSS&at_campaign=KARANGA">China, US agree to ease restrictions on journalists</a> BBC: It comes after a face-to-face virtual summit between Chinese President Xi and US President Biden. 
  <p class="updated_time"> 10:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
- <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59315209?at_medium=RSS&at_campaign=KARANGA">Supply chain crisis: Japan's export growth slows as car production slides</a> BBC: Shipments of cars fell sharply as the global computer chip shortage has impacted the motor industry. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
@@ -92,7 +92,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263589/haiti-gang-leader-calls-a-temporary-truce-to-let-gasoline-trucks-service-station">Haiti gang leader calls a temporary truce to let gasoline trucks service stations</a> NPR: A gang leader in Haiti has called a week-long truce and says he will let vital gasoline trucks service stations around the country. Gas shortages have brought Haiti to a near halt. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056263575/gazans-are-still-coping-with-the-trauma-of-the-war-with-israel-in-may">Gazans are still coping with the trauma of the war with Israel in May</a> NPR: When a rocket hit their building during the war between Hamas and Israel, a Gaza therapist calmed his family with breathing exercises — one way parents there have dealt with their children's trauma. 
+ <a href="https://www.npr.org/2021/11/16/1056263575/gazans-are-still-coping-with-the-trauma-of-the-war-with-israel-in-may">Gazans are still coping with the trauma of the war with Israel in May</a> NPR: When a missile landed outside their building in the war between Hamas and Israel, a Gaza therapist calmed his family with breathing exercises — one way parents there dealt with children's trauma. 
  <p class="updated_time"> 02:48 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
@@ -101,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
- <p class="updated_time"> 01:19 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia and Azerbaijan have agreed to a Russian-backed ceasefire, reports say. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
  <p class="updated_time"> 11:59 AM CT, Nov. 16 </p> 
@@ -215,9 +213,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema strikes back</a> Politico: The normally silent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
- <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar faces censure over an anime video of himself killing AOC</a> NPR: The House will vote on a resolution to censure Arizona Republican Rep. Paul Gosar for posting a video on social media that depicts him murdering Democratic Rep. Alexandria Ocasio Cortez. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
@@ -446,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
- <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
 
 
 </details>
