@@ -7,11 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:34 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 12:46 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
+ <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
- <p class="updated_time"> 12:34 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 12:26 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
  <p class="updated_time"> 12:21 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
@@ -202,16 +202,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">Report: 2 men to be cleared in 1965 killing of Malcolm X</a> Politico: The New York Times reported Wednesday that Muhammad Aziz and the late Khalil Islam, who spent decades in prison for the crime, were being exonerated after a nearly two-year legal investigation. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">China bill throws a wrench in Senate's defense policy push</a> Politico: Majority Leader Chuck Schumer delayed advancing the National Defense Authorization Act on Wednesday morning amid disagreements on the Senate's China competition bill. 
+ <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">White House Estimates Nearly 10 Percent of Younger Children Got One Dose</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
+ <p class="updated_time"> 12:38 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Brannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members don’t need to get vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">'QAnon shaman' Chansley sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role on Jan. 6. 
+ <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:30 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republican-retaliation-gosar-censure-clyburn-cnntv/index.html">Clyburn on GOP threats of retaliation for Gosar censure vote: 'They're free to do that'</a> CNN: House Majority Whip Jim Clyburn dismissed GOP threats of retaliation in response to Democrats' censure resolution against Rep. Paul Gosar of Arizona, saying Republicans are "free to do that" if they win back control of the House in next year's midterms. 
- <p class="updated_time"> 12:24 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Brannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 12:14 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 12:09 PM CT, Nov. 17 </p> 
@@ -282,6 +284,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">Analysis: GOP extremism may alienate midterm voters</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
  <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-oil-gas-leasing-gulf-of-mexico-climate/index.html">Why the Biden administration is reopening oil and gas leasing in the Gulf of Mexico</a> CNN: One of President Joe Biden's boldest environmental campaign promises was to ban new oil and natural gas leasing on public land and water. But on Wednesday his administration will open more than 80 million acres in the Gulf of Mexico to auction for drilling. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/gas-prices-biden-inflation-522777">Pain at the pump drives Biden’s suffering in the polls</a> Politico: Consumer sentiment has plunged in recent weeks as inflation climbed to the highest levels in more than a generation. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
- <p class="updated_time"> 04:50 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
@@ -412,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
- <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
