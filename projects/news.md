@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:43 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
- <p class="updated_time"> 07:41 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
@@ -193,6 +195,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
+ <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
 
 
 </details>
@@ -200,6 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
+ <p class="updated_time"> 07:56 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden administration seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
+ <p class="updated_time"> 07:50 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/build-back-better-bill-state-of-play/index.html">This could actually be the week Biden's Build Back Better passes the House </a> CNN: Don't look now, but House Democrats may be inching closer to actually passing the Build Back Better plan this week. 
  <p class="updated_time"> 07:35 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
@@ -221,9 +231,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema strikes back</a> Politico: The normally silent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">‘A dent in the machine’: An old-guard political operation fights to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
+ <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
@@ -270,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
- <p class="updated_time"> 06:37 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/dhs-migrants-paperwork-ice-notice-to-appear/index.html">DHS stops releasing some migrants without providing immigration court dates</a> CNN: The Department of Homeland Security has stopped the practice of releasing migrants in the United States only with paperwork that tells them to report to an Immigration and Customs Enforcement office, Secretary Alejandro Mayorkas told senators Tuesday. 
  <p class="updated_time"> 06:09 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 06:08 PM CT, Nov. 16 </p> 
@@ -382,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
- <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
@@ -410,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
- <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
