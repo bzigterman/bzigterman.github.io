@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 06:14 AM CT, Nov. 17 </p> 
- <a href="https://www.wsj.com/articles/belarus-moves-some-migrants-away-from-polands-border-11637169240">Belarus Moves Some Migrants Away from Poland's Border</a> WSJ: The shift is a tentative sign of a de-escalation in the standoff between the European Union and Belarus President Alexander Lukashenko 
+ <a href="https://www.wsj.com/articles/belarus-moves-some-migrants-away-from-polands-border-11637169240">Belarus Moves Some Migrants Away from Poland's Border</a> WSJ: The shift is a tentative sign of a de-escalation in the standoff between the European Union and Belarus President Alexander Lukashenko. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
@@ -198,8 +198,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
+ <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
  <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
+ <p class="updated_time"> 02:22 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 02:15 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">F.D.A. Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
@@ -214,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
- <p class="updated_time"> 01:33 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 01:30 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members don’t need to get vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/defense-bill-schumer-china-competition-gop/index.html">Republicans stalling action on defense bill, as they push Schumer to drop China competition bill from it</a> CNN: Senate Republicans are holding up action on the annual defense policy bill, upset that Senate Majority Leader Chuck Schumer wants to add to it an unrelated bill aimed at increasing US economic competition with China. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">China bill throws a wrench in Senate's defense policy push</a> Politico: Majority Leader Chuck Schumer delayed advancing the National Defense Authorization Act on Wednesday morning amid disagreements on the Senate's China competition bill. 
- <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
- <p class="updated_time"> 11:05 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056225488/self-styled-qanon-shaman-is-sentenced-to-41-months-in-capitol-riot">Self-styled 'QAnon shaman' is sentenced to 41 months in Capitol riot</a> NPR: Jacob Chansley, the self-styled "QAnon shaman," was sentenced to 41 months for his role in the Jan. 6 riot after pleading guilty to obstruction. 
  <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
