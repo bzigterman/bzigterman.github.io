@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056455810/megaspider-australian-zoo-funnel-web-spider-antivenom">An Australian zoo acquires a venomous, fanged 'megaspider' and is searching for more</a> NPR: The Australian Reptile Park wants to find the anonymous donor of the megaspider, which may lead them to an area with more unusually large arachnids that could boost the zoo's antivenom program. 
  <p class="updated_time"> 09:11 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
- <p class="updated_time"> 09:06 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 08:54 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263648/pfizer-says-it-will-share-the-rights-to-its-covid-19-pill">Pfizer says it will share the rights to its COVID-19 pill</a> NPR: Pfizer says it is willing to share rights to its COVID-19 pill, Paxlovid. It's an oral antiviral drug that can be taken outside the hospital, which could be a help to low income countries. 
- <p class="updated_time"> 03:41 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U.S border. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
@@ -183,16 +183,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Plagues Strike Egypt: Sudden Floods, Then Scorpions Called Deathstalkers</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936674/testing-temperature-with-your-ears">Testing temperature with your ears</a> NPR: Chefs in Japan dip a wet chopstick in hot oil and listen to the sizzle, to know when it's ready for tempura. A physicist investigated that technique in the lab to zero in on the perfect fry frequency. 
- <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936667/cuban-government-vowed-to-prevent-todays-planned-march">Cuban government vowed to prevent today's planned march</a> NPR: In Cuba, opponents of the government urged citizens to put on white shirts and march in the streets.  The government denied permits for the protest. Activists now face detentions and intimidation. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
- <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
 
 
 </details>
@@ -200,8 +196,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
  <p class="updated_time"> 08:59 AM CT, Nov. 17 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:50 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/build-back-better-bill-state-of-play/index.html">This could actually be the week Biden's Build Back Better passes the House </a> CNN: Don't look now, but House Democrats may be inching closer to actually passing the Build Back Better plan this week. 
- <p class="updated_time"> 07:35 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
@@ -340,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/pete-buttigieg-infrastructure-cash-gop-522655">Secretary Pete careening toward a GOP buzzsaw over infrastructure cash</a> Politico: "A lot of people will be looking for problems with how this money is spent," one Democratic strategist warned. 
  <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
- <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
