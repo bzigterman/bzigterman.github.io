@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:44 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
+ <p class="updated_time"> 01:51 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 01:35 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
- <p class="updated_time"> 12:21 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 12:01 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
+ <p class="updated_time"> 01:52 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 01:46 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:30 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republican-retaliation-gosar-censure-clyburn-cnntv/index.html">Clyburn on GOP threats of retaliation for Gosar censure vote: 'They're free to do that'</a> CNN: House Majority Whip Jim Clyburn dismissed GOP threats of retaliation in response to Democrats' censure resolution against Rep. Paul Gosar of Arizona, saying Republicans are "free to do that" if they win back control of the House in next year's midterms. 
- <p class="updated_time"> 12:14 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 12:09 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 12:05 PM CT, Nov. 17 </p> 
