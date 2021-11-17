@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 07:41 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59322526?at_medium=RSS&at_campaign=KARANGA">Britney Spears discusses life after conservatorship</a> BBC: Britney Spears says she is enjoying new found freedoms, and thanks her fans. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
- <p class="updated_time"> 07:27 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 07:22 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
- <p class="updated_time"> 07:08 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 06:53 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
- <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
