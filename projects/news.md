@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 09:40 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 09:29 AM CT, Nov. 17 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
  <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
- <p class="updated_time"> 03:42 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59316562?at_medium=RSS&at_campaign=KARANGA">LA's Staples Center to be renamed after cryptocurrency firm</a> BBC: The Staples Center in Los Angeles will be renamed the Crypto.com Arena in a $700 million deal. 
  <p class="updated_time"> 02:54 AM CT, Nov. 17 </p> 
@@ -77,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59315372?at_medium=RSS&at_campaign=KARANGA">China, US agree to ease restrictions on journalists</a> BBC: It comes after a face-to-face virtual summit between Chinese President Xi and US President Biden. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
- <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59314811?at_medium=RSS&at_campaign=KARANGA">Heated protests outside court ahead of Rittenhouse verdict</a> BBC: Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial. 
  <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59315174?at_medium=RSS&at_campaign=KARANGA">Frida Kahlo art fetches record $34.9m at auction</a> BBC: It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
@@ -135,6 +133,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59313349?at_medium=RSS&at_campaign=KARANGA">Ollie the comfort dog makes getting jabbed a little easier for California children</a> BBC: Ollie the Goldendoodle is helping California children overcome their fear of getting a Covid jab. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
@@ -198,8 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
- <p class="updated_time"> 09:43 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 09:50 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
+ <p class="updated_time"> 09:48 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley to be sentenced for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 09:40 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Conservative-leaning appeals court to hear challenges to Biden's vaccine mandate after ping-pong ball lottery</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263627/rep-abigail-spanberger-talks-about-the-future-of-build-back-better">Rep. Abigail Spanberger talks about the future of Build Back Better</a> NPR: NPR's Mary Louise Kelly talks with Rep. Abigail Spanberger, D-Va., about Biden's policy agenda and the future of the social spending package, Build Back Better. 
- <p class="updated_time"> 03:14 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/scott-perry-covid-positive-freedom-caucus/index.html">GOP Rep. Scott Perry tests positive for Covid-19</a> CNN: Republican Rep. Scott Perry of Pennsylvania has tested positive for Covid-19, his office announced Tuesday, a day after he was elected chair of the conservative House Freedom Caucus. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/pfizer-emergency-use-fda-covid-pill-522726">Pfizer seeks emergency use authorization for Covid-19 antiviral pill</a> Politico: The pill, called Paxlovid, was slightly less effective when given up to five days after patients presented symptoms, Pfizer said. 
  <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-biden-winter-olympics-diplomacy-522711">Lawmakers pressure Biden to bar U.S. officials from attending Beijing Olympics</a> Politico: The president is reportedly considering a diplomatic boycott of the Winter Games. 
- <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/fenster-richardson-release-myanmar/index.html">Danny Fenster arrives in US 'with so much gratitude' after release from Myanmar prison </a> CNN: American journalist Danny Fenster arrived in the United States on Tuesday after almost six months in a Myanmar prison and expressed thanks to everyone involved in securing his release. 
  <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he tries to keep White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
  <p class="updated_time"> 01:37 PM CT, Nov. 16 </p> 
@@ -362,6 +360,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
+ <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
