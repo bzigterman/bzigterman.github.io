@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:11 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 08:54 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
- <p class="updated_time"> 08:45 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
- <p class="updated_time"> 08:42 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 08:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 08:18 AM CT, Nov. 17 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59322526?at_medium=RSS&at_campaign=KARANGA">Britney Spears discusses life after conservatorship</a> BBC: Britney Spears says she is enjoying new-found freedoms, and thanks her fans. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
- <p class="updated_time"> 07:22 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 06:05 AM CT, Nov. 17 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59317919?at_medium=RSS&at_campaign=KARANGA">Pike River: Bodies spotted 11 years after New Zealand mine disaster</a> BBC: Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives. 
  <p class="updated_time"> 04:15 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
+ <p class="updated_time"> 04:09 AM CT, Nov. 17 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
  <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
  <p class="updated_time"> 03:42 AM CT, Nov. 17 </p> 
@@ -94,7 +98,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:09 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59308958?at_medium=RSS&at_campaign=KARANGA">Climate change: What did the scientists make of COP26?</a> BBC: Scientists applaud some COP26 policies but fear measures don't go far enough and won’t be delivered. 
  <p class="updated_time"> 06:07 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59251912?at_medium=RSS&at_campaign=KARANGA">COP26: The truth behind the new climate change denial</a> BBC: The claims that went viral in the lead-up to the COP climate summit – and what you need to know about them. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59251912?at_medium=RSS&at_campaign=KARANGA">COP26: The truth behind the new climate change denial</a> BBC: The climate claims that went viral – and what you need to know about them. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313778?at_medium=RSS&at_campaign=KARANGA">Life after deportation: 'Living the Mexican dream'</a> BBC: The experience of being sent back to Mexico can be a daunting one, though it can also have an upside. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 10:51 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
- <p class="updated_time"> 10:36 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
@@ -202,16 +204,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
+ <p class="updated_time"> 08:59 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden administration seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 08:55 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
+ <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056433785/democrats-launch-a-nationwide-sales-pitch-for-bidens-agenda">Democrats launch a nationwide sales pitch for Biden's agenda</a> NPR: President Biden and House Democrats are planning over 1,000 events in the coming weeks to try to sell voters on the Build Back Better plan as they face sour poll numbers. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 08:45 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
  <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
- <p class="updated_time"> 07:56 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden administration seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 07:50 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/build-back-better-bill-state-of-play/index.html">This could actually be the week Biden's Build Back Better passes the House </a> CNN: Don't look now, but House Democrats may be inching closer to actually passing the Build Back Better plan this week. 
  <p class="updated_time"> 07:35 AM CT, Nov. 17 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
  <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
- <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1054418311/tribes-hope-infrastructure-law-means-theyll-finally-get-clean-drinking-water">Tribes hope infrastructure law means they'll finally get clean drinking water</a> NPR: The Warm Springs Reservation in Oregon has been without clean drinking water for years, the just-passed infrastructure bill promises to fix that. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:47 PM CT, Nov. 15 </p> 
