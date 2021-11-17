@@ -8,11 +8,11 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 08:42 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 08:42 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 08:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
- <p class="updated_time"> 08:32 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 08:18 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59297278?at_medium=RSS&at_campaign=KARANGA">Artists denounce Israeli ban on Palestinian civil society groups</a> BBC: More than 100 high-profile figures pledge support for the outlawed civil society organisations. 
  <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
