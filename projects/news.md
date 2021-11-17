@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Its Leaders special powers in epidemics.</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
+ <p class="updated_time"> 03:14 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
+ <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
+ <p class="updated_time"> 03:12 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
- <p class="updated_time"> 02:39 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
- <p class="updated_time"> 02:19 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
  <p class="updated_time"> 02:01 PM CT, Nov. 17 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
- <p class="updated_time"> 10:05 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 09:52 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59323282?at_medium=RSS&at_campaign=KARANGA">Comedian Vir Das causes a stir with 'two Indias' monologue</a> BBC: Top Indian comedian faces nationalist backlash over show that describes country's dualities. 
  <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
@@ -176,7 +178,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
+ <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike a 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
@@ -198,12 +200,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/pentagon-rising-costs-522829">Pentagon rushes to combat rising housing and food costs for troops</a> Politico: The moves come in the wake of dire news about inflation. 
  <p class="updated_time"> 03:49 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/austin-transparency-civilian-casualties-522830">'We must work harder': Austin promises more transparency following new report on civilian casualties</a> Politico: A New York Times investigation showed military leaders attempted to cover up a strike on Syrian civilians in 2019. 
+ <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
+ <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Visions of a U.S. Computer Chip Boom Have Cities Hustling</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 02:49 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House Is Set to Censure Paul Gosar for Violent Video</a> NYT: The Democratic-led House is expected to formally rebuke the Arizona Republican, meting out a rarely used punishment for the first time in over a decade. 
- <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/technology/semiconductors-samsung-chip-production.html">Visions of a U.S. Computer Chip Boom Have Cities Hustling</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 02:43 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
@@ -211,19 +221,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:32 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
- <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
  <p class="updated_time"> 02:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
- <p class="updated_time"> 02:15 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 02:03 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
- <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
  <p class="updated_time"> 01:52 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">Catholic bishops approve document that falls short of denying communion to Biden or other politicians who support abortion rights</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
@@ -305,9 +309,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
- <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056082050/morning-news-brief">News brief: Biden-Xi summit, Steve Bannon, Cuba thwarts protests</a> NPR: President Biden and his Chinese counterpart held a virtual meeting. Ex-Trump adviser Steve Bannon threatens vengeance after surrendering on criminal contempt charges. Cuba is crushing protest plans. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
- <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
@@ -418,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
+ <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
