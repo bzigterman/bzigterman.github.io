@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:17 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59315372?at_medium=RSS&at_campaign=KARANGA">China, US agree to ease restrictions on journalists</a> BBC: It comes after a face-to-face virtual summit between Chinese President Xi and US President Biden. 
  <p class="updated_time"> 10:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 10:45 PM CT, Nov. 16 </p> 
