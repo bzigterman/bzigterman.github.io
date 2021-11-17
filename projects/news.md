@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:38 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 05:54 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 05:38 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
- <p class="updated_time"> 05:17 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 04:46 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59316602?at_medium=RSS&at_campaign=KARANGA">Britney Spears grateful for 'little things' in life after conservatorship</a> BBC: The singer says having "little things" like car keys and a bank card back makes "a huge difference". 
  <p class="updated_time"> 04:19 AM CT, Nov. 17 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/gop-graves-cop26-pact-522755">Will the GOP go along with the COP26 pact?</a> Politico: Meeting Biden’s climate target will likely need the support of both parties. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters split on Biden's mental fitness as job approval remains low</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
+ <p class="updated_time"> 05:52 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">Republican extremism offers a preview of possible new House majority</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
  <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-oil-gas-leasing-gulf-of-mexico-climate/index.html">Why the Biden administration is reopening oil and gas leasing in the Gulf of Mexico</a> CNN: One of President Joe Biden's boldest environmental campaign promises was to ban new oil and natural gas leasing on public land and water. But on Wednesday his administration will open more than 80 million acres in the Gulf of Mexico to auction for drilling. 
  <p class="updated_time"> 04:31 AM CT, Nov. 17 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 11:32 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">2022 election: The GOP is engineering a majority with new maps</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
- <p class="updated_time"> 11:01 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">Republican extremism offers a preview of possible new House majority</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
  <p class="updated_time"> 09:24 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/marjorie-taylor-greene-vaccination-status/index.html">Rep. Marjorie Taylor Greene says she hasn't received a Covid-19 vaccine</a> CNN: Rep. Marjorie Taylor Greene, who has publicly cast doubt on and spread misinformation about the efficacy of Covid-19 vaccines, revealed Tuesday that she has not been inoculated against the virus, answering a question she has dodged for months. 
  <p class="updated_time"> 09:11 PM CT, Nov. 16 </p> 
@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:45 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/beijing-olympics-biden-administration/index.html">Biden administration weighing how to approach Beijing Winter Olympic Games</a> CNN: The Biden administration is still weighing how to approach the upcoming Beijing Winter Olympic Games, including the possibility of a diplomatic boycott, but hasn't reached a final conclusion, officials familiar with the matter said Tuesday. 
  <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of committee assignments</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
+ <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote to censure Paul Gosar and strip him of committee assignments</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
  <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/janet-yellen-debt-limit.html">Janet Yellen Says U.S. Could Hit Debt Limit by Dec. 15</a> NYT: The Treasury secretary’s letter comes weeks after she issued similar calls, before Congress temporarily raised the cap on borrowing. 
  <p class="updated_time"> 08:02 PM CT, Nov. 16 </p> 
