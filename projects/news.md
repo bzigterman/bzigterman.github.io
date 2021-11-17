@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 01:13 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
- <p class="updated_time"> 12:56 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 12:54 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
- <p class="updated_time"> 12:53 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
  <p class="updated_time"> 12:21 PM CT, Nov. 17 </p> 
@@ -198,16 +198,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">Report: 2 men to be cleared in 1965 killing of Malcolm X</a> Politico: The New York Times reported Wednesday that Muhammad Aziz and the late Khalil Islam, who spent decades in prison for the crime, were being exonerated after a nearly two-year legal investigation. 
+ <p class="updated_time"> 01:04 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
+ <p class="updated_time"> 12:59 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/defense-bill-schumer-china-competition-gop/index.html">Republicans stalling action on defense bill, as they push Schumer to drop China competition bill from it</a> CNN: Senate Republicans are holding up action on the annual defense policy bill, upset that Senate Majority Leader Chuck Schumer wants to add to it an unrelated bill aimed at increasing US economic competition with China. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">China bill throws a wrench in Senate's defense policy push</a> Politico: Majority Leader Chuck Schumer delayed advancing the National Defense Authorization Act on Wednesday morning amid disagreements on the Senate's China competition bill. 
  <p class="updated_time"> 12:45 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/vaccine-dose-kids-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 12:38 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Brannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
+ <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House set to punish Gosar for violent video depicting killing of Ocasio-Cortez</a> Politico: “We have to address it immediately," Speaker Nancy Pelosi said. "It’s outrageous on the part of the Republican leadership not to act upon this.” 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
- <p class="updated_time"> 11:39 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/us-iran-hackers-warning/index.html">US warns that Iranian government-sponsored hackers are targeting key US infrastructure</a> CNN: Iranian government-sponsored hackers are actively targeting a "broad range of victims" across the US transportation and health care sectors, and in some cases are deploying ransomware against those victims, US federal agencies and their counterparts from the United Kingdom and Australia warned on Wednesday. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-capitol-riot-chansley.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
  <p class="updated_time"> 11:34 AM CT, Nov. 17 </p> 
@@ -336,14 +340,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/2022-midterm-elections.html">For a Clue About the 2022 Midterm Elections, Look at 2 Ohio Races</a> NYT: Neither race received much national attention, but there’s a long history of special election results foreshadowing the next general election. 
  <p class="updated_time"> 05:46 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-infrastructure-china.html">Biden Sells Infrastructure Improvements as a Way to Counter China</a> NYT: Spending on roads, broadband internet and more will help revitalize U.S. competitiveness against its top economic adversary, the president says. 
- <p class="updated_time"> 05:44 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/biden-vaccine-or-test-mandate-6th-circuit-court-522763">Biden’s vaccine-or-test mandate to go before Cincinnati-based federal court</a> Politico: The mandate will be tested before a court with a majority of Republican appointees. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
- <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/border-patrol-horses-del-rio/index.html">DHS inspector general declines to investigate Del Rio horse patrol incident</a> CNN: The horse patrol incident in Del Rio, Texas, that drew swift condemnation from senior Biden administration officials will not be investigated by the Department of Homeland Security's inspector general, the department announced Tuesday. 
  <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
  <p class="updated_time"> 03:35 PM CT, Nov. 16 </p> 
@@ -356,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden sells his infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
- <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he tries to keep White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/trump-files-jan-6-committee.html">Trump Seeks Continued Block on Sending White House Files to Jan. 6 Panel</a> NYT: The ex-president’s brief to a federal appeals court argued that his residual secrecy powers could block a House subpoena for information about the Capitol riot. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
@@ -378,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
+ <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
