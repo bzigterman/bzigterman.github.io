@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 01:35 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 01:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
@@ -198,10 +198,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
  <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
+ <p class="updated_time"> 01:34 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
+ <p class="updated_time"> 01:33 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
+ <p class="updated_time"> 01:30 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members don’t need to get vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">Report: 2 men to be cleared in 1965 killing of Malcolm X</a> Politico: The New York Times reported Wednesday that Muhammad Aziz and the late Khalil Islam, who spent decades in prison for the crime, were being exonerated after a nearly two-year legal investigation. 
  <p class="updated_time"> 01:16 PM CT, Nov. 17 </p> 
@@ -216,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
- <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members don’t need to get vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:30 PM CT, Nov. 17 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 12:09 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
- <p class="updated_time"> 12:06 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 12:05 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kemp-perdue-trump-georgia-governor/index.html">Trump's thirst for revenge is causing chaos in the Georgia governor's race</a> CNN: A simmering war within the Georgia Republican Party is about -- what else? -- Donald Trump. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
@@ -268,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
- <p class="updated_time"> 08:55 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056433785/democrats-launch-a-nationwide-sales-pitch-for-bidens-agenda">Democrats launch a nationwide sales pitch for Biden's agenda</a> NPR: President Biden and House Democrats are planning more than 1,000 events in the coming weeks to try to sell voters on the Build Back Better plan as they face sour poll numbers. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/debt-ceiling-deadline-december-15-treasury-secretary-yellen/index.html">Treasury secretary estimates US could reach debt limit on December 15</a> CNN: Treasury Secretary Janet Yellen now estimates that the government will run out of money on December 15, an extension from the previous deadline of December 3. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
- <p class="updated_time"> 06:05 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/ahmaud-arbery-prosecution-rests-522766">Prosecution rests in trial of men who chased Ahmaud Arbery</a> Politico: Prosecutors concluded with Dr. Edmund Donoghue, the state medical examiner. 
  <p class="updated_time"> 05:57 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/2022-midterm-elections.html">For a Clue About the 2022 Midterm Elections, Look at 2 Ohio Races</a> NYT: Neither race received much national attention, but there’s a long history of special election results foreshadowing the next general election. 
  <p class="updated_time"> 05:46 PM CT, Nov. 16 </p> 
