@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 02:19 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">What Is Happening at the Poland-Belarus Border?</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
+ <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
  <p class="updated_time"> 02:01 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056129127/poland-belarus-eu-migrant-border-crisis">How a political standoff trapped hundreds of migrants at the Belarus-Poland border</a> NPR: The crisis appears to be stoked by the leader of Belarus over the country's tensions with the bloc. Polish border guards have used water cannons and tear gas to turn back stone-throwing migrants. 
  <p class="updated_time"> 01:51 PM CT, Nov. 17 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
- <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -198,6 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/austin-transparency-civilian-casualties-522830">'We must work harder': Austin promises more transparency following new report on civilian casualties</a> Politico: A New York Times investigation showed military leaders attempted to cover up a strike on Syrian civilians in 2019. 
+ <p class="updated_time"> 02:49 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House Is Set to Censure Paul Gosar for Violent Video</a> NYT: The Democratic-led House is expected to formally rebuke the Arizona Republican, meting out a rarely used punishment for the first time in over a decade. 
+ <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/technology/semiconductors-samsung-chip-production.html">Visions of a U.S. Computer Chip Boom Have Cities Hustling</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 02:43 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
@@ -211,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 02:15 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">F.D.A. Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 02:03 PM CT, Nov. 17 </p> 
@@ -266,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
  <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
- <p class="updated_time"> 09:59 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House is Set to Censure Paul Gosar for Violent Video</a> NYT: The Democratic-led House is expected to formally rebuke the Arizona Republican, meting out a rarely used punishment for the first time in over a decade. 
  <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
  <p class="updated_time"> 09:34 AM CT, Nov. 17 </p> 
@@ -316,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
- <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 11:32 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">The GOP is engineering a majority with new maps ahead of the 2022 elections</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
  <p class="updated_time"> 09:11 PM CT, Nov. 16 </p> 
