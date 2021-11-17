@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:42 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
+ <p class="updated_time"> 08:45 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 08:42 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59315374?at_medium=RSS&at_campaign=KARANGA">Naomi Osaka voices concern over Chinese tennis star Peng Shuai</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official. 
  <p class="updated_time"> 01:24 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
- <p class="updated_time"> 11:55 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 11:30 PM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/two-powerful-dynasties-accused-of-rights-abuses-join-forces-in-the-philippines-11637145001">Two Dynasties Accused of Rights Abuses Join Forces in the Philippines</a> WSJ: Ferdinand Marcos Jr., son of a former dictator, and Sara Duterte-Carpio, daughter of the current president, have created a formidable election ticket, uniting two powerful families that have faced allegations of human-rights abuses. 
  <p class="updated_time"> 11:17 PM CT, Nov. 16 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
@@ -198,6 +198,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
+ <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
+ <p class="updated_time"> 08:45 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
  <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:56 AM CT, Nov. 17 </p> 
@@ -215,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gop-graves-cop26-pact-522755">Will the GOP go along with the COP26 pact?</a> Politico: Meeting Biden’s climate target will likely need the support of both parties. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters split on Biden's mental fitness as job approval remains low</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
+ <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters' doubts rising about Biden’s health, mental fitness</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
  <p class="updated_time"> 05:52 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html">GOP extremism could alienate midterm voters</a> CNN: If House Republicans win in the midterm elections, it's already clear their new majority will be a constant churn of self-radicalization and an extremist political weapon for Donald Trump. 
  <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
@@ -227,9 +237,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
- <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/afghanistan-withdrawal-state-department-522705">'This experience broke a lot of people': Inside State amid the Afghanistan withdrawal</a> Politico: The chaos that came with ending America's longest war extended to Foggy Bottom, where staff were left with psychological scars. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
@@ -238,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056397095/morning-news-brief">News brief: Pfizer booster, Democrats promote Biden's plans, Blinken's Africa trip</a> NPR: All vaccinated adults could soon be eligible for a Pfizer COVID-19 booster. Democrats begin a nationwide drive to try to sell President Biden's agenda. Secretary of State Antony Blinken is in Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/11/17/1056276890/surprise-medical-bills-doctors-congress">Biden's plan to stop surprise medical bills faces bipartisan pushback in Congress</a> NPR: Congress passed a law last year to shield patients from surprise out-of-network medical charges. But many doctors in the House now say the way the law is to be implemented unfairly favors insurers. 
- <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/democrats-special-interests.html">From Electric Bikes to ‘Tree Equity,’ Biden’s Social Policy Bill Funds Niche Items</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
@@ -264,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/business/janet-yellen-debt-limit.html">Janet Yellen Says U.S. Could Hit Debt Limit by Dec. 15</a> NYT: The Treasury secretary’s letter comes weeks after she issued similar calls, before Congress temporarily raised the cap on borrowing. 
  <p class="updated_time"> 08:02 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/science/russia-anti-satellite-missile-test-debris.html">Russian Anti-Satellite Weapon Test Debris Forces Astronauts to Shelter</a> NYT: The State Department said the cloud of debris from the missile strike added more than 1,500 pieces of sizable space junk to Earth’s orbit. 
- <p class="updated_time"> 07:17 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
@@ -300,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/border-patrol-horses-del-rio/index.html">DHS inspector general declines to investigate Del Rio horse patrol incident</a> CNN: The horse patrol incident in Del Rio, Texas, that drew swift condemnation from senior Biden administration officials will not be investigated by the Department of Homeland Security's inspector general, the department announced Tuesday. 
- <p class="updated_time"> 04:13 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
  <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
  <p class="updated_time"> 03:35 PM CT, Nov. 16 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1056025589/wyoming-gop-votes-to-stop-recognizing-cheney-as-a-republican">Wyoming GOP votes to stop recognizing Cheney as a Republican</a> NPR: The Wyoming Republican Party will no longer recognize Liz Cheney as a member of the GOP in its second formal rebuke for her criticism of former President Donald Trump. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
- <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -412,10 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
- <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
