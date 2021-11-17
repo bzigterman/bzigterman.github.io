@@ -27,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 10:45 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
- <p class="updated_time"> 10:34 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59315452?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man wrongly identified as abduction suspect sues TV station</a> BBC: An Australian channel used Facebook pictures of the wrong man when reporting about Cleo Smith's rescue. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59315209?at_medium=RSS&at_campaign=KARANGA">Supply chain crisis: Japan's export growth slows as car production slides</a> BBC: Shipments of cars fell sharply as the global computer chip shortage has impacted the motor industry. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
