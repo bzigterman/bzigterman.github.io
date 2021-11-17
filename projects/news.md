@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:19 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
- <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:18 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59297278?at_medium=RSS&at_campaign=KARANGA">Artists denounce Israeli ban on Palestinian civil society groups</a> BBC: More than 100 high-profile figures pledge support for the outlawed civil society organisations. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
- <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: What's causing poor air quality?</a> BBC: How much pollution comes from farm fires, factories and other sources in the Indian capital? 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59322526?at_medium=RSS&at_campaign=KARANGA">Britney Spears discusses life after conservatorship</a> BBC: Britney Spears says she is enjoying new found freedoms, and thanks her fans. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59316562?at_medium=RSS&at_campaign=KARANGA">LA's Staples Center to be renamed after cryptocurrency firm</a> BBC: The Staples Center in Los Angeles will be renamed the Crypto.com Arena in a $700 million deal. 
+ <p class="updated_time"> 02:54 AM CT, Nov. 17 </p> 
+ <a href="https://www.wsj.com/articles/irans-nuclear-fuel-production-is-accelerating-u-n-finds-11637157259">Iran's Nuclear-Fuel Production Is Accelerating, U.N. Finds</a> WSJ: Iran’s stockpile of near-weapons-grade nuclear fuel has jumped significantly, according to a confidential report by the United Nations atomic agency that found Tehran has almost doubled its output of highly enriched uranium in recent months. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:37 AM CT, Nov. 17 </p> 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
  <p class="updated_time"> 11:55 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/two-powerful-dynasties-accused-of-rights-abuses-join-forces-in-the-philippines-11637145001">Two Dynasties Accused of Rights Abuses Join Forces in the Philippines</a> WSJ: Ferdinand Marcos Jr., son of a former dictator, and Sara Duterte-Carpio, daughter of the current president, have created a formidable election ticket, uniting two powerful families that have faced allegations of human-rights abuses. 
  <p class="updated_time"> 11:17 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59315372?at_medium=RSS&at_campaign=KARANGA">China, US agree to ease restrictions on journalists</a> BBC: It comes after a face-to-face virtual summit between Chinese President Xi and US President Biden. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
@@ -69,8 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59315174?at_medium=RSS&at_campaign=KARANGA">Frida Kahlo art fetches record $34.9m at auction</a> BBC: It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
- <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent clip</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
+ <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/australia-to-beef-up-high-tech-prowess-after-security-pact-with-u-s-11637129732">Australia to Beef Up High-Tech Prowess After Security Pact With U.S.</a> WSJ: Australia will strengthen its capabilities in technologies that could be used to counter threats from China, providing more detail on the type of innovations Australia might develop alongside the U.S. under a new security partnership. 
  <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 PM CT, Nov. 16 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
- <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Claims Deadly Bombings in Ugandan Capital</a> WSJ: Suicide bombers set off two powerful explosions in the center of Uganda’s capital during rush hour in an attack later claimed by Islamic State. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
  <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
@@ -147,14 +149,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
- <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/belarus-migrant-crisis-exposes-tensions-within-european-union-11637083429">Belarus Migrant Crisis Exposes Tensions Within European Union</a> WSJ: German Chancellor Angela Merkel’s call to Belarus leader Alexander Lukashenko causes fear among East Europe nations about being sidelined in standoff with Russian ally. 
- <p class="updated_time"> 05:23 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/libyan-warlord-announces-presidential-bid-11637079780">Libyan Militia Leader Says He Will Run for President</a> WSJ: Khalifa Haftar registered his candidacy in his military stronghold of Benghazi where his militia forces control a swath of eastern Libya. His 14-month offensive to oust the internationally-recognized government in Tripoli ended in a United Nations-brokered truce last year. 
  <p class="updated_time"> 05:15 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/iran-resumes-production-of-advanced-nuclear-program-parts-diplomats-say-11637079334">Iran Resumes Production of Nuclear-Program Parts, Diplomats Say</a> WSJ: The resumption at a site the U.N.’s atomic energy agency has been unable to monitor or gain access to for months presents a new challenge for the Biden administration as it prepares for nuclear talks. 
- <p class="updated_time"> 04:34 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-moves-to-bolster-asia-trade-ties-in-bid-to-counter-chinas-influence-11637076879">U.S. Moves to Bolster Asia Trade Ties in Bid to Counter China's Influence</a> WSJ: Trade Representative Katherine Tai and Commerce Secretary Gina Raimondo are set to discuss economic issues in countries including Japan, South Korea and India. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -165,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-shiite-minority-cautiously-embraces-taliban-rule-seeking-protection-11637058601">Afghanistan's Shiite Minority Cautiously Embraces Taliban Rule</a> WSJ: This emergence of Shiite Taliban shows how the country’s new rulers are trying to blunt the sectarian divide and position themselves as a pan-Afghan national-liberation movement. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -204,7 +198,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:00 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:56 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden administration seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
