@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:11 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-china-taiwan/index.html">Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi</a> CNN: President Joe Biden made clear Tuesday evening he was not encouraging Taiwan's "independence" after using the word an hour earlier to describe the progress he made during a discussion of the island with his Chinese counterpart Monday evening. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 08:45 PM CT, Nov. 16 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 06:05 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/ahmaud-arbery-prosecution-rests-522766">Prosecution rests in trial of men who chased Ahmaud Arbery</a> Politico: Prosecutors concluded with Dr. Edmund Donoghue, the state medical examiner. 
- <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-china-taiwan/index.html">Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi</a> CNN: President Joe Biden made clear Tuesday evening he was not encouraging Taiwan's "independence" after using the word an hour earlier to describe the progress he made during a discussion of the island with his Chinese counterpart Monday evening. 
  <p class="updated_time"> 05:57 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/2022-midterm-elections.html">For a Clue About the 2022 Midterm Elections, Look at 2 Ohio Races</a> NYT: Neither race received much national attention, but there’s a long history of special election results foreshadowing the next general election. 
  <p class="updated_time"> 05:46 PM CT, Nov. 16 </p> 
