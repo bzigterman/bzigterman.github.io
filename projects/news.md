@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent meme</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
- <p class="updated_time"> 08:44 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 08:15 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302595?at_medium=RSS&at_campaign=KARANGA">Bulgarian election: Kiril Petkov, Assen Vassilev, a battle-bus and a brand new party</a> BBC: Two entrepreneurs heading an anti-corruption party look to form a government in Bulgaria. 
  <p class="updated_time"> 06:10 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59219595?at_medium=RSS&at_campaign=KARANGA">Jai Bhim: The Indian film that overtook The Godfather on IMDB</a> BBC: Jai Bhim, a film on Dalit repression, is at the top of IMDB rankings in just two weeks since its release. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59219595?at_medium=RSS&at_campaign=KARANGA">Jai Bhim: The Indian film that overtook The Godfather on IMDb</a> BBC: Jai Bhim, a film on Dalit repression, is at the top of IMDb rankings in just two weeks since its release. 
  <p class="updated_time"> 06:09 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59308958?at_medium=RSS&at_campaign=KARANGA">Climate change: What did the scientists make of COP26?</a> BBC: Scientists applaud some COP26 policies but fear measures don't go far enough and won’t be delivered. 
  <p class="updated_time"> 06:07 PM CT, Nov. 16 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:24 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/marjorie-taylor-greene-vaccination-status/index.html">Rep. Marjorie Taylor Greene says she hasn't received a Covid-19 vaccine</a> CNN: Rep. Marjorie Taylor Greene, who has publicly cast doubt on and spread misinformation about the efficacy of Covid-19 vaccines, revealed Tuesday that she has not been inoculated against the virus, answering a question she has dodged for months. 
  <p class="updated_time"> 09:11 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-china-taiwan/index.html">Biden says Taiwan's independence is up to Taiwan after discussing matter with Xi</a> CNN: President Joe Biden made clear Tuesday evening he was not encouraging Taiwan's "independence" after using the word an hour earlier to describe the progress he made during a discussion of the island with his Chinese counterpart Monday evening. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
@@ -238,6 +240,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/kristina-karamo-michigan-secretary-of-state-candidate/index.html">Trump-backed Michigan secretary of state candidate spread false election claims and January 6 conspiracy theories</a> CNN: Kristina Karamo -- the candidate Donald Trump is backing to be Michigan's next secretary of state -- has falsely claimed the former President was the true victor in Michigan in 2020 and has spread the conspiracy theory that left-wing anarchists were behind the January 6 attack on the Capitol. 
  <p class="updated_time"> 07:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
+ <p class="updated_time"> 07:09 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/senate-retirements-democrats-leahy-speier/index.html">Analysis: The drip, drip, drip of Democratic retirements </a> CNN: On Monday, Vermont Democratic Sen. Patrick Leahy announced that he would leave Congress when his eighth term expires at the end of 2022. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
  <p class="updated_time"> 06:58 PM CT, Nov. 16 </p> 
@@ -292,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/scott-perry-covid-positive-freedom-caucus/index.html">GOP Rep. Scott Perry tests positive for Covid-19</a> CNN: Republican Rep. Scott Perry of Pennsylvania has tested positive for Covid-19, his office announced Tuesday, a day after he was elected chair of the conservative House Freedom Caucus. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
- <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden sells his infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
  <p class="updated_time"> 03:08 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/pfizer-emergency-use-fda-covid-pill-522726">Pfizer seeks emergency use authorization for Covid-19 antiviral pill</a> Politico: The pill, called Paxlovid, was slightly less effective when given up to five days after patients presented symptoms, Pfizer said. 
  <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
