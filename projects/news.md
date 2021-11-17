@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 06:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 06:19 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
- <p class="updated_time"> 06:16 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 06:15 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 06:05 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59296288?at_medium=RSS&at_campaign=KARANGA">Ding Ding! Crazy Frog to make a comeback in December</a> BBC: The infuriatingly infectious amphibian topped the charts around the world in 2005 with Axel F. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
  <p class="updated_time"> 11:59 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313349?at_medium=RSS&at_campaign=KARANGA">Ollie the comfort dog makes getting jabbed a little easier for California children</a> BBC: Ollie the Goldendoodle is helping California children overcome their fear of getting a Covid jab. 
- <p class="updated_time"> 11:32 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 11:14 AM CT, Nov. 16 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/17/mccarthys-latest-crazy-town-headache-495132">POLITICO Playbook: McCarthy’s latest crazy-town headache</a> Politico: And new polling shows fresh voter concern about Biden’s acuity. 
  <p class="updated_time"> 06:08 AM CT, Nov. 17 </p> 
@@ -224,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar faces censure over an anime video of himself killing AOC</a> NPR: The House will vote on a resolution to censure Arizona Republican Rep. Paul Gosar for posting a video on social media that depicts him murdering Democratic Rep. Alexandria Ocasio Cortez. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
+ <a href="https://www.npr.org/2021/11/17/1056397095/morning-news-brief">News brief: Pfizer booster, Democrats promote Biden's plans, Blinken's Africa trip</a> NPR: All vaccinated adults could soon be eligible for a Pfizer COVID-19 booster. Democrats begin a nationwide drive to try to sell President Biden's agenda. Secretary of State Antony Blinken is in Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
- <p class="updated_time"> 10:29 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/americans-abortion-roe-v-wade-poll/index.html">Majority of Americans support Roe v. Wade being upheld, new poll shows</a> CNN: A majority of Americans support the US Supreme Court upholding its landmark decision in Roe v. Wade guaranteeing a constitutional right to abortion, according to a new ABC News/Washington Post poll. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html">Here's what's in the bipartisan infrastructure package</a> CNN: President Joe Biden signed a $1.2 trillion infrastructure bill into law Monday, finalizing a key part of his economic agenda. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
- <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936716/biden-signs-order-to-address-violence-against-native-people-at-tribal-nations-su">Biden signs order to address violence against Native people at tribal nations summit</a> NPR: President Biden hosted a summit with tribal nations at the White House, signing an executive order directing several federal agencies to better address violent crimes that target Native people. 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
@@ -406,6 +406,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
+ <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
