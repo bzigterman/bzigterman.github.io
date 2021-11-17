@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
+ <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent meme</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
+ <p class="updated_time"> 08:44 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 08:15 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
- <p class="updated_time"> 07:57 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59315168?at_medium=RSS&at_campaign=KARANGA">New York allows revellers at New Year's Eve celebrations</a> BBC: People who are vaccinated will be allowed into Times Square with proof of vaccination. 
- <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
@@ -210,6 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
+ <p class="updated_time"> 08:45 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/beijing-olympics-biden-administration/index.html">Biden administration weighing how to approach Beijing Winter Olympic Games</a> CNN: The Biden administration is still weighing how to approach the upcoming Beijing Winter Olympic Games, including the possibility of a diplomatic boycott, but hasn't reached a final conclusion, officials familiar with the matter said Tuesday. 
  <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of committee assignments</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
  <p class="updated_time"> 08:05 PM CT, Nov. 16 </p> 
@@ -224,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/deliberations-rittenhouse-jury-verdict-522773">No verdict after daylong deliberations by Rittenhouse jury</a> Politico: The 18-year-old faces life in prison if convicted as charged. 
  <p class="updated_time"> 07:17 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
- <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 07:14 PM CT, Nov. 16 </p> 
@@ -300,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he seeks to keep his White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
- <p class="updated_time"> 01:44 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/beijing-olympics-biden-administration/index.html">Biden administration weighing how to approach Beijing Winter Olympic Games</a> CNN: The Biden administration is still weighing how to approach the upcoming Beijing Winter Olympic Games, including the possibility of a diplomatic boycott, but hasn't reached a final conclusion, officials familiar with the matter said Tuesday. 
  <p class="updated_time"> 01:37 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">Analysis: Biden's economic policy moves away from the strategy of his party's past two presidents</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
