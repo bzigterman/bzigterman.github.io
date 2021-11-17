@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 07:57 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 02:30 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
- <p class="updated_time"> 02:28 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59313779?at_medium=RSS&at_campaign=KARANGA">British Columbia battered by huge storm</a> BBC: Some areas in the province saw more rain in 24 hours than the average for the month of November. 
  <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
