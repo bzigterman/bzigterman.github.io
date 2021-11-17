@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 04:48 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
- <p class="updated_time"> 04:33 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
+ <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59328292?at_medium=RSS&at_campaign=KARANGA">The Office star who made a million dollars on Cameo</a> BBC: The Office star, Brian Baumgartner has made more than $1m making personalised videos on Cameo. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: British Columbia was hit with a major storm this week that cut transport links. 
  <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
@@ -143,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313778?at_medium=RSS&at_campaign=KARANGA">Life after deportation: 'Living the Mexican dream'</a> BBC: The experience of being sent back to Mexico can be a daunting one, though it can also have an upside. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
- <p class="updated_time"> 06:00 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59312656?at_medium=RSS&at_campaign=KARANGA">Afghan judges in UK fear for colleagues left behind</a> BBC: The BBC has spoken to female judges who have just arrived in the UK as part of a rescue mission. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/this-is-urgent-bipartisan-proposal-for-ufo-office-pushes-new-boundaries-522845">‘This is urgent’: Bipartisan proposal for UFO office pushes new boundaries</a> Politico: Sen. Kirsten Gillibrand says in an exclusive interview she is concerned about the impact of encounters on military personnel. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
+ <p class="updated_time"> 04:48 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 04:34 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
@@ -208,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 04:23 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
- <p class="updated_time"> 04:17 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell Law School professor, faces an unusually strident campaign against her nomination. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
@@ -275,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees Wednesday, in a sign of further splintering relations between House Democrats and Republicans. 
+ <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees,  a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
