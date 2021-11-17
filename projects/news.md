@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59325398?at_medium=RSS&at_campaign=KARANGA">US tourists fined for sneaking into Rome's Colosseum for a beer</a> BBC: A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view. 
+ <p class="updated_time"> 11:22 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59253091?at_medium=RSS&at_campaign=KARANGA">US annual drug overdose deaths hit record levels</a> BBC: Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise. 
+ <p class="updated_time"> 11:17 AM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: Minister says there is "no doubt" it is linked to climate change</a> BBC: Mike Farnworth says he has "no doubt these are climate-related events", as at least one person dies. 
  <p class="updated_time"> 11:11 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
  <p class="updated_time"> 11:10 AM CT, Nov. 17 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
- <p class="updated_time"> 06:05 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59296288?at_medium=RSS&at_campaign=KARANGA">Ding Ding! Crazy Frog to make a comeback in December</a> BBC: The infuriatingly infectious amphibian topped the charts around the world in 2005 with Axel F. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
@@ -61,16 +65,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/panel-urges-restricting-u-s-investment-in-china-over-security-concerns-11637163001">U.S. Should Restrict Investment in China Due to Security Concerns, Panel Says</a> WSJ: The commission of security and economic experts convened by Congress recommended that the U.S. take more aggressive steps to dial back commercial ties with China, warning of heightened national security risks. 
  <p class="updated_time"> 04:19 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59317919?at_medium=RSS&at_campaign=KARANGA">Pike River: Bodies spotted 11 years after New Zealand mine disaster</a> BBC: Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives. 
- <p class="updated_time"> 04:15 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 04:07 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59317299?at_medium=RSS&at_campaign=KARANGA">Decathlon halts canoe sales to curb English Channel migrant crossings</a> BBC: Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France. 
  <p class="updated_time"> 03:01 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59316562?at_medium=RSS&at_campaign=KARANGA">LA's Staples Center to be renamed after cryptocurrency firm</a> BBC: The Staples Center in Los Angeles will be renamed the Crypto.com Arena in a $700 million deal. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
- <p class="updated_time"> 01:37 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59306656?at_medium=RSS&at_campaign=KARANGA">DaBaby: DaniLeigh charged with assaulting partner</a> BBC: Rapper DaBaby calls police after allegedly being assaulted by his girlfriend, US police say. 
  <p class="updated_time"> 01:37 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59258910?at_medium=RSS&at_campaign=KARANGA">Delhi smog: Schools and colleges shut as pollution worsens</a> BBC: The decision was announced after several parts of the city recorded severe air quality. 
  <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
@@ -81,12 +81,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
  <p class="updated_time"> 11:30 PM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/two-powerful-dynasties-accused-of-rights-abuses-join-forces-in-the-philippines-11637145001">Two Dynasties Accused of Rights Abuses Join Forces in the Philippines</a> WSJ: Ferdinand Marcos Jr., son of a former dictator, and Sara Duterte-Carpio, daughter of the current president, have created a formidable election ticket, uniting two powerful families that have faced allegations of human-rights abuses. 
- <p class="updated_time"> 11:17 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59315372?at_medium=RSS&at_campaign=KARANGA">China, US agree to ease restrictions on journalists</a> BBC: It comes after a face-to-face virtual summit between Chinese President Xi and US President Biden. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
- <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59315174?at_medium=RSS&at_campaign=KARANGA">Frida Kahlo art fetches record $34.9m at auction</a> BBC: It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:15 PM CT, Nov. 16 </p> 
@@ -200,16 +196,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">'QAnon shaman' Chansley sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role on Jan. 6. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House set to punish Gosar for violent video depicting killing of Ocasio-Cortez</a> Politico: “We have to address it immediately," Speaker Nancy Pelosi said. "It’s outrageous on the part of the Republican leadership not to act upon this.” 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/us-iran-hackers-warning/index.html">US warns that Iranian government-sponsored hackers are targeting key US infrastructure</a> CNN: Iranian government-sponsored hackers are actively targeting a "broad range of victims" across the US transportation and health care sectors, and in some cases are deploying ransomware against those victims, US federal agencies and their counterparts from the United Kingdom and Australia warned on Wednesday. 
+ <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
+ <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-capitol-riot-chansley.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
+ <p class="updated_time"> 11:34 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/military-families-economic-strain/index.html">US military introducing measures to attempt to ease economic strain on service families</a> CNN: As the holiday season approaches and everyday prices for food, fuel and housing are rising, the US military is trying to ease the economic strain on service members by increasing the housing allowance in high-price areas and expanding financial education, according to a memo from Defense Secretary Lloyd Austin. 
  <p class="updated_time"> 11:30 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
- <p class="updated_time"> 11:26 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">US Conference of Catholic Bishops votes to pass document that could lead to denial of communion for public figures</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 11:25 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks F.T.C. to Investigate</a> NYT: President Biden asked the Federal Trade Commission to look into whether big oil companies are fueling a spike in gas prices. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056225488/self-styled-qanon-shaman-is-sentenced-to-41-months-in-capitol-riot">Self-styled 'QAnon shaman' is sentenced to 41 months in Capitol riot</a> NPR: Jacob Chansley, the self-styled "QAnon shaman," was sentenced to 41 months for his role in the Jan. 6 riot after pleading guilty to obstruction. 
- <p class="updated_time"> 10:55 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/us-iran-hackers-warning/index.html">US warns that Iranian government-sponsored hackers are targeting key US infrastructure</a> CNN: Iranian government-sponsored hackers are actively targeting a "broad range of victims" across the US transportation and health care sectors, and in some cases are deploying ransomware against those victims, US federal agencies and their counterparts from the United Kingdom and Australia warned on Wednesday. 
  <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-overdose-deaths-record/index.html">Biden on new record high for US overdose deaths: 'We cannot overlook this epidemic of loss' </a> CNN: President Joe Biden on Wednesday lamented new data showing American drug overdose deaths topped 100,000 annually for the first time, saying that "we cannot overlook this epidemic of loss, which has touched families and communities across the country." 
  <p class="updated_time"> 10:45 AM CT, Nov. 17 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he tries to keep White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/trump-files-jan-6-committee.html">Trump Seeks Continued Block on Sending White House Files to Jan. 6 Panel</a> NYT: The ex-president’s brief to a federal appeals court argued that his residual secrecy powers could block a House subpoena for information about the Capitol riot. 
- <p class="updated_time"> 12:14 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/pete-buttigieg-infrastructure-cash-gop-522655">Secretary Pete careening toward a GOP buzzsaw over infrastructure cash</a> Politico: "A lot of people will be looking for problems with how this money is spent," one Democratic strategist warned. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
@@ -382,12 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
- <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
- <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
