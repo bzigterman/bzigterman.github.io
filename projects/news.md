@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59315452?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Man wrongly identified as abduction suspect sues TV station</a> BBC: An Australian channel used Facebook pictures of the wrong man when reporting about Cleo Smith's rescue. 
+ <p class="updated_time"> 10:17 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
+ <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59315209?at_medium=RSS&at_campaign=KARANGA">Supply chain crisis: Japan's export growth slows as car production slides</a> BBC: Shipments of cars fell sharply as the global computer chip shortage has impacted the motor industry. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
- <p class="updated_time"> 10:00 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314811?at_medium=RSS&at_campaign=KARANGA">Heated protests outside court ahead of Rittenhouse verdict</a> BBC: Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial. 
  <p class="updated_time"> 09:52 PM CT, Nov. 16 </p> 
@@ -18,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 08:46 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent meme</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59314792?at_medium=RSS&at_campaign=KARANGA">US Congress to punish lawmaker over violent clip</a> BBC: Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman. 
  <p class="updated_time"> 08:15 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59314791?at_medium=RSS&at_campaign=KARANGA">Deadly storm cuts transport links around Vancouver</a> BBC: A woman has died in what one official described as the "worst weather storm in a century". 
  <p class="updated_time"> 07:51 PM CT, Nov. 16 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/11/16/1051199592/photos-belarus-poland-border-migrants">Here's what it's like for migrants trapped between Belarus and Poland</a> NPR: Thousands of migrants are camped along the border of Belarus and Poland, trapped between the countries. EU officials accuse Belarus of luring them across the border. 
  <p class="updated_time"> 11:59 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313349?at_medium=RSS&at_campaign=KARANGA">Ollie the comfort dog makes getting jabbed a little easier for California children</a> BBC: Ollie the Goldendoodle is helping California children overcome their fear of getting a Covid jab. 
- <p class="updated_time"> 11:58 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Gas prices soar after setback for Russian pipeline</a> BBC: Gas prices surge 17% after German regulators suspend approval of the Nord Stream 2 project. 
  <p class="updated_time"> 11:32 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
@@ -105,12 +107,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-xi-open-to-nuclear-arms-talks-white-house-says-11637098592">Biden, Xi Open to Nuclear-Arms Talks, White House Says</a> WSJ: President Biden and President Xi Jinping of China have agreed to explore talks on arms control, a top White House official said, a day after the two used a virtual meeting to emphasize the need to avoid conflict on regional security and economic matters. 
  <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59303652?at_medium=RSS&at_campaign=KARANGA">France clears Dunkirk migrant camp amid UK tensions</a> BBC: About 1,500 people are evacuated near Dunkirk, as the UK and France vow to tackle illegal migration. 
- <p class="updated_time"> 10:24 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59309528?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi charged with election fraud by Myanmar junta</a> BBC: The ousted leader is accused of electoral fraud, as the junta insists she is being treated well. 
  <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
- <p class="updated_time"> 10:01 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59169899?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test poses no threat - Moscow</a> BBC: The US earlier said Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
  <p class="updated_time"> 09:21 AM CT, Nov. 16 </p> 
@@ -127,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/belarus-migrant-crisis-exposes-tensions-within-european-union-11637083429">Belarus Migrant Crisis Exposes Tensions Within European Union</a> WSJ: German Chancellor Angela Merkel’s call to Belarus leader Alexander Lukashenko causes fear among East Europe nations about being sidelined in standoff with Russian ally. 
- <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
  <p class="updated_time"> 05:23 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/libyan-warlord-announces-presidential-bid-11637079780">Libyan Militia Leader Says He Will Run for President</a> WSJ: Khalifa Haftar registered his candidacy in his military stronghold of Benghazi where his militia forces control a swath of eastern Libya. His 14-month offensive to oust the internationally-recognized government in Tripoli ended in a United Nations-brokered truce last year. 
  <p class="updated_time"> 05:15 AM CT, Nov. 16 </p> 
@@ -149,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict. 
- <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
  <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-shiite-minority-cautiously-embraces-taliban-rule-seeking-protection-11637058601">Afghanistan's Shiite Minority Cautiously Embraces Taliban Rule</a> WSJ: This emergence of Shiite Taliban shows how the country’s new rulers are trying to blunt the sectarian divide and position themselves as a pan-Afghan national-liberation movement. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
@@ -161,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
- <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 06:01 PM CT, Nov. 15 </p> 
@@ -358,6 +350,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1056025589/wyoming-gop-votes-to-stop-recognizing-cheney-as-a-republican">Wyoming GOP votes to stop recognizing Cheney as a Republican</a> NPR: The Wyoming Republican Party will no longer recognize Liz Cheney as a member of the GOP in its second formal rebuke for her criticism of former President Donald Trump. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
+ <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for a tone shift in the bilateral relationship. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
