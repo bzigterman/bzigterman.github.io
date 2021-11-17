@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: British Columbia was hit with a major storm this week that cut transport links. 
  <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324640?at_medium=RSS&at_campaign=KARANGA">British Columbia storm: Cows rescued from storm floods by jet ski</a> BBC: A major storm has caused a state of emergency in the Canadian province of British Columbia. 
- <p class="updated_time"> 04:13 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Belarus-Poland Border Tensions Show Signs of Easing</a> NYT: Belarus moved hundreds of migrants from freezing camps into shelter, and Angela Merkel is talking with the Belarus leader, his first Western contact in over a year. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
  <p class="updated_time"> 04:05 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
- <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Crises in Sudan and Ethiopia Worsen as Blinken Begins Africa Visit</a> NYT: The developments signaled an inauspicious start to the U.S. secretary of state’s three-day trip to Kenya, Nigeria and Senegal. 
  <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
@@ -200,7 +200,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/this-is-urgent-bipartisan-proposal-for-ufo-office-pushes-new-boundaries-522845">‘This is urgent’: Bipartisan proposal for UFO office pushes new boundaries</a> Politico: Sen. Kirsten Gillibrand says in an exclusive interview she is concerned about the impact of encounters on military personnel. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 04:31 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 04:34 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
@@ -279,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-capitol-riot-chansley.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
  <p class="updated_time"> 11:08 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Expected to Discuss 2019 Airstrike That Killed Dozens</a> NYT: A Times investigation found that the bombing in Syria was carried out by a shadowy Special Operations unit. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
@@ -424,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
- <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
