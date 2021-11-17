@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:52 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
+ <p class="updated_time"> 11:52 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 11:52 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
+ <p class="updated_time"> 11:48 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-antivaxxers-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
+ <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
+ <p class="updated_time"> 11:46 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">A Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in freezing conditions. 
  <p class="updated_time"> 11:30 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325398?at_medium=RSS&at_campaign=KARANGA">US tourists fined for sneaking into Rome's Colosseum for a beer</a> BBC: A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view. 
  <p class="updated_time"> 11:22 AM CT, Nov. 17 </p> 
@@ -15,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: Minister says there is "no doubt" it is linked to climate change</a> BBC: Mike Farnworth says he has "no doubt these are climate-related events", as at least one person dies. 
  <p class="updated_time"> 11:11 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
- <p class="updated_time"> 11:10 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
  <p class="updated_time"> 11:06 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59253090?at_medium=RSS&at_campaign=KARANGA">Capitol riot: 'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison</a> BBC: Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol. 
  <p class="updated_time"> 10:25 AM CT, Nov. 17 </p> 
@@ -29,10 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
  <p class="updated_time"> 10:05 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
- <p class="updated_time"> 10:05 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: In Africa, Blinken Calls for Halt to Ethiopia Conflict</a> NYT: Beginning a three-nation tour of Africa, Secretary of State Antony Blinken pushed for a diplomatic resolution to Ethiopia’s civil war. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 09:58 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 09:52 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59323282?at_medium=RSS&at_campaign=KARANGA">Comedian Vir Das causes a stir with 'two Indias' monologue</a> BBC: Top Indian comedian faces nationalist backlash over show that describes country's dualities. 
  <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59317168?at_medium=RSS&at_campaign=KARANGA">Waterspout: Tornado-like funnels form off coast of Sicilian city of Licata</a> BBC: Residents of Licata share footage of multiple waterspouts, as southern Sicily reports severe weather. 
  <p class="updated_time"> 08:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
- <p class="updated_time"> 08:12 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59322526?at_medium=RSS&at_campaign=KARANGA">Britney Spears discusses life after conservatorship</a> BBC: Britney Spears has posted a video on her social media platforms answering questions following the termination of the conservatorship. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
- <p class="updated_time"> 06:28 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 06:13 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 06:12 PM CT, Nov. 16 </p> 
@@ -183,12 +185,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Plagues Strike Egypt: Sudden Floods, Then Scorpions Called Deathstalkers</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
- <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
- <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
 
 
 </details>
@@ -196,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">China bill throws a wrench in Senate's defense policy push</a> Politico: Majority Leader Chuck Schumer delayed advancing the National Defense Authorization Act on Wednesday morning amid disagreements on the Senate's China competition bill. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">'QAnon shaman' Chansley sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role on Jan. 6. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
