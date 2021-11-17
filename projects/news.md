@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
- <p class="updated_time"> 05:30 AM CT, Nov. 17 </p> 
+ <p class="updated_time"> 05:38 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/live/2021/11/17/world/belarus-poland-border-migrants">Live Updates: Belarus Moves Hundreds of Migrants Away From Border Checkpoint</a> NYT: Polish authorities warned that the border crisis could stretch on for months, even as Belarusian forces moved migrants to a warehouse, offering desperate families their first humanitarian aid in weeks. 
+ <p class="updated_time"> 05:38 AM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/17/world/blinken-africa">Live Updates: Blinken Visits Africa, in a Bid to Promote Democracy</a> NYT: Secretary of State Antony Blinken arrived in Kenya to push for a diplomatic resolution to the civil war in neighboring Ethiopia. He is also scheduled to travel this week to Nigeria and Senegal. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
