@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
+ <p class="updated_time"> 07:49 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
- <p class="updated_time"> 07:36 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-melbourne-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 06:53 AM CT, Nov. 18 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:06 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59331150?at_medium=RSS&at_campaign=KARANGA">Turkey releases Israeli couple arrested for spying over palace photos</a> BBC: Natalie and Mordi Oknin were accused of taking photos of the president's residence in Istanbul. 
- <p class="updated_time"> 04:05 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
  <p class="updated_time"> 07:34 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:10 AM CT, Nov. 18 </p> 
@@ -227,8 +229,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/covid-retail-e-commerce-environment-522786">Shopping online surged during Covid. Now the environmental costs are becoming clearer.</a> Politico: Piles of cardboard and fleets of delivery trucks are changing the environmental equation of retail. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
- <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:08 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
@@ -246,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 10:19 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kabul-attack-afghanistan-congressional-gold-medal/index.html">Senate sends bill awarding Congressional Gold Medal to US service members killed in Kabul airport bombing to Biden's desk</a> CNN: The Senate on Wednesday unanimously passed a bill that would award the Congressional Gold Medal to 13 US service members killed in a terrorist attack outside Kabul's airport in August, sending the bill to President Joe Biden's desk for his signature. 
- <p class="updated_time"> 09:39 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republican-governors-association-glenn-youngkin/index.html">Republican governors welcome Glenn Youngkin as they hope to replicate his success in 2022</a> CNN: Gov.-elect Glenn Youngkin, fresh off his victory in Virginia, got a hero's welcome at a gathering of the country's Republican governors on Wednesday. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
@@ -322,8 +320,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
- <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
+ <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
@@ -388,6 +386,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
+ <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden sells his infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
  <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
