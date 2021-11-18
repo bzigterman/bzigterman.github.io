@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59328904?at_medium=RSS&at_campaign=KARANGA">Vietnam: Police summon noodle seller over Salt Bae parody</a> BBC: The Vietnamese man filmed himself flamboyantly seasoning noodles and called himself spring onion bae. 
  <p class="updated_time"> 02:44 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
@@ -83,14 +85,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
  <p class="updated_time"> 02:01 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056129127/poland-belarus-eu-migrant-border-crisis">How a political standoff trapped hundreds of migrants at the Belarus-Poland border</a> NPR: The crisis appears to be stoked by the leader of Belarus over the country's tensions with the bloc. Polish border guards have used water cannons and tear gas to turn back stone-throwing migrants. 
+ <p class="updated_time"> 01:41 PM CT, Nov. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59327553?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Steve Bannon pleads not guilty to contempt of Congress charge</a> BBC: The former Trump strategist had refused to testify to a committee investigating US Capitol riot. 
  <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:54 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320515?at_medium=RSS&at_campaign=KARANGA">Merkel: Germany hit by full force of Covid</a> BBC: The chancellor speaks of a dramatic situation as European governments respond to a surge in cases. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
- <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59317306?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Belarus moves migrants stranded in camp</a> BBC: About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border. 
  <p class="updated_time"> 11:49 AM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59324637?at_medium=RSS&at_campaign=KARANGA">Red crabs swarm across roads and bridges in Australia</a> BBC: An annual migration of red crabs has covered roads and bridges on an Australian island. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
