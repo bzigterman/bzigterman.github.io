@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
+ <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 04:26 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
- <p class="updated_time"> 04:18 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 04:14 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 03:55 PM CT, Nov. 18 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
- <p class="updated_time"> 05:48 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:37 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/attorney-general-meta-investigation-522991">Bipartisan state attorneys general launch investigation into Meta</a> Politico: The heat was prompted by recent revelations from Facebook whistleblower Frances Haugen. 
+ <p class="updated_time"> 05:36 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision by the Trump administration to move the Bureau of Land Management’s headquarters to Colorado caused staff members to quit, according to a government watchdog report. 
+ <p class="updated_time"> 05:28 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
@@ -202,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 05:01 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
- <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision to move the Bureau of Land Management’s headquarters to Colorado caused staff to quit, according to a critical report. 
  <p class="updated_time"> 04:45 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 04:37 PM CT, Nov. 18 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Don’t Learn the Wrong Lesson on Inflation</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
- <p class="updated_time"> 02:39 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
  <p class="updated_time"> 02:25 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/arlenes-flowers-supreme-court/index.html">Florist who refused to make an arrangement for a same-sex couple drops Supreme Court challenge</a> CNN: A Washington state florist who refused to make an arrangement for a couple out of religious objections to same-sex marriage is withdrawing a pending petition before the Supreme Court after announcing that she has settled her dispute, according to her lawyers. 
  <p class="updated_time"> 02:22 PM CT, Nov. 18 </p> 
@@ -270,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems race to pass social spending plan with $1.7T cost estimate in hand</a> Politico: Speaker Nancy Pelosi confirmed plans to vote Thursday evening in a letter to Democrats, with a final cost report finished and a procedural obstacle out of the way. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
- <p class="updated_time"> 12:59 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/democrats-cbo-tax-522959">Democrats battle CBO over whether the rich will be spooked into tax compliance</a> Politico: All sides agree that boosting funding for the IRS would be a moneymaker for the government. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
