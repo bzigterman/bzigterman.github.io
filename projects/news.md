@@ -192,10 +192,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
+ <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
- <p class="updated_time"> 01:58 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
  <p class="updated_time"> 01:56 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056903692/2-suspected-iranian-hackers-are-charged-with-trying-to-intimidate-u-s-voters">2 suspected Iranian hackers are charged with trying to intimidate U.S. voters</a> NPR: The two Iranian nationals allegedly sent threatening emails to American voters and spread disinformation ahead of the 2020 election. 
  <p class="updated_time"> 01:51 PM CT, Nov. 18 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html">Steve Bannon's lawyers signal they want to slow walk the criminal case against him</a> CNN: Lawyers for right-wing firebrand Steve Bannon made clear at a court hearing Thursday that they intend to slow down, as much as possible, the criminal case against Bannon for failing to testify to the House January 6 select committee. 
  <p class="updated_time"> 11:00 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/canadian-energy-company-gretchen-whitmer-campaign-522937">The Canadian energy company in the way of Whitmer’s campaign</a> Politico: Enbridge digs deep in its spat with Michigan’s governor. 
- <p class="updated_time"> 10:40 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/cleta-mitchell-election-assistance-commission-advisor/index.html">How a lawyer who aided Trump's 2020 subversion efforts was named to a federal election advisory board</a> CNN: A conservative lawyer who helped Donald Trump try to overturn the 2020 election was named to a federal election advisory board this month, a move that illustrates how the former President still casts a long shadow over the federal government even after leaving office. 
  <p class="updated_time"> 10:15 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/turkey-pardon-white-house/index.html">Biden to serve justice for Peanut Butter and Jelly alongside a cornucopia of jokes at annual turkey pardon</a> CNN: President Joe Biden on Friday will gobble up his first opportunity to participate in a time-honored White House tradition: The annual Thanksgiving turkey pardon. 
  <p class="updated_time"> 10:14 AM CT, Nov. 18 </p> 
@@ -284,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/kamala-harris-white-house-relationship-522928">Harris: I don't feel misused by White House</a> Politico: Multiple news stories over the past week have depicted the vice president's office as a dysfunctional work environment. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
- <p class="updated_time"> 07:42 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
@@ -370,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
  <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-overdose-deaths-record/index.html">Biden on new record high for US overdose deaths: 'We cannot overlook this epidemic of loss' </a> CNN: President Joe Biden on Wednesday lamented new data showing American drug overdose deaths topped 100,000 annually for the first time, saying that "we cannot overlook this epidemic of loss, which has touched families and communities across the country." 
+ <p class="updated_time"> 10:38 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
