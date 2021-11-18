@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
+ <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056254276/gaza-united-nations-schmale-palestinians-israel">He was the top U.N. official in Gaza. An Israeli TV interview cost him his post</a> NPR: The U.N.'s Matthias Schmale reflects on his time as a leading international aid rep in Gaza. He departed UNRWA this week after offending Palestinians with his remarks on Israeli airstrikes. 
  <p class="updated_time"> 01:01 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59331978?at_medium=RSS&at_campaign=KARANGA">Julius Jones: Oklahoma prisoner's execution halted</a> BBC: The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59331978?at_medium=RSS&at_campaign=KARANGA">Julius Jones: Oklahoma prisoner's execution halted at last minute</a> BBC: The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry. 
  <p class="updated_time"> 01:00 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
- <p class="updated_time"> 09:33 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 08:20 AM CT, Nov. 18 </p> 
@@ -70,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:48 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
- <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056455810/megaspider-australian-zoo-funnel-web-spider-antivenom">An Australian zoo acquires a venomous, fanged 'megaspider' and is searching for more</a> NPR: The Australian Reptile Park wants to find the anonymous donor of the megaspider, which may lead them to an area with more unusually large arachnids that could boost the zoo's antivenom program. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
@@ -204,8 +204,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-turkey-pardon-peanut-butter-jelly-522949">White House reveals names of turkeys up for pardon — Peanut Butter and Jelly</a> Politico: Biden will gobble up the chance to grant clemency to either Peanut Butter or Jelly in a ceremony Friday. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems scramble to finish social spending bill as price tag expected Thursday</a> Politico: The CBO said it would finish its cost estimates for the bill Thursday afternoon, clearing one significant hurdle as Democratic leaders push toward the vote. 
+ <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
+ <p class="updated_time"> 01:02 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 12:59 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-cbo-tax-522959">Democrats battle CBO over whether the rich will be spooked into tax compliance</a> Politico: All sides agree that boosting funding for the IRS would be a moneymaker for the government. 
+ <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-leaders-ndaa-debate-522952">Senate leaders want to fast-track debate on Ukraine, Afghanistan, war powers</a> Politico: Chuck Schumer reupped his calls for Republicans to agree to hasten the process so that the National Defense Authorization Act can be finished ahead of Thanksgiving. 
  <p class="updated_time"> 12:31 PM CT, Nov. 18 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Pelosi says Build Back Better could pass House on Thursday but major obstacles await in the Senate  </a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html">Steve Bannon's lawyers signal they want to slow walk the criminal case against him</a> CNN: Lawyers for right-wing firebrand Steve Bannon made clear at a court hearing Thursday that they intend to slow down, as much as possible, the criminal case against Bannon for failing to testify to the House January 6 select committee. 
- <p class="updated_time"> 11:20 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/florida-legislature-desantis-covid-19-mandates/index.html">Florida legislature sends DeSantis four bills protecting workers who refuse Covid-19 vaccinations</a> CNN: Florida Gov. Ron DeSantis didn't get everything he wanted this week from state lawmakers in his campaign against federal coronavirus vaccine mandates. 
  <p class="updated_time"> 11:00 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/canadian-energy-company-gretchen-whitmer-campaign-522937">The Canadian energy company in the way of Whitmer’s campaign</a> Politico: Enbridge digs deep in its spat with Michigan’s governor. 
  <p class="updated_time"> 10:41 AM CT, Nov. 18 </p> 
@@ -252,12 +256,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
  <p class="updated_time"> 06:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056761894/rep-paul-gosar-is-censured-over-an-anime-video-depicting-him-of-killing-aoc">Rep. Paul Gosar is censured over an anime video depicting him of killing AOC</a> NPR: Lawmakers in the House censured GOP Rep. Paul Gosar of Arizona over an anime video that showed a character killing another character meant to be Democratic Rep. Alexandria Ocasio-Cortez of New York. 
- <p class="updated_time"> 06:08 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis being released by Senator Elizabeth Warren offers a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/joe-biden-made-in-america-tensions-canada-mexico-522868">Biden’s made-in-America push raises trade tensions at meeting with Canada, Mexico</a> Politico: The president’s biggest obstacles to improved relations may be his own policies to bolster American manufacturing. 
  <p class="updated_time"> 04:58 AM CT, Nov. 18 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/psaki-says-harris-faces-more-criticism-because-she-is-a-woman-and-woman-of-color-522853">Psaki says Harris faces more criticism because she is a woman and woman of color</a> Politico: The White House press secretary defended the vice president during POLITICO’s inaugural Women Rule Exchange. 
- <p class="updated_time"> 05:58 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
