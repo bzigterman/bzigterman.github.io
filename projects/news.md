@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:20 AM CT, Nov. 18 </p> 
+ <p class="updated_time"> 11:34 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html">Steve Bannon's lawyers signal they want to slow walk the criminal case against him</a> CNN: Lawyers for right-wing firebrand Steve Bannon made clear at a court hearing Thursday that they intend to slow down, as much as possible, the criminal case against Bannon for failing to testify to the House January 6 select committee. 
  <p class="updated_time"> 11:20 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/florida-legislature-desantis-covid-19-mandates/index.html">Florida legislature sends DeSantis four bills protecting workers who refuse Covid-19 vaccinations</a> CNN: Florida Gov. Ron DeSantis didn't get everything he wanted this week from state lawmakers in his campaign against federal coronavirus vaccine mandates. 
  <p class="updated_time"> 11:00 AM CT, Nov. 18 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
- <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
