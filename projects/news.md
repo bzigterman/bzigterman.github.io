@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:01 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59331978?at_medium=RSS&at_campaign=KARANGA">Julius Jones: Oklahoma prisoner's execution halted</a> BBC: The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry. 
+ <p class="updated_time"> 01:00 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">Sex Ed, One Instagram Post at a Time</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 12:31 PM CT, Nov. 18 </p> 
@@ -47,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59328904?at_medium=RSS&at_campaign=KARANGA">Vietnam: Police summon noodle seller over Salt Bae parody</a> BBC: The Vietnamese man filmed himself flamboyantly seasoning noodles and called himself spring onion bae. 
  <p class="updated_time"> 08:14 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces refused to return the bodies to their families. 
+ <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
@@ -55,10 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 07:24 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59333191?at_medium=RSS&at_campaign=KARANGA">P-Square: Nigerian Afrobeats twins make up after years of feuding</a> BBC: Fans are excited as Peter and Paul reconcile on their joint birthday after a painful break-up. 
- <p class="updated_time"> 07:01 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
- <p class="updated_time"> 06:48 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59331978?at_medium=RSS&at_campaign=KARANGA">Julius Jones: School walk-outs and protests as execution looms</a> BBC: Julius Jones is due to be executed on Thursday, but his last hope rests with the Oklahoma governor. 
  <p class="updated_time"> 06:14 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/prospects-of-intellectual-property-waiver-on-covid-19-vaccines-fade-11637251190">Prospects of Intellectual-Property Waiver on Covid-19 Vaccines Fade</a> WSJ: The U.S. hasn’t offered proposals to close the broad gap between the positions of the poor countries and those who oppose a broad waiver, say people close to the negotiations at the World Trade Organization. 
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
  <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
- <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
 
 
 </details>
