@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:06 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
+ <p class="updated_time"> 08:04 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
- <p class="updated_time"> 07:49 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-melbourne-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
+ <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 06:53 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
  <p class="updated_time"> 06:08 AM CT, Nov. 18 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
- <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
@@ -292,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/this-is-urgent-bipartisan-proposal-for-ufo-office-pushes-new-boundaries-522845">‘This is urgent’: Bipartisan proposal for UFO office pushes new boundaries</a> Politico: Sen. Kirsten Gillibrand says in an exclusive interview she is concerned about the impact of encounters on military personnel. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 05:07 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">Catholic bishops approve document that falls short of denying communion to Biden or other politicians who support abortion rights</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
@@ -340,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056225488/self-styled-qanon-shaman-is-sentenced-to-41-months-in-capitol-riot">Self-styled 'QAnon shaman' is sentenced to 41 months in Capitol riot</a> NPR: Jacob Chansley, who had pleaded guilty to obstruction, apologized and called his high-profile actions on Jan. 6 "indefensible." 
  <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-overdose-deaths-record/index.html">Biden on new record high for US overdose deaths: 'We cannot overlook this epidemic of loss' </a> CNN: President Joe Biden on Wednesday lamented new data showing American drug overdose deaths topped 100,000 annually for the first time, saying that "we cannot overlook this epidemic of loss, which has touched families and communities across the country." 
+ <p class="updated_time"> 10:38 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:33 AM CT, Nov. 17 </p> 
