@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon. 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
@@ -187,9 +187,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon. 
  <p class="updated_time"> 05:03 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/camp-bondsteel-afghans/index.html">US considering sending some evacuees who don't pass vetting process back to Afghanistan</a> CNN: The Biden administration is considering sending some of the Afghan evacuees at a US military base in Kosovo back to Afghanistan if they cannot clear the intense vetting process to come to the United States, according to three US officials familiar with the matter. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
@@ -240,6 +240,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 10:19 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kabul-attack-afghanistan-congressional-gold-medal/index.html">Senate sends bill awarding Congressional Gold Medal to US service members killed in Kabul airport bombing to Biden's desk</a> CNN: The Senate on Wednesday unanimously passed a bill that would award the Congressional Gold Medal to 13 US service members killed in a terrorist attack outside Kabul's airport in August, sending the bill to President Joe Biden's desk for his signature. 
+ <p class="updated_time"> 09:39 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/republican-governors-association-glenn-youngkin/index.html">Republican governors welcome Glenn Youngkin as they hope to replicate his success in 2022</a> CNN: Gov.-elect Glenn Youngkin, fresh off his victory in Virginia, got a hero's welcome at a gathering of the country's Republican governors on Wednesday. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 09:21 PM CT, Nov. 17 </p> 
@@ -255,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">Analysis: For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
+ <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
  <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
  <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 09:34 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
