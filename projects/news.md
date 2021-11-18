@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:35 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Plane to Bring Iraqi Migrants Home From Belarus</a> NYT: The evacuation flight comes amid a diplomatic push to ease the standoff at the E.U.’s eastern border. Chancellor Angela Merkel of Germany spoke with the Belarusian leader, Aleksandr G. Lukashenko, angering some European allies who accuse him of manufacturing the crisis. 
  <p class="updated_time"> 05:30 AM CT, Nov. 18 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
- <p class="updated_time"> 04:01 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
@@ -244,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/republican-governors-association-glenn-youngkin/index.html">Republican governors welcome Glenn Youngkin as they hope to replicate his success in 2022</a> CNN: Gov.-elect Glenn Youngkin, fresh off his victory in Virginia, got a hero's welcome at a gathering of the country's Republican governors on Wednesday. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
- <p class="updated_time"> 09:21 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/defense-bill-schumer-china-competition-gop/index.html">Senate clears key procedural hurdle to advance defense bill after Schumer and Pelosi strike deal on China competition bill</a> CNN: Senate Republicans are holding up action on the annual defense policy bill, upset that Senate Majority Leader Chuck Schumer wants to add to it an unrelated bill aimed at increasing US economic competition with China. 
  <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
  <p class="updated_time"> 08:51 PM CT, Nov. 17 </p> 
@@ -266,6 +264,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
+ <p class="updated_time"> 07:14 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/florida-legislature-desantis-covid-19-mandates/index.html">Florida legislature sends DeSantis four bills protecting workers who refuse Covid-19 vaccinations</a> CNN: Florida Gov. Ron DeSantis didn't get everything he wanted this week from state lawmakers in his campaign against federal coronavirus vaccine mandates. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: The Biden administration oversaw one of the largest oil and gas lease sales in American history just days after pledging to take action on climate change at the international climate summit. 
  <p class="updated_time"> 06:45 PM CT, Nov. 17 </p> 
