@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">Beyond the Freezing Forest, a Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in bitter conditions. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
@@ -20,9 +22,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
- <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 02:55 AM CT, Nov. 18 </p> 
@@ -186,14 +188,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:33 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">When politicians make the maps, winning is easy — or impossible</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: 'Bad policy, bad politics'</a> Politico: Democrats worry they're gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/whos-winning-congressional-redistricting-how-we-calculated-our-figures-522831">Who's winning congressional redistricting: How we calculated our figures</a> Politico: Projecting the partisan lean of 2022's new congressional districts takes a bit of history and a lot of math. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
- <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
+ <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Democrats’ spending bill aims to collect a minimum tax from large, profitable corporations.</a> NYT: An analysis being released by Senator Elizabeth Warren offers a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
@@ -226,16 +234,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
- <p class="updated_time"> 08:13 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">Analysis: For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
- <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
  <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
- <p class="updated_time"> 07:34 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 09:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
@@ -366,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">The GOP is engineering a majority with new maps ahead of the 2022 elections</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
- <p class="updated_time"> 07:47 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/judge-trump-taxes-522774">Judge questions why Justice reversed course on Trump taxes</a> Politico: The Trump appointee is considering a drive by the former president to block Congress from seeing his returns. 
  <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
