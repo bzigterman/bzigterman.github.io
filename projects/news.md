@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:31 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The spot where thousands of migrants had massed in recent days was empty on Thursday, as some took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian government’s moves to ease the crisis. 
- <p class="updated_time"> 07:02 AM CT, Nov. 18 </p> 
+ <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
+ <p class="updated_time"> 07:36 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
+ <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-melbourne-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 06:53 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
- <p class="updated_time"> 06:25 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 06:08 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330365?at_medium=RSS&at_campaign=KARANGA">Flight carrying Afghan girl footballers lands in UK</a> BBC: The girls were granted asylum in the UK after many received threats from the new Taliban regime. 
  <p class="updated_time"> 06:01 AM CT, Nov. 18 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59328904?at_medium=RSS&at_campaign=KARANGA">Vietnam: Police summon noodle seller over Salt Bae parody</a> BBC: The Vietnamese man filmed himself flamboyantly seasoning noodles and called himself spring onion bae. 
  <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59329454?at_medium=RSS&at_campaign=KARANGA">Mumbai: India baby girl found in drain recovering</a> BBC: Police in Mumbai were called in to rescue the five-day-old after residents were alerted by cats. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president will face visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
  <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056455810/megaspider-australian-zoo-funnel-web-spider-antivenom">An Australian zoo acquires a venomous, fanged 'megaspider' and is searching for more</a> NPR: The Australian Reptile Park wants to find the anonymous donor of the megaspider, which may lead them to an area with more unusually large arachnids that could boost the zoo's antivenom program. 
- <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
- <a href="https://www.wsj.com/articles/irans-nuclear-fuel-production-is-accelerating-u-n-finds-11637157259">Iran's Stockpile of Near-Weapons- Grade Nuclear Fuel Grows, U.N. Finds</a> WSJ: The International Atomic Energy Agency reported that Tehran has almost doubled its output of highly enriched uranium in recent months, putting it closer to being able to produce the fuel needed for a nuclear weapon. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:10 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/fbi-threats-schools/index.html">FBI gauges threats against educators and school board members</a> CNN: The FBI is working to assess the number of threats made against school board members and teachers, using a tracking tool that it says will help implement a directive from Attorney General Merrick Garland that has come under criticism from Republicans. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
@@ -320,10 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
- <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
- <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
  <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
@@ -336,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees,  a sign of further splintering relations between House Democrats and Republicans. 
+ <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
  <p class="updated_time"> 11:04 AM CT, Nov. 17 </p> 
@@ -348,6 +348,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056433785/democrats-launch-a-nationwide-sales-pitch-for-bidens-agenda">Democrats launch a nationwide sales pitch for Biden's agenda</a> NPR: President Biden and House Democrats are planning more than 1,000 events in the coming weeks to try to sell voters on the Build Back Better plan as they face sour poll numbers. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
@@ -416,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/steve-bannon-contempt-indictment-trump-522151">Opinion | Steve Bannon’s Contempt Indictment Isn’t All that Trump Foes Think It Is</a> Politico: His contempt charge is good news for Congress, but it’s probably not the first in a wave of similar prosecutions. 
- <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
