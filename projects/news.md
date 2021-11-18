@@ -7,14 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987410/the-tennis-world-is-calling-on-china-to-prove-a-chinese-tennis-star-is-safe">The tennis world is calling on China to prove a Chinese tennis star is safe</a> NPR: One of China's biggest tennis stars accused a former Vice Premier of sexual assault — then disappeared from public view. The Women's Tennis Association is calling on China to prove she's OK. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
+ <p class="updated_time"> 03:21 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden 'considering' US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
  <p class="updated_time"> 02:55 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Face-Off Relaxes as Some Migrants Fly Home</a> NYT: The first repatriation flight organized by Iraq took hundreds of people back to that country, while Belarus cleared out camps where thousands of people had massed, hoping to cross into Poland. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/us-beijing-winter-olympics-boycott.html">Biden Says U.S. ‘Considering’ Diplomatic Boycott of the Beijing Olympics</a> NYT: The boycott would mean that no U.S. government officials would attend the Games, which begin in February, though it would not prevent athletes from attending. 
- <p class="updated_time"> 02:26 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden 'considering' US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
  <p class="updated_time"> 01:41 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59329973?at_medium=RSS&at_campaign=KARANGA">Croatia violated girl's rights before she was killed by train - court</a> BBC: Six year-old Madina Hussiny's family were ordered to go back over the Croatian border in 2017. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
@@ -58,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 08:56 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Is Considering Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott would bar government officials from attending the Games. 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Weighing Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott would bar government officials from attending the Games. 
  <p class="updated_time"> 08:40 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
@@ -133,14 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646761/poland-has-accused-belarus-and-russia-of-trying-to-use-migrants-to-destabilize-t">Poland has accused Belarus and Russia of trying to use migrants to destabilize the EU</a> NPR: Some European countries have accused Russia of encouraging Belarus in its strategy of trying to push migrants across its border with the EU, but the Kremlin says it's not involved. 
  <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
- <p class="updated_time"> 03:44 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646740/la-palma-volcano-brings-both-destruction-and-renewal-to-the-island">La Palma volcano brings both destruction and renewal to the island</a> NPR: NPR's Mary Louise Kelly speaks with Carmen Solana, a volcanologist at the University of Portsmouth, about the impact of the ongoing volcano eruption at La Palma, in the Canary Islands. 
- <p class="updated_time"> 03:44 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646726/frida-kahlo-self-portrait-breaks-records-by-selling-for-34-9-million">Frida Kahlo self-portrait breaks records by selling for $34.9 million</a> NPR: A 1949 self-portrait by Frida Kahlo broke records when it sold for $34.9 million this week. It's now the highest price paid for Latin American artwork. It was sold in just under two minutes. 
- <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-north-american-leaders-summit">Biden is set to host the leaders of Canada, Mexico for North American leaders summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
- <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646691/the-1st-trial-begins-for-volunteers-who-helped-migrants-in-greece">The 1st trial begins for volunteers who helped migrants in Greece</a> NPR: The first of more than 20 volunteers who helped migrants in Greece are going on trial, in what rights groups say is a politically motivated attempt to criminalize humanitarian work. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:47 PM CT, Nov. 17 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
- <p class="updated_time"> 02:01 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056129127/poland-belarus-eu-migrant-border-crisis">How a political standoff trapped hundreds of migrants at the Belarus-Poland border</a> NPR: The crisis appears to be stoked by the leader of Belarus over the country's tensions with the bloc. Polish border guards have used water cannons and tear gas to turn back stone-throwing migrants. 
  <p class="updated_time"> 01:31 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/britain-inflation.html">U.K. Inflation Hits a 10-Year High</a> NYT: Prices rose 4.2 percent last month from a year earlier, more than double the Bank of England’s target. 
  <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
- <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
@@ -196,6 +196,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987486/president-biden-to-meet-with-canadas-trudeau-during-north-american-leaders-summi">President Biden to meet with Canada's Trudeau during North American leaders' summit</a> NPR: President Biden is hosting Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for what was once known as the "Three Amigos" summit — the first one since 2016. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987403/democrats-are-trying-to-sell-bidens-infrastructure-law-and-social-safety-net-bil">Democrats are trying to sell Biden's infrastructure law and social safety net bill</a> NPR: Democrats are trying to get voters to connect their agenda to pocketbook issues of the moment. They are also struggling to get the party together to pass President Biden's Build Back Better bill. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
+ <p class="updated_time"> 03:17 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/vaccine-mandate-lawsuits-6th-circuit-en-banc/index.html">Opponents of Biden's vaccine mandate seek to ensure a majority of Republican-appointed judges hear case</a> CNN: Two challengers to the Biden administration's vaccine mandate for large employers are trying to ensure that their case is decided as quickly as possible by a majority of judges appointed by Republican presidents. 
  <p class="updated_time"> 03:02 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 02:54 PM CT, Nov. 18 </p> 
@@ -330,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: Despite pledging to take action on climate change at the international event, the Biden administration says its hands were tied after a federal judge stopped its attempt to pause the leasing program. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 06:31 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/desantis-florida-republicans-routine-migrant-flights-immigration/index.html">DeSantis claims Biden running 'clandestine' flights to send migrants to Florida, but the routine transport also occurred under Trump</a> CNN: Florida Gov. Ron DeSantis accused the Biden administration last week of secretly flying migrants from the US-Mexico border to his state in the dead of night without notice, but sources tell CNN the Biden administration did brief the Florida governor's office about the flights -- and that similar transports occurred during the Trump era. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
@@ -342,20 +354,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056658501/steve-bannon-pleads-not-guilty-to-contempt-of-congress-charges">Steve Bannon pleads not guilty to contempt of Congress charges</a> NPR: The former Trump adviser was indicted last week on two counts of contempt of Congress for defying a congressional subpoena. 
- <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646775/the-infrastructure-bill-could-boost-the-industry-removing-carbon-dioxide-from-th">The infrastructure bill could boost the industry removing carbon dioxide from the air</a> NPR: The infrastructure law includes money for capturing carbon from power plants and removing it from the air. Scientists say such technologies are crucial to avoiding the worst impacts of climate change. 
  <p class="updated_time"> 03:54 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members do not need to be vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
- <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
- <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646747/trimming-their-social-agenda-democrats-cut-the-proposal-of-free-community-colleg">Trimming their social agenda, Democrats cut the proposal of free community college</a> NPR: A federal tuition-free college program was cut from Biden's social agenda — but a patchwork of state and local programs persists. And at the lower level, it's a far more bipartisan policy. 
- <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646719/beto-orourke-is-campaigning-against-greg-abbott-for-texas-governor-seat">Beto O'Rourke is campaigning against Greg Abbott for Texas governor seat</a> NPR: Beto O'Rourke has begun his campaign against Texas GOP Gov. Greg Abbott. In this third run for office since leaving the House, O'Rourke's chances at winning the seat for Texas governor are slim. 
- <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-north-american-leaders-summit">Biden is set to host the leaders of Canada, Mexico for North American leaders summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
