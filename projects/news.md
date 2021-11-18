@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -61,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056850246/peng-shuai-email-china">Doubts grow over an email from tennis star Peng Shuai, who hasn't been seen in weeks</a> NPR: Shuai hasn't been heard from since making assault allegations against a top Communist Party official. The head of women's tennis is questioning the authenticity of an email purporting to be from her. 
  <p class="updated_time"> 10:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
+ <p class="updated_time"> 10:32 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Weighing Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott could bar government officials from attending the Games. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 09:43 AM CT, Nov. 18 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-surge-prompts-renewed-lockdown-in-parts-of-europe-11637267293">Covid-19 Surge Prompts Renewed Lockdown in Parts of Europe</a> WSJ: In a painful political U-turn, officials in Germany and elsewhere impose new measures following a rise in infections among vaccinated people. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
- <p class="updated_time"> 08:56 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Weighing Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott would bar government officials from attending the Games. 
  <p class="updated_time"> 08:40 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
- <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 07:24 AM CT, Nov. 18 </p> 
@@ -147,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
- <p class="updated_time"> 02:47 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders meet Thursday in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
@@ -194,6 +192,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
+ <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:42 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
- <p class="updated_time"> 07:10 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/fbi-threats-schools/index.html">FBI gauges threats against educators and school board members</a> CNN: The FBI is working to assess the number of threats made against school board members and teachers, using a tracking tool that it says will help implement a directive from Attorney General Merrick Garland that has come under criticism from Republicans. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
@@ -340,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
- <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: Despite pledging to take action on climate change at the international event, the Biden administration says its hands were tied after a federal judge stopped its attempt to pause the leasing program. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
