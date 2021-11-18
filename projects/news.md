@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59337955?at_medium=RSS&at_campaign=KARANGA">Covid: Germany to place tighter curbs on unvaccinated</a> BBC: Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -49,10 +51,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece suspends espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial "a farce" and called for the workers' release. 
  <p class="updated_time"> 08:18 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330365?at_medium=RSS&at_campaign=KARANGA">Afghan girl footballers reach UK on Kim Kardashian West-funded flight</a> BBC: The young female footballers came to the UK on an evacuation flight funded by Kim Kardashian West. 
- <p class="updated_time"> 08:16 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59328904?at_medium=RSS&at_campaign=KARANGA">Vietnam: Police summon noodle seller over Salt Bae parody</a> BBC: The Vietnamese man filmed himself flamboyantly seasoning noodles and called himself spring onion bae. 
  <p class="updated_time"> 08:14 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces refused to return the bodies to their families. 
+ <p class="updated_time"> 08:12 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Is Considering Diplomatic Boycott of Beijing Olympics</a> WSJ: President Biden said the U.S. government is considering a diplomatic boycott of the upcoming winter Olympics in Beijing. 
  <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
- <p class="updated_time"> 06:14 AM CT, Nov. 17 </p> 
- <a href="https://www.wsj.com/articles/belarus-moves-some-migrants-away-from-polands-border-11637169240">Belarus Moves Some Migrants Away From Poland's Border</a> WSJ: The shift is a tentative sign of a de-escalation in the standoff between the European Union and Belarus President Alexander Lukashenko. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
+ <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
  <p class="updated_time"> 01:40 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/gop-polling-expand-house-522966">GOP internal polling finds fertile ground for expanding the House map</a> Politico: Two Republican groups sponsored a survey of four longtime Democratic districts. 
  <p class="updated_time"> 01:39 PM CT, Nov. 18 </p> 
@@ -314,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: Despite pledging to take action on climate change at the international event, the Biden administration says its hands were tied after a federal judge stopped its attempt to pause the leasing program. 
- <p class="updated_time"> 06:45 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/steele-dossier-lawsuit-buzzfeed-522855">Russian entrepreneur drops suit against BuzzFeed over Steele dossier</a> Politico: Aleksej Gubarev and BuzzFeed issued a joint statement on the status of the lawsuit. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:31 PM CT, Nov. 17 </p> 
