@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
+ <p class="updated_time"> 01:41 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59329973?at_medium=RSS&at_campaign=KARANGA">Croatia violated girl's rights before she was killed by train - court</a> BBC: Six year-old Madina Hussiny's family were ordered to go back over the Croatian border in 2017. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59337955?at_medium=RSS&at_campaign=KARANGA">Covid: Germany to place tighter curbs on unvaccinated</a> BBC: Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: Rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
  <p class="updated_time"> 12:20 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
- <p class="updated_time"> 12:18 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 12:18 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union from Belarus, hundreds of Iraqis, mostly ethnic Kurds, agreed to be flown home, but thousands remain in Belarus. 
  <p class="updated_time"> 11:58 AM CT, Nov. 18 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/venezuela-turns-to-flashy-casinos-suvs-and-u-s-dollars-for-an-economic-boost-11637247602">Venezuela Turns to Flashy Casinos, SUVs and U.S. Dollars for an Economic Boost</a> WSJ: Economic liberalization puts Socialist country on path for growth after seven-year free fall; critics decry “crony capitalism.” 
- <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59329454?at_medium=RSS&at_campaign=KARANGA">Mumbai: India baby girl found in drain recovering</a> BBC: Police in Mumbai were called in to rescue the five-day-old after residents were alerted by cats. 
  <p class="updated_time"> 01:00 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president will face visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
+ <p class="updated_time"> 01:44 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/iran-2020-us-elections/index.html">US sanctions Iranians for cyber campaign it says was meant to influence the 2020 election</a> CNN: The United States has sanctioned six Iranian individuals and one entity "for attempting to influence the 2020 U.S. presidential election" through an extensive cyber campaign, the Treasury Department announced Thursday. 
  <p class="updated_time"> 01:40 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/gop-polling-expand-house-522966">GOP internal polling finds fertile ground for expanding the House map</a> Politico: Two Republican groups sponsored a survey of four longtime Democratic districts. 
  <p class="updated_time"> 01:39 PM CT, Nov. 18 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 12:15 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
- <p class="updated_time"> 12:04 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/iran-2020-us-elections/index.html">US sanctions Iranians for cyber campaign it says was meant to influence the 2020 election</a> CNN: The United States has sanctioned six Iranian individuals and one entity "for attempting to influence the 2020 U.S. presidential election" through an extensive cyber campaign, the Treasury Department announced Thursday. 
  <p class="updated_time"> 11:57 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Pelosi says Build Back Better could pass House on Thursday but major obstacles await in the Senate  </a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
@@ -370,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
