@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:26 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 03:51 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
+ <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 10:51 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056850246/peng-shuai-email-china">Doubts grow over an email from tennis star Peng Shuai, who hasn't been seen in weeks</a> NPR: Shuai hasn't been heard from since making assault allegations against a top Communist Party official. The head of women's tennis is questioning the authenticity of an email purporting to be from her. 
+ <a href="https://www.npr.org/2021/11/18/1056850246/peng-shuai-email-china">An email says Chinese tennis star Peng Shuai is OK, but no one has seen her in weeks</a> NPR: The head of the World Tennis Association questions whether the email is from Shuai, who recently accused a top Communist Party official of sexual assault. 
  <p class="updated_time"> 10:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 10:32 AM CT, Nov. 18 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59303971?at_medium=RSS&at_campaign=KARANGA">The mums using Instagram to offer advice to new parents</a> BBC: Covid has led to an increase in parenting gurus using social media to support new mums and dads. 
  <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
- <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59325468?at_medium=RSS&at_campaign=KARANGA">Why Mexico is not prepared for the migrant caravan</a> BBC: Thousands of migrants are travelling north, often expecting US entry will be easier than before. 
  <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59328292?at_medium=RSS&at_campaign=KARANGA">The Office star who made a million dollars on Cameo</a> BBC: The Office star, Brian Baumgartner has made more than $1m making personalised videos on Cameo. 
  <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
+ <p class="updated_time"> 03:41 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/desantis-florida-covid-mandates/index.html">Florida Gov. DeSantis signs legislation against Covid-19 mandates </a> CNN: Florida Republican Gov. Ron DeSantis on Thursday signed what he called "the strongest piece of legislation that's been enacted anywhere in the country" in opposition to coronavirus vaccination mandates on workers. 
  <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
  <p class="updated_time"> 03:17 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/vaccine-mandate-lawsuits-6th-circuit-en-banc/index.html">Opponents of Biden's vaccine mandate seek to ensure a majority of Republican-appointed judges hear case</a> CNN: Two challengers to the Biden administration's vaccine mandate for large employers are trying to ensure that their case is decided as quickly as possible by a majority of judges appointed by Republican presidents. 
- <p class="updated_time"> 03:02 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 02:54 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/saule-omarova-banking-nomination-522978">Biden bank cop nomination in doubt after fiery hearing</a> Politico: Saule Omarova was met with resistance from Republicans over her advocacy for a dominant role for government in finance. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
