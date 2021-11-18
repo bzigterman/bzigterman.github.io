@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:39 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-expand-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:07 PM CT, Nov. 17 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59325468?at_medium=RSS&at_campaign=KARANGA">Why Mexico is not prepared for the migrant caravan</a> BBC: Thousands of migrants are travelling north, often expecting US entry will be easier than before. 
  <p class="updated_time"> 05:46 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59328402?at_medium=RSS&at_campaign=KARANGA">Young Dolph: Rapper fatally shot in Memphis cookie store</a> BBC: Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59328402?at_medium=RSS&at_campaign=KARANGA">Young Dolph: Rapper fatally shot in Memphis cookie shop</a> BBC: Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
  <p class="updated_time"> 06:13 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
- <p class="updated_time"> 06:07 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59251912?at_medium=RSS&at_campaign=KARANGA">COP26: The truth behind the new climate change denial</a> BBC: The climate claims that went viral – and what you need to know about them. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59313778?at_medium=RSS&at_campaign=KARANGA">Life after deportation: 'Living the Mexican dream'</a> BBC: The experience of being sent back to Mexico can be a daunting one, though it can also have an upside. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
@@ -194,8 +194,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:51 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse lawyers ask judge to declare mistrial over video</a> Politico: The jury deliberated a second full day without reaching a verdict. 
+ <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map on Wednesday that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
+ <p class="updated_time"> 07:45 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
+ <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
  <p class="updated_time"> 07:34 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
@@ -208,18 +216,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-expand-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
- <p class="updated_time"> 06:33 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what a defendant said. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/psaki-says-harris-faces-more-criticism-because-she-is-a-woman-and-woman-of-color-522853">Psaki says Harris faces more criticism because she is a woman and woman of color</a> Politico: The White House press secretary defended the vice president during POLITICO’s inaugural Women Rule Exchange. 
  <p class="updated_time"> 05:58 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
+ <p class="updated_time"> 05:45 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/11/17/gosar-censure-reaction-vpx.cnn">'Eye for an eye': CNN analyst on what this vote means for Democrats' future</a> CNN: The House voted largely along party lines to censure GOP Rep. Paul Gosar of Arizona. The move comes after he posted a photoshopped anime video on his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez of New York and attacking President Biden. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Democrats weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
+ <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/this-is-urgent-bipartisan-proposal-for-ufo-office-pushes-new-boundaries-522845">‘This is urgent’: Bipartisan proposal for UFO office pushes new boundaries</a> Politico: Sen. Kirsten Gillibrand says in an exclusive interview she is concerned about the impact of encounters on military personnel. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
@@ -228,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/catholic-bishops-communion-biden-abortion/index.html">Catholic bishops approve document that falls short of denying communion to Biden or other politicians who support abortion rights</a> CNN: The US Conference of Catholic Bishops voted overwhelmingly Wednesday to approve a document that some conservative bishops had hoped would serve as a call to ban communion for President Joe Biden and other elected officials who support abortion rights. 
  <p class="updated_time"> 04:55 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 04:48 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
  <p class="updated_time"> 04:23 PM CT, Nov. 17 </p> 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
  <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
- <p class="updated_time"> 09:39 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/china-us-restrictions-journalists-522787">China, U.S. to ease restrictions on each other's journalists</a> Politico: The agreement represents a degree of progress on an issue that has long aggravated relations, but details remain to be ironed out. 
  <p class="updated_time"> 09:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/west-virginia-house-race-mooney-mckinley-trump-infrastructure/index.html">Trump's revenge tour on infrastructure vote splits Republicans in West Virginia House race</a> CNN: Donald Trump has been on a retribution campaign against the House Republicans who voted to impeach him. Now the former President is expanding his revenge tour to include a new crop of members: GOP lawmakers who backed the bipartisan infrastructure law. 
  <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
- <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
- <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
