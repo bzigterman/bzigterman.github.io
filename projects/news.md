@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:44 AM CT, Nov. 18 </p> 
+ <p class="updated_time"> 09:31 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
+ <p class="updated_time"> 09:20 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 08:37 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
- <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 02:35 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
@@ -219,13 +219,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/left-wing-midwest-media-outlet-launch-522919">Left-wing Midwest media outlet launching with backing from Dem donor</a> Politico: The outfit, called Heartland Signal, combines a new digital news site focused on election coverage with a progressive talk radio station. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: 'Bad policy, bad politics'</a> Politico: Democrats worry they're gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
+ <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/whos-winning-congressional-redistricting-how-we-calculated-our-figures-522831">Who's winning congressional redistricting: How we calculated our figures</a> Politico: Projecting the partisan lean of 2022's new congressional districts takes a bit of history and a lot of math. 
+ <a href="https://www.politico.com/news/2021/11/18/whos-winning-congressional-redistricting-how-we-calculated-our-figures-522831">Who’s winning congressional redistricting: How we calculated our figures</a> Politico: Projecting the partisan lean of 2022’s new congressional districts takes a bit of history and a lot of math. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/covid-retail-e-commerce-environment-522786">Shopping online surged during Covid. Now the environmental costs are becoming clearer.</a> Politico: Piles of cardboard and fleets of delivery trucks are changing the environmental equation of retail. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
