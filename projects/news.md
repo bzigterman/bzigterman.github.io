@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:11 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html">How political organizers are channeling parents' education frustrations</a> CNN: Watching from her home in the suburbs of Philadelphia, Clarice Schillinger wasn't surprised when Glenn Youngkin -- riding parents' fears and frustrations with schools -- won the Virginia governor's race. She says she saw the writing on the wall. 
  <p class="updated_time"> 11:04 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
@@ -207,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
  <p class="updated_time"> 08:51 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse lawyers ask judge to declare mistrial over video</a> Politico: The jury deliberated a second full day without reaching a verdict. 
+ <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse jury to resume after fresh mistrial request</a> Politico: At issue Wednesday was a piece of drone video that prosecutors showed the jury during closing arguments. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-build-back-better-act.html">Biden's Bill Funds Niche Items from Electric Bikes to 'Tree Equity'</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
@@ -223,11 +225,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
  <p class="updated_time"> 07:34 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  Democratic National Committee is considering disaffiliation with the national organization. 
+ <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
- <p class="updated_time"> 07:20 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html">How political organizers are channeling parents' education frustrations</a> CNN: Watching from her home in the suburbs of Philadelphia, Clarice Schillinger wasn't surprised when Glenn Youngkin -- riding parents' fears and frustrations with schools -- won the Virginia governor's race. She says she saw the writing on the wall. 
  <p class="updated_time"> 06:58 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
