@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:02 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clearing Main Border Crossing With Poland</a> NYT: A Belarusian official said that the government aimed to clear migrants from the site of some of the most intense standoffs with Polish border guards by the end of the day. A repatriation flight was bringing some Iraqis home amid a diplomatic push to ease the crisis on the E.U.’s eastern flank. 
+ <p class="updated_time"> 07:31 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The spot where thousands of migrants had massed in recent days was empty on Thursday, as some took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian government’s moves to ease the crisis. 
  <p class="updated_time"> 07:02 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-melbourne-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 06:53 AM CT, Nov. 18 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/fbi-threats-schools/index.html">FBI gauges threats against educators and school board members</a> CNN: The FBI is working to assess the number of threats made against school board members and teachers, using a tracking tool that it says will help implement a directive from Attorney General Merrick Garland that has come under criticism from Republicans. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:40 AM CT, Nov. 18 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056252505/saule-omarova-occ-treasury-nomination-confirmation-hearing-criticism">A look into the ugly and incredibly personal fight over Biden's pick to oversee banks</a> NPR: An ugly battle is being waged over Saule Omarova, President Biden's nominee to oversee most of the money held by banks. Her confirmation hearing is on Thursday. 
  <p class="updated_time"> 12:20 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kemp-perdue-trump-georgia-governor/index.html">Trump's thirst for revenge is causing chaos in the Georgia governor's race</a> CNN: A simmering war within the Georgia Republican Party is about -- what else? -- Donald Trump. 
- <p class="updated_time"> 11:11 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html">How political organizers are channeling parents' education frustrations</a> CNN: Watching from her home in the suburbs of Philadelphia, Clarice Schillinger wasn't surprised when Glenn Youngkin -- riding parents' fears and frustrations with schools -- won the Virginia governor's race. She says she saw the writing on the wall. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
@@ -276,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/steele-dossier-lawsuit-buzzfeed-522855">Russian entrepreneur drops suit against BuzzFeed over Steele dossier</a> Politico: Aleksej Gubarev and BuzzFeed issued a joint statement on the status of the lawsuit. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
+ <p class="updated_time"> 06:31 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/desantis-florida-republicans-routine-migrant-flights-immigration/index.html">DeSantis claims Biden running 'clandestine' flights to send migrants to Florida, but the routine transport also occurred under Trump</a> CNN: Florida Gov. Ron DeSantis accused the Biden administration last week of secretly flying migrants from the US-Mexico border to his state in the dead of night without notice, but sources tell CNN the Biden administration did brief the Florida governor's office about the flights -- and that similar transports occurred during the Trump era. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
@@ -309,7 +311,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:49 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/austin-transparency-civilian-casualties-522830">'We must work harder': Austin promises more transparency following new report on civilian casualties</a> Politico: A New York Times investigation showed military leaders attempted to cover up a strike on Syrian civilians in 2019. 
  <p class="updated_time"> 03:35 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/court-picks-joe-biden/index.html">Biden set to announce two new circuit court selections in first-year sprint to fill judicial openings </a> CNN: President Joe Biden will soon announce two new selections to serve as circuit judges as the push to name -- and confirm -- a raft of judicial nominees stays a central focus of the White House and Senate Democrats, according to a White House official. 
+ <a href="https://www.cnn.com/2021/11/17/politics/court-picks-joe-biden/index.html">Biden to announce two new circuit court picks in first-year sprint to fill judicial openings </a> CNN: President Joe Biden will soon announce two new selections to serve as circuit judges as the push to name -- and confirm -- a raft of judicial nominees stays a central focus of the White House and Senate Democrats, according to a White House official. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646719/beto-orourke-is-campaigning-against-greg-abbott-for-texas-governor-seat">Beto O'Rourke is campaigning against Greg Abbott for Texas governor seat</a> NPR: Beto O'Rourke has begun his campaign against Texas GOP Gov. Greg Abbott. In this third run for office since leaving the House, O'Rourke's chances at winning the seat for Texas governor are slim. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
  <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
- <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">2 men set to be cleared in the 1965 assassination of Malcolm X</a> Politico: A nearly two-year-long re-investigation found that authorities withheld evidence favorable to the defense. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 09:00 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/dark-money-sixteen-thirty-fund-522781">Liberal 'dark-money' behemoth funneled more than $400M in 2020</a> Politico: The Sixteen Thirty Fund sent the cash to groups that aided Democrats' efforts to unseat then-President Donald Trump and Republicans' Senate majority. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056433785/democrats-launch-a-nationwide-sales-pitch-for-bidens-agenda">Democrats launch a nationwide sales pitch for Biden's agenda</a> NPR: President Biden and House Democrats are planning more than 1,000 events in the coming weeks to try to sell voters on the Build Back Better plan as they face sour poll numbers. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
@@ -388,8 +386,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
- <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden sells his infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
+ <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
