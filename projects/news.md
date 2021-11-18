@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
+ <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
  <p class="updated_time"> 04:33 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 04:26 PM CT, Nov. 18 </p> 
@@ -34,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
  <p class="updated_time"> 03:21 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden 'considering' US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden mulls US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
- <p class="updated_time"> 07:06 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
@@ -196,14 +198,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/attorney-general-meta-investigation-522991">Bipartisan state attorneys general launch investigation into Meta</a> Politico: The heat was prompted by recent revelations from Facebook whistleblower Frances Haugen. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-debates-defense-bill-what-to-watch-522987">Nine things to watch as the Senate debates the defense bill</a> Politico: Nearly 1,000 amendments have been filed ahead of debate on the National Defense Authorization Act, which has stalled in the Senate for months. 
+ <p class="updated_time"> 05:03 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
+ <p class="updated_time"> 05:01 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
+ <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision to move the Bureau of Land Management’s headquarters to Colorado caused staff to quit, according to a critical report. 
  <p class="updated_time"> 04:45 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 04:37 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 04:29 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
- <p class="updated_time"> 04:13 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">RNC chairwoman acknowledges Biden's 2020 victory: 'He's the President. We know that'</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 04:10 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Pelosi says Build Back Better could pass House on Thursday but major obstacles await in the Senate  </a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
@@ -376,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
- <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
