@@ -1153,7 +1153,7 @@ html {
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">1.2K</td>
 <td class="gt_row gt_right">1.2K</td>
-<td class="gt_row gt_right">&minus;3&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;2&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.2M</td>
 <td class="gt_row gt_right gt_striped">801.0K</td>
@@ -1538,12 +1538,12 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">433.0K</td>
-<td class="gt_row gt_right">507.0K</td>
-<td class="gt_row gt_right">+17&percnt;</td></tr>
+<td class="gt_row gt_right">509.0K</td>
+<td class="gt_row gt_right">+18&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">7.0K</td>
-<td class="gt_row gt_right gt_striped">7.2K</td>
-<td class="gt_row gt_right gt_striped">+4&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">7.3K</td>
+<td class="gt_row gt_right gt_striped">+5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">30.0M</td>
 <td class="gt_row gt_right">29.9M</td>
@@ -1573,7 +1573,7 @@ As of Wednesday, the 14-day percent change in average new cases was:
 - 85% in Champaign County
 - 60% in Illinois
 - 21% in the United States
-- 17% worldwide
+- 18% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -1585,7 +1585,7 @@ As of Wednesday, the 14-day percent change in average new deaths was:
   
 - -31% in Illinois
 - -3% in the United States
-- 4% worldwide
+- 5% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
