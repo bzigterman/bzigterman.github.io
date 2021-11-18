@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:53 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID" and it's had a profound impact on the lives of many people. 
  <p class="updated_time"> 11:34 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263648/pfizer-says-it-will-share-the-rights-to-its-covid-19-pill">Pfizer says it will share the rights to its COVID-19 pill</a> NPR: Pfizer says it is willing to share rights to its COVID-19 pill, Paxlovid. It's an oral antiviral drug that can be taken outside the hospital, which could be a help to low income countries. 
- <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U.S border. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/senate-leaders-ndaa-debate-522952">Senate leaders want to fast-track debate on Ukraine, Afghanistan, war powers</a> Politico: Chuck Schumer reupped his calls for Republicans to agree to hasten the process so that the National Defense Authorization Act can be finished ahead of Thanksgiving. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 11:45 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-social-safety-net-climate.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor under pressure to act just hours before Julius Jones is to be executed</a> NPR: Julius Jones is set to be executed Thursday afternoon for a 1999 murder, despite questions in the case. Oklahoma's parole board has recommended commuting the sentence, but the governor has not acted. 
- <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/joe-biden-made-in-america-tensions-canada-mexico-522868">Biden’s made-in-America push raises trade tensions at meeting with Canada, Mexico</a> Politico: The president’s biggest obstacles to improved relations may be his own policies to bolster American manufacturing. 
  <p class="updated_time"> 04:58 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 04:32 AM CT, Nov. 18 </p> 
@@ -250,10 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/left-wing-midwest-media-outlet-launch-522919">Left-wing Midwest media outlet launching with backing from Dem donor</a> Politico: The outfit, called Heartland Signal, combines a new digital news site focused on election coverage with a progressive talk radio station. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
- <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
- <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/whos-winning-congressional-redistricting-how-we-calculated-our-figures-522831">Who’s winning congressional redistricting: How we calculated our figures</a> Politico: Projecting the partisan lean of 2022’s new congressional districts takes a bit of history and a lot of math. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
@@ -320,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056658501/steve-bannon-pleads-not-guilty-to-contempt-of-congress-charges">Steve Bannon pleads not guilty to contempt of Congress charges</a> NPR: The former Trump adviser was indicted last week on two counts of contempt of Congress for defying a congressional subpoena. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646775/the-infrastructure-bill-could-boost-the-industry-removing-carbon-dioxide-from-th">The infrastructure bill could boost the industry removing carbon dioxide from the air</a> NPR: The infrastructure law includes money for capturing carbon from power plants and removing it from the air. Scientists say such technologies are crucial to avoiding the worst impacts of climate change. 
- <p class="updated_time"> 04:07 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/pentagon-rising-costs-522829">Pentagon rushes to combat rising housing and food costs for troops</a> Politico: The moves come in the wake of dire news about inflation. 
  <p class="updated_time"> 03:54 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members do not need to be vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
@@ -340,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
+ <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/jj-covid-vaccine-thailand-myanmar-522820">U.S. J&J Covid vaccine doses will be sent to Thailand-Myanmar border</a> Politico: The deal comes after former ambassador to the United Nations Bill Richardson traveled to Myanmar on a private humanitarian mission. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
@@ -362,6 +360,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
