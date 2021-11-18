@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
+ <p class="updated_time"> 10:32 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
+ <p class="updated_time"> 10:30 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
+ <p class="updated_time"> 10:25 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled so far, as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 09:58 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: British Columbia was hit with a major storm this week that cut transport links. 
  <p class="updated_time"> 09:52 PM CT, Nov. 17 </p> 
@@ -45,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324640?at_medium=RSS&at_campaign=KARANGA">British Columbia storm: Cows rescued from storm floods by jet ski</a> BBC: People had to move cows to higher ground after devastating flooding in Canada's British Columbia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
- <p class="updated_time"> 04:05 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646691/the-1st-trial-begins-for-volunteers-who-helped-migrants-in-greece">The 1st trial begins for volunteers who helped migrants in Greece</a> NPR: The first of more than 20 volunteers who helped migrants in Greece are going on trial, in what rights groups say is a politically motivated attempt to criminalize humanitarian work. 
- <p class="updated_time"> 03:22 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:47 PM CT, Nov. 17 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
  <p class="updated_time"> 09:22 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056455810/megaspider-australian-zoo-funnel-web-spider-antivenom">An Australian zoo acquires a venomous, fanged 'megaspider' and is searching for more</a> NPR: The Australian Reptile Park wants to find the anonymous donor of the megaspider, which may lead them to an area with more unusually large arachnids that could boost the zoo's antivenom program. 
- <p class="updated_time"> 09:11 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/covid-beijing-olympics-poland.html">Covid Rules for Beijing Olympics Force Injured Athlete to Fly Home on Cargo Plane</a> NYT: A Polish luger, Mateusz Sochowicz, was told that coronavirus restrictions prevented him from boarding a commercial flight for another two weeks. 
  <p class="updated_time"> 07:33 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/irans-nuclear-fuel-production-is-accelerating-u-n-finds-11637157259">Iran's Stockpile of Near-Weapons- Grade Nuclear Fuel Grows, U.N. Finds</a> WSJ: The International Atomic Energy Agency reported that Tehran has almost doubled its output of highly enriched uranium in recent months, putting it closer to being able to produce the fuel needed for a nuclear weapon. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
- <p class="updated_time"> 05:18 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 03:26 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/u-k-inflation-hits-10-year-high-stirring-expectations-of-rate-rise-11637159168">U.K. Inflation Hits 10-Year High, Stirring Expectations of Rate Rise</a> WSJ: The rise in consumer prices has strengthened expectations the Bank of England will be the first major central bank to lift interest rates from pandemic lows as worries over global inflation intensify. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
@@ -192,7 +192,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:41 PM CT, Nov. 17 </p> 
+ <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
+ <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
+ <p class="updated_time"> 10:19 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kabul-attack-afghanistan-congressional-gold-medal/index.html">Senate sends bill awarding Congressional Gold Medal to US service members killed in Kabul airport bombing to Biden's desk</a> CNN: The Senate on Wednesday unanimously passed a bill that would award the Congressional Gold Medal to 13 US service members killed in a terrorist attack outside Kabul's airport in August, sending the bill to President Joe Biden's desk for his signature. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
@@ -223,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:20 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html">How political organizers are channeling parents' education frustrations</a> CNN: Watching from her home in the suburbs of Philadelphia, Clarice Schillinger wasn't surprised when Glenn Youngkin -- riding parents' fears and frustrations with schools -- won the Virginia governor's race. She says she saw the writing on the wall. 
  <p class="updated_time"> 06:58 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
+ <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: The Biden administration oversaw one of the largest oil and gas lease sales in American history just days after pledging to take action on climate change at the international climate summit. 
  <p class="updated_time"> 06:45 PM CT, Nov. 17 </p> 
@@ -238,6 +242,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 05:45 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/videos/politics/2021/11/17/gosar-censure-reaction-vpx.cnn">'Eye for an eye': CNN analyst on what this vote means for Democrats' future</a> CNN: The House voted largely along party lines to censure GOP Rep. Paul Gosar of Arizona. The move comes after he posted a photoshopped anime video on his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez of New York and attacking President Biden. 
+ <p class="updated_time"> 05:31 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/twitter-politics-audience-pew/index.html">Analysis: Why everyone should pay less attention to political Twitter</a> CNN: To have heard about the run-up to the 2021 election on political Twitter, you would have thought that Democrats were cruising to wins across the country -- fueled by Republican opposition to President Joe Biden's agenda and their slavish adherence to former President Donald Trump. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
@@ -268,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646747/trimming-their-social-agenda-democrats-cut-the-proposal-of-free-community-colleg">Trimming their social agenda, Democrats cut the proposal of free community college</a> NPR: A federal tuition-free college program was cut from Biden's social agenda — but a patchwork of state and local programs persists. And at the lower level, it's a far more bipartisan policy. 
  <p class="updated_time"> 03:49 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/austin-transparency-civilian-casualties-522830">'We must work harder': Austin promises more transparency following new report on civilian casualties</a> Politico: A New York Times investigation showed military leaders attempted to cover up a strike on Syrian civilians in 2019. 
- <p class="updated_time"> 03:40 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 03:35 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/court-picks-joe-biden/index.html">Biden set to announce two new circuit court selections in first-year sprint to fill judicial openings </a> CNN: President Joe Biden will soon announce two new selections to serve as circuit judges as the push to name -- and confirm -- a raft of judicial nominees stays a central focus of the White House and Senate Democrats, according to a White House official. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
- <p class="updated_time"> 02:32 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
  <p class="updated_time"> 02:05 PM CT, Nov. 17 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
- <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
