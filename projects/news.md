@@ -47,14 +47,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
+ <p class="updated_time"> 08:36 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Is Considering Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott would bar government officials from attending the Games. 
  <p class="updated_time"> 08:20 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece suspends espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial "a farce" and called for the workers' release. 
  <p class="updated_time"> 08:18 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330365?at_medium=RSS&at_campaign=KARANGA">Afghan girl footballers reach UK on Kim Kardashian West-funded flight</a> BBC: The young female footballers came to the UK on an evacuation flight funded by Kim Kardashian West. 
  <p class="updated_time"> 08:14 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces refused to return the bodies to their families. 
- <p class="updated_time"> 08:12 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Is Considering Diplomatic Boycott of Beijing Olympics</a> WSJ: President Biden said the U.S. government is considering a diplomatic boycott of the upcoming winter Olympics in Beijing. 
  <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
@@ -273,8 +273,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/left-wing-midwest-media-outlet-launch-522919">Left-wing Midwest media outlet launching with backing from Dem donor</a> Politico: The outfit, called Heartland Signal, combines a new digital news site focused on election coverage with a progressive talk radio station. 
- <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
@@ -372,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shot.html">F.D.A. Plans to Authorize Pfizer Boosters for All Adults This Week</a> NYT: Regulators are set to clear extra doses of Pfizer-BioNTech’s vaccine as soon as Thursday, after states began expanding eligibility on their own. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
