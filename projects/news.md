@@ -68,7 +68,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:48 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor under pressure to act just hours before Julius Jones is to be executed</a> NPR: Julius Jones is set to be executed Thursday afternoon for a 1999 murder, despite questions in the case. Oklahoma's parole board has recommended commuting the sentence, but the governor has not acted. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:40 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/gop-polling-expand-house-522966">GOP internal polling finds fertile ground for expanding the House map</a> Politico: Two Republican groups sponsored a survey of four longtime Democratic districts. 
+ <p class="updated_time"> 01:39 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/oklahoma-governor-commutes-julius-jones-death-sentence-522969">Oklahoma governor commutes Julius Jones’ death sentence</a> Politico: Gov. Stitt commuted the 41-year-old’s death sentence to life imprisonment without the possibility of parole. He had been scheduled for execution at 4 p.m. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-turkey-pardon-peanut-butter-jelly-522949">White House reveals names of turkeys up for pardon — Peanut Butter and Jelly</a> Politico: Biden will gobble up the chance to grant clemency to either Peanut Butter or Jelly in a ceremony Friday. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
@@ -253,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor under pressure to act just hours before Julius Jones is to be executed</a> NPR: Julius Jones is set to be executed Thursday afternoon for a 1999 murder, despite questions in the case. Oklahoma's parole board has recommended commuting the sentence, but the governor has not acted. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/joe-biden-made-in-america-tensions-canada-mexico-522868">Biden’s made-in-America push raises trade tensions at meeting with Canada, Mexico</a> Politico: The president’s biggest obstacles to improved relations may be his own policies to bolster American manufacturing. 
  <p class="updated_time"> 04:58 AM CT, Nov. 18 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
- <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/this-is-urgent-bipartisan-proposal-for-ufo-office-pushes-new-boundaries-522845">‘This is urgent’: Bipartisan proposal for UFO office pushes new boundaries</a> Politico: Sen. Kirsten Gillibrand says in an exclusive interview she is concerned about the impact of encounters on military personnel. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
