@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:48 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 02:55 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Face-Off Relaxes as Some Migrants Fly Home</a> NYT: The first repatriation flight organized by Iraq took hundreds of people back to that country, while Belarus cleared out camps where thousands of people had massed, hoping to cross into Poland. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:58 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: A major clean-up is under way in British Columbia after a major storm that cut off Vancouver. 
  <p class="updated_time"> 11:53 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID" and it's had a profound impact on the lives of many people. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID," and it's had a profound impact on many people's lives. 
  <p class="updated_time"> 11:24 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59337953?at_medium=RSS&at_campaign=KARANGA">Uganda's Kampala bombings: Muslim cleric accused of jihadist links shot dead</a> BBC: Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
