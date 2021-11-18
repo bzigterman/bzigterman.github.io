@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59328903?at_medium=RSS&at_campaign=KARANGA">Baby elephant dies after losing half its trunk in poacher's trap</a> BBC: The one-year-old calf succumbed to its injuries two days after being rescued by Indonesian villagers. 
  <p class="updated_time"> 09:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
- <p class="updated_time"> 07:39 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:07 PM CT, Nov. 17 </p> 
