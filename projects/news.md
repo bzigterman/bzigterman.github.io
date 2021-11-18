@@ -7,6 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
+ <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
+ <p class="updated_time"> 04:01 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
+ <p class="updated_time"> 02:55 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece begins espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial 'a farce' and called for the workers release. 
  <p class="updated_time"> 02:49 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59328904?at_medium=RSS&at_campaign=KARANGA">Vietnam: Police summon noodle seller over Salt Bae parody</a> BBC: The Vietnamese man filmed himself flamboyantly seasoning noodles and called himself spring onion bae. 
  <p class="updated_time"> 02:44 AM CT, Nov. 18 </p> 
@@ -14,17 +30,13 @@ permalink: /projects/news/
  <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59329454?at_medium=RSS&at_campaign=KARANGA">Mumbai: India baby girl found in drain recovering</a> BBC: Police in Mumbai were called in to rescue the five-day-old after residents were alerted by cats. 
  <p class="updated_time"> 01:19 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top official. 
- <p class="updated_time"> 01:01 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
  <p class="updated_time"> 12:44 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: 'Outrageous' India sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
- <p class="updated_time"> 11:04 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 10:32 PM CT, Nov. 17 </p> 
@@ -99,10 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 11:46 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">A Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in freezing conditions. 
- <p class="updated_time"> 11:30 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59325398?at_medium=RSS&at_campaign=KARANGA">US tourists fined for sneaking into Rome's Colosseum for a beer</a> BBC: A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view. 
- <p class="updated_time"> 11:22 AM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59253091?at_medium=RSS&at_campaign=KARANGA">US annual drug overdose deaths hit record levels</a> BBC: Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise. 
  <p class="updated_time"> 11:09 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/china-u-s-to-ease-limits-on-one-anothers-journalists-11637186985">China, U.S. to Ease Limits on One Another's Journalists</a> WSJ: Beijing ejected U.S. reporters from The Wall Street Journal, other newspapers in 2020; the Trump administration limited China outlets’ personnel. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
@@ -159,26 +167,18 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263606/afghanistan-is-on-the-brink-of-a-hunger-catastrophe-according-to-a-new-un-report">Afghanistan is on the brink of a hunger catastrophe, according to a new UN report</a> NPR: NPR's Audie Cornish talks with Richard Trenchard, the Food and Agriculture Organization of the United Nations' representative in Afghanistan, about a worsening hunger crisis there. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263589/haiti-gang-leader-calls-a-temporary-truce-to-let-gasoline-trucks-service-station">Haiti gang leader calls a temporary truce to let gasoline trucks service stations</a> NPR: A gang leader in Haiti has called a week-long truce and says he will let vital gasoline trucks service stations around the country. Gas shortages have brought Haiti to a near halt. 
- <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056263575/gazans-are-still-coping-with-the-trauma-of-the-war-with-israel-in-may">Gazans are still coping with the trauma of the war with Israel in May</a> NPR: When a missile landed outside their building in the war between Hamas and Israel, a Gaza therapist calmed his family with breathing exercises — one way parents there dealt with children's trauma. 
- <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
  <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
- <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
- <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
 
 
 </details>
@@ -188,12 +188,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: 'Bad policy, bad politics'</a> Politico: Democrats worry they're gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
+ <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
+ <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
+ <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Democrats’ spending bill aims to collect a minimum tax from large, profitable corporations.</a> NYT: An analysis being released by Senator Elizabeth Warren offers a first look at which companies could face higher tax bills under the proposal. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056252505/saule-omarova-occ-treasury-nomination-confirmation-hearing-criticism">A look into the ugly and incredibly personal fight over Biden's pick to oversee banks</a> NPR: An ugly battle is being waged over Saule Omarova, President Biden's nominee to oversee most of the money held by banks. Her confirmation hearing is on Thursday. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
+ <p class="updated_time"> 03:56 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 12:20 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kemp-perdue-trump-georgia-governor/index.html">Trump's thirst for revenge is causing chaos in the Georgia governor's race</a> CNN: A simmering war within the Georgia Republican Party is about -- what else? -- Donald Trump. 
  <p class="updated_time"> 11:11 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html">How political organizers are channeling parents' education frustrations</a> CNN: Watching from her home in the suburbs of Philadelphia, Clarice Schillinger wasn't surprised when Glenn Youngkin -- riding parents' fears and frustrations with schools -- won the Virginia governor's race. She says she saw the writing on the wall. 
- <p class="updated_time"> 11:04 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
@@ -226,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
- <p class="updated_time"> 06:58 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056713397/the-biden-administration-sold-oil-and-gas-leases-days-after-the-climate-summit">The Biden administration sold oil and gas leases days after the climate summit </a> NPR: The Biden administration oversaw one of the largest oil and gas lease sales in American history just days after pledging to take action on climate change at the international climate summit. 
  <p class="updated_time"> 06:45 PM CT, Nov. 17 </p> 
@@ -350,22 +360,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar is censured over an anime video depicts him killing AOC</a> NPR: The mainly party line vote of 223-207 came after GOP Rep. Gosar posted a video on social media with an animated scene of him murdering Democratic Rep. Alexandria Ocasio-Cortez. 
- <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056397095/morning-news-brief">News brief: Pfizer booster, Democrats promote Biden's plans, Blinken's Africa trip</a> NPR: All vaccinated adults could soon be eligible for a Pfizer COVID-19 booster. Democrats begin a nationwide drive to try to sell President Biden's agenda. Secretary of State Antony Blinken is in Africa. 
- <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/sections/health-shots/2021/11/17/1056276890/surprise-medical-bills-doctors-congress">Biden's plan to stop surprise medical bills faces bipartisan pushback in Congress</a> NPR: Congress passed a law last year to shield patients from surprise out-of-network medical charges. But many doctors in the House now say the way the law is to be implemented unfairly favors insurers. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
- <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056280738/house-democrats-have-a-new-strategy-to-engage-voters-of-color-in-the-midterm-ele">House Democrats have a new strategy to engage voters of color in the midterm elections</a> NPR: The new, multimillion-dollar Democratic push to mobilize voters of color in 2022 includes voter protection and combating disinformation. Republicans had some gains with nonwhite voters in 2020. 
  <p class="updated_time"> 11:32 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">The GOP is engineering a majority with new maps ahead of the 2022 elections</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:47 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/judge-trump-taxes-522774">Judge questions why Justice reversed course on Trump taxes</a> Politico: The Trump appointee is considering a drive by the former president to block Congress from seeing his returns. 
- <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
  <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fbi-school-threats.html">F.B.I. Set Plan to Track Threats Against School Boards and Teachers</a> NYT: The bureau established a “threat tag” system to monitor cases as part of a Justice Department effort to head off violence over flash point issues like masks and teaching about racism. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/debt-ceiling-deadline-december-15-treasury-secretary-yellen/index.html">Treasury secretary estimates US could reach debt limit on December 15</a> CNN: Treasury Secretary Janet Yellen now estimates that the government will run out of money on December 15, an extension from the previous deadline of December 3. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
- <p class="updated_time"> 05:57 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/2022-midterm-elections.html">For a Clue About the 2022 Midterm Elections, Look at 2 Ohio Races</a> NYT: Neither race received much national attention, but there’s a long history of special election results foreshadowing the next general election. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
