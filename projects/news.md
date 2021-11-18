@@ -186,10 +186,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:03 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/kamala-harris-white-house-relationship-522928">Harris: I don't feel misused by White House</a> Politico: Multiple news stories over the past week have depicted the vice president's office as a dysfunctional work environment. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:42 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
- <p class="updated_time"> 07:34 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:10 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/fbi-threats-schools/index.html">FBI gauges threats against educators and school board members</a> CNN: The FBI is working to assess the number of threats made against school board members and teachers, using a tracking tool that it says will help implement a directive from Attorney General Merrick Garland that has come under criticism from Republicans. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
- <p class="updated_time"> 10:14 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/covid-vaccine-manufacturing-1b-doses-year-522791">White House seeks to boost Covid vaccine manufacturing by 1B doses a year</a> Politico: The new initiative is aimed at ramping up the vaccine supply needed abroad. 
  <p class="updated_time"> 08:53 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056433785/democrats-launch-a-nationwide-sales-pitch-for-bidens-agenda">Democrats launch a nationwide sales pitch for Biden's agenda</a> NPR: President Biden and House Democrats are planning more than 1,000 events in the coming weeks to try to sell voters on the Build Back Better plan as they face sour poll numbers. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
