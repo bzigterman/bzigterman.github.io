@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
+ <p class="updated_time"> 02:48 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Face-Off Relaxes as Some Migrants Fly Home</a> NYT: The first repatriation flight organized by Iraq took hundreds of people back to that country, while Belarus cleared out camps where thousands of people had massed, hoping to cross into Poland. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:31 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056820585/twilight-of-democracy-author-says-the-autocrats-are-winning">'Twilight of Democracy' author says the autocrats are winning</a> NPR: Historian and Atlantic journalist Anne Applebaum says authoritarian rulers have joined together, creating a network of economic and political support, while suppressing the spread of democracy. 
  <p class="updated_time"> 12:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: Rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
+ <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
  <p class="updated_time"> 12:20 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
  <p class="updated_time"> 12:18 PM CT, Nov. 18 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
+ <p class="updated_time"> 09:43 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 08:56 AM CT, Nov. 18 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:40 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/new-reconstruction-points-to-animal-origins-for-covid-19-11637262041">New Reconstruction Points to Animal Origins for Covid-19</a> WSJ: An evolutionary biologist reviewed data and reports on first known cases to show most were clustered around Wuhan’s seafood market. 
+ <a href="https://www.wsj.com/articles/new-reconstruction-points-to-animal-origins-for-covid-19-11637262041">New Reconstruction Points to Animal Origins for Covid-19</a> WSJ: An evolutionary biologist reviewed data and reports on the first known cases to show most were clustered around Wuhan’s seafood market. 
  <p class="updated_time"> 08:20 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece suspends espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial "a farce" and called for the workers' release. 
  <p class="updated_time"> 08:18 AM CT, Nov. 18 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
- <p class="updated_time"> 01:00 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president will face visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
@@ -138,7 +138,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:44 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646726/frida-kahlo-self-portrait-breaks-records-by-selling-for-34-9-million">Frida Kahlo self-portrait breaks records by selling for $34.9 million</a> NPR: A 1949 self-portrait by Frida Kahlo broke records when it sold for $34.9 million this week. It's now the highest price paid for Latin American artwork. It was sold in just under two minutes. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
+ <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-north-american-leaders-summit">Biden is set to host the leaders of Canada, Mexico for North American leaders summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646691/the-1st-trial-begins-for-volunteers-who-helped-migrants-in-greece">The 1st trial begins for volunteers who helped migrants in Greece</a> NPR: The first of more than 20 volunteers who helped migrants in Greece are going on trial, in what rights groups say is a politically motivated attempt to criminalize humanitarian work. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Inflation Is Bad. Killing Jobs Is Worse.</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
+ <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Don’t Learn the Wrong Lesson on Inflation</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
  <p class="updated_time"> 02:39 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
  <p class="updated_time"> 02:25 PM CT, Nov. 18 </p> 
@@ -357,7 +357,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646719/beto-orourke-is-campaigning-against-greg-abbott-for-texas-governor-seat">Beto O'Rourke is campaigning against Greg Abbott for Texas governor seat</a> NPR: Beto O'Rourke has begun his campaign against Texas GOP Gov. Greg Abbott. In this third run for office since leaving the House, O'Rourke's chances at winning the seat for Texas governor are slim. 
  <p class="updated_time"> 03:29 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
+ <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-north-american-leaders-summit">Biden is set to host the leaders of Canada, Mexico for North American leaders summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
