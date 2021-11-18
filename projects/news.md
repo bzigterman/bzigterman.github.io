@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-social-safety-net-climate.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html">Steve Bannon's lawyers signal they want to slow walk the criminal case against him</a> CNN: Lawyers for right-wing firebrand Steve Bannon made clear at a court hearing Thursday that they intend to slow down, as much as possible, the criminal case against Bannon for failing to testify to the House January 6 select committee. 
  <p class="updated_time"> 11:20 AM CT, Nov. 18 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
- <p class="updated_time"> 10:33 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/gosar-violent-video-censure.html">Democrats Press for House Censure of Gosar for Violent Anime Video</a> NYT: The House is expected to vote to formally rebuke the Arizona Republican and strip him of his committee seats for the video depicting him attacking two Democrats. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/democrats-spending-plan-tax-increase/index.html">Here's why some millionaires might see a tax cut under the Democrats' spending plan</a> CNN: Most households won't see a tax increase in 2022 if the Democrats' $1.9 trillion spending plan is passed, according to a recent analysis from the nonpartisan Tax Policy Center. 
  <p class="updated_time"> 08:50 AM CT, Nov. 17 </p> 
