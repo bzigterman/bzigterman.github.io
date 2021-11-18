@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:48 AM CT, Nov. 18 </p> 
+ <p class="updated_time"> 07:02 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clearing Main Border Crossing With Poland</a> NYT: A Belarusian official said that the government aimed to clear migrants from the site of some of the most intense standoffs with Polish border guards by the end of the day. A repatriation flight was bringing some Iraqis home amid a diplomatic push to ease the crisis on the E.U.’s eastern flank. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-melbourne-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
+ <p class="updated_time"> 06:53 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
  <p class="updated_time"> 06:25 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 06:08 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330365?at_medium=RSS&at_campaign=KARANGA">Flight carrying Afghan girl footballers lands in UK</a> BBC: The girls were granted asylum in the UK after many received threats from the new Taliban regime. 
  <p class="updated_time"> 06:01 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
- <p class="updated_time"> 05:56 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/special-series/ppe-coronavirus-waste.html">Cities Are Not Only Tackling Covid, But Its Pollution, Too</a> NYT: All around the world the remnants of a global pandemic are testing the resolve of governments and private firms to rid the planet of its waste. 
- <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/americas/democracy-decline-worldwide.html">U.S. Allies Drive Much of World’s Democratic Decline, Data Shows</a> NYT: Washington-aligned countries backslid at nearly double the rate of non-allies, data shows, complicating long-held assumptions about American influence. 
 
 
 </details>
@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:33 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 04:32 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/joe-biden-selling-infrastructure/index.html">Americans aren't feeling relief from Biden's big Washington victory</a> CNN: If it was just about selling Americans on the infrastructure law, Democrats might have a hope. 
+ <a href="https://www.cnn.com/2021/11/18/politics/joe-biden-selling-infrastructure/index.html">Biden's personal salesmanship is hurting Democrats</a> CNN: If it was just about selling Americans on the infrastructure law, Democrats might have a hope. 
  <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
@@ -362,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/17/mccarthys-latest-crazy-town-headache-495132">POLITICO Playbook: McCarthy’s latest crazy-town headache</a> Politico: And new polling shows fresh voter concern about Biden’s acuity. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters' doubts rising about Biden’s health, mental fitness</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
+ <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/biden-oil-gas-leasing-gulf-of-mexico-climate/index.html">Why the Biden administration is reopening oil and gas leasing in the Gulf of Mexico</a> CNN: One of President Joe Biden's boldest environmental campaign promises was to ban new oil and natural gas leasing on public land and water. But on Wednesday his administration will open more than 80 million acres in the Gulf of Mexico to auction for drilling. 
  <p class="updated_time"> 04:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gas-prices-biden-inflation-522777">Pain at the pump drives Biden’s suffering in the polls</a> Politico: Consumer sentiment has plunged in recent weeks as inflation climbed to the highest levels in more than a generation. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
@@ -414,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
- <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/steve-bannon-contempt-indictment-trump-522151">Opinion | Steve Bannon’s Contempt Indictment Isn’t All that Trump Foes Think It Is</a> Politico: His contempt charge is good news for Congress, but it’s probably not the first in a wave of similar prosecutions. 
  <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
@@ -440,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: “Some elements of the party keep finding new ways to define Republicanism,” says one longtime GOP lobbyist and strategist. 
- <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
