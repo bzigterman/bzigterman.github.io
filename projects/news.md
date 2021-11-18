@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:42 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus Clears Main Border Crossing With Poland</a> NYT: The camps where thousands had massed in recent days sat empty on Thursday, as some migrants took shelter in a Belarus government warehouse. Their fate was uncertain as European leaders were skeptical of the Belarusian leader’s moves to ease the crisis. 
+ <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
+ <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/us-beijing-winter-olympics-boycott.html">Biden Says U.S. ‘Considering’ Diplomatic Boycott of the Beijing Olympics</a> NYT: The boycott would mean that no U.S. government officials would attend the Games, which begin in February, though it would not prevent athletes from attending. 
  <p class="updated_time"> 01:41 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59329973?at_medium=RSS&at_campaign=KARANGA">Croatia violated girl's rights before she was killed by train - court</a> BBC: Six year-old Madina Hussiny's family were ordered to go back over the Croatian border in 2017. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 10:51 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056850246/peng-shuai-email-china">Doubts grow over an email from tennis star Peng Shuai, who hasn't been seen in weeks</a> NPR: Shuai hasn't been heard from since making assault allegations against a top Communist Party official. The head of women's tennis is questioning the authenticity of an email purporting to be from her. 
- <p class="updated_time"> 10:35 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 10:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
- <p class="updated_time"> 06:29 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
@@ -196,22 +196,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:54 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/saule-omarova-banking-nomination-522978">Biden bank cop nomination in doubt after fiery hearing</a> Politico: Saule Omarova was met with resistance from Republicans over her advocacy for a dominant role for government in finance. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Inflation Is Bad. Killing Jobs Is Worse.</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
+ <p class="updated_time"> 02:39 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
+ <p class="updated_time"> 02:25 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/arlenes-flowers-supreme-court/index.html">Florist who refused to make an arrangement for a same-sex couple drops Supreme Court challenge</a> CNN: A Washington state florist who refused to make an arrangement for a couple out of religious objections to same-sex marriage is withdrawing a pending petition before the Supreme Court after announcing that she has settled her dispute, according to her lawyers. 
  <p class="updated_time"> 02:22 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
- <p class="updated_time"> 02:18 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction that Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
- <p class="updated_time"> 02:07 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/arlenes-flowers-supreme-court/index.html">Florist who refused to make an arrangement for a same-sex couple drops Supreme Court challenge</a> CNN: A Washington state florist who refused to make an arrangement for a couple out of religious objections to same-sex marriage is withdrawing a pending petition before the Supreme Court after announcing that she has settled her dispute, according to her lawyers. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
  <p class="updated_time"> 01:58 PM CT, Nov. 18 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
- <p class="updated_time"> 08:51 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse jury to resume after fresh mistrial request</a> Politico: At issue Wednesday was a piece of drone video that prosecutors showed the jury during closing arguments. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-build-back-better-act.html">Biden's Bill Funds Niche Items from Electric Bikes to 'Tree Equity'</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
