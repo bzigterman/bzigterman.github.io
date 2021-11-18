@@ -19,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 04:14 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
- <p class="updated_time"> 03:58 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Face-Off Relaxes as Some Migrants Fly Home</a> NYT: The first repatriation flight organized by Iraq took hundreds of people back to that country, while Belarus cleared out camps where thousands of people had massed, hoping to cross into Poland. 
  <p class="updated_time"> 03:55 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:37 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/attorney-general-meta-investigation-522991">Bipartisan state attorneys general launch investigation into Meta</a> Politico: The heat was prompted by recent revelations from Facebook whistleblower Frances Haugen. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-debates-defense-bill-what-to-watch-522987">Nine things to watch as the Senate debates the defense bill</a> Politico: Nearly 1,000 amendments have been filed ahead of debate on the National Defense Authorization Act, which has stalled in the Senate for months. 
  <p class="updated_time"> 05:03 PM CT, Nov. 18 </p> 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/madeleine-albright-defense-policy-board/index.html">Madeleine Albright to lead Defense Policy Board a year after Trump removed her </a> CNN: Former Secretary of State Madeleine Albright was sworn in as the new chair of the Defense Policy Board Wednesday, the Pentagon announced, almost exactly one year after the Trump administration abruptly removed her and other national security experts from the advisory committee. 
  <p class="updated_time"> 01:47 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/butterfield-retirement-announcement/index.html">G.K. Butterfield latest Democrat to announce he will not seek reelection</a> CNN: Democrat Rep. G.K. Butterfield of North Carolina announced Thursday he would not seek reelection in 2022, all but blaming his decision to retire on a redrawn congressional map that made his district more competitive. 
- <p class="updated_time"> 01:45 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 01:44 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/iran-2020-us-elections/index.html">US sanctions Iranians for cyber campaign it says was meant to influence the 2020 election</a> CNN: The United States has sanctioned six Iranian individuals and one entity "for attempting to influence the 2020 U.S. presidential election" through an extensive cyber campaign, the Treasury Department announced Thursday. 
  <p class="updated_time"> 01:40 PM CT, Nov. 18 </p> 
@@ -269,7 +267,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-turkey-pardon-peanut-butter-jelly-522949">White House reveals names of turkeys up for pardon — Peanut Butter and Jelly</a> Politico: Biden will gobble up the chance to grant clemency to either Peanut Butter or Jelly in a ceremony Friday. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems race to pass social spending plan with major hurdles cleared</a> Politico: Speaker Nancy Pelosi confirmed plans to vote Thursday evening in a letter to Democrats, with cost analyses in hand and a procedural obstacle out of the way. 
+ <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems race to pass social spending plan with $1.7T cost estimate in hand</a> Politico: Speaker Nancy Pelosi confirmed plans to vote Thursday evening in a letter to Democrats, with a final cost report finished and a procedural obstacle out of the way. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 12:59 PM CT, Nov. 18 </p> 
@@ -448,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
- <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: “Some elements of the party keep finding new ways to define Republicanism,” says one longtime GOP lobbyist and strategist. 
 
 
 </details>
