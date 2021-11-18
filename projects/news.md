@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/us-beijing-winter-olympics-boycott.html">Biden Says U.S. ‘Considering’ Diplomatic Boycott of the Beijing Olympics</a> NYT: The boycott would mean that no U.S. government officials would attend the Games, which begin in February, though it would not prevent athletes from attending. 
+ <p class="updated_time"> 02:26 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden 'considering' US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
  <p class="updated_time"> 01:41 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59329973?at_medium=RSS&at_campaign=KARANGA">Croatia violated girl's rights before she was killed by train - court</a> BBC: Six year-old Madina Hussiny's family were ordered to go back over the Croatian border in 2017. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 09:43 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-surge-prompts-renewed-lockdown-in-parts-of-europe-11637267293">Covid-19 Surge Prompts Renewed Lockdown in Parts of Europe</a> WSJ: In a painful political U-turn, officials in Germany and elsewhere impose new measures following a rise in infections among vaccinated people. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 08:56 AM CT, Nov. 18 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 07:24 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59333191?at_medium=RSS&at_campaign=KARANGA">P-Square: Nigerian Afrobeats twins make up after years of feuding</a> BBC: Fans are excited as Peter and Paul reconcile on their joint birthday after a painful break-up. 
- <p class="updated_time"> 06:14 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/prospects-of-intellectual-property-waiver-on-covid-19-vaccines-fade-11637251190">Prospects of Intellectual-Property Waiver on Covid-19 Vaccines Fade</a> WSJ: The U.S. hasn’t offered proposals to close the broad gap between the positions of the poor countries and those who oppose a broad waiver, say people close to the negotiations at the World Trade Organization. 
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
  <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59325468?at_medium=RSS&at_campaign=KARANGA">Why Mexico is not prepared for the migrant caravan</a> BBC: Thousands of migrants are travelling north, often expecting US entry will be easier than before. 
- <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59328040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges</a> BBC: A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins. 
  <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59328292?at_medium=RSS&at_campaign=KARANGA">The Office star who made a million dollars on Cameo</a> BBC: The Office star, Brian Baumgartner has made more than $1m making personalised videos on Cameo. 
  <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
@@ -169,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
- <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:24 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
@@ -198,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
+ <p class="updated_time"> 03:02 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 02:54 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/saule-omarova-banking-nomination-522978">Biden bank cop nomination in doubt after fiery hearing</a> Politico: Saule Omarova was met with resistance from Republicans over her advocacy for a dominant role for government in finance. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
  <p class="updated_time"> 01:58 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
- <p class="updated_time"> 01:57 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 01:56 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056903692/2-suspected-iranian-hackers-are-charged-with-trying-to-intimidate-u-s-voters">2 suspected Iranian hackers are charged with trying to intimidate U.S. voters</a> NPR: The two Iranian nationals allegedly sent threatening emails to American voters and spread disinformation ahead of the 2020 election. 
  <p class="updated_time"> 01:51 PM CT, Nov. 18 </p> 
