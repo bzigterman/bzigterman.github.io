@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: India 'outrageous' sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: 'Outrageous' India sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
  <p class="updated_time"> 11:04 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59325468?at_medium=RSS&at_campaign=KARANGA">Why Mexico is not prepared for the migrant caravan</a> BBC: Thousands of migrants are travelling north, often expecting US entry will be easier than before. 
  <p class="updated_time"> 05:46 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59328402?at_medium=RSS&at_campaign=KARANGA">Young Dolph: Rapper fatally shot in Memphis cookie shop</a> BBC: Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59328402?at_medium=RSS&at_campaign=KARANGA">Young Dolph: Rapper fatally shot in Memphis bakery</a> BBC: Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59328040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges</a> BBC: A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins. 
  <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
