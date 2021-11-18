@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:24 PM CT, Nov. 17 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 07:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
  <p class="updated_time"> 02:01 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056129127/poland-belarus-eu-migrant-border-crisis">How a political standoff trapped hundreds of migrants at the Belarus-Poland border</a> NPR: The crisis appears to be stoked by the leader of Belarus over the country's tensions with the bloc. Polish border guards have used water cannons and tear gas to turn back stone-throwing migrants. 
- <p class="updated_time"> 01:51 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:54 PM CT, Nov. 17 </p> 
@@ -194,6 +194,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
+ <p class="updated_time"> 09:21 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/defense-bill-schumer-china-competition-gop/index.html">Republicans stalling action on defense bill, as they push Schumer to drop China competition bill from it</a> CNN: Senate Republicans are holding up action on the annual defense policy bill, upset that Senate Majority Leader Chuck Schumer wants to add to it an unrelated bill aimed at increasing US economic competition with China. 
+ <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
  <p class="updated_time"> 08:51 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse lawyers ask judge to declare mistrial over video</a> Politico: The jury deliberated a second full day without reaching a verdict. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
@@ -201,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map on Wednesday that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
+ <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:13 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
@@ -240,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:28 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/bannon-plea/index.html">Steve Bannon pleading not guilty to contempt of Congress charges</a> CNN: Steve Bannon is pleading not guilty to his criminal contempt of Congress charges, according to a notice he filed in federal court on Wednesday. 
- <p class="updated_time"> 04:23 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell Law School professor, faces an unusually strident campaign against her nomination. 
  <p class="updated_time"> 04:16 PM CT, Nov. 17 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
- <p class="updated_time"> 02:43 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 02:32 PM CT, Nov. 17 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/report-2-men-cleared-malcolm-x-killing-522813">2 men set to be cleared in the 1965 assassination of Malcolm X</a> Politico: A nearly two-year-long re-investigation found that authorities withheld evidence favorable to the defense. 
- <p class="updated_time"> 01:16 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/defense-bill-schumer-china-competition-gop/index.html">Republicans stalling action on defense bill, as they push Schumer to drop China competition bill from it</a> CNN: Senate Republicans are holding up action on the annual defense policy bill, upset that Senate Majority Leader Chuck Schumer wants to add to it an unrelated bill aimed at increasing US economic competition with China. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
