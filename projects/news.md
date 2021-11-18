@@ -22,9 +22,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
- <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 02:55 AM CT, Nov. 18 </p> 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
- <p class="updated_time"> 07:08 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
@@ -188,20 +186,34 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon 
+ <p class="updated_time"> 05:03 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/camp-bondsteel-afghans/index.html">US considering sending some evacuees who don't pass vetting process back to Afghanistan</a> CNN: The Biden administration is considering sending some of the Afghan evacuees at a US military base in Kosovo back to Afghanistan if they cannot clear the intense vetting process to come to the United States, according to three US officials familiar with the matter. 
+ <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/joe-biden-made-in-america-tensions-canada-mexico-522868">Biden’s made-in-America push raises trade tensions at meeting with Canada, Mexico</a> Politico: The president’s biggest obstacles to improved relations may be his own policies to bolster American manufacturing. 
  <p class="updated_time"> 04:58 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/fentanyl-overdose-deaths-what-matters/index.html">Analysis: Americans are overdosing on a drug they don't know they're taking</a> CNN: Fueled by the coronavirus pandemic and an increase in fentanyl use, the US drug epidemic exploded while Americans were locked down. 
  <p class="updated_time"> 04:33 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
+ <p class="updated_time"> 04:32 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/joe-biden-selling-infrastructure/index.html">Americans aren't feeling relief from Biden's big Washington victory</a> CNN: If it was just about selling Americans on the infrastructure law, Democrats might have a hope. 
  <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">When politicians make the maps, winning is easy — or impossible</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
+ <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: 'Bad policy, bad politics'</a> Politico: Democrats worry they're gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/whos-winning-congressional-redistricting-how-we-calculated-our-figures-522831">Who's winning congressional redistricting: How we calculated our figures</a> Politico: Projecting the partisan lean of 2022's new congressional districts takes a bit of history and a lot of math. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/covid-retail-e-commerce-environment-522786">Covid’s retail riddle: Is e-commerce better for the environment?</a> Politico: Piles of cardboard and fleets of delivery trucks are changing the environmental equation of retail. 
+ <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html">Bannon judge represented Bush Justice Department in executive privilege fights</a> CNN: More than a decade before he was assigned the criminal contempt case brought against Steve Bannon, Judge Carl Nichols was a top Justice Department lawyer deeply involved in pushing sweeping arguments in favor of shielding an ex-presidential adviser from congressional testimony. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
+ <p class="updated_time"> 04:08 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
@@ -254,10 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/psaki-says-harris-faces-more-criticism-because-she-is-a-woman-and-woman-of-color-522853">Psaki says Harris faces more criticism because she is a woman and woman of color</a> Politico: The White House press secretary defended the vice president during POLITICO’s inaugural Women Rule Exchange. 
  <p class="updated_time"> 05:58 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
- <p class="updated_time"> 05:45 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/videos/politics/2021/11/17/gosar-censure-reaction-vpx.cnn">'Eye for an eye': CNN analyst on what this vote means for Democrats' future</a> CNN: The House voted largely along party lines to censure GOP Rep. Paul Gosar of Arizona. The move comes after he posted a photoshopped anime video on his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez of New York and attacking President Biden. 
- <p class="updated_time"> 05:31 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/twitter-politics-audience-pew/index.html">Analysis: Why everyone should pay less attention to political Twitter</a> CNN: To have heard about the run-up to the 2021 election on political Twitter, you would have thought that Democrats were cruising to wins across the country -- fueled by Republican opposition to President Joe Biden's agenda and their slavish adherence to former President Donald Trump. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
@@ -312,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
- <p class="updated_time"> 12:30 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republican-retaliation-gosar-censure-clyburn-cnntv/index.html">Clyburn on GOP threats of retaliation for Gosar censure vote: 'They're free to do that'</a> CNN: House Majority Whip Jim Clyburn dismissed GOP threats of retaliation in response to Democrats' censure resolution against Rep. Paul Gosar of Arizona, saying Republicans are "free to do that" if they win back control of the House in next year's midterms. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
@@ -360,12 +366,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056397160/democrats-launch-a-nationwide-drive-to-sell-the-public-on-president-bidens-plans">Democrats launch a nationwide drive to sell the public on President Biden's plans</a> NPR: President Biden and congressional Democrats are trying to show voters the benefits of the infrastructure bill that's now law, and the Build Back Better plan they are trying to pass. 
- <p class="updated_time"> 04:06 AM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056397130/rep-gosar-faces-censure-over-an-anime-video-of-himself-killing-aoc">Rep. Gosar is censured over an anime video depicts him killing AOC</a> NPR: The mainly party line vote of 223-207 came after GOP Rep. Gosar posted a video on social media with an animated scene of him murdering Democratic Rep. Alexandria Ocasio-Cortez. 
  <p class="updated_time"> 04:00 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/gerrymandering-redistricting.html">How a Cure for Gerrymandering Left U.S. Politics Ailing in New Ways</a> NYT: Independent commissions to oversee the redrawing of electoral maps were thought to be the solution to an age-old problem. Instead, they have become bogged down in political trench warfare. 
- <p class="updated_time"> 11:32 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/redistricting-what-matters/index.html">The GOP is engineering a majority with new maps ahead of the 2022 elections</a> CNN: Republicans are well positioned to win a majority in the House in 2022 even though the election is a year away. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 06:54 PM CT, Nov. 16 </p> 
