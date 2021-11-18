@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
+ <p class="updated_time"> 06:48 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59331978?at_medium=RSS&at_campaign=KARANGA">Julius Jones: School walk-outs and protests as execution looms</a> BBC: Julius Jones is due to be executed on Thursday, but his last hope rests with the Oklahoma governor. 
  <p class="updated_time"> 06:01 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
@@ -38,21 +40,21 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor under pressure to act just hours before Julius Jones is to be executed</a> NPR: Julius Jones is set to be executed Thursday afternoon for a 1999 murder, despite questions in the case. Oklahoma's parole board has recommended commuting the sentence, but the governor has not acted. 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">Beyond the Freezing Forest, a Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in bitter conditions. 
+ <p class="updated_time"> 04:12 AM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-arms-control-talks-as-chinas-nuclear-arsenal-grows-11637231400">U.S. Pushes Arms-Control Talks as China Ups Nuclear Arsenal</a> WSJ: What worries the Pentagon is that Beijing has yet to publicly explain the reasons for expanding its nuclear arsenal with more warheads and more weapons to carry them. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 04:06 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59331150?at_medium=RSS&at_campaign=KARANGA">Turkey releases Israeli couple arrested for spying over palace photos</a> BBC: Natalie and Mordi Oknin were accused of taking photos of the president's residence in Istanbul. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 02:35 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low against the dollar after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
+ <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59329454?at_medium=RSS&at_campaign=KARANGA">Mumbai: India baby girl found in drain recovering</a> BBC: Police in Mumbai were called in to rescue the five-day-old after residents were alerted by cats. 
  <p class="updated_time"> 01:00 AM CT, Nov. 18 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: 'Outrageous' India sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
- <p class="updated_time"> 11:30 PM CT, Nov. 17 </p> 
- <a href="https://www.wsj.com/articles/u-s-pushes-arms-control-talks-as-chinas-nuclear-arsenal-grows-11637231400">U.S. Pushes Arms-Control Talks as China Ups Nuclear Arsenal</a> WSJ: What worries the Pentagon is that Beijing has yet to publicly explain the reasons for expanding its nuclear arsenal with more warheads and more weapons to carry them. 
  <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 10:32 PM CT, Nov. 17 </p> 
@@ -159,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
- <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
@@ -205,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon. 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor under pressure to act just hours before Julius Jones is to be executed</a> NPR: Julius Jones is set to be executed Thursday afternoon for a 1999 murder, despite questions in the case. Oklahoma's parole board has recommended commuting the sentence, but the governor has not acted. 
  <p class="updated_time"> 05:03 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/camp-bondsteel-afghans/index.html">US considering sending some evacuees who don't pass vetting process back to Afghanistan</a> CNN: The Biden administration is considering sending some of the Afghan evacuees at a US military base in Kosovo back to Afghanistan if they cannot clear the intense vetting process to come to the United States, according to three US officials familiar with the matter. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
