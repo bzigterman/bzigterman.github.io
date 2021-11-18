@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
+ <p class="updated_time"> 04:26 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 04:18 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 04:14 PM CT, Nov. 18 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Belarus-Poland Face-Off Relaxes as Some Migrants Fly Home</a> NYT: The first repatriation flight organized by Iraq took hundreds of people back to that country, while Belarus cleared out camps where thousands of people had massed, hoping to cross into Poland. 
  <p class="updated_time"> 03:55 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
- <p class="updated_time"> 03:51 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
- <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
 
 
 </details>
@@ -192,6 +192,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/senate-debates-defense-bill-what-to-watch-522987">Nine things to watch as the Senate debates the defense bill</a> Politico: Nearly 1,000 amendments have been filed ahead of debate on the National Defense Authorization Act, which has stalled in the Senate for months. 
+ <p class="updated_time"> 04:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
+ <p class="updated_time"> 04:24 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
+ <p class="updated_time"> 04:13 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">RNC chairwoman acknowledges Biden's 2020 victory: 'He's the President. We know that'</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 04:10 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Pelosi says Build Back Better could pass House on Thursday but major obstacles await in the Senate  </a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
@@ -200,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
  <p class="updated_time"> 03:41 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/desantis-florida-covid-mandates/index.html">Florida Gov. DeSantis signs legislation against Covid-19 mandates </a> CNN: Florida Republican Gov. Ron DeSantis on Thursday signed what he called "the strongest piece of legislation that's been enacted anywhere in the country" in opposition to coronavirus vaccination mandates on workers. 
- <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
@@ -236,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
- <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
  <p class="updated_time"> 01:56 PM CT, Nov. 18 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
- <p class="updated_time"> 09:09 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/republicans-who-voted-censure-gosar-kinzinger-cheney/index.html">Cheney and Kinzinger vote with Democrats to censure GOP Rep. Paul Gosar</a> CNN: Republican Reps. Liz Cheney and Adam Kinzinger broke ranks on Wednesday to join all Democrats in voting for a resolution that both censured Republican Rep. Paul Gosar of Arizona and stripped him of his two committee assignments. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-build-back-better-act.html">Biden's Bill Funds Niche Items from Electric Bikes to 'Tree Equity'</a> NYT: The Build Back Better Act’s marquee provisions have been the focus, but Democrats have swept dozens of obscure measures and special interest breaks into the $1.85 trillion bill. 
  <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
