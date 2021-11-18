@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:35 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/18/world/belarus-poland-border-migrants">Live Updates: Plane to Bring Iraqi Migrants Home From Belarus</a> NYT: The evacuation flight comes amid a diplomatic push to ease the standoff at the E.U.’s eastern border. Chancellor Angela Merkel of Germany spoke with the Belarusian leader, Aleksandr G. Lukashenko, angering some European allies who accuse him of manufacturing the crisis. 
+ <p class="updated_time"> 05:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
+ <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon 
  <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:01 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
- <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">The Women Bringing Sex Ed to the Arab World</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Swab Go That Far Up Your Nose to Test for Covid?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
@@ -43,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
  <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: 'Outrageous' India sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
+ <p class="updated_time"> 11:30 PM CT, Nov. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-arms-control-talks-as-chinas-nuclear-arsenal-grows-11637231400">U.S. Pushes Arms-Control Talks as China Ups Nuclear Arsenal</a> WSJ: What worries the Pentagon is that Beijing has yet to publicly explain the reasons for expanding its nuclear arsenal with more warheads and more weapons to carry them. 
  <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 10:32 PM CT, Nov. 17 </p> 
@@ -73,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59328040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges</a> BBC: A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins. 
  <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59328292?at_medium=RSS&at_campaign=KARANGA">The Office star who made a million dollars on Cameo</a> BBC: The Office star, Brian Baumgartner has made more than $1m making personalised videos on Cameo. 
+ <p class="updated_time"> 04:38 PM CT, Nov. 17 </p> 
+ <a href="https://www.wsj.com/articles/wta-expresses-new-concern-over-safety-of-chinas-peng-shuai-following-email-11637206707">WTA Expresses New Concern Over Safety of China's Peng Shuai Following Email</a> WSJ: The head of the world’s governing body for women’s tennis raised new concerns about Chinese star Peng Shuai after state media posted what it said was an email recanting her sexual-assault accusations against a retired senior Chinese official. 
  <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324640?at_medium=RSS&at_campaign=KARANGA">British Columbia storm: Cows rescued from storm floods by jet ski</a> BBC: People had to move cows to higher ground after devastating flooding in Canada's British Columbia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
@@ -133,14 +141,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/upshot/global-survey-optimism.html">Where Are Young People Most Optimistic? In Poorer Nations.</a> NYT: More than half of Americans, young and old, say children today will be less economically successful than their parents, a global survey shows. 
  <p class="updated_time"> 05:46 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Cold and Marooned in a Police State as Desperation Takes Hold</a> NYT: Almost a dozen migrants have died in recent weeks in the standoff between Belarus, a close ally of Russia, and Poland, a member of NATO and the European Union, each determined not to bend. 
- <p class="updated_time"> 03:26 AM CT, Nov. 17 </p> 
- <a href="https://www.wsj.com/articles/u-k-inflation-hits-10-year-high-stirring-expectations-of-rate-rise-11637159168">U.K. Inflation Hits 10-Year High, Stirring Expectations of Rate Rise</a> WSJ: The rise in consumer prices has strengthened expectations the Bank of England will be the first major central bank to lift interest rates from pandemic lows as worries over global inflation intensify. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 01:24 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
- <p class="updated_time"> 11:30 PM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/two-powerful-dynasties-accused-of-rights-abuses-join-forces-in-the-philippines-11637145001">Two Dynasties Accused of Rights Abuses Join Forces in the Philippines</a> WSJ: Ferdinand Marcos Jr., son of a former dictator, and Sara Duterte-Carpio, daughter of the current president, have created a formidable election ticket, uniting two powerful families that have faced allegations of human-rights abuses. 
  <p class="updated_time"> 10:10 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 08:47 PM CT, Nov. 16 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
- <p class="updated_time"> 06:13 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 06:02 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&at_campaign=KARANGA">Evil Corp: 'My hunt for the world's most wanted hackers'</a> BBC: The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U.S border. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263606/afghanistan-is-on-the-brink-of-a-hunger-catastrophe-according-to-a-new-un-report">Afghanistan is on the brink of a hunger catastrophe, according to a new UN report</a> NPR: NPR's Audie Cornish talks with Richard Trenchard, the Food and Agriculture Organization of the United Nations' representative in Afghanistan, about a worsening hunger crisis there. 
- <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056263589/haiti-gang-leader-calls-a-temporary-truce-to-let-gasoline-trucks-service-station">Haiti gang leader calls a temporary truce to let gasoline trucks service stations</a> NPR: A gang leader in Haiti has called a week-long truce and says he will let vital gasoline trucks service stations around the country. Gas shortages have brought Haiti to a near halt. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">As Julius Jones' execution looms, activists are pressing the governor to intervene </a> NPR: Julius Jones was sentenced to death for a 1999 murder, despite questions in the case. Activists are urging Oklahoma's governor to stop Jones' planned execution, which is set for Thursday afternoon 
  <p class="updated_time"> 05:03 AM CT, Nov. 18 </p> 
@@ -201,7 +203,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/left-wing-midwest-media-outlet-launch-522919">Left-wing Midwest media outlet launching with backing from Dem donor</a> Politico: The outfit, called Heartland Signal, combines a new digital news site focused on election coverage with a progressive talk radio station. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: 'Bad policy, bad politics'</a> Politico: Democrats worry they're gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
@@ -250,8 +256,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">Analysis: For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
+ <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
  <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
+ <p class="updated_time"> 07:34 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/college-democrats-of-america-dnc-522864">Allegations of bigotry and calls for impeachment rock College Democrats</a> Politico: The situation is so bad that the  DNC is considering disaffiliation with the national organization. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 06:53 PM CT, Nov. 17 </p> 
@@ -262,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
- <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/psaki-says-harris-faces-more-criticism-because-she-is-a-woman-and-woman-of-color-522853">Psaki says Harris faces more criticism because she is a woman and woman of color</a> Politico: The White House press secretary defended the vice president during POLITICO’s inaugural Women Rule Exchange. 
  <p class="updated_time"> 05:58 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/house-vote-censure-gosar-aoc-video/index.html">House votes to censure and remove Gosar from committees over violent video targeting AOC and Biden</a> CNN: The House is set to vote Wednesday to approve a resolution that censures Rep. Paul Gosar and strips him of his two committee assignments, which if passed would be the first time a sitting House member will be censured in more than 10 years. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
@@ -308,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 02:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/bishops-dodge-biden-rebuke-communion-statement-522808">U.S. bishops dodge rebuke of Biden in statement on communion</a> Politico: The doctrine does not mention Joe Biden or any politician who supports abortion by name nor comment on whether public figures should receive communion. 
- <p class="updated_time"> 01:55 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/biden-lopez-obrador-trudeau-relationship-522817">Biden aiming to reset relationship with Canada and Mexico after Trump era</a> Politico: President Joe Biden's friendship with his Canadian and Mexican counterparts will be tested as they work to resolve thorny issues in first summit. 
  <p class="updated_time"> 01:29 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/kfile-john-gibbs-donald-trump-michigan-gop-primary/index.html">Trump-backed House candidate has history of conspiratorial tweets and defended anti-Semitic Twitter account</a> CNN: John Gibbs, the former Trump administration official backed by the ex-President in his bid to unseat a Republican congressman who voted for impeachment, has a history of conspiratorial and inflammatory tweets and defended a notorious anti-Semitic troll banned by Twitter. 
  <p class="updated_time"> 01:27 PM CT, Nov. 17 </p> 
@@ -318,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:37 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/jacob-chansley-qanon-shaman-january-6-sentencing/index.html">'QAnon Shaman' Jacob Chansley sentenced to 41 months in prison for role in US Capitol riot</a> CNN: Jacob Chansley, the so-called "QAnon Shaman," is in federal court Wednesday morning to be sentenced for his role in the US Capitol riots. 
- <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:00 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/vaccine-mandate-scotus-522797">Legal brawl over Biden's vaccine mandate could curb other workplace safety efforts</a> Politico: The current 6-3 conservative majority on the Supreme Court appears poised to place some limits on agency actions. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
