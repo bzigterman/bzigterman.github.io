@@ -49,7 +49,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
- <p class="updated_time"> 08:36 AM CT, Nov. 18 </p> 
+ <p class="updated_time"> 08:56 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Is Considering Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott would bar government officials from attending the Games. 
  <p class="updated_time"> 08:20 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece suspends espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial "a farce" and called for the workers' release. 
@@ -86,7 +86,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
+ <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/venezuela-turns-to-flashy-casinos-suvs-and-u-s-dollars-for-an-economic-boost-11637247602">Venezuela Turns to Flashy Casinos, SUVs and U.S. Dollars for an Economic Boost</a> WSJ: Economic liberalization puts Socialist country on path for growth after seven-year free fall; critics decry “crony capitalism.” 
  <p class="updated_time"> 01:00 AM CT, Nov. 18 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
+ <p class="updated_time"> 01:57 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
+ <p class="updated_time"> 01:56 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1056903692/2-suspected-iranian-hackers-are-charged-with-trying-to-intimidate-u-s-voters">2 suspected Iranian hackers are charged with trying to intimidate U.S. voters</a> NPR: The two Iranian nationals allegedly sent threatening emails to American voters and spread disinformation ahead of the 2020 election. 
+ <p class="updated_time"> 01:45 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 01:44 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/iran-2020-us-elections/index.html">US sanctions Iranians for cyber campaign it says was meant to influence the 2020 election</a> CNN: The United States has sanctioned six Iranian individuals and one entity "for attempting to influence the 2020 U.S. presidential election" through an extensive cyber campaign, the Treasury Department announced Thursday. 
  <p class="updated_time"> 01:40 PM CT, Nov. 18 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems scramble to finish social spending bill as price tag expected Thursday</a> Politico: The CBO said it would finish its cost estimates for the bill Thursday afternoon, clearing one significant hurdle as Democratic leaders push toward the vote. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
- <p class="updated_time"> 01:02 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/oklahoma-national-guard-vaccine-dispute/index.html">Military vaccination mandate dispute pits Pentagon against Oklahoma National Guard</a> CNN: The refusal of the commander of the Oklahoma National guard to enforce the Pentagon's Covid-19 vaccination mandate has opened up a dispute about the limits of the federal government's authority and the chain of command of the military. 
  <p class="updated_time"> 12:59 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-cbo-tax-522959">Democrats battle CBO over whether the rich will be spooked into tax compliance</a> Politico: All sides agree that boosting funding for the IRS would be a moneymaker for the government. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
@@ -282,12 +286,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/covid-retail-e-commerce-environment-522786">Shopping online surged during Covid. Now the environmental costs are becoming clearer.</a> Politico: Piles of cardboard and fleets of delivery trucks are changing the environmental equation of retail. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 04:08 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
- <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan embassy work until the lights go off</a> NPR: The Afghan embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
+ <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056252505/saule-omarova-occ-treasury-nomination-confirmation-hearing-criticism">A look into the ugly and incredibly personal fight over Biden's pick to oversee banks</a> NPR: An ugly battle is being waged over Saule Omarova, President Biden's nominee to oversee most of the money held by banks. Her confirmation hearing is on Thursday. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/17/1056646712/biden-is-set-to-host-the-leaders-of-canada-mexico-for-the-three-amigos-summit">Biden is set to host the leaders of Canada, Mexico for the Three Amigos summit</a> NPR: The leaders of Canada, Mexico and the United States will meet in Washington, the first such summit in five years. They're expected to discuss topics like COVID-19, climate change and migration. 
  <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
- <p class="updated_time"> 03:25 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646684/biden-administration-holds-massive-lease-sale-for-oil-and-gas-development">Biden administration holds massive lease sale for oil and gas development</a> NPR: Despite its pledges to combat the worsening climate crisis, the Biden administration is opening tens of millions of acres in the Gulf of Mexico to oil and gas leasing. 
  <p class="updated_time"> 02:33 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/beijing-olympics-joe-biden/index.html">Biden not expected to attend Beijing Olympics as White House leans toward diplomatic boycott </a> CNN: President Joe Biden is not expected to attend the Beijing Winter Olympics as his administration is on the verge of implementing a diplomatic boycott of the 2022 Winter Games, a senior administration official told CNN. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
