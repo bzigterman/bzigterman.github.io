@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-expand-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:07 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59288744?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: How the TPLF has outflanked the army</a> BBC: Ethiopia's army used to be one of the strongest in Africa so how have rebels made such rapid gains? 
  <p class="updated_time"> 06:06 PM CT, Nov. 17 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/rittenhouse-lawyers-judge-trial-video-522908">Rittenhouse lawyers ask judge to declare mistrial over video</a> Politico: The jury deliberated a second full day without reaching a verdict. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map on Wednesday that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
+ <p class="updated_time"> 08:13 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
  <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
  <p class="updated_time"> 07:45 PM CT, Nov. 17 </p> 
@@ -213,9 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/steele-dossier-lawsuit-buzzfeed-522855">Russian entrepreneur drops suit against BuzzFeed over Steele dossier</a> Politico: Aleksej Gubarev and BuzzFeed issued a joint statement on the status of the lawsuit. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-expand-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/john-hyten-china-hypersonic-weapons-test/index.html">Top military leader says China's hypersonic missile test 'went around the world' </a> CNN: China's test of a hypersonic missile over the summer "went around the world," the second most senior US general said in an interview released Tuesday, shedding new details on the test and warning that China might one day be able to launch a surprise nuclear attack on the United States. 
+ <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 06:03 PM CT, Nov. 17 </p> 
@@ -394,16 +394,18 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
+ <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
+ <p class="updated_time"> 05:50 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/political-theater-desantis-special-session-522911">'Political theater': DeSantis’ special session signals larger fights ahead of 2022</a> Politico: “This is about whipping up people’s fears. A lot of this is fear based,” said Florida House Democratic co-leader Evan Jenne during a Monday news conference. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
- <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
