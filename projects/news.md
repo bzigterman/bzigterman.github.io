@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:32 AM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59329454?at_medium=RSS&at_campaign=KARANGA">Mumbai: India baby girl found in drain recovering</a> BBC: Police in Mumbai were called in to rescue the five-day-old after residents were alerted by cats. 
  <p class="updated_time"> 01:19 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: The head of the WTA says he has a "hard time believing" email attributed to Peng Shuai is from her. 
  <p class="updated_time"> 01:01 AM CT, Nov. 18 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled so far, as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 09:58 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: British Columbia was hit with a major storm this week that cut transport links. 
- <p class="updated_time"> 09:40 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59328903?at_medium=RSS&at_campaign=KARANGA">Baby elephant dies after losing half its trunk in poacher's trap</a> BBC: The one-year-old calf succumbed to its injuries two days after being rescued by Indonesian villagers. 
  <p class="updated_time"> 09:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
