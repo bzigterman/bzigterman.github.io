@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:01 AM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 12:44 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Women’s Tennis Challenges China’s Narrative Over Missing Player</a> NYT: The WTA Tour chairman cast doubt over a reassuring email that state media claimed had been sent by Peng Shuai, who had accused a former top party official of sexual assault. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59325468?at_medium=RSS&at_campaign=KARANGA">Why Mexico is not prepared for the migrant caravan</a> BBC: Thousands of migrants are travelling north, often expecting US entry will be easier than before. 
  <p class="updated_time"> 05:46 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59328402?at_medium=RSS&at_campaign=KARANGA">Young Dolph: Rapper fatally shot in Memphis cookie shop</a> BBC: Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star. 
- <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:21 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59328040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust script didn't call for gun to be fired, lawsuit alleges</a> BBC: A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins. 
  <p class="updated_time"> 04:45 PM CT, Nov. 17 </p> 
@@ -104,8 +104,6 @@ permalink: /projects/news/
  <p class="updated_time"> 11:09 AM CT, Nov. 17 </p> 
  <a href="https://www.wsj.com/articles/china-u-s-to-ease-limits-on-one-anothers-journalists-11637186985">China, U.S. to Ease Limits on One Another's Journalists</a> WSJ: Beijing ejected U.S. reporters from The Wall Street Journal, other newspapers in 2020; the Trump administration limited China outlets’ personnel. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056490859/frida-kahlo-auction-diego-yo-rivera">Frida Kahlo just shattered an auction record, ousting her husband</a> NPR: "Diego y yo" depicts Kahlo's husband, Diego Rivera, on her forehead. It fetched $34.9 million in a Sotheby's auction — shattering a record set by Rivera. 
@@ -127,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-k-inflation-hits-10-year-high-stirring-expectations-of-rate-rise-11637159168">U.K. Inflation Hits 10-Year High, Stirring Expectations of Rate Rise</a> WSJ: The rise in consumer prices has strengthened expectations the Bank of England will be the first major central bank to lift interest rates from pandemic lows as worries over global inflation intensify. 
  <p class="updated_time"> 01:41 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
- <p class="updated_time"> 01:29 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 01:24 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test That Created a Mess in Space</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
  <p class="updated_time"> 11:30 PM CT, Nov. 16 </p> 
@@ -181,10 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
- <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
- <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Plagues Strike Egypt: Sudden Floods, Then Scorpions Called Deathstalkers</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
 
 
 </details>
