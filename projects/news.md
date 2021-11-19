@@ -120,7 +120,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
+ <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the front-runner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected front-runner. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -192,6 +192,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:33 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
+ <p class="updated_time"> 07:33 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 07:15 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion following overnight delay</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 07:05 AM CT, Nov. 19 </p> 
@@ -200,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials are hoping to simplify the message on Covid-19 with booster decisions looming</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
- <p class="updated_time"> 06:23 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
  <p class="updated_time"> 06:21 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132958/democrats-consider-the-build-back-better-bill-to-be-vital-for-the-country">Democrats consider the Build Back Better bill to be vital for the country</a> NPR: Democratic Rep. Jim Clyburn of South Carolina speaks with NPR's Steve Inskeep about the current state, and the future of the Democratic Party. 
  <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
@@ -227,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/republican-governors-celebrate-youngkin-trump-523010">GOP governors celebrate Youngkin under Trump’s watchful eye</a> Politico: Virginia’s governor-elect played a starring role at the RGA’s annual conference but the former president was never far from mind. 
+ <a href="https://www.politico.com/news/2021/11/19/republican-governors-celebrate-youngkin-trump-523010">At governors’ gathering, Republicans fawn over the new guy</a> Politico: Virginia’s governor-elect played a starring role at the RGA’s annual conference but the former president was never far from mind. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/cartoons/2021/11/18/the-nations-cartoonists-on-the-week-in-politics-000267">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
