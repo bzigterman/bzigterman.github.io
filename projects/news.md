@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:20 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who underwent a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
+ <p class="updated_time"> 05:18 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 04:55 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 04:51 PM CT, Nov. 19 </p> 
@@ -260,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
- <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
  <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
@@ -275,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden temporarily hands powers to Harris during medical procedure</a> Politico: The president is undergoing a physical on Friday at Walter Reed 
+ <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden 'fit for duty' after Harris is temporarily granted powers during medical procedure</a> Politico: The president underwent his annual physical at Walter Reed on Friday. 
  <p class="updated_time"> 10:01 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132944/morning-news-brief">News brief: Build Back Better status, COVID boosters, Blinken speech</a> NPR: Another delay for President Biden's sweeping domestic spending bill. COVID-19 booster shots for all adults could be authorized Friday. Secretary of State Blinken delivers a speech on Africa policy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change. In other words, if you are in office now, you are holding the bag. 
- <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former NY Gov. Andrew Cuomo to be released in coming days</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
