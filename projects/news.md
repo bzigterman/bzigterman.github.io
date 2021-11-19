@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 08:14 AM CT, Nov. 19 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID," and it's had a profound impact on many people's lives. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
- <p class="updated_time"> 10:51 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056850246/peng-shuai-email-china">Tennis official doubts email claiming Chinese player Peng Shuai is OK was sent by her</a> NPR: Peng hasn't been seen since she accused a top Communist Party official of sexual assault. Amnesty International and fellow players are also concerned. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
@@ -190,10 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Democrats’ social spending bill passes House</a> Politico: All but one Democrat voted for the $1.7 trillion package of tax, health care and climate initiatives, which amounts to the most significant restructuring of the safety net in decades. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
+ <p class="updated_time"> 08:40 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden's first annual physical as president to be at Walter Reed Friday</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
+ <p class="updated_time"> 08:34 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/africa/antony-blinken-interview-ethiopia-nigeria-abuja-intl/index.html">Blinken warns war-torn Ethiopia is on 'path to destruction,' calls on Abiy to step up to end conflict</a> CNN: US Secretary of State Antony Blinken warned Friday that the war in Tigray has put Ethiopia on a "path to destruction" that could reverberate throughout east Africa, telling CNN that the country's leader, Abiy Ahmed, must fulfill "his responsibility" and end violence in the region. 
  <p class="updated_time"> 08:18 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 08:17 AM CT, Nov. 19 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132958/democrats-consider-the-build-back-better-bill-to-be-vital-for-the-country">Democrats consider the Build Back Better bill to be vital for the country</a> NPR: Democratic Rep. Jim Clyburn of South Carolina speaks with NPR's Steve Inskeep about the current state, and the future of the Democratic Party. 
  <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
- <p class="updated_time"> 06:18 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden's first annual physical as president to be at Walter Reed Friday</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 06:17 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 06:15 AM CT, Nov. 19 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:51 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/beijing-olympics-boycott.html">U.S. Is ‘Considering’ Diplomatic Boycott of Beijing Olympics, Biden Says</a> NYT: A boycott would mean that government officials would not attend the Winter Games in February, though it would not prevent U.S. athletes from competing. 
- <p class="updated_time"> 06:49 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mitch-mcconnell-debt-ceiling-chuck-schumer/index.html">In shift, McConnell begins talks with Schumer to stave off debt crisis </a> CNN: The two top leaders in the Senate have opened discussions to find a way out of a looming debt crisis, a sharp departure from the standoff a month ago that took the United States to the brink of a first-ever default. 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
