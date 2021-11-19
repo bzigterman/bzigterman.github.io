@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 11:44 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris briefly took control during Joe Biden's routine health check. 
+ <p class="updated_time"> 11:42 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59349888?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Still no direct contact with Chinese player after sex assault claims - WTA</a> BBC: Peng Shuai has still not directly been in contact with the WTA, which says "no amount of money" would stop the tour pulling events out of China. 
  <p class="updated_time"> 11:07 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
  <p class="updated_time"> 10:20 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
- <p class="updated_time"> 10:09 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris will take control as Joe Biden undergoes his annual health check. 
  <p class="updated_time"> 10:05 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59351260?at_medium=RSS&at_campaign=KARANGA">Elijah McClain family to receive $15m settlement from Colorado</a> BBC: Elijah McClain was put in a chokehold and injected with ketamine after being stopped by police. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
+ <p class="updated_time"> 11:43 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 11:29 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">For 85 minutes, Kamala Harris became the first woman with presidential power</a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
  <p class="updated_time"> 11:20 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
  <p class="updated_time"> 11:12 AM CT, Nov. 19 </p> 
@@ -216,24 +220,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 11:04 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
- <p class="updated_time"> 11:01 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 11:00 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/tech-capitol-hill-townhouse-oracle-523014">Inside the Capitol Hill townhouse where tech’s critics feel at home</a> Politico: Lawmakers and lobbyists looking to check the power of Silicon Valley's biggest giants have flocked to the $2.8 million house that Oracle owns just blocks from the halls of Congress. 
+ <a href="https://www.politico.com/news/2021/11/19/tech-capitol-hill-townhouse-oracle-523014">Big tech’s critics flocking again to Oracle’s home on the Hill</a> Politico: Lawmakers and lobbyists looking to check the power of Silicon Valley's biggest giants have flocked to the $2.8 million house that Oracle owns just blocks from the halls of Congress. 
  <p class="updated_time"> 10:55 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/democrats-economic-bill.html">Build Back Better May Not Have Passed a Decade Ago</a> NYT: President Barack Obama barely muscled his health law through the House. But income inequality, economic stagnation and a pandemic propelled an even more ambitious bill. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
- <p class="updated_time"> 10:36 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy </a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
  <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden temporarily hand powers to Harris during medical procedure</a> Politico: The president is undergoing a physical on Friday at Walter Reed 
+ <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden temporarily hands powers to Harris during medical procedure</a> Politico: The president is undergoing a physical on Friday at Walter Reed 
  <p class="updated_time"> 10:01 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">'Whole different ballgame': Dems vow they've learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010's electoral wipeout. 
+ <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:53 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Too soon for Democrats to declare victory as Build Back Better bill moves forward</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
@@ -241,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill, but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">Harris will be the 1st woman and Asian American to hold presidential power (briefly)</a> NPR: President Biden is temporarily transferring power to Vice President Harris on Friday while he undergoes a routine colonoscopy. 
+ <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">Biden has resumed his duties after briefly transferring power to Harris</a> NPR: Vice President Harris briefly held presidential authority on Friday while Biden underwent a colonoscopy. She became the first woman and Asian American to hold the powers of the office in U.S. history. 
  <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
