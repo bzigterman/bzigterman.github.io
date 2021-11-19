@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
  <p class="updated_time"> 01:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
  <p class="updated_time"> 01:48 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
@@ -200,12 +200,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-middle-east-israel-523053">Biden's balancing act in the Middle East has a problem: Israel</a> Politico: In an interview, Israel’s interior minister dismisses U.S. plans to reopen a consulate in Jerusalem and downplays reports of Israeli settler violence against Palestinians. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
+ <p class="updated_time"> 02:34 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
+ <p class="updated_time"> 02:28 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 02:11 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 02:04 PM CT, Nov. 19 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 01:33 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden takes first annual physical as President</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 01:32 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board chairman Ron Bloom, whose term is expiring.  Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
@@ -362,12 +366,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
- <p class="updated_time"> 01:39 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/oklahoma-governor-commutes-julius-jones-death-sentence-522969">Oklahoma governor commutes Julius Jones’ death sentence</a> Politico: Gov. Stitt commuted the 41-year-old’s death sentence to life imprisonment without the possibility of parole. He had been scheduled for execution at 4 p.m. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
- <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
