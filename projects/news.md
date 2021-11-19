@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:38 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: Measures meant to overhaul the country’s troubled agricultural sector prompted nearly a year of sustained demonstrations. 
- <p class="updated_time"> 12:12 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
+ <p class="updated_time"> 01:08 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: Measures meant to overhaul the country’s troubled agricultural sector prompted nearly a year of sustained demonstrations. 
+ <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
  <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
  <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
- <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646761/poland-has-accused-belarus-and-russia-of-trying-to-use-migrants-to-destabilize-t">Poland has accused Belarus and Russia of trying to use migrants to destabilize the EU</a> NPR: Some European countries have accused Russia of encouraging Belarus in its strategy of trying to push migrants across its border with the EU, but the Kremlin says it's not involved. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
