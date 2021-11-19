@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
- <p class="updated_time"> 01:52 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 01:48 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
@@ -200,12 +200,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/biden-middle-east-israel-523053">Biden's balancing act in the Middle East has a problem: Israel</a> Politico: In an interview, Israel’s interior minister dismisses U.S. plans to reopen a consulate in Jerusalem and downplays reports of Israeli settler violence against Palestinians. 
+ <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
+ <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
+ <p class="updated_time"> 02:04 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden set to participate in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
+ <p class="updated_time"> 02:00 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 01:33 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden arrives at Walter Reed for first annual physical as President</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden takes first annual physical as President</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 01:32 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
@@ -220,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
- <p class="updated_time"> 12:58 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
@@ -274,12 +284,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132958/democrats-consider-the-build-back-better-bill-to-be-vital-for-the-country">Democrats consider the Build Back Better bill to be vital for the country</a> NPR: Democratic Rep. Jim Clyburn of South Carolina speaks with NPR's Steve Inskeep about the current state, and the future of the Democratic Party. 
  <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
- <p class="updated_time"> 06:01 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
- <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
@@ -338,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
- <p class="updated_time"> 03:41 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/desantis-florida-covid-mandates/index.html">Florida Gov. DeSantis signs legislation against Covid-19 mandates </a> CNN: Florida Republican Gov. Ron DeSantis on Thursday signed what he called "the strongest piece of legislation that's been enacted anywhere in the country" in opposition to coronavirus vaccination mandates on workers. 
  <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-leaders-ndaa-debate-522952">Senate leaders want to fast-track debate on Ukraine, Afghanistan, war powers</a> Politico: Chuck Schumer reupped his calls for Republicans to agree to hasten the process so that the National Defense Authorization Act can be finished ahead of Thanksgiving. 
- <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 10:15 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/turkey-pardon-white-house/index.html">Biden to serve justice for Peanut Butter and Jelly alongside a cornucopia of jokes at turkey pardon</a> CNN: President Joe Biden on Friday will gobble up his first opportunity to participate in a time-honored White House tradition: The annual Thanksgiving turkey pardon. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
@@ -388,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
+ <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
@@ -398,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
- <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
@@ -450,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
- <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
 
