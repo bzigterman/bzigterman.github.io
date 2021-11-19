@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:34 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59343005?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Australia Test captain steps down over historical investigation into texts sent to colleague</a> BBC: Tim Paine steps down as Australia Test captain just before the Ashes over a historical investigation into texts sent to a female colleague. 
  <p class="updated_time"> 04:28 AM CT, Nov. 19 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 03:25 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
- <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
  <p class="updated_time"> 02:39 AM CT, Nov. 19 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:42 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change.  In other words, if you are in office now, you are holding the bag. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
- <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 12:51 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
