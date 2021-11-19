@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 03:45 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59343005?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Australia Test captain steps down over historical investigation into texts sent to colleague</a> BBC: Tim Paine steps down as Australia Test captain just before the Ashes over a historical investigation into texts sent to a female colleague. 
  <p class="updated_time"> 03:35 AM CT, Nov. 19 </p> 
@@ -28,13 +30,15 @@ permalink: /projects/news/
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">Farm laws: India PM Narendra Modi repeals controversial reforms</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 11:09 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59342078?at_medium=RSS&at_campaign=KARANGA">Crypto bid to buy US constitution copy at auction fails</a> BBC: ConsitutionDAO said it wanted to put the document "in the hands of the people". 
+ <p class="updated_time"> 10:33 PM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/japan-plans-490-billion-stimulus-to-jolt-struggling-economy-11637312665">Japan Plans $490 Billion Stimulus to Jolt Struggling Economy</a> WSJ: The government approved the package to support recovery from the Covid-19 pandemic, including cash payments to most families and some smaller companies. 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
@@ -53,8 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
  <p class="updated_time"> 07:57 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-59341750?at_medium=RSS&at_campaign=KARANGA">Facebook tells LA police to stop spying on users with fake accounts</a> BBC: Meta said using third party firms to collect data on Facebook users for surveillance was prohibited. 
- <p class="updated_time"> 07:30 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
+ <p class="updated_time"> 07:52 PM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/india-to-repeal-farming-laws-protested-by-tens-of-thousands-11637303531">India to Repeal Farming Laws Protested by Tens of Thousands</a> WSJ: Farmers who were opposed to the rules said they were worried they would mark the beginning of the dismantling of a system of regulations, subsidies and support that bolsters their incomes. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59174930?at_medium=RSS&at_campaign=KARANGA">Viewpoint: When Hindus and Muslims joined hands to riot</a> BBC: What can 100-year-old riots, where Hindus and Muslims fought on the same side, teach us? 
  <p class="updated_time"> 07:09 PM CT, Nov. 18 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
- <p class="updated_time"> 04:44 PM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 04:06 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59341105?at_medium=RSS&at_campaign=KARANGA">Meghan tells Ellen DeGeneres Prince Harry loves the California lifestyle</a> BBC: The Duchess of Sussex says moving as the pandemic began meant they spent plenty of time at home. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/new-reconstruction-points-to-animal-origins-for-covid-19-11637262041">New Reconstruction Points to Animal Origins for Covid-19</a> WSJ: An evolutionary biologist reviewed data and reports on the first known cases to show most were clustered around Wuhan’s seafood market. 
- <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
@@ -184,10 +184,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:54 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with an hourslong speech attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
- <p class="updated_time"> 02:39 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with an hourslong speech attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 12:51 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
