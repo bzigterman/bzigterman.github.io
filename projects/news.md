@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
+ <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:58 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59349888?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Still no direct contact with Chinese player after sex assault claims - WTA</a> BBC: Peng Shuai has still not directly been in contact with the WTA, which says "no amount of money" would stop the tour pulling events out of China. 
  <p class="updated_time"> 02:36 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
+ <p class="updated_time"> 02:00 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
  <p class="updated_time"> 01:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 01:48 PM CT, Nov. 19 </p> 
@@ -153,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056254276/gaza-united-nations-schmale-palestinians-israel">He was the top U.N. official in Gaza. An Israeli TV interview cost him his post</a> NPR: The U.N.'s Matthias Schmale reflects on his time as a leading international aid rep in Gaza. He departed UNRWA this week after offending Palestinians with his remarks on Israeli airstrikes. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">Sex Ed, One Instagram Post at a Time</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
- <p class="updated_time"> 12:31 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056820585/twilight-of-democracy-author-says-the-autocrats-are-winning">'Twilight of Democracy' author says the autocrats are winning</a> NPR: Historian and Atlantic journalist Anne Applebaum says authoritarian rulers have joined together, creating a network of economic and political support, while suppressing the spread of democracy. 
- <p class="updated_time"> 12:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
@@ -204,12 +206,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC vaccine advisers endorse boosters for all adults</a> Politico: Covid boosters will now be available to all adults ahead of the holiday season. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
+ <p class="updated_time"> 03:27 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/halifax-international-security-forum-gets-underway-523056">Halifax International Security Forum gets underway</a> Politico: Watch the event live. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 03:02 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden pardons Peanut Butter and Jelly in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if the new Justice Department antitrust boss can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
+ <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-middle-east-israel-523053">Biden's balancing act in the Middle East has a problem: Israel</a> Politico: In an interview, Israel’s interior minister dismisses U.S. plans to reopen a consulate in Jerusalem and downplays reports of Israeli settler violence against Palestinians. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
- <p class="updated_time"> 01:10 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
@@ -350,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987486/president-biden-to-meet-with-canadas-trudeau-during-north-american-leaders-summi">President Biden to meet with Canada's Trudeau during North American leaders' summit</a> NPR: President Biden is hosting Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for what was once known as the "Three Amigos" summit — the first one since 2016. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
@@ -416,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
- <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
