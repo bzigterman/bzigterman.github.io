@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 06:52 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
- <p class="updated_time"> 06:17 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
+ <p class="updated_time"> 06:48 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
+ <p class="updated_time"> 06:48 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
+ <p class="updated_time"> 06:47 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/covid-austria-lockdown.html">Austria Announces Nationwide Lockdown and Plans Vaccine Mandate</a> NYT: The nationwide lockdown is Europe’s first since spring. And the national vaccine mandate is a first for the continent. 
  <p class="updated_time"> 05:45 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: Deathbed confession sparks long missing US union boss body hunt</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
- <p class="updated_time"> 05:33 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056894737/as-a-sea-of-lava-destroys-livelihoods-on-la-palma-it-also-offers-a-lifeline">As a sea of lava destroys livelihoods on La Palma, it also offers a lifeline</a> NPR: The lava and ash the Cumbre Vieja volcano has spewed for two months have consumed homes and forced thousands to flee. However, the rock formed by the lava will ultimately save the island from the sea. 
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
@@ -27,12 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
- <p class="updated_time"> 03:25 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 02:39 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59341765?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Camp empty as migrants move to warehouse</a> BBC: Thousands of people from the Middle East have been trying to get into the EU via Belarus for months. 
  <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
@@ -41,14 +43,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">Message to Prince Charles: This Is Not Your Father’s Egypt</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
+ <p class="updated_time"> 01:48 AM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/former-prime-minister-convicted-of-corruption-withdraws-request-for-multimillion-dollar-property-from-malaysia-11637326094">Former Prime Minister Convicted of Corruption Withdraws Request for Property From Malaysia</a> WSJ: Najib Razak was found guilty last year on charges related to his role in the  1MDB financial scandal, and he remains free on bail while he appeals. 
  <p class="updated_time"> 01:28 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Locks Down, Imposes Broad Vaccine Mandate</a> WSJ: The country became the first in Europe to introduce a general vaccination mandate and return to a nationwide lockdown in reaction to a rapid rise in Covid-19 infections and hospitalization despite mass immunization. 
  <p class="updated_time"> 01:27 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/meet-a-jew-program-aims-to-tackle-rising-anti-semitism-in-germany-11637324857">'Meet a Jew' Program Aims to Tackle German Anti-Semitism</a> WSJ: The program seeks to fight stereotypes by inviting some Germans to meet Jews for the first time and help fill what many see as a gap in Germany’s remembrance of the Holocaust. 
  <p class="updated_time"> 01:14 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/india-to-repeal-farming-laws-protested-by-tens-of-thousands-11637303531">India to Repeal Farming Laws After Mass Protests</a> WSJ: Farmers who were opposed to the rules said they were worried they would mark the beginning of the dismantling of a system of regulations, subsidies and support that bolsters their incomes. 
- <p class="updated_time"> 01:14 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/peng-shuai-what-to-know-about-the-missing-chinese-tennis-star-11637324061">Peng Shuai: What to Know About the Missing Chinese Tennis Star</a> WSJ: A Chinese tennis star disappears from the public eye after a sexual assault allegation against a powerful retired top official in China’s Communist Party. The tennis world, meanwhile, rallies to her side, demanding China launch an investigation. 
  <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">Farm laws: India PM Narendra Modi repeals controversial reforms</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
@@ -184,6 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:41 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials are hoping to simplify the message on Covid-19 with booster decisions looming</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
+ <p class="updated_time"> 06:41 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 06:23 AM CT, Nov. 19 </p> 
@@ -197,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:17 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 06:15 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html">Trump's ire grows as DeSantis' popularity with Republicans takes off</a> CNN: In a matter of months, Florida Gov. Ron DeSantis has gone from being a shining example in Donald Trump's eyes of a MAGA leader molded in his image to an average politician who forgot his roots as he rose to Republican stardom. 
+ <a href="https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html">Trump's ire grows as DeSantis' popularity with GOP takes off</a> CNN: In a matter of months, Florida Gov. Ron DeSantis has gone from being a shining example in Donald Trump's eyes of a MAGA leader molded in his image to an average politician who forgot his roots as he rose to Republican stardom. 
  <p class="updated_time"> 06:13 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion following overnight delay</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 06:01 AM CT, Nov. 19 </p> 
@@ -206,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
  <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
- <p class="updated_time"> 05:18 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
@@ -404,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
- <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
