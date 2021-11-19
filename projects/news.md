@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/covid-austria-lockdown.html">Austria Announces Nationwide Lockdown and Plans Vaccine Mandate</a> NYT: The nationwide lockdown is Europe’s second since spring. And the national vaccine mandate is a first for the continent. 
+ <p class="updated_time"> 08:11 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 07:52 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy has hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
- <p class="updated_time"> 07:39 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/covid-austria-lockdown.html">Austria Announces Nationwide Lockdown and Plans Vaccine Mandate</a> NYT: The nationwide lockdown is Europe’s first since spring. And the national vaccine mandate is a first for the continent. 
  <p class="updated_time"> 07:08 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
- <p class="updated_time"> 07:07 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 07:00 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59343922?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
  <p class="updated_time"> 06:52 AM CT, Nov. 19 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 06:49 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
- <p class="updated_time"> 06:48 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 05:45 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: Deathbed confession sparks long-missing US union boss body hunt</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
+ <p class="updated_time"> 02:57 AM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Becomes First in Europe to Impose Vaccine Mandate, Return to Lockdown</a> WSJ: The country’s general vaccination mandate and return to a nationwide lockdown were in response to a rapid rise in Covid-19 infections and hospitalizations despite mass immunization. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
  <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 01:48 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/former-prime-minister-convicted-of-corruption-withdraws-request-for-multimillion-dollar-property-from-malaysia-11637326094">Former Prime Minister Convicted of Corruption Withdraws Request for Property From Malaysia</a> WSJ: Najib Razak was found guilty last year on charges related to his role in the  1MDB financial scandal, and he remains free on bail while he appeals. 
- <p class="updated_time"> 01:28 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Locks Down, Imposes Broad Vaccine Mandate</a> WSJ: The country became the first in Europe to introduce a general vaccination mandate and return to a nationwide lockdown in reaction to a rapid rise in Covid-19 infections and hospitalization despite mass immunization. 
  <p class="updated_time"> 01:27 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/meet-a-jew-program-aims-to-tackle-rising-anti-semitism-in-germany-11637324857">'Meet a Jew' Program Aims to Tackle German Anti-Semitism</a> WSJ: The program seeks to fight stereotypes by inviting some Germans to meet Jews for the first time and help fill what many see as a gap in Germany’s remembrance of the Holocaust. 
  <p class="updated_time"> 01:14 AM CT, Nov. 19 </p> 
@@ -190,18 +190,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
+ <p class="updated_time"> 08:18 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally voting on Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
+ <p class="updated_time"> 08:07 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
+ <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:33 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
- <p class="updated_time"> 07:33 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
- <p class="updated_time"> 07:15 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 07:05 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
- <p class="updated_time"> 06:41 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hoping to simplify message on Covid-19 with booster decisions looming</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 06:21 AM CT, Nov. 19 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/supreme-court-term-limits-biden.html">Biden’s Supreme Court Commission Shows Interest in Term Limits</a> NYT: But in newly released materials, members of the panel acknowledged “profound disagreement” over the wisdom of adding more justices to the court. 
  <p class="updated_time"> 07:48 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
- <p class="updated_time"> 07:39 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/fda-ready-to-endorse-pfizer-moderna-boosters-covid-523002">FDA said to be ready to endorse Pfizer and Moderna boosters at once</a> Politico: The move reflects the administration’s growing unease over the recent rise in Covid-19 cases across the nation. 
  <p class="updated_time"> 07:29 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/trump-gosar-endorsement/index.html">Trump endorses Gosar a day after he's censured over violent video targeting AOC and Biden</a> CNN: Former President Donald Trump on Thursday endorsed Rep. Paul Gosar just one day after the House passed a resolution censuring the Arizona Republican and stripping his committee assignments. 
  <p class="updated_time"> 07:16 PM CT, Nov. 18 </p> 
