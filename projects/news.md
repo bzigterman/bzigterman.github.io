@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
+ <p class="updated_time"> 01:21 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 01:15 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
  <p class="updated_time"> 01:14 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
- <p class="updated_time"> 12:50 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial. 
  <p class="updated_time"> 12:50 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 12:31 PM CT, Nov. 19 </p> 
@@ -34,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:45 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus president tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, President Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
+ <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus president tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, President Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59327059?at_medium=RSS&at_campaign=KARANGA">Africa is the future, says US. But what will change?</a> BBC: US Secretary of State Antony Blinken talks of partnerships and avoids condescending lectures of the past. 
  <p class="updated_time"> 10:25 AM CT, Nov. 19 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
- <p class="updated_time"> 09:10 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html">Trump's ire grows as DeSantis' popularity with GOP takes off</a> CNN: In a matter of months, Florida Gov. Ron DeSantis has gone from being a shining example in Donald Trump's eyes of a MAGA leader molded in his image to an average politician who forgot his roots as he rose to Republican stardom. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
  <p class="updated_time"> 01:10 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 01:03 PM CT, Nov. 19 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 11:29 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">For 85 minutes, Kamala Harris became the first woman with presidential power</a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
- <p class="updated_time"> 11:20 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
  <p class="updated_time"> 11:12 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/africa/antony-blinken-interview-ethiopia-nigeria-abuja-intl/index.html">Blinken warns war-torn Ethiopia is on 'path to destruction,' calls on Abiy to step up to end conflict</a> CNN: US Secretary of State Antony Blinken warned Friday that the war in Tigray has put Ethiopia on a "path to destruction" that could reverberate throughout east Africa, telling CNN that the country's leader, Abiy Ahmed, must fulfill "his responsibility" and end violence in the region. 
  <p class="updated_time"> 11:00 AM CT, Nov. 19 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132958/democrats-consider-the-build-back-better-bill-to-be-vital-for-the-country">Democrats consider the Build Back Better bill to be vital for the country</a> NPR: Democratic Rep. Jim Clyburn of South Carolina speaks with NPR's Steve Inskeep about the current state, and the future of the Democratic Party. 
  <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
- <p class="updated_time"> 06:15 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html">Trump's ire grows as DeSantis' popularity with GOP takes off</a> CNN: In a matter of months, Florida Gov. Ron DeSantis has gone from being a shining example in Donald Trump's eyes of a MAGA leader molded in his image to an average politician who forgot his roots as he rose to Republican stardom. 
  <p class="updated_time"> 06:01 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
