@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
+ <p class="updated_time"> 01:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:50 PM CT, Nov. 19 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
  <p class="updated_time"> 12:19 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 11:57 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59343922?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
  <p class="updated_time"> 11:44 AM CT, Nov. 19 </p> 
@@ -57,18 +59,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
  <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
- <p class="updated_time"> 06:49 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
- <p class="updated_time"> 05:45 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: Deathbed confession sparks long-missing US union boss body hunt</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056894737/as-a-sea-of-lava-destroys-livelihoods-on-la-palma-it-also-offers-a-lifeline">As a sea of lava destroys livelihoods on La Palma, it also offers a lifeline</a> NPR: The lava and ash the Cumbre Vieja volcano has spewed for two months have consumed homes and forced thousands to flee. However, the rock formed by the lava will ultimately save the island from the sea. 
  <p class="updated_time"> 04:55 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/destruction-of-brazilian-amazon-surges-to-15-year-high-new-data-show-11637337316">Destruction of Brazilian Amazon Surges to 15-Year High</a> WSJ: Environmentalists accuse government of withholding deforestation data from this month’s COP26 climate summit. 
  <p class="updated_time"> 04:51 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/patria-y-vida-cubas-protest-anthem-wins-top-awards-at-latin-grammys-11637337086">Cuba's Protest Anthem Wins Top Awards at Latin Grammys</a> WSJ: “Patria y Vida” won awards for song of the year and best urban song, shining a spotlight on the struggle for freedom of expression in the Communist island and the imprisonment of one of its authors. 
- <p class="updated_time"> 04:34 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59343005?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Australia Test captain steps down over historical investigation into texts sent to colleague</a> BBC: Tim Paine steps down as Australia Test captain before the Ashes over a historical investigation into sexually explicit texts to a female colleague. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
@@ -76,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 03:39 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/cold-and-frightened-migrants-hold-out-hope-of-crossing-belarus-poland-border-11637332785">Cold and Frightened, Migrants Hold Out Hope of Crossing Belarus-Poland Border</a> WSJ: Thousands of migrants have been crowded into a warehouse near the border between Poland and Belarus, after Belarusian authorities coaxed them into abandoning the freezing camps they occupied for weeks. 
+ <a href="https://www.wsj.com/articles/cold-and-frightened-migrants-hold-out-hope-of-crossing-belarus-poland-border-11637332785">Migrants on Belarus-Poland Border Are Freezing but Won't Give Up Hope to Cross</a> WSJ: Thousands of migrants have been crowded into a warehouse near the border between Poland and Belarus, after Belarusian authorities coaxed them into abandoning the freezing camps they occupied for weeks. 
  <p class="updated_time"> 03:33 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406">The Ship's Captain Died at Sea. Six Months Later, His Body Was Still in the Freezer.</a> WSJ: Ports and governments refuse to let cargo vessels offload the remains of dead seafarers. The last voyage of Captain Sandu. 
  <p class="updated_time"> 02:57 AM CT, Nov. 19 </p> 
@@ -122,7 +118,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">The Afghan girls refusing to quit school</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
  <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
@@ -185,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-testing-netherlands.html">Netherlands Is Maxing Out Its Covid Testing Capacity</a> NYT: Soaring demand and a shortage of workers have made appointments almost impossible to find. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
@@ -210,14 +204,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
+ <p class="updated_time"> 01:10 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 01:03 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 12:58 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">U.S. Charges Manhattan Developer in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
+ <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol, Manhattan Developer, Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 12:31 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
- <p class="updated_time"> 12:23 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
@@ -234,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/tech-capitol-hill-townhouse-oracle-523014">Big tech’s critics flocking again to Oracle’s home on the Hill</a> Politico: Lawmakers and lobbyists looking to check the power of Silicon Valley's biggest giants have flocked to the $2.8 million house that Oracle owns just blocks from the halls of Congress. 
  <p class="updated_time"> 10:55 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/democrats-economic-bill.html">Build Back Better May Not Have Passed a Decade Ago</a> NYT: President Barack Obama barely muscled his health law through the House. But income inequality, economic stagnation and a pandemic propelled an even more ambitious bill. 
- <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
@@ -396,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
- <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/judge-bannon-contempt-case-congress-subpoena-power-522865">Judge in Bannon contempt case once fought Congress’ subpoena power</a> Politico: But the Trump appointee, Judge Carl Nichols, isn’t easy to typecast: His rulings and sentences in Jan. 6 cases have largely aligned with the rest of the judges in the District. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
