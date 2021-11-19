@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59327679?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: US 'deeply concerned' over Chinese tennis star</a> BBC: Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault. 
  <p class="updated_time"> 03:29 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352803?at_medium=RSS&at_campaign=KARANGA">In pictures: British Columbia devastated by catastrophic floods</a> BBC: The flooding in Canada's west may be the most expensive natural disaster in the country's history. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
@@ -204,6 +206,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC vaccine advisers endorse boosters for all adults</a> Politico: Covid boosters will now be available to all adults ahead of the holiday season. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057397880/kevin-mccarthy-delayed-the-vote-on-the-spending-package-by-speaking-for-over-8-h">Kevin McCarthy delayed the vote on the spending package by speaking for over 8 hours</a> NPR: House Republican leader Kevin McCarthy delivered a record-setting speech overnight to object to Democrats' social spending and climate bill. He hopes to clinch the speaker's gavel next year. 
+ <p class="updated_time"> 03:37 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden pardons Peanut Butter and Jelly in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
+ <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/wisconsin-republicans-push-election-takeover/index.html">More than a year after Donald Trump's loss, Wisconsin Republicans wage relentless attacks on the state's election commission</a> CNN: Republicans in Wisconsin are engaging in a multi-pronged attack on the state's bipartisan election commission -- in one of the latest efforts to relitigate the 2020 election in a key presidential battleground state. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:27 PM CT, Nov. 19 </p> 
@@ -214,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 03:02 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
- <p class="updated_time"> 03:00 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden pardons Peanut Butter and Jelly in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -232,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/rittenhouse-arbery-charlottesville-trials-what-matters/index.html">Analysis: 4 cases converge to test American justice</a> CNN: There is another moment of truth for American justice as three trials near their end, and one case closes a long chapter. 
  <p class="updated_time"> 02:34 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
- <p class="updated_time"> 02:33 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 02:11 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
@@ -354,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987486/president-biden-to-meet-with-canadas-trudeau-during-north-american-leaders-summi">President Biden to meet with Canada's Trudeau during North American leaders' summit</a> NPR: President Biden is hosting Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for what was once known as the "Three Amigos" summit — the first one since 2016. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
