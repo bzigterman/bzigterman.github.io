@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 01:16 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: Measures meant to overhaul the country’s troubled agricultural sector prompted nearly a year of sustained demonstrations. 
  <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
- <p class="updated_time"> 06:21 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
  <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
