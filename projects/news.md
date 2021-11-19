@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: Kyle Rittenhouse killed two men and injured a third at racial justice protests in Kenosha, Wisconsin. 
  <p class="updated_time"> 03:31 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59327679?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: US 'deeply concerned' over Chinese tennis star</a> BBC: Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault. 
  <p class="updated_time"> 03:29 PM CT, Nov. 19 </p> 
@@ -19,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:58 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
- <p class="updated_time"> 02:36 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
- <p class="updated_time"> 02:00 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
  <p class="updated_time"> 01:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 01:48 PM CT, Nov. 19 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
+ <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 03:44 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC vaccine advisers endorse boosters for all adults</a> Politico: Covid boosters will now be available to all adults ahead of the holiday season. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
@@ -216,12 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:27 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/halifax-international-security-forum-gets-underway-523056">Halifax International Security Forum gets underway</a> Politico: Watch the event live. 
- <p class="updated_time"> 03:23 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
- <p class="updated_time"> 03:02 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -309,8 +313,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/republican-governors-celebrate-youngkin-trump-523010">At governors’ gathering, Republicans fawn over the new guy</a> Politico: Virginia’s governor-elect played a starring role at the RGA’s annual conference but the former president was never far from mind. 
- <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/cartoons/2021/11/18/the-nations-cartoonists-on-the-week-in-politics-000267">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/pennsylvania-republicans-dr-oz-senate-bid-523023">Pennsylvania Republicans baffled by celebrity doctor’s Senate bid</a> Politico: GOP insiders are rattled by the unsettled primary field in one of the nation’s most important Senate races. 
@@ -319,7 +321,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132944/morning-news-brief">News brief: Build Back Better status, COVID boosters, Blinken speech</a> NPR: Another delay for President Biden's sweeping domestic spending bill. COVID-19 booster shots for all adults could be authorized Friday. Secretary of State Blinken delivers a speech on Africa policy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change.  In other words, if you are in office now, you are holding the bag. 
+ <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change. In other words, if you are in office now, you are holding the bag. 
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
- <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/biden-says-wh-considering-diplomatic-boycott-of-beijing-olympics-522974">Biden says WH is considering diplomatic boycott of Beijing Olympics</a> Politico: There is bipartisan support in Congress and from outside groups to slight China over the government’s human rights abuses. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Don’t Learn the Wrong Lesson on Inflation</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
