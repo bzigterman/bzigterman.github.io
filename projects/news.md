@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:34 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: PM Narendra Modi announced the decision after more than a year of protests by farmers. 
+ <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 11:09 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59342078?at_medium=RSS&at_campaign=KARANGA">Crypto bid to buy US constitution copy at auction fails</a> BBC: ConsitutionDAO said it wanted to put the document "in the hands of the people". 
  <p class="updated_time"> 10:56 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: The three measures were meant to overhaul the country’s troubled agricultural sector, but they sparked nearly a year of sustained demonstrations. 
- <p class="updated_time"> 10:42 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: PM Narendra Modi announced the decision after more than a year of protests by farmers. 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
@@ -186,18 +188,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:51 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/electric-vehicles-biden-trudeau-summit-523021">Electric vehicles spark discord at Biden's trilateral summit</a> Politico: Canada and Mexico strongly oppose the electric-vehicle tax credit, which the countries warn would damage their auto sectors and undermine the new United States-Mexico-Canada trade agreement. 
- <p class="updated_time"> 11:15 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">McCarthy stalls House vote on Biden's social safety net bill as Democrats push for passage</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
- <p class="updated_time"> 10:56 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House to vote on massive spending bill </a> CNN:  
+ <p class="updated_time"> 11:35 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
+ <p class="updated_time"> 11:35 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats delay Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 11:34 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
+ <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
+ <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former New York Gov. Andrew Cuomo to be released soon</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
  <p class="updated_time"> 10:15 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 08:25 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-approval-rating-low/index.html">Analysis: How low will Biden go?</a> CNN: A new Quinnipiac University national poll has some very dire news for President Joe Biden: His job approval rating sits at a lousy 36%. 
- <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
- <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
  <p class="updated_time"> 08:18 PM CT, Nov. 18 </p> 
@@ -293,7 +297,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-turkey-pardon-peanut-butter-jelly-522949">White House reveals names of turkeys up for pardon — Peanut Butter and Jelly</a> Politico: Biden will gobble up the chance to grant clemency to either Peanut Butter or Jelly in a ceremony Friday. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">Dems race to pass social spending plan with $1.7T cost estimate in hand</a> Politico: Speaker Nancy Pelosi confirmed plans to vote Thursday evening in a letter to Democrats, with a final cost report finished and a procedural obstacle out of the way. 
+ <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than three hours. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
@@ -376,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees,  a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
- <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
