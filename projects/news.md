@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:09 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris will take control as Joe Biden undergoes his annual health check. 
+ <p class="updated_time"> 10:05 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59351260?at_medium=RSS&at_campaign=KARANGA">Elijah McClain family to receive $15m settlement from Colorado</a> BBC: Elijah McClain was put in a chokehold and injected with ketamine after being stopped by police. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
  <p class="updated_time"> 09:42 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
@@ -16,11 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:33 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
  <p class="updated_time"> 09:32 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
- <p class="updated_time"> 09:32 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
- <p class="updated_time"> 09:32 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris will take control as Joe Biden undergoes his annual health check. 
  <p class="updated_time"> 09:10 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Becomes First in Europe to Impose Vaccine Mandate, Return to Lockdown</a> WSJ: The country’s general vaccination mandate and return to a nationwide lockdown were in response to a rapid rise in Covid-19 infections and hospitalizations despite mass immunization. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59341765?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Camp empty as migrants move to warehouse</a> BBC: Thousands of people from the Middle East have been trying to get into the EU via Belarus for months. 
  <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">Message to Prince Charles: This Is Not Your Father’s Egypt</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
@@ -192,30 +192,30 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden will temporarily hand power to Harris during medical procedure</a> Politico: The president is undergoing a physical on Friday at Walter Reed 
+ <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">'Whole different ballgame': Dems vow they've learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010's electoral wipeout. 
+ <p class="updated_time"> 09:59 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
+ <p class="updated_time"> 09:53 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Too soon for Democrats to declare victory as Build Back Better bill moves forward</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems' $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
- <p class="updated_time"> 09:46 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 09:44 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy </a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
- <p class="updated_time"> 09:31 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill, but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">Harris will be the 1st woman and Asian American to hold presidential power (briefly)</a> NPR: President Biden is temporarily transferring power to Vice President Harris on Friday while he undergoes a routine colonoscopy. 
  <p class="updated_time"> 09:12 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Narrowly Passes Biden’s Social Safety Net and Climate Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
- <p class="updated_time"> 09:11 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
- <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Too soon for Democrats to declare victory as Build Back Better bill moves forward</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
