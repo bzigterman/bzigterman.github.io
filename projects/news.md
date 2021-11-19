@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 12:12 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
  <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
@@ -186,12 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:55 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 12:07 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats delay Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 11:56 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 11:51 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/electric-vehicles-biden-trudeau-summit-523021">Electric vehicles spark discord at Biden's trilateral summit</a> Politico: Canada and Mexico strongly oppose the electric-vehicle tax credit, which the countries warn would damage their auto sectors and undermine the new United States-Mexico-Canada trade agreement. 
- <p class="updated_time"> 11:46 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 11:34 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
