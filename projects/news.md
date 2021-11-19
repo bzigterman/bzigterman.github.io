@@ -208,10 +208,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
+ <p class="updated_time"> 04:04 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:45 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
- <p class="updated_time"> 03:44 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC vaccine advisers endorse boosters for all adults</a> Politico: Covid boosters will now be available to all adults ahead of the holiday season. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/wisconsin-republicans-push-election-takeover/index.html">More than a year after Donald Trump's loss, Wisconsin Republicans wage relentless attacks on the state's election commission</a> CNN: Republicans in Wisconsin are engaging in a multi-pronged attack on the state's bipartisan election commission -- in one of the latest efforts to relitigate the 2020 election in a key presidential battleground state. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
- <p class="updated_time"> 03:27 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/halifax-international-security-forum-gets-underway-523056">Halifax International Security Forum gets underway</a> Politico: Watch the event live. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -240,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/democrats-economic-bill.html">Build Back Better May Not Have Passed a Decade Ago</a> NYT: President Barack Obama barely muscled his health law through the House. But income inequality, economic stagnation and a pandemic propelled an even more ambitious bill. 
  <p class="updated_time"> 02:38 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/rittenhouse-arbery-charlottesville-trials-what-matters/index.html">Analysis: 4 cases converge to test American justice</a> CNN: There is another moment of truth for American justice as three trials near their end, and one case closes a long chapter. 
- <p class="updated_time"> 02:34 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 02:11 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
@@ -422,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
