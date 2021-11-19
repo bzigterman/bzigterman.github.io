@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
@@ -21,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">Message to Prince Charles: This Is Not Your Father’s Egypt</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
+ <p class="updated_time"> 01:19 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59343005?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Australia Test captain steps down over historical investigation into texts sent to colleague</a> BBC: Tim Paine steps down as Australia Test captain just before the Ashes over a historical investigation into texts sent to a female colleague. 
  <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
@@ -37,10 +41,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 09:19 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders met in Washington, with plenty of differences to resolve. 
+ <p class="updated_time"> 09:10 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59341978?at_medium=RSS&at_campaign=KARANGA">HMAS Sydney: DNA reveals identity of Australia's famous 'unknown sailor'</a> BBC: The WW2 sinking of the HMAS Sydney killed 645 sailors, but only one body was recovered. 
+ <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340861?at_medium=RSS&at_campaign=KARANGA">Instagram: US states investigate how platform targets children</a> BBC: A bipartisan group will investigate whether consumer protection laws for children were violated. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
+ <p class="updated_time"> 07:57 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59341750?at_medium=RSS&at_campaign=KARANGA">Facebook tells LA police to stop spying on users with fake accounts</a> BBC: Meta said using third party firms to collect data on Facebook users for surveillance was prohibited. 
  <p class="updated_time"> 07:30 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
@@ -54,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">The Afghan girls refusing to quit school</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
  <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
@@ -67,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
  <p class="updated_time"> 04:44 PM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
+ <p class="updated_time"> 04:06 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59341105?at_medium=RSS&at_campaign=KARANGA">Meghan tells Ellen DeGeneres Prince Harry loves the California lifestyle</a> BBC: The Duchess of Sussex says moving as the pandemic began meant they spent plenty of time at home. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
  <p class="updated_time"> 03:34 PM CT, Nov. 18 </p> 
@@ -83,14 +95,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
- <p class="updated_time"> 03:21 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden mulls US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
- <p class="updated_time"> 03:19 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
- <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59337955?at_medium=RSS&at_campaign=KARANGA">Covid: Germany to place tighter curbs on unvaccinated</a> BBC: Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
  <p class="updated_time"> 11:53 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID," and it's had a profound impact on many people's lives. 
- <p class="updated_time"> 11:24 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59337953?at_medium=RSS&at_campaign=KARANGA">Uganda's Kampala bombings: Muslim cleric accused of jihadist links shot dead</a> BBC: Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 10:51 AM CT, Nov. 18 </p> 
