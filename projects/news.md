@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:39 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
+ <p class="updated_time"> 02:37 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59341765?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Camp empty as migrants move to warehouse</a> BBC: Thousands of people from the Middle East have been trying to get into the EU via Belarus for months. 
  <p class="updated_time"> 02:07 AM CT, Nov. 19 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59342627?at_medium=RSS&at_campaign=KARANGA">India PM Narendra Modi repeals controversial farm laws</a> BBC: Indian PM Narendra Modi has announced the repeal of controversial farm laws. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
- <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/sports/soccer/afghanistan-soccer-taliban.html">Who Does Afghanistan's Soccer Team Represent Now?</a> NYT: Afghanistan’s national soccer team played a rare match this week. But what, and whom, does the team represent? 
  <p class="updated_time"> 11:09 PM CT, Nov. 18 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 09:19 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders met in Washington, with plenty of differences to resolve. 
- <p class="updated_time"> 09:07 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
@@ -184,8 +184,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:45 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 02:39 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with an hourslong speech attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
+ <p class="updated_time"> 02:37 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 12:51 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
@@ -194,8 +196,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats delay Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 11:51 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/electric-vehicles-biden-trudeau-summit-523021">Electric vehicles spark discord at Biden's trilateral summit</a> Politico: Canada and Mexico strongly oppose the electric-vehicle tax credit, which the countries warn would damage their auto sectors and undermine the new United States-Mexico-Canada trade agreement. 
- <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former New York Gov. Andrew Cuomo to be released soon</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
  <p class="updated_time"> 10:15 PM CT, Nov. 18 </p> 
