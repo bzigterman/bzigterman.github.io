@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:45 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: New search for body of long missing US union boss</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
  <p class="updated_time"> 05:33 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
  <p class="updated_time"> 05:20 AM CT, Nov. 19 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
  <p class="updated_time"> 11:47 PM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/japan-plans-490-billion-stimulus-to-jolt-struggling-economy-11637312665">Japan Plans $490 Billion Stimulus to Jolt Struggling Economy</a> WSJ: The government approved the package to support recovery from the Covid-19 pandemic, including cash payments to most families and some smaller companies. 
- <p class="updated_time"> 11:09 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59342078?at_medium=RSS&at_campaign=KARANGA">Crypto bid to buy US constitution copy at auction fails</a> BBC: ConsitutionDAO said it wanted to put the document "in the hands of the people". 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
@@ -188,6 +188,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
+ <p class="updated_time"> 05:53 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats had delayed Build Back Better vote after McCarthy stalled floor action overnight</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
  <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if Republicans win House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 05:29 AM CT, Nov. 19 </p> 
@@ -198,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped a little after 5 a.m. Friday. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
- <p class="updated_time"> 04:59 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats had delayed Build Back Better vote after McCarthy stalled floor action overnight</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:32 AM CT, Nov. 19 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
- <p class="updated_time"> 06:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056761894/rep-paul-gosar-is-censured-over-an-anime-video-depicting-him-of-killing-aoc">Rep. Paul Gosar is censured over an anime video depicting him of killing AOC</a> NPR: Lawmakers in the House censured GOP Rep. Paul Gosar of Arizona over an anime video that showed a character killing another character meant to be Democratic Rep. Alexandria Ocasio-Cortez of New York. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/joe-biden-made-in-america-tensions-canada-mexico-522868">Biden’s made-in-America push raises trade tensions at meeting with Canada, Mexico</a> Politico: The president’s biggest obstacles to improved relations may be his own policies to bolster American manufacturing. 
  <p class="updated_time"> 04:32 AM CT, Nov. 18 </p> 
