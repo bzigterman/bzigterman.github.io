@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
+ <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 09:19 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders met in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 09:07 PM CT, Nov. 18 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
  <p class="updated_time"> 04:44 PM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
- <p class="updated_time"> 04:14 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
  <p class="updated_time"> 03:34 PM CT, Nov. 18 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
- <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 09:10 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House to vote on massive spending bill </a> CNN:  
  <p class="updated_time"> 08:25 PM CT, Nov. 18 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision by the Trump administration to move the Bureau of Land Management’s headquarters to Colorado caused staff members to quit, according to a government watchdog report. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-debates-defense-bill-what-to-watch-522987">Nine things to watch as the Senate debates the defense bill</a> Politico: Nearly 1,000 amendments have been filed ahead of debate on the National Defense Authorization Act, which has stalled in the Senate for months. 
- <p class="updated_time"> 05:01 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell law professor, faces fierce opposition from bankers and Republican lawmakers. She may not have enough support from Democrats, either. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
