@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report that finds many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 04:32 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 04:24 PM CT, Nov. 19 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
- <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056254276/gaza-united-nations-schmale-palestinians-israel">He was the top U.N. official in Gaza. An Israeli TV interview cost him his post</a> NPR: The U.N.'s Matthias Schmale reflects on his time as a leading international aid rep in Gaza. He departed UNRWA this week after offending Palestinians with his remarks on Israeli airstrikes. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">Sex Ed, One Instagram Post at a Time</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
