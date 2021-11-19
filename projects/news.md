@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:13 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
+ <p class="updated_time"> 12:08 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
+ <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
+ <p class="updated_time"> 11:57 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59343922?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
  <p class="updated_time"> 11:44 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris briefly took control during Joe Biden's routine health check. 
  <p class="updated_time"> 11:42 AM CT, Nov. 19 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 10:49 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
- <p class="updated_time"> 10:48 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 10:45 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59327059?at_medium=RSS&at_campaign=KARANGA">Africa is the future, says US. But what will change?</a> BBC: "Africa is the future," says US Secretary of state Antony Blinken, but what will change? 
  <p class="updated_time"> 10:25 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
- <p class="updated_time"> 10:20 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 10:05 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59351260?at_medium=RSS&at_campaign=KARANGA">Elijah McClain family to receive $15m settlement from Colorado</a> BBC: Elijah McClain was put in a chokehold and injected with ketamine after being stopped by police. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 07:08 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
- <p class="updated_time"> 07:00 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59343922?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
  <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 06:49 AM CT, Nov. 19 </p> 
@@ -208,7 +210,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
- <p class="updated_time"> 11:43 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 11:57 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
+ <p class="updated_time"> 11:55 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 11:29 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">For 85 minutes, Kamala Harris became the first woman with presidential power</a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
@@ -237,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:53 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Too soon for Democrats to declare victory as Build Back Better bill moves forward</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems' $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
+ <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill, but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
- <p class="updated_time"> 07:43 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/khalid-shaikh-mohammed.html">Accused 9/11 Mastermind Seeks Access to Secret Testimony</a> NYT: Prosecutors say war court rules forbid defendants from hearing classified information, unless the classified information is someone quoting what the defendant said. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
