@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:23 PM CT, Nov. 19 </p> 
+ <p class="updated_time"> 02:36 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears Kyle Rittenhouse of homicide and all other charges following a politically divisive trial. 
  <p class="updated_time"> 01:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
@@ -208,14 +208,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
+ <p class="updated_time"> 02:38 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/rittenhouse-arbery-charlottesville-trials-what-matters/index.html">Analysis: 4 cases converge to test American justice</a> CNN: There is another moment of truth for American justice as three trials near their end, and one case closes a long chapter. 
  <p class="updated_time"> 02:34 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
+ <p class="updated_time"> 02:33 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden set to participate in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
  <p class="updated_time"> 02:28 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 02:11 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
- <p class="updated_time"> 02:04 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden set to participate in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
  <p class="updated_time"> 02:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">Biden has resumed his duties after briefly transferring power to Harris</a> NPR: Vice President Harris briefly held presidential authority on Friday while Biden underwent a colonoscopy. She became the first woman and Asian American to hold the powers of the office in U.S. history. 
  <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
- <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
  <p class="updated_time"> 08:48 AM CT, Nov. 19 </p> 
@@ -338,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/iranian-hackers-voter-intimidation-indicted.html">U.S. Indicts Iranian Hackers in Voter Intimidation Effort</a> NYT: The hackers are accused of sending threatening messages to thousands of people after breaking into voter registration systems and a media company. 
  <p class="updated_time"> 06:11 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democratic-support.html">Just How Bad Is It Out There for Democrats?</a> NYT: Democratic support has plunged nationally in recent months. Exactly how far it has fallen is hotly debated in both parties. 
- <p class="updated_time"> 06:10 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/rittenhouse-arbery-charlottesville-trials-what-matters/index.html">Analysis: 4 cases converge to test American justice</a> CNN: There is another moment of truth for American justice as three trials near their end, and one case closes a long chapter. 
  <p class="updated_time"> 05:37 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/attorney-general-meta-investigation-522991">Bipartisan state attorneys general launch investigation into Meta</a> Politico: The heat was prompted by recent revelations from Facebook whistleblower Frances Haugen. 
  <p class="updated_time"> 05:36 PM CT, Nov. 18 </p> 
