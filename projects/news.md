@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:39 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 11:07 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
+ <p class="updated_time"> 10:49 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
+ <p class="updated_time"> 10:48 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
+ <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus president tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, President Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59349888?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Still no direct contact with Chinese player after sex assault claims - WTA</a> BBC: Peng Shuai has still not directly been in contact with the WTA, which says "no amount of money" would stop the tour pulling events out of China. 
  <p class="updated_time"> 10:25 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
  <p class="updated_time"> 10:20 AM CT, Nov. 19 </p> 
@@ -25,20 +35,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 09:35 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
- <p class="updated_time"> 09:32 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
  <p class="updated_time"> 09:10 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
- <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
- <p class="updated_time"> 08:11 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 07:52 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy has hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 07:08 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
  <p class="updated_time"> 07:00 AM CT, Nov. 19 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Becomes First in Europe to Impose Vaccine Mandate, Return to Lockdown</a> WSJ: The country’s general vaccination mandate and return to a nationwide lockdown were in response to a rapid rise in Covid-19 infections and hospitalizations despite mass immunization. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">Message to Prince Charles: This Is Not Your Father’s Egypt</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/us-china-uae-military-11637274224">Secret Chinese Port Project in Persian Gulf Rattles U.S. Relations With Key Ally</a> WSJ: U.S. intelligence agencies learned this spring that China was secretly building what they suspected was a military facility at a port in the United Arab Emirates, one of the U.S.’s closest Mideast allies, according to people familiar with the matter. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
  <p class="updated_time"> 04:06 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59341105?at_medium=RSS&at_campaign=KARANGA">Meghan tells Ellen DeGeneres Prince Harry loves the California lifestyle</a> BBC: The Duchess of Sussex says moving as the pandemic began meant they spent plenty of time at home. 
- <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
  <p class="updated_time"> 03:34 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59335010?at_medium=RSS&at_campaign=KARANGA">The doctor fleeing Tennessee over Covid</a> BBC: The former head of the US state's vaccine rollout has been forced out after threats and taunts. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -206,8 +206,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
+ <p class="updated_time"> 11:04 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
+ <p class="updated_time"> 11:01 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 11:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/tech-capitol-hill-townhouse-oracle-523014">Inside the Capitol Hill townhouse where tech’s critics feel at home</a> Politico: Lawmakers and lobbyists looking to check the power of Silicon Valley's biggest giants have flocked to the $2.8 million house that Oracle owns just blocks from the halls of Congress. 
+ <p class="updated_time"> 10:55 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/democrats-economic-bill.html">Build Back Better May Not Have Passed a Decade Ago</a> NYT: President Barack Obama barely muscled his health law through the House. But income inequality, economic stagnation and a pandemic propelled an even more ambitious bill. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Narrowly Passes Biden’s Social Safety Net and Climate Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 10:36 AM CT, Nov. 19 </p> 
@@ -218,14 +226,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden will temporarily hand power to Harris during medical procedure</a> Politico: The president is undergoing a physical on Friday at Walter Reed 
  <p class="updated_time"> 10:12 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/africa/antony-blinken-interview-ethiopia-nigeria-abuja-intl/index.html">Blinken warns war-torn Ethiopia is on 'path to destruction,' calls on Abiy to step up to end conflict</a> CNN: US Secretary of State Antony Blinken warned Friday that the war in Tigray has put Ethiopia on a "path to destruction" that could reverberate throughout east Africa, telling CNN that the country's leader, Abiy Ahmed, must fulfill "his responsibility" and end violence in the region. 
- <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 10:01 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">'Whole different ballgame': Dems vow they've learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010's electoral wipeout. 
- <p class="updated_time"> 09:59 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 09:53 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Too soon for Democrats to declare victory as Build Back Better bill moves forward</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
@@ -384,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
- <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
