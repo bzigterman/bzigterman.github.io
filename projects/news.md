@@ -7,6 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59174930?at_medium=RSS&at_campaign=KARANGA">Viewpoint: When Hindus and Muslims joined hands to riot</a> BBC: What can 100-year-old riots, where Hindus and Muslims fought on the same side, teach us? 
+ <p class="updated_time"> 07:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59329974?at_medium=RSS&at_campaign=KARANGA">Why France's Zemmour is dredging up World War Two</a> BBC: The TV pundit is a likely presidential candidate but his views on wartime history are controversial. 
+ <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59321755?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59286774?at_medium=RSS&at_campaign=KARANGA">Malaysian transgender woman Nur Sajat: 'I had to run away'</a> BBC: Transgender woman Nur Sajat fled Malaysia after being charged with insulting Islam. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
+ <p class="updated_time"> 06:53 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: A major clean-up is under way in British Columbia after a major storm that cut off Vancouver. 
+ <p class="updated_time"> 06:43 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
+ <p class="updated_time"> 06:32 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340861?at_medium=RSS&at_campaign=KARANGA">Instagram: US states investigate how platform targets children</a> BBC: A bipartisan group will investigate whether consumer protection laws for children were violated. 
+ <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
+ <p class="updated_time"> 06:21 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
  <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
@@ -21,16 +43,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
- <p class="updated_time"> 04:33 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 04:26 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders are meeting in Washington, with plenty of differences to resolve. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders met in Washington, with plenty of differences to resolve. 
  <p class="updated_time"> 04:14 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Claims</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
- <p class="updated_time"> 03:55 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
  <p class="updated_time"> 03:47 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59341172?at_medium=RSS&at_campaign=KARANGA">US Secretary of State Anthony Blinken on Sudan and Ethiopia</a> BBC: The US Secretary of State, Antony Blinken, says there's a real risk of Ethiopia pulling apart if a diplomatic solution isn’t found. 
+ <p class="updated_time"> 03:34 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59335010?at_medium=RSS&at_campaign=KARANGA">The doctor fleeing Tennessee over Covid</a> BBC: The former head of the US state's vaccine rollout has been forced out after threats and taunts. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
@@ -45,10 +65,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
  <p class="updated_time"> 03:21 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden mulls US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
- <p class="updated_time"> 02:28 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/us-beijing-winter-olympics-boycott.html">Biden Says U.S. ‘Considering’ Diplomatic Boycott of the Beijing Olympics</a> NYT: The boycott would mean that no U.S. government officials would attend the Games, which begin in February, though it would not prevent athletes from attending. 
+ <p class="updated_time"> 01:42 PM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59337955?at_medium=RSS&at_campaign=KARANGA">Covid: Germany to place tighter curbs on unvaccinated</a> BBC: Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -63,10 +85,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056820585/twilight-of-democracy-author-says-the-autocrats-are-winning">'Twilight of Democracy' author says the autocrats are winning</a> NPR: Historian and Atlantic journalist Anne Applebaum says authoritarian rulers have joined together, creating a network of economic and political support, while suppressing the spread of democracy. 
  <p class="updated_time"> 12:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
- <p class="updated_time"> 12:20 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59325399?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Doubt cast on email from Chinese tennis star</a> BBC: Peng Shuai has not been heard from since she made sexual assault allegations against a top Chinese official. 
- <p class="updated_time"> 11:58 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59324764?at_medium=RSS&at_campaign=KARANGA">Vancouver storm: A state of emergency has been declared in British Columbia</a> BBC: A major clean-up is under way in British Columbia after a major storm that cut off Vancouver. 
  <p class="updated_time"> 11:53 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID," and it's had a profound impact on many people's lives. 
  <p class="updated_time"> 11:24 AM CT, Nov. 18 </p> 
@@ -79,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-says-u-s-is-considering-diplomatic-boycott-of-beijing-winter-olympics-11637262767">Biden Says U.S. Weighing Diplomatic Boycott of Beijing Olympics</a> WSJ: A diplomatic boycott could bar government officials from attending the Games. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
- <p class="updated_time"> 09:43 AM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 09:28 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/covid-19-surge-prompts-renewed-lockdown-in-parts-of-europe-11637267293">Covid-19 Surge Prompts Renewed Lockdown in Parts of Europe</a> WSJ: In a painful political U-turn, officials in Germany and elsewhere impose new measures following a rise in infections among vaccinated people. 
  <p class="updated_time"> 09:08 AM CT, Nov. 18 </p> 
@@ -89,10 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/new-reconstruction-points-to-animal-origins-for-covid-19-11637262041">New Reconstruction Points to Animal Origins for Covid-19</a> WSJ: An evolutionary biologist reviewed data and reports on the first known cases to show most were clustered around Wuhan’s seafood market. 
- <p class="updated_time"> 08:20 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59330363?at_medium=RSS&at_campaign=KARANGA">Greece suspends espionage trial of 24 aid workers</a> BBC: Human rights groups have called the trial "a farce" and called for the workers' release. 
- <p class="updated_time"> 08:18 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59330365?at_medium=RSS&at_campaign=KARANGA">Afghan girl footballers reach UK on Kim Kardashian West-funded flight</a> BBC: The young female footballers came to the UK on an evacuation flight funded by Kim Kardashian West. 
  <p class="updated_time"> 08:14 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces refused to return the bodies to their families. 
  <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
@@ -103,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 07:24 AM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59333191?at_medium=RSS&at_campaign=KARANGA">P-Square: Nigerian Afrobeats twins make up after years of feuding</a> BBC: Fans are excited as Peter and Paul reconcile on their joint birthday after a painful break-up. 
- <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
@@ -119,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 11:59 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59325777?at_medium=RSS&at_campaign=KARANGA">The family of asylum-seekers trapped on Europe’s edge</a> BBC: A BBC team filmed a couple and their two-year-old daughter as they attempted to cross the Bosnia-Croatia border into the EU in search of asylum for the 40th time. 
- <p class="updated_time"> 11:57 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-58825373?at_medium=RSS&at_campaign=KARANGA">No skin-to-skin contact: 'Outrageous' India sexual assault order struck down</a> BBC: The Supreme Court reversed an order that cleared a man of sexual assault as "there was no skin-to-skin contact". 
  <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 10:32 PM CT, Nov. 17 </p> 
@@ -131,26 +139,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Woman’s Body Recovered From Mudslide in British Columbia as Evacuations Continue</a> NYT: “It came down faster than the speed of sound,” said a woman who survived the mudslide. Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 06:07 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59288744?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: How the TPLF has outflanked the army</a> BBC: Ethiopia's army used to be one of the strongest in Africa so how have rebels made such rapid gains? 
  <p class="updated_time"> 06:06 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59302657?at_medium=RSS&at_campaign=KARANGA">Saurabh Kirpal: The man who could be India's first openly gay judge</a> BBC: Experts say Saurabh Kirpal's appointment will inspire other LGBTQ lawyers and judges to come out. 
  <p class="updated_time"> 06:05 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268393?at_medium=RSS&at_campaign=KARANGA">'I've seen irreversible change but hope too for planet'</a> BBC: Over decades, correspondent David Shukman has seen climate change become our most important issue. 
- <p class="updated_time"> 06:05 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-59303971?at_medium=RSS&at_campaign=KARANGA">The mums using Instagram to offer advice to new parents</a> BBC: Covid has led to an increase in parenting gurus using social media to support new mums and dads. 
  <p class="updated_time"> 06:01 PM CT, Nov. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
- <p class="updated_time"> 04:25 PM CT, Nov. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59324640?at_medium=RSS&at_campaign=KARANGA">British Columbia storm: Cows rescued from storm floods by jet ski</a> BBC: People had to move cows to higher ground after devastating flooding in Canada's British Columbia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
  <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
  <a href="https://www.npr.org/2021/11/17/1056646761/poland-has-accused-belarus-and-russia-of-trying-to-use-migrants-to-destabilize-t">Poland has accused Belarus and Russia of trying to use migrants to destabilize the EU</a> NPR: Some European countries have accused Russia of encouraging Belarus in its strategy of trying to push migrants across its border with the EU, but the Kremlin says it's not involved. 
- <p class="updated_time"> 03:53 PM CT, Nov. 17 </p> 
- <a href="https://www.npr.org/2021/11/17/1056646754/antony-blinken-starts-his-3-nation-visit-to-africa-in-kenya">Antony Blinken starts his 3-nation visit to Africa in Kenya </a> NPR: U.S. Secretary of State Antony Blinken is in Kenya, the first stop on a three-nation Africa tour. He joined Kenya's foreign minister in calling for a ceasefire in Ethiopia. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
@@ -192,24 +192,48 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:39 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/fda-ready-to-endorse-pfizer-moderna-boosters-covid-523002">FDA said to be ready to endorse Pfizer and Moderna boosters at once</a> Politico: The move reflects the administration’s growing unease over the recent rise in Covid-19 cases across the nation. 
+ <p class="updated_time"> 07:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/trump-gosar-endorsement/index.html">Trump endorses Gosar one day after he was censured over violent video targeting AOC and Biden</a> CNN: Former President Donald Trump on Thursday endorsed Rep. Paul Gosar just one day after the House passed a resolution censuring the Arizona Republican and stripping his committee assignments. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/covid-boosters-states-leapfrog-federal-522996">States leapfrog feds on Covid boosters for all</a> Politico: The moves to preempt federal guidance have become just the latest point of frustration for Biden administration officials who have spent the last three months managing the complicated booster rollout. 
+ <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 07:01 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/justice-department-tech-protections-biden-522990">Justice Department to defend tech protections Biden denounced</a> Politico: In a lawsuit filed by former President Donald Trump, the feds will argue that Sec. 230 of the Communications Decency Act is constitutional. 
- <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/justice-department-tech-protections-biden-522990">Justice Department to defend tech protections Biden denounced</a> Politico: In a lawsuit filed by former President Donald Trump, the feds will argue that Section 230 of the Communications Decency Act is constitutional. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
+ <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
+ <p class="updated_time"> 06:51 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/beijing-olympics-boycott.html">U.S. Is ‘Considering’ Diplomatic Boycott of Beijing Olympics, Biden Says</a> NYT: A boycott would mean that government officials would not attend the Winter Games in February, though it would not prevent U.S. athletes from competing. 
+ <p class="updated_time"> 06:43 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
+ <p class="updated_time"> 06:38 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Democrats gear up to pass social safety net bill Thursday night but major obstacles await in the Senate</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 06:36 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
+ <p class="updated_time"> 06:34 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
+ <p class="updated_time"> 06:30 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/supreme-court-term-limits-biden.html">Biden’s Supreme Court Commission Shows Interest in Term Limits</a> NYT: But in newly released materials, members of the panel acknowledged “profound disagreement” over the wisdom of adding more justices to the court. 
+ <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
+ <p class="updated_time"> 06:17 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if Republicans win House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
+ <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-january-6-committee/index.html">January 6 committee's interest in Meadows goes beyond conversations with Trump</a> CNN: Members of the House committee investigating January 6 said on Thursday that many of the questions they have for former White House chief of staff Mark Meadows have nothing to do with then-President Donald Trump -- suggesting that the panel is still open to discussing the terms of a potential interview. 
  <p class="updated_time"> 06:13 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/united-states-indicts-iranian-hackers-voter-intimidation.html">U.S. Indicts Iranian Hackers in Voter Intimidation Effort</a> NYT: The hackers are accused of sending threatening messages to thousands of people after breaking into voter registration systems and a media company. 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/iranian-hackers-voter-intimidation-indicted.html">U.S. Indicts Iranian Hackers in Voter Intimidation Effort</a> NYT: The hackers are accused of sending threatening messages to thousands of people after breaking into voter registration systems and a media company. 
  <p class="updated_time"> 06:11 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/just-how-bad-is-it-out-there-for-democrats.html">Just How Bad Is It Out There for Democrats?</a> NYT: Democratic support has plunged nationally in recent months. Exactly how far it has fallen is hotly debated in both parties. 
- <p class="updated_time"> 05:41 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Pelosi says Build Back Better could pass House on Thursday but major obstacles await in the Senate  </a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/democratic-support.html">Just How Bad Is It Out There for Democrats?</a> NYT: Democratic support has plunged nationally in recent months. Exactly how far it has fallen is hotly debated in both parties. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/rittenhouse-arbery-charlottesville-trials-what-matters/index.html">Analysis: 4 cases converge to test American justice</a> CNN: There is another moment of truth for American justice as three trials near their end, and one case closes a long chapter. 
  <p class="updated_time"> 05:37 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/attorney-general-meta-investigation-522991">Bipartisan state attorneys general launch investigation into Meta</a> Politico: The heat was prompted by recent revelations from Facebook whistleblower Frances Haugen. 
  <p class="updated_time"> 05:36 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision by the Trump administration to move the Bureau of Land Management’s headquarters to Colorado caused staff members to quit, according to a government watchdog report. 
- <p class="updated_time"> 05:28 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
+ <p class="updated_time"> 05:30 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/biden-approval-rating-low/index.html">Analysis: How low will Biden go?</a> CNN: A new Quinnipiac University national poll has some very dire news for President Joe Biden: His job approval rating sits at a lousy 36%. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
@@ -218,10 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 04:45 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
- <p class="updated_time"> 04:37 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
- <p class="updated_time"> 04:29 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell law professor, faces fierce opposition from bankers and Republican lawmakers. She may not have enough support from Democrats, either. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
@@ -292,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/turkey-pardon-white-house/index.html">Biden to serve justice for Peanut Butter and Jelly alongside a cornucopia of jokes at annual turkey pardon</a> CNN: President Joe Biden on Friday will gobble up his first opportunity to participate in a time-honored White House tradition: The annual Thanksgiving turkey pardon. 
  <p class="updated_time"> 10:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056809650/thanksgiving-turkey-prices-inflation-farm-bureau">Expect to pay more this year to stage your Thanksgiving feast </a> NPR: The Farm Bureau's Thanksgiving report says the average cost of dinner for 10 people is $53.31. But don't cancel your meal yet: the cost for a turkey has already dropped since the survey was taken. 
- <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 09:03 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/kamala-harris-white-house-relationship-522928">Harris: I don't feel misused by White House</a> Politico: Multiple news stories over the past week have depicted the vice president's office as a dysfunctional work environment. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
@@ -304,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
  <p class="updated_time"> 06:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056761894/rep-paul-gosar-is-censured-over-an-anime-video-depicting-him-of-killing-aoc">Rep. Paul Gosar is censured over an anime video depicting him of killing AOC</a> NPR: Lawmakers in the House censured GOP Rep. Paul Gosar of Arizona over an anime video that showed a character killing another character meant to be Democratic Rep. Alexandria Ocasio-Cortez of New York. 
- <p class="updated_time"> 05:55 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Will Address Migration</a> NYT: After a five-year hiatus, the meeting of North American leaders will also provide a forum to discuss trade disagreements and vaccine sharing. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 05:01 AM CT, Nov. 18 </p> 
@@ -328,16 +344,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
  <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
- <p class="updated_time"> 04:00 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056252505/saule-omarova-occ-treasury-nomination-confirmation-hearing-criticism">A look into the ugly and incredibly personal fight over Biden's pick to oversee banks</a> NPR: An ugly battle is being waged over Saule Omarova, President Biden's nominee to oversee most of the money held by banks. Her confirmation hearing is on Thursday. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
  <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
- <p class="updated_time"> 08:44 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html">House, Mostly Along Party Lines, Censures Gosar for Violent Video</a> NYT: The Arizona Republican is the first member of the House to be formally rebuked in more than a decade. He was also removed from two committees. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
@@ -350,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 06:14 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/business/biden-gas-prices.html">As Gas Prices Surge, Biden Asks FTC to Investigate 'Illegal Conduct'</a> NYT: The president asked the Federal Trade Commission to look into whether big oil companies were fueling a spike in gas prices. 
  <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
@@ -374,10 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
  <p class="updated_time"> 11:36 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/qanon-shaman-jan-6-sentenced.html">QAnon Shaman Sentenced to 41 Months for Role in Capitol Riot</a> NYT: Jacob Chansley, who wore a horned helmet and a fur pelt as he stormed onto the Senate floor during the Capitol riot, had earlier pleaded guilty to a single felony count. 
- <p class="updated_time"> 10:52 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/biden-overdose-deaths-record/index.html">Biden on new record high for US overdose deaths: 'We cannot overlook this epidemic of loss' </a> CNN: President Joe Biden on Wednesday lamented new data showing American drug overdose deaths topped 100,000 annually for the first time, saying that "we cannot overlook this epidemic of loss, which has touched families and communities across the country." 
- <p class="updated_time"> 10:38 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 10:29 AM CT, Nov. 17 </p> 
@@ -388,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/17/mccarthys-latest-crazy-town-headache-495132">POLITICO Playbook: McCarthy’s latest crazy-town headache</a> Politico: And new polling shows fresh voter concern about Biden’s acuity. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/poll-biden-mental-fitness-job-approval-522785">Poll: Voters' doubts rising about Biden’s health, mental fitness</a> Politico: A new POLITICO/Morning Consult poll shows just 44 percent of voters approve of Biden's job performance, and 46 percent say he's "mentally fit." 
- <p class="updated_time"> 05:01 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/biden-oil-gas-leasing-gulf-of-mexico-climate/index.html">Why the Biden administration is reopening oil and gas leasing in the Gulf of Mexico</a> CNN: One of President Joe Biden's boldest environmental campaign promises was to ban new oil and natural gas leasing on public land and water. But on Wednesday his administration will open more than 80 million acres in the Gulf of Mexico to auction for drilling. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
@@ -402,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
- <p class="updated_time"> 04:21 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
