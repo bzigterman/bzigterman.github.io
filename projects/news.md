@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
+ <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 09:35 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 09:33 AM CT, Nov. 19 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056820585/twilight-of-democracy-author-says-the-autocrats-are-winning">'Twilight of Democracy' author says the autocrats are winning</a> NPR: Historian and Atlantic journalist Anne Applebaum says authoritarian rulers have joined together, creating a network of economic and political support, while suppressing the spread of democracy. 
  <p class="updated_time"> 12:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056888306/comedian-vir-das-called-out-sexual-violence-in-india-now-he-faces-lawsuits">Comedian Vir Das called out sexual violence in India. Now he faces lawsuits</a> NPR: In his Kennedy Center show, Das spoke of two sides of his native India: rich and poor, united but divided over women's rights and more. It was a hit in D.C., but brought legal trouble in India. 
- <p class="updated_time"> 11:53 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/18/1055071699/coronavirus-faq-what-is-long-covid-and-what-is-my-risk-of-getting-it">Coronavirus FAQ: What is long COVID? And what is my risk of getting it?</a> NPR: One of the surprising aspects of the pandemic is that symptoms can linger months after infection. This syndrome has been called "long COVID," and it's had a profound impact on many people's lives. 
  <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
- <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
@@ -196,8 +196,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">'Whole different ballgame': Dems vow they've learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010's electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems' $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
- <p class="updated_time"> 09:35 AM CT, Nov. 19 </p> 
+ <p class="updated_time"> 09:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 09:44 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy </a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
  <p class="updated_time"> 09:31 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
- <p class="updated_time"> 08:58 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy </a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
  <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
