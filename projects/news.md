@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We helped migrants cross into EU</a> BBC: In an exclusive interview, Alexander Lukashenko denies inviting migrants but accepts they were helped. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
@@ -73,16 +77,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 09:19 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59300461?at_medium=RSS&at_campaign=KARANGA">Three Amigos summit: Awkward conversations for US with its neighbours</a> BBC: US, Canada and Mexico's leaders met in Washington, with plenty of differences to resolve. 
- <p class="updated_time"> 09:10 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59341978?at_medium=RSS&at_campaign=KARANGA">HMAS Sydney: DNA reveals identity of Australia's famous 'unknown sailor'</a> BBC: The WW2 sinking of the HMAS Sydney killed 645 sailors, but only one body was recovered. 
- <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59340861?at_medium=RSS&at_campaign=KARANGA">Instagram: US states investigate how platform targets children</a> BBC: A bipartisan group will investigate whether consumer protection laws for children were violated. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
- <p class="updated_time"> 07:57 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-59341750?at_medium=RSS&at_campaign=KARANGA">Facebook tells LA police to stop spying on users with fake accounts</a> BBC: Meta said using third party firms to collect data on Facebook users for surveillance was prohibited. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59174930?at_medium=RSS&at_campaign=KARANGA">Viewpoint: When Hindus and Muslims joined hands to riot</a> BBC: What can 100-year-old riots, where Hindus and Muslims fought on the same side, teach us? 
  <p class="updated_time"> 07:09 PM CT, Nov. 18 </p> 
@@ -167,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59315684?at_medium=RSS&at_campaign=KARANGA">South Korea Suneung exam: 'I wanted to cry and quit everything'</a> BBC: Students in South Korea are sitting one of the hardest exams in the world, called Suneung. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
- <p class="updated_time"> 03:58 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/sudan-coup-protests.html">Sudanese Forces Kill 10 Protesting Coup, Medics Report</a> NYT: The violence is shadowing Secretary of State Antony Blinken’s visit to Africa. 
  <p class="updated_time"> 03:13 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
@@ -190,28 +186,42 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">'Whole different ballgame': Dems vow they've learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010's electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Democrats’ social spending bill passes House</a> Politico: All but one Democrat voted for the $1.7 trillion package of tax, health care and climate initiatives, which amounts to the most significant restructuring of the safety net in decades. 
+ <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems' $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
+ <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
+ <p class="updated_time"> 08:56 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Build Back Better finally gets House vote but faces uncertain fate in Senate</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
+ <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">Harris to become first woman with presidential power while Biden is under anesthesia for routine colonoscopy </a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Narrowly Passes Biden’s Social Safety Net and Climate Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
+ <p class="updated_time"> 08:48 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1056833510/the-house-passes-a-2-trillion-spending-bill-but-braces-for-changes-in-the-senate">The House passes a $2 trillion spending bill, but braces for changes in the Senate</a> NPR: The measure was delayed by an all-night speech from GOP leader Kevin McCarthy. Centrist Democrats in the Senate have raised objections to some provisions that will likely alter the House-passed bill. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/09/12/politics/house-reconciliation-package-explainer/index.html">What the Democrats' sweeping social spending plan might include</a> CNN: After months of negotiations, the House passed the Democrats' sweeping $1.9 trillion budget reconciliation package on Friday. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 08:40 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden's first annual physical as president to be at Walter Reed Friday</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden arrives at Walter Reed for first annual physical as President</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 08:34 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/africa/antony-blinken-interview-ethiopia-nigeria-abuja-intl/index.html">Blinken warns war-torn Ethiopia is on 'path to destruction,' calls on Abiy to step up to end conflict</a> CNN: US Secretary of State Antony Blinken warned Friday that the war in Tigray has put Ethiopia on a "path to destruction" that could reverberate throughout east Africa, telling CNN that the country's leader, Abiy Ahmed, must fulfill "his responsibility" and end violence in the region. 
- <p class="updated_time"> 08:18 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
- <p class="updated_time"> 08:17 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally voting on Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 08:07 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began talking at 8:38 p.m. Thursday. He stopped at 5:10 a.m. Friday. 
  <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:05 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 06:21 AM CT, Nov. 19 </p> 
@@ -227,11 +237,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
  <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
+ <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if Republicans win House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
- <p class="updated_time"> 04:32 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Analysis: Build Back Better finally gets House vote but faces uncertain fate in Senate</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
@@ -290,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision by the Trump administration to move the Bureau of Land Management’s headquarters to Colorado caused staff members to quit, according to a government watchdog report. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
- <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell law professor, faces fierce opposition from bankers and Republican lawmakers. She may not have enough support from Democrats, either. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
  <p class="updated_time"> 03:41 PM CT, Nov. 18 </p> 
@@ -322,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 02:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/iranian-hackers-charged-voter-intimidation-campaign-522972">Iranian hackers charged with voter intimidation campaign that included state election site breach</a> Politico: The two men also hacked into a news organization as part of an apparent plan to further spread their false claims, the indictment charges. 
- <p class="updated_time"> 01:56 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056903692/2-suspected-iranian-hackers-are-charged-with-trying-to-intimidate-u-s-voters">2 suspected Iranian hackers are charged with trying to intimidate U.S. voters</a> NPR: The two Iranian nationals allegedly sent threatening emails to American voters and spread disinformation ahead of the 2020 election. 
  <p class="updated_time"> 01:39 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/oklahoma-governor-commutes-julius-jones-death-sentence-522969">Oklahoma governor commutes Julius Jones’ death sentence</a> Politico: Gov. Stitt commuted the 41-year-old’s death sentence to life imprisonment without the possibility of parole. He had been scheduled for execution at 4 p.m. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/senate-leaders-ndaa-debate-522952">Senate leaders want to fast-track debate on Ukraine, Afghanistan, war powers</a> Politico: Chuck Schumer reupped his calls for Republicans to agree to hasten the process so that the National Defense Authorization Act can be finished ahead of Thanksgiving. 
  <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
- <p class="updated_time"> 11:29 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html">Steve Bannon's lawyers signal they want to slow walk the criminal case against him</a> CNN: Lawyers for right-wing firebrand Steve Bannon made clear at a court hearing Thursday that they intend to slow down, as much as possible, the criminal case against Bannon for failing to testify to the House January 6 select committee. 
  <p class="updated_time"> 10:15 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/turkey-pardon-white-house/index.html">Biden to serve justice for Peanut Butter and Jelly alongside a cornucopia of jokes at turkey pardon</a> CNN: President Joe Biden on Friday will gobble up his first opportunity to participate in a time-honored White House tradition: The annual Thanksgiving turkey pardon. 
  <p class="updated_time"> 09:03 AM CT, Nov. 18 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/biden-ftc-investigate-oil-gas-companies-522804">Biden asks FTC to investigate oil and gas companies</a> Politico: Citing “potentially illegal conduct,” Biden said pump prices are rising even as industry costs are declining. 
- <p class="updated_time"> 10:38 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/covid-vaccine-manufacturing/index.html">Biden admin seeks to boost Covid-19 vaccine manufacturing to increase global supply</a> CNN: The Biden administration is seeking to boost Covid-19 vaccine manufacturing to increase the global vaccine supply, particularly in developing nations, as the US continues its efforts to share more vaccines abroad. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
