@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:30 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59174930?at_medium=RSS&at_campaign=KARANGA">Viewpoint: When Hindus and Muslims joined hands to riot</a> BBC: What can 100-year-old riots, where Hindus and Muslims fought on the same side, teach us? 
  <p class="updated_time"> 07:09 PM CT, Nov. 18 </p> 
@@ -67,10 +69,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59340859?at_medium=RSS&at_campaign=KARANGA">Biden mulls US diplomatic boycott of Beijing Olympics</a> BBC: Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses. 
  <p class="updated_time"> 03:19 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
+ <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
- <p class="updated_time"> 01:42 PM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/electric-vehicle-spat-looms-over-bidens-meeting-with-canadian-mexican-leaders-11637236801">EV Spat Looms Over Biden's Meeting With Canadian, Mexican Leaders</a> WSJ: The U.S. president faces visitors who have accused his administration of promoting electric vehicles and union jobs at the expense of trading relationships. 
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59337955?at_medium=RSS&at_campaign=KARANGA">Covid: Germany to place tighter curbs on unvaccinated</a> BBC: Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
- <p class="updated_time"> 04:23 AM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59331975?at_medium=RSS&at_campaign=KARANGA">China: Man banned from all-you-can-eat BBQ for eating too much</a> BBC: A live-streamer has been banned from a buffet restaurant in China after multiple food binges. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">Beyond the Freezing Forest, a Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in bitter conditions. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
@@ -192,6 +192,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Democrats gear up to pass social safety net bill Thursday night but major obstacles await in the Senate</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 08:04 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">House to vote on massive spending bill </a> CNN:  
+ <p class="updated_time"> 07:51 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
+ <p class="updated_time"> 07:49 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
+ <p class="updated_time"> 07:48 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
  <p class="updated_time"> 07:39 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/fda-ready-to-endorse-pfizer-moderna-boosters-covid-523002">FDA said to be ready to endorse Pfizer and Moderna boosters at once</a> Politico: The move reflects the administration’s growing unease over the recent rise in Covid-19 cases across the nation. 
  <p class="updated_time"> 07:29 PM CT, Nov. 18 </p> 
@@ -206,14 +216,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:51 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/beijing-olympics-boycott.html">U.S. Is ‘Considering’ Diplomatic Boycott of Beijing Olympics, Biden Says</a> NYT: A boycott would mean that government officials would not attend the Winter Games in February, though it would not prevent U.S. athletes from competing. 
+ <p class="updated_time"> 06:49 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/mitch-mcconnell-debt-ceiling-chuck-schumer/index.html">In shift, McConnell begins talks with Schumer to stave off debt crisis </a> CNN: The two top leaders in the Senate have opened discussions to find a way out of a looming debt crisis, a sharp departure from the standoff a month ago that took the United States to the brink of a first-ever default. 
  <p class="updated_time"> 06:43 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
- <p class="updated_time"> 06:38 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Democrats gear up to pass social safety net bill Thursday night but major obstacles await in the Senate</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
- <p class="updated_time"> 06:36 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
- <p class="updated_time"> 06:34 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/salt-tax-deduction-democrats.html">SALT Deduction That Benefits the Rich Divides Democrats</a> NYT: House Democrats are poised to lift a cap on the state and local tax deduction, a gift to wealthy homeowners in some blue states. 
  <p class="updated_time"> 06:30 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/supreme-court-term-limits-biden.html">Biden’s Supreme Court Commission Shows Interest in Term Limits</a> NYT: But in newly released materials, members of the panel acknowledged “profound disagreement” over the wisdom of adding more justices to the court. 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
@@ -234,14 +240,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/us/politics/federal-agency-diversity.html">Relocation of Federal Agency Hurt Diversity, Watchdog Finds</a> NYT: A decision by the Trump administration to move the Bureau of Land Management’s headquarters to Colorado caused staff members to quit, according to a government watchdog report. 
  <p class="updated_time"> 05:30 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-approval-rating-low/index.html">Analysis: How low will Biden go?</a> CNN: A new Quinnipiac University national poll has some very dire news for President Joe Biden: His job approval rating sits at a lousy 36%. 
- <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 05:05 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-debates-defense-bill-what-to-watch-522987">Nine things to watch as the Senate debates the defense bill</a> Politico: Nearly 1,000 amendments have been filed ahead of debate on the National Defense Authorization Act, which has stalled in the Senate for months. 
  <p class="updated_time"> 05:01 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
- <p class="updated_time"> 04:45 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Pelosi Predicts Thursday Vote on Biden’s Ambitious Social Policy Bill</a> NYT: A House vote, months in the making, could come as early as Thursday evening on a $1.85 trillion social policy and climate bill that would be the largest expansion of the safety net in 50 years. 
  <p class="updated_time"> 04:01 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/business/saule-omarova-banks-capitalism-occ.html">Saule Omarova, Biden’s O.C.C. Pick, Will Declare Support for Capitalism</a> NYT: Saule Omarova, a Cornell law professor, faces fierce opposition from bankers and Republican lawmakers. She may not have enough support from Democrats, either. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/white-house-covid-vaccine-children.html">Nearly 10 Percent of Younger Children Got One Vaccine Dose, Says White House</a> NYT: Last week alone, 1.7 million young children were vaccinated, about double the previous week, a White House official said. 
- <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
