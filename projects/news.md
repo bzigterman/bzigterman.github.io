@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/at-polish-border-migrants-say-belarus-waved-them-through-11637264445">Migrants at Polish Border Say Belarus Waved Them Through</a> WSJ: Two Iraqis said Belarusian border guards cut through a razor-wire barrier and pointed them toward Poland, as thousands from the Middle East remain marooned in Eastern Europe, looking for a way out. 
  <p class="updated_time"> 08:31 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/new-reconstruction-points-to-animal-origins-for-covid-19-11637262041">New Reconstruction Points to Animal Origins for Covid-19</a> WSJ: An evolutionary biologist reviewed data and reports on the first known cases to show most were clustered around Wuhan’s seafood market. 
- <p class="updated_time"> 08:14 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces refused to return the bodies to their families. 
  <p class="updated_time"> 07:59 AM CT, Nov. 18 </p> 
  <a href="https://www.wsj.com/articles/turkeys-lira-slides-to-historic-low-ahead-of-central-bank-meeting-11637231995">Turkey Currency Crisis Threatens Economy, Posing Challenge to Erdogan Rule</a> WSJ: The lira fell to a record low after the country’s central bank cut its key rate as demanded by President Recep Tayyip Erdogan. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
@@ -194,7 +194,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 10:15 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 09:10 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House to vote on massive spending bill </a> CNN:  
@@ -218,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/fda-ready-to-endorse-pfizer-moderna-boosters-covid-523002">FDA said to be ready to endorse Pfizer and Moderna boosters at once</a> Politico: The move reflects the administration’s growing unease over the recent rise in Covid-19 cases across the nation. 
  <p class="updated_time"> 07:29 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/trump-gosar-endorsement/index.html">Trump endorses Gosar one day after he was censured over violent video targeting AOC and Biden</a> CNN: Former President Donald Trump on Thursday endorsed Rep. Paul Gosar just one day after the House passed a resolution censuring the Arizona Republican and stripping his committee assignments. 
+ <p class="updated_time"> 07:16 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/business/media/new-york-times-project-veritas.html">Judge Tries to Block New York Times’s Coverage of Project Veritas</a> NYT: The state court order, which The Times said it would immediately oppose, raised concerns from First Amendment advocates. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/covid-boosters-states-leapfrog-federal-522996">States leapfrog feds on Covid boosters for all</a> Politico: The moves to preempt federal guidance have become just the latest point of frustration for Biden administration officials who have spent the last three months managing the complicated booster rollout. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 05:27 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/austin-pentagon-syria-airstrike.html">Pentagon Chief Says More Must Be Done to Prevent Civilian Harm</a> NYT: Defense Secretary Lloyd J. Austin III gave his first public comments about a U.S. strike in 2019 that killed dozens of women and children in Syria, though he offered few specifics. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
