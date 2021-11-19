@@ -188,10 +188,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:51 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/electric-vehicles-biden-trudeau-summit-523021">Electric vehicles spark discord at Biden's trilateral summit</a> Politico: Canada and Mexico strongly oppose the electric-vehicle tax credit, which the countries warn would damage their auto sectors and undermine the new United States-Mexico-Canada trade agreement. 
- <p class="updated_time"> 11:35 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
- <p class="updated_time"> 11:35 PM CT, Nov. 18 </p> 
+ <p class="updated_time"> 11:46 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats delay Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <p class="updated_time"> 11:46 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 11:34 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
@@ -297,7 +297,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:25 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-turkey-pardon-peanut-butter-jelly-522949">White House reveals names of turkeys up for pardon — Peanut Butter and Jelly</a> Politico: Biden will gobble up the chance to grant clemency to either Peanut Butter or Jelly in a ceremony Friday. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than three hours. 
+ <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 01:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/democrats-corporate-tax-proposal.html">Proposed Minimum Tax Would Hit Amazon, G.M. and Others, Report Shows</a> NYT: An analysis released by Senator Elizabeth Warren offered a first look at which companies could face higher tax bills under the proposal. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
