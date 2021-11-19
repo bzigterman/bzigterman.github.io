@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-59341755?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the missing Chinese tennis star Peng Shuai</a> BBC: Questions remain about the whereabouts of Peng Shuai, after she accused a top Chinese government official of sexual assault. 
  <p class="updated_time"> 06:02 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59341765?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Camp empty as migrants move to warehouse</a> BBC: About 1,000 people from the Middle East have been trying to get into the EU from Belarus. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59341765?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Camp empty as migrants move to warehouse</a> BBC: Thousands of people from the Middle East have been trying to get into the EU via Belarus for months. 
  <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
@@ -184,12 +184,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 12:07 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats delay Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
- <p class="updated_time"> 11:56 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/politics/live-news/spending-bill-house-vote-11-18-21/index.html">LIVE UPDATES: House Democrats delay vote on massive spending bill</a> CNN:  
  <p class="updated_time"> 11:51 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/electric-vehicles-biden-trudeau-summit-523021">Electric vehicles spark discord at Biden's trilateral summit</a> Politico: Canada and Mexico strongly oppose the electric-vehicle tax credit, which the countries warn would damage their auto sectors and undermine the new United States-Mexico-Canada trade agreement. 
  <p class="updated_time"> 11:29 PM CT, Nov. 18 </p> 
