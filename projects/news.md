@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
  <p class="updated_time"> 04:35 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report that finds many such deaths in this "neglected" age group are preventable. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 04:32 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 04:24 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
- <p class="updated_time"> 03:49 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
  <p class="updated_time"> 03:46 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: Kyle Rittenhouse killed two men and injured a third at racial justice protests in Kenosha, Wisconsin. 
  <p class="updated_time"> 03:31 PM CT, Nov. 19 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
+ <p class="updated_time"> 04:44 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
  <p class="updated_time"> 04:27 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 04:17 PM CT, Nov. 19 </p> 
