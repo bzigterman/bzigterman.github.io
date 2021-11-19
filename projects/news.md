@@ -202,6 +202,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
+ <p class="updated_time"> 01:32 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
+ <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board chairman Ron Bloom, whose term is expiring.  Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 01:23 PM CT, Nov. 19 </p> 
@@ -210,12 +214,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-harris-power-transfer.html">Biden Will Briefly Transfer Power to Harris</a> NYT: President Biden, who will undergo a physical and colonoscopy on Friday, is the oldest commander in chief to receive a full medical evaluation while in office. 
  <p class="updated_time"> 01:10 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
- <p class="updated_time"> 01:03 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 12:58 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol, Manhattan Developer, Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
+ <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 12:31 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987486/president-biden-to-meet-with-canadas-trudeau-during-north-american-leaders-summi">President Biden to meet with Canada's Trudeau during North American leaders' summit</a> NPR: President Biden is hosting Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for what was once known as the "Three Amigos" summit — the first one since 2016. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
  <p class="updated_time"> 03:17 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/vaccine-mandate-lawsuits-6th-circuit-en-banc/index.html">Opponents of Biden's vaccine mandate seek to ensure a majority of Republican-appointed judges hear case</a> CNN: Two challengers to the Biden administration's vaccine mandate for large employers are trying to ensure that their case is decided as quickly as possible by a majority of judges appointed by Republican presidents. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
