@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:08 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
+ <p class="updated_time"> 07:07 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59343922?at_medium=RSS&at_campaign=KARANGA">DR Congo data leak: Millions transferred to Joseph Kabila allies</a> BBC: Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak. 
  <p class="updated_time"> 06:52 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
  <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
@@ -14,13 +20,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:49 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
  <p class="updated_time"> 06:48 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
- <p class="updated_time"> 06:48 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 06:47 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/covid-austria-lockdown.html">Austria Announces Nationwide Lockdown and Plans Vaccine Mandate</a> NYT: The nationwide lockdown is Europe’s first since spring. And the national vaccine mandate is a first for the continent. 
  <p class="updated_time"> 05:45 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: Deathbed confession sparks long missing US union boss body hunt</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59346106?at_medium=RSS&at_campaign=KARANGA">Jimmy Hoffa: Deathbed confession sparks long-missing US union boss body hunt</a> BBC: The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056894737/as-a-sea-of-lava-destroys-livelihoods-on-la-palma-it-also-offers-a-lifeline">As a sea of lava destroys livelihoods on La Palma, it also offers a lifeline</a> NPR: The lava and ash the Cumbre Vieja volcano has spewed for two months have consumed homes and forced thousands to flee. However, the rock formed by the lava will ultimately save the island from the sea. 
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
@@ -41,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: Measures meant to overhaul the country’s troubled agricultural sector prompted nearly a year of sustained demonstrations. 
  <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">Message to Prince Charles: This Is Not Your Father’s Egypt</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/us-china-uae-military-11637274224">Secret Chinese Port Project in Persian Gulf Rattles U.S. Relations With Key Ally</a> WSJ: U.S. intelligence agencies learned this spring that China was secretly building what they suspected was a military facility at a port in the United Arab Emirates, one of the U.S.’s closest Mideast allies, according to people familiar with the matter. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 01:48 AM CT, Nov. 19 </p> 
@@ -143,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
- <p class="updated_time"> 05:22 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056753071/activists-call-on-oklahoma-governor-to-stop-julius-jones-execution">Okla. governor grants clemency to Julius Jones hours before he was set to be executed</a> NPR: Oklahoma Gov. Kevin Stitt commuted the death sentence of Julius Jones after a public outcry. Jones, who maintains he was wrongly convicted of a 1999 murder, now faces life in prison without parole. 
  <p class="updated_time"> 04:17 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-support.html">Beyond the Freezing Forest, a Green Light at the Window for Migrants</a> NYT: An unofficial network of local residents, activists and volunteer medics in Poland has been working to support those who have made it across from Belarus in bitter conditions. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
@@ -188,10 +192,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:15 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion following overnight delay</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
+ <p class="updated_time"> 07:05 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 06:41 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials are hoping to simplify the message on Covid-19 with booster decisions looming</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
- <p class="updated_time"> 06:41 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech of more than eight hours, attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 06:23 AM CT, Nov. 19 </p> 
@@ -206,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 06:15 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html">Trump's ire grows as DeSantis' popularity with GOP takes off</a> CNN: In a matter of months, Florida Gov. Ron DeSantis has gone from being a shining example in Donald Trump's eyes of a MAGA leader molded in his image to an average politician who forgot his roots as he rose to Republican stardom. 
- <p class="updated_time"> 06:13 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion following overnight delay</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 06:01 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
@@ -219,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:32 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">House Democrats finally on the verge of passing Biden's massive social spending bill </a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
+ <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-economic-agenda-social-spending-bill/index.html">Build Back Better finally gets a House vote</a> CNN: House Democrats are on the cusp of passing President Joe Biden's sweeping social spending and climate change bill after months of feuding. But the likely win on Friday will only pose new questions over whether the $1.9 trillion measure can survive the Senate and then offer the short-term jolt of political energy Biden's wobbling presidency needs. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
@@ -303,7 +307,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the frontrunner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected frontrunner. 
+ <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the front-runner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected front-runner. 
  <p class="updated_time"> 03:17 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/vaccine-mandate-lawsuits-6th-circuit-en-banc/index.html">Opponents of Biden's vaccine mandate seek to ensure a majority of Republican-appointed judges hear case</a> CNN: Two challengers to the Biden administration's vaccine mandate for large employers are trying to ensure that their case is decided as quickly as possible by a majority of judges appointed by Republican presidents. 
  <p class="updated_time"> 02:53 PM CT, Nov. 18 </p> 
@@ -360,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
- <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 08:27 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/redistricting-georgia-democrats-522905">Redistricting squeezes 2 Democratic rising stars in Georgia</a> Politico: Republicans introduced a congressional map that could result in a member-vs.-member primary between Democratic Reps. Lucy McBath and Carolyn Bourdeaux. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
