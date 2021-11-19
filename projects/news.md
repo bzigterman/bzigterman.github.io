@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:17 AM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: Days after it imposed a lockdown on the unvaccinated, it announces a full lockdown from Monday. 
+ <p class="updated_time"> 04:10 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/covid-austria-lockdown.html">Austria Announces Nationwide Lockdown and Plans Vaccine Mandate</a> NYT: The nationwide lockdown is Europe’s first since spring. And the national vaccine mandate is a first for the continent. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
+ <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 03:45 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59343005?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Australia Test captain steps down over historical investigation into texts sent to colleague</a> BBC: Tim Paine steps down as Australia Test captain just before the Ashes over a historical investigation into texts sent to a female colleague. 
- <p class="updated_time"> 03:35 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: Days after it imposed a lockdown on the unvaccinated, it announces a full lockdown from Monday. 
  <p class="updated_time"> 03:25 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59337349?at_medium=RSS&at_campaign=KARANGA">Peng case must be investigated - Serena Williams</a> BBC: Serena Williams says the case of Chinese player Peng Shuai "must be investigated" and urged people "not to stay silent" about her welfare. 
  <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
@@ -171,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
- <p class="updated_time"> 10:17 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/ethiopia-tigrayan-detention.html">Mass Detentions of Civilians Fan ‘Climate of Fear’ in Ethiopia</a> NYT: An ethnically motivated detention campaign largely targeting Ethiopians of Tigrayan descent threatens to further unravel Africa’s second-most populous country a year into a civil war. 
  <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
  <p class="updated_time"> 06:00 AM CT, Nov. 17 </p> 
@@ -184,8 +188,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:54 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with an hourslong speech attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
+ <p class="updated_time"> 04:25 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/us/politics/house-vote-pelosi-social-policy-bill.html">Vote on Social Policy Bill Delayed as McCarthy Keeps Talking</a> NYT: Representative Kevin McCarthy, the minority leader, prolonged debate with a record-breaking speech attacking Democrats and veering from G.O.P. talking points to personal anecdotes. 
+ <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1057133042/in-a-new-book-chris-christie-says-the-gop-needs-to-move-past-trump">In a new book, Chris Christie says the GOP needs to move past Trump</a> NPR: Former New Jersey Gov. Chris Christie has emerged as a critic of ex-President Trump. We look at the pair's long and uneasy history, and what Christie's new stance may mean for the Republican Party. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change.  In other words, if you are in office now, you are holding the bag. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 02:59 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 12:51 AM CT, Nov. 19 </p> 
@@ -340,10 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056761901/biden-to-host-three-amigos-summit-with-the-leaders-of-canada-and-mexico">Biden to host Three Amigos summit with the leaders of Canada and Mexico</a> NPR: President Biden hosts Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador for the first "Three Amigos" summit since 2016. 
- <p class="updated_time"> 04:02 AM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1051504164/in-washington-the-last-employees-at-the-afghan-embassy-work-until-the-lights-go-">In Washington, the last employees at the Afghan Embassy work until the lights go off</a> NPR: The embassy in Washington, D.C., was once a symbol of a new Afghanistan. Now, the few staffers left refuse to serve the Taliban and are racing to help as many refugees as they can. 
  <p class="updated_time"> 10:24 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/moderna-boosters-adults-fda.html">FDA Could Authorize Moderna Boosters for All Adults as Early as This Week</a> NYT: If the C.D.C. also signs off on broad booster requests by Moderna and Pfizer, every adult who was fully vaccinated with them at least six months ago would not only be eligible, but could choose which type of booster shot to get. 
  <p class="updated_time"> 10:23 PM CT, Nov. 17 </p> 
@@ -364,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 03:54 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/us/politics/oklahoma-vaccine-mandate.html">Oklahoma Governor Kevin Stitt and Pentagon Standoff Over Vaccine Intensifies</a> NYT: The state says its National Guard members do not need to be vaccinated. Pentagon officials say a failure to follow “valid medical readiness requirements” could “jeopardize” the status of troops. 
  <p class="updated_time"> 03:26 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html">Cities Try to Lure Factories as U.S. Pushes to Fix Chip Shortage</a> NYT: Many local governments see a silver lining in the shortage of semiconductor chips that has contributed to a slowdown in the global economy. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
