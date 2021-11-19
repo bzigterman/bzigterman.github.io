@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 PM CT, Nov. 18 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: The three measures were meant to overhaul the country’s troubled agricultural sector, but they sparked nearly a year of sustained demonstrations. 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-pfizer-covid-pill.html">U.S. to Buy Enough of Pfizer’s Covid Antiviral Pills for 10 Million People</a> NYT: The antiviral drugs have helped inspire hope among senior administration officials that the United States will be able to curb the devastating toll from the Delta variant. 
  <p class="updated_time"> 07:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/us-china-journalists.html">U.S. and China Agree to Ease Restrictions on Journalists</a> NYT: The deal tones down a diplomatic confrontation that led Beijing to expel some American reporters during the last year of the Trump administration. 
- <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
  <p class="updated_time"> 01:59 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/middleeast/gaza-university-israel-poet.html">In Gaza, a Contentious Palestinian Professor Calmly Teaches Israeli Poetry</a> NYT: On social media, Refaat Alareer rages against Israel. In the lecture hall, he studiously analyzes the work of some of its leading poets — and surprises some of his students. 
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
