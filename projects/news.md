@@ -187,7 +187,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
+ <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if Republicans win House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 05:29 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House Democrats expected to pass Biden's social safety net expansion following overnight delay</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 05:18 AM CT, Nov. 19 </p> 
@@ -197,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
  <p class="updated_time"> 04:59 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats had delayed Build Back Better vote after McCarthy stalls floor action</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
+ <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">House Democrats had delayed Build Back Better vote after McCarthy stalled floor action overnight</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 04:45 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">Ahead of Summit, U.S. Deported Chinese Nationals, and China Let an American Leave</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:32 AM CT, Nov. 19 </p> 
@@ -221,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:33 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/cbo-biden-spending-bill.html">C.B.O. Finds Biden's Spending Bill Not Fully Paid For</a> NYT: The White House and the Congressional Budget Office are at odds over how much revenue the Internal Revenue Service could recoup from tax cheats. 
  <p class="updated_time"> 11:11 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former New York Gov. Andrew Cuomo to be released soon</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
+ <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former NY Gov. Andrew Cuomo to be released in coming days</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
  <p class="updated_time"> 10:15 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html">Head of RNC says Biden won 2020 election, the first time she's clearly acknowledged his victory</a> CNN: Republican National Committee Chairwoman Ronna McDaniel said Thursday she recognizes President Joe Biden as the 46th president of the United States, even as she claimed there were "lots of problems" with the 2020 election that Republican candidates should address. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
@@ -235,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:39 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/fda-ready-to-endorse-pfizer-moderna-boosters-covid-523002">FDA said to be ready to endorse Pfizer and Moderna boosters at once</a> Politico: The move reflects the administration’s growing unease over the recent rise in Covid-19 cases across the nation. 
  <p class="updated_time"> 07:29 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/trump-gosar-endorsement/index.html">Trump endorses Gosar one day after he was censured over violent video targeting AOC and Biden</a> CNN: Former President Donald Trump on Thursday endorsed Rep. Paul Gosar just one day after the House passed a resolution censuring the Arizona Republican and stripping his committee assignments. 
+ <a href="https://www.cnn.com/2021/11/18/politics/trump-gosar-endorsement/index.html">Trump endorses Gosar a day after he's censured over violent video targeting AOC and Biden</a> CNN: Former President Donald Trump on Thursday endorsed Rep. Paul Gosar just one day after the House passed a resolution censuring the Arizona Republican and stripping his committee assignments. 
  <p class="updated_time"> 07:16 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/business/media/new-york-times-project-veritas.html">Judge Tries to Block New York Times’s Coverage of Project Veritas</a> NYT: The state court order, which The Times said it would immediately oppose, raised concerns from First Amendment advocates. 
  <p class="updated_time"> 07:12 PM CT, Nov. 18 </p> 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/mitch-mcconnell-debt-ceiling-chuck-schumer/index.html">In shift, McConnell begins talks with Schumer to stave off debt crisis </a> CNN: The two top leaders in the Senate have opened discussions to find a way out of a looming debt crisis, a sharp departure from the standoff a month ago that took the United States to the brink of a first-ever default. 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
- <p class="updated_time"> 06:17 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if Republicans win House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-january-6-committee/index.html">January 6 committee's interest in Meadows goes beyond conversations with Trump</a> CNN: Members of the House committee investigating January 6 said on Thursday that many of the questions they have for former White House chief of staff Mark Meadows have nothing to do with then-President Donald Trump -- suggesting that the panel is still open to discussing the terms of a potential interview. 
  <p class="updated_time"> 06:13 PM CT, Nov. 18 </p> 
