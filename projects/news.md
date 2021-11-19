@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:50 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
+ <p class="updated_time"> 12:36 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial. 
  <p class="updated_time"> 12:31 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 12:25 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: The teenager shot and killed two men during racial justice protests but was cleared of homicide after claiming self-defence. 
  <p class="updated_time"> 12:19 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 12:08 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 11:57 AM CT, Nov. 19 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 12:23 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
+ <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
  <p class="updated_time"> 11:57 AM CT, Nov. 19 </p> 
@@ -243,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill, but ultimately failed to prevent its passage. 
+ <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so-called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">Biden has resumed his duties after briefly transferring power to Harris</a> NPR: Vice President Harris briefly held presidential authority on Friday while Biden underwent a colonoscopy. She became the first woman and Asian American to hold the powers of the office in U.S. history. 
  <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
- <p class="updated_time"> 09:22 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/ciara-white-house-covid-vaccinations/index.html">Ciara to promote Covid-19 vaccination for kids as White House looks to level up child vaccine rates</a> CNN: First lady Jill Biden welcomed music star Ciara to the White House Wednesday to discuss the 1, 2 Step process of getting kids vaccinated against Covid-19 as the nation works to Level Up its vaccination rates. 
  <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
  <p class="updated_time"> 07:54 PM CT, Nov. 17 </p> 
