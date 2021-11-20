@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:03 PM CT, Nov. 20 </p> 
+ <p class="updated_time"> 01:57 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-protest-covid-vaccine.html">Thousands in Austria Protest Virus Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators 
+ <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
+ <p class="updated_time"> 01:19 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
+ <p class="updated_time"> 12:45 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59362388?at_medium=RSS&at_campaign=KARANGA">Paris St-Germain 3-1 Nantes: Lionel Messi opens Ligue 1 account as 10-man leaders win</a> BBC: Lionel Messi scores his first goal in Ligue 1 as 10-man Paris St-Germain move 13 points clear with a late rally to beat Nantes. 
  <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
  <p class="updated_time"> 12:04 PM CT, Nov. 20 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/africa/south-sudan-covid-flooding.html">In South Sudan, Vaccines Are Overshadowed by Pressing Needs</a> NYT: Much of South Sudan is under water from flooding induced by climate change and deforestation. Crops and livestock are lost, hunger and malaria are spreading. With so many worries, coronavirus vaccines are a tough sell. 
  <p class="updated_time"> 10:17 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59352176?at_medium=RSS&at_campaign=KARANGA">Colombia president condemns Nazi-themed police event</a> BBC: President Iván Duque condemns the actions of cadets pictured in SS uniforms and Swastika armbands. 
- <p class="updated_time"> 09:57 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59349888?at_medium=RSS&at_campaign=KARANGA">'Still no contact with Chinese tennis star' - WTA</a> BBC: Peng Shuai has still not directly been in contact with the WTA, which says "no amount of money" would stop the tour pulling events out of China. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
  <p class="updated_time"> 04:55 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
- <p class="updated_time"> 04:43 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-53934109?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Who is US teen cleared of protest killings?</a> BBC: The suspect shot three men, two of whom were armed, during racial unrest in Wisconsin. 
  <p class="updated_time"> 04:35 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 04:32 PM CT, Nov. 19 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">Sex Ed, One Instagram Post at a Time</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
- <p class="updated_time"> 10:59 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/peng-shuai-zhang-gaoli-china-tennis.html">Furor Over Peng Shuai's #Metoo Accusation Challenges China</a> NYT: The tennis world is outraged over the latest twist in a star player’s complaint of assault and abrupt disappearance from public life. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
  <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
