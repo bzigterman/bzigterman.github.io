@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 11:09 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden 'angry' after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden angry after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
  <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
