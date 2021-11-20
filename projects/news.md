@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:33 AM CT, Nov. 20 </p> 
+ <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
+ <p class="updated_time"> 12:04 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Skirmishes Break Out at March Against Austria's Covid Measures</a> NYT: The protesters chanted “freedom” and “resistance,” expressing anger at a newly announced vaccine requirement and a nationwide lockdown starting on Monday. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: Police officers were out in force to prevent violence and protect shops, with some store owners lamenting that the protests disrupt business. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 11:09 AM CT, Nov. 20 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/africa/south-sudan-covid-floods.html">In South Sudan, Vaccines Are Overshadowed by Pressing Needs</a> NYT: Much of South Sudan is under water from flooding induced by climate change and deforestation. Crops and livestock are lost, hunger and malaria are spreading. With so many worries, coronavirus vaccines are a tough sell. 
  <p class="updated_time"> 10:17 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59352176?at_medium=RSS&at_campaign=KARANGA">Colombia president condemns Nazi-themed police event</a> BBC: President Iván Duque condemns the actions of cadets pictured in SS uniforms and Swastika armbands. 
- <p class="updated_time"> 10:07 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: Police officers were out in force to prevent violence and protect shops, with some store owners lamenting that the protests disrupt business. 
  <p class="updated_time"> 09:57 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59349888?at_medium=RSS&at_campaign=KARANGA">'Still no contact with Chinese tennis star' - WTA</a> BBC: Peng Shuai has still not directly been in contact with the WTA, which says "no amount of money" would stop the tour pulling events out of China. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
  <p class="updated_time"> 05:54 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
- <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
 
