@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
+ <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can We Stop Wearing Masks?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
