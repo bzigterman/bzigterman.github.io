@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
+ <p class="updated_time"> 04:56 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/hypersonic-technology-us-behind-china-russia-523130">U.S. ‘not as advanced’ as China and Russia on hypersonic tech, Space Force general warns</a> Politico: While the Pentagon has pushed the development of new hypersonic missiles, the Army isn’t slated to field its first missile until 2024. 
  <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
- <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
@@ -430,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
  <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
- <p class="updated_time"> 04:21 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
