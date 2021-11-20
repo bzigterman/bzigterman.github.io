@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:15 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">U.K. Politics Leads to a Tabloid ‘Game of Thrones’ in London</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
+ <p class="updated_time"> 08:24 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 08:06 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
@@ -18,13 +18,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:47 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 07:46 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/covid-austria-vienna-protests.html">Austria Braces for Violence at Mass Protests Over Covid Measures</a> NYT: The police in Vienna said that 10 of 11 demonstrations registered for Saturday involved protests over rules including a newly announced lockdown and vaccine requirement. 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Austria Braces for Violence at Mass Protests Over Covid Measures</a> NYT: The police in Vienna said that 10 of 11 demonstrations registered for Saturday involved protests over rules including a newly announced lockdown and vaccine requirement. 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
+ <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
  <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
@@ -44,9 +44,17 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
+ <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
+ <p class="updated_time"> 03:10 AM CT, Nov. 20 </p> 
+ <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">Dutch Covid-19 Lockdown Protest Turns Violent</a> WSJ: Rioters in central Rotterdam burned cars, launched fireworks and pelted police, who responded with water cannons and warning shots 
+ <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.wsj.com/articles/yemens-battleground-shifts-in-favor-of-iran-backed-houthis-11637413200">Yemen's Battleground Shifts in Favor of Iran-Backed Houthis</a> WSJ: Saudi Arabia is scrambling to defend an oil-rich city against the group, as the Biden administration debates whether to back Riyadh in Yemen’s civil war. 
  <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego motorway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/putin-dispatches-russian-vessels-to-shadow-u-s-warships-during-flare-up-11637404202">Putin Dispatches Russian Vessels to Shadow U.S. Warships During Flare-Up</a> WSJ: A group of U.S. and allied ships were tailed by Russian ships and aircraft in the Black Sea as tensions climbed over Moscow’s military deployments. 
+ <p class="updated_time"> 11:19 PM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-chief-tries-to-reassure-mideast-allies-after-afghanistan-pullout-11637403580">Pentagon Chief Tries to Reassure Mideast Allies After Afghanistan Pullout</a> WSJ: ‘America’s commitment to security in the Middle East is strong and secure,’ Defense Secretary Lloyd Austin told a security forum in Bahrain. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
@@ -103,6 +111,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
+ <p class="updated_time"> 11:09 AM CT, Nov. 19 </p> 
+ <a href="https://www.wsj.com/articles/iranian-hackers-broke-into-newspaper-publisher-lee-enterprises-ahead-of-2020-election-11637359741">Iranian Hackers Broke Into Newspaper Publisher Lee Enterprises Ahead of 2020 Election</a> WSJ: Computer systems of Lee Enterprises, which owns dozens of daily papers, were targeted in a disinformation campaign, say people familiar with case. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
@@ -117,10 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056894737/as-a-sea-of-lava-destroys-livelihoods-on-la-palma-it-also-offers-a-lifeline">As a sea of lava destroys livelihoods on La Palma, it also offers a lifeline</a> NPR: The lava and ash the Cumbre Vieja volcano has spewed for two months have consumed homes and forced thousands to flee. However, the rock formed by the lava will ultimately save the island from the sea. 
- <p class="updated_time"> 04:55 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/destruction-of-brazilian-amazon-surges-to-15-year-high-new-data-show-11637337316">Destruction of Brazilian Amazon Surges to 15-Year High</a> WSJ: Environmentalists accuse government of withholding deforestation data from this month’s COP26 climate summit. 
- <p class="updated_time"> 04:51 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/patria-y-vida-cubas-protest-anthem-wins-top-awards-at-latin-grammys-11637337086">Cuba's Protest Anthem Wins Top Awards at Latin Grammys</a> WSJ: “Patria y Vida” won awards for song of the year and best urban song, shining a spotlight on the struggle for freedom of expression in the Communist island and the imprisonment of one of its authors. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
@@ -129,26 +135,14 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cold-and-frightened-migrants-hold-out-hope-of-crossing-belarus-poland-border-11637332785">Migrants on Belarus-Poland Border Are Freezing but Won't Give Up Hope to Cross</a> WSJ: Thousands of migrants have been crowded into a warehouse near the border between Poland and Belarus, after Belarusian authorities coaxed them into abandoning the freezing camps they occupied for weeks. 
  <p class="updated_time"> 03:33 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406">The Ship's Captain Died at Sea. Six Months Later, His Body Was Still in the Freezer.</a> WSJ: Ports and governments refuse to let cargo vessels offload the remains of dead seafarers. The last voyage of Captain Sandu. 
- <p class="updated_time"> 02:57 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/austria-locks-down-imposes-broad-vaccine-mandate-as-covid-19-cases-surge-11637323344">Austria Becomes First in Europe to Impose Vaccine Mandate, Return to Lockdown</a> WSJ: The country’s general vaccination mandate and return to a nationwide lockdown were in response to a rapid rise in Covid-19 infections and hospitalizations despite mass immunization. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 02:00 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/us-china-uae-military-11637274224">Secret Chinese Port Project in Persian Gulf Rattles U.S. Relations With Key Ally</a> WSJ: U.S. intelligence agencies learned this spring that China was secretly building what they suspected was a military facility at a port in the United Arab Emirates, one of the U.S.’s closest Mideast allies, according to people familiar with the matter. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
- <p class="updated_time"> 01:48 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/former-prime-minister-convicted-of-corruption-withdraws-request-for-multimillion-dollar-property-from-malaysia-11637326094">Former Prime Minister Convicted of Corruption Withdraws Request for Property From Malaysia</a> WSJ: Najib Razak was found guilty last year on charges related to his role in the  1MDB financial scandal, and he remains free on bail while he appeals. 
- <p class="updated_time"> 01:27 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/meet-a-jew-program-aims-to-tackle-rising-anti-semitism-in-germany-11637324857">'Meet a Jew' Program Aims to Tackle German Anti-Semitism</a> WSJ: The program seeks to fight stereotypes by inviting some Germans to meet Jews for the first time and help fill what many see as a gap in Germany’s remembrance of the Holocaust. 
- <p class="updated_time"> 01:14 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/india-to-repeal-farming-laws-protested-by-tens-of-thousands-11637303531">India to Repeal Farming Laws After Mass Protests</a> WSJ: Farmers who were opposed to the rules said they were worried they would mark the beginning of the dismantling of a system of regulations, subsidies and support that bolsters their incomes. 
  <p class="updated_time"> 01:09 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/01/27/world/asia/india-farmer-protest.html">Why India's Farmers Are Protesting</a> NYT: The government withstood months of protest, with both sides refusing to compromise, before it unexpectedly bowed to the farmers’ demands this week. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
- <p class="updated_time"> 11:47 PM CT, Nov. 18 </p> 
- <a href="https://www.wsj.com/articles/japan-plans-490-billion-stimulus-to-jolt-struggling-economy-11637312665">Japan Plans $490 Billion Stimulus to Jolt Struggling Economy</a> WSJ: The government approved the package to support recovery from the Covid-19 pandemic, including cash payments to most families and some smaller companies. 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
@@ -215,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/health/coronavirus-masks-mandates.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
+ <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
  <p class="updated_time"> 07:57 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
@@ -243,9 +237,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
+ <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 02:57 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy's 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
