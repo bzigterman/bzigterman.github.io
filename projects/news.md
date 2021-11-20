@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:04 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 08:44 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy's 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 07:48 PM CT, Nov. 19 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057478725/far-right-groups-rittenhouse-acquittal-celebration-violence">For far-right groups, Rittenhouse's acquittal is a cause for celebration</a> NPR: One expert fears that the acquittal of Kyle Rittenhouse will embolden people to seek out altercations where it could be possible to make claims of self-defense. 
  <p class="updated_time"> 05:58 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-physical-healthy.html">Biden Declared ‘Healthy’ and ‘Vigorous’ After His First Presidential Physical</a> NYT: Vice President Kamala Harris became the first woman to assume acting presidential duties, while President Biden underwent a colonoscopy. 
- <p class="updated_time"> 05:30 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 05:18 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 05:15 PM CT, Nov. 19 </p> 
