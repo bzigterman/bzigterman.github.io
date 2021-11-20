@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
+ <p class="updated_time"> 05:15 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 04:56 PM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
  <p class="updated_time"> 03:58 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/missing-chinese-tennis-star-photos-523127">Photos of missing Chinese tennis star posted online</a> Politico: The photos appeared Friday on Twitter, which cannot be seen by most internet users in China. 
- <p class="updated_time"> 03:39 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/eddie-bernice-johnson-democrat-no-reelection-523126">Democrat Eddie Bernice Johnson ending decades in Congress</a> Politico: Johnson, 85, is a political fixture in her hometown of Dallas, where early in her career she became the first Black woman to serve the city in the state Senate since Reconstruction. 
  <p class="updated_time"> 02:01 PM CT, Nov. 20 </p> 
@@ -328,6 +328,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
+ <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
@@ -380,6 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
