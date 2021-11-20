@@ -3,7 +3,7 @@ Eastern,MIA,11,5,.688
 Eastern,BKN,11,5,.688
 Eastern,CHI,10,5,.667
 Eastern,WAS,10,5,.667
-Eastern,CHA,9,7,.562
+Eastern,CHA,10,7,.588
 Eastern,PHI,9,7,.562
 Eastern,NYK,8,7,.533
 Eastern,CLE,9,8,.529
@@ -11,10 +11,10 @@ Eastern,MIL,7,8,.467
 Eastern,BOS,7,8,.467
 Eastern,ATL,7,9,.438
 Eastern,TOR,7,9,.438
-Eastern,IND,6,10,.375
-Eastern,DET,4,10,.286
+Eastern,IND,6,11,.353
 Eastern,ORL,4,11,.267
-Western,GSW,13,2,.867
+Eastern,DET,4,11,.267
+Western,GSW,14,2,.875
 Western,PHX,11,3,.786
 Western,UTA,10,5,.667
 Western,DAL,9,5,.643
