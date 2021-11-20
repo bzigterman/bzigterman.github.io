@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden 'angry' after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
+ <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
  <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355955?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Elizabeth Holmes makes surprise testimony</a> BBC: Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence. 
  <p class="updated_time"> 07:36 PM CT, Nov. 19 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 04:24 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
- <p class="updated_time"> 03:46 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352228?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teenager cleared over Kenosha killings</a> BBC: Kyle Rittenhouse killed two men during racial justice protests and rioting in Kenosha, Wisconsin. 
  <p class="updated_time"> 03:31 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59327679?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: US 'deeply concerned' over Chinese tennis star</a> BBC: Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault. 
  <p class="updated_time"> 03:24 PM CT, Nov. 19 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
- <p class="updated_time"> 03:47 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59341770?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon sees worst deforestation levels in 15 years</a> BBC: The figures come after Brazil promised to end the practice by 2030 during the COP climate summit. 
  <p class="updated_time"> 03:39 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/cold-and-frightened-migrants-hold-out-hope-of-crossing-belarus-poland-border-11637332785">Migrants on Belarus-Poland Border Are Freezing but Won't Give Up Hope to Cross</a> WSJ: Thousands of migrants have been crowded into a warehouse near the border between Poland and Belarus, after Belarusian authorities coaxed them into abandoning the freezing camps they occupied for weeks. 
  <p class="updated_time"> 03:33 AM CT, Nov. 19 </p> 
@@ -210,6 +210,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
+ <p class="updated_time"> 11:04 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/wisconsin-republicans-push-election-takeover/index.html">More than a year after Donald Trump's loss, Wisconsin Republicans wage relentless attacks on the state's election commission</a> CNN: Republicans in Wisconsin are engaging in a multi-pronged attack on the state's bipartisan election commission -- in one of the latest efforts to relitigate the 2020 election in a key presidential battleground state. 
+ <p class="updated_time"> 11:01 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 10:04 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 08:44 PM CT, Nov. 19 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
  <p class="updated_time"> 07:44 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/officers-excessive-force-stomp.html">3 Officers Used Excessive Force in Arrest of Black Teen, U.S. Says</a> NYT: The officers were charged with violating the teenager’s civil rights when they stomped on his head in New Jersey in 2018. 
- <p class="updated_time"> 07:33 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 06:42 PM CT, Nov. 19 </p> 
@@ -248,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
- <p class="updated_time"> 04:27 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 04:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/judge-blames-trump-riot/index.html">Federal judge says Trump has responsibility for January 6, calling rioter a 'pawn'</a> CNN: A federal judge suggested Friday that former President Donald Trump had some responsibility for the January 6 attack on the Capitol and that rioters were pawns provoked into action. 
  <p class="updated_time"> 04:13 PM CT, Nov. 19 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 03:37 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden pardons Peanut Butter and Jelly in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
- <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/wisconsin-republicans-push-election-takeover/index.html">More than a year after Donald Trump's loss, Wisconsin Republicans wage relentless attacks on the state's election commission</a> CNN: Republicans in Wisconsin are engaging in a multi-pronged attack on the state's bipartisan election commission -- in one of the latest efforts to relitigate the 2020 election in a key presidential battleground state. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
