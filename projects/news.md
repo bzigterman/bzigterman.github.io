@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59352179?at_medium=RSS&at_campaign=KARANGA">Somali journalist Abdiaziz Mohamud Guled killed in suicide attack</a> BBC: Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:57 PM CT, Nov. 20 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/pentagon-chief-tries-to-reassure-mideast-allies-after-afghanistan-pullout-11637403580">Pentagon Chief Tries to Reassure Mideast Allies After Afghanistan Pullout</a> WSJ: ‘America’s commitment to security in the Middle East is strong and secure,’ Defense Secretary Lloyd Austin told a security forum in Bahrain. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
- <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59355955?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Elizabeth Holmes makes surprise testimony</a> BBC: Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence. 
  <p class="updated_time"> 06:48 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59345561?at_medium=RSS&at_campaign=KARANGA">'Sudan's generals betrayed my generation'</a> BBC: Journalist Mohanad Hashim returned from exile after the revolution but a coup leaves his hopes in tatters. 
  <p class="updated_time"> 06:46 PM CT, Nov. 19 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:58 PM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/missing-chinese-tennis-star-photos-523127">Photos of missing Chinese tennis star posted online</a> Politico: The photos appeared Friday on Twitter, which cannot be seen by most internet users in China. 
  <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/eddie-bernice-johnson-democrat-no-reelection-523126">Democrat Eddie Bernice Johnson ending decades in Congress</a> Politico: Johnson, 85, is a political fixture in her hometown of Dallas, where early in her career she became the first Black woman to serve the city in the state Senate since Reconstruction. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
- <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
