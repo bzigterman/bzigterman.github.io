@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
+ <p class="updated_time"> 04:56 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 04:38 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego freeway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
  <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
- <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
- <p class="updated_time"> 12:58 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:56 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
- <p class="updated_time"> 12:59 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech.html">Kevin McCarthy Speaks for More Than Eight Hours to Delay a House Vote</a> NYT: The House minority leader began speaking Thursday night against President Biden’s social policy bill. He stopped at 5:10 a.m. Friday, after setting a record for the longest speech. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
