@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
+ <p class="updated_time"> 05:50 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million deaths by March without action. 
  <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 05:28 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million deaths by March without action. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:57 AM CT, Nov. 20 </p> 
@@ -94,7 +96,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
+ <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987410/the-tennis-world-is-calling-on-china-to-prove-a-chinese-tennis-star-is-safe">The tennis world is calling on China to prove a Chinese tennis star is safe</a> NPR: One of China's biggest tennis stars accused a former Vice Premier of sexual assault — then disappeared from public view. The Women's Tennis Association is calling on China to prove she's OK. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987359/a-far-right-candidate-is-the-frontrunner-in-chiles-presidential-election">A far-right candidate is the front-runner in Chile's presidential election</a> NPR: Chile holds the first round of its presidential election Sunday. A far-right candidate is the unexpected front-runner. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
@@ -214,10 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
+ <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 04:56 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
- <p class="updated_time"> 03:33 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987493/president-bidens-nominee-to-oversee-banks-may-not-have-enough-votes-to-be-confir">President Biden's nominee to oversee banks may not have enough votes to be confirmed</a> NPR: After her a hearing on Thursday, it's unclear if President Biden's controversial pick to be the nation's top bank regulator has enough votes to be confirmed. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
