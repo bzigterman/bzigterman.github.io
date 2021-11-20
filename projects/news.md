@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 02:11 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden angry after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
+ <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego freeway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
  <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
@@ -77,12 +87,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus president tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, President Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
- <p class="updated_time"> 10:05 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59351260?at_medium=RSS&at_campaign=KARANGA">Elijah McClain family to receive $15m settlement from Colorado</a> BBC: Elijah McClain was put in a chokehold and injected with ketamine after being stopped by police. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
- <p class="updated_time"> 09:42 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/americas/raul-rivero-dead.html">Raúl Rivero, Disenchanted Poet of the Cuban Revolution, Dies at 75</a> NYT: A leading journalistic voice who broke with the Castro regime, he gained wide recognition for his protests, was jailed as a dissident and went into exile. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/japan-plans-490-billion-stimulus-to-jolt-struggling-economy-11637312665">Japan Plans $490 Billion Stimulus to Jolt Struggling Economy</a> WSJ: The government approved the package to support recovery from the Covid-19 pandemic, including cash payments to most families and some smaller companies. 
  <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
- <p class="updated_time"> 09:47 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/asia/uyghur-doppa-hat.html">Doppa, a Central Asian Hat, Guides Quest for Uyghur Roots</a> NYT: For an Australian woman with roots in Central Asia, a growing awareness of her heritage and the peril her people face all began with an embroidered skullcap. 
  <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
@@ -201,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/covid-vaccine-germany-europe.html">Vaccinated vs. Unvaccinated: Europe’s Covid Culture War</a> NYT: In pockets of Europe, vaccine resistance has become the long tail of the populist nationalist movements that shook up European politics for a decade. 
  <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
- <p class="updated_time"> 07:29 AM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/liverpool-hospital-explosion.html">Liverpool Bomber Had Planned for Months, U.K. Police Say</a> NYT: The authorities named the man they believe to be behind an explosion in a taxi outside a hospital, who was also the only person killed, as Emad Al Swealmeen, 32. 
 
 
 </details>
@@ -210,6 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/business/high-cost-of-gas.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/health/coronavirus-masks-mandates.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 02:57 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy's 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
@@ -312,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so-called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">White House doctor gives Biden a good bill of health</a> NPR: The White House physician raised concerns about the increasing frequency and severity of President Biden's "throat clearing" during speeches and worsening gait, but overall found him "fit for duty." 
- <p class="updated_time"> 09:00 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/wisconsin-republicans-decertify-election.html">Wisconsin Republicans Push to Take Over the State’s Elections</a> NYT: Led by Senator Ron Johnson, G.O.P. officials want to eliminate a bipartisan elections agency — and maybe send its members to jail. 
  <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
  <p class="updated_time"> 08:48 AM CT, Nov. 19 </p> 
