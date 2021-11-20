@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/hypersonic-technology-us-behind-china-russia-523130">U.S. ‘not as advanced’ as China and Russia on hypersonic tech, Space Force general warns</a> Politico: While the Pentagon has pushed the development of new hypersonic missiles, the Army isn’t slated to field its first missile until 2024. 
  <p class="updated_time"> 03:58 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/missing-chinese-tennis-star-photos-523127">Photos of missing Chinese tennis star posted online</a> Politico: The photos appeared Friday on Twitter, which cannot be seen by most internet users in China. 
  <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
- <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/biden-middle-east-israel-523053">Biden's balancing act in the Middle East has a problem: Israel</a> Politico: In an interview, Israel’s interior minister dismisses U.S. plans to reopen a consulate in Jerusalem and downplays reports of Israeli settler violence against Palestinians. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
