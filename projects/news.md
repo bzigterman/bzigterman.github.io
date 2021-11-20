@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator 'not going to defend' Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:42 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
  <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
- <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
