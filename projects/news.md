@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 PM CT, Nov. 19 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy's 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 07:48 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
  <p class="updated_time"> 07:44 PM CT, Nov. 19 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change. In other words, if you are in office now, you are holding the bag. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
- <p class="updated_time"> 08:18 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/us/politics/supreme-court-term-limits-biden.html">Biden’s Supreme Court Commission Shows Interest in Term Limits</a> NYT: But in newly released materials, members of the panel acknowledged “profound disagreement” over the wisdom of adding more justices to the court. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 07:01 PM CT, Nov. 18 </p> 
