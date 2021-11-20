@@ -204,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/hypersonic-technology-us-behind-china-russia-523130">U.S. ‘not as advanced’ as China and Russia on hypersonic tech, Space Force general warns</a> Politico: While the Pentagon has pushed the development of new hypersonic missiles, the Army isn’t slated to field its first missile until 2024. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
+ <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
  <p class="updated_time"> 03:58 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/missing-chinese-tennis-star-photos-523127">Photos of missing Chinese tennis star posted online</a> Politico: The photos appeared Friday on Twitter, which cannot be seen by most internet users in China. 
  <p class="updated_time"> 03:39 PM CT, Nov. 20 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html">Young progressives warn that Democrats could have a youth voter problem in 2022</a> CNN: With less than one year until the 2022 midterm elections, young voters -- who turned out in high numbers for President Joe Biden in 2020 -- warn that if the Biden administration and congressional Democrats don't act now on issues important to young progressives, they could risk alienating the demographic. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
- <p class="updated_time"> 11:42 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 11:09 AM CT, Nov. 20 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132958/democrats-consider-the-build-back-better-bill-to-be-vital-for-the-country">Democrats consider the Build Back Better bill to be vital for the country</a> NPR: Democratic Rep. Jim Clyburn of South Carolina speaks with NPR's Steve Inskeep about the current state, and the future of the Democratic Party. 
  <p class="updated_time"> 06:19 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
- <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
