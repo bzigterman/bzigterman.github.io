@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Skirmishes Break Out at March Against Austria's Covid Measures</a> NYT: The protesters chanted “freedom” and “resistance,” expressing anger at a newly announced vaccine requirement and a nationwide lockdown starting on Monday. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 11:09 AM CT, Nov. 20 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 09:23 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
- <p class="updated_time"> 09:18 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Austria Braces for Violence at Mass Protests Over Covid Measures</a> NYT: The police in Vienna said that 10 of 11 demonstrations registered for Saturday involved protests over rules including a newly announced lockdown and vaccine requirement. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
  <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
+ <p class="updated_time"> 06:25 AM CT, Nov. 20 </p> 
+ <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">New Covid-19 Restrictions Spark Protests Across Europe</a> WSJ: Europeans are staging protests against new Covid-19 restrictions intended to stem an upsurge in the pandemic, with violence flaring overnight in the Netherlands 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59356186?at_medium=RSS&at_campaign=KARANGA">Netherlands: Police fire warning shots at Covid protesters</a> BBC: Police in Rotterdam fired warning shots and used water cannon as protests turned violent. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 03:10 AM CT, Nov. 20 </p> 
- <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">Dutch Covid-19 Lockdown Protest Turns Violent</a> WSJ: Rioters in central Rotterdam burned cars, launched fireworks and pelted police, who responded with water cannons and warning shots. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/yemens-battleground-shifts-in-favor-of-iran-backed-houthis-11637413200">Yemen's Battleground Shifts in Favor of Iran-Backed Houthis</a> WSJ: Saudi Arabia is scrambling to defend an oil-rich city against the group, as the Biden administration debates whether to back Riyadh in Yemen’s civil war. 
  <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
- <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
 
 
 </details>
@@ -382,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
- <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
