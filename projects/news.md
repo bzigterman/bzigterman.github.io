@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden 'angry' after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
  <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
+ <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355955?at_medium=RSS&at_campaign=KARANGA">Theranos trial: Elizabeth Holmes makes surprise testimony</a> BBC: Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence. 
  <p class="updated_time"> 07:36 PM CT, Nov. 19 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
- <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-59341755?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the missing Chinese tennis star Peng Shuai</a> BBC: Questions remain about the whereabouts of Peng Shuai, after she accused a top Chinese government official of sexual assault. 
  <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
