@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 08:24 AM CT, Nov. 20 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
- <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 05:50 AM CT, Nov. 20 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
