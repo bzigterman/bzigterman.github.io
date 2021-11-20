@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59362845?at_medium=RSS&at_campaign=KARANGA">Bear shot dead by 70-year-old hunter in France</a> BBC: A female bear roaming with her cubs is killed after attacking and injuring a man, officials say. 
  <p class="updated_time"> 03:53 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
  <p class="updated_time"> 02:54 PM CT, Nov. 20 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59352176?at_medium=RSS&at_campaign=KARANGA">Colombia president condemns Nazi-themed police event</a> BBC: President Iván Duque condemns the actions of cadets pictured in SS uniforms and Swastika armbands. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
- <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
  <p class="updated_time"> 09:44 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says money given to him by fans following a social media appeal will be sent to orphanages. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
