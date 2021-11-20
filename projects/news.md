@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 05:28 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million deaths by March without action. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:57 AM CT, Nov. 20 </p> 
@@ -32,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:11 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden angry after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
  <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego freeway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego motorway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
  <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 10:49 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
