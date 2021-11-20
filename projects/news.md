@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
+ <p class="updated_time"> 09:23 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
  <p class="updated_time"> 09:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Austria Braces for Violence at Mass Protests Over Covid Measures</a> NYT: The police in Vienna said that 10 of 11 demonstrations registered for Saturday involved protests over rules including a newly announced lockdown and vaccine requirement. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
- <p class="updated_time"> 08:24 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
- <p class="updated_time"> 05:50 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 05:12 AM CT, Nov. 20 </p> 
@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59356186?at_medium=RSS&at_campaign=KARANGA">Netherlands: Police fire warning shots at Covid protesters</a> BBC: Police in Rotterdam fired warning shots and used water cannon as protests turned violent. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
