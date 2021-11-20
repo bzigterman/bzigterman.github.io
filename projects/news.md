@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
@@ -23,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
+ <p class="updated_time"> 05:12 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
  <p class="updated_time"> 04:38 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego motorway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
- <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 08:25 PM CT, Nov. 19 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
- <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
@@ -161,6 +161,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
  <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59341755?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the missing Chinese tennis star Peng Shuai</a> BBC: Questions remain about the whereabouts of Peng Shuai, after she accused a top Chinese government official of sexual assault. 
  <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987410/the-tennis-world-is-calling-on-china-to-prove-a-chinese-tennis-star-is-safe">The tennis world is calling on China to prove a Chinese tennis star is safe</a> NPR: One of China's biggest tennis stars accused a former Vice Premier of sexual assault — then disappeared from public view. The Women's Tennis Association is calling on China to prove she's OK. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987396/on-a-tour-of-africa-blinken-used-his-stop-in-nigeria-to-put-more-pressure-on-sud">On a tour of Africa, Blinken used his stop in Nigeria to put more pressure on Sudan</a> NPR: U.S. Secretary of State Antony Blinken is in Nigeria, the second stop on his three-nation Africa tour. He took the opportunity at a news conference to send a warning to Sudan's military rulers. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
@@ -216,6 +216,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:37 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/defense-chief-vows-to-counter-iran-in-visit-to-bahrain-523115">Defense chief vows to counter Iran in visit to Bahrain</a> Politico: “The United States remains committed to preventing Iran from gaining a nuclear weapon. And we remain committed to a diplomatic outcome of the nuclear issue,” Lloyd Austin said. 
+ <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
+ <p class="updated_time"> 07:30 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057618813/week-in-politics-the-build-back-better-bill-is-moving-forward">Week in politics: The 'Build Back Better' bill is moving forward</a> NPR: We track the progress of the $2 trillion Build Back Better bill, which passed the House on Friday morning and is heading to the Senate for further negotation. 
  <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 04:04 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
- <p class="updated_time"> 03:45 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/coronavirus-boosters-fda.html">F.D.A. Authorizes Coronavirus Booster Shots for All Adults</a> NYT: If the C.D.C. agrees, adults who received a second shot of the Pfizer or Moderna vaccine at least six months ago could be eligible by this weekend. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 03:37 PM CT, Nov. 19 </p> 
@@ -362,16 +364,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057133042/in-a-new-book-chris-christie-says-the-gop-needs-to-move-past-trump">In a new book, Chris Christie says the GOP needs to move past Trump</a> NPR: Former New Jersey Gov. Chris Christie has emerged as a critic of ex-President Trump. We look at the pair's long and uneasy history, and what Christie's new stance may mean for the Republican Party. 
  <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057132944/morning-news-brief">News brief: Build Back Better status, COVID boosters, Blinken speech</a> NPR: Another delay for President Biden's sweeping domestic spending bill. COVID-19 booster shots for all adults could be authorized Friday. Secretary of State Blinken delivers a speech on Africa policy. 
- <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1056909683/inflation-is-at-30-year-highs-heres-how-its-hurt-past-presidents">Inflation is at 30-year highs. Here's how it's hurt past presidents</a> NPR: One of the lessons from inflationary eras past is that voters are less interested in causal responsibility than in forcing a change. In other words, if you are in office now, you are holding the bag. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 07:01 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/justice-department-tech-protections-biden-522990">Justice Department to defend tech protections Biden denounced</a> Politico: In a lawsuit filed by former President Donald Trump, the feds will argue that Section 230 of the Communications Decency Act is constitutional. 
- <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:49 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/mitch-mcconnell-debt-ceiling-chuck-schumer/index.html">In shift, McConnell begins talks with Schumer to stave off debt crisis </a> CNN: The two top leaders in the Senate have opened discussions to find a way out of a looming debt crisis, a sharp departure from the standoff a month ago that took the United States to the brink of a first-ever default. 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
