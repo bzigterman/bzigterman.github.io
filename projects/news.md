@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
  <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59362845?at_medium=RSS&at_campaign=KARANGA">Bear shot dead by 70-year-old hunter in France</a> BBC: A female bear roaming with her cubs is killed after attacking and injuring a man, officials say. 
- <p class="updated_time"> 03:53 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
  <p class="updated_time"> 02:54 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59352179?at_medium=RSS&at_campaign=KARANGA">Somali journalist Abdiaziz Mohamud Guled killed in suicide attack</a> BBC: Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:57 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
  <p class="updated_time"> 12:45 PM CT, Nov. 20 </p> 
@@ -204,10 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
+ <p class="updated_time"> 05:26 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 05:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
- <p class="updated_time"> 04:56 PM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/hypersonic-technology-us-behind-china-russia-523130">U.S. ‘not as advanced’ as China and Russia on hypersonic tech, Space Force general warns</a> Politico: While the Pentagon has pushed the development of new hypersonic missiles, the Army isn’t slated to field its first missile until 2024. 
  <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
