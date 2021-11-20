@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 08:24 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
- <p class="updated_time"> 08:06 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:09 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59356186?at_medium=RSS&at_campaign=KARANGA">Netherlands: Police fire warning shots at Covid protesters</a> BBC: Police in Rotterdam fired warning shots and used water cannon as protests turned violent. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
@@ -228,12 +230,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
- <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -252,12 +252,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
  <p class="updated_time"> 07:48 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
- <p class="updated_time"> 07:44 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/officers-excessive-force-stomp.html">3 Officers Used Excessive Force in Arrest of Black Teen, U.S. Says</a> NYT: The officers were charged with violating the teenager’s civil rights when they stomped on his head in New Jersey in 2018. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 06:42 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html">House Passes Biden’s Build Back Better Bill</a> NYT: The vote was months in the making for the roughly $2 trillion measure, one of the most consequential bills in decades. Now it faces a difficult path in the Senate. 
  <p class="updated_time"> 06:39 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/trump-max-miller-ohio-district-house-run-523106">Former Trump aide Max Miller shifts to new Ohio district for House run</a> Politico: The district where Miller had been running was carved up in redistricting. 
  <p class="updated_time"> 06:22 PM CT, Nov. 19 </p> 
