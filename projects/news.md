@@ -94,7 +94,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:49 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59343650?at_medium=RSS&at_campaign=KARANGA">Austria to go into full lockdown as Covid surges</a> BBC: As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus president tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, President Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
+ <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland. 
  <p class="updated_time"> 10:03 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59351261?at_medium=RSS&at_campaign=KARANGA">US House votes to pass $1.9tn social spending plan</a> BBC: The Build Back Better Act now heads to the Senate, where it faces significant hurdles. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
@@ -214,12 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 04:56 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
- <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-cost-of-gas.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
