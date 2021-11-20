@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 11:09 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden 'angry' after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
  <p class="updated_time"> 10:57 PM CT, Nov. 19 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59338205?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: How China censored a tennis star</a> BBC: When Peng Shuai upset her country's authorities, their response online was swift. 
  <p class="updated_time"> 06:34 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59348985?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Rising tensions with Russia</a> BBC: Ros Atkins looks at how the Belarus migrant crisis, and troops near Ukraine, are creating global concern. 
- <p class="updated_time"> 06:09 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59355950?at_medium=RSS&at_campaign=KARANGA">Rotterdam police clash with rioters as Covid protest turns violent</a> BBC: Several people are injured in Rotterdam as protests against new coronavirus curbs turn violent. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 05:54 PM CT, Nov. 19 </p> 
