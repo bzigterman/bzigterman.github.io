@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 11:09 AM CT, Nov. 20 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
- <p class="updated_time"> 07:57 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
