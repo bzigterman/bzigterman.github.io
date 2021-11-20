@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">U.K. Politics Leads to a Tabloid ‘Game of Thrones’ in London</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
+ <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:47 AM CT, Nov. 20 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
  <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 06:07 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 05:50 AM CT, Nov. 20 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1056987431/cop26-is-over-but-youth-climate-activists-are-skeptical-of-when-they-will-see-ch">COP26 is over. But youth climate activists are skeptical of when they will see change</a> NPR: World leaders at COP26 signed a new climate change agreement. But young people are skeptical about when those promises will turn into action, and if the actions go far enough. 
  <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1056987417/u-s-special-envoy-for-belarus-discusses-the-migrant-crisis-on-the-border-with-po">U.S. Special Envoy for Belarus discusses the migrant crisis on the border with Poland</a> NPR: NPR's Mary Louise Kelly talks with U.S. Special Envoy for Belarus Julie Fisher about the migrant crisis along the Belarus-Poland border. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987410/the-tennis-world-is-calling-on-china-to-prove-a-chinese-tennis-star-is-safe">The tennis world is calling on China to prove a Chinese tennis star is safe</a> NPR: One of China's biggest tennis stars accused a former Vice Premier of sexual assault — then disappeared from public view. The Women's Tennis Association is calling on China to prove she's OK. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 12:33 PM CT, Nov. 18 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
  <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
- <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
 
 
 </details>
@@ -214,6 +214,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
+ <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/health/coronavirus-masks-mandates.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
+ <p class="updated_time"> 07:57 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
+ <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
+ <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/2021/11/20/1057619696/durbin">'Build Back Better' likely to be pared down in Senate</a> NPR: Scott Simon speaks to Sen. Dick Durbin, a democrat from Illinois, about how Democrats will secure all 50 member votes in order to pass the $2 trillion social spending bill. 
  <p class="updated_time"> 07:37 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/defense-chief-vows-to-counter-iran-in-visit-to-bahrain-523115">Defense chief vows to counter Iran in visit to Bahrain</a> Politico: “The United States remains committed to preventing Iran from gaining a nuclear weapon. And we remain committed to a diplomatic outcome of the nuclear issue,” Lloyd Austin said. 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
@@ -233,9 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/business/high-cost-of-gas.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
- <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/health/coronavirus-masks-mandates.html">When Can the Covid Masks Finally Come Off?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
+ <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 02:57 AM CT, Nov. 20 </p> 
@@ -274,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-physical-healthy.html">Biden Declared ‘Healthy’ and ‘Vigorous’ After His First Presidential Physical</a> NYT: Vice President Kamala Harris became the first woman to assume acting presidential duties, while President Biden underwent a colonoscopy. 
  <p class="updated_time"> 05:18 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
- <p class="updated_time"> 05:15 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 05:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/ohio-senate-race/index.html">Ohio Republicans tie themselves to Trump's rhetoric as they vie for Senate seat</a> CNN: Ohio's crowded Republican Senate primary has become a battle over who most can align themselves with former President Donald Trump. 
  <p class="updated_time"> 04:50 PM CT, Nov. 19 </p> 
@@ -360,10 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/cartoons/2021/11/18/the-nations-cartoonists-on-the-week-in-politics-000267">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057133042/in-a-new-book-chris-christie-says-the-gop-needs-to-move-past-trump">In a new book, Chris Christie says the GOP needs to move past Trump</a> NPR: Former New Jersey Gov. Chris Christie has emerged as a critic of ex-President Trump. We look at the pair's long and uneasy history, and what Christie's new stance may mean for the Republican Party. 
- <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057132944/morning-news-brief">News brief: Build Back Better status, COVID boosters, Blinken speech</a> NPR: Another delay for President Biden's sweeping domestic spending bill. COVID-19 booster shots for all adults could be authorized Friday. Secretary of State Blinken delivers a speech on Africa policy. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
@@ -390,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
