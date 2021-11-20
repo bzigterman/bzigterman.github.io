@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/covid-austria-vienna-protests.html">Austria Braces for Violence at Mass Protests Over Covid Measures</a> NYT: The police in Vienna said that 10 of 11 demonstrations registered for Saturday involved protests over rules including a newly announced lockdown and vaccine requirement. 
+ <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 06:10 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
+ <p class="updated_time"> 06:07 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 05:50 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million deaths by March without action. 
- <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 04:57 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error. 
- <p class="updated_time"> 04:56 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 04:38 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-congo-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 03:54 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
- <p class="updated_time"> 02:11 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59356081?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Biden angry after teen cleared of shootings</a> BBC: The president expresses dismay after a teen who shot dead two men during racial unrest is cleared. 
  <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego motorway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
  <p class="updated_time"> 11:34 PM CT, Nov. 19 </p> 
@@ -63,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check. 
  <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
+ <p class="updated_time"> 05:12 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59348734?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse case: Why it so divides the US</a> BBC: Few US trials in recent years have generated such debate and acrimony. Why this one? 
  <p class="updated_time"> 04:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
  <p class="updated_time"> 03:31 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59327679?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: US 'deeply concerned' over Chinese tennis star</a> BBC: Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault. 
- <p class="updated_time"> 03:24 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352803?at_medium=RSS&at_campaign=KARANGA">In pictures: British Columbia devastated by catastrophic floods</a> BBC: The flooding in Canada's west may be the most expensive natural disaster in the country's history. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 08:22 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/us/politics/us-canada-mexico-summit.html">At Summit, U.S., Canada and Mexico Avoid Thorny Questions</a> NYT: The meeting let North American leaders present a united front without going into detail on deeper issues, including trade disputes or migration. 
- <p class="updated_time"> 07:09 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59329974?at_medium=RSS&at_campaign=KARANGA">Why France's Zemmour is dredging up World War Two</a> BBC: The TV pundit is a likely presidential candidate but his views on wartime history are controversial. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
  <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
@@ -205,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
  <p class="updated_time"> 02:10 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/article/belarus-poland-border-migrants.html">How the Belarus Standoff Is Unlike Recent Migrant Crises</a> NYT: The images at the Belarus-Poland border look familiar, but this emergency has little in common with previous waves of people from Syria, Myanmar and Afghanistan. 
- <p class="updated_time"> 12:44 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/greece-migrants-aid-workers-espionage.html">Greece to Put Aid Workers Who Helped Migrants on Trial on Espionage Charges</a> NYT: The country’s conservative government is toughening its stance on migration and on groups working with migrants, aligning itself with a hardening climate across Europe. 
 
 
 </details>
@@ -214,12 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Airlines got a $50B pandemic bailout. Passengers got chaos in the skies anyway.</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
+ <p class="updated_time"> 06:20 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 06:10 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
- <p class="updated_time"> 05:33 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 04:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-takeaways.html">Race to the Future: What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
  <p class="updated_time"> 11:29 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">For 85 minutes, Kamala Harris became the first woman with presidential power</a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
- <p class="updated_time"> 11:00 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/tech-capitol-hill-townhouse-oracle-523014">Big tech’s critics flocking again to Oracle’s home on the Hill</a> Politico: Lawmakers and lobbyists looking to check the power of Silicon Valley's biggest giants have flocked to the $2.8 million house that Oracle owns just blocks from the halls of Congress. 
  <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
@@ -350,12 +350,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/kiss-your-swing-districts-goodbye-522993">Kiss your swing districts goodbye</a> Politico: On this episode of Playbook Deep Dive, we talk to people who draw gerrymandered maps and the people who fight against them. 
- <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/cartoons/2021/11/18/the-nations-cartoonists-on-the-week-in-politics-000267">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/pennsylvania-republicans-dr-oz-senate-bid-523023">Pennsylvania Republicans baffled by celebrity doctor’s Senate bid</a> Politico: GOP insiders are rattled by the unsettled primary field in one of the nation’s most important Senate races. 
  <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057133042/in-a-new-book-chris-christie-says-the-gop-needs-to-move-past-trump">In a new book, Chris Christie says the GOP needs to move past Trump</a> NPR: Former New Jersey Gov. Chris Christie has emerged as a critic of ex-President Trump. We look at the pair's long and uneasy history, and what Christie's new stance may mean for the Republican Party. 
  <p class="updated_time"> 04:03 AM CT, Nov. 19 </p> 
@@ -394,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 12:46 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/senate-leaders-ndaa-debate-522952">Senate leaders want to fast-track debate on Ukraine, Afghanistan, war powers</a> Politico: Chuck Schumer reupped his calls for Republicans to agree to hasten the process so that the National Defense Authorization Act can be finished ahead of Thanksgiving. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
@@ -422,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
  <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
+ <p class="updated_time"> 12:36 PM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/qanon-shaman-jacob-chansley-sentence-522807">‘QAnon shaman’ Jacob Chansley is sentenced to 41 months in prison</a> Politico: Prosecutors had urged the judge to sentence him to more time for his role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 11:47 AM CT, Nov. 17 </p> 
@@ -440,6 +440,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
+ <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
@@ -454,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
- <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
