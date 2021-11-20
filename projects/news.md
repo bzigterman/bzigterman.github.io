@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:57 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-protest-covid-vaccine.html">Thousands in Austria Protest Virus Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
  <p class="updated_time"> 01:19 PM CT, Nov. 20 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59362388?at_medium=RSS&at_campaign=KARANGA">Paris St-Germain 3-1 Nantes: Lionel Messi opens Ligue 1 account as 10-man leaders win</a> BBC: Lionel Messi scores his first goal in Ligue 1 as 10-man Paris St-Germain move 13 points clear with a late rally to beat Nantes. 
  <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
- <p class="updated_time"> 12:04 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-covid-lockdown-vaccine-mandate.html">Skirmishes Break Out at March Against Austria's Covid Measures</a> NYT: The protesters chanted “freedom” and “resistance,” expressing anger at a newly announced vaccine requirement and a nationwide lockdown starting on Monday. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 11:09 AM CT, Nov. 20 </p> 
@@ -47,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
- <p class="updated_time"> 07:47 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
@@ -204,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/eddie-bernice-johnson-democrat-no-reelection-523126">Democrat Eddie Bernice Johnson ending decades in Congress</a> Politico: Johnson, 85, is a political fixture in her hometown of Dallas, where early in her career she became the first Black woman to serve the city in the state Senate since Reconstruction. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:42 AM CT, Nov. 20 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so-called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill but ultimately failed to prevent its passage. 
  <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">White House doctor gives Biden a good bill of health</a> NPR: The White House physician raised concerns about the increasing frequency and severity of President Biden's "throat clearing" during speeches and worsening gait, but overall found him "fit for duty." 
- <p class="updated_time"> 08:54 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/fda-clears-pfizer-moderna-covid-booster-shots-for-all-adults-523025">FDA clears Pfizer, Moderna Covid booster shots for all adults</a> Politico: Any adult may now receive a Moderna or Pfizer booster regardless of the which FDA-authorized vaccination course they received previously. 
  <p class="updated_time"> 08:48 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056833510/the-house-passes-a-2-trillion-spending-bill-but-braces-for-changes-in-the-senate">The House passes a $2 trillion spending bill, but braces for changes in the Senate</a> NPR: The measure was delayed by an all-night speech from GOP leader Kevin McCarthy. Centrist Democrats in the Senate have raised objections to some provisions that will likely alter the House-passed bill. 
  <p class="updated_time"> 08:47 AM CT, Nov. 19 </p> 
