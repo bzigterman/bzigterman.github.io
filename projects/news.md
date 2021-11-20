@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:47 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 07:46 AM CT, Nov. 20 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
  <p class="updated_time"> 05:12 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
- <p class="updated_time"> 04:38 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/asia/covid-singapore-restrictions-easing.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 04:09 AM CT, Nov. 20 </p> 
