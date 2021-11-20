@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
  <p class="updated_time"> 05:33 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
  <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
- <p class="updated_time"> 06:16 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59257766?at_medium=RSS&at_campaign=KARANGA">Australian school food van: 'I didn't believe in myself until I got this job'</a> BBC: An Australian school is using a food van to help struggling students explore new avenues. 
  <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
