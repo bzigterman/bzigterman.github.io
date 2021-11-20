@@ -206,6 +206,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/missing-chinese-tennis-star-photos-523127">Photos of missing Chinese tennis star posted online</a> Politico: The photos appeared Friday on Twitter, which cannot be seen by most internet users in China. 
  <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/eddie-bernice-johnson-democrat-no-reelection-523126">Democrat Eddie Bernice Johnson ending decades in Congress</a> Politico: Johnson, 85, is a political fixture in her hometown of Dallas, where early in her career she became the first Black woman to serve the city in the state Senate since Reconstruction. 
+ <p class="updated_time"> 02:01 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/eddie-bernice-johnson-congress-retirement/index.html">Trailblazing Rep. Eddie Bernice Johnson to retire from Congress after serving nearly 30 years</a> CNN: Democratic Rep. Eddie Bernice Johnson of Texas announced her retirement Saturday afternoon after serving nearly 30 years in Congress, according to a statement from House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 01:00 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html">Young progressives warn that Democrats could have a youth voter problem in 2022</a> CNN: With less than one year until the 2022 midterm elections, young voters -- who turned out in high numbers for President Joe Biden in 2020 -- warn that if the Biden administration and congressional Democrats don't act now on issues important to young progressives, they could risk alienating the demographic. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:42 AM CT, Nov. 20 </p> 
@@ -216,10 +220,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/pentagon-climate-change-warning/index.html">Senior Pentagon official warns the US military is 'not ready' for climate change</a> CNN: A senior Pentagon official warned the US military is "not ready" to handle climate change, a national security issue that touches nearly every aspect of Defense Department planning. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/mezuzah-vice-president-home/index.html">Second family becomes first to affix a mezuzah on executive home</a> CNN: Vice President Kamala Harris and her husband Doug Emhoff achieved another first in their historic roles when they affixed a white mezuzah to the right-hand side of the doorway of the vice presidential residence. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/gop-trump-governors-midterms.html">G.O.P. Is Energized, but ‘Trump Cancel Culture’ Poses a Threat</a> NYT: The former president, tightening his grip on the party as a haphazard kingmaker, threatens Republican incumbents and endorses questionable candidates. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/social-security-minimum-wage-food-stamps-congress/index.html">These boosts will put more money in people's pockets regardless of what Congress does</a> CNN: While Senate Democrats negotiate what to include in the party's sweeping $1.9 trillion budget reconciliation package, the price of almost everything is on the rise -- or at least feels like it is. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
+ <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/democrat-republican-hate-tribalism/index.html">Statistically, Democrats and Republicans hate each other more than ever</a> CNN: It's nothing new to say that members of the Democratic Party and the Republican Party don't see eye to eye. After all, there's a reason they belong to different political parties. 
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
@@ -239,6 +253,8 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
@@ -248,6 +264,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
+ <p class="updated_time"> 11:36 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/joe-madison-hunger-strike-voting-rights-cnntv/index.html">SiriusXM host on hunger strike urges Congress to put voting rights on the front burner</a> CNN: Sirius XM radio host Joe Madison, who is engaged in a hunger strike over what he has called a "politically and morally wrong" attack on voting rights, told CNN on Friday that he wants lawmakers to put voting rights "on the front burner" when they return from their Thanksgiving recess. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
  <p class="updated_time"> 11:04 PM CT, Nov. 19 </p> 
@@ -256,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 10:04 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
- <p class="updated_time"> 07:48 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/joe-biden-kyle-rittenhouse-verdict/index.html">Biden reacts to Rittenhouse verdict: 'The jury system works, and we have to abide by it'</a> CNN: President Joe Biden said Friday he stands by the verdict in the Kyle Rittenhouse trial, saying the jury system of trial in the United States works and must be respected. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 06:39 PM CT, Nov. 19 </p> 
@@ -290,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
- <p class="updated_time"> 03:37 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/turkey-pardon/index.html">Biden pardons Peanut Butter and Jelly in his first presidential turkey pardon</a> CNN: President Joe Biden is participating in his first presidential turkey pardon on Friday, a time-honored White House tradition ahead of Thanksgiving. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
@@ -304,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
- <p class="updated_time"> 02:33 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
@@ -316,14 +328,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
- <p class="updated_time"> 11:29 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/kamala-harris-presidential-power/index.html">For 85 minutes, Kamala Harris became the first woman with presidential power</a> CNN: President Joe Biden on Friday will temporarily transfer power to Vice President Kamala Harris while he is under anesthesia for a routine colonoscopy, White House press secretary Jen Psaki told reporters. 
  <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden 'fit for duty' after Harris is temporarily granted powers during medical procedure</a> Politico: The president underwent his annual physical at Walter Reed on Friday. 
- <p class="updated_time"> 10:01 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/house-vote-build-back-better/index.html">House finally passes Biden's spending bill</a> CNN: House Democrats are planning to pass President Joe Biden's sweeping $1.9 trillion social safety net expansion legislation on Friday morning after House GOP leader Kevin McCarthy stalled an effort to vote Thursday evening by delivering a record-breaking marathon floor speech overnight. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
@@ -334,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">White House doctor gives Biden a good bill of health</a> NPR: The White House physician raised concerns about the increasing frequency and severity of President Biden's "throat clearing" during speeches and worsening gait, but overall found him "fit for duty." 
  <p class="updated_time"> 08:48 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1056833510/the-house-passes-a-2-trillion-spending-bill-but-braces-for-changes-in-the-senate">The House passes a $2 trillion spending bill, but braces for changes in the Senate</a> NPR: The measure was delayed by an all-night speech from GOP leader Kevin McCarthy. Centrist Democrats in the Senate have raised objections to some provisions that will likely alter the House-passed bill. 
- <p class="updated_time"> 08:47 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/09/12/politics/house-reconciliation-package-explainer/index.html">What the Democrats' sweeping social spending plan might include</a> CNN: After months of negotiations, the House passed the Democrats' sweeping $1.9 trillion budget reconciliation package on Friday. 
  <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
@@ -348,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
  <p class="updated_time"> 05:46 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057133049/elmo-and-friends-should-avoid-2022s-conservative-political-action-conference">Elmo and friends should avoid 2022's Conservative Political Action Conference</a> NPR: Republicans banned Elmo, Big Bird as well as Burt and Ernie from attending because Big Bird's Twitter account shared that he got a COVID-19 vaccine. Texas Sen. Ted Cruz called it "propaganda." 
- <p class="updated_time"> 05:42 AM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-trump-house-speaker/index.html">Meadows slams McCarthy and suggests Trump should be elected speaker if GOP wins House</a> CNN: Former White House chief of staff Mark Meadows blasted House Minority Leader Kevin McCarthy's leadership style on Thursday, suggesting that if Republicans win control of the House next year, the party should install former President Donald Trump as its next speaker. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
- <p class="updated_time"> 06:49 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mitch-mcconnell-debt-ceiling-chuck-schumer/index.html">In shift, McConnell begins talks with Schumer to stave off debt crisis </a> CNN: The two top leaders in the Senate have opened discussions to find a way out of a looming debt crisis, a sharp departure from the standoff a month ago that took the United States to the brink of a first-ever default. 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
- <p class="updated_time"> 12:56 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/kevin-mccarthy-retaliation-gosar-greene/index.html">McCarthy says he'd put Greene and Gosar back on committees if Republicans win House</a> CNN: House Minority Leader Kevin McCarthy said Thursday that he would reinstate Reps. Paul Gosar of Arizona and Marjorie Taylor Greene of Georgia on committees -- potentially even "better" ones -- if Republicans win back the House after next year's midterms. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
