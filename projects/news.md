@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
+ <p class="updated_time"> 09:44 AM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says he will give some £450,000 ($608,000) to orphanages in Nigeria after a social media appeal. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 09:23 AM CT, Nov. 20 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 05:27 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/swab-test-covid.html">Must This Covid Swab Go So Far Up Your Nose?</a> NYT: Some testers gently swab the front of your nostril and send you on your way. Others dig deep, bringing the pain. What’s the gold standard? 
- <p class="updated_time"> 05:12 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 04:09 AM CT, Nov. 20 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59348985?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Rising tensions with Russia</a> BBC: Ros Atkins looks at how the Belarus migrant crisis, and troops near Ukraine, are creating global concern. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
- <p class="updated_time"> 05:54 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59352170?at_medium=RSS&at_campaign=KARANGA">Kamala Harris: First woman to get US presidential powers (briefly)</a> BBC: Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check. 
  <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 05:12 PM CT, Nov. 19 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/europe/poland-belarus-migrants-lukashenko.html">Risk for Leader of Belarus: Migrants He Lured May Want to Stay</a> NYT: President Aleksandr G. Lukashenko of Belarus, whom the E.U. accuses of engineering a migrant crisis on the border with Poland, could face a serious headache if asylum seekers try to stay in his country. 
- <p class="updated_time"> 02:46 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/europe/boris-johnson-britain.html">Boris Johnson Battered in Parliament as Scandal Puts Him on Defense</a> NYT: Reversals and broken promises have eroded his party’s lead in the polls, and the prime minister faces a low-grade mutiny from Conservatives angry over a proposal to limit their options for extra income. 
 
 
 </details>
