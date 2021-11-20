@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:07 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: Police officers were out in force to prevent violence and protect shops, with some store owners lamenting that the protests disrupt business. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59356156?at_medium=RSS&at_campaign=KARANGA">Unvaccinated stars cannot play Australian Open</a> BBC: Unvaccinated players will not be allowed to compete at the 2022 Australian Open, says tournament director Craig Tiley. 
  <p class="updated_time"> 09:44 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says he will give some £450,000 ($608,000) to orphanages in Nigeria after a social media appeal. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says money given to him by fans following a social media appeal will be sent to orphanages. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-london-tabloids.html">A Tabloid ‘Game of Thrones’ in London Could Tilt U.K. Politics</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
+ <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 09:23 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
  <p class="updated_time"> 09:18 AM CT, Nov. 20 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/17/world/europe/munich-christmas-market-canceled.html">Munich’s Famed Christmas Market is Canceled Again</a> NYT: Munich’s is the largest German Christmas market to be canceled as the events struggle to survive the country’s fourth virus surge. 
  <p class="updated_time"> 04:09 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/17/world/africa/africa-blinken-ethiopia-sudan-kenya.html">Intractable African Crises Flare as Biden’s Top Diplomat Visits Kenya</a> NYT: Secretary of State Antony J. Blinken hoped to ease the turmoil engulfing Sudan and Ethiopia in his first trip to sub-Saharan Africa. Both worsened on his first full day. 
- <p class="updated_time"> 10:39 PM CT, Nov. 17 </p> 
- <a href="https://www.nytimes.com/2021/11/17/world/egypt-leaders-epidemics-powers.html">Egypt Prepares to Give Leaders Special Powers in Epidemics</a> NYT: Critics fear that the legislation will be just another avenue the government can use to crack down on dissent. 
  <p class="updated_time"> 06:41 PM CT, Nov. 17 </p> 
  <a href="https://www.nytimes.com/2021/11/17/us/politics/biden-covid-vaccine-manufacturing.html">Biden Administration Plans to Expand Covid Vaccine Production</a> NYT: The Biden administration will spend billions of dollars on a new plan to combat the pandemic, investing in antiviral pills, rapid tests and manufacturing. 
  <p class="updated_time"> 04:09 PM CT, Nov. 17 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
+ <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/gop-trump-governors-midterms.html">G.O.P. Is Energized, but ‘Trump Cancel Culture’ Poses a Threat</a> NYT: The former president, tightening his grip on the party as a haphazard kingmaker, threatens Republican incumbents and endorses questionable candidates. 
  <p class="updated_time"> 08:47 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">Global Rivalries Are Miring the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in a cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
@@ -219,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057619696/durbin">'Build Back Better' likely to be pared down in Senate</a> NPR: Scott Simon speaks to Sen. Dick Durbin, a democrat from Illinois, about how Democrats will secure all 50 member votes in order to pass the $2 trillion social spending bill. 
+ <a href="https://www.npr.org/2021/11/20/1057619696/durbin">'Build Back Better' likely to be pared down in Senate</a> NPR: Scott Simon speaks to Sen. Dick Durbin, a Democrat from Illinois, about how Democrats will secure all 50 member votes in order to pass the $2 trillion social spending bill. 
  <p class="updated_time"> 07:37 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/defense-chief-vows-to-counter-iran-in-visit-to-bahrain-523115">Defense chief vows to counter Iran in visit to Bahrain</a> Politico: “The United States remains committed to preventing Iran from gaining a nuclear weapon. And we remain committed to a diplomatic outcome of the nuclear issue,” Lloyd Austin said. 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/build-back-better-house-vote/index.html">Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote</a> CNN: President Joe Biden's long-awaited plan to dramatically expand the social safety net could pass the House as soon as Thursday, House Speaker Nancy Pelosi said. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
- <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
@@ -462,8 +462,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
- <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
 
 
 </details>
