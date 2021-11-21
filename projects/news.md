@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:23 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">With an Iran Deal Further Away Than Ever, Risks of Confrontation Grow</a> NYT: As Iran’s new administration prepares for its first international nuclear negotiations, there are signs that there will be no going back to a 2015 deal. 
+ <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
+ <p class="updated_time"> 05:31 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 04:47 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 04:27 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role. 
  <p class="updated_time"> 04:19 PM CT, Nov. 21 </p> 
@@ -200,8 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
- <p class="updated_time"> 05:23 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">With an Iran Deal Further Away Than Ever, Risks of Confrontation Grow</a> NYT: As Iran’s new administration prepares for its first international nuclear negotiations, there are signs that there will be no going back to a 2015 deal. 
+ <p class="updated_time"> 05:31 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haiti-missionaries-released-ohio-523150">U.S. missionaries say 2 of 17 abductees freed in Haiti</a> Politico: The missionaries were kidnapped Oct. 16. 
  <p class="updated_time"> 04:09 PM CT, Nov. 21 </p> 
