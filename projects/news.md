@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:22 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/palestinian-shooting-jerusalem-old-city.html">Israeli Is Killed by Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting was the first attack by a Palestinian since May to result in the death of a Jewish civilian. Attempted assaults in the Old City are relatively common, but are usually stopped. 
  <p class="updated_time"> 08:17 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house fails to stop protests demanding the army keep out of politics. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
- <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
 
@@ -203,9 +203,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haaland-alcatraz-indigenous-native-americans-523137">At Alcatraz Island, Haaland highlights Indigenous progress</a> Politico: “We have a long way to go to fully heal from the traumas created by historical oppression,” she said. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
- <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">Democrats aren't alone in the cannabis game anymore</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759712/after-rittenhouse-verdict-activists-fear-for-their-safety-at-future-demonstratio">After Rittenhouse verdict, activists fear for their safety at future demonstrations</a> NPR: The Rittenhouse verdict may change the tactics and dynamics of social justice protesters going forward. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
