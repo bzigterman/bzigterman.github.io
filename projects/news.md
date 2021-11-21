@@ -205,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:29 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cruz-china-olympics-diplomatic-boycott-523143">Cruz urges diplomatic boycott of Winter Olympics in China</a> Politico: The Texas Republican criticized China for its handling of tennis player Peng Shuai’s sexual assault accusations against a former top official. 
  <p class="updated_time"> 01:17 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/article/build-back-better-explained.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
+ <a href="https://www.nytimes.com/article/build-back-better-explained.html">What's in Build Back Better, Biden's Social Policy and Climate Plan</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 01:09 PM CT, Nov. 21 </p> 
