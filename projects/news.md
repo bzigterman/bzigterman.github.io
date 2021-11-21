@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 01:00 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 10:53 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
- <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 10:03 AM CT, Nov. 21 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/peng-olympics-china-tennis-523144">Olympic officials: Chinese tennis star Peng says she is safe</a> Politico: Peng Shuai “thanked the IOC for its concern about her well-being,” the Olympic body said. 
  <p class="updated_time"> 01:29 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cruz-china-olympics-diplomatic-boycott-523143">Cruz urges diplomatic boycott of Winter Olympics in China</a> Politico: The Texas Republican criticized China for its handling of tennis player Peng Shuai’s sexual assault accusations against a former top official. 
+ <p class="updated_time"> 01:17 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
+ <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 01:09 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 12:42 PM CT, Nov. 21 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
- <p class="updated_time"> 02:57 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Boosted, Not Basted: Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
  <p class="updated_time"> 06:07 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057478725/far-right-groups-rittenhouse-acquittal-celebration-violence">For far-right groups, Rittenhouse's acquittal is a cause for celebration</a> NPR: One expert fears that the acquittal of Kyle Rittenhouse will embolden people to seek out altercations where it could be possible to make claims of self-defense. 
- <p class="updated_time"> 05:18 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 05:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/ohio-senate-race/index.html">Ohio Republicans tie themselves to Trump's rhetoric as they vie for Senate seat</a> CNN: Ohio's crowded Republican Senate primary has become a battle over who most can align themselves with former President Donald Trump. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
