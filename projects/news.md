@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Huge protests across Europe over new restrictions</a> BBC: Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy. 
+ <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59368483?at_medium=RSS&at_campaign=KARANGA">El Salvador Bitcoin city planned at base of Conchagua volcano</a> BBC: Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says. 
  <p class="updated_time"> 11:57 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, one of the rising stars of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 11:54 AM CT, Nov. 21 </p> 
@@ -49,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/africa/south-sudan-covid-flooding.html">In South Sudan, Vaccines Are Overshadowed by Pressing Needs</a> NYT: Much of South Sudan is under water from flooding induced by climate change and deforestation. Crops and livestock are lost, hunger and malaria are spreading. With so many worries, coronavirus vaccines are a tough sell. 
- <p class="updated_time"> 06:21 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
  <p class="updated_time"> 06:02 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59338205?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: How China censored a tennis star</a> BBC: When Peng Shuai upset her country's authorities, their response online was swift. 
- <p class="updated_time"> 06:34 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-59348985?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Rising tensions with Russia</a> BBC: Ros Atkins looks at how the Belarus migrant crisis, and troops near Ukraine, are creating global concern. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 08:45 AM CT, Nov. 19 </p> 
