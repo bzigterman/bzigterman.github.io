@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:23 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/cuba-playwright-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, one of the rising stars of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
+ <p class="updated_time"> 11:57 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, one of the rising stars of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
+ <p class="updated_time"> 11:54 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star tells Olympic officials she is safe</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
+ <p class="updated_time"> 11:52 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 10:53 AM CT, Nov. 21 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
  <p class="updated_time"> 06:02 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
- <p class="updated_time"> 06:01 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show Chinese tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 05:12 AM CT, Nov. 21 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/sudan-coup-leaders-agree-to-reinstate-prime-minister-mediators-say-11637500010">Sudan Coup Leaders to Reinstate Prime Minister</a> WSJ: The deal allows Abdalla Hamdok to form a technocratic government, nearly four weeks after military leaders ousted him in a coup that disrupted the country’s fragile transition to democracy. 
  <p class="updated_time"> 02:26 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-appears-in-beijing-amid-assault-claim-11637501193">Chinese Tennis Star Peng Shuai Appears in Beijing Amid Assault Claim</a> WSJ: Videos show her attending, but not speaking at, a dinner and a tennis tournament. The WTA head says concerns remain about her safety. 
- <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:42 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/buttigieg-denies-rivalry-harris-523142">'No time for parlor games': Buttigieg denies rivalry with Harris</a> Politico: The Transportation secretary denied any strains on his dealings with the vice president and dismissed developing narratives on a rivalry between the two. 
  <p class="updated_time"> 12:13 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/buttigieg-vaccine-mandates-holiday-travel-523141">Buttigieg: Federal vaccine mandates will not impact holiday travel</a> Politico: “I have seen no indication the vaccine requirements are going to impact travel in any way, certainly in terms of our ability as a federal administration to provide the services that are needed,” 
+ <a href="https://www.politico.com/news/2021/11/21/buttigieg-vaccine-mandates-holiday-travel-523141">Buttigieg: Federal vaccine mandates will not impact holiday travel</a> Politico: “I have seen no indication the vaccine requirements are going to impact travel in any way.” 
  <p class="updated_time"> 11:44 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/sununu-washington-screwed-up-523140">Washington 'is screwed up,' New Hampshire governor laments</a> Politico: “They focus on the wrong things. They don't talk about balancing budgets. They don't talk about fixing health care, immigration reform," Gov. Chris Sununu said. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
