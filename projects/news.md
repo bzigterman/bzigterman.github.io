@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:16 AM CT, Nov. 21 </p> 
+ <p class="updated_time"> 04:35 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Agrees to Reinstate Civilian Prime Minister, Mediator Says</a> NYT: The deal to reinstate Prime Minister Abdalla Hamdok, announced by a mediator, was reached hours before a planned new wave of protests against the Oct. 25 coup. 
+ <p class="updated_time"> 04:28 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 03:50 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military to reinstate ousted PM Hamdok</a> BBC: Abdalla Hamdok has been under house arrest since a military coup last month, sparking mass protests. 
- <p class="updated_time"> 03:20 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Agrees to Reinstate Civilian Prime Minister, Mediator Says</a> NYT: The deal to reinstate Prime Minister Abdalla Hamdok, announced by a mediator, was reached hours before a planned new wave of protests against the Oct. 25 coup. 
  <p class="updated_time"> 03:12 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
