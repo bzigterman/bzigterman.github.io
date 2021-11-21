@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/sex-ed-arab-women-mideast.html">Sex Ed, One Instagram Post at a Time</a> NYT: Activists are using social media to do what Arab countries have failed to do: teach women about their bodies. They are aiming for nothing less than a cultural awakening. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
- <p class="updated_time"> 07:51 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-new-delhi-pollution.html">India's Toxic Air Pollution Prompts Supreme Court to Act</a> NYT: Schools and factories close. India’s Supreme Court blasts the government’s do-nothing response. But Delhi residents continue to suffer from the bad air. 
  <p class="updated_time"> 07:40 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/germany-pandemic-rules.html">Germany Moves to Impose New Covid Regulations</a> NYT: The measures include a rule that only those who are vaccinated, have recovered from an infection or test negative can ride public transit or attend work in person. 
  <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
