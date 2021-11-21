@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: The move, which should allow Prime Minister Abdalla Hamdok to return to power, is part of a deal to end a bloody standoff that has led to dozens of protester deaths since he was ousted last month. 
+ <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
+ <p class="updated_time"> 07:14 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, presenting voters a stark choice. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
@@ -25,12 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 05:49 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
- <p class="updated_time"> 05:05 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Agrees to Reinstate Civilian Prime Minister, Mediator Says</a> NYT: The deal was announced hours before a planned new wave of protests against the Oct. 25 coup. But Prime Minister Abdalla Hamdok appeared to remain under house arrest. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
- <p class="updated_time"> 03:12 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 01:47 AM CT, Nov. 21 </p> 
@@ -203,11 +205,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">Democrats aren't alone in the cannabis game anymore</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759712/after-rittenhouse-verdict-activists-fear-for-their-safety-at-future-demonstratio">After Rittenhouse verdict, activists fear for their safety at future demonstrations</a> NPR: The Rittenhouse verdict may change the tactics and dynamics of social justice protesters going forward. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759705/far-right-extremists-herald-kyle-rittenhouses-acquittal">Far right extremists herald Kyle Rittenhouse's acquittal</a> NPR: Right-wing extremists have continued to use Kyle Rittenhouse in their messaging, with new themes emerging since his acquittal last week. 
- <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">Democrats aren't alone in the cannabis game anymore</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
