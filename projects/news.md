@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:39 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/arizona-steven-arthur-martin-nancy-pelosi-jury-conviction/index.html">Arizona man who left Nancy Pelosi threatening voicemails convicted by jury </a> CNN: An Arizona man has been found guilty by a jury of communicating an interstate threat to kill or harm House Speaker Nancy Pelosi, the Justice Department announced Friday. 
  <p class="updated_time"> 07:00 PM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/zoe-lofgren-jan-6-committee-interviews/index.html">Jan. 6 committee member: Many of 200+ witnesses are ex-Trump admin staff who voluntarily came forward  </a> CNN: A member of the House select committee investigating the January 6 attack told CNN Saturday many of the more than 200 witnesses they have interviewed are former officials from the Trump administration who came forward voluntarily. 
  <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
- <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
