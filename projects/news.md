@@ -7,34 +7,34 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
+ <p class="updated_time"> 10:19 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
+ <p class="updated_time"> 10:17 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 09:52 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/vancouver-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
+ <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
- <p class="updated_time"> 09:30 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 09:26 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: Prime Minister Abdalla Hamdok returned to power under a deal intended to end a bloody standoff that has led to dozens of protester deaths since his ouster last month. 
  <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
- <p class="updated_time"> 09:08 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
- <p class="updated_time"> 08:31 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting was the first attack by a Palestinian since May to result in the death of a Jewish civilian. Attempted assaults in the Old City are relatively common, but are usually stopped. 
  <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
  <p class="updated_time"> 07:54 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057767258/israel-jerusalem-old-city-attack">A Palestinian assailant killed one and injured four others in Jerusalem's Old City</a> NPR: Israeli police said the attack took place near an entrance to a contested flashpoint shrine known to Jews as the Temple Mount and to Muslims as the Noble Sanctuary. 
- <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
@@ -200,16 +200,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
+ <p class="updated_time"> 10:58 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/kissinger-china-taiwan-summit-biden-523139">Kissinger doesn’t see China as an immediate military threat to Taiwan</a> Politico: He also lauded President Joe Biden for trying to lower the temperature of the U.S.-China relationship. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
+ <p class="updated_time"> 10:02 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 09:33 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057630022/as-georgia-grows-more-democratic-its-members-of-congress-will-not">As Georgia grows more Democratic, its members of Congress will not</a> NPR: Facing political and demographic changes in the state over the last decade, Republicans in Georgia used redistricting to expand representation in Congress while ceding ground in the state legislature. 
- <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 09:01 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/infrastructure-broadband-internet-access/index.html">How the infrastructure package could fix rural America's internet problems</a> CNN: Jamie Ritter can't connect to the internet from his home in Denmark, Maine, which is at the end of a road, down a dirt driveway and too far away from existing infrastructure. 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
@@ -217,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haaland-alcatraz-indigenous-native-americans-523137">At Alcatraz Island, Haaland highlights Indigenous progress</a> Politico: “We have a long way to go to fully heal from the traumas created by historical oppression,” she said. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">Democrats aren't alone in the cannabis game anymore</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
+ <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">New GOP weed approach: Feds must ‘get out of the way’</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -314,16 +318,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 05:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/ohio-senate-race/index.html">Ohio Republicans tie themselves to Trump's rhetoric as they vie for Senate seat</a> CNN: Ohio's crowded Republican Senate primary has become a battle over who most can align themselves with former President Donald Trump. 
- <p class="updated_time"> 04:50 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 04:13 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 04:04 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-usps-board-members.html">Biden Nominates Two New U.S.P.S. Board Members</a> NYT: The president moved to replace two members who have been supporters of Postmaster General Louis DeJoy, a step that could portend a shift in leadership at the agency. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
+ <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
