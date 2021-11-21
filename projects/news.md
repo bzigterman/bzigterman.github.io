@@ -69,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
+ <p class="updated_time"> 05:51 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/54826343?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: Man Utd sack manager with club seventh in Premier League</a> BBC: Manchester United sack manager Ole Gunnar Solskjaer, with the club seventh in the Premier League following Saturday's 4-1 defeat at Watford. 
  <p class="updated_time"> 05:12 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/hamas-gunman-kills-one-israeli-injures-four-in-jerusalem-11637511128">Hamas Gunman Kills One Israeli, Injures Four in Jerusalem</a> WSJ: Israeli police shot dead the Palestinian assailant and boosted security in the contested city on concerns over a flare-up in violence. 
  <p class="updated_time"> 03:28 AM CT, Nov. 21 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
- <p class="updated_time"> 06:14 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59362235?at_medium=RSS&at_campaign=KARANGA">Man Utd: David de Gea calls 4-1 loss to Watford 'embarrassing' & 'another nightmare'</a> BBC: Manchester United keeper David de Gea describes his side's 4-1 loss to Watford as "embarrassing" and "another nightmare". 
  <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59323479?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on the 'dirty secret' hidden in Tick, Tick... Boom!</a> BBC: The Hamilton creator says there's a moment in Tick, Tick... Boom! that made his friends cringe. 
  <p class="updated_time"> 06:10 PM CT, Nov. 20 </p> 
