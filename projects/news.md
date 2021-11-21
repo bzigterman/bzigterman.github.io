@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
+ <p class="updated_time"> 01:34 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 01:00 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:29 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cruz-china-olympics-diplomatic-boycott-523143">Cruz urges diplomatic boycott of Winter Olympics in China</a> Politico: The Texas Republican criticized China for its handling of tennis player Peng Shuai’s sexual assault accusations against a former top official. 
  <p class="updated_time"> 01:17 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/article/explaining-social-policy-climate-bill.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
+ <a href="https://www.nytimes.com/article/build-back-better-explained.html">What’s in the $2.2 Trillion Social Policy and Climate Bill</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 01:09 PM CT, Nov. 21 </p> 
