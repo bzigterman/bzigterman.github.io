@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:42 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59369676?at_medium=RSS&at_campaign=KARANGA">Justin Bieber urged to cancel Saudi show by Khashoggi's fiancee</a> BBC: The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia. 
  <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:31 PM CT, Nov. 21 </p> 
@@ -39,10 +41,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
+ <p class="updated_time"> 12:41 PM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Huge protests across Europe over new restrictions</a> BBC: Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy. 
- <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
  <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59362845?at_medium=RSS&at_campaign=KARANGA">Bear shot dead by 70-year-old hunter in France</a> BBC: A female bear roaming with her cubs is killed after attacking and injuring a man, officials say. 
- <p class="updated_time"> 02:54 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59352179?at_medium=RSS&at_campaign=KARANGA">Somali journalist Abdiaziz Mohamud Guled killed in suicide attack</a> BBC: Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
