@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:05 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show tennis player at tournament</a> BBC: A third social media post claims to show her at a tennis match on Sunday, amid concerns for her wellbeing. 
  <p class="updated_time"> 08:22 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 07:17 PM CT, Nov. 20 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
- <p class="updated_time"> 05:33 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59361505?at_medium=RSS&at_campaign=KARANGA">WTA chief casts doubt on Chinese player Peng video</a> BBC: A video claiming to show Chinese player Peng Shuai out with friends is "insufficient" evidence of her welfare, says Women's Tennis Association chief Steve Simon. 
  <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59362845?at_medium=RSS&at_campaign=KARANGA">Bear shot dead by 70-year-old hunter in France</a> BBC: A female bear roaming with her cubs is killed after attacking and injuring a man, officials say. 
  <p class="updated_time"> 02:54 PM CT, Nov. 20 </p> 
