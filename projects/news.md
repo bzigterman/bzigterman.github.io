@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
+ <p class="updated_time"> 10:53 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
+ <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
- <p class="updated_time"> 10:19 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Disguised Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:17 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 10:03 AM CT, Nov. 21 </p> 
@@ -41,16 +45,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/africa/south-sudan-covid-flooding.html">In South Sudan, Vaccines Are Overshadowed by Pressing Needs</a> NYT: Much of South Sudan is under water from flooding induced by climate change and deforestation. Crops and livestock are lost, hunger and malaria are spreading. With so many worries, coronavirus vaccines are a tough sell. 
  <p class="updated_time"> 06:21 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
- <p class="updated_time"> 06:04 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
  <p class="updated_time"> 06:02 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 06:01 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show Chinese tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
+ <p class="updated_time"> 05:12 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/hamas-gunman-kills-one-israeli-injures-four-in-jerusalem-11637511128">Hamas Gunman Kills One Israeli, Injures Four in Jerusalem</a> WSJ: Israeli police shot dead the Palestinian assailant and boosted security in the contested city on concerns over a flare-up in violence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
+ <p class="updated_time"> 03:28 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/sudan-coup-leaders-agree-to-reinstate-prime-minister-mediators-say-11637500010">Sudan Coup Leaders to Reinstate Prime Minister</a> WSJ: The deal allows Abdalla Hamdok to form a technocratic government, nearly four weeks after military leaders ousted him in a coup that disrupted the country’s fragile transition to democracy. 
+ <p class="updated_time"> 02:26 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-appears-in-beijing-amid-assault-claim-11637501193">Chinese Tennis Star Peng Shuai Appears in Beijing Amid Assault Claim</a> WSJ: Videos show her attending, but not speaking at, a dinner and a tennis tournament. The WTA head says concerns remain about her safety. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
@@ -111,12 +119,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
- <a href="https://www.wsj.com/articles/yemens-battleground-shifts-in-favor-of-iran-backed-houthis-11637413200">Yemen's Battleground Shifts in Favor of Iran-Backed Houthis</a> WSJ: Saudi Arabia is scrambling to defend an oil-rich city against the group, as the Biden administration debates whether to back Riyadh in Yemen’s civil war. 
  <p class="updated_time"> 11:30 PM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/putin-dispatches-russian-vessels-to-shadow-u-s-warships-during-flare-up-11637404202">Putin Dispatches Russian Vessels to Shadow U.S. Warships During Flare-Up</a> WSJ: A group of U.S. and allied ships were tailed by Russian ships and aircraft in the Black Sea as tensions climbed over Moscow’s military deployments. 
- <p class="updated_time"> 11:19 PM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/pentagon-chief-tries-to-reassure-mideast-allies-after-afghanistan-pullout-11637403580">Pentagon Chief Tries to Reassure Mideast Allies After Afghanistan Pullout</a> WSJ: ‘America’s commitment to security in the Middle East is strong and secure,’ Defense Secretary Lloyd Austin told a security forum in Bahrain. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
@@ -171,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
- <p class="updated_time"> 03:33 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406">The Ship's Captain Died at Sea. Six Months Later, His Body Was Still in the Freezer.</a> WSJ: Ports and governments refuse to let cargo vessels offload the remains of dead seafarers. The last voyage of Captain Sandu. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
- <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
 
@@ -200,14 +200,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:44 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/sununu-washington-screwed-up-523140">Washington 'is screwed up,' New Hampshire governor laments</a> Politico: “They focus on the wrong things. They don't talk about balancing budgets. They don't talk about fixing health care, immigration reform," Gov. Chris Sununu said. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 10:58 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/kissinger-china-taiwan-summit-biden-523139">Kissinger doesn’t see China as an immediate military threat to Taiwan</a> Politico: He also lauded President Joe Biden for trying to lower the temperature of the U.S.-China relationship. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
- <p class="updated_time"> 10:02 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
+ <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
@@ -300,12 +304,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
- <p class="updated_time"> 11:01 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 06:39 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/trump-max-miller-ohio-district-house-run-523106">Former Trump aide Max Miller shifts to new Ohio district for House run</a> Politico: The district where Miller had been running was carved up in redistricting. 
  <p class="updated_time"> 06:22 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
  <p class="updated_time"> 06:17 PM CT, Nov. 19 </p> 
@@ -456,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
- <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
 
 
 </details>
