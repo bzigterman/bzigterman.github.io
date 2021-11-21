@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
+ <p class="updated_time"> 01:44 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military to reinstate ousted PM Hamdok</a> BBC: Abdalla Hamdok has been under house arrest since a military coup last month, sparking mass protests. 
  <p class="updated_time"> 01:23 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Fresh protests in Europe against new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France. 
  <p class="updated_time"> 10:00 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
- <p class="updated_time"> 08:22 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 06:14 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59362235?at_medium=RSS&at_campaign=KARANGA">Man Utd: David de Gea calls 4-1 loss to Watford 'embarrassing' & 'another nightmare'</a> BBC: Manchester United keeper David de Gea describes his side's 4-1 loss to Watford as "embarrassing" and "another nightmare". 
  <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
  <p class="updated_time"> 06:25 AM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">New Covid-19 Restrictions Spark Protests Across Europe</a> WSJ: Europeans are staging protests against new Covid-19 restrictions intended to stem an upsurge in the pandemic, with violence flaring overnight in the Netherlands 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
