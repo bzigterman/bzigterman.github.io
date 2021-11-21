@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057767258/israel-jerusalem-old-city-attack">A Palestinian assailant killed one and injured four others in Jerusalem's Old City</a> NPR: Israeli police said the attack took place near an entrance to a contested flashpoint shrine known to Jews as the Temple Mount and to Muslims as the Noble Sanctuary. 
  <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: The move, which should allow Prime Minister Abdalla Hamdok to return to power, is part of a deal to end a bloody standoff that has led to dozens of protester deaths since he was ousted last month. 
  <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
- <p class="updated_time"> 03:23 PM CT, Nov. 18 </p> 
- <a href="https://www.npr.org/2021/11/18/1056987445/ethiopias-capital-prepares-for-possible-rebel-attack">Ethiopia's capital prepares for possible rebel attack</a> NPR: NPR's Mary Louise Kelly talks with Samuel Getachew, a journalist based in Addis Ababa, about Ethiopia's government telling residents of the nation's capital to prepare for a rebel attack. 
  <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
