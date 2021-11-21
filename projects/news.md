@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 AM CT, Nov. 21 </p> 
+ <p class="updated_time"> 08:31 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/palestinian-shooting-jerusalem-old-city.html">Israeli Is Killed by Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting was the first attack by a Palestinian since May to result in the death of a Jewish civilian. Attempted assaults in the Old City are relatively common, but are usually stopped. 
+ <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 08:17 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house fails to stop protests demanding the army keep out of politics. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show Chinese tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
- <p class="updated_time"> 05:49 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
