@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
+ <p class="updated_time"> 06:01 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show Chinese tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
+ <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
+ <p class="updated_time"> 05:49 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 05:05 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Agrees to Reinstate Civilian Prime Minister, Mediator Says</a> NYT: The deal was announced hours before a planned new wave of protests against the Oct. 25 coup. But Prime Minister Abdalla Hamdok appeared to remain under house arrest. 
  <p class="updated_time"> 04:28 AM CT, Nov. 21 </p> 
@@ -25,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
- <p class="updated_time"> 10:00 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
  <p class="updated_time"> 06:14 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59362235?at_medium=RSS&at_campaign=KARANGA">Man Utd: David de Gea calls 4-1 loss to Watford 'embarrassing' & 'another nightmare'</a> BBC: Manchester United keeper David de Gea describes his side's 4-1 loss to Watford as "embarrassing" and "another nightmare". 
  <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/yemens-battleground-shifts-in-favor-of-iran-backed-houthis-11637413200">Yemen's Battleground Shifts in Favor of Iran-Backed Houthis</a> WSJ: Saudi Arabia is scrambling to defend an oil-rich city against the group, as the Biden administration debates whether to back Riyadh in Yemen’s civil war. 
- <p class="updated_time"> 01:27 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59358070?at_medium=RSS&at_campaign=KARANGA">San Diego motorway frenzy after armoured van spills money</a> BBC: Videos on social media show dollars raining down as drivers scramble to pick up the littered cash. 
  <p class="updated_time"> 11:30 PM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/putin-dispatches-russian-vessels-to-shadow-u-s-warships-during-flare-up-11637404202">Putin Dispatches Russian Vessels to Shadow U.S. Warships During Flare-Up</a> WSJ: A group of U.S. and allied ships were tailed by Russian ships and aircraft in the Black Sea as tensions climbed over Moscow’s military deployments. 
  <p class="updated_time"> 11:19 PM CT, Nov. 19 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
- <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
  <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
@@ -318,14 +320,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
- <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
- <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
