@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:07 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Fresh protests in Europe against new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France. 
+ <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59323479?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on the 'dirty secret' hidden in Tick, Tick... Boom!</a> BBC: The Hamilton creator says there's a moment in Tick, Tick... Boom! that made his friends cringe. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59219355?at_medium=RSS&at_campaign=KARANGA">Indian billionaires bet big on homegrown couture</a> BBC: Indian corporate houses are investing in luxury fashion designers - a long overdue move, experts say. 
+ <p class="updated_time"> 06:09 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/59348337?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: What happens to migrants who are turned away?</a> BBC: Poland and Lithuania are increasingly sending migrants back to Belarus - but is this legal? 
+ <p class="updated_time"> 06:08 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59347230?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Mass arrests and ethnic profiling haunt Addis Ababa</a> BBC: As rebel forces advance towards the capital, at least 1,000 ethnic Tigrayans have been detained. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59331694?at_medium=RSS&at_campaign=KARANGA">Chile voters go to polls amid deep divisions</a> BBC: It is being billed as the most polarising election in decades and comes after divisive mass protests. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59352740?at_medium=RSS&at_campaign=KARANGA">Barcelona tackles roaming wild boar problem</a> BBC: Pop star Shakira is just one of the city's residents to have had problems with the animals. 
  <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
@@ -43,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says money given to him by fans following a social media appeal will be sent to orphanages. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
- <p class="updated_time"> 09:23 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59358074?at_medium=RSS&at_campaign=KARANGA">Covid: WHO says it is very worried about Europe surge</a> BBC: The health organisation's regional director warns of half a million more deaths by March without action. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
  <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
@@ -79,16 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/pentagon-chief-tries-to-reassure-mideast-allies-after-afghanistan-pullout-11637403580">Pentagon Chief Tries to Reassure Mideast Allies After Afghanistan Pullout</a> WSJ: ‘America’s commitment to security in the Middle East is strong and secure,’ Defense Secretary Lloyd Austin told a security forum in Bahrain. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
- <p class="updated_time"> 06:48 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59345561?at_medium=RSS&at_campaign=KARANGA">'Sudan's generals betrayed my generation'</a> BBC: Journalist Mohanad Hashim returned from exile after the revolution but a coup leaves his hopes in tatters. 
- <p class="updated_time"> 06:46 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59331693?at_medium=RSS&at_campaign=KARANGA">Venezuela polls: Opposition hopes to break stalemate</a> BBC: After years of boycotting elections, the main opposition groups will take part in local polls. 
- <p class="updated_time"> 06:44 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59351372?at_medium=RSS&at_campaign=KARANGA">Prince Charles and Camilla: Why diplomats love it when royalty visits</a> BBC: As the four-day royal tour of Egypt and Jordan ends, our royal correspondent reflects on its impact. 
- <p class="updated_time"> 06:42 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59342308?at_medium=RSS&at_campaign=KARANGA">Japan goes from vaccine hesitancy to success</a> BBC: An unexpectedly rapid turnaround in attitudes has allowed vaccination rates to skyrocket in Japan 
- <p class="updated_time"> 06:39 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59290896?at_medium=RSS&at_campaign=KARANGA">French school bus experiment brings hope to Toulouse estates</a> BBC: Three sprawling estates have been part of a social experiment to improve education for children. 
  <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59338205?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: How China censored a tennis star</a> BBC: When Peng Shuai upset her country's authorities, their response online was swift. 
  <p class="updated_time"> 06:34 PM CT, Nov. 19 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/iraq-migrants-belarus.html">Plane Returning Migrants From Belarus Lands in Iraq</a> NYT: Unable to reach the European Union, the migrants returned to Iraq, but many said they would try again to emigrate, and thousands are still in Belarus. 
  <p class="updated_time"> 06:59 PM CT, Nov. 18 </p> 
  <a href="https://www.npr.org/2021/11/18/1057071353/biden-restarts-trilateral-summit-focused-on-north-american-partnership">Biden restarts trilateral summit, focused on North American partnership</a> NPR: The meeting with the leaders of Canada and Mexico was the first North American summit of its kind since 2016. 
- <p class="updated_time"> 06:26 PM CT, Nov. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59340356?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The teenage girls returning to school under the Taliban</a> BBC: The BBC's John Simpson visits Bamiyan and finds some girls are attending secondary school in Afghanistan. 
  <p class="updated_time"> 05:32 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/covid-syringes-india.html">India's Limit on Syringe Exports Hobbles Global Covid Vaccinations</a> NYT: The South Asian country is a major producer of the type of syringe used for coronavirus inoculations. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 PM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/zoe-lofgren-jan-6-committee-interviews/index.html">Jan. 6 committee member: Many of 200+ witnesses are ex-Trump admin staff who voluntarily came forward  </a> CNN: A member of the House select committee investigating the January 6 attack told CNN Saturday many of the more than 200 witnesses they have interviewed are former officials from the Trump administration who came forward voluntarily. 
  <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 05:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/rev-w-sterling-cary-dead.html">Rev. W. Sterling Cary, Pioneering Black Churchman, Dies at 94</a> NYT: He embraced what became known as Black liberation theology and, in 1972, became the first Black leader of the National Council of Churches. 
- <p class="updated_time"> 04:30 PM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/hypersonic-technology-us-behind-china-russia-523130">U.S. ‘not as advanced’ as China and Russia on hypersonic tech, Space Force general warns</a> Politico: While the Pentagon has pushed the development of new hypersonic missiles, the Army isn’t slated to field its first missile until 2024. 
  <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
- <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
