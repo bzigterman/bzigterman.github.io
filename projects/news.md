@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
+ <p class="updated_time"> 02:28 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star tells Olympic officials she is safe</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
- <p class="updated_time"> 01:34 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 01:00 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59368483?at_medium=RSS&at_campaign=KARANGA">El Salvador Bitcoin city planned at base of Conchagua volcano</a> BBC: Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says. 
  <p class="updated_time"> 11:57 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, one of the rising stars of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
- <p class="updated_time"> 11:54 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star tells Olympic officials she is safe</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 11:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
