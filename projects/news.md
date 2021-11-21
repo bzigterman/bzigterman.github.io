@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
+ <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:31 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/palestinian-shooting-jerusalem-old-city.html">Israeli Is Killed by Palestinian Militant Near Holiest Site in Jerusalem</a> NYT: The shooting was the first attack by a Palestinian since May to result in the death of a Jewish civilian. Attempted assaults in the Old City are relatively common, but are usually stopped. 
  <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: The move, which should allow Prime Minister Abdalla Hamdok to return to power, is part of a deal to end a bloody standoff that has led to dozens of protester deaths since he was ousted last month. 
  <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
- <p class="updated_time"> 07:14 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, presenting voters a stark choice. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
- <p class="updated_time"> 07:33 AM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-australian-open-restrictions.html">As Covid Rules Ease, Australian Open Can Play Before a Full House</a> NYT: The annual Boxing Day cricket test match in Melbourne will also be allowed to take place before a full-capacity crowd. 
 
 
 </details>
@@ -200,6 +200,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:01 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/infrastructure-broadband-internet-access/index.html">How the infrastructure package could fix rural America's internet problems</a> CNN: Jamie Ritter can't connect to the internet from his home in Denmark, Maine, which is at the end of a road, down a dirt driveway and too far away from existing infrastructure. 
+ <p class="updated_time"> 08:46 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
+ <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 07:43 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haaland-alcatraz-indigenous-native-americans-523137">At Alcatraz Island, Haaland highlights Indigenous progress</a> Politico: “We have a long way to go to fully heal from the traumas created by historical oppression,” she said. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -216,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html">Manchin and Sinema Find Financial Support From G.O.P. Donors</a> NYT: The two Democratic senators are attracting campaign contributions from business interests and conservatives as progressives fume over their efforts to pare back the president’s domestic policy bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/aoc-democrats.html">A.O.C. on Why Democrats’ ‘Talking Points Are Not Enough’</a> NYT: The House progressive spoke about “demoralizing” congressional negotiations, how she was told to stay away from Virginia’s elections, and what it means to excite the Democratic base. 
- <p class="updated_time"> 07:39 PM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/arizona-steven-arthur-martin-nancy-pelosi-jury-conviction/index.html">Arizona man who left Nancy Pelosi threatening voicemails convicted by jury </a> CNN: An Arizona man has been found guilty by a jury of communicating an interstate threat to kill or harm House Speaker Nancy Pelosi, the Justice Department announced Friday. 
  <p class="updated_time"> 07:00 PM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/zoe-lofgren-jan-6-committee-interviews/index.html">Jan. 6 committee member: Many of 200+ witnesses are ex-Trump admin staff who voluntarily came forward  </a> CNN: A member of the House select committee investigating the January 6 attack told CNN Saturday many of the more than 200 witnesses they have interviewed are former officials from the Trump administration who came forward voluntarily. 
  <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
@@ -246,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 11:00 AM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/pentagon-climate-change-warning/index.html">Senior Pentagon official warns the US military is 'not ready' for climate change</a> CNN: A senior Pentagon official warned the US military is "not ready" to handle climate change, a national security issue that touches nearly every aspect of Defense Department planning. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
@@ -288,12 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
- <p class="updated_time"> 11:36 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/joe-madison-hunger-strike-voting-rights-cnntv/index.html">SiriusXM host on hunger strike urges Congress to put voting rights on the front burner</a> CNN: Sirius XM radio host Joe Madison, who is engaged in a hunger strike over what he has called a "politically and morally wrong" attack on voting rights, told CNN on Friday that he wants lawmakers to put voting rights "on the front burner" when they return from their Thanksgiving recess. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
- <p class="updated_time"> 11:04 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/wisconsin-republicans-push-election-takeover/index.html">More than a year after Donald Trump's loss, Wisconsin Republicans wage relentless attacks on the state's election commission</a> CNN: Republicans in Wisconsin are engaging in a multi-pronged attack on the state's bipartisan election commission -- in one of the latest efforts to relitigate the 2020 election in a key presidential battleground state. 
  <p class="updated_time"> 11:01 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/nyregion/nyc-fraud-campaign-finance.html">Gerald Migdol Is Charged in Campaign Finance Scheme</a> NYT: Gerald Migdol is accused of concealing contributions to a New York City comptroller candidate to get more public-matching funds. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
@@ -316,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/ken-griffin-constitution-crypto-523085">Hedge fund titan Ken Griffin outbids crypto group for U.S. Constitution</a> Politico: The Citadel CEO, who is also an art collector, plans to loan the document to the Crystal Bridges Museum of American Art in Bentonville, Ark. 
  <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
- <p class="updated_time"> 04:17 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/judge-blames-trump-riot/index.html">Federal judge says Trump has responsibility for January 6, calling rioter a 'pawn'</a> CNN: A federal judge suggested Friday that former President Donald Trump had some responsibility for the January 6 attack on the Capitol and that rioters were pawns provoked into action. 
  <p class="updated_time"> 04:13 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 04:04 PM CT, Nov. 19 </p> 
@@ -382,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
+ <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
@@ -412,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
+ <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
