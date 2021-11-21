@@ -21,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 01:47 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
+ <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 10:00 PM CT, Nov. 20 </p> 
@@ -80,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 06:25 AM CT, Nov. 20 </p> 
- <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">New Covid-19 Restrictions Spark Protests Across Europe</a> WSJ: Europeans are staging protests against new Covid-19 restrictions intended to stem an upsurge in the pandemic, with violence flaring overnight in the Netherlands 
+ <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">New Covid-19 Restrictions Spark Protests Across Europe</a> WSJ: Europeans are staging protests against new Covid-19 restrictions intended to stem an upsurge in the pandemic, with violence flaring overnight in the Netherlands. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 11:09 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/iranian-hackers-broke-into-newspaper-publisher-lee-enterprises-ahead-of-2020-election-11637359741">Iranian Hackers Broke Into Newspaper Publisher Lee Enterprises Ahead of 2020 Election</a> WSJ: Computer systems of Lee Enterprises, which owns dozens of daily papers, were targeted in a disinformation campaign, say people familiar with case. 
  <p class="updated_time"> 10:43 AM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-59353683?at_medium=RSS&at_campaign=KARANGA">Belarus leader tells BBC: ‘We won’t stop the migrants’</a> BBC: In an exclusive interview, Alexander Lukashenko tells the BBC it’s “absolutely possible” his forces helped migrants cross into Poland”. 
  <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
@@ -153,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
- <p class="updated_time"> 03:39 AM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/cold-and-frightened-migrants-hold-out-hope-of-crossing-belarus-poland-border-11637332785">Migrants on Belarus-Poland Border Are Freezing but Won't Give Up Hope to Cross</a> WSJ: Thousands of migrants have been crowded into a warehouse near the border between Poland and Belarus, after Belarusian authorities coaxed them into abandoning the freezing camps they occupied for weeks. 
  <p class="updated_time"> 03:33 AM CT, Nov. 19 </p> 
  <a href="https://www.wsj.com/articles/the-ships-captain-died-at-sea-six-months-later-his-body-was-still-in-its-freezer-11637332406">The Ship's Captain Died at Sea. Six Months Later, His Body Was Still in the Freezer.</a> WSJ: Ports and governments refuse to let cargo vessels offload the remains of dead seafarers. The last voyage of Captain Sandu. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
