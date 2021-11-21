@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
+ <p class="updated_time"> 06:06 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military to reinstate ousted PM Hamdok</a> BBC: Abdalla Hamdok has been under house arrest since a military coup last month, sparking mass protests. 
  <p class="updated_time"> 06:04 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
+ <p class="updated_time"> 06:02 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 06:01 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59363156?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Video claims to show Chinese tennis player at tournament</a> BBC: A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
@@ -17,12 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 05:05 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Agrees to Reinstate Civilian Prime Minister, Mediator Says</a> NYT: The deal was announced hours before a planned new wave of protests against the Oct. 25 coup. But Prime Minister Abdalla Hamdok appeared to remain under house arrest. 
- <p class="updated_time"> 04:28 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands and other parts of Europe see protests over new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests also held in Austria and Italy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
- <p class="updated_time"> 03:50 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military to reinstate ousted PM Hamdok</a> BBC: Abdalla Hamdok has been under house arrest since a military coup last month, sparking mass protests. 
  <p class="updated_time"> 03:12 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 04:09 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59356186?at_medium=RSS&at_campaign=KARANGA">Netherlands: Police fire warning shots at Covid protesters</a> BBC: Police in Rotterdam fired warning shots and used water cannon as protests turned violent. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 02:00 AM CT, Nov. 20 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">Democrats aren't alone in the cannabis game anymore</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
@@ -320,10 +322,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
+ <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
+ <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
@@ -354,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057132951/after-a-gop-delay-bidens-build-back-better-bill-could-be-voted-on-in-the-house">After a GOP delay, Biden's Build Back Better bill could be voted on in the House</a> NPR: House Minority Leader Kevin McCarthy delayed a vote on President Biden's spending bill with a record-breaking speech. Democrats now expect to vote on the legislative package Friday. 
  <p class="updated_time"> 04:31 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
- <p class="updated_time"> 04:30 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/cartoons/2021/11/18/the-nations-cartoonists-on-the-week-in-politics-000267">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
  <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
