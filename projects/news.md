@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
+ <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
  <p class="updated_time"> 03:38 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
@@ -198,6 +200,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/haiti-missionaries-released-ohio-523150">U.S. missionaries say 2 of 17 abductees freed in Haiti</a> Politico: The missionaries were kidnapped Oct. 16. 
+ <p class="updated_time"> 04:09 PM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057815904/former-democrat-lawmaker-who-benefited-from-gerrymandering-sees-a-better-path">Former Democrat lawmaker who benefited from gerrymandering sees a better path</a> NPR: NPR's Michel Martin speaks with former U.S. Rep. Albert Wynn about redistricting efforts he was involved with in Maryland. 
  <p class="updated_time"> 03:32 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/halifax-democracy-america-allies-523147">‘No ground for cockiness’: Tough love for U.S. at pro-democracy conference</a> Politico: From Afghanistan to domestic extremism, the Halifax forum became a therapy session for allies concerned with America’s actions. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
@@ -358,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
- <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so-called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill but ultimately failed to prevent its passage. 
  <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
