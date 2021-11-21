@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 07:17 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Fresh protests in Europe against new restrictions</a> BBC: Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59362235?at_medium=RSS&at_campaign=KARANGA">Man Utd: David de Gea calls 4-1 loss to Watford 'embarrassing' & 'another nightmare'</a> BBC: Manchester United keeper David de Gea describes his side's 4-1 loss to Watford as "embarrassing" and "another nightmare". 
  <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59323479?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on the 'dirty secret' hidden in Tick, Tick... Boom!</a> BBC: The Hamilton creator says there's a moment in Tick, Tick... Boom! that made his friends cringe. 
  <p class="updated_time"> 06:10 PM CT, Nov. 20 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
- <p class="updated_time"> 12:45 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59362388?at_medium=RSS&at_campaign=KARANGA">Paris St-Germain 3-1 Nantes: Lionel Messi opens Ligue 1 account as 10-man leaders win</a> BBC: Lionel Messi scores his first goal in Ligue 1 as 10-man Paris St-Germain move 13 points clear with a late rally to beat Nantes. 
  <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
  <p class="updated_time"> 11:18 AM CT, Nov. 20 </p> 
@@ -113,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 04:32 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
- <p class="updated_time"> 04:24 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59343815?at_medium=RSS&at_campaign=KARANGA">Belarus's Lukashenko tells BBC: We may have helped migrants into EU</a> BBC: In an exclusive interview, Alexander Lukashenko says it was "absolutely possible" migrants had help. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
