@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:16 PM CT, Nov. 21 </p> 
+ <p class="updated_time"> 04:27 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role. 
+ <p class="updated_time"> 04:22 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
+ <p class="updated_time"> 04:19 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
  <p class="updated_time"> 03:38 PM CT, Nov. 21 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 10:03 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
- <p class="updated_time"> 09:52 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
@@ -115,12 +117,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 10:17 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59352176?at_medium=RSS&at_campaign=KARANGA">Colombia president condemns Nazi-themed police event</a> BBC: President Iván Duque condemns the actions of cadets pictured in SS uniforms and Swastika armbands. 
  <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
- <p class="updated_time"> 09:44 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59359973?at_medium=RSS&at_campaign=KARANGA">Davido: Afrobeats star to give fan donations to orphanages</a> BBC: Davido says money given to him by fans following a social media appeal will be sent to orphanages. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
