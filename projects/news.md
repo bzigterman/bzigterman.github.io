@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">With an Iran Deal Further Away Than Ever, Risks of Confrontation Grow</a> NYT: As Iran’s new administration prepares for its first international nuclear negotiations, there are signs that there will be no going back to a 2015 deal. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:47 PM CT, Nov. 21 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Huge protests across Europe over new restrictions</a> BBC: Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy. 
+ <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
@@ -63,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
+ <p class="updated_time"> 08:35 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/migrants-at-belarus-poland-border-face-returning-home-or-continuing-their-quest-to-go-west-11637523341">Migrants at Belarus-Poland Border Face Returning Home or Continuing Their Quest to Go West</a> WSJ: Hope is waning for many migrants that Poland will allow a humanitarian corridor to be opened to travel to the West. 
  <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -81,10 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 05:51 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/football/54826343?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: Man Utd sack manager with club seventh in Premier League</a> BBC: Manchester United sack manager Ole Gunnar Solskjaer, with the club seventh in the Premier League following Saturday's 4-1 defeat at Watford. 
- <p class="updated_time"> 05:12 AM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/hamas-gunman-kills-one-israeli-injures-four-in-jerusalem-11637511128">Hamas Gunman Kills One Israeli, Injures Four in Jerusalem</a> WSJ: Israeli police shot dead the Palestinian assailant and boosted security in the contested city on concerns over a flare-up in violence. 
- <p class="updated_time"> 03:28 AM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/sudan-coup-leaders-agree-to-reinstate-prime-minister-mediators-say-11637500010">Sudan Coup Leaders to Reinstate Prime Minister</a> WSJ: The deal allows Abdalla Hamdok to form a technocratic government, nearly four weeks after military leaders ousted him in a coup that disrupted the country’s fragile transition to democracy. 
  <p class="updated_time"> 03:00 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/venezuelan-opposition-unable-to-topple-maduro-turns-to-elections-11637503201">Venezuelan Opposition, Unable to Topple Maduro, Turns to Elections</a> WSJ: The Venezuelan opposition has tried everything to oust President Maduro, from working to trigger a revolt to forcing him out by naming an interim president. Now there is a new strategy: participating in elections. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
+ <p class="updated_time"> 05:23 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">With an Iran Deal Further Away Than Ever, Risks of Confrontation Grow</a> NYT: As Iran’s new administration prepares for its first international nuclear negotiations, there are signs that there will be no going back to a 2015 deal. 
  <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haiti-missionaries-released-ohio-523150">U.S. missionaries say 2 of 17 abductees freed in Haiti</a> Politico: The missionaries were kidnapped Oct. 16. 
  <p class="updated_time"> 04:09 PM CT, Nov. 21 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
- <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
