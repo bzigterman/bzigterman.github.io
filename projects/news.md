@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
  <p class="updated_time"> 05:33 PM CT, Nov. 20 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:09 AM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59357306?at_medium=RSS&at_campaign=KARANGA">Tesla drivers left unable to start their cars after outage</a> BBC: The carmaker's CEO Elon Musk acknowledged the app used to gain entry into the car had malfunctioned. 
  <p class="updated_time"> 06:25 AM CT, Nov. 20 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:58 PM CT, Nov. 20 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 05:26 PM CT, Nov. 20 </p> 
@@ -258,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:30 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618813/week-in-politics-the-build-back-better-bill-is-moving-forward">Week in politics: The 'Build Back Better' bill is moving forward</a> NPR: We track the progress of the $2 trillion Build Back Better bill, which passed the House on Friday morning and is heading to the Senate for further negotation. 
- <p class="updated_time"> 07:18 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/us/politics/us-middle-east.html">U.S. Tries to Convince Arab Allies It Isn't Quitting Middle East</a> NYT: The defense secretary faced tough questions about how countries were supposed to deal with a U.S. national security policy that upends itself with each president. 
  <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
