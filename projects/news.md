@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
+ <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
  <p class="updated_time"> 01:59 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
- <p class="updated_time"> 09:26 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: Prime Minister Abdalla Hamdok returned to power under a deal intended to end a bloody standoff that has led to dozens of protester deaths since his ouster last month. 
  <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
@@ -183,10 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
  <p class="updated_time"> 01:51 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
- <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
- <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/greece-covid-cases-vaccines.html">Greece, Facing Surging Cases, Adds Restrictions for the Unvaccinated</a> NYT: Germany restricts access to public transportation, Austria will impose full lockdowns in two states, and the Netherlands recently restored mask mandates in some public indoor places. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
