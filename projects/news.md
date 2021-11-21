@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 01:47 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 01:44 AM CT, Nov. 21 </p> 
