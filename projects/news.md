@@ -65,8 +65,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 03:28 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/sudan-coup-leaders-agree-to-reinstate-prime-minister-mediators-say-11637500010">Sudan Coup Leaders to Reinstate Prime Minister</a> WSJ: The deal allows Abdalla Hamdok to form a technocratic government, nearly four weeks after military leaders ousted him in a coup that disrupted the country’s fragile transition to democracy. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/venezuelan-opposition-unable-to-topple-maduro-turns-to-elections-11637503201">Venezuelan Opposition, Unable to Topple Maduro, Turns to Elections</a> WSJ: The Venezuelan opposition has tried everything to oust President Maduro, from working to trigger a revolt to forcing him out by naming an interim president. Now there is a new strategy: participating in elections. 
  <p class="updated_time"> 02:26 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-appears-in-beijing-amid-assault-claim-11637501193">Chinese Tennis Star Peng Shuai Appears in Beijing Amid Assault Claim</a> WSJ: Videos show her attending, but not speaking at, a dinner and a tennis tournament. The WTA head says concerns remain about her safety. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/afghan-refugees-us-military-visa-11637450916">Afghan Evacuees Could Wait Years for Chance to Reach U.S.</a> WSJ: Albania, Chile and Uganda are among the nations that are temporarily sheltering evacuees seeking to come to America. 
  <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
@@ -117,16 +121,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 06:25 AM CT, Nov. 20 </p> 
- <a href="https://www.wsj.com/articles/rioting-erupts-during-covid-19-rules-protest-in-the-netherlands-11637412545">New Covid-19 Restrictions Spark Protests Across Europe</a> WSJ: Europeans are staging protests against new Covid-19 restrictions intended to stem an upsurge in the pandemic, with violence flaring overnight in the Netherlands. 
  <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 11:30 PM CT, Nov. 19 </p> 
- <a href="https://www.wsj.com/articles/putin-dispatches-russian-vessels-to-shadow-u-s-warships-during-flare-up-11637404202">Putin Dispatches Russian Vessels to Shadow U.S. Warships During Flare-Up</a> WSJ: A group of U.S. and allied ships were tailed by Russian ships and aircraft in the Black Sea as tensions climbed over Moscow’s military deployments. 
  <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/europe/belarus-poland-migrant-camp.html">Belarus Clears Migrant Camp, Easing Border Standoff With Poland</a> NYT: Throngs of people, mainly from the Mideast, who had been living in freezing conditions on the border, have been moved to a giant warehouse. Their fate is uncertain. 
  <p class="updated_time"> 12:57 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests">India will repeal controversial farm laws that led to massive protests</a> NPR: Prime Minister Narendra Modi urged protesters to return home and said the constitutional process to repeal the laws will begin in December when parliament sits for the winter session. 
- <p class="updated_time"> 10:10 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/kashmir-shopping-complex-raid.html">Fury in Kashmir After Deadly Police Raid at Shopping Complex</a> NYT: Saying that the men killed in a gun battle were separatist militants or “terrorist supporters,” security forces initially refused to return the bodies to their families, but later relented and gave back two. 
  <p class="updated_time"> 09:45 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/health/covid-wuhan-market-lab-leak.html">First Known Covid Case Was Vendor at Wuhan Market, Scientist Says</a> NYT: A new review of early Covid-19 cases in the journal Science will revive, though certainly not settle, the debate over how the pandemic began. 
  <p class="updated_time"> 08:23 PM CT, Nov. 18 </p> 
@@ -200,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/cruz-china-olympics-diplomatic-boycott-523143">Cruz urges diplomatic boycott of Winter Olympics in China</a> Politico: The Texas Republican criticized China for its handling of tennis player Peng Shuai’s sexual assault accusations against a former top official. 
  <p class="updated_time"> 12:42 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/buttigieg-denies-rivalry-harris-523142">'No time for parlor games': Buttigieg denies rivalry with Harris</a> Politico: The Transportation secretary denied any strains on his dealings with the vice president and dismissed developing narratives on a rivalry between the two. 
  <p class="updated_time"> 12:13 PM CT, Nov. 21 </p> 
@@ -334,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/technology/jonathan-kanter-google.html">Google questions if Jonathan Kanter can be impartial.</a> NYT: Jonathan Kanter, who was confirmed by the Senate earlier this week as the assistant attorney general for antitrust, has been a longtime behind-the-scenes player in building arguments against tech giants. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
- <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
