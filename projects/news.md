@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:28 PM CT, Nov. 21 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
- <p class="updated_time"> 08:40 AM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59358172?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Calls for calm after US teen cleared of murder</a> BBC: Families say justice is needed "not more violence" after Kyle Rittenhouse is cleared of murder. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
  <p class="updated_time"> 07:48 AM CT, Nov. 20 </p> 
