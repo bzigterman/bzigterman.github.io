@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:30 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
+ <p class="updated_time"> 09:26 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: Prime Minister Abdalla Hamdok returned to power under a deal intended to end a bloody standoff that has led to dozens of protester deaths since his ouster last month. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 09:08 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
  <p class="updated_time"> 07:54 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057767258/israel-jerusalem-old-city-attack">A Palestinian assailant killed one and injured four others in Jerusalem's Old City</a> NPR: Israeli police said the attack took place near an entrance to a contested flashpoint shrine known to Jews as the Temple Mount and to Muslims as the Noble Sanctuary. 
- <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Sudan’s Military Frees Prime Minister Held for Weeks After Coup</a> NYT: The move, which should allow Prime Minister Abdalla Hamdok to return to power, is part of a deal to end a bloody standoff that has led to dozens of protester deaths since he was ousted last month. 
  <p class="updated_time"> 07:22 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -40,11 +44,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
+ <a href="https://www.nytimes.com/2021/11/21/world/us-china-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
- <p class="updated_time"> 01:47 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/18/world/national-guard-army-vaccine.html">The U.S. Army secretary to National Guard members who resist the vaccines: Prepare for discipline.</a> NYT: Remaining unvaccinated could cost soldiers promotions, bonuses or even their jobs. 
  <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
- <p class="updated_time"> 02:32 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/europe/forest-evidence-debris.html">Elusive Migrants Leave Haunting Traces in Polish Forests</a> NYT: The migrants, themselves are elusive, but they leave behind evidence of the lives they left behind, and of their desperate bids to reach the European Union. 
  <p class="updated_time"> 09:50 AM CT, Nov. 18 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/europe/covid-salzburg-austria-lockdowns.html">2 Austrian States, Including Salzburg, to Impose Covid Lockdowns</a> NYT: The state, along with neighboring Upper Austria, will apply the restrictions to everyone regardless of inoculation status. The moves come in the wake of national rules affecting unvaccinated people. 
 
@@ -200,10 +200,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
+ <p class="updated_time"> 09:33 AM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057630022/as-georgia-grows-more-democratic-its-members-of-congress-will-not">As Georgia grows more Democratic, its members of Congress will not</a> NPR: Facing political and demographic changes in the state over the last decade, Republicans in Georgia used redistricting to expand representation in Congress while ceding ground in the state legislature. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 09:01 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/infrastructure-broadband-internet-access/index.html">How the infrastructure package could fix rural America's internet problems</a> CNN: Jamie Ritter can't connect to the internet from his home in Denmark, Maine, which is at the end of a road, down a dirt driveway and too far away from existing infrastructure. 
- <p class="updated_time"> 08:46 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 07:43 AM CT, Nov. 21 </p> 
@@ -217,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759705/far-right-extremists-herald-kyle-rittenhouses-acquittal">Far right extremists herald Kyle Rittenhouse's acquittal</a> NPR: Right-wing extremists have continued to use Kyle Rittenhouse in their messaging, with new themes emerging since his acquittal last week. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/usa-congo-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
+ <a href="https://www.nytimes.com/2021/11/21/world/us-china-cobalt.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html">Manchin and Sinema Find Financial Support From G.O.P. Donors</a> NYT: The two Democratic senators are attracting campaign contributions from business interests and conservatives as progressives fume over their efforts to pare back the president’s domestic policy bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
  <p class="updated_time"> 09:25 AM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057199952/gop-leader-mccarthy-spoke-for-more-than-8-hours-to-delay-passage-of-spending-bil">GOP leader McCarthy spoke for more than 8 hours to delay passage of spending bill</a> NPR: The so-called magic moment went on for quite a bit longer than that. During his speech, the GOP leader attacked Speaker Pelosi and the bill but ultimately failed to prevent its passage. 
- <p class="updated_time"> 09:13 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057226411/harris-will-be-the-1st-woman-and-asian-american-to-hold-presidential-power-brief">White House doctor gives Biden a good bill of health</a> NPR: The White House physician raised concerns about the increasing frequency and severity of President Biden's "throat clearing" during speeches and worsening gait, but overall found him "fit for duty." 
  <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
@@ -450,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
- <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
 
