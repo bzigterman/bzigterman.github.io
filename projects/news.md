@@ -15,8 +15,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 10:52 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59370521?at_medium=RSS&at_campaign=KARANGA">China downgrades diplomatic ties with Lithuania over Taiwan row</a> BBC: Lithuania allowed Taiwan to open a de facto embassy in its country, a move which has angered China. 
- <p class="updated_time"> 10:25 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59370203?at_medium=RSS&at_campaign=KARANGA">Australia to ease border ban on some foreign citizens</a> BBC: Among those prioritised are international students, skilled migrants, South Koreans and Japanese. 
  <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342011?at_medium=RSS&at_campaign=KARANGA">Police charge Amazon India executives in drug smuggling case</a> BBC: It comes after two men allegedly used the company's website as part of a drug smuggling operation. 
  <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
@@ -55,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
+ <p class="updated_time"> 04:53 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59369388?at_medium=RSS&at_campaign=KARANGA">Lyon v Marseille abandoned as Dimitri Payet hit by bottle</a> BBC: Sunday's Ligue 1 game between Lyon and Marseille is abandoned after Dimitri Payet is hit by a bottle thrown from the stands five minutes into the game. 
  <p class="updated_time"> 04:19 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
