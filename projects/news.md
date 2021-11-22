@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:36 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
+ <p class="updated_time"> 10:40 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
+ <p class="updated_time"> 10:17 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59378548?at_medium=RSS&at_campaign=KARANGA">Germany Covid: Health minister's stark warning to get jabbed</a> BBC: As Germany struggles with a fourth wave, the health minister gives a stark warning to get jabbed. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">What we know about the Waukesha Christmas Parade incident</a> NPR: At least five people are dead and more than 40 others are injured after the driver of a red SUV tore through a crowd of revelers on Sunday. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 09:10 AM CT, Nov. 22 </p> 
@@ -16,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:09 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:55 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public venues</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
@@ -29,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
+ <p class="updated_time"> 05:20 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
@@ -53,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">'I never expected my wedding song to be a global hit'</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
- <p class="updated_time"> 12:01 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
@@ -89,10 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 03:45 PM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-threatens-centrist-legacy-11637510400">Chile's Presidential Election Upends Centrist Legacy</a> WSJ: Voters in a country long led by business-friendly moderates choose two candidates on polar ends of the political spectrum. 
- <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
- <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Freed</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
- <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 01:21 PM CT, Nov. 19 </p> 
@@ -188,12 +188,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
+ <p class="updated_time"> 10:32 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
+ <p class="updated_time"> 10:31 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
+ <p class="updated_time"> 10:19 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the Obama Foundation and was one in a series of splashy donations by Mr. Bezos, one of the world’s richest men, in recent months. 
  <p class="updated_time"> 10:03 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Michael Cohen's house arrest to end Monday</a> CNN: Michael Cohen is about to be a free man. 
- <p class="updated_time"> 09:46 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
+ <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Former Trump attorney Michael Cohen is a free man and vows to cooperate with law enforcement</a> CNN: Michael Cohen is about to be a free man. 
  <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
  <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
@@ -203,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
  <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try and get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce more venerable. 
+ <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try and get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce vulnerable. 
  <p class="updated_time"> 08:36 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/covid-vaccine-booster-masks-travel-what-matters/index.html">Covid-19 mixed messaging continues as US enters the booster era</a> CNN: Cases are going up. Hospitalizations are too. Depending on where you live, mask mandates are either being dropped or enacted. Vaccines are more available than ever, but hesitancy remains a real problem. Experimental drugs are showing promise as well, yet regulatory approval takes time. 
  <p class="updated_time"> 08:35 AM CT, Nov. 22 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/peng-olympics-china-tennis-523144">Olympic officials: Chinese tennis star Peng says she is safe</a> Politico: Peng Shuai “thanked the IOC for its concern about her well-being,” the Olympic body said. 
  <p class="updated_time"> 01:29 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cruz-china-olympics-diplomatic-boycott-523143">Cruz urges diplomatic boycott of Winter Olympics in China</a> Politico: The Texas Republican criticized China for its handling of tennis player Peng Shuai’s sexual assault accusations against a former top official. 
- <p class="updated_time"> 01:17 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/article/build-back-better-explained.html">What's in Build Back Better, Biden's Social Policy and Climate Plan</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
  <p class="updated_time"> 01:11 PM CT, Nov. 21 </p> 
@@ -289,8 +293,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">New GOP weed approach: Feds must ‘get out of the way’</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
- <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759712/after-rittenhouse-verdict-activists-fear-for-their-safety-at-future-demonstratio">After Rittenhouse verdict, activists fear for their safety at future demonstrations</a> NPR: The Rittenhouse verdict may change the tactics and dynamics of social justice protesters going forward. 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 11:00 AM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/pentagon-climate-change-warning/index.html">Senior Pentagon official warns the US military is 'not ready' for climate change</a> CNN: A senior Pentagon official warned the US military is "not ready" to handle climate change, a national security issue that touches nearly every aspect of Defense Department planning. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
@@ -352,10 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 06:22 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
- <p class="updated_time"> 06:08 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Boosted, Not Basted: Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
- <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
@@ -426,6 +422,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
+ <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
