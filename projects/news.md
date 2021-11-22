@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59371755?at_medium=RSS&at_campaign=KARANGA">Andhra Pradesh floods: At least 30 dead and thousands displaced in floods</a> BBC: Heavy flooding in Andhra Pradesh state has devastated several villages and towns. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
+ <p class="updated_time"> 12:01 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
@@ -73,8 +75,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/chiles-presidential-election-threatens-centrist-legacy-11637510400">Chile's Presidential Election Upends Centrist Legacy</a> WSJ: Voters in a country long led by business-friendly moderates choose two candidates on polar ends of the political spectrum. 
  <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
+ <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/advanced-maneuver-in-china-hypersonic-missile-test-shows-new-military-capability-11637545843">Advanced Maneuver in China Missile Test Shows New Military Capability</a> WSJ: A hypersonic missile test China carried out last summer involved a sophisticated maneuver in which a projectile was fired from the system during the flight. 
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
- <p class="updated_time"> 08:35 AM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/migrants-at-belarus-poland-border-face-returning-home-or-continuing-their-quest-to-go-west-11637523341">Migrants at Belarus-Poland Border Face Returning Home or Continuing Their Quest to Go West</a> WSJ: Hope is waning for many migrants that Poland will allow a humanitarian corridor to be opened to travel to the West. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
  <p class="updated_time"> 08:12 AM CT, Nov. 21 </p> 
@@ -117,12 +121,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 04:38 AM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59364799?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: What went wrong at Man Utd?</a> BBC: Ole Gunnar Solskjaer leaves Old Trafford after a slump in form - but was it all down to him? 
- <p class="updated_time"> 03:00 AM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/venezuelan-opposition-unable-to-topple-maduro-turns-to-elections-11637503201">Venezuelan Opposition, Unable to Topple Maduro, Turns to Elections</a> WSJ: The Venezuelan opposition has tried everything to oust President Maduro, from working to trigger a revolt to forcing him out by naming an interim president. Now there is a new strategy: participating in elections. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/afghan-refugees-us-military-visa-11637450916">Afghan Evacuees Could Wait Years for Chance to Reach U.S.</a> WSJ: Albania, Chile and Uganda are among the nations that are temporarily sheltering evacuees seeking to come to America. 
- <p class="updated_time"> 11:40 PM CT, Nov. 20 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 06:04 PM CT, Nov. 20 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
