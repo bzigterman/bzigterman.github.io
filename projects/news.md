@@ -8,7 +8,11 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be barred from basic services</a> BBC: From 21 December, no-one will be able to use public transport if they are not fully vaccinated. 
+ <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
+ <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:53 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59369388?at_medium=RSS&at_campaign=KARANGA">Lyon v Marseille abandoned as Dimitri Payet hit by bottle</a> BBC: Sunday's Ligue 1 game between Lyon and Marseille is abandoned after Dimitri Payet is hit by a bottle thrown from the stands five minutes into the game. 
- <p class="updated_time"> 04:19 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
  <p class="updated_time"> 03:45 PM CT, Nov. 21 </p> 
@@ -188,12 +190,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
+ <p class="updated_time"> 04:19 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Michael Cohen's house arrest to end Monday</a> CNN: Michael Cohen is about to be a free man. 
  <p class="updated_time"> 04:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886226/u-s-senators-call-for-a-national-commission-to-probe-the-start-of-the-pandemic">U.S. senators call for a national commission to probe the start of the pandemic</a> NPR: NPR's Rachel Martin talks to GOP Sen. Roger Marshall and Democratic Sen. Kirsten Gillibrand about a bipartisan group pushing for a commission to investigate the origins and response to COVID-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057484060/today-is-the-deadline-for-federal-workers-to-be-vaccinated">Today is the deadline for federal workers to be vaccinated</a> NPR: The White House says no disruptions to government operations are expected from the mandate, which President Biden issued in September. Federal contractors have a January deadline. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1056137909/as-the-gop-eyes-virginia-swing-district-is-the-biden-agenda-enough-for-democrats">As the GOP eyes Virginia swing district, is the Biden agenda enough for Democrats?</a> NPR: Republicans are targeting Virginia's 7th Congressional District, currently represented by Democratic Rep. Abigail Spanberger, in next year's midterm elections. 
+ <p class="updated_time"> 12:04 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/rittenhouse-politics-divided-nation-biden-trump-orourke/index.html">Rittenhouse is latest symbol of a nation divided on guns, crime and protest</a> CNN: Three days after his acquittal in a polarizing case in Wisconsin, Kyle Rittenhouse is now a teenaged avatar for a nation divided over the nature of justice, the societal role of guns and violence in political discourse. 
  <p class="updated_time"> 11:31 PM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden briefed on deadly Wisconsin parade incident as White House and lawmakers offer condolences</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
@@ -222,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/build-back-better-explained.html">What's in Build Back Better, Biden's Social Policy and Climate Plan</a> NYT: The package includes $400 billion to bolster support for children and families, $555 billion for climate change programs and $166 billion in housing aid. 
  <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
+ <p class="updated_time"> 01:11 PM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/chuck-schumer-build-back-better-manchin-sinema/index.html">Schumer says Democrats will negotiate with Manchin and Sinema on Build Back Better plan and wants bill done by Christmas</a> CNN: Senate Democrats will try to negotiate with moderate Sens. Joe Manchin and Kyrsten Sinema to address their disagreements on the size and scope of President Joe Biden's economic package as it heads to the chamber, Senate Majority Leader Chuck Schumer said Sunday. 
  <p class="updated_time"> 01:09 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 12:42 PM CT, Nov. 21 </p> 
@@ -232,14 +240,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/sununu-washington-screwed-up-523140">Washington 'is screwed up,' New Hampshire governor laments</a> Politico: “They focus on the wrong things. They don't talk about balancing budgets. They don't talk about fixing health care, immigration reform," Gov. Chris Sununu said. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
+ <p class="updated_time"> 11:14 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/pete-buttigieg-kamala-harris-rivalry/index.html">Buttigieg tamps down narrative that there's a rivalry with Harris: 'We're too busy with a job to do'</a> CNN: Transportation Secretary Pete Buttigieg on Sunday tried to tamp down the idea that he and Vice President Kamala Harris are starting to quietly compete to be the future standard-bearer of the Democratic Party, saying their focuses are on their roles in the nearly year-old Biden administration. 
  <p class="updated_time"> 11:00 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 10:58 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/kissinger-china-taiwan-summit-biden-523139">Kissinger doesn’t see China as an immediate military threat to Taiwan</a> Politico: He also lauded President Joe Biden for trying to lower the temperature of the U.S.-China relationship. 
+ <p class="updated_time"> 10:40 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/winsome-sears-infrastructure-law-cnntv/index.html">GOP Virginia lieutenant governor-elect expresses concern over rural broadband access under infrastructure law</a> CNN: Winsome Sears, Virginia's lieutenant governor-elect, expressed the importance of rural broadband access and her concerns over how funds allocated for broadband access in the newly signed infrastructure law would help Virginians, especially in the southwestern part of the state. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
+ <p class="updated_time"> 10:09 AM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/beto-orourke-texas-governor-election-greg-abbott-cnntv/index.html">Beto O'Rourke declines to invite Biden to campaign with him in Texas</a> CNN: Beto O'Rourke, who announced his campaign for Texas governor last week, declined to invite President Joe Biden to campaign alongside him, pushing a message of nonpartisan unity in his upcoming bid for the highest office in Texas. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
@@ -270,20 +284,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 05:38 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/pelosi-democrats-biden-agenda.html">How Nancy Pelosi Got Biden's Build Back Better Bill Back on Track</a> NYT: The House’s approval of a sweeping social policy bill after weeks of fits and starts notched another win for the speaker in a career defined by them. 
- <p class="updated_time"> 05:26 PM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/fact-check-kevin-mccarthy-marathon-house-speech/index.html">Fact-checking false claims from Minority leader Kevin McCarthy's marathon House speech</a> CNN: House Minority Leader Kevin McCarthy gave the longest House floor speech in US history on Thursday night and Friday morning -- an 8-hour, 32-minute address that delayed the passage of a $1.9 trillion Democratic bill to expand the social safety net and fight the climate crisis. 
  <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
- <p class="updated_time"> 02:01 PM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/eddie-bernice-johnson-congress-retirement/index.html">Trailblazing Rep. Eddie Bernice Johnson to retire from Congress after serving nearly 30 years</a> CNN: Democratic Rep. Eddie Bernice Johnson of Texas announced her retirement Saturday afternoon after serving nearly 30 years in Congress, according to a statement from House Speaker Nancy Pelosi. 
  <p class="updated_time"> 01:00 PM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html">Young progressives warn that Democrats could have a youth voter problem in 2022</a> CNN: With less than one year until the 2022 midterm elections, young voters -- who turned out in high numbers for President Joe Biden in 2020 -- warn that if the Biden administration and congressional Democrats don't act now on issues important to young progressives, they could risk alienating the demographic. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/pentagon-climate-change-warning/index.html">Senior Pentagon official warns the US military is 'not ready' for climate change</a> CNN: A senior Pentagon official warned the US military is "not ready" to handle climate change, a national security issue that touches nearly every aspect of Defense Department planning. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
@@ -294,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/social-security-minimum-wage-food-stamps-congress/index.html">These boosts will put more money in people's pockets regardless of what Congress does</a> CNN: While Senate Democrats negotiate what to include in the party's sweeping $1.9 trillion budget reconciliation package, the price of almost everything is on the rise -- or at least feels like it is. 
  <p class="updated_time"> 08:01 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
- <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/democrat-republican-hate-tribalism/index.html">Statistically, Democrats and Republicans hate each other more than ever</a> CNN: It's nothing new to say that members of the Democratic Party and the Republican Party don't see eye to eye. After all, there's a reason they belong to different political parties. 
  <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
@@ -316,6 +326,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
+ <p class="updated_time"> 05:02 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/us/redneck-shop-south-carolina-race-deconstructed-newsletter/index.html">The Redneck Shop was a hub for the KKK. Years after the store's closure, a Southern city is reckoning with this history</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
@@ -324,18 +336,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 06:22 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
- <p class="updated_time"> 06:17 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/new-york-cuomo-impeachment-report/index.html">Impeachment report on former NY Gov. Andrew Cuomo to be released in coming days</a> CNN: A report detailing the findings of an impeachment investigation into former New York Gov. Andrew Cuomo is expected to be released to the public in the coming days, according to two members of the New York State Assembly Judiciary Committee. 
  <p class="updated_time"> 06:08 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Boosted, Not Basted: Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
  <p class="updated_time"> 06:07 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057478725/far-right-groups-rittenhouse-acquittal-celebration-violence">For far-right groups, Rittenhouse's acquittal is a cause for celebration</a> NPR: One expert fears that the acquittal of Kyle Rittenhouse will embolden people to seek out altercations where it could be possible to make claims of self-defense. 
- <p class="updated_time"> 05:00 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/ohio-senate-race/index.html">Ohio Republicans tie themselves to Trump's rhetoric as they vie for Senate seat</a> CNN: Ohio's crowded Republican Senate primary has become a battle over who most can align themselves with former President Donald Trump. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
- <p class="updated_time"> 04:13 PM CT, Nov. 19 </p> 
- <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -370,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
- <p class="updated_time"> 06:15 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/mark-meadows-january-6-committee/index.html">January 6 committee's interest in Meadows goes beyond conversations with Trump</a> CNN: Members of the House committee investigating January 6 said on Thursday that many of the questions they have for former White House chief of staff Mark Meadows have nothing to do with then-President Donald Trump -- suggesting that the panel is still open to discussing the terms of a potential interview. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
@@ -400,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
- <p class="updated_time"> 08:00 PM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/trump-republican-candidates-2022/index.html">For the GOP now, all roads lead to Donald Trump</a> CNN: Sometimes, during a busy week in Washington, a recap is in order. So let's take stock of the Trump GOP for a moment: 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
