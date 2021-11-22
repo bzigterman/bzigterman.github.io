@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
+ <p class="updated_time"> 11:17 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 10:40 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
- <p class="updated_time"> 10:27 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 10:17 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59378548?at_medium=RSS&at_campaign=KARANGA">Germany Covid: Health minister's stark warning to get jabbed</a> BBC: As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated. 
  <p class="updated_time"> 10:14 AM CT, Nov. 22 </p> 
@@ -35,7 +37,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
- <p class="updated_time"> 06:07 AM CT, Nov. 22 </p> 
+ <p class="updated_time"> 06:20 AM CT, Nov. 22 </p> 
  <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 05:41 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59331695?at_medium=RSS&at_campaign=KARANGA">Chile presidential poll goes into polarising run-off</a> BBC: Voters will have to choose between far-right candidate José Antonio Kast and left-winger Gabriel Boric. 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chiles-presidential-election-threatens-centrist-legacy-11637510400">Chile's Presidential Election Upends Centrist Legacy</a> WSJ: Voters in a country long led by business-friendly moderates choose two candidates on polar ends of the political spectrum. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Freed</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
- <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
  <p class="updated_time"> 01:59 PM CT, Nov. 21 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
- <p class="updated_time"> 01:21 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
@@ -188,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
  <p class="updated_time"> 10:56 AM CT, Nov. 22 </p> 
@@ -352,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 06:22 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
