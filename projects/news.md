@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be barred from basic services</a> BBC: From 21 December, no-one will be able to use public transport if they are not fully vaccinated. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be barred from basic services</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
@@ -19,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:53 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
+ <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59372518?at_medium=RSS&at_campaign=KARANGA">American Music Awards: BTS and Taylor Swift take top awards</a> BBC: The K-pop band win artist of the year, while Taylor Swift picks up a record-breaking 34th award. 
  <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
@@ -184,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
@@ -446,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
 
 
 </details>
