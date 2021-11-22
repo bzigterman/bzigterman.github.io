@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:49 AM CT, Nov. 22 </p> 
+ <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
+ <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:40 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public spaces</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
- <p class="updated_time"> 07:22 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:02 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
+ <p class="updated_time"> 02:48 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-is-expanding-its-effort-to-launch-weapons-from-hypersonic-missiles-11637588925">China Is Expanding Its Effort to Launch Weapons from Hypersonic Missiles</a> WSJ: No other country has demonstrated the ability to launch projectiles from hypersonic glide vehicles, suggesting that an earlier test by China this summer is part of a program to create new threats for U.S. missile defenses. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
  <p class="updated_time"> 02:02 AM CT, Nov. 22 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chiles-presidential-election-threatens-centrist-legacy-11637510400">Chile's Presidential Election Upends Centrist Legacy</a> WSJ: Voters in a country long led by business-friendly moderates choose two candidates on polar ends of the political spectrum. 
  <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
- <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/advanced-maneuver-in-china-hypersonic-missile-test-shows-new-military-capability-11637545843">Advanced Maneuver in China Missile Test Shows New Military Capability</a> WSJ: A hypersonic missile test China carried out last summer involved a sophisticated maneuver in which a projectile was fired from the system during the flight. 
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
@@ -117,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
- <p class="updated_time"> 08:12 AM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-star-peng-shuai-appears-in-beijing-amid-assault-claim-11637501193">Chinese Tennis Star Peng Shuai Appears in Beijing Amid Assault Claim</a> WSJ: She joins a 30-minute video meeting with the president of the International Olympic Committee hours after footage showed her attending, but not speaking at, a tennis tournament. 
  <p class="updated_time"> 07:54 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057767258/israel-jerusalem-old-city-attack">A Palestinian assailant killed one and injured four others in Jerusalem's Old City</a> NPR: Israeli police said the attack took place near an entrance to a contested flashpoint shrine known to Jews as the Temple Mount and to Muslims as the Noble Sanctuary. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -188,6 +186,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
+ <p class="updated_time"> 07:41 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House to announce 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
- <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
@@ -424,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
- <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
