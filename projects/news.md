@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:11 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 07:26 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown despite protests</a> BBC: Unrest has spread across the continent as countries bring in measures to curb infections. 
- <p class="updated_time"> 07:17 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China tennis star claims to be safe in call with Olympic official</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
