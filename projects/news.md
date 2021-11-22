@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Five dead after car ploughs into Wisconsin parade</a> BBC: A car drives into a Christmas parade in the city of Waukesha, hitting dozens including children. 
+ <p class="updated_time"> 02:02 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 01:41 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59371755?at_medium=RSS&at_campaign=KARANGA">Andhra Pradesh floods: At least 30 dead and thousands displaced in floods</a> BBC: Heavy flooding in Andhra Pradesh state has devastated several villages and towns. 
- <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Five dead after car ploughs into Wisconsin parade</a> BBC: A car drives into a Christmas parade in the city of Waukesha, hitting dozens including children. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
@@ -64,7 +68,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
+ <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Freed</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 01:00 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
- <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
  <p class="updated_time"> 11:52 AM CT, Nov. 21 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
- <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
