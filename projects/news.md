@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
+ <p class="updated_time"> 03:47 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes SPR crude oil release in coming days</a> Politico: The administration is currently trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/us/politics/jan-6-trump-files.html">Court Urged to Let Jan. 6 Panel See Trump White House Files</a> NYT: In appellate briefs, lawyers for the House and the Justice Department argued against the former president’s claim of executive privilege. 
  <p class="updated_time"> 12:29 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/florida-biden-hhs-vaccine-mandate/index.html">Judge declines Florida request to immediately block Biden HHS vaccine rule for health care workers</a> CNN: A federal judge said this weekend that she would not block the Biden administration's vaccine mandate for health care workers while a Florida lawsuit challenging the mandate moves forward. 
- <p class="updated_time"> 12:28 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the Obama Foundation and was one in a series of splashy donations by Mr. Bezos, one of the world’s richest men, in recent months. 
  <p class="updated_time"> 12:22 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-custody/index.html">GOP Senate candidate Sean Parnell's estranged wife wins custody dispute amid abuse allegations</a> CNN: Laurie Snell -- the estranged wife of Pennsylvania GOP Senate candidate Sean Parnell -- was awarded primary physical custody and sole legal custody of the couple's three children, according to a judge's order that was made public Monday. 
  <p class="updated_time"> 12:08 PM CT, Nov. 22 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
- <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
