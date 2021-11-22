@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128868/haiti-gang-has-released-2-of-the-17-foreign-christian-missionaries-they-kidnappe">Haiti gang has released 2 of the 17 foreign Christian missionaries they kidnapped</a> NPR: Gang members in Haiti released two of the 17 foreign missionaries they've been holding for more than a month. The move comes as police in Haiti are cracking down on the gangs. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128861/austria-enters-lockdown-as-covid-infections-rise">Austria enters lockdown as COVID infections rise</a> NPR: Austria has become the first European country to instate a vaccine mandate. Monday, it was the first to initiate a nation-wide lockdown during this surge, despite protests against the restrictions. 
+ <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59381928?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Waukesha Police Chief chokes up while naming Christmas parade incident victims</a> BBC: At least five people, aged between 52 and 81, were killed when a vehicle ploughed into a Christmas parade. 
+ <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Driver 'intentionally' mowed down people at parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 03:10 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
+ <p class="updated_time"> 03:08 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59378552?at_medium=RSS&at_campaign=KARANGA">Austrian Chancellor: 'You don’t only have rights, you have obligations'</a> BBC: Austria's chancellor regrets jabs will be mandatory, but current low rates are "too little, too late". 
  <p class="updated_time"> 03:05 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 02:26 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Police name victims after car ploughs into Waukesha Christmas parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:41 PM CT, Nov. 22 </p> 
@@ -87,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
- <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
@@ -173,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 04:59 PM CT, Nov. 19 </p> 
@@ -183,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
  <p class="updated_time"> 04:55 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
- <p class="updated_time"> 04:35 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
- <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
 
@@ -198,12 +198,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes SPR crude oil release in coming days</a> Politico: The administration is currently trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128889/white-house-council-of-economic-advisers-head-on-the-economic-issues-the-u-s-fac">White House Council of Economic Advisers head on the economic issues the U.S. faces</a> NPR: NPR's Ailsa Chang talks with Cecilia Rouse, chair of the White House Council of Economic Advisers, about President Biden's Federal Reserve nomination and the economic challenges the country is facing. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128839/president-biden-has-nominated-jerome-powell-to-remain-fed-chair">President Biden has nominated Jerome Powell to remain Fed chair</a> NPR: President Biden plans to re-nominate Jerome Powell to lead the Federal Reserve for four more years. Powell has steered the central bank through the pandemic recession. Now he must take on inflation. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 03:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
  <p class="updated_time"> 03:07 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
- <p class="updated_time"> 03:07 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 02:54 PM CT, Nov. 22 </p> 
@@ -342,12 +348,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can We Stop Wearing Masks?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
- <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057619717/blinken-in-senegal-for-wesat">U.S. Secretary of State Antony Blinken wraps up his Africa tour</a> NPR: U.S. Secretary of State Antony Blinken wraps up his Africa tour in Senegal at a very tense time in the region. There's a civil war in Ethiopia and military coup in Sudan. 
- <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057619696/durbin">Illinois Sen. Dick Durbin expects the Senate to pass spending bill by the end of 2021</a> NPR: Sen. Dick Durbin, a Democrat from Illinois, spoke with NPR about how Democrats plan to secure all 50 member votes needed to pass President Biden's $2.2 trillion social spending bill. 
- <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
