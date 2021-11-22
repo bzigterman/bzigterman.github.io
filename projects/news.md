@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 04:24 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
@@ -316,8 +318,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
  <p class="updated_time"> 07:30 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618813/week-in-politics-the-build-back-better-bill-is-moving-forward">Week in politics: The 'Build Back Better' bill is moving forward</a> NPR: We track the progress of the $2 trillion Build Back Better bill, which passed the House on Friday morning and is heading to the Senate for further negotation. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
  <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
