@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 10:26 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
  <p class="updated_time"> 10:25 PM CT, Nov. 21 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59368483?at_medium=RSS&at_campaign=KARANGA">El Salvador Bitcoin city planned at base of Conchagua volcano</a> BBC: Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says. 
- <p class="updated_time"> 11:57 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, one of the rising stars of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 11:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
