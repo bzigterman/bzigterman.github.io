@@ -194,12 +194,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:20 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-stone-jones-523193">Jan. 6 committee subpoenas Roger Stone and Alex Jones</a> Politico: The panel investigating the attack on the Capitol also targeted rally promoters Dustin Stockton and Jennifer Lawrence, and Trump spokesperson Taylor Budowich. 
  <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/ahmaud-arbery-closing-arguments-523210">Attorneys make final case to jurors in Ahmaud Arbery’s death</a> Politico: The arguments unfolded before a disproportionately white jury after 10 days of testimony. 
+ <p class="updated_time"> 04:45 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/strategic-petroleum-reserve-release-joe-biden/index.html">Biden hopes to announce decision to release oil from Strategic Petroleum Reserve, but needs an agreement from other nations</a> CNN: President Joe Biden hopes to announce his decision to release oil from the Strategic Petroleum Reserve on Tuesday during a speech at the White House, officials tell CNN, but the timing of such a move is still contingent on other nations finalizing their agreements. 
  <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-suspends-senate-campaign/index.html">Republican Sean Parnell suspends candidacy for Pennsylvania Senate seat </a> CNN: Sean Parnell, the Republican endorsed by former President Donald Trump for Pennsylvania's open US Senate seat, announced on Monday he is suspending his campaign. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
  <p class="updated_time"> 04:26 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:25 PM CT, Nov. 22 </p> 
@@ -212,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes Strategic Petroleum Reserves crude oil release in coming days</a> Politico: The administration is  trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
- <p class="updated_time"> 03:31 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/strategic-petroleum-reserve-release-joe-biden/index.html">Biden hopes to announce decision to release oil from Strategic Petroleum Reserve, but needs an agreement from other nations</a> CNN: President Joe Biden hopes to announce his decision to release oil from the Strategic Petroleum Reserve on Tuesday during a speech at the White House, officials tell CNN, but the timing of such a move is still contingent on other nations finalizing their agreements. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 03:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
- <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-suspends-senate-campaign/index.html">Republican Sean Parnell suspends candidacy for Pennsylvania Senate seat </a> CNN: Sean Parnell, the Republican endorsed by former President Donald Trump for Pennsylvania's open US Senate seat, announced on Monday he is suspending his campaign. 
  <p class="updated_time"> 03:07 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759754/politics-chat-democrats-champion-build-back-better-bill-while-republicans-decry-">Politics chat: Democrats champion Build Back Better bill while Republicans decry cost</a> NPR: Democrats struggle with the messaging over President Biden's economic agenda as the infrastructure bill becomes law and the Build Back Better bill advances to the Senate. 
- <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057759712/after-rittenhouse-verdict-activists-fear-for-their-safety-at-future-demonstratio">After Rittenhouse verdict, activists fear for their safety at future demonstrations</a> NPR: The Rittenhouse verdict may change the tactics and dynamics of social justice protesters going forward. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html">Manchin and Sinema Find Financial Support From G.O.P. Donors</a> NYT: The two Democratic senators are attracting campaign contributions from business interests and conservatives as progressives fume over their efforts to pare back the president’s domestic policy bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
