@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden briefed on deadly Wisconsin parade incident as White House and lawmakers offer condolences</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
- <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
