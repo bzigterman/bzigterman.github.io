@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:38 PM CT, Nov. 21 </p> 
+ <p class="updated_time"> 10:26 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
+ <p class="updated_time"> 10:25 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59370203?at_medium=RSS&at_campaign=KARANGA">Australia to ease border ban on some foreign citizens</a> BBC: Among those prioritised are international students, skilled migrants, South Koreans and Japanese. 
+ <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
  <p class="updated_time"> 09:12 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 08:35 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/migrants-at-belarus-poland-border-face-returning-home-or-continuing-their-quest-to-go-west-11637523341">Migrants at Belarus-Poland Border Face Returning Home or Continuing Their Quest to Go West</a> WSJ: Hope is waning for many migrants that Poland will allow a humanitarian corridor to be opened to travel to the West. 
- <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59365512?at_medium=RSS&at_campaign=KARANGA">Jerusalem shooting: Gunman kills one and wounds three in Old City</a> BBC: A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
  <p class="updated_time"> 08:12 AM CT, Nov. 21 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
- <p class="updated_time"> 06:08 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59331694?at_medium=RSS&at_campaign=KARANGA">Chile voters go to polls amid deep divisions</a> BBC: It is being billed as the most polarising election in decades and comes after divisive mass protests. 
  <p class="updated_time"> 06:04 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59352740?at_medium=RSS&at_campaign=KARANGA">Barcelona tackles roaming wild boar problem</a> BBC: Pop star Shakira is just one of the city's residents to have had problems with the animals. 
  <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
