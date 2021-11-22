@@ -33,10 +33,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
+ <p class="updated_time"> 03:22 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-is-expanding-its-effort-to-launch-weapons-from-hypersonic-missiles-11637588925">China Is Expanding Its Effort to Launch Weapons from Hypersonic Missiles</a> WSJ: No other country has demonstrated the ability to launch projectiles from hypersonic glide vehicles, suggesting that an earlier test by China this summer is part of a program to create new threats for U.S. missile defenses. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
- <p class="updated_time"> 02:48 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/china-is-expanding-its-effort-to-launch-weapons-from-hypersonic-missiles-11637588925">China Is Expanding Its Effort to Launch Weapons from Hypersonic Missiles</a> WSJ: No other country has demonstrated the ability to launch projectiles from hypersonic glide vehicles, suggesting that an earlier test by China this summer is part of a program to create new threats for U.S. missile defenses. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
  <p class="updated_time"> 02:02 AM CT, Nov. 22 </p> 
@@ -186,8 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:05 AM CT, Nov. 22 </p> 
+ <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
+ <p class="updated_time"> 08:18 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
+ <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1052741845/biden-reappoints-jerome-powell-as-federal-reserve">Biden reappoints Jerome Powell as Fed chairman at a critical time for the economy</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve, in a move that is likely to be welcomed by financial markets but opposed by some progressives. 
  <p class="updated_time"> 07:41 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House to announce 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
@@ -320,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/social-security-minimum-wage-food-stamps-congress/index.html">These boosts will put more money in people's pockets regardless of what Congress does</a> CNN: While Senate Democrats negotiate what to include in the party's sweeping $1.9 trillion budget reconciliation package, the price of almost everything is on the rise -- or at least feels like it is. 
  <p class="updated_time"> 08:01 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
- <p class="updated_time"> 08:00 AM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/global-planetary-defense-earth-asteroids-523072">Whose job is it to prevent Armageddon?</a> Politico: Calls grow for a global planetary defense strategy as thousands of near-Earth asteroids are discovered each year. 
  <p class="updated_time"> 07:59 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/health/covid-mask-mandate.html">When Can We Stop Wearing Masks?</a> NYT: Although the end of mask mandates is in sight, restrictions should remain in place through the holidays, experts say. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
  <p class="updated_time"> 06:08 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Boosted, Not Basted: Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
- <p class="updated_time"> 06:07 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057478725/far-right-groups-rittenhouse-acquittal-celebration-violence">For far-right groups, Rittenhouse's acquittal is a cause for celebration</a> NPR: One expert fears that the acquittal of Kyle Rittenhouse will embolden people to seek out altercations where it could be possible to make claims of self-defense. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
