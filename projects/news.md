@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 03:11 AM CT, Nov. 22 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html">Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe</a> NYT: The extraordinary step shows that governments desperate to safeguard public health and economic recoveries are increasingly willing to push for once unthinkable measures. 
  <p class="updated_time"> 04:35 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
- <p class="updated_time"> 04:32 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/asia/india-farmers-modi.html">Modi to Repeal India Farm Laws Following Protests</a> NYT: A bungled response to Covid and a struggling economy have hurt his party’s standing, leaving it vulnerable to a well-organized protest movement. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057484060/today-is-the-deadline-for-federal-workers-to-be-vaccinated">Today is the deadline for federal workers to be vaccinated</a> NPR: The White House says no disruptions to government operations are expected from the mandate, which President Biden issued in September. Federal contractors have a January deadline. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1056137909/as-the-gop-eyes-virginia-swing-district-is-the-biden-agenda-enough-for-democrats">As the GOP eyes Virginia swing district, is the Biden agenda enough for Democrats?</a> NPR: Republicans are targeting Virginia's 7th Congressional District, currently represented by Democratic Rep. Abigail Spanberger, in next year's midterm elections. 
  <p class="updated_time"> 11:31 PM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden briefed on deadly Wisconsin parade incident as White House and lawmakers offer condolences</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
@@ -344,16 +348,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
- <p class="updated_time"> 01:29 PM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057298058/biden-nominates-new-chair-for-postal-service-board-ousts-dejoys-allies">Biden nominates new chair for Postal Service Board, ousts DeJoy's allies</a> NPR: Biden nominated Daniel Tangherlini, a Democrat, to replace board Chair Ron Bloom, whose term is expiring. Bloom is also a Democrat, but has been a key ally of Louis DeJoy's. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/rittenhouse-not-guilty-in-kenosha-murder-case-523049">Rittenhouse not guilty in Kenosha fatal shootings</a> Politico: Rittenhouse, who was 17 at the time, argued he was acting in self-defense. 
  <p class="updated_time"> 12:17 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/army-covid-vaccinations/index.html">Army bars vaccine refusers from promotions and reenlistment as deadline approaches</a> CNN: With less than one month until the Army's deadline to vaccinate its active-duty force, the service will begin barring soldiers who refuse to be vaccinated against Covid-19 without an exemption from reenlistment, promotions, and other "favorable personnel actions." 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
- <p class="updated_time"> 10:28 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057211030/constitutiondao-constitution-auction-cryptocurrency">A crowd-funded group lost an auction for a first edition of the U.S. Constitution</a> NPR: The crowd-funded group ConstitutionDAO narrowly lost out in the hotly anticipated auction. The group had hoped to buy the rare historical document so it could be displayed for the public. 
  <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden 'fit for duty' after Harris is temporarily granted powers during medical procedure</a> Politico: The president underwent his annual physical at Walter Reed on Friday. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
