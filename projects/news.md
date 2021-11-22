@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown and Mandatory Vaccination Amid Covid Surge</a> NYT: Austria leads in imposing tough new rules, as Europe fights resistance to vaccines and restrictions. Soon, a German official warned, almost everyone will be “vaccinated, recovered or dead.” 
  <p class="updated_time"> 12:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 11:51 AM CT, Nov. 22 </p> 
@@ -204,8 +206,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/trump-white-house-papers-jan-6-523180">Release of Trump White House papers key to stopping 'future attacks on democracy,' Jan. 6 panel argues</a> Politico: The panel investigating the Capitol attack made its case to a three-judge federal appeals court panel on Monday. Trump is seeking to shield the documents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
- <p class="updated_time"> 12:35 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 12:46 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden mourns 5 killed and many others injured in Wisconsin parade incident</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
+ <p class="updated_time"> 12:43 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
+ <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/us/politics/jan-6-trump-files.html">Court Urged to Let Jan. 6 Panel See Trump White House Files</a> NYT: In appellate briefs, lawyers for the House and the Justice Department argued against the former president’s claim of executive privilege. 
  <p class="updated_time"> 12:33 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 12:29 PM CT, Nov. 22 </p> 
@@ -294,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
- <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
- <p class="updated_time"> 11:14 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/us/politics/guantanamo-torture-fbi-cia.html">F.B.I. Agents Became C.I.A. Operatives in Overseas Prisons</a> NYT: Lawyers disclosed the unusual arrangement in evidentiary hearings to prepare for the Sept. 11 trial at Guantánamo Bay. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
