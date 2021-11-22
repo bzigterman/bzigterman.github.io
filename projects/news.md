@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Car ploughs into Wisconsin parade</a> BBC: Police say more than 20 people were hurt after a red car drove into a parade in Waukesha. 
+ <p class="updated_time"> 07:35 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
+ <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
+ <a href="https://www.npr.org/2021/11/21/1057811586/in-a-video-call-chinese-tennis-star-peng-shuai-told-olympics-officials-shes-safe">In a video call, Chinese tennis star Peng Shuai told Olympics officials she's safe</a> NPR: Despite a video call between Peng Shuai and members of the Olympic Committee along with video of her attending events over the weekend, some remain concerned for the athlete's wellbeing. 
+ <p class="updated_time"> 07:27 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
+ <p class="updated_time"> 07:26 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown as protests rock Europe</a> BBC: Unrest has spread across the continent as countries bring back measures in a bid to curb infections. 
+ <p class="updated_time"> 07:17 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China tennis star claims to be safe in call with Olympic official</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 07:12 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
- <p class="updated_time"> 07:02 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Car ploughs into Wisconsin parade</a> BBC: Police say more than 20 people were hurt after a red car drove into a parade in Waukesha. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
@@ -41,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
- <p class="updated_time"> 02:28 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star tells Olympic officials she is safe</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
@@ -57,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
- <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Huge protests across Europe over new restrictions</a> BBC: Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
@@ -69,10 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
- <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
- <p class="updated_time"> 10:03 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
  <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
- <p class="updated_time"> 05:00 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1056894737/as-a-sea-of-lava-destroys-livelihoods-on-la-palma-it-also-offers-a-lifeline">As a sea of lava destroys livelihoods on La Palma, it also offers a lifeline</a> NPR: The lava and ash the Cumbre Vieja volcano has spewed for two months have consumed homes and forced thousands to flee. However, the rock formed by the lava will ultimately save the island from the sea. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
@@ -197,8 +197,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">SUV plows into Wisconsin Christmas parade; multiple injuries reported</a> Politico: A video feed of the parade from the city of Waukesha showed a red SUV breaking through barriers. 
- <p class="updated_time"> 06:21 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">More than 20 injured as SUV plows into Wisconsin Christmas parade</a> Politico: Chief Dan Thompson said the investigation was ongoing, but that a “suspect vehicle” was recovered. 
+ <p class="updated_time"> 07:12 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
@@ -208,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057815904/former-democrat-lawmaker-who-benefited-from-gerrymandering-sees-a-better-path">Former Democrat lawmaker who benefited from gerrymandering sees a better path</a> NPR: NPR's Michel Martin speaks with former U.S. Rep. Albert Wynn about redistricting efforts he was involved with in Maryland. 
  <p class="updated_time"> 03:32 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/halifax-democracy-america-allies-523147">‘No ground for cockiness’: Tough love for U.S. at pro-democracy conference</a> Politico: From Afghanistan to domestic extremism, the Halifax forum became a therapy session for allies concerned with America’s actions. 
+ <p class="updated_time"> 02:58 PM CT, Nov. 21 </p> 
+ <a href="https://www.cnn.com/2021/11/21/politics/biden-inflation-trump-china-tariffs/index.html">The inflation-fighting step Biden has yet to take </a> CNN: President Joe Biden has offered multiple responses to spiking inflation: investigating gas prices, smoothing supply chains, touting benefit programs. None offers Americans much immediate relief. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 01:57 PM CT, Nov. 21 </p> 
@@ -330,8 +332,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057478725/far-right-groups-rittenhouse-acquittal-celebration-violence">For far-right groups, Rittenhouse's acquittal is a cause for celebration</a> NPR: One expert fears that the acquittal of Kyle Rittenhouse will embolden people to seek out altercations where it could be possible to make claims of self-defense. 
  <p class="updated_time"> 05:00 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/ohio-senate-race/index.html">Ohio Republicans tie themselves to Trump's rhetoric as they vie for Senate seat</a> CNN: Ohio's crowded Republican Senate primary has become a battle over who most can align themselves with former President Donald Trump. 
- <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 04:13 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
  <p class="updated_time"> 10:34 AM CT, Nov. 17 </p> 
  <a href="https://www.cnn.com/2021/11/17/politics/biden-high-gas-prices-ftc-letter/index.html">Biden asks FTC to 'immediately' look into whether illegal conduct is pushing up gas prices </a> CNN: President Joe Biden asked the Federal Trade Commission on Wednesday to "immediately" investigate whether illegal activity by oil and gas companies is pushing up gas prices. 
- <p class="updated_time"> 08:25 AM CT, Nov. 17 </p> 
- <a href="https://www.cnn.com/2021/11/17/politics/infrastructure-bill-ad-campaign/index.html">Pro-Biden group to spend $10 million on high profile campaign touting infrastructure bill</a> CNN: Now that President Joe Biden has signed his highly sought-after infrastructure bill into law, it is time for Democrats to go out and sell the accomplishment. 
  <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 17 </p> 
