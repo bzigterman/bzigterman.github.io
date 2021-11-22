@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:06 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Five dead after car ploughs into Wisconsin parade</a> BBC: A car ploughs into a Christmas parade in the city of Waukesha, hitting dozens including children. 
+ <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Five dead after car ploughs into Wisconsin parade</a> BBC: A car drives into a Christmas parade in the city of Waukesha, hitting dozens including children. 
+ <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
+ <p class="updated_time"> 10:52 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59370521?at_medium=RSS&at_campaign=KARANGA">China downgrades diplomatic ties with Lithuania over Taiwan row</a> BBC: Lithuania allowed Taiwan to open a de facto embassy in its country, a move which has angered China. 
  <p class="updated_time"> 10:25 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59370203?at_medium=RSS&at_campaign=KARANGA">Australia to ease border ban on some foreign citizens</a> BBC: Among those prioritised are international students, skilled migrants, South Koreans and Japanese. 
+ <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59342011?at_medium=RSS&at_campaign=KARANGA">Police charge Amazon India executives in drug smuggling case</a> BBC: It comes after two men allegedly used the company's website as part of a drug smuggling operation. 
  <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
  <p class="updated_time"> 09:12 PM CT, Nov. 21 </p> 
@@ -49,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 04:27 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59364349?at_medium=RSS&at_campaign=KARANGA">Sudan's military reinstates ousted civilian PM Hamdok</a> BBC: Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role. 
  <p class="updated_time"> 04:19 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59368718?at_medium=RSS&at_campaign=KARANGA">Covid: Water cannons and tear gas fired at protesters in Belgium</a> BBC: Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe. 
- <p class="updated_time"> 12:10 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59368483?at_medium=RSS&at_campaign=KARANGA">El Salvador Bitcoin city planned at base of Conchagua volcano</a> BBC: Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says. 
  <p class="updated_time"> 11:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/myanmar-defectors-coup.html">Myanmar's Notorious Army Is Facing a Morale Crisis</a> NYT: The number of defectors, while not enough to topple the Tatmadaw, is growing, galvanized by the nationwide anti-coup movement. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/19/1057188986/photos-the-historic-partial-lunar-eclipse-around-the-world">PHOTOS: The historic partial lunar eclipse around the world</a> NPR: The lunar event was the longest partial lunar eclipse in 580 years. Almost the entire moon — 99.1% — was cast under the earth's shadow. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
- <p class="updated_time"> 07:08 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate">Austria will enter lockdown and make COVID-19 vaccines mandatory</a> NPR: The chancellor said details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. 
  <p class="updated_time"> 06:50 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/asia/cambodia-fully-vaccinated-tourists.html">Cambodia Reopens for Fully Vaccinated Travelers</a> NYT: Tourism-dependent businesses have struggled to make ends meet without visitors. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
