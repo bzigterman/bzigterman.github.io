@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:25 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 01:41 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
+ <p class="updated_time"> 01:40 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Police name victims after car ploughs into Waukesha Christmas parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
+ <p class="updated_time"> 01:40 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 01:09 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown and Mandatory Vaccination Amid Covid Surge</a> NYT: Austria leads in imposing tough new rules, as Europe fights resistance to vaccines and restrictions. Soon, a German official warned, almost everyone will be “vaccinated, recovered or dead.” 
- <p class="updated_time"> 12:21 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
@@ -37,6 +39,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:55 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
+ <p class="updated_time"> 08:47 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
+ <p class="updated_time"> 08:42 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/venezuelas-ruling-party-sweeps-local-and-regional-elections-11637597871">Venezuela's Ruling Party Sweeps Local and Regional Elections</a> WSJ: The opposition participated for the first time since 2017, but President Nicolás Maduro’s party won all but three of 23 state governorships. 
  <p class="updated_time"> 08:18 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59331696?at_medium=RSS&at_campaign=KARANGA">Cuba congratulates Venezuela on poll before result was out</a> BBC: Cuba's president tweeted about the results before there had been an official announcement. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:51 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
- <p class="updated_time"> 07:25 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
  <p class="updated_time"> 06:20 AM CT, Nov. 22 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
- <p class="updated_time"> 05:17 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/venezuelas-ruling-party-sweeps-local-and-regional-elections-11637597871">Venezuela's Ruling Party Sweeps Local and Regional Elections</a> WSJ: The opposition participated for the first time since 2017, but Maduro’s party won all but three of 23 state governorships. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
- <p class="updated_time"> 07:35 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057811586/in-a-video-call-chinese-tennis-star-peng-shuai-told-olympics-officials-shes-safe">In a video call, Chinese tennis star Peng Shuai told Olympics officials she's safe</a> NPR: Despite a video call between Peng Shuai and members of the Olympic Committee along with video of her attending events over the weekend, some remain concerned for the athlete's wellbeing. 
  <p class="updated_time"> 07:27 PM CT, Nov. 21 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:46 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:21 PM CT, Nov. 22 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-custody/index.html">GOP Senate candidate Sean Parnell's estranged wife wins custody dispute amid abuse allegations</a> CNN: Laurie Snell -- the estranged wife of Pennsylvania GOP Senate candidate Sean Parnell -- was awarded primary physical custody and sole legal custody of the couple's three children, according to a judge's order that was made public Monday. 
  <p class="updated_time"> 12:08 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/chris-christie-donald-trump-axe-files/index.html">Chris Christie says 2020 election lies were his 'red line' with Trump</a> CNN: Former New Jersey Gov. Chris Christie said Donald Trump's lies about the 2020 election results were a "red line" for him, and that he has not spoken with the former President in nearly a year. 
- <p class="updated_time"> 12:02 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 11:48 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
