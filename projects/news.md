@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:38 AM CT, Nov. 22 </p> 
+ <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 03:11 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
@@ -41,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057811586/in-a-video-call-chinese-tennis-star-peng-shuai-told-olympics-officials-shes-safe">In a video call, Chinese tennis star Peng Shuai told Olympics officials she's safe</a> NPR: Despite a video call between Peng Shuai and members of the Olympic Committee along with video of her attending events over the weekend, some remain concerned for the athlete's wellbeing. 
  <p class="updated_time"> 07:27 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
- <p class="updated_time"> 07:26 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown despite protests</a> BBC: Unrest has spread across the continent as countries bring in measures to curb infections. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
