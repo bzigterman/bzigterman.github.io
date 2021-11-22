@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59295624?at_medium=RSS&at_campaign=KARANGA">TB Joshua's widow and the battle for his Nigerian church</a> BBC: Five months after the death of the prominent Nigerian televangelist, services have resumed. 
  <p class="updated_time"> 06:06 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59173478?at_medium=RSS&at_campaign=KARANGA">How should we teach children about climate change?</a> BBC: Experts say it's time for India's schools to start teaching climate change as a distinct subject. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173478?at_medium=RSS&at_campaign=KARANGA">Why schools are failing children on climate change</a> BBC: Experts say it's time for India's schools to start teaching climate change as a distinct subject. 
  <p class="updated_time"> 06:04 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
  <p class="updated_time"> 06:00 PM CT, Nov. 21 </p> 
