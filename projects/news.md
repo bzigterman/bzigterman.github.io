@@ -12,7 +12,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:27 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 10:17 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59378548?at_medium=RSS&at_campaign=KARANGA">Germany Covid: Health minister's stark warning to get jabbed</a> BBC: As Germany struggles with a fourth wave, the health minister gives a stark warning to get jabbed. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59378548?at_medium=RSS&at_campaign=KARANGA">Germany Covid: Health minister's stark warning to get jabbed</a> BBC: As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59340779?at_medium=RSS&at_campaign=KARANGA">Jerome Powell nominated to stay as US Federal Reserve chair</a> BBC: President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">What we know about the Waukesha Christmas Parade incident</a> NPR: At least five people are dead and more than 40 others are injured after the driver of a red SUV tore through a crowd of revelers on Sunday. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
@@ -23,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:55 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
+ <p class="updated_time"> 08:18 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59331696?at_medium=RSS&at_campaign=KARANGA">Cuba congratulates Venezuela on poll before result was out</a> BBC: Cuba's president tweeted about the results before there had been an official announcement. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
@@ -31,12 +35,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
+ <p class="updated_time"> 06:07 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
+ <p class="updated_time"> 05:41 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59331695?at_medium=RSS&at_campaign=KARANGA">Chile presidential poll goes into polarising run-off</a> BBC: Voters will have to choose between far-right candidate José Antonio Kast and left-winger Gabriel Boric. 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
- <p class="updated_time"> 05:20 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
@@ -55,16 +61,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
  <p class="updated_time"> 02:02 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
- <p class="updated_time"> 01:41 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59371755?at_medium=RSS&at_campaign=KARANGA">Andhra Pradesh floods: At least 30 dead and thousands displaced in floods</a> BBC: Heavy flooding in Andhra Pradesh state has devastated several villages and towns. 
  <p class="updated_time"> 01:38 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">'I never expected my wedding song to be a global hit'</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
- <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-59342011?at_medium=RSS&at_campaign=KARANGA">Police charge Amazon India executives in drug smuggling case</a> BBC: It comes after two men allegedly used the company's website as part of a drug smuggling operation. 
  <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
  <p class="updated_time"> 06:00 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59290301?at_medium=RSS&at_campaign=KARANGA">Beirut blast: UN ignored plea for port disaster evidence</a> BBC: Letters to the UN chief's office requesting key information have gone unanswered, the BBC has found. 
- <p class="updated_time"> 05:42 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59369676?at_medium=RSS&at_campaign=KARANGA">Justin Bieber urged to cancel Saudi show by Khashoggi's fiancee</a> BBC: The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia. 
  <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-custody/index.html">GOP Senate candidate Sean Parnell's estranged wife wins custody dispute amid abuse allegations</a> CNN: Laurie Snell -- the estranged wife of Pennsylvania GOP Senate candidate Sean Parnell -- was awarded primary physical custody and sole legal custody of the couple's three children, according to a judge's order that was made public Monday. 
  <p class="updated_time"> 10:32 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 10:31 AM CT, Nov. 22 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/biden-has-a-major-economic-decision-to-make-and-he-cant-seem-to-pull-the-trigger-523009">Biden has a major economic decision to make and he can’t seem to pull the trigger</a> Politico: The president spent decades in the Senate, where deliberation is viewed as a virtue. It shows. 
  <p class="updated_time"> 08:24 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/biden-olympics-beijing-boycott/index.html">Biden says he's considering US diplomatic boycott of Beijing Olympics</a> CNN: President Joe Biden confirmed on Thursday that he is mulling a US diplomatic boycott of the upcoming Winter Olympics in Beijing. 
- <p class="updated_time"> 07:04 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/ashley-etienne-kamala-harris/index.html">Kamala Harris' communications director is leaving the administration</a> CNN: Vice President Kamala Harris' communications director, Ashley Etienne, is leaving the administration, according to a White House official, to pursue "other opportunities." 
  <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
