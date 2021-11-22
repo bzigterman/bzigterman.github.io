@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:25 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Police name victims after car ploughs into Waukesha Christmas parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 01:09 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown and Mandatory Vaccination Amid Covid Surge</a> NYT: Austria leads in imposing tough new rules, as Europe fights resistance to vaccines and restrictions. Soon, a German official warned, almost everyone will be “vaccinated, recovered or dead.” 
  <p class="updated_time"> 12:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
- <p class="updated_time"> 11:51 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
- <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
