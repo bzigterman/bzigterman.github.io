@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:27 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 07:26 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown as protests rock Europe</a> BBC: Unrest has spread across the continent as countries bring in measures to curb infections. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown despite protests</a> BBC: Unrest has spread across the continent as countries bring in measures to curb infections. 
  <p class="updated_time"> 07:17 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China tennis star claims to be safe in call with Olympic official</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
