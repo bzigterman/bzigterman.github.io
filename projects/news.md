@@ -199,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">Police: ‘Some fatalities’ when SUV hit Christmas parade</a> Politico: Waukesha Chief Dan Thompson said more than 20 people were injured. 
+ <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">‘Some fatalities’ after SUV speeds into Christmas parade</a> Politico: A person was reported to be in custody. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
  <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
