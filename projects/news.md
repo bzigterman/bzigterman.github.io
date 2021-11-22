@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:49 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 07:40 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public spaces</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 07:22 AM CT, Nov. 22 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59372518?at_medium=RSS&at_campaign=KARANGA">American Music Awards: BTS and Taylor Swift take top awards</a> BBC: The K-pop band win artist of the year, while Taylor Swift picks up a record-breaking 34th award. 
  <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
- <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
