@@ -7,24 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
+ <p class="updated_time"> 09:10 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
+ <p class="updated_time"> 09:09 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public venues</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:51 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
- <p class="updated_time"> 07:40 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public spaces</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
- <p class="updated_time"> 07:02 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
- <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:53 AM CT, Nov. 22 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59342011?at_medium=RSS&at_campaign=KARANGA">Police charge Amazon India executives in drug smuggling case</a> BBC: It comes after two men allegedly used the company's website as part of a drug smuggling operation. 
  <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59370263?at_medium=RSS&at_campaign=KARANGA">Matt Doran: Australian TV host sorry for bungle that sank Adele interview</a> BBC: Matt Doran admitted during an interview with Adele that he had not listened to her new album. 
- <p class="updated_time"> 09:12 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:35 PM CT, Nov. 21 </p> 
@@ -188,8 +188,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
- <p class="updated_time"> 08:38 AM CT, Nov. 22 </p> 
+ <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try and get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce more venerable. 
  <p class="updated_time"> 08:36 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/covid-vaccine-booster-masks-travel-what-matters/index.html">Covid-19 mixed messaging continues as US enters the booster era</a> CNN: Cases are going up. Hospitalizations are too. Depending on where you live, mask mandates are either being dropped or enacted. Vaccines are more available than ever, but hesitancy remains a real problem. Experimental drugs are showing promise as well, yet regulatory approval takes time. 
  <p class="updated_time"> 08:35 AM CT, Nov. 22 </p> 
@@ -217,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886226/u-s-senators-call-for-a-national-commission-to-probe-the-start-of-the-pandemic">U.S. senators call for a national commission to probe the start of the pandemic</a> NPR: NPR's Rachel Martin talks to GOP Sen. Roger Marshall and Democratic Sen. Kirsten Gillibrand about a bipartisan group pushing for a commission to investigate the origins and response to COVID-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057484060/today-is-the-deadline-for-federal-workers-to-be-vaccinated">Today is the deadline for federal workers to be vaccinated</a> NPR: The White House says no disruptions to government operations are expected from the mandate, which President Biden issued in September. Federal contractors have a January deadline. 
+ <a href="https://www.npr.org/2021/11/22/1057484060/today-is-the-deadline-for-federal-workers-to-be-vaccinated">More than 90% of federal workers have had a shot by today's COVID-19 vaccine deadline</a> NPR: The White House says no disruptions to government operations are expected from the COVID-19 vaccine mandate, which President Biden issued in September. Federal contractors have a January deadline. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1056137909/as-the-gop-eyes-virginia-swing-district-is-the-biden-agenda-enough-for-democrats">As the GOP eyes Virginia swing district, is the Biden agenda enough for Democrats?</a> NPR: Republicans are targeting Virginia's 7th Congressional District, currently represented by Democratic Rep. Abigail Spanberger, in next year's midterm elections. 
  <p class="updated_time"> 12:04 AM CT, Nov. 22 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
- <p class="updated_time"> 06:01 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057537201/democrats-hope-bidens-sales-job-can-help-their-midterm-chances">Democrats hope Biden's sales job can help their midterm chances</a> NPR: Democrats have spent months negotiating with themselves, undercutting their ability to take credit for bills of significance they are now passing, but for which they aren't getting credit. 
  <p class="updated_time"> 05:02 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/us/redneck-shop-south-carolina-race-deconstructed-newsletter/index.html">The Redneck Shop was a hub for the KKK. Years after the store's closure, a Southern city is reckoning with this history</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
