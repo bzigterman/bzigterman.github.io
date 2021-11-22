@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
  <p class="updated_time"> 09:12 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
- <p class="updated_time"> 08:33 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:35 PM CT, Nov. 21 </p> 
