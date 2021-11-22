@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:21 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 11:51 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 01:21 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/germany-covid-lockdown.html">German Health Minister Won't Rule Out New Lockdown</a> NYT: The remarks came in response to a reporter’s question as neighboring Austria prepares to lock down and cases continue to reach record levels. 
- <p class="updated_time"> 01:15 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/japan-stimulus.html">Japan Approves a $490 Billion Stimulus Package</a> NYT: The move, announced on Friday, is an attempt by the country’s newish prime minister to revive an economy battered by Covid restrictions and a supply chain crunch. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
@@ -196,13 +196,23 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-rioter-misdemeanor-sentence-523181">Judge hands Jan. 6 rioter 60 days for misdemeanor charge</a> Politico: Judge Royce Lamberth issued the sentence after raising concerns about whether Scavo had sought to downplay his behavior even as late as the day of his sentencing. 
  <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/trump-white-house-papers-jan-6-523180">Release of Trump White House papers key to stopping 'future attacks on democracy,' Jan. 6 panel argues</a> Politico: The panel investigating the Capitol attack made its case to a three-judge federal appeals court panel on Monday. Trump is seeking to shield the documents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
- <p class="updated_time"> 12:15 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 12:35 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden mourns 5 killed and many others injured in Wisconsin parade incident</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
+ <p class="updated_time"> 12:33 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/florida-biden-hhs-vaccine-mandate/index.html">Judge declines Florida request to immediately block Biden HHS vaccine rule for health care workers</a> CNN: A federal judge said this weekend that she would not block the Biden administration's vaccine mandate for health care workers while a Florida lawsuit challenging the mandate moves forward. 
+ <p class="updated_time"> 12:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the Obama Foundation and was one in a series of splashy donations by Mr. Bezos, one of the world’s richest men, in recent months. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-custody/index.html">GOP Senate candidate Sean Parnell's estranged wife wins custody dispute amid abuse allegations</a> CNN: Laurie Snell -- the estranged wife of Pennsylvania GOP Senate candidate Sean Parnell -- was awarded primary physical custody and sole legal custody of the couple's three children, according to a judge's order that was made public Monday. 
  <p class="updated_time"> 12:08 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/chris-christie-donald-trump-axe-files/index.html">Chris Christie says 2020 election lies were his 'red line' with Trump</a> CNN: Former New Jersey Gov. Chris Christie said Donald Trump's lies about the 2020 election results were a "red line" for him, and that he has not spoken with the former President in nearly a year. 
@@ -213,15 +223,11 @@ permalink: /projects/news/
  <p class="updated_time"> 11:48 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
+ <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden nominates Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
- <p class="updated_time"> 10:32 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
- <p class="updated_time"> 10:19 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the Obama Foundation and was one in a series of splashy donations by Mr. Bezos, one of the world’s richest men, in recent months. 
  <p class="updated_time"> 10:03 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Former Trump attorney Michael Cohen is a free man and vows to cooperate with law enforcement</a> CNN: Michael Cohen is about to be a free man. 
  <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
@@ -246,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
- <p class="updated_time"> 06:33 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/peter-welch-leahy-vermont-senate-run/index.html">Rep. Peter Welch of Vermont launches bid to succeed Patrick Leahy in US Senate</a> CNN: Vermont Rep. Peter Welch announced Monday he would run for the US Senate seat held by fellow Democrat Sen. Patrick Leahy, who announced last week he would not seek reelection in 2022. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1056137909/as-the-gop-eyes-virginia-swing-district-is-the-biden-agenda-enough-for-democrats">As the GOP eyes Virginia swing district, is the Biden agenda enough for Democrats?</a> NPR: Republicans are targeting Virginia's 7th Congressional District, currently represented by Democratic Rep. Abigail Spanberger, in next year's midterm elections. 
  <p class="updated_time"> 12:04 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/rittenhouse-politics-divided-nation-biden-trump-orourke/index.html">Rittenhouse is latest symbol of a nation divided on guns, crime and protest</a> CNN: Three days after his acquittal in a polarizing case in Wisconsin, Kyle Rittenhouse is now a teenaged avatar for a nation divided over the nature of justice, the societal role of guns and violence in political discourse. 
- <p class="updated_time"> 11:31 PM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/waukesha-wisconsin-holiday-parade-lawmakers-react/index.html">Biden briefed on deadly Wisconsin parade incident as White House and lawmakers offer condolences</a> CNN: President Joe Biden has been briefed on the deadly incident Sunday evening at a Wisconsin holiday parade where more than 20 people, including children, were struck by a vehicle, a White House official told CNN. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
@@ -280,12 +282,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/21/politics/biden-inflation-trump-china-tariffs/index.html">The inflation-fighting step Biden has yet to take </a> CNN: President Joe Biden has offered multiple responses to spiking inflation: investigating gas prices, smoothing supply chains, touting benefit programs. None offers Americans much immediate relief. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
- <p class="updated_time"> 01:57 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/peng-olympics-china-tennis-523144">Olympic officials: Chinese tennis star Peng says she is safe</a> Politico: Peng Shuai “thanked the IOC for its concern about her well-being,” the Olympic body said. 
  <p class="updated_time"> 01:15 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/kevin-mccarthy-speech-fact-check.html">Fact-Checking Kevin McCarthy’s 8-Hour Speech</a> NYT: The House Republican leader made a number of false or misleading claims about the social spending bill, President Biden, immigration policy and Teslas. 
- <p class="updated_time"> 01:11 PM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/chuck-schumer-build-back-better-manchin-sinema/index.html">Schumer says Democrats will negotiate with Manchin and Sinema on Build Back Better plan and wants bill done by Christmas</a> CNN: Senate Democrats will try to negotiate with moderate Sens. Joe Manchin and Kyrsten Sinema to address their disagreements on the size and scope of President Joe Biden's economic package as it heads to the chamber, Senate Majority Leader Chuck Schumer said Sunday. 
  <p class="updated_time"> 01:09 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
@@ -298,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
- <p class="updated_time"> 10:09 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/beto-orourke-texas-governor-election-greg-abbott-cnntv/index.html">Beto O'Rourke declines to invite Biden to campaign with him in Texas</a> CNN: Beto O'Rourke, who announced his campaign for Texas governor last week, declined to invite President Joe Biden to campaign alongside him, pushing a message of nonpartisan unity in his upcoming bid for the highest office in Texas. 
  <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
@@ -382,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
+ <p class="updated_time"> 08:04 AM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-administration-booster-shots-covid-19/index.html">Frustrated Biden officials hope to simplify the message on Covid-19 boosters</a> CNN: Covid-19 booster shots could be authorized for all adults as soon as Friday, offering the Biden administration a fresh chance at simplifying a message that many internally believe has been far too confusing. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
@@ -394,6 +392,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
  <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
@@ -404,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
+ <p class="updated_time"> 09:52 AM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/law-enforcement-and-first-responders-bills-signed-into-law/index.html">Biden signs bills into law supporting law enforcement and first responders</a> CNN: President Joe Biden on Thursday signed three bipartisan bills into law aimed at supporting the nation's law enforcement and first responders, as well as the communities they serve. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
@@ -456,8 +458,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
- <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
 
