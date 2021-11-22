@@ -190,6 +190,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Michael Cohen's house arrest to end Monday</a> CNN: Michael Cohen is about to be a free man. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
  <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
@@ -198,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/thanksgiving-ransomware-warning/index.html">US government issues Thanksgiving ransomware warning</a> CNN: US officials are telling American businesses and government organizations to take extra precautions against hackers this Thanksgiving following multiple ransomware attacks during previous holiday periods. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
- <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try and get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce more venerable. 
  <p class="updated_time"> 08:36 AM CT, Nov. 22 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 04:19 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Michael Cohen's house arrest to end Monday</a> CNN: Michael Cohen is about to be a free man. 
  <p class="updated_time"> 04:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886226/u-s-senators-call-for-a-national-commission-to-probe-the-start-of-the-pandemic">U.S. senators call for a national commission to probe the start of the pandemic</a> NPR: NPR's Rachel Martin talks to GOP Sen. Roger Marshall and Democratic Sen. Kirsten Gillibrand about a bipartisan group pushing for a commission to investigate the origins and response to COVID-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
@@ -268,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/biden-spending-bill-cost.html">How Much Does Biden’s Spending Bill Actually Cost?</a> NYT: The climate change and social policy measure that the House just passed includes about $2.2 trillion worth of spending programs and tax cuts. But there are many ways to tally its price tag. 
  <p class="updated_time"> 12:42 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/buttigieg-denies-rivalry-harris-523142">'No time for parlor games': Buttigieg denies rivalry with Harris</a> Politico: The Transportation secretary denied any strains on his dealings with the vice president and dismissed developing narratives on a rivalry between the two. 
- <p class="updated_time"> 12:13 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/buttigieg-vaccine-mandates-holiday-travel-523141">Buttigieg: Federal vaccine mandates will not impact holiday travel</a> Politico: “I have seen no indication the vaccine requirements are going to impact travel in any way.” 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 11:14 AM CT, Nov. 21 </p> 
