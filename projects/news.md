@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
  <p class="updated_time"> 02:10 AM CT, Nov. 22 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 09:36 AM CT, Nov. 19 </p> 
- <a href="https://www.npr.org/2021/11/19/1055936165/rainforest-darien-gap-migrants">A once-remote patch of rainforest is now packed with migrants trying to reach the U.S.</a> NPR: More than 100,000 people have crossed the Darién Gap jungle from Colombia to Panama so far this year. The environmental impact and threats from cartels are many. 
  <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
