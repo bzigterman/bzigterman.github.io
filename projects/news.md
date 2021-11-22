@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
+ <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
  <p class="updated_time"> 03:47 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 05:38 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/pelosi-democrats-biden-agenda.html">How Nancy Pelosi Got Biden's Build Back Better Bill Back on Track</a> NYT: The House’s approval of a sweeping social policy bill after weeks of fits and starts notched another win for the speaker in a career defined by them. 
- <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
