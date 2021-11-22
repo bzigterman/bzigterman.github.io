@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:45 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Car ploughs into Wisconsin parade</a> BBC: Police say more than 20 people were hurt after a red car drove into a parade in Waukesha. 
+ <p class="updated_time"> 08:33 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
+ <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:35 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
@@ -16,11 +18,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:27 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 07:26 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown as protests rock Europe</a> BBC: Unrest has spread across the continent as countries bring back measures in a bid to curb infections. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59369488?at_medium=RSS&at_campaign=KARANGA">Covid: Austria back in lockdown as protests rock Europe</a> BBC: Unrest has spread across the continent as countries bring in measures to curb infections. 
  <p class="updated_time"> 07:17 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China tennis star claims to be safe in call with Olympic official</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
- <p class="updated_time"> 07:12 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
@@ -196,10 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">More than 20 injured as SUV plows into Wisconsin Christmas parade</a> Politico: Chief Dan Thompson said the investigation was ongoing, but that a “suspect vehicle” was recovered. 
- <p class="updated_time"> 07:12 PM CT, Nov. 21 </p> 
+ <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
+ <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">Police: ‘Some fatalities’ when SUV hit Christmas parade</a> Politico: Waukesha Chief Dan Thompson said more than 20 people were injured. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
  <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
@@ -248,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/21/politics/infrastructure-broadband-internet-access/index.html">How the infrastructure package could fix rural America's internet problems</a> CNN: Jamie Ritter can't connect to the internet from his home in Denmark, Maine, which is at the end of a road, down a dirt driveway and too far away from existing infrastructure. 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
- <p class="updated_time"> 07:43 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/haaland-alcatraz-indigenous-native-americans-523137">At Alcatraz Island, Haaland highlights Indigenous progress</a> Politico: “We have a long way to go to fully heal from the traumas created by historical oppression,” she said. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/cannabis-democrats-republicans-523119">New GOP weed approach: Feds must ‘get out of the way’</a> Politico: Republicans from statehouses to Congress are pushing legalization bills. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -338,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
+ <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
