@@ -7,12 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:12 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Car ploughs into Wisconsin parade</a> BBC: Police say more than 20 people were hurt after a red car drove into a parade in Waukesha. 
+ <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
+ <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
+ <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59317505?at_medium=RSS&at_campaign=KARANGA">The 99-year-old cyclist who has won a world silver medal</a> BBC: How a former World War Two pilot came second in a cycling competition for older people. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59295624?at_medium=RSS&at_campaign=KARANGA">TB Joshua's widow and the battle for his Nigerian church</a> BBC: Five months after the death of the prominent Nigerian televangelist, services have resumed. 
+ <p class="updated_time"> 06:06 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173478?at_medium=RSS&at_campaign=KARANGA">How should we teach children about climate change?</a> BBC: Experts say it's time for India's schools to start teaching climate change as a distinct subject. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
+ <p class="updated_time"> 06:00 PM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59290301?at_medium=RSS&at_campaign=KARANGA">Beirut blast: UN ignored plea for port disaster evidence</a> BBC: Letters to the UN chief's office requesting key information have gone unanswered, the BBC has found. 
  <p class="updated_time"> 05:42 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59369676?at_medium=RSS&at_campaign=KARANGA">Justin Bieber urged to cancel Saudi show by Khashoggi's fiancee</a> BBC: The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia. 
  <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
- <p class="updated_time"> 05:31 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
  <p class="updated_time"> 04:27 PM CT, Nov. 21 </p> 
@@ -21,14 +37,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59368778?at_medium=RSS&at_campaign=KARANGA">Kenyan police investigate BBC worker's death in Nairobi</a> BBC: Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi. 
  <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
- <p class="updated_time"> 03:38 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59368488?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban unveil new rules banning women in TV dramas</a> BBC: The Islamist group unveils new rules including ordering female TV presenters to wear headscarves. 
  <p class="updated_time"> 02:29 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 02:28 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59368774?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star tells Olympic officials she is safe</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 21 </p> 
+ <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 02:11 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
@@ -41,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 12:56 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
- <p class="updated_time"> 12:41 PM CT, Nov. 21 </p> 
- <a href="https://www.wsj.com/articles/two-of-17-missionaries-kidnapped-in-haiti-are-released-11637534798">Two of 17 Missionaries Kidnapped in Haiti Are Released</a> WSJ: The Ohio-based missionary group says the two released hostages are in good spirits. 
  <p class="updated_time"> 12:24 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59363256?at_medium=RSS&at_campaign=KARANGA">Covid: Huge protests across Europe over new restrictions</a> BBC: Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy. 
  <p class="updated_time"> 12:11 PM CT, Nov. 21 </p> 
@@ -87,8 +101,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
- <p class="updated_time"> 05:51 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/sport/football/54826343?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: Man Utd sack manager with club seventh in Premier League</a> BBC: Manchester United sack manager Ole Gunnar Solskjaer, with the club seventh in the Premier League following Saturday's 4-1 defeat at Watford. 
+ <p class="updated_time"> 04:38 AM CT, Nov. 21 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59364799?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: What went wrong at Man Utd?</a> BBC: Ole Gunnar Solskjaer leaves Old Trafford after a slump in form - but was it all down to him? 
  <p class="updated_time"> 03:00 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/venezuelan-opposition-unable-to-topple-maduro-turns-to-elections-11637503201">Venezuelan Opposition, Unable to Topple Maduro, Turns to Elections</a> WSJ: The Venezuelan opposition has tried everything to oust President Maduro, from working to trigger a revolt to forcing him out by naming an interim president. Now there is a new strategy: participating in elections. 
  <p class="updated_time"> 02:00 AM CT, Nov. 21 </p> 
@@ -97,22 +111,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-opium-business-cranks-up-as-the-taliban-look-the-other-way-11637491200">Afghanistan's Opium Business Cranks Up as the Taliban Look the Other Way</a> WSJ: With drought and international sanctions crippling the economy, farmers are planting more poppies and drug markets are open for business. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
- <p class="updated_time"> 06:11 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59323479?at_medium=RSS&at_campaign=KARANGA">Lin-Manuel Miranda on the 'dirty secret' hidden in Tick, Tick... Boom!</a> BBC: The Hamilton creator says there's a moment in Tick, Tick... Boom! that made his friends cringe. 
- <p class="updated_time"> 06:10 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59219355?at_medium=RSS&at_campaign=KARANGA">Indian billionaires bet big on homegrown couture</a> BBC: Indian corporate houses are investing in luxury fashion designers - a long overdue move, experts say. 
- <p class="updated_time"> 06:09 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/59348337?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: What happens to migrants who are turned away?</a> BBC: Poland and Lithuania are increasingly sending migrants back to Belarus - but is this legal? 
- <p class="updated_time"> 06:08 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59347230?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Mass arrests and ethnic profiling haunt Addis Ababa</a> BBC: As rebel forces advance towards the capital, at least 1,000 ethnic Tigrayans have been detained. 
  <p class="updated_time"> 06:08 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59331694?at_medium=RSS&at_campaign=KARANGA">Chile voters go to polls amid deep divisions</a> BBC: It is being billed as the most polarising election in decades and comes after divisive mass protests. 
  <p class="updated_time"> 06:04 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59352740?at_medium=RSS&at_campaign=KARANGA">Barcelona tackles roaming wild boar problem</a> BBC: Pop star Shakira is just one of the city's residents to have had problems with the animals. 
  <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
- <p class="updated_time"> 04:43 PM CT, Nov. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59362845?at_medium=RSS&at_campaign=KARANGA">Bear shot dead by 70-year-old hunter in France</a> BBC: A female bear roaming with her cubs is killed after attacking and injuring a man, officials say. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
@@ -137,16 +141,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
  <a href="https://www.bbc.co.uk/news/59338205?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: How China censored a tennis star</a> BBC: When Peng Shuai upset her country's authorities, their response online was swift. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
- <p class="updated_time"> 05:12 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59348734?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse case: Why it so divides the US</a> BBC: Few US trials in recent years have generated such debate and acrimony. Why this one? 
  <p class="updated_time"> 04:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
  <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
- <p class="updated_time"> 04:59 PM CT, Nov. 18 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/middleeast/iran-drone-al-tanf-syria.html">Strike on U.S. Base Was Iranian Response to Israeli Attack, Officials Say</a> NYT: Iran has not acknowledged the attack, but U.S. and Israeli officials said it was retaliation for Israeli airstrikes, drawing the U.S. into Iran’s shadow war with Israel. 
 
 
 </details>
@@ -198,10 +196,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">SUV plows into Wisconsin Christmas parade; multiple injuries reported</a> Politico: A video feed of the parade from the city of Waukesha showed a red SUV breaking through barriers. 
+ <p class="updated_time"> 06:21 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
- <p class="updated_time"> 05:31 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 05:14 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/haiti-missionaries-released-ohio-523150">U.S. missionaries say 2 of 17 abductees freed in Haiti</a> Politico: The missionaries were kidnapped Oct. 16. 
  <p class="updated_time"> 04:09 PM CT, Nov. 21 </p> 
@@ -274,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
- <p class="updated_time"> 02:57 PM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/eddie-bernice-johnson-democrat-no-reelection-523126">Democrat Eddie Bernice Johnson ending decades in Congress</a> Politico: Johnson, 85, is a political fixture in her hometown of Dallas, where early in her career she became the first Black woman to serve the city in the state Senate since Reconstruction. 
  <p class="updated_time"> 02:01 PM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/eddie-bernice-johnson-congress-retirement/index.html">Trailblazing Rep. Eddie Bernice Johnson to retire from Congress after serving nearly 30 years</a> CNN: Democratic Rep. Eddie Bernice Johnson of Texas announced her retirement Saturday afternoon after serving nearly 30 years in Congress, according to a statement from House Speaker Nancy Pelosi. 
  <p class="updated_time"> 01:00 PM CT, Nov. 20 </p> 
