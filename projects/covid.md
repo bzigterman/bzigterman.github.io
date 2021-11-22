@@ -1148,7 +1148,7 @@ html {
 <td class="gt_row gt_right">+25&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">40.5K</td>
-<td class="gt_row gt_right gt_striped">45.0K</td>
+<td class="gt_row gt_right gt_striped">44.8K</td>
 <td class="gt_row gt_right gt_striped">+11&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">1.2K</td>
@@ -1546,7 +1546,7 @@ html {
 <td class="gt_row gt_right gt_striped">+3&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">27.9M</td>
-<td class="gt_row gt_right">26.4M</td>
+<td class="gt_row gt_right">26.5M</td>
 <td class="gt_row gt_right">&minus;5&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.1B</td>
