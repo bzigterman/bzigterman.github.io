@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be banned from public spaces</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
+ <p class="updated_time"> 07:22 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:02 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
- <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Unvaccinated to be barred from basic services</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
@@ -454,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
- <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
