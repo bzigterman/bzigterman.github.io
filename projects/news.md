@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 04:24 AM CT, Nov. 22 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
- <p class="updated_time"> 06:12 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59317505?at_medium=RSS&at_campaign=KARANGA">The 99-year-old cyclist who has won a world silver medal</a> BBC: How a former World War Two pilot came second in a cycling competition for older people. 
  <p class="updated_time"> 06:08 PM CT, Nov. 21 </p> 
