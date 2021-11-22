@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
+ <p class="updated_time"> 04:53 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
  <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 04:40 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 04:24 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
  <p class="updated_time"> 04:00 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
- <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
  <p class="updated_time"> 08:35 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/migrants-at-belarus-poland-border-face-returning-home-or-continuing-their-quest-to-go-west-11637523341">Migrants at Belarus-Poland Border Face Returning Home or Continuing Their Quest to Go West</a> WSJ: Hope is waning for many migrants that Poland will allow a humanitarian corridor to be opened to travel to the West. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -137,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
  <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
- <p class="updated_time"> 09:54 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
@@ -155,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
- <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/middleeast/prince-charles-egypt.html">In Welcoming Prince Charles, Egypt’s Leader Sends a Message</a> NYT: The prince and his wife, Camilla, made Egypt their first foreign destination since the pandemic. Vestiges of British colonialism aside, they saw something new. 
  <p class="updated_time"> 04:59 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/canada-pfizer-vaccine-kids.html">Canada Approves Pfizer's Covid Vaccine for Kids 5 to 11</a> NYT: The move adds more than 2.8 million young people to those eligible for a shot. 
  <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
@@ -179,14 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
- <p class="updated_time"> 08:37 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/us-china-exit-ban-deport.html">China and U.S. Quietly Released Captive Citizens Before Summit</a> NYT: The moves seemed aimed at untangling diplomatic knots as the two countries are clashing over human rights abuses, economic policies and much more. 
  <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/maria-butina-russia-duma.html">After Time in U.S. Prisons, Maria Butina Now Sits in Russia's Parliament</a> NYT: Maria Butina, convicted of serving as an unregistered foreign agent before and after the 2016 election, insists she “wasn’t a spy” and that her Duma seat is “not a reward.” Her critics call her a Kremlin “trophy.” 
- <p class="updated_time"> 04:00 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/roosevelt-statue-britain-attlee.html">1946: U.K. Launches Campaign for Roosevelt Statue</a> NYT: Prime Minister Clement Attlee announced a fund-raising drive to erect a statue of Franklin D. Roosevelt opposite the American embassy in London. 
- <p class="updated_time"> 02:46 AM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/what-does-mateship-mean-to-you.html">What Does Mateship Mean to You?</a> NYT: It’s a complicated, often-contested word that has evolved along with Australia’s values. 
 
 
 </details>
