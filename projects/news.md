@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Driver 'intentionally' mowed down people at parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
+ <p class="updated_time"> 04:55 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59331696?at_medium=RSS&at_campaign=KARANGA">Cuba congratulates Venezuela on poll before result was out</a> BBC: President Nicolás Maduro's ruling party wins the election - but the US says the poll was not free. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
  <p class="updated_time"> 04:15 PM CT, Nov. 22 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128861/austria-enters-lockdown-as-covid-infections-rise">Austria enters lockdown as COVID infections rise</a> NPR: Austria has become the first European country to instate a vaccine mandate. Monday, it was the first to initiate a nation-wide lockdown during this surge, despite protests against the restrictions. 
  <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381928?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Waukesha Police Chief chokes up while naming Christmas parade incident victims</a> BBC: At least five people, aged between 52 and 81, were killed when a vehicle ploughed into a Christmas parade. 
- <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Driver 'intentionally' mowed down people at parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 03:08 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59378552?at_medium=RSS&at_campaign=KARANGA">Austrian Chancellor: 'You don’t only have rights, you have obligations'</a> BBC: Austria's chancellor regrets jabs will be mandatory, but current low rates are "too little, too late". 
  <p class="updated_time"> 03:05 PM CT, Nov. 22 </p> 
@@ -33,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
  <p class="updated_time"> 01:23 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59381775?at_medium=RSS&at_campaign=KARANGA">Peppa Pig and losing notes: UK PM's bizarre speech</a> BBC: Boris Johnson is questioned by a reporter after talking about Peppa Pig World at a business conference. 
+ <p class="updated_time"> 12:04 PM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
@@ -59,10 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:55 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
- <p class="updated_time"> 08:47 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
- <p class="updated_time"> 08:18 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59331696?at_medium=RSS&at_campaign=KARANGA">Cuba congratulates Venezuela on poll before result was out</a> BBC: Cuba's president tweeted about the results before there had been an official announcement. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
  <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
@@ -200,16 +200,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/jan-6-stone-jones-523193">Jan. 6 committee subpoenas Roger Stone and Alex Jones</a> Politico: The panel investigating the attack on the Capitol also targeted rally promoters Dustin Stockton and Jennifer Lawrence, and Trump spokesperson Taylor Budowich. 
  <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/ahmaud-arbery-closing-arguments-523210">Attorneys make final case to jurors in Ahmaud Arbery’s death</a> Politico: The arguments unfolded before a disproportionately white jury after 10 days of testimony. 
+ <p class="updated_time"> 05:08 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/strategic-petroleum-reserve-release-joe-biden/index.html">Biden hopes to announce decision to release oil from Strategic Petroleum Reserve, but needs an agreement from other nations</a> CNN: President Joe Biden hopes to announce his decision to release oil from the Strategic Petroleum Reserve on Tuesday during a speech at the White House, officials tell CNN, but the timing of such a move is still contingent on other nations finalizing their agreements. 
+ <p class="updated_time"> 05:04 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/us/politics/house-jan-6-inquiry-subpoenas-roger-stone-and-alex-jones.html">House Jan. 6 Inquiry Subpoenas Roger Stone and Alex Jones</a> NYT: The House select committee summoned five more allies of former President Donald J. Trump as it dug further into the planning and financing of rallies before the attack. 
+ <p class="updated_time"> 05:01 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 04:56 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
- <p class="updated_time"> 04:53 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/us/politics/house-jan-6-inquiry-subpoenas-roger-stone-and-alex-jones.html">House Jan. 6 Inquiry Subpoenas Roger Stone and Alex Jones</a> NYT: The House select committee summoned five more allies of former President Donald J. Trump as it dug further into the planning and financing of rallies before the attack. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
- <p class="updated_time"> 04:45 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/strategic-petroleum-reserve-release-joe-biden/index.html">Biden hopes to announce decision to release oil from Strategic Petroleum Reserve, but needs an agreement from other nations</a> CNN: President Joe Biden hopes to announce his decision to release oil from the Strategic Petroleum Reserve on Tuesday during a speech at the White House, officials tell CNN, but the timing of such a move is still contingent on other nations finalizing their agreements. 
  <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
  <p class="updated_time"> 04:35 PM CT, Nov. 22 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes Strategic Petroleum Reserves crude oil release in coming days</a> Politico: The administration is  trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
- <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
