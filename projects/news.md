@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:12 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:33 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Fatalities after car ploughs into Wisconsin parade</a> BBC: Police say some people have died after a car drove into a Christmas parade in the city of Waukesha. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 09:25 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/sports/tennis/peng-shuai-video.html">Peng Shuai Said to Be in Videos From China's State Media</a> NYT: The editor of a state-run newspaper on Saturday shared clips said to be of the Chinese tennis star on Twitter. But they are unverified, and the head of the WTA called them “insufficient.” 
- <p class="updated_time"> 08:51 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:35 AM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/migrants-at-belarus-poland-border-face-returning-home-or-continuing-their-quest-to-go-west-11637523341">Migrants at Belarus-Poland Border Face Returning Home or Continuing Their Quest to Go West</a> WSJ: Hope is waning for many migrants that Poland will allow a humanitarian corridor to be opened to travel to the West. 
  <p class="updated_time"> 08:28 AM CT, Nov. 21 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html">Construction halted on secret project at Chinese port in UAE after pressure from US, officials say</a> CNN: Construction has been halted on a secret development inside of a Chinese shipping port near Abu Dhabi in the United Arab Emirates after intense US pressure, at least for now, two sources familiar with the matter told CNN -- but multiple officials cautioned that the security concerns over the Chinese presence in the country are far from resolved. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
- <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397808/the-children-of-2-different-philippine-leaders-have-joined-forces-ahead-of-elect">The children of 2 different Philippine leaders have joined forces ahead of election</a> NPR: The Philippines is seeing an unprecedented political tie-up with two of the country's highest profile dynasties — the Marcos and Duterte's — running for the top jobs in next year's election. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
