@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
+ <p class="updated_time"> 01:47 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Police name victims after car ploughs into Waukesha Christmas parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 01:41 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 01:40 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Police name victims after car ploughs into Waukesha Christmas parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
- <p class="updated_time"> 01:40 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
- <p class="updated_time"> 01:09 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown and Mandatory Vaccination Amid Covid Surge</a> NYT: Austria leads in imposing tough new rules, as Europe fights resistance to vaccines and restrictions. Soon, a German official warned, almost everyone will be “vaccinated, recovered or dead.” 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:14 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-59340779?at_medium=RSS&at_campaign=KARANGA">Jerome Powell nominated to stay as US Federal Reserve chair</a> BBC: President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">What we know about the Waukesha Christmas parade incident</a> NPR: At least five people are dead and more than 40 others are injured after the driver of a red SUV tore through a crowd of revelers on Sunday. 
+ <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha Police Chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 09:10 AM CT, Nov. 22 </p> 
