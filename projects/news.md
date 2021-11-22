@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:36 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 09:10 AM CT, Nov. 22 </p> 
@@ -29,12 +31,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
- <p class="updated_time"> 04:53 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Five dead after car ploughs into Waukesha Christmas parade</a> BBC: A speeding SUV ploughed into a Christmas celebration in Waukesha, hitting dozens including children. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59372518?at_medium=RSS&at_campaign=KARANGA">American Music Awards: BTS and Taylor Swift take top awards</a> BBC: The K-pop band win artist of the year, while Taylor Swift picks up a record-breaking 34th award. 
  <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
+ <p class="updated_time"> 04:42 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/top-netanyahu-aide-testifies-against-him-in-corruption-trial-11637595729">Top Netanyahu Aide Testifies Against Him in Corruption Trial</a> WSJ: The trial has become one of the starkest symbols of the reversal of fortunes of Israel’s former prime minister, who led the country for 15 years until he failed to form a government this spring. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 03:22 AM CT, Nov. 22 </p> 
@@ -48,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:41 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59371755?at_medium=RSS&at_campaign=KARANGA">Andhra Pradesh floods: At least 30 dead and thousands displaced in floods</a> BBC: Heavy flooding in Andhra Pradesh state has devastated several villages and towns. 
  <p class="updated_time"> 01:38 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">Isii Nafta singer Nimco Happy on representing Somalia and her TikTok fame</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">'I never expected my wedding song to be a global hit'</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 12:01 AM CT, Nov. 22 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/canada/canada-beaver-dams.html">Beavers Misbehave. Canadians Love Them Anyway.</a> NYT: Blamed for flooded fields, damaged roads and the occasional death, the beaver, which has played a seminal role in Canadian history, is now viewed by many as a problem, not a point of national pride. 
- <p class="updated_time"> 04:03 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59369455?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release two missionaries among 17 abducted</a> BBC: Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe. 
  <p class="updated_time"> 03:45 PM CT, Nov. 21 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-threatens-centrist-legacy-11637510400">Chile's Presidential Election Upends Centrist Legacy</a> WSJ: Voters in a country long led by business-friendly moderates choose two candidates on polar ends of the political spectrum. 
  <p class="updated_time"> 02:50 PM CT, Nov. 21 </p> 
@@ -135,6 +135,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 06:04 PM CT, Nov. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59352740?at_medium=RSS&at_campaign=KARANGA">Barcelona tackles roaming wild boar problem</a> BBC: Pop star Shakira is just one of the city's residents to have had problems with the animals. 
+ <p class="updated_time"> 05:35 PM CT, Nov. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59357633?at_medium=RSS&at_campaign=KARANGA">Netherlands Covid riots: Fireworks and chaos on the streets for a second night</a> BBC: Rioters in the Netherlands clashed with police for a second night over new coronavirus measures. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
@@ -186,6 +188,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
+ <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/article/lael-brainard-federal-reserve.html">Who is Lael Brainard, President Biden’s pick for the Fed’s vice chair?</a> NYT: She was in the mix to potentially replace Jerome Powell as Fed chair, but Mr. Biden’s decision to elevate her to the Fed’s No. 2 role will still place her in a powerful position. 
+ <p class="updated_time"> 09:23 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/thanksgiving-ransomware-warning/index.html">US government issues Thanksgiving ransomware warning</a> CNN: US officials are telling American businesses and government organizations to take extra precautions against hackers this Thanksgiving following multiple ransomware attacks during previous holiday periods. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
@@ -260,16 +270,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/buttigieg-denies-rivalry-harris-523142">'No time for parlor games': Buttigieg denies rivalry with Harris</a> Politico: The Transportation secretary denied any strains on his dealings with the vice president and dismissed developing narratives on a rivalry between the two. 
  <p class="updated_time"> 12:13 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/buttigieg-vaccine-mandates-holiday-travel-523141">Buttigieg: Federal vaccine mandates will not impact holiday travel</a> Politico: “I have seen no indication the vaccine requirements are going to impact travel in any way.” 
- <p class="updated_time"> 11:44 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/sununu-washington-screwed-up-523140">Washington 'is screwed up,' New Hampshire governor laments</a> Politico: “They focus on the wrong things. They don't talk about balancing budgets. They don't talk about fixing health care, immigration reform," Gov. Chris Sununu said. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 11:14 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/pete-buttigieg-kamala-harris-rivalry/index.html">Buttigieg tamps down narrative that there's a rivalry with Harris: 'We're too busy with a job to do'</a> CNN: Transportation Secretary Pete Buttigieg on Sunday tried to tamp down the idea that he and Vice President Kamala Harris are starting to quietly compete to be the future standard-bearer of the Democratic Party, saying their focuses are on their roles in the nearly year-old Biden administration. 
  <p class="updated_time"> 11:00 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
- <p class="updated_time"> 10:58 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/kissinger-china-taiwan-summit-biden-523139">Kissinger doesn’t see China as an immediate military threat to Taiwan</a> Politico: He also lauded President Joe Biden for trying to lower the temperature of the U.S.-China relationship. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 10:32 AM CT, Nov. 21 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 09:33 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057630022/as-georgia-grows-more-democratic-its-members-of-congress-will-not">As Georgia grows more Democratic, its members of Congress will not</a> NPR: Facing political and demographic changes in the state over the last decade, Republicans in Georgia used redistricting to expand representation in Congress while ceding ground in the state legislature. 
- <p class="updated_time"> 09:01 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/infrastructure-broadband-internet-access/index.html">How the infrastructure package could fix rural America's internet problems</a> CNN: Jamie Ritter can't connect to the internet from his home in Denmark, Maine, which is at the end of a road, down a dirt driveway and too far away from existing infrastructure. 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 05:38 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/pelosi-democrats-biden-agenda.html">How Nancy Pelosi Got Biden's Build Back Better Bill Back on Track</a> NYT: The House’s approval of a sweeping social policy bill after weeks of fits and starts notched another win for the speaker in a career defined by them. 
- <p class="updated_time"> 04:17 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/health/covid-boosters-cdc.html">C.D.C. Endorses Covid Vaccine Booster Shots for All Adults</a> NYT: As infections rise, Americans over 18 will be permitted to get extra doses. But it’s not clear boosters really are needed by so many people, or that the shots will turn back the pandemic. 
  <p class="updated_time"> 04:06 PM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057684522/sen-robert-menendez-on-the-salt-deduction-dividing-democrats">Sen. Robert Menendez on the SALT deduction dividing Democrats</a> NPR: NPR's Michel Martin speaks with Sen. Menendez (D-N.J.) about the Build Back Better bill that passed in the House Friday, and the debates that will likely emerge as it heads to the Senate. 
  <p class="updated_time"> 01:00 PM CT, Nov. 20 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/20/1057619696/durbin">Illinois Sen. Dick Durbin expects the Senate to pass spending bill by the end of 2021</a> NPR: Sen. Dick Durbin, a Democrat from Illinois, spoke with NPR about how Democrats plan to secure all 50 member votes needed to pass President Biden's $2.2 trillion social spending bill. 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 07:30 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057618813/week-in-politics-the-build-back-better-bill-is-moving-forward">Week in politics: The 'Build Back Better' bill is moving forward</a> NPR: We track the progress of the $2 trillion Build Back Better bill, which passed the House on Friday morning and is heading to the Senate for further negotation. 
  <p class="updated_time"> 07:01 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/airlines-pandemic-bailout-cancellations-523100">Congress to airlines: Where did all that Covid money go?</a> Politico: Staffing shortfalls have contributed to mass flight cancellations as travel demand recovered — despite federal aid meant to prevent carriers from laying off or furloughing employees. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
@@ -356,8 +356,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/us/politics/russia-ukraine-biden-administration.html">U.S. Warns Allies of Possible Russian Incursion as Troops Amass Near Ukraine</a> NYT: Western intelligence officials are increasingly convinced that the Russian president wants to take control of a larger swath of territory. 
  <p class="updated_time"> 06:08 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/us/politics/biden-turkey-pardon.html">Boosted, Not Basted: Biden Pardons 2 Turkeys in Thanksgiving Tradition</a> NYT: “Peanut Butter and Jelly were selected based on their temperament, appearance, and, I suspect, vaccination status,” the president said. 
+ <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
  <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
+ <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 03:28 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/jan-6-judge-obstruction-charge-doubt-523057">Judge raises doubts about obstruction charges in Jan. 6 cases</a> Politico: “You’re essentially asking the jury to make a moral judgment here as to what’s wrongful," Friedrich said. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -396,6 +400,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/judge-rejects-steve-bannon-delay-effort-522948">Judge rejects Bannon effort to slow walk contempt case</a> Politico: But the judge said he’s not convinced yet that the Justice Department’s timetable is realistic either. 
  <p class="updated_time"> 08:55 AM CT, Nov. 18 </p> 
  <a href="https://www.cnn.com/2021/11/18/politics/kamala-harris-abc-interview/index.html">Harris says she does not feel misused or underused as vice president</a> CNN: Vice President Kamala Harris said Thursday she does not feel misused or underused in her role as vice president, following CNN reporting that many in the vice president's circle believe she is being sidelined and that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
