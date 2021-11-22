@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/africa/sudan-coup-abdalla-hamdok.html">Ousted in Coup, Sudan’s Prime Minister Returns via Military Deal</a> NYT: Four weeks after he was detained, Prime Minister Abdalla Hamdok struck a deal to end a bloody standoff in the streets. Protesters rejected the move as a “betrayal.” 
  <p class="updated_time"> 11:17 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Suspect named after car ploughs into Waukesha Christmas parade</a> BBC: At least five people have been killed after a speeding SUV ploughed into a Christmas celebration. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 10:40 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:17 AM CT, Nov. 22 </p> 
@@ -161,6 +163,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
+ <p class="updated_time"> 08:40 PM CT, Nov. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59356082?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US reacts to teen’s acquittal</a> BBC: Here is how the public reacted as a jury cleared Kyle Rittenhouse of homicide in a Kenosha protest last year. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 04:59 PM CT, Nov. 19 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/19/1055129130/research-sheds-light-on-whats-killing-young-people-especially-boys-and-young-men">Research sheds light on what's killing young people, especially boys and young men</a> NPR: Globally, boys and young men made up two-thirds of all deaths among young people in 2019. A recent report finds that many such deaths in this "neglected" age group are preventable. 
  <p class="updated_time"> 03:17 PM CT, Nov. 19 </p> 
  <a href="https://www.npr.org/2021/11/19/1057397829/austria-is-going-into-full-lockdown-and-will-mandate-vaccines-as-covid-cases-sur">Austria is going into full lockdown and will mandate vaccines as COVID cases surge</a> NPR: The Austrian government is putting the entire country in lockdown starting Nov. 22 and is planning legislation to make vaccination compulsory for all Austrians in February. 
- <p class="updated_time"> 01:42 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/asia/blinken-africa-china-invest.html">China’s Influence Looms Over Blinken’s Africa Visit</a> NYT: On a stop in Nigeria, the secretary of state said the U.S. would no longer treat African countries as pawns in a global game. But American competition with Beijing was hard to overlook. 
  <p class="updated_time"> 12:56 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/americas/venezuela-elections-maduro.html">Venezuelan Opposition Risks an Election Challenge to Maduro</a> NYT: With little hope of a fair vote, opposition candidates take a desperate risk to gain any edge against Venezuela’s entrenched autocrat, Nicolás Maduro. 
  <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
@@ -186,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:31 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
@@ -194,8 +198,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-custody/index.html">GOP Senate candidate Sean Parnell's estranged wife wins custody dispute amid abuse allegations</a> CNN: Laurie Snell -- the estranged wife of Pennsylvania GOP Senate candidate Sean Parnell -- was awarded primary physical custody and sole legal custody of the couple's three children, according to a judge's order that was made public Monday. 
  <p class="updated_time"> 10:32 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
- <p class="updated_time"> 10:31 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
  <p class="updated_time"> 10:19 AM CT, Nov. 22 </p> 
@@ -247,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">5 dead, 40 injured after SUV speeds into Christmas parade</a> Politico: A “person of interest” was in custody, Waukesha Police Chief Dan Thompson said, but he gave no details about the person or any possible motive. 
+ <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">SUV driver in parade crash may have been fleeing a crime</a> Politico: One person was taken into custody after a Waukesha police officer opened fire to try to stop the vehicle, authorities said. 
  <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/states/california/story/2021/11/21/even-in-liberal-california-strict-vaccine-mandates-face-resistance-1394740">Even in liberal California, strict vaccine mandates face resistance</a> Politico: Enough people in the state remain unvaccinated that school districts, prison officials and private employers are urging flexibility. Otherwise, they say they’ll be understaffed. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
