@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 AM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59371755?at_medium=RSS&at_campaign=KARANGA">Andhra Pradesh floods: At least 30 dead and thousands displaced in floods</a> BBC: Heavy flooding in Andhra Pradesh state has devastated several villages and towns. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59369492?at_medium=RSS&at_campaign=KARANGA">Waukesha: Five dead after car ploughs into Wisconsin parade</a> BBC: A car drives into a Christmas parade in the city of Waukesha, hitting dozens including children. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
- <p class="updated_time"> 10:52 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59370521?at_medium=RSS&at_campaign=KARANGA">China downgrades diplomatic ties with Lithuania over Taiwan row</a> BBC: Lithuania allowed Taiwan to open a de facto embassy in its country, a move which has angered China. 
  <p class="updated_time"> 10:24 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342011?at_medium=RSS&at_campaign=KARANGA">Police charge Amazon India executives in drug smuggling case</a> BBC: It comes after two men allegedly used the company's website as part of a drug smuggling operation. 
  <p class="updated_time"> 10:05 PM CT, Nov. 21 </p> 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
  <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
- <p class="updated_time"> 06:37 PM CT, Nov. 19 </p> 
- <a href="https://www.bbc.co.uk/news/59338205?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: How China censored a tennis star</a> BBC: When Peng Shuai upset her country's authorities, their response online was swift. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 05:51 PM CT, Nov. 19 </p> 
