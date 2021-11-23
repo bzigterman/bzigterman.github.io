@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:27 AM CT, Nov. 23 </p> 
+ <p class="updated_time"> 11:13 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending with the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
+ <p class="updated_time"> 10:12 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59353194?at_medium=RSS&at_campaign=KARANGA">US to release oil reserves in attempt to lower prices</a> BBC: The move is being taken together with other major energy consuming nations, including China and the UK. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:56 AM CT, Nov. 23 </p> 
@@ -51,18 +53,22 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 06:22 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
+ <p class="updated_time"> 06:08 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins with China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
+ <p class="updated_time"> 05:58 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Strong Demand, Shortages Push Up Prices in U.S. and Europe</a> WSJ: Businesses continue to contend with cost inflation even as supply constraints show signs of easing, according to recent surveys. 
+ <p class="updated_time"> 05:57 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: Turkey’s economic crisis entered a tumultuous new phase, with its currency plunging to a record low and President Recep Tayyip Erdogan preparing to meet the leader of a regional rival in search of foreign investment. 
  <p class="updated_time"> 05:32 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59373963?at_medium=RSS&at_campaign=KARANGA">VR helps parents visualise child's surgery</a> BBC: Click discovers how VR helps parents decide whether to go through with surgery for their child. 
+ <p class="updated_time"> 04:39 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59380458?at_medium=RSS&at_campaign=KARANGA">Lush to stop some social media until it's 'safer'</a> BBC: The firm says it will close accounts "in an effort to address consumers’ mental health challenges". 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
- <p class="updated_time"> 03:38 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: Turkey’s economic crisis entered a tumultuous new phase, with its currency plunging to a record low and President Recep Tayyip Erdogan preparing to meet the leader of a regional rival in search of foreign investment. 
- <p class="updated_time"> 03:09 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
@@ -71,16 +77,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
  <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058238037/philippine-supply-boats-reach-marines-at-china-guarded-shoal">Philippine supply boats reach marines at China-guarded shoal</a> NPR: The Philippine navy successfully delivered supplies to marines guarding a disputed shoal in the South China Sea, a week after China's coast guard used water cannons to force the  boats to turn back. 
- <p class="updated_time"> 01:21 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Supply Woes Start to Ease in Europe, but Businesses' Costs Surge</a> WSJ: European businesses are seeing some easing in the delays they face getting hold of parts and raw materials, but supply-chain blockages pushed their costs higher, driving them to raise prices at record pace and fueling inflationary pressures. 
- <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber takes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña phenomenon has begun</a> BBC: The climate pattern can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
- <p class="updated_time"> 10:29 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59382793?at_medium=RSS&at_campaign=KARANGA">Greenland's Inuit seek Denmark compensation over failed social experiment</a> BBC: Six surviving Greenlanders are part of a group of 22 children taken for "re-education" in 1951. 
  <p class="updated_time"> 09:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 08:07 PM CT, Nov. 22 </p> 
