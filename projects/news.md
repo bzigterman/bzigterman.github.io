@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59382788?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse says his case 'has nothing to do with race'</a> BBC: 'I support the BLM movement,' says the teen, who was acquitted of murdering two during racial unrest. 
+ <p class="updated_time"> 02:52 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. The bus crashed around 2 a.m. and there were children among the victims, officials said. 
  <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 01:44 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 45 killed</a> BBC: At least 45 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
- <p class="updated_time"> 01:21 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber makes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 09:20 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/long-island-er-vaccine-mandate.html">Long Island E.R. Closes as Vaccine Mandate Creates Nurse Shortage</a> NYT: A free-standing emergency department in Long Beach, operated by Mount Sinai South Nassau, said it had to close temporarily because of a nursing staff shortage. 
- <p class="updated_time"> 09:08 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59382788?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse says his case 'has nothing to do with race'</a> BBC: "I support the BLM movement," says the teen, who was acquitted of shooting three during racial unrest. 
  <p class="updated_time"> 08:31 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Carol Clay and Russell Hill vanished in March last year during a camping trip in Victoria. 
  <p class="updated_time"> 08:08 PM CT, Nov. 22 </p> 
