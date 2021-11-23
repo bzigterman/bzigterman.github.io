@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:03 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 05:27 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Child is sixth fatality in Wisconsin parade car-ramming</a> BBC: Prosecutor say a sixth person - a child - died in the attack on a Christmas parade in Wisconsin. 
  <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
@@ -452,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
- <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar over anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from both of his committees. 
 
 
 </details>
