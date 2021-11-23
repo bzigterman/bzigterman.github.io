@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 12:49 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 12:05 AM CT, Nov. 23 </p> 
