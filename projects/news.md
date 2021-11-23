@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
+ <p class="updated_time"> 08:15 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
  <p class="updated_time"> 07:55 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
- <p class="updated_time"> 07:29 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
  <p class="updated_time"> 07:22 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 07:10 AM CT, Nov. 23 </p> 
@@ -29,12 +31,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
+ <p class="updated_time"> 03:09 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382788?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse says his case 'has nothing to do with race'</a> BBC: "I support the BLM movement," says the teen, who was acquitted of murdering two during racial unrest. 
- <p class="updated_time"> 02:39 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
  <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber takes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña weather event has begun</a> BBC: The phenomenon can lead to significant weather changes in different parts of the world. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña phenomenon has begun</a> BBC: The climate pattern can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
- <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -194,6 +194,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden to open taps on oil reserves to tamp down gasoline prices</a> Politico: The move "aims to ensure adequate supply as we exit the pandemic," the Energy Department said. 
+ <p class="updated_time"> 08:10 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
+ <p class="updated_time"> 08:00 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 07:45 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden to announce release of oil reserves as part of effort to lower gas prices</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 07:43 AM CT, Nov. 23 </p> 
@@ -216,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/11/23/1057446470/the-conglomerate-paradox-as-ge-splinters-facebook-becomes-meta">The Conglomerate Paradox: As GE splinters, Facebook becomes Meta</a> NPR: GE announced it's breaking into three. Meanwhile, tech companies continue to take over a wider swath of industries. 
  <p class="updated_time"> 05:11 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/gun-control-gallup-poll/index.html">Support for gun control just hit its lowest point in almost a decade</a> CNN: In the wake of the 2018 mass school shooting in Parkland, Florida, a new generation of teen activists emerged who insisted that the old boom/bust cycle of gun control politics in this country was no more. 
- <p class="updated_time"> 05:02 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/11/23/256592468/the-white-ghosts-haunting-native-americans-in-the-sentence">The white ghosts haunting Native Americans in 'The Sentence'</a> NPR: Louise Erdrich's novel turns the trope of the haunted Indian burial ground on its head with the story of a Native-run bookstore being visited by the ghost of a white woman obsessed with indigeneity. 
  <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/pelosi-democrats-biden-agenda.html">How Nancy Pelosi Got Biden's Build Back Better Bill Back on Track</a> NYT: The House’s approval of a sweeping social policy bill after weeks of fits and starts notched another win for the speaker in a career defined by them. 
  <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
- <p class="updated_time"> 11:06 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html">A Power Struggle Over Cobalt Rattles the Clean Energy Revolution</a> NYT: The quest for Congo’s cobalt, which is vital for electric vehicles and the worldwide push against climate change, is caught in an international cycle of exploitation, greed and gamesmanship. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
