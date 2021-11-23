@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 45 killed</a> BBC: At least 45 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 01:28 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 01:21 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber makes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
- <p class="updated_time"> 12:57 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus crash, including children</a> BBC: At least 45 die, including children, after a bus crashes and catches fire in western Bulgaria. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña weather event has begun</a> BBC: The phenomenon can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59322152?at_medium=RSS&at_campaign=KARANGA">Iran nuclear programme: Threat of Israeli strike grows</a> BBC: As Iran's nuclear programme forges ahead, some see Israel running out of options to thwart it. 
  <p class="updated_time"> 05:10 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Driver 'intentionally' mowed down people at parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Parade incident driver to be charged with homicide</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 04:48 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
