@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59346457?at_medium=RSS&at_campaign=KARANGA">Six ways shoebox-sized satellites are trying to change the world</a> BBC: The CubeSat began as an educational tool but is now helping out humanity 
+ <p class="updated_time"> 06:09 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">Online child abuse rises in India during Covid-19 pandemic</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
+ <p class="updated_time"> 06:06 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-58971281?at_medium=RSS&at_campaign=KARANGA">Can South Africa embrace renewable energy from the sun?</a> BBC: South Africa's main electricity company Eskom plans to switch from using coal to renewable energy. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59322152?at_medium=RSS&at_campaign=KARANGA">Iran nuclear programme: Threat of Israeli strike grows</a> BBC: As Iran's nuclear programme forges ahead, some see Israel running out of options to thwart it. 
  <p class="updated_time"> 05:26 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 05:10 PM CT, Nov. 22 </p> 
@@ -79,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59331695?at_medium=RSS&at_campaign=KARANGA">Far-right candidate through to Chile presidential run-off</a> BBC: Voters will have to choose between far-right candidate José Antonio Kast and left-winger Gabriel Boric. 
  <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
- <p class="updated_time"> 05:32 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: How fast is progress around the world?</a> BBC: Charts and maps tracking the progress of Covid vaccination programmes. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
@@ -121,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173478?at_medium=RSS&at_campaign=KARANGA">Why schools are failing children on climate change</a> BBC: Experts say it's time for India's schools to start teaching climate change as a distinct subject. 
  <p class="updated_time"> 06:04 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
- <p class="updated_time"> 06:00 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59290301?at_medium=RSS&at_campaign=KARANGA">Beirut blast: UN ignored plea for port disaster evidence</a> BBC: Letters to the UN chief's office requesting key information have gone unanswered, the BBC has found. 
  <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 05:01 PM CT, Nov. 21 </p> 
@@ -157,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
- <p class="updated_time"> 04:38 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59364799?at_medium=RSS&at_campaign=KARANGA">Ole Gunnar Solskjaer: What went wrong at Man Utd?</a> BBC: Ole Gunnar Solskjaer leaves Old Trafford after a slump in form - but was it all down to him? 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
@@ -179,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 04:32 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/europe/russia-putin-belarus-ukraine.html">On Putin’s Strategic Chessboard, a Series of Destabilizing Moves</a> NYT: In the stretch of Europe from the Baltic Sea to the Black Sea, where Moscow and the West have competed for influence for decades, the threat of a new military conflict is growing. 
  <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
@@ -194,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 05:58 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/why-biden-picked-powell-523214">Why Biden picked Powell</a> Politico: In the end, President Joe Biden did what many close to him expected: He took a longer-than-anticipated amount of time to arrive at a reasonable, moderate decision that thrilled few but carried limited risk. 
  <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
@@ -242,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
- <p class="updated_time"> 02:34 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 02:28 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House to announce 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 01:58 PM CT, Nov. 22 </p> 
