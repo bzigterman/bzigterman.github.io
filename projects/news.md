@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:21 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 05:01 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 46 killed</a> BBC: At least 46 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 04:56 AM CT, Nov. 23 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
- <p class="updated_time"> 03:34 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
@@ -191,7 +191,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:12 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">Trump’s 2024 map</a> Politico: And 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
  <p class="updated_time"> 05:02 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
