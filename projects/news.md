@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/middleeast/israel-vaccine-children.html">Israel Starts Campaign to Vaccinate Young Children</a> NYT: Seeking to reassure parents, Prime Minister Naftali Bennett took his 9-year-old son, David, to be vaccinated at a clinic in a seaside town near Tel Aviv. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 12:49 PM CT, Nov. 23 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59385519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China says tennis star case maliciously hyped up</a> BBC: As questions remain over the tennis star's wellbeing, China insists it is not a diplomatic matter. 
  <p class="updated_time"> 09:02 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 46 killed</a> BBC: At least 46 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
- <p class="updated_time"> 08:56 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-rioter-misdemeanor-sentence-523181">Judge hands Jan. 6 rioter 60 days for misdemeanor charge</a> Politico: Judge Royce Lamberth issued the sentence after raising concerns about whether Scavo had sought to downplay his behavior even as late as the day of his sentencing. 
- <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/trump-white-house-papers-jan-6-523180">Release of Trump White House papers key to stopping 'future attacks on democracy,' Jan. 6 panel argues</a> Politico: The panel investigating the Capitol attack made its case to a three-judge federal appeals court panel on Monday. Trump is seeking to shield the documents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 12:43 PM CT, Nov. 22 </p> 
@@ -404,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
+ <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/biden-middle-east-israel-523053">Biden's balancing act in the Middle East has a problem: Israel</a> Politico: In an interview, Israel’s interior minister dismisses U.S. plans to reopen a consulate in Jerusalem and downplays reports of Israeli settler violence against Palestinians. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
