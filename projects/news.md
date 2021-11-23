@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:23 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/hhs-rural-health-care.html">U.S. Funneling Billions of Dollars for Rural Health Care</a> NYT: The Department of Health and Human Services has begun distributing $7.5 billion to more than 40,000 health care providers in rural areas of every state. 
  <p class="updated_time"> 12:59 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/middleeast/israel-vaccine-children.html">Israel Starts Campaign to Vaccinate Young Children</a> NYT: Seeking to reassure parents, Prime Minister Naftali Bennett took his 9-year-old son, David, to be vaccinated at a clinic in a seaside town near Tel Aviv. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the W.H.O. said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
- <p class="updated_time"> 12:11 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/hhs-rural-health-care.html">U.S. Funneling Billions of Dollars for Rural Health Care</a> NYT: The Department of Health and Human Services has begun distributing $7.5 billion to more than 40,000 health care providers in rural areas of every state. 
  <p class="updated_time"> 12:04 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 12:03 PM CT, Nov. 23 </p> 
@@ -63,6 +63,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224">As Interpol Picks New Leaders, Questions Grow Over How Autocratic Nations Use It</a> WSJ: The U.S. and other countries are trying to stop authoritarian states using fugitive alerts—the so-called red notices—to chase down dissidents. 
+ <p class="updated_time"> 07:50 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Remove Colombian Rebel Group FARC From Terrorist List</a> WSJ: The officials said the move could come as soon as Tuesday, coinciding with the five-year anniversary of the historic peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 06:22 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
  <p class="updated_time"> 06:08 AM CT, Nov. 23 </p> 
@@ -77,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59380458?at_medium=RSS&at_campaign=KARANGA">Lush to stop some social media until it's 'safer'</a> BBC: The firm says it will close accounts "in an effort to address consumers’ mental health challenges". 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
+ <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356">Massive Hack Gave Police a Window on Cocaine, Cash and Killers</a> WSJ: Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
@@ -125,10 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/popeyes-london.html">Popeyes Opens Its First Location in London</a> NYT: On Saturday, curious customers waited for hours at an East London shopping mall to get a taste of the Louisiana-based restaurant’s fried chicken. 
  <p class="updated_time"> 01:23 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59381775?at_medium=RSS&at_campaign=KARANGA">Peppa Pig and losing notes: UK PM's bizarre speech</a> BBC: Boris Johnson is questioned by a reporter after talking about Peppa Pig World at a business conference. 
- <p class="updated_time"> 12:04 PM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
- <p class="updated_time"> 11:51 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/chinese-leaders-called-to-account-in-outcry-over-tennis-star-peng-shuai-11637621474">Chinese Leaders Called to Account in Outcry Over Tennis Star Peng Shuai</a> WSJ: Unlike a previous sports controversy involving the NBA, tennis stars and the Women’s Tennis Association appear to be prepared to forfeit their financial interests in the country if Chinese officials don’t respond to their satisfaction. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha police chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
- <p class="updated_time"> 09:38 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/chiles-presidential-election-shows-voter-support-for-market-economy-11637612834">Chile's Presidential Election Shows Voter Support for Market Economy</a> WSJ: More than half of the first-round ballots were cast for right-wing candidates, providing a boost to local financial markets. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 09:09 AM CT, Nov. 22 </p> 
