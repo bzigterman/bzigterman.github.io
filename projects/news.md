@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">K St. on Capitol Hill: Lobbyists look to leverage prime real estate near Congress as in-person events return</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:54 AM CT, Nov. 23 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
- <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-rioter-misdemeanor-sentence-523181">Judge hands Jan. 6 rioter 60 days for misdemeanor charge</a> Politico: Judge Royce Lamberth issued the sentence after raising concerns about whether Scavo had sought to downplay his behavior even as late as the day of his sentencing. 
  <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
