@@ -234,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/republican-national-committee-trump-legal-fees/index.html">RNC is paying some of Trump's legal fees in New York probe into Trump Organization </a> CNN: The Republican National Committee is paying some of former President Donald Trump's legal bills, using donor funds to help him pay an attorney representing him in a New York investigation into his company's business practices, according to campaign finance filings and a party spokeswoman. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
- <p class="updated_time"> 07:19 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/waukesha-parade-suspect-523225">Police chief: No evidence parade-crash suspect knew anyone on route</a> Politico: Mayor Shawn Reilly described the parade as a “Norman Rockwell-type” event that “became a nightmare.” 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
@@ -268,6 +266,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058140148/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-batt">Trump-backed Pa. Senate candidate suspends his campaign after losing custody battle</a> NPR: Sean Parnell's decision came after it was made public that a judge had granted Parnell's estranged wife — who accused the Republican of physical abuse — custody of the pair's three children. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes Strategic Petroleum Reserves crude oil release in coming days</a> Politico: The administration is  trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/us/politics/gop-trump-governors-midterms.html">G.O.P. Is Energized, but ‘Trump Cancel Culture’ Poses a Threat</a> NYT: The former president, tightening his grip on the party as a haphazard kingmaker, threatens Republican incumbents and endorses questionable candidates. 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
- <p class="updated_time"> 04:45 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/veterans-nursing-homes-covid-523063">VA stats show devastating Covid toll at vets’ nursing homes</a> Politico: The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
