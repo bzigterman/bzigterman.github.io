@@ -169,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
- <p class="updated_time"> 02:14 PM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/18/world/australia/covid-protests-australia.html">Protesters in Australia Rally Against Covid Restrictions</a> NYT: Demonstrators gathered in cities around the country to protest vaccine mandates and other rules. 
  <p class="updated_time"> 01:48 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/italy-covid-protests.html">Italy Braces for Protests Over Country’s Covid Health Pass</a> NYT: A skimpy turnout for a rally in Rome and the outright failure of one in Milan underscored Italians’ overall acceptance of the country’s Green Pass. 
  <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
@@ -187,10 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 06:00 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
- <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
 
 
 </details>
@@ -198,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:59 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/rep-louie-gohmert-texas-ag-523226">Rep. Louie Gohmert announces he's running for Texas AG</a> Politico: The congressman said earlier this month he was exploring a late entry, basing his decision on whether he could raise $1 million in 10 days. 
  <p class="updated_time"> 07:58 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
  <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
@@ -300,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/covid-vaccine-booster-masks-travel-what-matters/index.html">Covid-19 mixed messaging continues as US enters the booster era</a> CNN: Cases are going up. Hospitalizations are too. Depending on where you live, mask mandates are either being dropped or enacted. Vaccines are more available than ever, but hesitancy remains a real problem. Experimental drugs are showing promise as well, yet regulatory approval takes time. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1052741845/biden-reappoints-jerome-powell-as-federal-reserve">Biden reappoints Jerome Powell as Fed chairman at a critical time for the economy</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve as the economy faces huge challenges, including surging inflation. 
+ <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
@@ -368,14 +366,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
  <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
  <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
- <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/manchin-coal-plant-enrich-west-virginia-523095">As a coal plant fights for life, it could enrich Manchin</a> Politico: A West Virginia power plant proposal hangs in the balance as Manchin battles over clean energy plans in social spending bill. 
  <p class="updated_time"> 04:00 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
