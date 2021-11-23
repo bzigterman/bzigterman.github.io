@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:29 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/loaded-firearm-january-6-charged-mark-mazza/index.html">Man charged with carrying loaded firearm to US Capitol on January 6</a> CNN: An Indiana man charged with carrying a loaded firearm onto the US Capitol grounds and assaulting police officers during the January 6 riot told investigators that if he had visited House Speaker Nancy Pelosi that day, "you'd be here for another reason," according to recently unsealed court documents. 
  <p class="updated_time"> 07:13 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058268112/biden-is-tapping-oil-reserves-to-try-to-bring-down-high-gas-prices">Biden is tapping oil reserves to try to bring down high gas prices</a> NPR: China, India, Japan, South Korea and the United Kingdom are also tapping their emergency stocks. The goal is to try to bring down oil prices, which have been causing consumers pain at the pump. 
  <p class="updated_time"> 07:07 AM CT, Nov. 23 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/rep-louie-gohmert-texas-ag-523226">Rep. Louie Gohmert announces he's running for Texas AG</a> Politico: The congressman said earlier this month he was exploring a late entry, basing his decision on whether he could raise $1 million in 10 days. 
  <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
- <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/loaded-firearm-january-6-charged-mark-mazza/index.html">Man charged with carrying loaded firearm to US Capitol on January 6</a> CNN: An Indiana man charged with carrying a loaded firearm onto the US Capitol grounds and assaulting police officers during the January 6 riot told investigators that if he had visited House Speaker Nancy Pelosi that day, "you'd be here for another reason," according to recently unsealed court documents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
  <p class="updated_time"> 07:57 PM CT, Nov. 22 </p> 
