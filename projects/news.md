@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Supply Woes Start to Ease in Europe, but Businesses' Costs Surge</a> WSJ: European businesses are seeing some easing in the delays they face getting hold of parts and raw materials, but supply-chain blockages pushed their costs higher, driving them to raise prices at record pace and fueling inflationary pressures. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber takes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
+ <p class="updated_time"> 12:04 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: The country’s currency crisis intensified after President Recep Tayyip Erdogan defended an unorthodox policy of cutting interest rates to fight soaring inflation. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña phenomenon has begun</a> BBC: The climate pattern can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha police chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
- <p class="updated_time"> 09:57 AM CT, Nov. 22 </p> 
- <a href="https://www.wsj.com/articles/venezuelas-ruling-party-sweeps-local-and-regional-elections-11637597871">Venezuela's Ruling Party Sweeps Local and Regional Elections</a> WSJ: The opposition participated for the first time since 2017, but President Nicolás Maduro’s party won all but three of 23 state governorships. 
  <p class="updated_time"> 09:38 AM CT, Nov. 22 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-shows-voter-support-for-market-economy-11637612834">Chile's Presidential Election Shows Voter Support for Market Economy</a> WSJ: More than half of the first-round ballots were cast for right-wing candidates, providing a boost to local financial markets. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
@@ -196,12 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden to open taps on oil reserves to tamp down gasoline prices</a> Politico: The move "aims to ensure adequate supply as we exit the pandemic," the Energy Department said. 
+ <p class="updated_time"> 08:26 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden to announce release of oil reserves as part of effort to lower gas prices</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 08:10 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 08:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
- <p class="updated_time"> 07:45 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden to announce release of oil reserves as part of effort to lower gas prices</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 07:43 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-2024-harris-democrats/index.html">Analysis: Why questions about Biden's 2024 plans will make it harder for Democrats to win</a> CNN: Joe Biden is less than a year into his presidency and already his party is fractured over the question of whether he will -- or should -- run again in 2024. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
