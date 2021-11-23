@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 03:57 PM CT, Nov. 23 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356">Massive Hack Gave Police a Window on Cocaine, Cash and Killers</a> WSJ: Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them. 
- <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">Man charged with 5 homicide counts in deadly Waukesha crash</a> Politico: Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
  <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
+ <p class="updated_time"> 04:32 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:13 PM CT, Nov. 23 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/rural-health-care-relief-funds.html">Rural Health Care Providers Get $7.5 Billion in Relief Funds</a> NYT: The money will help offset the increased expenses and revenue losses that rural hospitals and clinics have experienced during the pandemic. 
- <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 02:17 PM CT, Nov. 23 </p> 
@@ -266,6 +268,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/gun-control-gallup-poll/index.html">Support for gun control just hit its lowest point in almost a decade</a> CNN: In the wake of the 2018 mass school shooting in Parkland, Florida, a new generation of teen activists emerged who insisted that the old boom/bust cycle of gun control politics in this country was no more. 
  <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/11/23/256592468/the-white-ghosts-haunting-native-americans-in-the-sentence">The white ghosts haunting Native Americans in 'The Sentence'</a> NPR: Louise Erdrich's novel turns the trope of the haunted Indian burial ground on its head with the story of a Native-run bookstore being visited by the ghost of a white woman obsessed with indigeneity. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
@@ -386,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/us/politics/aoc-democrats.html">A.O.C. on Why Democrats’ ‘Talking Points Are Not Enough’</a> NYT: The House progressive spoke about “demoralizing” congressional negotiations, how she was told to stay away from Virginia’s elections, and what it means to excite the Democratic base. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
- <p class="updated_time"> 12:56 PM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/jim-risch-senator-not-going-to-defend-diplomat-holdup-523124">Top GOP senator slams Republican blockade on diplomatic nominees</a> Politico: With more than 50 foreign-policy nominations stalling on the Senate floor, Idaho Sen. Jim Risch said he has been “as energetic as I can about getting these [nominations] through” the upper chamber. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
