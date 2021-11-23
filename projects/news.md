@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire, including children</a> BBC: At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say. 
- <p class="updated_time"> 11:50 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, a fire official said. 
+ <p class="updated_time"> 12:57 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus crash, including children</a> BBC: At least 45 die, including children, after a bus crashes and catches fire in western Bulgaria. 
+ <p class="updated_time"> 12:56 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña weather event has begun</a> BBC: The phenomenon can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346457?at_medium=RSS&at_campaign=KARANGA">Six ways shoebox-sized satellites are trying to change the world</a> BBC: The CubeSat began as an educational tool but is now helping out humanity 
  <p class="updated_time"> 06:09 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">Online child abuse rises in India during Covid-19 pandemic</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">How child sex abuse rose during pandemic in India</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
  <p class="updated_time"> 06:06 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-58971281?at_medium=RSS&at_campaign=KARANGA">Can South Africa embrace renewable energy from the sun?</a> BBC: South Africa's main electricity company Eskom plans to switch from using coal to renewable energy. 
  <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
