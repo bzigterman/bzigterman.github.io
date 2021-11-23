@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:49 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 09:35 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 09:27 AM CT, Nov. 23 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
- <p class="updated_time"> 09:10 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 09:10 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59385519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China says tennis star case maliciously hyped up</a> BBC: As questions remain over the tennis star's wellbeing, China insists it is not a diplomatic matter. 
  <p class="updated_time"> 09:02 AM CT, Nov. 23 </p> 
