@@ -206,10 +206,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">Man charged with 5 homicide counts in deadly Waukesha crash</a> Politico: Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
+ <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
+ <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
- <p class="updated_time"> 04:32 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:13 PM CT, Nov. 23 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
  <p class="updated_time"> 06:09 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/andrew-cuomo-new-york/index.html">'There's power in that fear': Andrew Cuomo looms in the race to replace him</a> CNN: More than three months after he resigned in disgrace, former New York Gov. Andrew Cuomo exists in political limbo -- not completely written off as a spent force, but sidelined as the campaign to replace him heats up. 
- <p class="updated_time"> 06:07 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 05:30 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/money/2021/11/23/1057446470/the-conglomerate-paradox-as-ge-splinters-facebook-becomes-meta">The Conglomerate Paradox: As GE splinters, Facebook becomes Meta</a> NPR: GE announced it's breaking into three. Meanwhile, tech companies continue to take over a wider swath of industries. 
  <p class="updated_time"> 05:11 AM CT, Nov. 23 </p> 
