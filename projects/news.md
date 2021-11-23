@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Parade incident driver to be charged with homicide</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 03:47 AM CT, Nov. 23 </p> 
@@ -15,12 +19,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
- <p class="updated_time"> 03:00 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382788?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse says his case 'has nothing to do with race'</a> BBC: "I support the BLM movement," says the teen, who was acquitted of murdering two during racial unrest. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. The bus crashed around 2 a.m. and there were children among the victims, officials said. 
+ <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
  <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058238037/philippine-supply-boats-reach-marines-at-china-guarded-shoal">Philippine supply boats reach marines at China-guarded shoal</a> NPR: The Philippine navy successfully delivered supplies to marines guarding a disputed shoal in the South China Sea, a week after China's coast guard used water cannons to force the  boats to turn back. 
  <p class="updated_time"> 01:52 AM CT, Nov. 23 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
  <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59322152?at_medium=RSS&at_campaign=KARANGA">Iran nuclear programme: Threat of Israeli strike grows</a> BBC: As Iran's nuclear programme forges ahead, some see Israel running out of options to thwart it. 
- <p class="updated_time"> 05:10 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Parade incident driver to be charged with homicide</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 04:48 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
@@ -191,11 +191,15 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">Dems roll toward midterms with rock-bottom brand</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump zeros in on his 2024 map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
+ <p class="updated_time"> 04:29 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
- <p class="updated_time"> 12:49 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 12:05 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/fbi-parkland-settlement-families-523235">Florida massacre families to get millions for FBI’s inaction</a> Politico: Attorneys for 16 of the 17 killed at Marjory Stoneman Douglas High School and some of those wounded said they have reached a  settlement with the government, 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 05:20 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/jan-6-stone-jones-523193">Jan. 6 committee subpoenas Roger Stone and Alex Jones</a> Politico: The panel investigating the attack on the Capitol also targeted rally promoters Dustin Stockton and Jennifer Lawrence, and Trump spokesperson Taylor Budowich. 
  <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/ahmaud-arbery-closing-arguments-523210">Attorneys make final case to jurors in Ahmaud Arbery’s death</a> Politico: The arguments unfolded before a disproportionately white jury after 10 days of testimony. 
  <p class="updated_time"> 05:08 PM CT, Nov. 22 </p> 
@@ -280,10 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-rioter-misdemeanor-sentence-523181">Judge hands Jan. 6 rioter 60 days for misdemeanor charge</a> Politico: Judge Royce Lamberth issued the sentence after raising concerns about whether Scavo had sought to downplay his behavior even as late as the day of his sentencing. 
- <p class="updated_time"> 01:03 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/trump-white-house-papers-jan-6-523180">Release of Trump White House papers key to stopping 'future attacks on democracy,' Jan. 6 panel argues</a> Politico: The panel investigating the Capitol attack made its case to a three-judge federal appeals court panel on Monday. Trump is seeking to shield the documents. 
- <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 12:43 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
  <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
@@ -422,6 +420,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
+ <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
