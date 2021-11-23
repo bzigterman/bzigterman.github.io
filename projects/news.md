@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
+ <p class="updated_time"> 03:38 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: Turkey’s economic crisis entered a tumultuous new phase, with its currency plunging to a record low and President Recep Tayyip Erdogan preparing to meet the leader of a regional rival in search of foreign investment. 
  <p class="updated_time"> 03:09 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Supply Woes Start to Ease in Europe, but Businesses' Costs Surge</a> WSJ: European businesses are seeing some easing in the delays they face getting hold of parts and raw materials, but supply-chain blockages pushed their costs higher, driving them to raise prices at record pace and fueling inflationary pressures. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber takes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
- <p class="updated_time"> 12:04 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: The country’s currency crisis intensified after President Recep Tayyip Erdogan defended an unorthodox policy of cutting interest rates to fight soaring inflation. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña phenomenon has begun</a> BBC: The climate pattern can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
