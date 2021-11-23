@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 03:57 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:45 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
- <p class="updated_time"> 03:40 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">As Covid Cases Rise, Buffalo Officials Reimpose a Mask Mandate</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 03:38 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
+ <p class="updated_time"> 03:34 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
  <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
@@ -49,16 +51,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
+ <p class="updated_time"> 11:19 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide with this week’s five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 11:02 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
- <p class="updated_time"> 10:46 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Remove Colombian Rebel Group FARC From Terrorist List</a> WSJ: U.S. and congressional officials said the move could coincide with this week’s five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan - reports on the impact of 100 days of Taliban rule. 
- <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
@@ -202,14 +202,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
  <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
- <p class="updated_time"> 04:05 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
- <p class="updated_time"> 04:05 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 04:13 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
+ <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/gun-control-gallup-poll/index.html">Support for gun control just hit its lowest point in almost a decade</a> CNN: In the wake of the 2018 mass school shooting in Parkland, Florida, a new generation of teen activists emerged who insisted that the old boom/bust cycle of gun control politics in this country was no more. 
  <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2021/11/23/256592468/the-white-ghosts-haunting-native-americans-in-the-sentence">The white ghosts haunting Native Americans in 'The Sentence'</a> NPR: Louise Erdrich's novel turns the trope of the haunted Indian burial ground on its head with the story of a Native-run bookstore being visited by the ghost of a white woman obsessed with indigeneity. 
- <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
@@ -274,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
- <p class="updated_time"> 12:05 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/fbi-parkland-settlement-families-523235">Florida massacre families to get millions for FBI’s inaction</a> Politico: Attorneys for 16 of the 17 killed at Marjory Stoneman Douglas High School and some of those wounded said they have reached a  settlement with the government, 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 11:05 PM CT, Nov. 22 </p> 
@@ -326,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058140148/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-batt">Trump-backed Pa. Senate candidate suspends his campaign after losing custody battle</a> NPR: Sean Parnell's decision came after it was made public that a judge had granted Parnell's estranged wife — who accused the Republican of physical abuse — custody of the pair's three children. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
- <p class="updated_time"> 03:33 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/biden-strategic-petroleum-reserve-release-523199">Biden eyes Strategic Petroleum Reserves crude oil release in coming days</a> Politico: The administration is  trying to coordinate concurrent releases with foreign governments, including those in China and Japan. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
