@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Russell Hill and Carol Clay vanished in March last year during a camping trip in Victoria. 
+ <p class="updated_time"> 06:35 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
+ <p class="updated_time"> 06:26 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59378553?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey to pay $31m to studio after abuse claims</a> BBC: The actor was ordered to pay $31m (£23.2) to the House of Cards studio after sexual abuse claims. 
  <p class="updated_time"> 06:19 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
  <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
@@ -15,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">Online child abuse rises in India during Covid-19 pandemic</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
  <p class="updated_time"> 06:06 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-58971281?at_medium=RSS&at_campaign=KARANGA">Can South Africa embrace renewable energy from the sun?</a> BBC: South Africa's main electricity company Eskom plans to switch from using coal to renewable energy. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/long-island-er-vaccine-mandate.html">Long Island E.R. Closes as Vaccine Mandate Creates Nurse Shortage</a> NYT: A free-standing emergency department in Long Beach, operated by Mount Sinai South Nassau, said it had to close temporarily because of a nursing staff shortage. 
  <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
  <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
@@ -29,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
- <p class="updated_time"> 04:15 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:17 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59378548?at_medium=RSS&at_campaign=KARANGA">Germany Covid: Health minister's stark warning to get jabbed</a> BBC: As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated. 
- <p class="updated_time"> 10:14 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-59340779?at_medium=RSS&at_campaign=KARANGA">Jerome Powell nominated to stay as US Federal Reserve chair</a> BBC: President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha police chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
  <p class="updated_time"> 09:57 AM CT, Nov. 22 </p> 
@@ -110,7 +114,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:02 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 01:38 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">'I never expected my wedding song to be a global hit'</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">Isii Nafta singer Nimco Happy on representing Somalia and her TikTok fame</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
@@ -123,12 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
- <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-59317505?at_medium=RSS&at_campaign=KARANGA">The 99-year-old cyclist who has won a world silver medal</a> BBC: How a former World War Two pilot came second in a cycling competition for older people. 
- <p class="updated_time"> 06:08 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59295624?at_medium=RSS&at_campaign=KARANGA">TB Joshua's widow and the battle for his Nigerian church</a> BBC: Five months after the death of the prominent Nigerian televangelist, services have resumed. 
- <p class="updated_time"> 06:06 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59173478?at_medium=RSS&at_campaign=KARANGA">Why schools are failing children on climate change</a> BBC: Experts say it's time for India's schools to start teaching climate change as a distinct subject. 
  <p class="updated_time"> 06:04 PM CT, Nov. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
  <p class="updated_time"> 05:38 PM CT, Nov. 21 </p> 
@@ -161,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/africa/south-sudan-covid-flooding.html">In South Sudan, Vaccines Are Overshadowed by Pressing Needs</a> NYT: Much of South Sudan is under water from flooding induced by climate change and deforestation. Crops and livestock are lost, hunger and malaria are spreading. With so many worries, coronavirus vaccines are a tough sell. 
- <p class="updated_time"> 06:02 AM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-59346367?at_medium=RSS&at_campaign=KARANGA">ICYMI: Snowboarding baby goes viral and motocross rider front flips off a cliff</a> BBC: Snowboarding baby, Wang Yuji, goes viral in China and others stories you may have missed this week. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 11:01 PM CT, Nov. 20 </p> 
@@ -189,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/19/world/canada/soccer-canada-mexico.html">Canada Keeps World Cup Dream Alive in Qualifying Match</a> NYT: The Canadian men’s team, which has not been in the World Cup since 1986, is now leading the regional qualifying competition. 
  <p class="updated_time"> 04:57 PM CT, Nov. 19 </p> 
  <a href="https://www.nytimes.com/2021/11/19/world/canada-vaccines-travel.html">Canada Expands Vaccines Accepted for Travel</a> NYT: Officials also removed a test requirement for eligible travelers re-entering Canada within 72 hours. 
- <p class="updated_time"> 12:26 PM CT, Nov. 19 </p> 
- <a href="https://www.nytimes.com/2021/11/19/world/americas/brazil-amazon-deforestation.html">Amazon Deforestation Soars to 15-Year High</a> NYT: Brazil committed this month to end illegal deforestation in eight years, but a government report raises questions about its intent and ability to meet that target. 
 
 
 </details>
@@ -198,6 +192,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
+ <p class="updated_time"> 07:19 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/waukesha-parade-suspect-523225">Police chief: No evidence parade-crash suspect knew anyone on route</a> Politico: Mayor Shawn Reilly described the parade as a “Norman Rockwell-type” event that “became a nightmare.” 
+ <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
+ <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 06:20 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 05:58 PM CT, Nov. 22 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
- <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
  <p class="updated_time"> 05:20 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/jan-6-stone-jones-523193">Jan. 6 committee subpoenas Roger Stone and Alex Jones</a> Politico: The panel investigating the attack on the Capitol also targeted rally promoters Dustin Stockton and Jennifer Lawrence, and Trump spokesperson Taylor Budowich. 
  <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
@@ -248,12 +248,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
- <p class="updated_time"> 02:28 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House to announce 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 01:58 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/lucy-mcbath-carolyn-bourdeaux-georgia-democratic-primary/index.html">2 Georgia Democratic congresswomen will face off after Republicans' redistricting</a> CNN: Georgia Rep. Lucy McBath announced Monday that she would run for a new district in the Atlanta suburbs against fellow Democrat Rep. Carolyn Bourdeaux after the Republican controlled-state legislature redrew McBath's district to make it a safely red seat. 
- <p class="updated_time"> 01:55 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President to celebrate 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 01:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/supreme-court-texas-abortion/index.html">Supreme Court's head fake leaves Texas women waiting for answers on abortion rights</a> CNN: Women in Texas who have been blocked from exercising their constitutional right to obtain an abortion for almost three months had reason to expect Monday that the Supreme Court was poised to rule on challenges to the state restrictions. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
@@ -320,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/rittenhouse-politics-divided-nation-biden-trump-orourke/index.html">Rittenhouse is latest symbol of a nation divided on guns, crime and protest</a> CNN: Three days after his acquittal in a polarizing case in Wisconsin, Kyle Rittenhouse is now a teenaged avatar for a nation divided over the nature of justice, the societal role of guns and violence in political discourse. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
- <p class="updated_time"> 07:49 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/waukesha-christmas-parade-suv-523173">Police: Parade-crash suspect was in a domestic disturbance</a> Politico: Police Chief Dan Thompson said there was is no evidence the crash on Sunday was a terrorist attack or that the suspect, Darrell Brooks Jr., knew anyone in the parade. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
  <p class="updated_time"> 04:09 PM CT, Nov. 21 </p> 
@@ -378,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
- <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
@@ -458,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
- <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
 
 
 </details>
