@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 46 killed</a> BBC: At least 46 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 05:21 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
- <p class="updated_time"> 05:01 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 46 killed</a> BBC: At least 46 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 04:56 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59385519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: China says tennis star case maliciously hyped up</a> BBC: As questions remain over the tennis star's wellbeing, China insists it is not a diplomatic matter. 
  <p class="updated_time"> 04:36 AM CT, Nov. 23 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
  <p class="updated_time"> 05:30 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/money/2021/11/23/1057446470/the-conglomerate-paradox-as-ge-splinters-facebook-becomes-meta">The Conglomerate Paradox: As GE splinters, Facebook becomes Meta</a> NPR: GE announced it's breaking into three. Meanwhile, tech companies continue to take over a wider swath of industries. 
+ <p class="updated_time"> 05:11 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/gun-control-gallup-poll/index.html">Support for gun control just hit its lowest point in almost a decade</a> CNN: In the wake of the 2018 mass school shooting in Parkland, Florida, a new generation of teen activists emerged who insisted that the old boom/bust cycle of gun control politics in this country was no more. 
  <p class="updated_time"> 05:02 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
  <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
+ <p class="updated_time"> 04:27 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/private-supreme-court-files/index.html">Private SCOTUS files that could reveal what happened in Bush v. Gore remain locked up  </a> CNN: Internal Supreme Court documents that could enhance public understanding of the Bush v. Gore election battle and other significant cases of the late 1990s and early 2000s were to be opened last year under a deal forged by a long-serving justice, but the high court has delayed release of the materials, citing the pandemic. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
  <p class="updated_time"> 12:05 AM CT, Nov. 23 </p> 
@@ -212,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 11:25 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/elizabeth-holmes-testimony-theranos-523234">Elizabeth Holmes makes her case to the jury in fraud trial</a> Politico: Prosecutors alleged she duped investors and patients into believing she had invented a breakthrough in blood-testing technology. 
+ <p class="updated_time"> 11:05 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/donald-trump-january-6-committee-subpoenas-roger-stone-alex-jones/index.html">Trump's next January 6 circus looms after Stone and Jones are subpoenaed </a> CNN: Steve Bannon turned the January 6 committee into a politicized spectacle but Alex Jones and Roger Stone could conjure a theater of the absurd out of the probe into one of the most jarring assaults on democracy in US history. 
  <p class="updated_time"> 10:20 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-2024-harris-democrats/index.html">Analysis: The 'Biden 2024' debate is a straight-up loser for Democrats</a> CNN: Joe Biden is less than a year into his presidency and already his party is fractured over the question of whether he will -- or should -- run again in 2024. 
  <p class="updated_time"> 10:08 PM CT, Nov. 22 </p> 
@@ -226,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/ohio-office-breach-elections/index.html">Federal and state officials investigate attempted breach of Ohio county office after data appears at 'Big Lie' symposium</a> CNN: Federal and state officials are investigating an attempted breach of an Ohio county government office, in one of multiple instances this year in which data from a local government office was circulated at a conference promoting false claims of election fraud. 
  <p class="updated_time"> 07:58 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
+ <p class="updated_time"> 07:57 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/roger-stone-alex-jones-subpoenas-january-6/index.html">New January 6 committee subpoenas issued for 5 Trump allies including Roger Stone and Alex Jones</a> CNN: The House select committee investigating the January 6 riot issued a new round of subpoenas on Monday to five of former President Donald Trump's allies directly involved in planning "Stop the Steal" rallies, including longtime Republican operative Roger Stone and conspiracy theorist Alex Jones. 
  <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/parkland-shooting-settlement/index.html">Families of Parkland shooting victims settle lawsuit with Justice Department</a> CNN: More than a dozen families for the victims of the Parkland, Florida, high school massacre have reached a settlement with the Justice Department after suing the agency and FBI for not acting on tips warning about the shooter, according to a federal court filing on Monday. 
  <p class="updated_time"> 07:38 PM CT, Nov. 22 </p> 
@@ -238,6 +246,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
+ <p class="updated_time"> 06:50 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/brendan-hunt-sentenced-pelosi-schumer-aoc/index.html">Brendan Hunt sentenced to 19 months in prison for threatening to assault or murder members of Congress</a> CNN: Brendan Hunt -- whose father is a retired judge and who allegedly threatened the lives of House Speaker Nancy Pelosi, now-Senate Majority Leader Chuck Schumer and Rep. Alexandria Ocasio-Cortez -- was sentenced Monday to 19 months in prison after being found guilty of one count of threatening to assault or murder US officials. 
  <p class="updated_time"> 06:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
@@ -276,14 +286,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128839/president-biden-has-nominated-jerome-powell-to-remain-fed-chair">President Biden has nominated Jerome Powell to remain Fed chair</a> NPR: President Biden plans to re-nominate Jerome Powell to lead the Federal Reserve for four more years. Powell has steered the central bank through the pandemic recession. Now he must take on inflation. 
  <p class="updated_time"> 03:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
- <p class="updated_time"> 03:07 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/cuomo-impeachment-report-new-york-assembly/index.html">New Cuomo probe: 'Overwhelming evidence' former governor sexually harassed women</a> CNN: The New York state Assembly Judiciary Committee on Monday released a 45-page report detailing the findings of an impeachment investigation into former Gov. Andrew Cuomo. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 01:58 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/lucy-mcbath-carolyn-bourdeaux-georgia-democratic-primary/index.html">2 Georgia Democratic congresswomen will face off after Republicans' redistricting</a> CNN: Georgia Rep. Lucy McBath announced Monday that she would run for a new district in the Atlanta suburbs against fellow Democrat Rep. Carolyn Bourdeaux after the Republican controlled-state legislature redrew McBath's district to make it a safely red seat. 
- <p class="updated_time"> 01:51 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/supreme-court-texas-abortion/index.html">Supreme Court's head fake leaves Texas women waiting for answers on abortion rights</a> CNN: Women in Texas who have been blocked from exercising their constitutional right to obtain an abortion for almost three months had reason to expect Monday that the Supreme Court was poised to rule on challenges to the state restrictions. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
@@ -296,10 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/us/politics/thanksgiving-higher-prices.html">How Higher Prices This Holiday Season Could Cost Democrats, Too</a> NYT: Rising prices for gas and a holiday meal could come back to bite Democrats, who fear that inflation may upend their electoral prospects in the 2022 midterms. 
  <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/jan-6-trump-files.html">Court Urged to Let Jan. 6 Panel See Trump White House Files</a> NYT: In appellate briefs, lawyers for the House and the Justice Department argued against the former president’s claim of executive privilege. 
- <p class="updated_time"> 12:29 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/florida-biden-hhs-vaccine-mandate/index.html">Judge declines Florida request to immediately block Biden HHS vaccine rule for health care workers</a> CNN: A federal judge said this weekend that she would not block the Biden administration's vaccine mandate for health care workers while a Florida lawsuit challenging the mandate moves forward. 
- <p class="updated_time"> 12:08 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/chris-christie-donald-trump-axe-files/index.html">Chris Christie says 2020 election lies were his 'red line' with Trump</a> CNN: Former New Jersey Gov. Chris Christie said Donald Trump's lies about the 2020 election results were a "red line" for him, and that he has not spoken with the former President in nearly a year. 
  <p class="updated_time"> 11:48 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
  <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/article/lael-brainard-federal-reserve.html">Who is Lael Brainard, President Biden’s pick for the Fed’s vice chair?</a> NYT: She was in the mix to potentially replace Jerome Powell as Fed chair, but Mr. Biden’s decision to elevate her to the Fed’s No. 2 role will still place her in a powerful position. 
- <p class="updated_time"> 09:23 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/thanksgiving-ransomware-warning/index.html">US government issues Thanksgiving ransomware warning</a> CNN: US officials are telling American businesses and government organizations to take extra precautions against hackers this Thanksgiving following multiple ransomware attacks during previous holiday periods. 
  <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try to get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce vulnerable. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
@@ -352,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
- <p class="updated_time"> 11:00 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/chris-sununu-republicans-infrastructure-vote-cnntv/index.html">GOP governor: House Republicans trying to punish colleagues who backed infrastructure bill 'have their priorities screwed up' </a> CNN: New Hampshire Republican Gov. Chris Sununu on Sunday criticized members of his party who are looking to retaliate against 13 GOP House members who voted to pass President Joe Biden's $1.2 trillion infrastructure bill, saying they "have their priorities screwed up." 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
@@ -380,8 +378,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/mezuzah-vice-president-home/index.html">Second family becomes first to affix a mezuzah on executive home</a> CNN: Vice President Kamala Harris and her husband Doug Emhoff achieved another first in their historic roles when they affixed a white mezuzah to the right-hand side of the doorway of the vice presidential residence. 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/us/politics/gop-trump-governors-midterms.html">G.O.P. Is Energized, but ‘Trump Cancel Culture’ Poses a Threat</a> NYT: The former president, tightening his grip on the party as a haphazard kingmaker, threatens Republican incumbents and endorses questionable candidates. 
- <p class="updated_time"> 07:00 AM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html">Gerrymandering: How it's being exposed and how it affects your state</a> CNN: Here's how politicians game the system: The same group of people can vote on the same Election Day with very different results. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 20 </p> 
+ <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
+ <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
+ <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 03:43 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/cdc-vaccine-advisors-endorse-boosters-for-all-adults-523058">CDC chief approves Covid-19 boosters for all adults</a> Politico: Her endorsement came just hours after CDC’s external advisory committee unanimously backed the approach. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
@@ -400,8 +400,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
- <p class="updated_time"> 06:19 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/steele-dossier-reckoning/index.html">The Steele dossier: A reckoning   </a> CNN: When it came to light in January 2017, just days before Donald Trump took office, the so-called Steele dossier landed like a bombshell and sent shockwaves around the world with its salacious allegations about Trump and his supposed ties to Russia. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
