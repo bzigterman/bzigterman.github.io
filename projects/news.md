@@ -31,10 +31,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:55 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382788?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse says his case 'has nothing to do with race'</a> BBC: "I support the BLM movement," says the teen, who was acquitted of murdering two during racial unrest. 
+ <p class="updated_time"> 02:39 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
- <p class="updated_time"> 02:16 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S., Others to Tap Oil Reserves in Bid to Bring Down Prices</a> WSJ: The U.S. and several other countries will tap their national strategic petroleum reserves, senior Biden administration officials said, in an attempt to bring down rising gasoline prices. 
  <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058238037/philippine-supply-boats-reach-marines-at-china-guarded-shoal">Philippine supply boats reach marines at China-guarded shoal</a> NPR: The Philippine navy successfully delivered supplies to marines guarding a disputed shoal in the South China Sea, a week after China's coast guard used water cannons to force the  boats to turn back. 
  <p class="updated_time"> 01:52 AM CT, Nov. 23 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/biden-2024-harris-democrats/index.html">Analysis: Why questions about Biden's 2024 plans will make it harder for Democrats to win</a> CNN: Joe Biden is less than a year into his presidency and already his party is fractured over the question of whether he will -- or should -- run again in 2024. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:29 AM CT, Nov. 23 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058268112/biden-is-tapping-oil-reserves-to-try-to-bring-down-high-gas-prices">Biden is tapping oil reserves to try to bring down high gas prices</a> NPR: China, India, Japan, South Korea and the United Kingdom are also tapping their emergency stocks. The goal is to try to bring down oil prices, which have been causing consumers pain at the pump. 
  <p class="updated_time"> 07:07 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden to announce release of oil reserves as part of effort to lower gas prices</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
- <p class="updated_time"> 06:51 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/biden-2024-harris-democrats/index.html">Analysis: Why questions about Biden's 2024 plans will make it harder for Democrats to win</a> CNN: Joe Biden is less than a year into his presidency and already his party is fractured over the question of whether he will -- or should -- run again in 2024. 
  <p class="updated_time"> 06:22 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/private-supreme-court-files/index.html">Private SCOTUS files that could reveal what happened in Bush v. Gore remain locked up</a> CNN: Internal Supreme Court documents that could enhance public understanding of the Bush v. Gore election battle and other significant cases of the late 1990s and early 2000s were to be opened last year under a deal forged by a long-serving justice, but the high court has delayed release of the materials, citing the pandemic. 
  <p class="updated_time"> 06:12 AM CT, Nov. 23 </p> 
