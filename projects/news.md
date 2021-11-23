@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
+ <p class="updated_time"> 08:31 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Carol Clay and Russell Hill vanished in March last year during a camping trip in Victoria. 
  <p class="updated_time"> 08:08 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 08:07 PM CT, Nov. 22 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
  <p class="updated_time"> 07:41 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Dart: Mission to smack Dimorphos asteroid set for launch</a> BBC: A spacecraft is set to launch on a mission to nudge an asteroid off course. 
- <p class="updated_time"> 06:43 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Russell Hill and Carol Clay vanished in March last year during a camping trip in Victoria. 
  <p class="updated_time"> 06:35 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 06:26 PM CT, Nov. 22 </p> 
@@ -376,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
+ <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/the-lionization-of-kyle-rittenhouse-by-the-right-523054">The lionization of Kyle Rittenhouse by the right</a> Politico: A not guilty verdict wasn’t needed to turn the 18-year-old into a conservative cause célèbre. But he got one still. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 01:25 PM CT, Nov. 19 </p> 
