@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:42 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 03:45 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 03:40 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">As Covid Cases Rise, Buffalo Officials Reimpose a Mask Mandate</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
+ <p class="updated_time"> 10:46 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Remove Colombian Rebel Group FARC From Terrorist List</a> WSJ: U.S. and congressional officials said the move could coincide with this week’s five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
- <p class="updated_time"> 08:31 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Remove Colombian Rebel Group FARC From Terrorist List</a> WSJ: The officials said the move could come as soon as Tuesday, coinciding with the five-year anniversary of the historic peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 08:01 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224">As Interpol Picks New Leaders, Questions Grow Over How Autocratic Nations Use It</a> WSJ: The U.S. and other countries are trying to stop authoritarian states using fugitive alerts—the so-called red notices—to chase down dissidents. 
  <p class="updated_time"> 07:12 AM CT, Nov. 23 </p> 
@@ -202,12 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:43 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">With the holidays ahead, President Biden addressed inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
+ <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/jury-awards-millions-damages-unite-the-right-523257">Jury awards millions in damages for Unite the Right violence</a> Politico: Hundreds of white nationalists descended on Charlottesville for the rally on Aug. 11 and 12, 2017, ostensibly to protest city plans to remove a statue of Confederate Gen. Robert E. Lee. 
  <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
@@ -306,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/inflation-biden-federal-reserve-what-matters/index.html">Analysis: There's a major problem with the narrative on inflation</a> CNN: The inflation narrative is largely set. The coronavirus pandemic created supply chain snarls. It put production out of whack. As demand has roared back following Covid-19 lockdowns, prices have soared. 
+ <p class="updated_time"> 05:58 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/why-biden-picked-powell-523214">Why Biden picked Powell</a> Politico: In the end, President Joe Biden did what many close to him expected: He took a longer-than-anticipated amount of time to arrive at a reasonable, moderate decision that thrilled few but carried limited risk. 
  <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
- <p class="updated_time"> 01:13 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/jan-6-rioter-misdemeanor-sentence-523181">Judge hands Jan. 6 rioter 60 days for misdemeanor charge</a> Politico: Judge Royce Lamberth issued the sentence after raising concerns about whether Scavo had sought to downplay his behavior even as late as the day of his sentencing. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 12:43 PM CT, Nov. 22 </p> 
@@ -408,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
- <p class="updated_time"> 10:21 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/biden-to-have-colonoscopy-under-anesthesia-523032">Biden 'fit for duty' after Harris is temporarily granted powers during medical procedure</a> Politico: The president underwent his annual physical at Walter Reed on Friday. 
  <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
