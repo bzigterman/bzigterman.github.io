@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:28 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 03:42 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
+ <p class="updated_time"> 03:40 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">As Covid Cases Rise, Buffalo Officials Reimpose a Mask Mandate</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
+ <p class="updated_time"> 03:38 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 03:21 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
@@ -45,12 +49,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 11:13 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending with the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan- reports on the impact of 100 days of Taliban rule. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan - reports on the impact of 100 days of Taliban rule. 
  <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:47 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 08:46 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 08:44 AM CT, Nov. 23 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
+ <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
+ <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">With the holidays ahead, President Biden addressed inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/jury-awards-millions-damages-unite-the-right-523257">Jury awards millions in damages for Unite the Right violence</a> Politico: Hundreds of white nationalists descended on Charlottesville for the rally on Aug. 11 and 12, 2017, ostensibly to protest city plans to remove a statue of Confederate Gen. Robert E. Lee. 
  <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
- <p class="updated_time"> 02:55 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/rural-health-care-relief-funds.html">Rural Health Care Providers Get $7.5 Billion in Relief Funds</a> NYT: The money will help offset the increased expenses and revenue losses that rural hospitals and clinics have experienced during the pandemic. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
  <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try to get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce vulnerable. 
- <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1052741845/biden-reappoints-jerome-powell-as-federal-reserve">Biden reappoints Jerome Powell as Fed chairman at a critical time for the economy</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve as the economy faces huge challenges, including surging inflation. 
  <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/states/california/story/2021/11/21/even-in-liberal-california-strict-vaccine-mandates-face-resistance-1394740">Even in liberal California, strict vaccine mandates face resistance</a> Politico: Enough people in the state remain unvaccinated that school districts, prison officials and private employers are urging flexibility. Otherwise, they say they’ll be understaffed. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
- <p class="updated_time"> 03:32 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/halifax-democracy-america-allies-523147">‘No ground for cockiness’: Tough love for U.S. at pro-democracy conference</a> Politico: From Afghanistan to domestic extremism, the Halifax forum became a therapy session for allies concerned with America’s actions. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
