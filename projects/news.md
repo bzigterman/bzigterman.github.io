@@ -200,8 +200,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
  <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">Man charged with 5 homicide counts in deadly Waukesha crash</a> Politico: Darrell Brooks Jr. made his initial appearance in court. 
+ <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">8-year-old becomes sixth to die from injuries in Waukesha</a> Politico: Suspect Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
  <p class="updated_time"> 05:00 PM CT, Nov. 23 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/ahmaud-arbery-closing-arguments-523210">Attorneys make final case to jurors in Ahmaud Arbery’s death</a> Politico: The arguments unfolded before a disproportionately white jury after 10 days of testimony. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
@@ -384,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
- <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html">Manchin and Sinema Find Financial Support From G.O.P. Donors</a> NYT: The two Democratic senators are attracting campaign contributions from business interests and conservatives as progressives fume over their efforts to pare back the president’s domestic policy bill. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
@@ -396,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
