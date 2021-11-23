@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
+ <p class="updated_time"> 09:27 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 09:10 AM CT, Nov. 23 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:51 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
  <p class="updated_time"> 08:47 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 08:47 AM CT, Nov. 23 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
  <p class="updated_time"> 05:32 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59373963?at_medium=RSS&at_campaign=KARANGA">VR helps parents visualise child's surgery</a> BBC: Click discovers how VR helps parents decide whether to go through with surgery for their child. 
- <p class="updated_time"> 05:21 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 04:36 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Parade incident driver to be charged with homicide</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
