@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
+ <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
  <p class="updated_time"> 02:28 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/middleeast/israel-vaccine-children.html">Israel Starts Campaign to Vaccinate Young Children</a> NYT: Seeking to reassure parents, Prime Minister Naftali Bennett took his 9-year-old son, David, to be vaccinated at a clinic in a seaside town near Tel Aviv. 
+ <p class="updated_time"> 02:27 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59392771?at_medium=RSS&at_campaign=KARANGA">Albert Einstein relativity document sells for record €11m</a> BBC: The manuscript shows Einstein's attempts to formulate his theory of relativity. 
  <p class="updated_time"> 02:12 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355018?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury to decide fate of men accused in his murder</a> BBC: Three men are accused in the fatal shooting of the 25-year-old black jogger in the US state of Georgia. 
  <p class="updated_time"> 02:10 PM CT, Nov. 23 </p> 
@@ -41,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan- reports on the impact of 100 days of Taliban rule. 
- <p class="updated_time"> 09:50 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 09:35 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
@@ -198,6 +202,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/jury-awards-millions-damages-unite-the-right-523257">Jury awards millions in damages for Unite the Right violence</a> Politico: Hundreds of white nationalists descended on Charlottesville for the rally on Aug. 11 and 12, 2017, ostensibly to protest city plans to remove a statue of Confederate Gen. Robert E. Lee. 
+ <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
+ <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
+ <a href="https://www.npr.org/2021/11/23/1058623989/u-s-to-release-50-million-barrels-of-crude-oil-from-the-reserve-to-lower-gas-pri">U.S. to release 50 million barrels of crude oil from the reserve to lower gas prices</a> NPR: The Biden administration is tapping into the country's emergency petroleum reserves in a bid to bring down high gas prices. But it's not clear how successful that strategy will be. 
+ <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:55 PM CT, Nov. 23 </p> 
@@ -211,15 +221,11 @@ permalink: /projects/news/
  <p class="updated_time"> 02:35 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe the militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 02:17 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in Congressional January 6th probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
- <p class="updated_time"> 12:36 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
+ <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
- <p class="updated_time"> 09:50 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
@@ -227,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:56 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-osha-6th-circuit-stay/index.html">Biden administration asks appeals court to reinstate OSHA vaccine mandate </a> CNN: The Biden administration is asking the 6th US Circuit Court of Appeals to wipe away an order from another appeals court blocking its Occupational Safety and Health Administration vaccine mandate. 
  <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden acts to lower fuel prices — with help from GOP</a> Politico: The move "aims to ensure adequate supply as we exit the pandemic," the Energy Department said. 
+ <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden acts to lower fuel prices — with help from GOP</a> Politico: Biden’s Energy Department specifically cited Trump era legislation before releasing 50 million barrels from the nation’s oil reserves. 
  <p class="updated_time"> 08:27 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-electric-vehicle-chargers-climate/index.html">How Biden's infrastructure funding could push more Americans into the electric vehicle 'revolution'</a> CNN: President Joe Biden wants half the vehicles sold in the US to be electric vehicles or plug-in hybrids by 2030. But to reach that goal, not only do Americans need to start buying more electric vehicles, they need more charging stations to plug them into. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
@@ -360,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 04:08 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057886226/u-s-senators-call-for-a-national-commission-to-probe-the-start-of-the-pandemic">U.S. senators call for a national commission to probe the start of the pandemic</a> NPR: NPR's Rachel Martin talks to GOP Sen. Roger Marshall and Democratic Sen. Kirsten Gillibrand about a bipartisan group pushing for a commission to investigate the origins and response to COVID-19. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
