@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:05 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 12:27 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59388351?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Olivia Rodrigo dominates nominations for 2022</a> BBC: The freshly-minted pop star is up for the night's four biggest awards, including album of the year. 
+ <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
+ <p class="updated_time"> 12:11 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/hhs-rural-health-care.html">U.S. Funneling Billions of Dollars for Rural Health Care</a> NYT: The Department of Health and Human Services has begun distributing $7.5 billion to more than 40,000 health care providers in rural areas of every state. 
  <p class="updated_time"> 12:04 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 12:03 PM CT, Nov. 23 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:47 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 08:47 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/austria-lockdown-vaccine-mandate-covid.html">Thousands in Austria Protest Covid Lockdown and Vaccine Mandate</a> NYT: The protests were largely peaceful, but as dusk fell over the Austrian capital, skirmishes broke out between officers and groups of demonstrators. 
  <p class="updated_time"> 08:46 AM CT, Nov. 23 </p> 
@@ -89,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:41 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Dart: Mission to smack Dimorphos asteroid set for launch</a> BBC: A spacecraft is set to launch on a mission to nudge an asteroid off course. 
+ <p class="updated_time"> 06:11 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59379880?at_medium=RSS&at_campaign=KARANGA">China bans Namewee's viral pop song Fragile</a> BBC: Fragile mocks Beijing and “little pinks”, a term referring to young nationalists who rush to the defence of the Chinese government. 
  <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346457?at_medium=RSS&at_campaign=KARANGA">Six ways shoebox-sized satellites are trying to change the world</a> BBC: The CubeSat began as an educational tool but is now helping out humanity 
  <p class="updated_time"> 06:09 PM CT, Nov. 22 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
- <p class="updated_time"> 01:38 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59369575?at_medium=RSS&at_campaign=KARANGA">Isii Nafta singer Nimco Happy on representing Somalia and her TikTok fame</a> BBC: Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
- <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
+ <p class="updated_time"> 11:53 AM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:54 AM CT, Nov. 23 </p> 
@@ -298,6 +300,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
+ <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
  <p class="updated_time"> 04:09 PM CT, Nov. 22 </p> 
@@ -332,10 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
- <p class="updated_time"> 10:30 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/man-charged-loaded-firearm-capitol-riot-523178">Man charged with carrying loaded firearm to the Capitol on Jan. 6</a> Politico: Though reports of rioters charged with carrying firearms have been limited, the number has been steadily climbing. 
- <p class="updated_time"> 10:03 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/michael-cohen-house-arrest-ends/index.html">Former Trump attorney Michael Cohen is a free man and vows to cooperate with law enforcement</a> CNN: Michael Cohen is about to be a free man. 
  <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
  <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
@@ -368,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/states/california/story/2021/11/21/even-in-liberal-california-strict-vaccine-mandates-face-resistance-1394740">Even in liberal California, strict vaccine mandates face resistance</a> Politico: Enough people in the state remain unvaccinated that school districts, prison officials and private employers are urging flexibility. Otherwise, they say they’ll be understaffed. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
+ <p class="updated_time"> 03:32 PM CT, Nov. 21 </p> 
+ <a href="https://www.politico.com/news/2021/11/21/halifax-democracy-america-allies-523147">‘No ground for cockiness’: Tough love for U.S. at pro-democracy conference</a> Politico: From Afghanistan to domestic extremism, the Halifax forum became a therapy session for allies concerned with America’s actions. 
  <p class="updated_time"> 01:58 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/us-china-energy.html">How the U.S. Lost Ground to China in the Contest for Clean Energy</a> NYT: Americans failed to safeguard decades of diplomatic and financial investments in Congo, where the world’s largest supply of cobalt is controlled by Chinese companies backed by Beijing. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
- <p class="updated_time"> 02:40 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/agenda/2021/11/18/inflation-is-bad-killing-jobs-is-worse-522943">Opinion | Don’t Learn the Wrong Lesson on Inflation</a> Politico: Aggressive action to deliver pandemic relief was the right call — and withdrawing support now would only hurt American workers. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
  <p class="updated_time"> 01:17 PM CT, Nov. 18 </p> 
@@ -454,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
- <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
