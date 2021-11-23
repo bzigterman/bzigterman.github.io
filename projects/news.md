@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:27 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending with the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:56 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 09:54 AM CT, Nov. 23 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
  <p class="updated_time"> 05:32 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59373963?at_medium=RSS&at_campaign=KARANGA">VR helps parents visualise child's surgery</a> BBC: Click discovers how VR helps parents decide whether to go through with surgery for their child. 
- <p class="updated_time"> 04:36 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Parade incident driver to be charged with homicide</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
- <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">K St. on Capitol Hill: Lobbyists look to leverage prime real estate near Congress as in-person events return</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:54 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden to announce release of oil reserves as part of effort to lower gas prices</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 05:20 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/jan-6-stone-jones-523193">Jan. 6 committee subpoenas Roger Stone and Alex Jones</a> Politico: The panel investigating the attack on the Capitol also targeted rally promoters Dustin Stockton and Jennifer Lawrence, and Trump spokesperson Taylor Budowich. 
  <p class="updated_time"> 05:15 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/ahmaud-arbery-closing-arguments-523210">Attorneys make final case to jurors in Ahmaud Arbery’s death</a> Politico: The arguments unfolded before a disproportionately white jury after 10 days of testimony. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
