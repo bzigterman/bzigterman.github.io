@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:45 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 03:40 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">As Covid Cases Rise, Buffalo Officials Reimpose a Mask Mandate</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 03:38 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 03:21 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
+ <p class="updated_time"> 11:02 AM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
  <p class="updated_time"> 10:46 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Remove Colombian Rebel Group FARC From Terrorist List</a> WSJ: U.S. and congressional officials said the move could coincide with this week’s five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
- <p class="updated_time"> 09:15 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
@@ -206,8 +206,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
- <p class="updated_time"> 03:43 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 04:05 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
+ <p class="updated_time"> 04:05 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
- <p class="updated_time"> 02:35 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe the militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 02:17 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
@@ -278,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/fbi-parkland-settlement-families-523235">Florida massacre families to get millions for FBI’s inaction</a> Politico: Attorneys for 16 of the 17 killed at Marjory Stoneman Douglas High School and some of those wounded said they have reached a  settlement with the government, 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
- <p class="updated_time"> 11:25 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/elizabeth-holmes-testimony-theranos-523234">Elizabeth Holmes makes her case to the jury in fraud trial</a> Politico: Prosecutors alleged she duped investors and patients into believing she had invented a breakthrough in blood-testing technology. 
  <p class="updated_time"> 11:05 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/donald-trump-january-6-committee-subpoenas-roger-stone-alex-jones/index.html">Trump's next January 6 circus looms after Stone and Jones are subpoenaed </a> CNN: Steve Bannon turned the January 6 committee into a politicized spectacle but Alex Jones and Roger Stone could conjure a theater of the absurd out of the probe into one of the most jarring assaults on democracy in US history. 
  <p class="updated_time"> 10:08 PM CT, Nov. 22 </p> 
