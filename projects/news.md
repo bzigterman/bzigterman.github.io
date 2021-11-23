@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 09:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
+ <p class="updated_time"> 09:20 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/long-island-er-vaccine-mandate.html">Long Island E.R. Closes as Vaccine Mandate Creates Nurse Shortage</a> NYT: A free-standing emergency department in Long Beach, operated by Mount Sinai South Nassau, said it had to close temporarily because of a nursing staff shortage. 
  <p class="updated_time"> 08:31 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Carol Clay and Russell Hill vanished in March last year during a camping trip in Victoria. 
  <p class="updated_time"> 08:08 PM CT, Nov. 22 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">Online child abuse rises in India during Covid-19 pandemic</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
  <p class="updated_time"> 06:06 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-58971281?at_medium=RSS&at_campaign=KARANGA">Can South Africa embrace renewable energy from the sun?</a> BBC: South Africa's main electricity company Eskom plans to switch from using coal to renewable energy. 
- <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/long-island-er-vaccine-mandate.html">Long Island E.R. Closes as Vaccine Mandate Creates Nurse Shortage</a> NYT: A free-standing emergency department in Long Beach, operated by Mount Sinai South Nassau, said it had to close temporarily because of a nursing staff shortage. 
  <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
  <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
