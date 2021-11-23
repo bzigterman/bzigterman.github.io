@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 AM CT, Nov. 23 </p> 
+ <a href="https://www.npr.org/2021/11/23/1058238037/philippine-supply-boats-reach-marines-at-china-guarded-shoal">Philippine supply boats reach marines at China-guarded shoal</a> NPR: The Philippine navy successfully delivered supplies to marines guarding a disputed shoal in the South China Sea, a week after China's coast guard used water cannons to force the  boats to turn back. 
+ <p class="updated_time"> 01:52 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 01:44 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 45 killed</a> BBC: At least 45 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
- <p class="updated_time"> 01:28 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 01:21 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, an official said. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
- <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
 
 
 </details>
