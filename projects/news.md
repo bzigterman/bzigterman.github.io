@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:27 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 12:44 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59388351?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Olivia Rodrigo dominates nominations for 2022</a> BBC: The freshly-minted pop star is up for the night's four biggest awards, including album of the year. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
+ <p class="updated_time"> 12:37 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the W.H.O. said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
  <p class="updated_time"> 12:11 PM CT, Nov. 23 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan- reports on the impact of 100 days of Taliban rule. 
  <p class="updated_time"> 09:35 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
- <p class="updated_time"> 09:27 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
  <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
  <p class="updated_time"> 12:15 PM CT, Nov. 20 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/europe/france-murder-ghislaine-marchal-omar-raddad.html">A Socialite, a Gardener, a Message in Blood: The Murder That Still Grips France</a> NYT: The victim was a socialite. A message in her blood accused the gardener. But a grammatical error raised questions of class and language — and whether he was being framed. 
- <p class="updated_time"> 09:35 AM CT, Nov. 20 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/europe/daily-mail-editor-out.html">The Daily Mail's Top Editor is Out. What Could It Mean for the U.K.?</a> NYT: The top editor is out at The Daily Mail, widely viewed as the voice of middle-class voters, and the paper’s coverage of Boris Johnson’s government might be softened because of it. 
  <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
  <p class="updated_time"> 07:50 AM CT, Nov. 20 </p> 
@@ -200,10 +200,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:36 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
+ <p class="updated_time"> 12:35 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
- <p class="updated_time"> 11:53 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:54 AM CT, Nov. 23 </p> 
@@ -215,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:56 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-osha-6th-circuit-stay/index.html">Biden administration asks appeals court to reinstate OSHA vaccine mandate </a> CNN: The Biden administration is asking the 6th US Circuit Court of Appeals to wipe away an order from another appeals court blocking its Occupational Safety and Health Administration vaccine mandate. 
  <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden to open taps on oil reserves to tamp down gasoline prices</a> Politico: The move "aims to ensure adequate supply as we exit the pandemic," the Energy Department said. 
+ <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden taps oil reserves, with a helping hand from Republicans</a> Politico: The move "aims to ensure adequate supply as we exit the pandemic," the Energy Department said. 
  <p class="updated_time"> 08:27 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-electric-vehicle-chargers-climate/index.html">How Biden's infrastructure funding could push more Americans into the electric vehicle 'revolution'</a> CNN: President Joe Biden wants half the vehicles sold in the US to be electric vehicles or plug-in hybrids by 2030. But to reach that goal, not only do Americans need to start buying more electric vehicles, they need more charging stations to plug them into. 
  <p class="updated_time"> 08:10 AM CT, Nov. 23 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
- <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
