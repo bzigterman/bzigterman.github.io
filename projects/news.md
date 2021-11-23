@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 01:36 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59388351?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Olivia Rodrigo dominates nominations for 2022</a> BBC: The freshly-minted pop star is up for the night's four biggest awards, including album of the year. 
  <p class="updated_time"> 01:23 PM CT, Nov. 23 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356">Massive Hack Gave Police a Window on Cocaine, Cash and Killers</a> WSJ: Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them. 
- <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
