@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">As Covid Cases Rise, Buffalo Officials Reimpose a Mask Mandate</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
+ <p class="updated_time"> 03:21 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan- reports on the impact of 100 days of Taliban rule. 
- <p class="updated_time"> 09:35 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59386181?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: PM Abiy Ahmed vows to lead from the war front</a> BBC: Abiy Ahmed has said he will go to the front line to face Tigrayan rebels in the country's civil war. 
  <p class="updated_time"> 09:25 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382871?at_medium=RSS&at_campaign=KARANGA">Parkland shooting: Families involved in 2018 attack settle FBI lawsuit</a> BBC: The FBI acknowledged failing to follow up on a tip that the gunman was "going to explode". 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/jury-awards-millions-damages-unite-the-right-523257">Jury awards millions in damages for Unite the Right violence</a> Politico: Hundreds of white nationalists descended on Charlottesville for the rally on Aug. 11 and 12, 2017, ostensibly to protest city plans to remove a statue of Confederate Gen. Robert E. Lee. 
  <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
