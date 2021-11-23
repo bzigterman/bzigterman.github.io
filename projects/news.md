@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:41 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 08:51 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 08:31 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Carol Clay and Russell Hill vanished in March last year during a camping trip in Victoria. 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/covid-vaccine-booster-masks-travel-what-matters/index.html">Covid-19 mixed messaging continues as US enters the booster era</a> CNN: Cases are going up. Hospitalizations are too. Depending on where you live, mask mandates are either being dropped or enacted. Vaccines are more available than ever, but hesitancy remains a real problem. Experimental drugs are showing promise as well, yet regulatory approval takes time. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1052741845/biden-reappoints-jerome-powell-as-federal-reserve">Biden reappoints Jerome Powell as Fed chairman at a critical time for the economy</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve as the economy faces huge challenges, including surging inflation. 
- <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
@@ -376,6 +374,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/business/high-gas-prices.html">High Gas Prices Force Sacrifices, Like Travel and Dining Out</a> NYT: They hit their highest level since 2014 last month, forcing Americans to rejigger household budgets and forgo leisure activities. 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
+ <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Nov. 19 </p> 
