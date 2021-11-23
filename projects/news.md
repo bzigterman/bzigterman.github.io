@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:08 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
+ <p class="updated_time"> 08:07 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
+ <p class="updated_time"> 08:01 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
+ <p class="updated_time"> 07:41 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Dart: Mission to smack Dimorphos asteroid set for launch</a> BBC: A spacecraft is set to launch on a mission to nudge an asteroid off course. 
  <p class="updated_time"> 06:43 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383007?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Man arrested over pair's disappearance</a> BBC: Russell Hill and Carol Clay vanished in March last year during a camping trip in Victoria. 
  <p class="updated_time"> 06:35 PM CT, Nov. 22 </p> 
@@ -43,12 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128868/haiti-gang-has-released-2-of-the-17-foreign-christian-missionaries-they-kidnappe">Haiti gang has released 2 of the 17 foreign Christian missionaries they kidnapped</a> NPR: Gang members in Haiti released two of the 17 foreign missionaries they've been holding for more than a month. The move comes as police in Haiti are cracking down on the gangs. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128861/austria-enters-lockdown-as-covid-infections-rise">Austria enters lockdown as COVID infections rise</a> NPR: Austria has become the first European country to instate a vaccine mandate. Monday, it was the first to initiate a nation-wide lockdown during this surge, despite protests against the restrictions. 
- <p class="updated_time"> 03:13 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59381928?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Waukesha Police Chief chokes up while naming Christmas parade incident victims</a> BBC: At least five people, aged between 52 and 81, were killed when a vehicle ploughed into a Christmas parade. 
  <p class="updated_time"> 03:08 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59378552?at_medium=RSS&at_campaign=KARANGA">Austrian Chancellor: 'You don’t only have rights, you have obligations'</a> BBC: Austria's chancellor regrets jabs will be mandatory, but current low rates are "too little, too late". 
- <p class="updated_time"> 03:05 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
  <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:41 PM CT, Nov. 22 </p> 
@@ -59,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59381775?at_medium=RSS&at_campaign=KARANGA">Peppa Pig and losing notes: UK PM's bizarre speech</a> BBC: Boris Johnson is questioned by a reporter after talking about Peppa Pig World at a business conference. 
  <p class="updated_time"> 12:04 PM CT, Nov. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-rebuts-growing-u-s-warnings-of-attack-on-ukraine-11637605543">Russia Rebuts Growing U.S. Warnings of Attack on Ukraine</a> WSJ: NATO countries say Russia’s military movements threaten Kyiv, though Russian President Vladimir Putin’s plans remain unclear. 
+ <p class="updated_time"> 11:51 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/chinese-leaders-called-to-account-in-outcry-over-tennis-star-peng-shuai-11637621474">Chinese Leaders Called to Account in Outcry Over Tennis Star Peng Shuai</a> WSJ: Unlike a previous sports controversy involving the NBA, tennis stars and the Women’s Tennis Association appear to be prepared to forfeit their financial interests in the country if Chinese officials don’t respond to their satisfaction. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 11:28 AM CT, Nov. 22 </p> 
@@ -73,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/venezuelas-ruling-party-sweeps-local-and-regional-elections-11637597871">Venezuela's Ruling Party Sweeps Local and Regional Elections</a> WSJ: The opposition participated for the first time since 2017, but President Nicolás Maduro’s party won all but three of 23 state governorships. 
  <p class="updated_time"> 09:38 AM CT, Nov. 22 </p> 
  <a href="https://www.wsj.com/articles/chiles-presidential-election-shows-voter-support-for-market-economy-11637612834">Chile's Presidential Election Shows Voter Support for Market Economy</a> WSJ: More than half of the first-round ballots were cast for right-wing candidates, providing a boost to local financial markets. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 22 </p> 
+ <a href="https://www.wsj.com/articles/parlez-vous-francais-air-canada-boss-says-non-and-gets-an-earful-11637613459">Parlez-Vous Français? Air Canada Boss Says 'Non' and Gets an Earful</a> WSJ: Quebec’s language rules have business leaders brushing up on their skills; ‘It’s an affront’ 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 09:10 AM CT, Nov. 22 </p> 
@@ -83,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 07:56 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 07:51 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
  <p class="updated_time"> 05:41 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59331695?at_medium=RSS&at_campaign=KARANGA">Far-right candidate through to Chile presidential run-off</a> BBC: Voters will have to choose between far-right candidate José Antonio Kast and left-winger Gabriel Boric. 
- <p class="updated_time"> 05:33 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
  <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
@@ -192,6 +196,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:58 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
+ <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/parkland-shooting-settlement/index.html">Families of Parkland shooting victims settle lawsuit with Justice Department</a> CNN: More than a dozen families for the victims of the Parkland, Florida, high school massacre have reached a settlement with the Justice Department after suing the agency and FBI for not acting on tips warning about the shooter, according to a federal court filing on Monday. 
+ <p class="updated_time"> 07:38 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-suspends-senate-campaign/index.html">Republican Sean Parnell suspends candidacy for Pennsylvania Senate seat </a> CNN: Sean Parnell, the Republican endorsed by former President Donald Trump for Pennsylvania's open US Senate seat, announced on Monday he is suspending his campaign. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
  <p class="updated_time"> 07:19 PM CT, Nov. 22 </p> 
@@ -216,20 +226,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/strategic-petroleum-reserve-release-joe-biden/index.html">Biden hopes to announce decision to release oil from Strategic Petroleum Reserve, but needs an agreement from other nations</a> CNN: President Joe Biden hopes to announce his decision to release oil from the Strategic Petroleum Reserve on Tuesday during a speech at the White House, officials tell CNN, but the timing of such a move is still contingent on other nations finalizing their agreements. 
  <p class="updated_time"> 05:01 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/us-considering-weaponry-ukraine/index.html">US considering sending extra weaponry to Ukraine as fears mount over potential Russian invasion</a> CNN: The Biden administration is weighing sending military advisers and new equipment including weaponry to Ukraine as Russia builds up forces near the border and US officials prepare allies for the possibility of another Russian invasion, multiple sources familiar with the deliberations tell CNN. 
- <p class="updated_time"> 04:56 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
- <p class="updated_time"> 04:35 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/sean-parnell-suspends-senate-campaign/index.html">Republican Sean Parnell suspends candidacy for Pennsylvania Senate seat </a> CNN: Sean Parnell, the Republican endorsed by former President Donald Trump for Pennsylvania's open US Senate seat, announced on Monday he is suspending his campaign. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
- <p class="updated_time"> 04:25 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/parkland-shooting-settlement/index.html">Families of Parkland shooting victims settle lawsuit with Justice Department</a> CNN: More than a dozen families for the victims of the Parkland, Florida, high school massacre have reached a settlement with the Justice Department after suing the agency and FBI for not acting on tips warning about the shooter, according to a federal court filing on Monday. 
  <p class="updated_time"> 04:09 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058140148/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-batt">Trump-backed Pa. Senate candidate suspends his campaign after losing custody battle</a> NPR: Sean Parnell's decision came after it was made public that a judge had granted Parnell's estranged wife — who accused the Republican of physical abuse — custody of the pair's three children. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
