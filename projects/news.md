@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire</a> BBC: At least 45 people die after a bus catches fire on a motorway in western Bulgaria, officials say. 
+ <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
+ <p class="updated_time"> 10:29 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59382793?at_medium=RSS&at_campaign=KARANGA">Greenland's Inuits seek Denmark compensation over failed social experiment</a> BBC: Six surviving Greenlanders are part of a group of 22 children taken for "re-education" in 1951. 
  <p class="updated_time"> 09:21 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 09:20 PM CT, Nov. 22 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
  <p class="updated_time"> 06:26 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59378553?at_medium=RSS&at_campaign=KARANGA">Kevin Spacey to pay $31m to studio after abuse claims</a> BBC: The actor was ordered to pay $31m (£23.2) to the House of Cards studio after sexual abuse claims. 
- <p class="updated_time"> 06:19 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
  <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-59346457?at_medium=RSS&at_campaign=KARANGA">Six ways shoebox-sized satellites are trying to change the world</a> BBC: The CubeSat began as an educational tool but is now helping out humanity 
  <p class="updated_time"> 06:09 PM CT, Nov. 22 </p> 
@@ -192,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:25 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/elizabeth-holmes-testimony-theranos-523234">Elizabeth Holmes makes her case to the jury in fraud trial</a> Politico: Prosecutors alleged she duped investors and patients into believing she had invented a breakthrough in blood-testing technology. 
  <p class="updated_time"> 10:08 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 09:59 PM CT, Nov. 22 </p> 
@@ -418,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/biden-inflation-war-human-behavior-522891">Biden’s war on inflation is a battle to change human behavior</a> Politico: The president needs people to overcome a new set of fears and direct their purchases into the areas of the service economy hit hardest by the coronavirus pandemic. 
- <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
@@ -438,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
- <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/south-jersey-democrats-norcross-522737">How one election left this powerful Democratic organization fighting to survive</a> Politico: Trenton insiders are looking slack-jawed at the diminishment of South Jersey Democrats’ dominance. 
  <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
  <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
