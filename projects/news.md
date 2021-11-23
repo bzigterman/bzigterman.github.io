@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:03 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Child is sixth fatality in Wisconsin parade car-ramming</a> BBC: Prosecutor say a sixth person - a child - died in the attack on a Christmas parade in Wisconsin. 
+ <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
  <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
- <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Child is sixth fatality in Wisconsin parade car-ramming</a> BBC: Prosecutor say a sixth person - a child - died in the attack on a Christmas parade in Wisconsin. 
  <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
@@ -23,12 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
  <p class="updated_time"> 03:38 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 03:34 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
- <p class="updated_time"> 02:28 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/middleeast/israel-vaccine-children.html">Israel Starts Campaign to Vaccinate Young Children</a> NYT: Seeking to reassure parents, Prime Minister Naftali Bennett took his 9-year-old son, David, to be vaccinated at a clinic in a seaside town near Tel Aviv. 
  <p class="updated_time"> 02:27 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59392771?at_medium=RSS&at_campaign=KARANGA">Albert Einstein relativity document sells for record €11m</a> BBC: The manuscript shows Einstein's attempts to formulate his theory of relativity. 
  <p class="updated_time"> 02:10 PM CT, Nov. 23 </p> 
@@ -206,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">Man charged with 5 homicide counts in deadly Waukesha crash</a> Politico: Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
+ <p class="updated_time"> 05:00 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
  <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
@@ -386,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/manchin-sinema-republican-donors.html">Manchin and Sinema Find Financial Support From G.O.P. Donors</a> NYT: The two Democratic senators are attracting campaign contributions from business interests and conservatives as progressives fume over their efforts to pare back the president’s domestic policy bill. 
- <p class="updated_time"> 04:00 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/aoc-democrats.html">A.O.C. on Why Democrats’ ‘Talking Points Are Not Enough’</a> NYT: The House progressive spoke about “demoralizing” congressional negotiations, how she was told to stay away from Virginia’s elections, and what it means to excite the Democratic base. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
