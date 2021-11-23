@@ -7,28 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Child is sixth fatality in Wisconsin parade car-ramming</a> BBC: Prosecutor say a sixth person - a child - died in the attack on a Christmas parade in Wisconsin. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
+ <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 03:57 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
- <p class="updated_time"> 03:45 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 03:38 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 03:34 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
- <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
  <p class="updated_time"> 02:28 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/middleeast/israel-vaccine-children.html">Israel Starts Campaign to Vaccinate Young Children</a> NYT: Seeking to reassure parents, Prime Minister Naftali Bennett took his 9-year-old son, David, to be vaccinated at a clinic in a seaside town near Tel Aviv. 
  <p class="updated_time"> 02:27 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59392771?at_medium=RSS&at_campaign=KARANGA">Albert Einstein relativity document sells for record €11m</a> BBC: The manuscript shows Einstein's attempts to formulate his theory of relativity. 
- <p class="updated_time"> 02:12 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59355018?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury to decide fate of men accused in his murder</a> BBC: Three men are accused in the fatal shooting of the 25-year-old black jogger in the US state of Georgia. 
  <p class="updated_time"> 02:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59395482?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Foreigners advised to leave</a> BBC: Germany and France are the latest countries to advise citizens to leave, as the UN relocates staff. 
  <p class="updated_time"> 02:09 PM CT, Nov. 23 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59388351?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Olivia Rodrigo dominates nominations for 2022</a> BBC: The freshly-minted pop star is up for the night's four biggest awards, including album of the year. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
- <p class="updated_time"> 12:42 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59388718?at_medium=RSS&at_campaign=KARANGA">Meredith Kercher: Student's killer Rudy Guede ends sentence</a> BBC: Rudy Guede was the only person convicted of the 2007 murder of the exchange student in Perugia in Italy. 
  <p class="updated_time"> 12:37 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the W.H.O. said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">Man charged with 5 homicide counts in deadly Waukesha crash</a> Politico: Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
+ <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">'Toxic is spot-on': House members describe roiling animosity among lawmakers</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058623989/u-s-to-release-50-million-barrels-of-crude-oil-from-the-reserve-to-lower-gas-pri">U.S. to release 50 million barrels of crude oil from the reserve to lower gas prices</a> NPR: The Biden administration is tapping into the country's emergency petroleum reserves in a bid to bring down high gas prices. But it's not clear how successful that strategy will be. 
- <p class="updated_time"> 03:07 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce global energy prices, the White House will release 50 million barrels of crude oil along with Britain, China, India, Japan and South Korea. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
