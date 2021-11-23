@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 11:51 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire, including children</a> BBC: At least 46 die, including children, after a bus catches fire in western Bulgaria, officials say. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire, including children</a> BBC: At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say. 
  <p class="updated_time"> 11:50 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, a fire official said. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
@@ -157,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
- <p class="updated_time"> 07:54 AM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057767258/israel-jerusalem-old-city-attack">A Palestinian assailant killed one and injured four others in Jerusalem's Old City</a> NPR: Israeli police said the attack took place near an entrance to a contested flashpoint shrine known to Jews as the Temple Mount and to Muslims as the Noble Sanctuary. 
  <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 06:50 AM CT, Nov. 21 </p> 
@@ -183,6 +181,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/20/world/asia/singapore-covid-restrictions.html">Singapore Will Start Easing Its Covid Rules Next Week</a> NYT: The Southeast Asian city state is recovering from a recent surge of hospitalizations. An official said its reopening would proceed in a “step-by-step manner.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 20 </p> 
  <a href="https://www.npr.org/2021/11/20/1057618815/iran-and-u-s-are-trying-to-renegotiate-nuclear-deal">Iran and U.S. are trying to renegotiate nuclear deal</a> NPR: Scott Simon speaks to Vali Nasr, professor of International Affairs and Middle East Studies at the Johns Hopkins University, about the latest moves to save the nuclear deal with Iran. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 20 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/20/1054865992/prize-winning-photos-capture-the-grit-and-suffering-of-flood-survivors-in-south-">Prize-winning photos capture the grit and suffering of flood survivors in South Sudan</a> NPR: The photo series Unyielding Floods recently won its fifth award this year. It captures the strength and hardship of those affected by flooding of biblical proportions in South Sudan. 
 
 
 </details>
