@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 45 killed</a> BBC: At least 45 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 03:00 AM CT, Nov. 23 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058238037/philippine-supply-boats-reach-marines-at-china-guarded-shoal">Philippine supply boats reach marines at China-guarded shoal</a> NPR: The Philippine navy successfully delivered supplies to marines guarding a disputed shoal in the South China Sea, a week after China's coast guard used water cannons to force the  boats to turn back. 
  <p class="updated_time"> 01:52 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/criminal-holyoke-soldiers-covid.html">Judge Dismisses Criminal Charges in Holyoke Soldiers' Home Outbreak</a> NYT: The judge wrote that administrators could not be held legally responsible because the veterans in the case had been exposed before two units at the home were merged. 
- <p class="updated_time"> 01:44 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Children among at least 45 killed</a> BBC: At least 45 people, including 12 children, died when a bus returning to North Macedonia caught fire. 
  <p class="updated_time"> 01:03 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59342016?at_medium=RSS&at_campaign=KARANGA">Uber makes its first step into the cannabis market</a> BBC: Customers will be able to place orders on the app then pick them up at nearby stores within an hour. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
