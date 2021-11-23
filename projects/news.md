@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 PM CT, Nov. 22 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, a fire official said. 
+ <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña weather event has begun</a> BBC: The phenomenon can lead to significant weather changes in different parts of the world. 
  <p class="updated_time"> 11:05 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire</a> BBC: At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59322152?at_medium=RSS&at_campaign=KARANGA">Iran nuclear programme: Threat of Israeli strike grows</a> BBC: As Iran's nuclear programme forges ahead, some see Israel running out of options to thwart it. 
  <p class="updated_time"> 05:10 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59378571?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Driver 'intentionally' mowed down people at parade</a> BBC: At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration. 
- <p class="updated_time"> 04:55 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59331696?at_medium=RSS&at_campaign=KARANGA">Cuba congratulates Venezuela on poll before result was out</a> BBC: President Nicolás Maduro's ruling party wins the election - but the US says the poll was not free. 
  <p class="updated_time"> 04:48 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
@@ -97,18 +99,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59367726?at_medium=RSS&at_campaign=KARANGA">Covid in Kenya: Government gives 20 million a month to get vaccinated</a> BBC: Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 07:51 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59374778?at_medium=RSS&at_campaign=KARANGA">Crowd trouble threatens future of French football, says sports minister</a> BBC: France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the "survival" of French football "at stake". 
  <p class="updated_time"> 06:23 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59372058?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA says concerns remain for Chinese tennis star after IOC call</a> BBC: Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official. 
  <p class="updated_time"> 06:20 AM CT, Nov. 22 </p> 
  <a href="https://www.wsj.com/articles/austrias-return-to-covid-19-lockdown-is-met-with-anger-resignation-11637578887">Austria's Return to Lockdown Met With Anger, Resignation</a> WSJ: The country introduced the toughest in an array of pandemic restrictions that are spreading across Europe, sometimes meeting violent protests, as governments seek to fend off a steep rise in Covid-19 cases. 
- <p class="updated_time"> 05:41 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59331695?at_medium=RSS&at_campaign=KARANGA">Far-right candidate through to Chile presidential run-off</a> BBC: Voters will have to choose between far-right candidate José Antonio Kast and left-winger Gabriel Boric. 
  <p class="updated_time"> 05:10 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/asia/india-modi-farmer-protests.html">How India's Farmers Got Narendra Modi to Back Down</a> NYT: They received foreign and domestic financial support, kept their camps organized and looked for ways to be seen while trying to avoid violence. 
- <p class="updated_time"> 04:50 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59372518?at_medium=RSS&at_campaign=KARANGA">American Music Awards: BTS and Taylor Swift take top awards</a> BBC: The K-pop band win artist of the year, while Taylor Swift picks up a record-breaking 34th award. 
  <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 04:42 AM CT, Nov. 22 </p> 
@@ -157,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
- <p class="updated_time"> 09:44 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/20/world/hunter-biden-china-cobalt.html">How Hunter Biden’s Firm Helped Secure Cobalt for the Chinese</a> NYT: The president’s son was part owner of a venture involved in the $3.8 billion purchase by a Chinese conglomerate of one of the world’s largest cobalt deposits. The metal is a key ingredient in batteries for electric vehicles. 
  <p class="updated_time"> 09:41 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/20/world/china-congo-cobalt-explained.html">What to Know About the Frantic Quest for Cobalt</a> NYT: A New York Times investigation examines the global demand for raw materials as the clean energy revolution takes off. This is what we found. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
