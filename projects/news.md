@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:33 PM CT, Nov. 22 </p> 
+ <p class="updated_time"> 11:42 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had North Macedonian plates, caught fire on a highway, a fire official said. 
+ <p class="updated_time"> 11:37 PM CT, Nov. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire</a> BBC: At least 46 die, including children, after a bus catches fire in western Bulgaria, officials say. 
  <p class="updated_time"> 11:19 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59383008?at_medium=RSS&at_campaign=KARANGA">Australia declares La Niña weather event has begun</a> BBC: The phenomenon can lead to significant weather changes in different parts of the world. 
- <p class="updated_time"> 11:05 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59383852?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Bulgaria bus fire</a> BBC: At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say. 
  <p class="updated_time"> 10:55 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
