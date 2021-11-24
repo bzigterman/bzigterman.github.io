@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59396598?at_medium=RSS&at_campaign=KARANGA">Kevin Strickland exonerated after 42 years in Missouri prison</a> BBC: Kevin Strickland was arrested at age 18 and convicted of a triple murder he did not commit. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
  <p class="updated_time"> 02:27 PM CT, Nov. 23 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Strong Demand, Shortages Push Up Prices in U.S. and Europe</a> WSJ: Businesses continue to contend with cost inflation even as supply constraints show signs of easing, according to recent surveys. 
  <p class="updated_time"> 05:57 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: Turkey’s economic crisis entered a tumultuous new phase, with its currency plunging to a record low and President Recep Tayyip Erdogan preparing to meet the leader of a regional rival in search of foreign investment. 
- <p class="updated_time"> 04:39 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59380458?at_medium=RSS&at_campaign=KARANGA">Lush to stop some social media until it's 'safer'</a> BBC: The firm says it will close accounts "in an effort to address consumers’ mental health challenges". 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
