@@ -49,14 +49,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
  <p class="updated_time"> 12:31 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
+ <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">27 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson resigns after her coalition partner quit the government in a row over the budget. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
- <p class="updated_time"> 11:24 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">31 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
  <p class="updated_time"> 11:08 AM CT, Nov. 24 </p> 
