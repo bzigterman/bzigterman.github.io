@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:29 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/judas-jan6-actor-michael-jackson-523279">‘Jesus Christ Superstar’ actor charged with joining Oath Keepers during Capitol breach</a> Politico: James Beeks is also known as a Michael Jackson impersonator. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:29 PM CT, Nov. 23 </p> 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/20/politics/joe-biden-transgender-day-of-remembrance/index.html">Biden marks 'deadliest year on record for transgender Americans' on day of remembrance</a> CNN: President Joe Biden marked Transgender Day of Remembrance in a statement Saturday, paying tribute to "those we lost in the deadliest year on record for transgender Americans." 
  <p class="updated_time"> 06:49 PM CT, Nov. 19 </p> 
  <a href="https://www.cnn.com/2021/11/19/politics/biden-annual-physical-exam/index.html">Biden deemed 'fit to successfully execute the duties of the president' after first physical in office</a> CNN: President Joe Biden is set to undergo his routine annual physical Friday at Walter Reed Medical Center -- his first physical in office as the oldest first-term president in US history. 
- <p class="updated_time"> 04:14 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/donald-trump-fault-january-6-attack-523059">Judge faults Trump for Jan. 6 attack</a> Politico: Judge Amit Mehta describes rioter John Lolos as ‘pawn’ of the former president, imposes 2-week jail sentence 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
