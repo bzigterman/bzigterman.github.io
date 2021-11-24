@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
+ <p class="updated_time"> 10:55 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Dart: Mission to smack Dimorphos asteroid set for launch</a> BBC: Final preparations are under way in California for Nasa's Dart mission, as the countdown approaches. 
+ <p class="updated_time"> 10:54 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59355019?at_medium=RSS&at_campaign=KARANGA">US jury awards $25m in damages over Unite the Right rally</a> BBC: A woman was killed and dozens were hurt after an avowed neo-Nazi drove a car into counter-protesters. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
@@ -55,10 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59392771?at_medium=RSS&at_campaign=KARANGA">Albert Einstein relativity document sells for record €11m</a> BBC: The manuscript shows Einstein's attempts to formulate his theory of relativity. 
  <p class="updated_time"> 02:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59395482?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Foreigners advised to leave</a> BBC: Germany and France are the latest countries to advise citizens to leave, as the UN relocates staff. 
- <p class="updated_time"> 02:09 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59353194?at_medium=RSS&at_campaign=KARANGA">US to release oil reserves in attempt to lower prices</a> BBC: The move is being taken together with other major oil consuming nations, including China and the UK. 
- <p class="updated_time"> 01:52 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59389864?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Survivors broke window to flee inferno that killed 46</a> BBC: At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway. 
  <p class="updated_time"> 01:51 PM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide the five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Strong Demand, Shortages Push Up Prices in U.S. and Europe</a> WSJ: Businesses continue to contend with cost inflation even as supply constraints show signs of easing, according to recent surveys. 
  <p class="updated_time"> 05:57 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/turkish-lira-tumbles-after-erdogan-defends-rate-cuts-11637665474">Turkish Lira Tumbles After Erdogan Defends Rate Cuts</a> WSJ: Turkey’s economic crisis entered a tumultuous new phase, with its currency plunging to a record low and President Recep Tayyip Erdogan preparing to meet the leader of a regional rival in search of foreign investment. 
- <p class="updated_time"> 05:32 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59373963?at_medium=RSS&at_campaign=KARANGA">VR helps parents visualise child's surgery</a> BBC: Click discovers how VR helps parents decide whether to go through with surgery for their child. 
  <p class="updated_time"> 04:39 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59380458?at_medium=RSS&at_campaign=KARANGA">Lush to stop some social media until it's 'safer'</a> BBC: The firm says it will close accounts "in an effort to address consumers’ mental health challenges". 
  <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
@@ -123,10 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 06:11 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59379880?at_medium=RSS&at_campaign=KARANGA">China bans Namewee's viral pop song Fragile</a> BBC: Fragile mocks Beijing and “little pinks”, a term referring to young nationalists who rush to the defence of the Chinese government. 
- <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
- <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59322152?at_medium=RSS&at_campaign=KARANGA">Iran nuclear programme: Threat of Israeli strike grows</a> BBC: As Iran's nuclear programme forges ahead, some see Israel running out of options to thwart it. 
  <p class="updated_time"> 04:48 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
