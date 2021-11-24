@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 08:04 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 08:01 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224">As Interpol Picks New Leaders, Questions Grow Over How Autocratic Nations Use It</a> WSJ: The U.S. and other countries are trying to stop authoritarian states using fugitive alerts—the so-called red notices—to chase down dissidents. 
- <p class="updated_time"> 07:12 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 06:22 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
  <p class="updated_time"> 05:58 AM CT, Nov. 23 </p> 
