@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 04:16 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">31 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 04:07 PM CT, Nov. 24 </p> 
@@ -16,9 +18,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041760/quebec-maple-syrup-producers-to-tap-into-maple-syrup-reserves-after-poor-harvest">Quebec Maple Syrup Producers to tap into maple syrup reserves after poor harvest</a> NPR: Due to a poor spring harvest, the Quebec Maple Syrup Producers announced they'd be tapping into nearly 50 million pounds of its maple syrup strategic reserves in order to keep up with the demand. 
- <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
+ <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041760/quebec-maple-syrup-producers-to-tap-into-maple-syrup-reserves-after-poor-harvest">Quebec Maple Syrup Producers to tap into maple syrup reserves after poor harvest</a> NPR: Due to a poor spring harvest, the Quebec Maple Syrup Producers announced they'd be tapping into nearly 50 million pounds of its maple syrup strategic reserves in order to keep up with the demand. 
  <p class="updated_time"> 03:37 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
- <p class="updated_time"> 08:59 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:44 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
@@ -211,9 +209,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
- <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
+ <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
  <p class="updated_time"> 03:51 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 03:30 PM CT, Nov. 24 </p> 
