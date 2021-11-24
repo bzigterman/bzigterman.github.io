@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:47 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059017450/migrant-deaths-boat-capsizes-english-channel-france-uk">At least 31 people are dead after a migrant boat capsizes in the English Channel</a> NPR: It's believed that 34 people were on the boat. Authorities found 31 bodies, including those of five women and a young girl. The travelers' nationalities of the wasn't immediately known. 
- <p class="updated_time"> 02:32 PM CT, Nov. 24 </p> 
+ <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
+ <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
+ <p class="updated_time"> 02:47 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059017450/migrant-deaths-boat-capsizes-english-channel-france-uk">At least 31 people are dead after a migrant boat capsizes in the English Channel</a> NPR: It's believed that 34 people were on the boat. Authorities found 31 bodies, including those of five women and a young girl. The travelers' nationalities were not immediately known. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
@@ -196,12 +196,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
+ <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
+ <p class="updated_time"> 03:10 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 03:01 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 02:58 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 02:54 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 02:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
  <p class="updated_time"> 02:41 PM CT, Nov. 24 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 01:23 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
- <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/judas-jan6-actor-michael-jackson-523279">‘Jesus Christ Superstar’ actor charged with joining Oath Keepers during Capitol breach</a> Politico: James Beeks is also known as a Michael Jackson impersonator. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
- <p class="updated_time"> 07:29 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/jury-gets-case-ahmaud-arbery-523278">Jury gets case of white men charged in Ahmaud Arbery’s death</a> Politico: “We are in the process of working to reach a verdict,” the foreperson told Superior Court Judge Timothy Walmsley. 
  <p class="updated_time"> 07:14 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/fact-check-abbott-ad-orourke-defund-police/index.html">Fact check: Greg Abbott attack ad deceptively alters Beto O'Rourke's comments on policing</a> CNN: Democrat Beto O'Rourke, the former Texas congressman who ran unsuccessfully for the US Senate in 2018 and the Democratic presidential nomination in 2020, announced last week that he is running for Texas governor in 2022. 
  <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
@@ -354,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
+ <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058140148/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-batt">Trump-backed Pa. Senate candidate suspends his campaign after losing custody battle</a> NPR: Sean Parnell's decision came after it was made public that a judge had granted Parnell's estranged wife — who accused the Republican of physical abuse — custody of the pair's three children. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
- <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
