@@ -7,16 +7,34 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:27 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Child is sixth fatality in Wisconsin parade car-ramming</a> BBC: Prosecutor say a sixth person - a child - died in the attack on a Christmas parade in Wisconsin. 
+ <p class="updated_time"> 08:04 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
+ <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
+ <p class="updated_time"> 07:39 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
+ <p class="updated_time"> 07:26 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59386282?at_medium=RSS&at_campaign=KARANGA">Colombia peace deal: The families displaced five years on</a> BBC: Five years after a peace deal came into force in Colombia, violence by armed gangs is again on the rise. 
+ <p class="updated_time"> 07:24 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59380311?at_medium=RSS&at_campaign=KARANGA">Ugandan militant escapee: IS forced me to fight</a> BBC: An ex-fighter tells the BBC how the ADF, an IS affiliate, has been able to strike at Uganda's heart. 
+ <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
+ <p class="updated_time"> 06:54 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">Fake social media profiles targeting Sikhs exposed</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
+ <p class="updated_time"> 06:53 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
+ <p class="updated_time"> 06:47 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
+ <p class="updated_time"> 06:32 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59397182?at_medium=RSS&at_campaign=KARANGA">Covid: Europe region faces 700,000 more deaths by March - WHO</a> BBC: The World Health Organization says the regional death toll could exceed 2.2 million by 1 March. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Escaping Afghanistan: Inside Operation Soccer Balls</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
  <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
- <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
@@ -35,10 +53,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59353194?at_medium=RSS&at_campaign=KARANGA">US to release oil reserves in attempt to lower prices</a> BBC: The move is being taken together with other major oil consuming nations, including China and the UK. 
  <p class="updated_time"> 01:52 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59389864?at_medium=RSS&at_campaign=KARANGA">Bulgaria bus crash: Survivors broke window to flee inferno that killed 46</a> BBC: At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway. 
+ <p class="updated_time"> 01:51 PM CT, Nov. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide the five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
- <p class="updated_time"> 01:36 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59388351?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Olivia Rodrigo dominates nominations for 2022</a> BBC: The freshly-minted pop star is up for the night's four biggest awards, including album of the year. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 12:37 PM CT, Nov. 23 </p> 
@@ -51,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 11:19 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide with this week’s five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 11:02 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
  <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
@@ -103,16 +119,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
  <p class="updated_time"> 08:07 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
- <p class="updated_time"> 07:41 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Dart: Mission to smack Dimorphos asteroid set for launch</a> BBC: A spacecraft is set to launch on a mission to nudge an asteroid off course. 
  <p class="updated_time"> 06:11 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59379880?at_medium=RSS&at_campaign=KARANGA">China bans Namewee's viral pop song Fragile</a> BBC: Fragile mocks Beijing and “little pinks”, a term referring to young nationalists who rush to the defence of the Chinese government. 
- <p class="updated_time"> 06:10 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-59346457?at_medium=RSS&at_campaign=KARANGA">Six ways shoebox-sized satellites are trying to change the world</a> BBC: The CubeSat began as an educational tool but is now helping out humanity 
- <p class="updated_time"> 06:09 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59173473?at_medium=RSS&at_campaign=KARANGA">How child sex abuse rose during pandemic in India</a> BBC: The demand and distribution of abuse imagery shot up in India as lockdowns confined people to their homes. 
- <p class="updated_time"> 06:06 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-58971281?at_medium=RSS&at_campaign=KARANGA">Can South Africa embrace renewable energy from the sun?</a> BBC: South Africa's main electricity company Eskom plans to switch from using coal to renewable energy. 
  <p class="updated_time"> 06:05 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/59251942?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: What are Facebook and Twitter doing about hate speech?</a> BBC: Critics say social media firms are not doing enough to curb online hate speech around Ethiopia's war. 
  <p class="updated_time"> 06:03 PM CT, Nov. 22 </p> 
@@ -149,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/asian-countries-reopen-tourism.html">More Asian Countries Slowly Reopen to Fully Vaccinated Travelers</a> NYT: The easing of restrictions comes as the holiday travel season is about to begin. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 04:43 AM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59332407?at_medium=RSS&at_campaign=KARANGA">War photographer: 'Telling people's stories gives me hope'</a> BBC: Claire Thomas says she couldn't help people in Iraq and Afghanistan, but she could tell their stories. 
  <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
@@ -169,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: A blackout within China on discussion of the tennis star’s #MeToo allegations has not been able to silence a global chorus of concern for her safety. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
- <p class="updated_time"> 06:04 PM CT, Nov. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59320514?at_medium=RSS&at_campaign=KARANGA">Kunsthaus Zurich: Looted art claims pose questions for Swiss museum</a> BBC: Emil Bührle's impressionist art collection raises problems for Zurich's big, extended Kunsthaus. 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
  <p class="updated_time"> 01:59 PM CT, Nov. 21 </p> 
@@ -200,16 +204,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:50 PM CT, Nov. 23 </p> 
+ <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
+ <p class="updated_time"> 07:29 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/jury-gets-case-ahmaud-arbery-523278">Jury gets case of white men charged in Ahmaud Arbery’s death</a> Politico: “We are in the process of working to reach a verdict,” the foreperson told Superior Court Judge Timothy Walmsley. 
+ <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
  <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">8-year-old becomes sixth to die from injuries in Waukesha</a> Politico: Suspect Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
- <p class="updated_time"> 05:00 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
- <p class="updated_time"> 04:53 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
@@ -218,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
- <p class="updated_time"> 04:13 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
- <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
  <p class="updated_time"> 04:09 PM CT, Nov. 22 </p> 
@@ -428,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
- <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/ohio-gerrymandering-redistricting-republicans-522922">Ohio Republicans plow ahead with go-it-alone redistricting — despite gerrymandering limits</a> Politico: The GOP-controlled state legislature plans to pass a new congressional map this week that shreds two Democratic seats, but it will only stand for the next four years. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
  <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
@@ -448,10 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/whistleblower-jan-6-committee-capitol-police-522783">Whistleblower worries Jan. 6 committee is going easy on Capitol Police</a> Politico: “They’re not going to do a real review of the Capitol Police,” the person said in an interview after a 90-minute sit down with committee investigators. 
  <p class="updated_time"> 04:30 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/kyrsten-sinema-strikes-back-522732">Sinema speaks up — and shakes off her critics</a> Politico: The reticent Arizona Democrat granted a rare interview to talk about her negotiating style, disagreeing with her party and those relentless fashion critiques. 
- <p class="updated_time"> 06:42 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/democrats-inflation-fears-bill-forge-on-522771">Dems forge ahead on $1.75T bill over inflation fears</a> Politico: Democrats are largely confident that new data from the CBO will be enough to win over recalcitrant moderates. 
- <p class="updated_time"> 06:06 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/congress-debt-yellen-522769">Congress could face mid-December debt disaster, Yellen warns</a> Politico: Yellen told congressional leaders on Tuesday that she has “a high degree of confidence” that her department will be able to finance the government through Dec. 15. 
 
 
 </details>
