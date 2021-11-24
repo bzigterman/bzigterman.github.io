@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:03 PM CT, Nov. 24 </p> 
+ <p class="updated_time"> 01:22 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants die in biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
+ <p class="updated_time"> 01:21 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">At Least 31 Dead After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. 
+ <p class="updated_time"> 01:18 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
@@ -17,12 +21,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
  <p class="updated_time"> 12:31 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
- <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
- <p class="updated_time"> 12:27 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">‘Many Deaths’ Feared After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. French authorities say at least 24 people died. 
  <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
@@ -196,8 +196,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All three defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
+ <p class="updated_time"> 01:10 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
  <p class="updated_time"> 01:09 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
@@ -207,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline to get the shot, adding that the deadline “wasn’t an end point.” 
+ <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:53 AM CT, Nov. 24 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
- <p class="updated_time"> 06:01 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/pennsylvania-republican-senate-primary/index.html">'This crowd is so big and unknown': Pennsylvania Senate scramble could include Dr. Oz and former Bush official</a> CNN: Senate candidate Sean Parnell's abrupt end to his campaign in Pennsylvania has shaken up the Republican primary field in a crucial race as the party seeks to win a majority next fall. 
  <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">8-year-old becomes sixth to die from injuries in Waukesha</a> Politico: Suspect Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
- <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058292334/u-s-to-release-oil-reserves-as-the-holiday-travel-season-gears-up">U.S. to release oil reserves as the holiday travel season gears up</a> NPR: The Biden administration will release 50 million barrels of oil from the country's strategic petroleum reserve to lower gas prices for Americans as the holiday traveling season kicks off. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
