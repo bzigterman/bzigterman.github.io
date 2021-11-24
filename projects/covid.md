@@ -1143,17 +1143,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">73.4K</td>
-<td class="gt_row gt_right">95.1K</td>
-<td class="gt_row gt_right">+30&percnt;</td></tr>
+<td class="gt_row gt_right">74.7K</td>
+<td class="gt_row gt_right">95.8K</td>
+<td class="gt_row gt_right">+28&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">41.4K</td>
+<td class="gt_row gt_right gt_striped">41.7K</td>
 <td class="gt_row gt_right gt_striped">44.2K</td>
-<td class="gt_row gt_right gt_striped">+7&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">1.2K</td>
 <td class="gt_row gt_right">1.1K</td>
-<td class="gt_row gt_right">&minus;4&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;5&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.3M</td>
 <td class="gt_row gt_right gt_striped">930.0K</td>
@@ -1169,7 +1169,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -1537,29 +1537,29 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">462.0K</td>
-<td class="gt_row gt_right">553.0K</td>
-<td class="gt_row gt_right">+20&percnt;</td></tr>
+<td class="gt_row gt_right">470.0K</td>
+<td class="gt_row gt_right">552.0K</td>
+<td class="gt_row gt_right">+17&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
-<td class="gt_row gt_right gt_striped">7.1K</td>
 <td class="gt_row gt_right gt_striped">7.2K</td>
-<td class="gt_row gt_right gt_striped">+3&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">7.3K</td>
+<td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">28.7M</td>
+<td class="gt_row gt_right">29.6M</td>
 <td class="gt_row gt_right">27.1M</td>
-<td class="gt_row gt_right">&minus;6&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;8&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.1B</td>
 <td class="gt_row gt_right gt_striped">3.3B</td>
-<td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right">39.8</td>
+<td class="gt_row gt_right">39.9</td>
 <td class="gt_row gt_right">42.0</td>
-<td class="gt_row gt_right">+6&percnt;</td></tr>
+<td class="gt_row gt_right">+5&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -1568,12 +1568,12 @@ html {
 
 ## Case Acceleration
 
-As of Monday, the 14-day percent change in average new cases was:
+As of Tuesday, the 14-day percent change in average new cases was:
   
 - 48% in Champaign County
 - 74% in Illinois
-- 29% in the United States
-- 20% worldwide
+- 28% in the United States
+- 18% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -1581,11 +1581,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Monday, the 14-day percent change in average new deaths was:
+As of Tuesday, the 14-day percent change in average new deaths was:
   
 - 4% in Illinois
 - -5% in the United States
-- 3% worldwide
+- 2% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
