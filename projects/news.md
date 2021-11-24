@@ -193,6 +193,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:29 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
- <p class="updated_time"> 11:05 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 10:47 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/trump-kyle-rittenhouse-mar-a-lago-visit/index.html">Trump says Rittenhouse visited him at Mar-a-Lago</a> CNN: Former President Donald Trump said he was recently visited at his Palm Beach, Florida, resort by Kyle Rittenhouse, the teenager who was acquitted last week on all charges after fatally shooting two people and wounding a third during protests in Kenosha, Wisconsin, last summer. 
  <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
@@ -434,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
  <p class="updated_time"> 11:55 AM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794">House votes to punish Gosar for video depicting killing of AOC</a> Politico: The Arizona Republican was censured and removed from his two committees, a sign of further splintering relations between House Democrats and Republicans. 
- <p class="updated_time"> 07:31 AM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/17/gosar-faces-censure-vote-495136">Gosar faces censure vote</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
