@@ -223,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">8-year-old becomes sixth to die from injuries in Waukesha</a> Politico: Suspect Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means that Califf is now unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote on his appointment before the end of the year. 
+ <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means Robert Califf is  unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote  before the end of the year. 
  <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
