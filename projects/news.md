@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:04 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">A New Era: Germany to Meet its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. How much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 04:10 AM CT, Nov. 24 </p> 
@@ -276,6 +278,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
+ <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
@@ -303,6 +307,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 10:08 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
- <p class="updated_time"> 09:59 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/rep-louie-gohmert-texas-ag-523226">Rep. Louie Gohmert announces he's running for Texas AG</a> Politico: The congressman said earlier this month he was exploring a late entry, basing his decision on whether he could raise $1 million in 10 days. 
  <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
  <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/inflation-biden-federal-reserve-what-matters/index.html">Analysis: There's a major problem with the narrative on inflation</a> CNN: The inflation narrative is largely set. The coronavirus pandemic created supply chain snarls. It put production out of whack. As demand has roared back following Covid-19 lockdowns, prices have soared. 
- <p class="updated_time"> 05:58 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/why-biden-picked-powell-523214">Why Biden picked Powell</a> Politico: In the end, President Joe Biden did what many close to him expected: He took a longer-than-anticipated amount of time to arrive at a reasonable, moderate decision that thrilled few but carried limited risk. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
@@ -350,10 +352,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128889/white-house-council-of-economic-advisers-head-on-the-economic-issues-the-u-s-fac">White House Council of Economic Advisers head on the economic issues the U.S. faces</a> NPR: NPR's Ailsa Chang talks with Cecilia Rouse, chair of the White House Council of Economic Advisers, about President Biden's Federal Reserve nomination and the economic challenges the country is facing. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128839/president-biden-has-nominated-jerome-powell-to-remain-fed-chair">President Biden has nominated Jerome Powell to remain Fed chair</a> NPR: President Biden plans to re-nominate Jerome Powell to lead the Federal Reserve for four more years. Powell has steered the central bank through the pandemic recession. Now he must take on inflation. 
- <p class="updated_time"> 03:15 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/parnell-to-suspend-pennsylvania-senate-campaign-523195">Parnell suspends Pennsylvania Senate campaign</a> Politico: The Republican candidate lost a custody battle for his children after his estranged wife accused him of abuse. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
+ <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
- <p class="updated_time"> 04:31 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/redistricting-house-congressional-maps-522862">Say goodbye to swing districts. Lawmakers are drawing easy wins in dozens of states.</a> Politico: In states where legislators drew the lines this decade, nearly 90 percent of congressional races were easy wins for one party or the other. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
