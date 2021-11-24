@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
+ <p class="updated_time"> 03:04 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 02:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
  <p class="updated_time"> 02:27 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59392771?at_medium=RSS&at_campaign=KARANGA">Albert Einstein relativity document sells for record €11m</a> BBC: The manuscript shows Einstein's attempts to formulate his theory of relativity. 
- <p class="updated_time"> 02:10 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59395482?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Foreigners advised to leave</a> BBC: Germany and France are the latest countries to advise citizens to leave, as the UN relocates staff. 
  <p class="updated_time"> 01:51 PM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide the five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
  <p class="updated_time"> 05:52 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/style/korea-hair-curlers-gen-z.html">Rolling Deep: South Korean Youth Roam the City in Hair Curlers</a> NYT: The young South Korean women who wear them say they are not only functional, but also a sign of shifting ideas about beauty and a reflection of the country’s generational divide. 
- <p class="updated_time"> 08:53 AM CT, Nov. 20 </p> 
- <a href="https://www.npr.org/2021/11/20/1057625905/dutch-police-open-fire-rioters-demonstration-covid-restrictions-rotterdam">Dutch police open fire on rioters in demonstration against COVID restrictions</a> NPR: It was one of the worst outbreaks of violence in the Netherlands since coronavirus restrictions were first imposed last year. Police arrested 51 people in Rotterdam. 
 
 
 </details>
