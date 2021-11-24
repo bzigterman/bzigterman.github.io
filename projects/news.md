@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: A number of migrants have drowned in the Channel near Calais, the French government says. 
+ <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
+ <p class="updated_time"> 10:49 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: More than 20 people have died in the Channel near Calais, police tell the AFP news agency. 
+ <p class="updated_time"> 10:48 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
+ <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058820074/soccer-star-karim-benzema-is-found-guilty-of-attempting-to-blackmail-a-teammate">Soccer star Karim Benzema is found guilty of attempting to blackmail a teammate</a> NPR: A French court handed Benzema a one-year suspended jail sentence, finding him guilty of conspiring to blackmail former teammate Mathieu Valbuena over a sex tape. Benzema denies the allegations. 
  <p class="updated_time"> 10:31 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 10:29 AM CT, Nov. 24 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
- <p class="updated_time"> 10:19 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 09:58 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 03:11 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
  <p class="updated_time"> 03:00 AM CT, Nov. 24 </p> 
@@ -101,6 +103,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">Farm laws: Sikhs being targeted by fake social media profiles</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Rescuing the Afghanistan girls' football team</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
+ <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
  <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
@@ -169,18 +173,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057881537/after-slow-starts-covid-vaccination-rates-in-some-asian-nations-are-now-soaring">After slow starts, COVID vaccination rates in some Asian nations are now soaring</a> NPR: Several nations in the Asia-Pacific region, richer and poorer, had slow starts to their immunization campaigns but have since zoomed past the United States and many nations in Europe. 
  <p class="updated_time"> 01:12 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
- <p class="updated_time"> 11:04 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/americas/yunior-garcia-exile-spain.html">Playwright Is in Exile as Cuba Uses an Old Playbook to Quash Dissent</a> NYT: Yunior García, a rising star of the Cuban protest movement, fled to Spain. He is one of a young generation of artists who say they have chosen exile over imprisonment. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057811586/in-a-video-call-chinese-tennis-star-peng-shuai-told-olympics-officials-shes-safe">In a video call, Chinese tennis star Peng Shuai told Olympics officials she's safe</a> NPR: Despite a video call between Peng Shuai and members of the Olympic Committee along with video of her attending events over the weekend, some remain concerned for the athlete's wellbeing. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
- <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
- <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
 
 
 </details>
@@ -188,8 +186,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
+ <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 10:35 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
@@ -198,10 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Hit Biden on Coronavirus</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
- <p class="updated_time"> 10:12 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
- <p class="updated_time"> 10:02 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
  <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden picks Capitol Hill favorite to run his budget office</a> Politico: The president announced Wednesday that he will nominate Shalanda Young as OMB director and Nani Coloretti as deputy director. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
- <p class="updated_time"> 10:47 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/trump-kyle-rittenhouse-mar-a-lago-visit/index.html">Trump says Rittenhouse visited him at Mar-a-Lago</a> CNN: Former President Donald Trump said he was recently visited at his Palm Beach, Florida, resort by Kyle Rittenhouse, the teenager who was acquitted last week on all charges after fatally shooting two people and wounding a third during protests in Kenosha, Wisconsin, last summer. 
  <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/upshot/powell-brainard-fed-biden.html">Biden Bets Big on Continuity at the Fed</a> NYT: Jerome Powell and Lael Brainard are known quantities in a turbulent time. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
