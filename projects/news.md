@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:04 AM CT, Nov. 24 </p> 
+ <p class="updated_time"> 05:25 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">A New Era: Germany to Meet its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. How much change he can deliver as the leader of a three-way coalition is unclear. 
+ <p class="updated_time"> 05:20 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
+ <p class="updated_time"> 05:14 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
+ <p class="updated_time"> 05:07 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
+ <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
- <p class="updated_time"> 04:10 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:38 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
- <p class="updated_time"> 03:32 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 03:11 AM CT, Nov. 24 </p> 
@@ -31,22 +35,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smash into Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
+ <p class="updated_time"> 12:21 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Nuclear Chief Leaves Iran Without a Deal on Factory Inspection, Diplomats Say</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 11:24 PM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz on Track to Succeed Merkel as Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement to form the country’s first three-party coalition, people involved in the negotiations said. 
- <p class="updated_time"> 11:01 PM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Nuclear Chief Leaves Iran Without a Deal on Factory Inspection, Diplomats Say</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 09:59 PM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Looks to Regional Rival for Investment Amid Currency Crisis</a> WSJ: The Turkish president is set to host the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president is set to host the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
  <p class="updated_time"> 09:01 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Dancing grannies and boy among victims</a> BBC: An eight-year-old boy is the latest victim to succumb to injuries in the Waukesha Christmas parade car-ramming. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
- <p class="updated_time"> 04:35 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/article/hong-kong-security-law-speech.html">Hong Kong’s National Security Law Explained</a> NYT: Tony Chung, a 20-year-old student activist, is the youngest to be sent to prison under the harsh and expansive new security law passed in 2020. 
  <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356">Massive Hack Gave Police a Window on Cocaine, Cash and Killers</a> WSJ: Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Powell’s historic bet: Shrugging off inflation to deliver on jobs</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
