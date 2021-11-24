@@ -192,6 +192,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden to pick Capitol Hill favorite to run his budget office</a> Politico: He is set to nominate Shalanda Young. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
@@ -308,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/rep-louie-gohmert-texas-ag-523226">Rep. Louie Gohmert announces he's running for Texas AG</a> Politico: The congressman said earlier this month he was exploring a late entry, basing his decision on whether he could raise $1 million in 10 days. 
  <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
- <p class="updated_time"> 07:58 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/economy/fed-chair-jerome-powell-biden.html">Biden Will Keep Jerome Powell as Federal Reserve Chair</a> NYT: The White House returned to a longstanding pattern in which presidents reappoint the same leader of the Federal Reserve regardless of partisan identity. 
  <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/parkland-shooting-settlement/index.html">Families of Parkland shooting victims settle lawsuit with Justice Department</a> CNN: More than a dozen families for the victims of the Parkland, Florida, high school massacre have reached a settlement with the Justice Department after suing the agency and FBI for not acting on tips warning about the shooter, according to a federal court filing on Monday. 
  <p class="updated_time"> 07:27 PM CT, Nov. 22 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/lael-brainard-federal-reserve.html">Who is Lael Brainard, President Biden’s pick for the Fed’s vice chair?</a> NYT: She was in the mix to potentially replace Jerome Powell as Fed chair, but Mr. Biden’s decision to elevate her to the Fed’s No. 2 role will still place her in a powerful position. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
- <p class="updated_time"> 09:01 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057427047/republicans-are-changing-state-laws-to-try-and-get-out-of-federal-vaccine-mandat">Republicans are changing state laws to try to get out of federal vaccine mandates</a> NPR: Nationwide, conservative lawmakers have come together to propose and pass bills aimed at nullifying federal vaccine mandates. Public health experts worry exemptions make the workforce vulnerable. 
  <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
  <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/states/california/story/2021/11/21/even-in-liberal-california-strict-vaccine-mandates-face-resistance-1394740">Even in liberal California, strict vaccine mandates face resistance</a> Politico: Enough people in the state remain unvaccinated that school districts, prison officials and private employers are urging flexibility. Otherwise, they say they’ll be understaffed. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
