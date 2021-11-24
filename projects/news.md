@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants die in biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
+ <p class="updated_time"> 01:03 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants die in biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
@@ -194,6 +194,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All three defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
+ <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
+ <p class="updated_time"> 01:09 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
+ <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 12:24 PM CT, Nov. 24 </p> 
@@ -206,12 +214,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/kevin-mccarthy-speakership-race/index.html">Trump's influence looms over McCarthy's race to be next House speaker</a> CNN: Donald Trump and his allies are starting to dangle the threat of the speakership over House Minority Leader Kevin McCarthy's head, teeing up a yearlong dynamic that is already emboldening the MAGA wing of the GOP conference and influencing the California Republican's decision-making as he crafts a strategy to win back the House next year. 
- <p class="updated_time"> 11:19 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
- <p class="updated_time"> 11:05 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 11:03 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
@@ -336,16 +340,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
- <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
- <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
