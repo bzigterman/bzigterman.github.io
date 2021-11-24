@@ -9,12 +9,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:25 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">A New Era: Germany to Meet its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. How much change he can deliver as the leader of a three-way coalition is unclear. 
+ <p class="updated_time"> 05:24 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 05:20 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
  <p class="updated_time"> 05:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 05:07 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/african-union-vaccines-covax-523254">Why the African Union isn’t waiting for COVAX</a> Politico: Blocked from buying vaccines made in the U.S., Europe and India, the head of the African Union’s vaccination effort says the only solution is building a vaccine infrastructure back home. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Powell’s historic bet: Shrugging off inflation to deliver on jobs</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
