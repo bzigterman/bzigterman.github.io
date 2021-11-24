@@ -4,10 +4,10 @@ Eastern,CHI,12,6,.667
 Eastern,MIA,12,6,.667
 Eastern,WAS,11,6,.647
 Eastern,CHA,11,8,.579
+Eastern,NYK,10,8,.556
 Eastern,MIL,10,8,.556
 Eastern,PHI,10,8,.556
 Eastern,BOS,10,8,.556
-Eastern,NYK,9,8,.529
 Eastern,ATL,9,9,.500
 Eastern,CLE,9,9,.500
 Eastern,TOR,8,10,.444
@@ -22,7 +22,7 @@ Western,DAL,9,7,.562
 Western,POR,9,8,.529
 Western,MEM,9,8,.529
 Western,DEN,9,8,.529
-Western,LAL,9,9,.500
+Western,LAL,9,10,.474
 Western,MIN,8,9,.471
 Western,OKC,6,11,.353
 Western,SAC,6,12,.333
