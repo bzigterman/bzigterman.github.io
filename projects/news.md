@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
+ <p class="updated_time"> 06:56 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
+ <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties say they've reached a deal to form a coalition government</a> NPR: The three-way alliance is expected to be unveiled Wednesday and reportedly paves the way for center-left leader Olaf Scholz to replace longtime Chancellor Angela Merkel. 
+ <p class="updated_time"> 06:47 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 06:25 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
- <p class="updated_time"> 06:24 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 06:03 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 05:40 AM CT, Nov. 24 </p> 
@@ -37,12 +43,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59397642?at_medium=RSS&at_campaign=KARANGA">Sri Lanka attacks: 23,000 charges filed against suspects as trial begins</a> BBC: The list of charges and witnesses could mean a trial that takes up to 10 years, lawyers warn. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
+ <p class="updated_time"> 01:45 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 01:21 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz on Track to Succeed Merkel as Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement to form the country’s first three-party coalition, people involved in the negotiations said. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smash into Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
- <p class="updated_time"> 12:21 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
@@ -67,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:54 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">Farm laws: Sikhs being targeted by fake social media profiles</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
- <p class="updated_time"> 06:47 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Rescuing the Afghanistan girls' football team</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
@@ -175,16 +179,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
  <p class="updated_time"> 02:08 PM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
- <p class="updated_time"> 01:59 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/afghanistan-crops-opium-taliban.html">In Hard Times, Afghan Farmers Are Turning to Opium for Security</a> NYT: The war’s intense conclusion and a drought combined to wipe out the famous Afghan pomegranate harvest in Kandahar Province, during a devastating national economic crisis. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
  <p class="updated_time"> 08:16 AM CT, Nov. 21 </p> 
  <a href="https://www.npr.org/2021/11/21/1057769446/sudan-coup-prime-minister-abdalla-hamdok">Sudan's military has agreed to reinstate the nation's ousted prime minister</a> NPR: Prime Minister Abdalla Hamdok was deposed in a coup last month. The country's top general said in televised remarks that Hamdok will lead an independent Cabinet until elections can be held. 
- <p class="updated_time"> 07:00 AM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057759719/the-taliban-give-back-some-rights-to-women-but-it-may-be-all-a-political-strateg">The Taliban give back some rights to women, but it may be all a political strategy</a> NPR: Leila Fadel speaks to TRT World Correspondent Soraya Lennie about the latest developments in Afghanistan on the rights of girls and women to return to school. 
 
 
 </details>
@@ -284,6 +284,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 02:17 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
+ <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
@@ -382,16 +384,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 06:09 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/states/california/story/2021/11/21/even-in-liberal-california-strict-vaccine-mandates-face-resistance-1394740">Even in liberal California, strict vaccine mandates face resistance</a> Politico: Enough people in the state remain unvaccinated that school districts, prison officials and private employers are urging flexibility. Otherwise, they say they’ll be understaffed. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
- <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
- <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
