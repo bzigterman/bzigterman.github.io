@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
+ <p class="updated_time"> 08:59 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:27 AM CT, Nov. 24 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
  <p class="updated_time"> 05:40 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
- <p class="updated_time"> 05:39 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany to Meet Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. How much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 05:20 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 09:01 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Dancing grannies and boy among victims</a> BBC: An eight-year-old boy is the latest victim to succumb to injuries in the Waukesha Christmas parade car-ramming. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
- <p class="updated_time"> 10:40 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/middleeast/shooting-israel-jerusalem.html">Israeli Is Killed by Palestinian Near Holiest Site in Jerusalem</a> NYT: The shooting, the first attack by a Palestinian since May to result in the death of a Jewish civilian, could deepen tensions within Israel’s fragile governing coalition. 
  <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha police chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
@@ -192,12 +192,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jobless-claims-unemployment-benefits-drop-523293">U.S. jobless claims plunge to 199,000, lowest in 52 years</a> Politico: The number of Americans applying for unemployment benefits plummeted last week to the lowest level in more than half a century, another sign that the U.S. job market is rebounding rapidly from last year’s coronavirus recession. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden Nominates Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
+ <p class="updated_time"> 08:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058837137/biden-nominate-omb-shalanda-young-nani-coloretti">Biden nominates 2 women of color to lead the OMB</a> NPR: Shalanda Young has been tapped to be director of the White House Office of Management and Budget, and Nani Coloretti as its deputy director. 
  <p class="updated_time"> 08:16 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 07:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
- <p class="updated_time"> 07:33 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:20 AM CT, Nov. 24 </p> 
@@ -334,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/economy/lael-brainard-fed-vice-chair.html">Lael Brainard is Tapped For Vice Chair of the Federal Reserve</a> NYT: The longtime Washington insider is now the central bank’s No. 2. That could give her more bandwidth to influence policy. 
  <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/inflation-biden-federal-reserve-what-matters/index.html">Analysis: There's a major problem with the narrative on inflation</a> CNN: The inflation narrative is largely set. The coronavirus pandemic created supply chain snarls. It put production out of whack. As demand has roared back following Covid-19 lockdowns, prices have soared. 
+ <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128896/wildland-firefighters-are-split-on-whether-higher-pay-would-keep-them-in-the-ind">Wildland firefighters are split on whether higher pay would keep them in the industry</a> NPR: Wildland firefighters will soon see big increases in pay and other benefits from the infrastructure bill. But firefighters are split on whether the changes are enough to keep them on the job. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128889/white-house-council-of-economic-advisers-head-on-the-economic-issues-the-u-s-fac">White House Council of Economic Advisers head on the economic issues the U.S. faces</a> NPR: NPR's Ailsa Chang talks with Cecilia Rouse, chair of the White House Council of Economic Advisers, about President Biden's Federal Reserve nomination and the economic challenges the country is facing. 
- <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1058128839/president-biden-has-nominated-jerome-powell-to-remain-fed-chair">President Biden has nominated Jerome Powell to remain Fed chair</a> NPR: President Biden plans to re-nominate Jerome Powell to lead the Federal Reserve for four more years. Powell has steered the central bank through the pandemic recession. Now he must take on inflation. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
