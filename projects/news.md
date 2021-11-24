@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
+ <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
+ <p class="updated_time"> 11:12 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">Migrants Feared Dead After Boat Capsizes in English Channel</a> NYT: The boat, which was carrying the migrants to Britain, capsized near Calais. The French authorities said “many” people had died in the accident. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: French police say 27 people died in the Channel near Calais, the AFP news agency reports. 
+ <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
- <p class="updated_time"> 10:49 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: More than 20 people have died in the Channel near Calais, police tell the AFP news agency. 
  <p class="updated_time"> 10:48 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
@@ -23,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
- <p class="updated_time"> 09:58 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59405585?at_medium=RSS&at_campaign=KARANGA">Pentagon to study UFO sightings in restricted US airspace</a> BBC: It follows a June report that could not explain dozens of "unidentified aerial phenomena". 
  <p class="updated_time"> 09:50 AM CT, Nov. 24 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 06:25 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
- <p class="updated_time"> 05:40 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 05:02 AM CT, Nov. 24 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
- <p class="updated_time"> 07:28 PM CT, Nov. 21 </p> 
- <a href="https://www.npr.org/2021/11/21/1057811586/in-a-video-call-chinese-tennis-star-peng-shuai-told-olympics-officials-shes-safe">In a video call, Chinese tennis star Peng Shuai told Olympics officials she's safe</a> NPR: Despite a video call between Peng Shuai and members of the Olympic Committee along with video of her attending events over the weekend, some remain concerned for the athlete's wellbeing. 
  <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
 
@@ -186,14 +188,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
+ <p class="updated_time"> 11:19 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
+ <p class="updated_time"> 11:05 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
+ <p class="updated_time"> 11:03 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
  <p class="updated_time"> 10:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
- <p class="updated_time"> 10:35 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
@@ -209,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jobless-claims-unemployment-benefits-drop-523293">U.S. jobless claims plunge to 199,000, lowest in 52 years</a> Politico: The number of Americans applying for unemployment benefits plummeted last week to the lowest level in more than half a century, another sign that the U.S. job market is rebounding rapidly from last year’s coronavirus recession. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
+ <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden nominates 'history-making' Shalanda Young and Nani Coloretti to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 08:57 AM CT, Nov. 24 </p> 
@@ -218,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:20 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 06:03 AM CT, Nov. 24 </p> 
@@ -241,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/shalanda-young-white-house-office-of-management-and-budget/index.html">Biden nominates 'history-making' Shalanda Young and Nani Coloretti to lead budget agency</a> CNN: President Joe Biden will nominate Shalanda Young to lead the Office of Management and Budget, two officials said, elevating her to join the Cabinet after serving as deputy budget director during the first year of the administration. 
+ <a href="https://www.cnn.com/2021/11/23/politics/shalanda-young-white-house-office-of-management-and-budget/index.html">Biden to nominate Shalanda Young as budget director, elevating well-respected deputy</a> CNN: President Joe Biden will nominate Shalanda Young to lead the Office of Management and Budget, two officials said, elevating her to join the Cabinet after serving as deputy budget director during the first year of the administration. 
  <p class="updated_time"> 10:09 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/elizabeth-holmes-theranos-remorse-trial-523282">Elizabeth Holmes expresses remorse in her criminal trial</a> Politico: She acknowledged making some mistakes as CEO of Theranos. 
  <p class="updated_time"> 09:29 PM CT, Nov. 23 </p> 
@@ -266,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/waukesha-charges-brooks-homicide-523269">8-year-old becomes sixth to die from injuries in Waukesha</a> Politico: Suspect Darrell Brooks Jr. made his initial appearance in court. 
  <p class="updated_time"> 05:21 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/califf-fda-nomination-delay-523263">FDA nomination slips after Biden admin fails to send papers to Congress</a> Politico: The delay means Robert Califf is  unlikely to get a confirmation hearing until mid-December at the earliest, effectively ruling out the possibility of a full Senate floor vote  before the end of the year. 
- <p class="updated_time"> 05:03 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/supreme-court-massachusetts-hospital-vaccine-mandate/index.html">Employees of Massachusetts hospital system ask for Supreme Court intervention in vaccine mandate challenge</a> CNN: Employees of the Massachusetts hospital system Mass General Brigham have asked the Supreme Court to intervene in a lawsuit they've brought challenging their employer's Covid-19 vaccine mandate. 
  <p class="updated_time"> 04:42 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/january-6-subpoenas-proud-boys-oath-keepers/index.html">January 6 committee subpoenas Proud Boys and Oath Keepers</a> CNN: The House committee investigating the January 6 insurrection issued five new subpoenas on Tuesday targeting right-wing extremist groups that were involved in the attack, including the Oath Keepers and Proud Boys. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 10:08 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
- <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
  <p class="updated_time"> 07:27 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/republican-national-committee-trump-legal-fees/index.html">RNC is paying some of Trump's legal fees in New York probe into Trump Organization </a> CNN: The Republican National Committee is paying some of former President Donald Trump's legal bills, using donor funds to help him pay an attorney representing him in a New York investigation into his company's business practices, according to campaign finance filings and a party spokeswoman. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
- <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/inflation-biden-federal-reserve-what-matters/index.html">Analysis: There's a major problem with the narrative on inflation</a> CNN: The inflation narrative is largely set. The coronavirus pandemic created supply chain snarls. It put production out of whack. As demand has roared back following Covid-19 lockdowns, prices have soared. 
  <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
@@ -378,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
