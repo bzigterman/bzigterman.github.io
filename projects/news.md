@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">31 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 04:07 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
  <p class="updated_time"> 03:59 PM CT, Nov. 24 </p> 
@@ -21,8 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
- <p class="updated_time"> 03:33 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">31 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
+ <p class="updated_time"> 03:34 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59411030?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Three US men guilty of murdering black jogger</a> BBC: The white men pursued and shot dead Ahmaud Arbery in Georgia in what some called a modern-day lynching. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
@@ -196,6 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/russia-push-new-weapons-ukraine-523362">Russian buildup sparks new push to send weapons to Ukraine</a> Politico: A new lethal weapons package for Kyiv is up for debate in Congress, but NDAA delays could scuttle the $50 million boost in funding. 
+ <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
+ <p class="updated_time"> 04:11 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
@@ -212,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 03:01 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
- <p class="updated_time"> 02:58 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 02:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
  <p class="updated_time"> 02:41 PM CT, Nov. 24 </p> 
@@ -244,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/kevin-mccarthy-speakership-race/index.html">Trump's influence looms over McCarthy's race to be next House speaker</a> CNN: Donald Trump and his allies are starting to dangle the threat of the speakership over House Minority Leader Kevin McCarthy's head, teeing up a yearlong dynamic that is already emboldening the MAGA wing of the GOP conference and influencing the California Republican's decision-making as he crafts a strategy to win back the House next year. 
  <p class="updated_time"> 11:03 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
- <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
  <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
- <p class="updated_time"> 03:32 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/halifax-democracy-america-allies-523147">‘No ground for cockiness’: Tough love for U.S. at pro-democracy conference</a> Politico: From Afghanistan to domestic extremism, the Halifax forum became a therapy session for allies concerned with America’s actions. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
