@@ -198,8 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Justice Department sics its lawyers on unruly airline passengers as holiday travel ramps up</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights, and we’re committed to our partnership with the DOJ to combat it,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/russia-push-new-weapons-ukraine-523362">Russian buildup sparks new push to send weapons to Ukraine</a> Politico: A new lethal weapons package for Kyiv is up for debate in Congress, but NDAA delays could scuttle the $50 million boost in funding. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
  <p class="updated_time"> 04:11 PM CT, Nov. 24 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058973471/despite-voter-approved-anti-gerrymandering-reforms-ohio-gop-still-draws-lopsided">Despite voter-approved anti-gerrymandering reforms, Ohio GOP still draws lopsided map</a> NPR: Ohio's new congressional map favors Republicans 13 to 2. Voting rights advocates say it's a violation of redistricting rules voters put in place in 2018. One group has already filed a legal challenge. 
  <p class="updated_time"> 02:38 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
- <p class="updated_time"> 02:19 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 02:07 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/south-fork-wind-farm-approval-climate/index.html">Federal officials green-light wind farm off coast of Rhode Island in quest to expand renewable energy</a> CNN: Federal officials are green-lighting plans for a wind farm off the Rhode Island coast as the Biden administration aims to grow renewable energy capacity. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
- <p class="updated_time"> 04:42 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/raimondo-commerce-war-room-supply-chain-woes-523207">Raimondo: Commerce 'war room' seeing improvements on supply chain woes</a> Politico: The Commerce secretary said in an interview that the Biden administration sees trading partners in Asia as part of the solution. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
