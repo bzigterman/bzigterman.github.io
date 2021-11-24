@@ -67,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-to-remove-colombian-rebel-group-farc-from-terrorist-list-in-support-of-five-year-old-peace-pact-11637688001">U.S. to Drop Colombian Rebel Group FARC From Terrorist List</a> WSJ: Federal officials said the move could coincide the five-year anniversary of a peace accord between then-President Juan Manuel Santos and rebels of the Revolutionary Armed Forces of Colombia. 
  <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
+ <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59393745?at_medium=RSS&at_campaign=KARANGA">Brian Laundrie: US blogger Gabby Petito's fiancé 'died by suicide' - family lawyer</a> BBC: Brian Laundrie, who was found dead last month, was a person of interest in his fiancée's murder. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 12:37 PM CT, Nov. 23 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
  <p class="updated_time"> 08:01 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/interpol-chooses-new-leadership-as-western-worries-grow-over-red-notices-11637690224">As Interpol Picks New Leaders, Questions Grow Over How Autocratic Nations Use It</a> WSJ: The U.S. and other countries are trying to stop authoritarian states using fugitive alerts—the so-called red notices—to chase down dissidents. 
- <p class="updated_time"> 06:22 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59386281?at_medium=RSS&at_campaign=KARANGA">Mexican nursery's lottery win turns into nightmare</a> BBC: Parents who won almost $1m are being threatened by a gang demanding they use the money to buy guns. 
  <p class="updated_time"> 05:58 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/supply-woes-start-to-ease-in-europe-but-businesses-costs-surge-11637670072">Strong Demand, Shortages Push Up Prices in U.S. and Europe</a> WSJ: Businesses continue to contend with cost inflation even as supply constraints show signs of easing, according to recent surveys. 
  <p class="updated_time"> 05:57 AM CT, Nov. 23 </p> 
