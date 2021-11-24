@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Nov. 24 </p> 
+ <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
+ <p class="updated_time"> 01:59 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants die in biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
- <p class="updated_time"> 10:48 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058820074/soccer-star-karim-benzema-is-found-guilty-of-attempting-to-blackmail-a-teammate">Soccer star Karim Benzema is found guilty of attempting to blackmail a teammate</a> NPR: A French court handed Benzema a one-year suspended jail sentence, finding him guilty of conspiring to blackmail former teammate Mathieu Valbuena over a sex tape. Benzema denies the allegations. 
  <p class="updated_time"> 10:29 AM CT, Nov. 24 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
+ <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All three defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
@@ -206,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 01:10 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
- <p class="updated_time"> 01:09 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/jan-6-trump-files.html">Court Urged to Let Jan. 6 Panel See Trump White House Files</a> NYT: In appellate briefs, lawyers for the House and the Justice Department argued against the former president’s claim of executive privilege. 
- <p class="updated_time"> 11:48 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/business/economy/minimum-wage-federal-contractors.html">$15 minimum wage for federal contractors will take effect Jan. 30.</a> NYT: The Labor Department issued a final rule carrying out an April executive order from President Biden. It could affect more than 300,000 workers. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
