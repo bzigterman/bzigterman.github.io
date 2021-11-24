@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:27 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
- <p class="updated_time"> 08:19 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:39 AM CT, Nov. 24 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/jobless-claims-unemployment-benefits-drop-523293">U.S. jobless claims plunge to 199,000, lowest in 52 years</a> Politico: The number of Americans applying for unemployment benefits plummeted last week to the lowest level in more than half a century, another sign that the U.S. job market is rebounding rapidly from last year’s coronavirus recession. 
  <p class="updated_time"> 08:16 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 07:34 AM CT, Nov. 24 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/covid-thanksgiving-travel-what-matters/index.html">Americans try to look past Covid-19 for Thanksgiving</a> CNN: Last Thanksgiving, there was no coronavirus vaccine and the US government asked people to stay home for the holiday. Gatherings probably helped fuel a Covid-19 surge. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
- <p class="updated_time"> 03:24 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/jury-awards-millions-damages-unite-the-right-523257">Jury awards millions in damages for Unite the Right violence</a> Politico: Hundreds of white nationalists descended on Charlottesville for the rally on Aug. 11 and 12, 2017, ostensibly to protest city plans to remove a statue of Confederate Gen. Robert E. Lee. 
  <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
