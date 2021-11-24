@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 01:36 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart rocket: Mission to smack Dimorphos asteroid launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart spacecraft: Mission to smack Dimorphos asteroid launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
@@ -36,15 +38,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59386282?at_medium=RSS&at_campaign=KARANGA">Colombia peace deal: The families displaced five years on</a> BBC: Five years after a peace deal came into force in Colombia, violence by armed gangs is again on the rise. 
  <p class="updated_time"> 07:24 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59380311?at_medium=RSS&at_campaign=KARANGA">Ugandan militant escapee: IS forced me to fight</a> BBC: An ex-fighter tells the BBC how the ADF, an IS affiliate, has been able to strike at Uganda's heart. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59380311?at_medium=RSS&at_campaign=KARANGA">Uganda suicide attacks: Inside view of the IS-linked ADF rebels</a> BBC: An ex-fighter tells the BBC how the ADF, an IS affiliate, has been able to strike at Uganda's heart. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:54 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">India farm laws: Fake social media profiles targeting Sikhs exposed</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
  <p class="updated_time"> 06:47 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
- <p class="updated_time"> 06:32 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59397182?at_medium=RSS&at_campaign=KARANGA">Covid: Europe region faces 700,000 more deaths by March - WHO</a> BBC: The World Health Organization says the regional death toll could exceed 2.2 million by 1 March. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Escaping Afghanistan: Inside Operation Soccer Balls</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
@@ -137,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 01:40 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/americas/chile-election-boric-kast.html">Chileans Will Vote For President on Sunday </a> NYT: The top contenders to lead Chile out of a turbulent era are a leftist 35-year-old former student activist and a 55-year-old far-right former congressman, offering voters a stark choice. 
- <p class="updated_time"> 01:23 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59381775?at_medium=RSS&at_campaign=KARANGA">Peppa Pig and losing notes: UK PM's bizarre speech</a> BBC: Boris Johnson is questioned by a reporter after talking about Peppa Pig World at a business conference. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
  <p class="updated_time"> 10:40 AM CT, Nov. 22 </p> 
