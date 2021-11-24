@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:56 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants die in biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
+ <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 12:44 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden appoints its first female prime minister, who resigns hours later</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been appointed earlier in the day. 
- <p class="updated_time"> 12:38 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
- <p class="updated_time"> 12:33 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">ƒbeBritish Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
+ <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
  <p class="updated_time"> 12:31 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
  <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">‘Many Deaths’ Feared After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. French authorities say at least 24 people died. 
  <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
- <p class="updated_time"> 12:07 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
@@ -59,10 +59,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/europe-health-agency-in-shift-urges-faster-covid-19-booster-rollout-as-cases-surge-11637776090">Europe Health Agency Urges Faster Booster Rollout</a> WSJ: In a shift, the head of the European Union’s public-health agency recommended governments accelerate their Covid-19 booster campaigns as case numbers rise rapidly across parts of the bloc. 
  <p class="updated_time"> 07:39 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
- <p class="updated_time"> 07:31 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/europe-health-agency-in-shift-urges-faster-covid-19-booster-rollout-as-cases-surge-11637776090">Europe Health Agency Urges Faster Booster Rollout</a> WSJ: In a shift, the head of the European Union’s public-health agency recommended governments accelerate their Covid-19 booster campaigns as case numbers rise rapidly across parts of the bloc. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
@@ -75,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 06:25 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 05:02 AM CT, Nov. 24 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 12:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
@@ -220,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
- <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/supreme-court-north-carolina-voter-id/index.html">Supreme Court will hear dispute over GOP legislators' defense of North Carolina voter ID law</a> CNN: The Supreme Court said Wednesday that it will hear a case brought by Republican legislators in North Carolina who are seeking to defend the state's strict voter ID law because they think the Democratic state attorney general is not adequately representing their interests. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Hit Biden on Coronavirus</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
@@ -256,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden picks Capitol Hill favorite to run his budget office</a> Politico: The president announced Wednesday that he will nominate Shalanda Young as OMB director and Nani Coloretti as deputy director. 
- <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
@@ -318,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058292334/u-s-to-release-oil-reserves-as-the-holiday-travel-season-gears-up">U.S. to release oil reserves as the holiday travel season gears up</a> NPR: The Biden administration will release 50 million barrels of oil from the country's strategic petroleum reserve to lower gas prices for Americans as the holiday traveling season kicks off. 
- <p class="updated_time"> 08:27 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-electric-vehicle-chargers-climate/index.html">How Biden's infrastructure funding could push more Americans into the electric vehicle 'revolution'</a> CNN: President Joe Biden wants half the vehicles sold in the US to be electric vehicles or plug-in hybrids by 2030. But to reach that goal, not only do Americans need to start buying more electric vehicles, they need more charging stations to plug them into. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:13 AM CT, Nov. 23 </p> 
@@ -342,8 +336,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
- <p class="updated_time"> 07:27 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/republican-national-committee-trump-legal-fees/index.html">RNC is paying some of Trump's legal fees in New York probe into Trump Organization </a> CNN: The Republican National Committee is paying some of former President Donald Trump's legal bills, using donor funds to help him pay an attorney representing him in a New York investigation into his company's business practices, according to campaign finance filings and a party spokeswoman. 
+ <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
@@ -418,6 +412,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/family-separation-biden-relationship/index.html">Biden administration's handling of pay outs for separated families put a tense relationship under further strain</a> CNN: Potential pay outs of up to $450,000 to migrant families separated at the US-Mexico border are the latest political flashpoint in the Republican criticism of President Joe Biden's immigration policy -- and the political back-and-forth has put a tense relationship under further strain. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
@@ -436,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
  <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
- <p class="updated_time"> 12:52 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/schumer-china-bill-ndaa-delay-522811">Senate advances defense bill after Schumer, Pelosi reach deal on China legislation</a> Politico: The agreement comes after Senate Republicans and some House Democrats objected to Schumer’s push to unilaterally attach the China legislation to the must-pass defense bill. 
 
 
 </details>
