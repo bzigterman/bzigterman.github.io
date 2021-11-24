@@ -39,12 +39,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president hosted the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
  <p class="updated_time"> 02:51 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59397642?at_medium=RSS&at_campaign=KARANGA">Sri Lanka attacks: 23,000 charges filed against suspects as trial begins</a> BBC: The list of charges and witnesses could mean a trial that takes up to 10 years, lawyers warn. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 01:45 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
+ <p class="updated_time"> 01:29 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980">Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</a> WSJ: A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador. 
  <p class="updated_time"> 01:21 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz on Track to Succeed Merkel as Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement to form the country’s first three-party coalition, people involved in the negotiations said. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 09:59 PM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president is set to host the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
  <p class="updated_time"> 09:01 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Dancing grannies and boy among victims</a> BBC: An eight-year-old boy is the latest victim to succumb to injuries in the Waukesha Christmas parade car-ramming. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 11:02 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan - reports on the impact of 100 days of Taliban rule. 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
@@ -121,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/americas/guadelouple-protests-covid-vaccine.html">Unrest over vaccine mandates and economic inequality rocks Guadeloupe.</a> NYT: Demonstrations started with pickets of at a hospital on the main island,  a French overseas department, and grew violent over the weekend. Protesters burned cars, looted businesses and clashed with riot police. 
- <p class="updated_time"> 04:12 AM CT, Nov. 23 </p> 
- <a href="https://www.wsj.com/articles/massive-hack-gave-police-a-window-on-cocaine-cash-and-killers-11637680356">Massive Hack Gave Police a Window on Cocaine, Cash and Killers</a> WSJ: Special handsets have helped criminals flood Europe with cocaine, but when authorities got inside the networks, they gained an unobstructed view of the gangs at work—and the chance to thwart them. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
@@ -192,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 07:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 07:33 AM CT, Nov. 24 </p> 
@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/african-union-vaccines-covax-523254">Why the African Union isn’t waiting for COVAX</a> Politico: Blocked from buying vaccines made in the U.S., Europe and India, the head of the African Union’s vaccination effort says the only solution is building a vaccine infrastructure back home. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Powell’s historic bet: Shrugging off inflation to deliver on jobs</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
+ <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Raging inflation may force Fed’s hand on rates</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has penetrated the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden to pick Capitol Hill favorite to run his budget office</a> Politico: He is set to nominate Shalanda Young. 
- <p class="updated_time"> 11:13 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 10:47 PM CT, Nov. 23 </p> 
