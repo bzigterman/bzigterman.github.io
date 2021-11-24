@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 10:09 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/elizabeth-holmes-theranos-remorse-trial-523282">Elizabeth Holmes expresses remorse in her criminal trial</a> Politico: She acknowledged making some mistakes as CEO of Theranos. 
  <p class="updated_time"> 09:29 PM CT, Nov. 23 </p> 
