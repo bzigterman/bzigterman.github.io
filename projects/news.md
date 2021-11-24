@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
  <p class="updated_time"> 05:39 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">A New Era: Germany to Meet its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. How much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 05:24 AM CT, Nov. 24 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
- <p class="updated_time"> 03:38 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 03:11 AM CT, Nov. 24 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden to pick Capitol Hill favorite to run his budget office</a> Politico: He is set to nominate Shalanda Young. 
+ <p class="updated_time"> 11:13 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 11:05 PM CT, Nov. 23 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
  <p class="updated_time"> 06:08 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/trump-2024-pac-run-for-president/index.html">Analysis: Donald Trump is running again, part 7,282</a> CNN: It's the absolute worst-kept secret in politics: Donald Trump is full-speed-ahead on a 2024 presidential bid. 
+ <a href="https://www.cnn.com/2021/11/23/politics/trump-2024-pac-run-for-president/index.html">Analysis: Donald Trump is running again</a> CNN: It's the absolute worst-kept secret in politics: Donald Trump is full-speed-ahead on a 2024 presidential bid. 
  <p class="updated_time"> 06:01 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/pennsylvania-republican-senate-primary/index.html">'This crowd is so big and unknown': Pennsylvania Senate scramble could include Dr. Oz and former Bush official</a> CNN: Senate candidate Sean Parnell's abrupt end to his campaign in Pennsylvania has shaken up the Republican primary field in a crucial race as the party seeks to win a majority next fall. 
  <p class="updated_time"> 05:24 PM CT, Nov. 23 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058292334/u-s-to-release-oil-reserves-as-the-holiday-travel-season-gears-up">U.S. to release oil reserves as the holiday travel season gears up</a> NPR: The Biden administration will release 50 million barrels of oil from the country's strategic petroleum reserve to lower gas prices for Americans as the holiday traveling season kicks off. 
- <p class="updated_time"> 08:56 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-osha-6th-circuit-stay/index.html">Biden administration asks appeals court to reinstate OSHA vaccine mandate </a> CNN: The Biden administration is asking the 6th US Circuit Court of Appeals to wipe away an order from another appeals court blocking its Occupational Safety and Health Administration vaccine mandate. 
  <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden acts to lower fuel prices — with help from GOP</a> Politico: Biden’s Energy Department specifically cited Trump era legislation before releasing 50 million barrels from the nation’s oil reserves. 
  <p class="updated_time"> 08:27 AM CT, Nov. 23 </p> 
@@ -322,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/business/bezos-obama-foundation.html">Jeff Bezos Donates $100 Million to the Obama Foundation</a> NYT: The gift was the largest yet for the foundation and was among several splashy donations in recent months by Mr. Bezos, one of the world’s richest people. 
  <p class="updated_time"> 09:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html">Justice Department and House lawyers argue Trump's records should be turned over to January 6 committee </a> CNN: The Biden administration said in a court filing on Monday that the House select committee's investigation into January 6 is needed to fully understand former President Donald Trump's role in the US Capitol attack, arguing that his presidential records be turned over to Congress. 
- <p class="updated_time"> 07:45 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/parkland-shooting-settlement/index.html">Families of Parkland shooting victims settle lawsuit with Justice Department</a> CNN: More than a dozen families for the victims of the Parkland, Florida, high school massacre have reached a settlement with the Justice Department after suing the agency and FBI for not acting on tips warning about the shooter, according to a federal court filing on Monday. 
  <p class="updated_time"> 07:27 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/republican-national-committee-trump-legal-fees/index.html">RNC is paying some of Trump's legal fees in New York probe into Trump Organization </a> CNN: The Republican National Committee is paying some of former President Donald Trump's legal bills, using donor funds to help him pay an attorney representing him in a New York investigation into his company's business practices, according to campaign finance filings and a party spokeswoman. 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
@@ -376,6 +374,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
- <p class="updated_time"> 08:04 AM CT, Nov. 21 </p> 
- <a href="https://www.cnn.com/2021/11/21/politics/fact-check-republicans-voter-fraud-kirk-hartle/index.html">Another voter fraud accusation blows up in Republicans' faces</a> CNN: The mysterious case of Rosemarie Hartle's vote in the last presidential election, three years after her death, was trumpeted in November 2020 by the Nevada Republican Party and various prominent conservatives. From then-President Donald Trump on down, Republicans used stories about phony votes cast under the names of dead people as key evidence for their claim that Joe Biden's victory was marred by major fraud. 
  <p class="updated_time"> 05:57 PM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/news/2021/11/20/annual-defense-bill-senate-allies-worried-523134">U.S. allies worried about fate of annual defense policy bill, senators say</a> Politico: The extraordinary dynamic comes as the Senate is at a standstill on the legislation. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
@@ -414,6 +412,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
+ <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
