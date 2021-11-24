@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: A number of migrants have drowned in the Channel near Calais, the French government says. 
+ <p class="updated_time"> 10:31 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
+ <p class="updated_time"> 10:29 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
+ <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
+ <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
+ <p class="updated_time"> 10:19 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 09:58 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
- <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants heading for UK die after boat sinks</a> BBC: Several migrants headed for UK drown in the Channel near Calais after their boat sinks, the French government says. 
  <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59405585?at_medium=RSS&at_campaign=KARANGA">Pentagon to study UFO sightings in restricted US airspace</a> BBC: It follows a June report that could not explain dozens of "unidentified aerial phenomena". 
- <p class="updated_time"> 09:48 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
+ <p class="updated_time"> 09:50 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
  <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
@@ -27,40 +37,32 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
- <p class="updated_time"> 08:27 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:39 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 06:56 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
  <p class="updated_time"> 06:51 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59401139?at_medium=RSS&at_campaign=KARANGA">Peru's chief of staff stashed $20,000 in palace bathroom</a> BBC: Prosecutors found $20,000 in the chief of staff's bathroom inside the presidential palace. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
- <p class="updated_time"> 06:47 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 06:25 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59396999?at_medium=RSS&at_campaign=KARANGA">Wisconsin: Child becomes sixth fatality in car-ramming</a> BBC: An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin. 
  <p class="updated_time"> 05:40 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden votes in Magdalena Andersson as first female PM</a> BBC: Before MPs backed Magdalena Andersson, Sweden was the only Nordic state never to have a woman as PM. 
- <p class="updated_time"> 05:20 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59397737?at_medium=RSS&at_campaign=KARANGA">China: Photographer sorry for 'small eyes' Dior picture</a> BBC: Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes. 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
- <p class="updated_time"> 04:23 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/mexican-president-nominates-deputy-finance-minister-victoria-rodriguez-as-next-central-bank-chief-11637764634">Mexican President Nominates Deputy Finance Minister Victoria Rodriguez as Next Central Bank Chief</a> WSJ: If ratified, Ms. Rodríguez would be the third woman on the central bank’s five-member board of governors and its first female governor. 
+ <p class="updated_time"> 05:02 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz Vows to Overhaul Economy as Next Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement focused on overhauling the country’s economy, investing in infrastructure and combating climate change. 
+ <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228">Migrants Trapped at Polish Border Face Snow, Drones and Wild Boar</a> WSJ: A standoff on the European Union’s border with Belarus is turning into a protracted game of cat-and-mouse in the east of Poland, as migrants break into small groups to evade the thousands of soldiers sent to pursue them. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058794582/public-mental-health-care-illnesses-italy-trieste">A public mental health model in Italy earns global praise. Now it faces its demise</a> NPR: Trieste has a reputed approach to bringing people with mental illnesses out of hospitals and into the community. Now the region's hard-right politicians are breaking the system apart. 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
- <p class="updated_time"> 03:39 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/morgan-stanley-jpmorgan-to-compensate-hong-kong-staff-for-quarantine-expenses-11637764744">Morgan Stanley, JPMorgan to Help Hong Kong Staff Pay for Quarantines</a> WSJ: The firms said they would offer about $5,000 to cover employee’s hotel expenses incurred in returning to the city from visiting family. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 03:11 AM CT, Nov. 24 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 01:29 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980">Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</a> WSJ: A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador. 
- <p class="updated_time"> 01:21 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz on Track to Succeed Merkel as Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement to form the country’s first three-party coalition, people involved in the negotiations said. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smash into Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:46 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/michigan-covid-surge.html">Michigan Hospitals Struggle With Covid Surge</a> NYT: Staffing shortages and pandemic fatigue add to complications. 
  <p class="updated_time"> 08:44 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
@@ -190,22 +188,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:35 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/supreme-court-north-carolina-voter-id/index.html">Supreme Court will hear dispute over GOP legislators' defense of North Carolina voter ID law</a> CNN: The Supreme Court said Wednesday that it will hear a case brought by Republican legislators in North Carolina who are seeking to defend the state's strict voter ID law because they think the Democratic state attorney general is not adequately representing their interests. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Hit Biden on Coronavirus</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
+ <p class="updated_time"> 10:12 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
+ <p class="updated_time"> 10:02 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
- <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
- <p class="updated_time"> 09:32 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Hit Biden on Coronavirus</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jobless-claims-unemployment-benefits-drop-523293">U.S. jobless claims plunge to 199,000, lowest in 52 years</a> Politico: The number of Americans applying for unemployment benefits plummeted last week to the lowest level in more than half a century, another sign that the U.S. job market is rebounding rapidly from last year’s coronavirus recession. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
- <p class="updated_time"> 09:19 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/supreme-court-north-carolina-voter-id/index.html">Supreme Court will hear dispute over GOP legislators' defense of North Carolina voter ID law</a> CNN: The Supreme Court said Wednesday that it will hear a case brought by Republican legislators in North Carolina who are seeking to defend the state's strict voter ID law because they think the Democratic state attorney general is not adequately representing their interests. 
- <p class="updated_time"> 09:11 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 08:57 AM CT, Nov. 24 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/covid-thanksgiving-travel-what-matters/index.html">Americans try to look past Covid-19 for Thanksgiving</a> CNN: Last Thanksgiving, there was no coronavirus vaccine and the US government asked people to stay home for the holiday. Gatherings probably helped fuel a Covid-19 surge. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
- <p class="updated_time"> 03:13 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058623989/u-s-to-release-50-million-barrels-of-crude-oil-from-the-reserve-to-lower-gas-pri">U.S. to release 50 million barrels of crude oil from the reserve to lower gas prices</a> NPR: The Biden administration is tapping into the country's emergency petroleum reserves in a bid to bring down high gas prices. But it's not clear how successful that strategy will be. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
@@ -374,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
- <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/article/lael-brainard-federal-reserve.html">Who is Lael Brainard, President Biden’s pick for the Fed’s vice chair?</a> NYT: She was in the mix to potentially replace Jerome Powell as Fed chair, but Mr. Biden’s decision to elevate her to the Fed’s No. 2 role will still place her in a powerful position. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
  <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
