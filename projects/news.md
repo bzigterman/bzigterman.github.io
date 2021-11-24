@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">31 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
+ <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1059041718/nasa-launches-1st-ever-practice-mission-to-defend-earth-from-asteroids">NASA launches 1st-ever practice mission to defend Earth from asteroids</a> NPR: NASA is launching its first-ever practice mission to redirect an asteroid. The launch is part of a planetary defense strategy if an object ever threatens Earth in the future. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
- <p class="updated_time"> 01:21 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">At Least 31 Dead After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. 
  <p class="updated_time"> 01:18 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 01:29 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980">Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</a> WSJ: A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador. 
- <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -173,14 +177,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1058128882/chile-presidency-men-from-opposite-ends-of-the-political-scale-face-run-off-elec">Chile presidency: men from opposite ends of the political scale face run-off election</a> NPR: Chile held the first round of its presidential election Sunday. The leading candidates came from the left and the far right. 
  <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1058128868/haiti-gang-has-released-2-of-the-17-foreign-christian-missionaries-they-kidnappe">Haiti gang has released 2 of the 17 foreign Christian missionaries they kidnapped</a> NPR: Gang members in Haiti released two of the 17 foreign missionaries they've been holding for more than a month. The move comes as police in Haiti are cracking down on the gangs. 
- <p class="updated_time"> 03:24 PM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1058128861/austria-enters-lockdown-as-covid-infections-rise">Austria enters lockdown as COVID infections rise</a> NPR: Austria has become the first European country to instate a vaccine mandate. Monday, it was the first to initiate a nation-wide lockdown during this surge, despite protests against the restrictions. 
  <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
- <p class="updated_time"> 10:08 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057894472/what-we-know-about-the-waukesha-christmas-parade-incident">Police identify Waukesha Christmas parade suspect. Here's what we know</a> NPR: The Waukesha police chief identified Darrell E. Brooks as the only suspect in the tragic vehicular attack that killed at least five people and injured 48 others on Sunday. 
  <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/airlines-violence-garland-federal-prosecutors/index.html">AG Garland directs federal prosecutors to prioritize cases involving violence on flights</a> CNN: Attorney General Merrick Garland on Wednesday directed federal prosecutors to prioritize cases involving violence on flights amid a sharp increase in assaults and disruptions of airline workers. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
  <p class="updated_time"> 03:10 PM CT, Nov. 24 </p> 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
- <p class="updated_time"> 05:09 PM CT, Nov. 18 </p> 
- <a href="https://www.cnn.com/2021/11/18/politics/us-canada-mexico-summit/index.html">Biden set to revive US-Mexico-Canada summit</a> CNN: President Joe Biden plans to focus on migration, the Covid-19 pandemic and economic integration when he convenes a summit of North American leaders at the White House on Thursday. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
  <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
