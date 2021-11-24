@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart rocket: Mission to smack Dimorphos asteroid launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Dancing grannies and boy among victims</a> BBC: An eight-year-old boy is the latest victim to succumb to injuries in the Waukesha Christmas parade car-ramming. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
- <p class="updated_time"> 08:04 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:39 PM CT, Nov. 23 </p> 
