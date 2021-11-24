@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:24 AM CT, Nov. 24 </p> 
+ <p class="updated_time"> 09:48 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
+ <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
  <p class="updated_time"> 08:59 AM CT, Nov. 24 </p> 
@@ -32,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59401139?at_medium=RSS&at_campaign=KARANGA">Peru's chief of staff stashed $20,000 in palace bathroom</a> BBC: Prosecutors found $20,000 in the chief of staff's bathroom inside the presidential palace. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties say they've reached a deal to form a coalition government</a> NPR: The three-way alliance is expected to be unveiled Wednesday and reportedly paves the way for center-left leader Olaf Scholz to replace longtime Chancellor Angela Merkel. 
+ <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
  <p class="updated_time"> 06:47 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 03:45 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/europe/spain-evictions-cerberus-covid.html">As Pandemic Evictions Rise, Spaniards Declare ‘War’ on Wall Street Landlords</a> NYT: Protesters in Barcelona are pushing back against foreign investment firms that have bought up thousands of homes over the past decade and are forcing out residents who can’t pay the rent. 
  <p class="updated_time"> 02:57 AM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057886475/sailboats-packed-with-migrants-seek-italy-on-lesser-known-migration-route">Sailboats packed with migrants seek Italy on lesser-known migration route</a> NPR: The route is increasingly being used by wealthier Afghans, Iraqis, Iranians and Kurds aboard new or nearly new sailboats that can more easily avoid detection by authorities. 
  <p class="updated_time"> 02:23 AM CT, Nov. 22 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/21/1057793289/protests-have-broken-out-across-europe-in-response-to-tightened-covid-19-restric">Protests have broken out across Europe in response to tightened COVID-19 restrictions</a> NPR: In The Netherlands, Austria, France, Belgium, and other countries, protestors are clashing with police in defiance of COVID-19 restrictions. 
  <p class="updated_time"> 10:55 AM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/ardeshir-zahedi-dead.html">Ardeshir Zahedi, Irrepressible Iranian Diplomat, Dies at 93</a> NYT: While he enabled business deals worth billions of dollars, he also hosted lavish parties, led conga lines through his embassy and dated Elizabeth Taylor. 
- <p class="updated_time"> 09:46 AM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/canada-flooding-climate-change.html">British Columbia's Flooding Is Worse Because of Climate Change</a> NYT: After a summer of deadly heat and uncontrolled wildfires, British Columbia was hit by record rainfalls that forced the evacuation of towns and destroyed highways and rail lines. 
 
 
 </details>
@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
+ <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 09:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Hit Biden on Coronavirus</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
@@ -227,8 +229,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
- <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden picks Capitol Hill favorite to run his budget office</a> Politico: The president announced Wednesday that he will nominate Shalanda Young as OMB director and Nani Coloretti as deputy director. 
@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 10:13 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/shalanda-young-white-house-office-of-management-and-budget/index.html">Biden to nominate Shalanda Young as budget director, elevating well-respected deputy</a> CNN: President Joe Biden will nominate Shalanda Young to lead the Office of Management and Budget, two officials said, elevating her to join the Cabinet after serving as deputy budget director during the first year of the administration. 
+ <a href="https://www.cnn.com/2021/11/23/politics/shalanda-young-white-house-office-of-management-and-budget/index.html">Biden nominates 'history-making' Shalanda Young and Nani Coloretti to lead budget agency</a> CNN: President Joe Biden will nominate Shalanda Young to lead the Office of Management and Budget, two officials said, elevating her to join the Cabinet after serving as deputy budget director during the first year of the administration. 
  <p class="updated_time"> 10:09 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/elizabeth-holmes-theranos-remorse-trial-523282">Elizabeth Holmes expresses remorse in her criminal trial</a> Politico: She acknowledged making some mistakes as CEO of Theranos. 
  <p class="updated_time"> 09:29 PM CT, Nov. 23 </p> 
@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html">Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules</a> CNN: Katherine Rickfelder, a Florida public school teacher, is one of nearly 30,000 people who have seen their student debt balance reduced to zero since the federal government announced significant changes to a popular loan forgiveness program last month. 
- <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
@@ -344,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 06:00 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/inflation-biden-federal-reserve-what-matters/index.html">Analysis: There's a major problem with the narrative on inflation</a> CNN: The inflation narrative is largely set. The coronavirus pandemic created supply chain snarls. It put production out of whack. As demand has roared back following Covid-19 lockdowns, prices have soared. 
+ <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:52 PM CT, Nov. 22 </p> 
