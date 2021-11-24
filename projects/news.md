@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
+ <p class="updated_time"> 03:19 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
+ <p class="updated_time"> 03:11 AM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
- <p class="updated_time"> 03:04 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
- <p class="updated_time"> 02:50 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People seeking asylum from repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:54 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">India farm laws: Fake social media profiles targeting Sikhs exposed</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">Farm laws: Fake social media profiles targeting Sikhs exposed</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
  <p class="updated_time"> 06:47 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59393823?at_medium=RSS&at_campaign=KARANGA">Apple sues Israeli spyware firm NSO Group</a> BBC: Apple is the latest in a string of firms and governments to go after the hacking tool firm. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
