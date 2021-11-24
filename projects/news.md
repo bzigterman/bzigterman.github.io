@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:20 PM CT, Nov. 24 </p> 
+ <p class="updated_time"> 02:32 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:38 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 02:19 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/kevin-mccarthy-speakership-race/index.html">Trump's influence looms over McCarthy's race to be next House speaker</a> CNN: Donald Trump and his allies are starting to dangle the threat of the speakership over House Minority Leader Kevin McCarthy's head, teeing up a yearlong dynamic that is already emboldening the MAGA wing of the GOP conference and influencing the California Republican's decision-making as he crafts a strategy to win back the House next year. 
- <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 11:03 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
