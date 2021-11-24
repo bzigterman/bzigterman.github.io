@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:01 PM CT, Nov. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Dancing grannies and boy among victims</a> BBC: An eight-year-old boy is the latest victim to succumb to injuries in the Waukesha Christmas parade car-ramming. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 08:04 PM CT, Nov. 23 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
  <p class="updated_time"> 11:02 AM CT, Nov. 23 </p> 
  <a href="https://www.wsj.com/articles/u-s-several-other-countries-to-tap-strategic-oil-reserve-11637669762">U.S. Joins With China, Other Nations in Tapping Oil Reserves</a> WSJ: The U.S. and five other countries including China will tap their national strategic petroleum reserves in an attempt to bring down gasoline prices that have become a sore spot with motorists and a big contributor to inflation, the White House said. 
- <p class="updated_time"> 10:08 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59382870?at_medium=RSS&at_campaign=KARANGA">Waukesha Christmas Parade: Three dancing grannies among Wisconsin victims</a> BBC: Four of the five people killed at the Waukesha Christmas parade were members of a local dance troupe. 
  <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan - reports on the impact of 100 days of Taliban rule. 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:09 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/elizabeth-holmes-theranos-remorse-trial-523282">Elizabeth Holmes expresses remorse in her criminal trial</a> Politico: She acknowledged making some mistakes as CEO of Theranos. 
  <p class="updated_time"> 09:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/judas-jan6-actor-michael-jackson-523279">‘Jesus Christ Superstar’ actor charged with joining Oath Keepers during Capitol breach</a> Politico: James Beeks is also known as a Michael Jackson impersonator. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
