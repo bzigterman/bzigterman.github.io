@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:07 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: French police say 27 people died in the Channel near Calais, the AFP news agency reports. 
  <p class="updated_time"> 11:50 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
  <p class="updated_time"> 11:47 AM CT, Nov. 24 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
- <p class="updated_time"> 11:41 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: French police say 27 people died in the Channel near Calais, the AFP news agency reports. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
  <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
@@ -57,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59401921?at_medium=RSS&at_campaign=KARANGA">Climate change causing albatross divorce, says study</a> BBC: There are more bird break-ups in warmer years, a study of 15,500 breeding pairs finds. 
  <p class="updated_time"> 06:52 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president hosted the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
  <p class="updated_time"> 06:51 AM CT, Nov. 24 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 01:29 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980">Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</a> WSJ: A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador. 
- <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smash into Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
- <p class="updated_time"> 08:44 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
@@ -192,14 +192,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline to get the shot, adding that the deadline “wasn’t an end point.” 
+ <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:53 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-testify-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
+ <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/kevin-mccarthy-speakership-race/index.html">Trump's influence looms over McCarthy's race to be next House speaker</a> CNN: Donald Trump and his allies are starting to dangle the threat of the speakership over House Minority Leader Kevin McCarthy's head, teeing up a yearlong dynamic that is already emboldening the MAGA wing of the GOP conference and influencing the California Republican's decision-making as he crafts a strategy to win back the House next year. 
  <p class="updated_time"> 11:19 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
- <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:13 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 11:05 AM CT, Nov. 24 </p> 
