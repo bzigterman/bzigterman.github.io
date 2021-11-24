@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">ƒbeBritish Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
+ <p class="updated_time"> 12:31 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
+ <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
+ <p class="updated_time"> 12:27 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">‘Many Deaths’ Feared After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. French authorities say at least 24 people died. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: French police say at least 27 people headed to the UK have died after their boat sank near Calais. 
+ <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
  <p class="updated_time"> 12:07 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
- <p class="updated_time"> 12:02 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Many migrants heading for UK die after boat sinks</a> BBC: French police say 27 people died in the Channel near Calais, the AFP news agency reports. 
- <p class="updated_time"> 11:50 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
- <p class="updated_time"> 11:47 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">‘Many Deaths’ Feared After Migrant Boat Capsizes in English Channel</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. 
- <p class="updated_time"> 11:46 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
@@ -34,13 +40,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control called for  “urgently” tightening restrictions and closing vaccination gaps, and recommended booster shots for all adults. 
- <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
  <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59405585?at_medium=RSS&at_campaign=KARANGA">Pentagon to study UFO sightings in restricted US airspace</a> BBC: It follows a June report that could not explain dozens of "unidentified aerial phenomena". 
- <p class="updated_time"> 09:50 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
  <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
@@ -57,12 +59,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:39 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399701?at_medium=RSS&at_campaign=KARANGA">Karim Benzema: French footballer guilty in sex tape blackmail case</a> BBC: The Real Madrid striker is convicted of conspiring to blackmail fellow footballer Mathieu Valbuena. 
+ <p class="updated_time"> 07:31 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/europe-health-agency-in-shift-urges-faster-covid-19-booster-rollout-as-cases-surge-11637776090">Europe Health Agency Urges Faster Booster Rollout</a> WSJ: In a shift, the head of the European Union’s public-health agency recommended governments accelerate their Covid-19 booster campaigns as case numbers rise rapidly across parts of the bloc. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59401921?at_medium=RSS&at_campaign=KARANGA">Climate change causing albatross divorce, says study</a> BBC: There are more bird break-ups in warmer years, a study of 15,500 breeding pairs finds. 
- <p class="updated_time"> 06:52 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president hosted the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
  <p class="updated_time"> 06:51 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59401139?at_medium=RSS&at_campaign=KARANGA">Peru's chief of staff stashed $20,000 in palace bathroom</a> BBC: Prosecutors found $20,000 in the chief of staff's bathroom inside the presidential palace. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
@@ -141,6 +143,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
+ <p class="updated_time"> 08:44 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/europe/austria-covid-lockdown-vaccine-mandates.html">Angry and Divided, Austrians Argue Over a Lockdown and Vaccine Mandates</a> NYT: As a new wave of Covid infections spreads over Europe, resistance to public health measures is growing, and not just in Austria. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/africa/kenya-covid-vaccination-mandate.html">Kenya to Impose Restrictions on the Unvaccinated </a> NYT: The move, which will begin Dec. 21, is part of an effort to push more people to get inoculated and curb the spread of the virus. 
  <p class="updated_time"> 08:42 AM CT, Nov. 23 </p> 
@@ -183,6 +187,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/22/1057874455/philippines-sends-resupply-boats-to-shoal-after-chinese-blockade">Philippines sends resupply boats to shoal after Chinese blockade</a> NPR: Two supply boats are sent to provide food to Filipino marines guarding a disputed shoal in the South China Sea after the Chinese coast guard used water cannons to turn the boats away last week. 
  <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
  <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
+ <p class="updated_time"> 06:28 PM CT, Nov. 21 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/americas/haiti-missionaries-kidnapping.html">Two of 17 Kidnapped Missionaries in Haiti Are Freed, Group Says</a> NYT: After being held hostage for 37 days by a gang, two people with a U.S. Christian aid group have been released in Port-au-Prince and are described as “safe.” 
 
 
 </details>
@@ -190,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:24 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline to get the shot, adding that the deadline “wasn’t an end point.” 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
@@ -208,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 10:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
- <p class="updated_time"> 10:45 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
