@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
+ <p class="updated_time"> 03:51 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 03:30 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/airlines-violence-garland-federal-prosecutors/index.html">AG Garland directs federal prosecutors to prioritize cases involving violence on flights</a> CNN: Attorney General Merrick Garland on Wednesday directed federal prosecutors to prioritize cases involving violence on flights amid a sharp increase in assaults and disruptions of airline workers. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 02:58 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
- <p class="updated_time"> 02:54 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 02:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
  <p class="updated_time"> 02:41 PM CT, Nov. 24 </p> 
@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 08:57 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058837137/biden-nominate-omb-shalanda-young-nani-coloretti">Biden nominates 2 women of color to lead the OMB</a> NPR: Shalanda Young has been picked to be director of the White House Office of Management and Budget and Nani Coloretti as its deputy director. 
+ <a href="https://www.npr.org/2021/11/24/1058837137/biden-nominate-omb-shalanda-young-nani-coloretti">Biden nominates 2 women of color to lead the OMB</a> NPR: If confirmed, Shalanda Young will be the first Black female director of the White House Office of Management and Budget. Nani Coloretti would serve as its deputy director. 
  <p class="updated_time"> 08:16 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/joe-biden-anxious-nation-thanksgiving/index.html">Biden spins a message of hope as an anxious nation readies for Thanksgiving</a> CNN: When a president has to assure Americans there'll be enough turkey for Thanksgiving, it's a sure sign of national malaise. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
