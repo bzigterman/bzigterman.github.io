@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 12:38 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smack Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59327293?at_medium=RSS&at_campaign=KARANGA">Nasa Dart asteroid spacecraft: Mission to smash into Dimorphos space rock launches</a> BBC: A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course. 
  <p class="updated_time"> 11:48 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397899?at_medium=RSS&at_campaign=KARANGA">Australia power plant demolition sees giant chimneys tumble to ground</a> BBC: Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
@@ -67,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Escaping Afghanistan: Inside Operation Soccer Balls</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:59 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-59396041?at_medium=RSS&at_campaign=KARANGA">Walgreens, CVS, and Walmart fuelled opioid crisis, Ohio jury finds</a> BBC: A federal court finds Walgreens, CVS and Walmart helped create an oversupply of addictive painkillers. 
- <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 04:54 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
@@ -198,12 +196,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Powell’s historic bet: Shrugging off inflation to deliver on jobs</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has penetrated the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
+ <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
+ <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
+ <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden to pick Capitol Hill favorite to run his budget office</a> Politico: He is set to nominate Shalanda Young. 
  <p class="updated_time"> 11:08 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 11:05 PM CT, Nov. 23 </p> 
@@ -248,6 +250,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html">Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules</a> CNN: Katherine Rickfelder, a Florida public school teacher, is one of nearly 30,000 people who have seen their student debt balance reduced to zero since the federal government announced significant changes to a popular loan forgiveness program last month. 
+ <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
@@ -272,14 +276,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
- <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 09:20 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058292334/u-s-to-release-oil-reserves-as-the-holiday-travel-season-gears-up">U.S. to release oil reserves as the holiday travel season gears up</a> NPR: The Biden administration will release 50 million barrels of oil from the country's strategic petroleum reserve to lower gas prices for Americans as the holiday traveling season kicks off. 
  <p class="updated_time"> 08:56 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-osha-6th-circuit-stay/index.html">Biden administration asks appeals court to reinstate OSHA vaccine mandate </a> CNN: The Biden administration is asking the 6th US Circuit Court of Appeals to wipe away an order from another appeals court blocking its Occupational Safety and Health Administration vaccine mandate. 
+ <p class="updated_time"> 08:43 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/biden-oil-reserves-gasoline-prices-523241">Biden acts to lower fuel prices — with help from GOP</a> Politico: Biden’s Energy Department specifically cited Trump era legislation before releasing 50 million barrels from the nation’s oil reserves. 
  <p class="updated_time"> 08:27 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-electric-vehicle-chargers-climate/index.html">How Biden's infrastructure funding could push more Americans into the electric vehicle 'revolution'</a> CNN: President Joe Biden wants half the vehicles sold in the US to be electric vehicles or plug-in hybrids by 2030. But to reach that goal, not only do Americans need to start buying more electric vehicles, they need more charging stations to plug them into. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/codeswitch/2021/11/23/256592468/the-white-ghosts-haunting-native-americans-in-the-sentence">The white ghosts haunting Native Americans in 'The Sentence'</a> NPR: Louise Erdrich's novel turns the trope of the haunted Indian burial ground on its head with the story of a Native-run bookstore being visited by the ghost of a white woman obsessed with indigeneity. 
  <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
- <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-vaccine-mandate-compliance-523179">White House: About 95 percent of federal workers have complied with vaccine mandate</a> Politico: Federal workers had to receive their last dose of the vaccine no later than Nov. 8 to meet the deadline Monday. 
- <p class="updated_time"> 09:40 AM CT, Nov. 22 </p> 
- <a href="https://www.npr.org/2021/11/22/1057988176/biden-appoints-jerome-powell-to-a-second-term-as-chairman-of-the-federal-reserve">Biden appoints Jerome Powell to a second term as chairman of the Federal Reserve</a> NPR: President Biden has tapped Jerome Powell to serve a second term as chairman of the Federal Reserve. Fed governor Lael Brainard will serve as vice chairman. 
  <p class="updated_time"> 09:28 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/article/lael-brainard-federal-reserve.html">Who is Lael Brainard, President Biden’s pick for the Fed’s vice chair?</a> NYT: She was in the mix to potentially replace Jerome Powell as Fed chair, but Mr. Biden’s decision to elevate her to the Fed’s No. 2 role will still place her in a powerful position. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
