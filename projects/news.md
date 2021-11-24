@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
+ <p class="updated_time"> 05:03 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59410920?at_medium=RSS&at_campaign=KARANGA">What Ahmaud Arbery's murder exposes about America</a> BBC: Ahmaud Arbery died in a 'modern-day lynching' - locals say the spectre of racism is always present. 
  <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 04:07 PM CT, Nov. 24 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059017450/migrant-deaths-boat-capsizes-english-channel-france-uk">At least 31 people are dead after a migrant boat capsizes in the English Channel</a> NPR: It's believed that 34 people were on the boat. Authorities found 31 bodies, including those of five women and a young girl. The travelers' nationalities were not immediately known. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
- <p class="updated_time"> 02:01 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59410870?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Key moments in the trial over black jogger's killing</a> BBC: Watch the key exchanges from 13 days of testimony in the trial over Ahmaud Arbery's killing. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
@@ -52,11 +52,15 @@ permalink: /projects/news/
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson resigns after her coalition partner quit the government in a row over the budget. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
+ <p class="updated_time"> 11:24 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">31 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/israel-warns-white-house-over-striking-partial-nuclear-deal-with-iran-11637787118">Israel Warns White House Over Striking Partial Nuclear Deal With Iran</a> WSJ: Israeli officials say a partial accord would be a gift to the new hard-line government in Tehran, stoking a growing public rift with the Biden administration over Iran’s nuclear program. 
  <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
- <p class="updated_time"> 05:02 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/germanys-olaf-scholz-on-track-to-succeed-angela-merkel-as-chancellor-11637749450">Germany's Scholz Vows to Overhaul Economy as Next Chancellor</a> WSJ: Olaf Scholz is on course to become chancellor after the victors of the September election reached a policy agreement focused on overhauling the country’s economy, investing in infrastructure and combating climate change. 
  <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228">Migrants Trapped at Polish Border Face Snow, Drones and Wild Boar</a> WSJ: A standoff on the European Union’s border with Belarus is turning into a protracted game of cat-and-mouse in the east of Poland, as migrants break into small groups to evade the thousands of soldiers sent to pursue them. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
- <p class="updated_time"> 01:29 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/drug-trail-from-europe-to-ecuador-inside-the-hunt-for-elusive-narco-suspect-dritan-rexhepi-11637756980">Drug Trail From Europe to Ecuador: Inside the Hunt for an Elusive Narco Suspect</a> WSJ: A fight on a square in Italy alerted police to a gang they say flooded Europe with cocaine and controlled by a prisoner in Ecuador. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -197,7 +197,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Justice Department sics its lawyers on unruly airline passengers as holiday travel ramps up</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights, and we’re committed to our partnership with the DOJ to combat it,” said FAA administrator Steve Dickson. 
+ <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Biden’s Justice Department puts unruly airline passengers on notice</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/russia-push-new-weapons-ukraine-523362">Russian buildup sparks new push to send weapons to Ukraine</a> Politico: A new lethal weapons package for Kyiv is up for debate in Congress, but NDAA delays could scuttle the $50 million boost in funding. 
  <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
@@ -432,10 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
  <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
  <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
- <p class="updated_time"> 05:25 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/democrats-christmas-shutdown-republicans-522848">Dems weigh pre-Christmas shutdown cliff to prod dug-in Republicans</a> Politico: Even if Congress punts the next deadline into late December, prospects are bleak for a bipartisan government funding deal before year's end. 
- <p class="updated_time"> 05:18 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/democrats-house-butterfield-522839">Another blow to Dems' House hopes: Butterfield retiring in N.C.</a> Politico: A source familiar with his decision confirmed that Rep. G.K. Butterfield won't seek reelection next year, after Republicans made his seat harder to win in redistricting. 
 
 
 </details>
