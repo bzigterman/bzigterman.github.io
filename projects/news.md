@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:58 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrants heading for UK die after boat sinks</a> BBC: Several migrants headed for UK drown in the Channel near Calais after their boat sinks, the French government says. 
+ <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59405585?at_medium=RSS&at_campaign=KARANGA">Pentagon to study UFO sightings in restricted US airspace</a> BBC: It follows a June report that could not explain dozens of "unidentified aerial phenomena". 
  <p class="updated_time"> 09:48 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
  <p class="updated_time"> 08:59 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
- <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
  <p class="updated_time"> 03:00 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-looks-to-regional-rival-for-investment-amid-currency-crisis-11637744372">Erdogan Seeks to Ease Lira Crisis With Funds From Rival</a> WSJ: The Turkish president hosted the de facto leader of the United Arab Emirates, marking a thaw in ties after years of animosity between the two countries. 
- <p class="updated_time"> 02:51 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59397642?at_medium=RSS&at_campaign=KARANGA">Sri Lanka attacks: 23,000 charges filed against suspects as trial begins</a> BBC: The list of charges and witnesses could mean a trial that takes up to 10 years, lawyers warn. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 01:45 AM CT, Nov. 24 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 06:11 PM CT, Nov. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59379880?at_medium=RSS&at_campaign=KARANGA">China bans Namewee's viral pop song Fragile</a> BBC: Fragile mocks Beijing and “little pinks”, a term referring to young nationalists who rush to the defence of the Chinese government. 
- <p class="updated_time"> 04:48 PM CT, Nov. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59382797?at_medium=RSS&at_campaign=KARANGA">Wisconsin witnesses recount how SUV mowed down parade-goers</a> BBC: "Little girls flying through the air." Witnesses recount the Waukesha Christmas parade horror. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
  <p class="updated_time"> 03:55 PM CT, Nov. 22 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
  <p class="updated_time"> 09:32 AM CT, Nov. 24 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">Biden to nominate Nani Coloretti as budget deputy director </a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:19 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/supreme-court-north-carolina-voter-id/index.html">Supreme Court will hear dispute over GOP legislators' defense of North Carolina voter ID law</a> CNN: The Supreme Court said Wednesday that it will hear a case brought by Republican legislators in North Carolina who are seeking to defend the state's strict voter ID law because they think the Democratic state attorney general is not adequately representing their interests. 
- <p class="updated_time"> 09:17 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
  <p class="updated_time"> 09:11 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
