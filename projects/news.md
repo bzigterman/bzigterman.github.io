@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59385194?at_medium=RSS&at_campaign=KARANGA">Kavala: The case that set Turkey on collision course with the West</a> BBC: Osman Kavala has not been convicted but his detention has set Turkey's leader on a collision course. 
+ <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
+ <p class="updated_time"> 07:09 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Outrage as India court reduces child abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
  <p class="updated_time"> 06:45 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
@@ -15,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers contemplate Russia's military presence at the border nearby. 
+ <p class="updated_time"> 05:25 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59356176?at_medium=RSS&at_campaign=KARANGA">What I learnt eating at 8,000 Chinese restaurants</a> BBC: David R Chan's decades of dining at 8,000 Chinese eateries has taught him about America and himself. 
  <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 03:59 PM CT, Nov. 24 </p> 
@@ -75,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
- <p class="updated_time"> 09:53 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59405585?at_medium=RSS&at_campaign=KARANGA">Pentagon to study UFO sightings in restricted US airspace</a> BBC: It follows a June report that could not explain dozens of "unidentified aerial phenomena". 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
  <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 05:05 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59306355?at_medium=RSS&at_campaign=KARANGA">Kerala adoption row: A mother's search for her missing baby in India</a> BBC: A mother's search for a missing baby in India has caused outrage and whipped up a political storm. 
  <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228">Migrants Trapped at Polish Border Face Snow, Drones and Wild Boar</a> WSJ: A standoff on the European Union’s border with Belarus is turning into a protracted game of cat-and-mouse in the east of Poland, as migrants break into small groups to evade the thousands of soldiers sent to pursue them. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
@@ -117,6 +121,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
+ <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -127,22 +133,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
- <p class="updated_time"> 07:26 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59386282?at_medium=RSS&at_campaign=KARANGA">Colombia peace deal: The families displaced five years on</a> BBC: Five years after a peace deal came into force in Colombia, violence by armed gangs is again on the rise. 
- <p class="updated_time"> 07:24 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59380311?at_medium=RSS&at_campaign=KARANGA">Uganda suicide attacks: Inside view of the IS-linked ADF rebels</a> BBC: An ex-fighter tells the BBC how the ADF, an IS affiliate, has been able to strike at Uganda's heart. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
- <p class="updated_time"> 06:54 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59338245?at_medium=RSS&at_campaign=KARANGA">Farm laws: Sikhs being targeted by fake social media profiles</a> BBC: A total of 80 accounts have been suspended following a report into the network. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Rescuing the Afghanistan girls' football team</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 04:26 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/style/italy-retirement-holly-herrmann.html">It’s Never Too Late to Pick Up Your Life and Move to Italy</a> NYT: Holly Herrmann vowed to move to Italy when she was 20. Her dream came true 38 years later. 
- <p class="updated_time"> 02:48 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59395495?at_medium=RSS&at_campaign=KARANGA">Bulgarian holiday bus tragedy hits young nation</a> BBC: There is little since North Macedonia's 1991 declaration of independence to compare to this. 
  <p class="updated_time"> 01:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/economy/europe-covid-economy.html">As Virus Cases Rise in Europe, an Economic Toll Returns</a> NYT: A series of restrictions, including a lockdown in Austria, is expected to put a brake on economic growth. 
  <p class="updated_time"> 12:50 PM CT, Nov. 23 </p> 
@@ -155,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 09:53 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59385469?at_medium=RSS&at_campaign=KARANGA">Yalda Hakim: My return to Afghanistan</a> BBC: The BBC's Yalda Hakim - who was born in Afghanistan - reports on the impact of 100 days of Taliban rule. 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
@@ -194,10 +190,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:34 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/collecting-money-white-nationalists-523373">Collecting $26M award vs. white nationalists may be tough</a> Politico: “I have no assets. I have no property. You can’t get blood from a stone,” one said. 
  <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade crash</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
+ <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade deaths</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
  <p class="updated_time"> 06:38 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
