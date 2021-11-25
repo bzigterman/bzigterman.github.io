@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
+ <p class="updated_time"> 08:32 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
  <p class="updated_time"> 08:12 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Defeating the Delta variant is proving harder than a virus-weary continent had hoped. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627">Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</a> WSJ: Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica. 
  <p class="updated_time"> 06:49 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
- <p class="updated_time"> 05:52 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Switch Savings to U.S. Dollars as Lira Collapses</a> WSJ: Turks abandoned their local currency savings for U.S. dollars and other foreign-currency deposits over concerns about the country’s faltering economy, propelling the Turkish lira to its worst slide in years. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:23 PM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 11:59 AM CT, Nov. 25 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059196427/breaking-down-the-democratic-turnover-in-congress-ahead-of-the-mid-term-election">Breaking down the Democratic turnover in Congress ahead of the mid-term election</a> NPR: With less than a year until the mid-term election, dozens of lawmakers are calling it quits. NPR's Dierdre Walsh explains why. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 11:01 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
@@ -305,7 +305,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has penetrated the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
+ <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
