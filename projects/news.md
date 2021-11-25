@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
+ <p class="updated_time"> 03:22 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059263530/death-and-destruction-follow-a-siberian-coal-mine-fire">Death and destruction follow a Siberian coal mine fire</a> NPR: A devastating fire swept through a Siberian coal mine Thursday, killing 52 miners and rescuers about 820 feet underground, Russian news reports said. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041718/nasa-launches-1st-ever-practice-mission-to-defend-earth-from-asteroids">NASA launches 1st-ever practice mission to defend Earth from asteroids</a> NPR: NASA is launching its first-ever practice mission to redirect an asteroid. The launch is part of a planetary defense strategy if an object ever threatens Earth in the future. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
- <p class="updated_time"> 02:47 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059017450/migrant-deaths-boat-capsizes-english-channel-france-uk">At least 31 people are dead after a migrant boat capsizes in the English Channel</a> NPR: It's believed that 34 people were on the boat. Authorities found 31 bodies, including those of five women and a young girl. The travelers' nationalities were not immediately known. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:56 PM CT, Nov. 24 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
- <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
@@ -414,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
- <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
 
 
 </details>
