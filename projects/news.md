@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers contemplate Russia's military presence at the border nearby. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements. 
  <p class="updated_time"> 05:25 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59356176?at_medium=RSS&at_campaign=KARANGA">What I learnt eating at 8,000 Chinese restaurants</a> BBC: David R Chan's decades of dining at 8,000 Chinese eateries has taught him about America and himself. 
  <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
