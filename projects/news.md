@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:37 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 01:44 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
+ <p class="updated_time"> 01:42 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands: Why Are People Protesting?</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
+ <p class="updated_time"> 01:39 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
- <p class="updated_time"> 12:43 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia to send peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Solomon Islands for a second straight day. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:23 PM CT, Nov. 24 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041760/quebec-maple-syrup-producers-to-tap-into-maple-syrup-reserves-after-poor-harvest">Quebec Maple Syrup Producers to tap into maple syrup reserves after poor harvest</a> NPR: Due to a poor spring harvest, the Quebec Maple Syrup Producers announced they'd be tapping into nearly 50 million pounds of its maple syrup strategic reserves in order to keep up with the demand. 
- <p class="updated_time"> 03:37 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
  <p class="updated_time"> 03:34 PM CT, Nov. 24 </p> 
