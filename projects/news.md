@@ -7,20 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:29 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands: Why Are People Protesting?</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to China from Taiwan. 
+ <p class="updated_time"> 01:37 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands: Why Are People Protesting?</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
+ <p class="updated_time"> 12:43 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia to send peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Solomon Islands for a second straight day. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
+ <p class="updated_time"> 11:23 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel migrants: UK and France agree need for action after boat deaths</a> BBC: After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
+ <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59412139?at_medium=RSS&at_campaign=KARANGA">US restricts trade with a dozen more Chinese technology firms</a> BBC: The move comes as tensions grow between the US and China over the status of Taiwan and trade issues. 
  <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59385194?at_medium=RSS&at_campaign=KARANGA">Kavala: The case that set Turkey on collision course with the West</a> BBC: Osman Kavala has not been convicted but his detention has set Turkey's leader on a collision course. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 07:09 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad High Court: Outrage as court reduces child sex abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
- <p class="updated_time"> 06:45 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
@@ -55,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059017450/migrant-deaths-boat-capsizes-english-channel-france-uk">At least 31 people are dead after a migrant boat capsizes in the English Channel</a> NPR: It's believed that 34 people were on the boat. Authorities found 31 bodies, including those of five women and a young girl. The travelers' nationalities were not immediately known. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
+ <p class="updated_time"> 01:56 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59409508?at_medium=RSS&at_campaign=KARANGA">JPMorgan boss 'regrets' China joke amid backlash</a> BBC: Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
  <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
@@ -71,26 +79,18 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">27 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
- <p class="updated_time"> 12:15 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59400539?at_medium=RSS&at_campaign=KARANGA">Sweden's first female PM resigns hours after appointment</a> BBC: Magdalena Andersson resigns after her coalition partner quit the government in a row over the budget. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
  <p class="updated_time"> 11:08 AM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-warns-white-house-over-striking-partial-nuclear-deal-with-iran-11637787118">Israel Warns White House Over Striking Partial Nuclear Deal With Iran</a> WSJ: Israeli officials say a partial accord would be a gift to the new hard-line government in Tehran, stoking a growing public rift with the Biden administration over Iran’s nuclear program. 
- <p class="updated_time"> 11:04 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59399702?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz seals deal to end Merkel era</a> BBC: Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058820074/soccer-star-karim-benzema-is-found-guilty-of-attempting-to-blackmail-a-teammate">Soccer star Karim Benzema is found guilty of attempting to blackmail a teammate</a> NPR: A French court handed Benzema a one-year suspended jail sentence, finding him guilty of conspiring to blackmail former teammate Mathieu Valbuena over a sex tape. Benzema denies the allegations. 
- <p class="updated_time"> 10:29 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59393463?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Haile Gebrselassie and Feyisa Lilesa ready to join Tigray war</a> BBC: Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
- <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59407121?at_medium=RSS&at_campaign=KARANGA">Antique rifle thief gets a day in jail decades on from his museum heists</a> BBC: Thomas Gavin apologised "for all this trouble" from his antique robberies in the 60s and 70s. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
  <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
@@ -111,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59401921?at_medium=RSS&at_campaign=KARANGA">Climate change causing albatross divorce, says study</a> BBC: There are more bird break-ups in warmer years, a study of 15,500 breeding pairs finds. 
- <p class="updated_time"> 06:51 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59401139?at_medium=RSS&at_campaign=KARANGA">Peru's chief of staff stashed $20,000 in palace bathroom</a> BBC: Prosecutors found $20,000 in the chief of staff's bathroom inside the presidential palace. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
  <p class="updated_time"> 06:45 AM CT, Nov. 24 </p> 
