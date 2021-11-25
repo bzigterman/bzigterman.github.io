@@ -30,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
  <p class="updated_time"> 03:34 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59411030?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Three US men guilty of murdering black jogger</a> BBC: The white men pursued and shot dead Ahmaud Arbery in Georgia in what some called a modern-day lynching. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59411030?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Three US men guilty of murdering black jogger</a> BBC: Ahmaud Arbery was chased and shot in a case that became a rallying cry to racial justice protesters. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:34 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/collecting-money-white-nationalists-523373">Collecting $26M award vs. white nationalists may be tough</a> Politico: “I have no assets. I have no property. You can’t get blood from a stone,” one said. 
  <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade crash</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
  <p class="updated_time"> 06:38 PM CT, Nov. 24 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html">Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules</a> CNN: Katherine Rickfelder, a Florida public school teacher, is one of nearly 30,000 people who have seen their student debt balance reduced to zero since the federal government announced significant changes to a popular loan forgiveness program last month. 
- <p class="updated_time"> 04:34 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/christian-groups-blinken-nigeria-religious-violence-list-523258">Christian groups furious at Blinken for removing Nigeria from religious violence list</a> Politico: Critics are blasting the secretary of State's move as the "revenge of the bureaucracy." 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
@@ -428,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
  <p class="updated_time"> 04:30 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/democrats-agonize-tax-cuts-rich-522859">Dems agonize over tax cuts for rich: ‘Bad policy, bad politics’</a> Politico: Democrats worry they’re gifting Republicans a winning political message by including tax cuts for the wealthy in their signature social spending bill. 
- <p class="updated_time"> 07:29 PM CT, Nov. 17 </p> 
- <a href="https://www.politico.com/news/2021/11/17/gosar-gop-house-mccarthy-522836">GOP can't escape 'self-inflicted injuries' as they fight to reclaim House</a> Politico: The drama over Rep. Paul Gosar's violent anime video and the 13 Republicans who voted for the infrastructure bill are the latest episodes in a long line of personality-driven GOP crises. 
 
 
 </details>
