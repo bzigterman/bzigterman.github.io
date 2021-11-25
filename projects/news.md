@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Biden’s Justice Department puts unruly airline passengers on notice</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
- <p class="updated_time"> 03:51 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 03:30 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/airlines-violence-garland-federal-prosecutors/index.html">AG Garland directs federal prosecutors to prioritize cases involving violence on flights</a> CNN: Attorney General Merrick Garland on Wednesday directed federal prosecutors to prioritize cases involving violence on flights amid a sharp increase in assaults and disruptions of airline workers. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
