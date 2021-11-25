@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:06 PM CT, Nov. 24 </p> 
+ <p class="updated_time"> 06:45 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
+ <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
- <p class="updated_time"> 05:03 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59410920?at_medium=RSS&at_campaign=KARANGA">What Ahmaud Arbery's murder exposes about America</a> BBC: Ahmaud Arbery died in a 'modern-day lynching' - locals say the spectre of racism is always present. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers contemplate Russia's military presence at the border nearby. 
  <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
- <p class="updated_time"> 04:07 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after 31 drown near Calais. 
  <p class="updated_time"> 03:59 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/americas/violence-against-women-covid.html">U.N. Surveys Suggest Violence Against Women Has Intensified in Pandemic</a> NYT: Almost half of the women who were surveyed said that they or a woman they knew had experience violence since the start of the outbreak. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
- <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
- <p class="updated_time"> 08:30 PM CT, Nov. 21 </p> 
- <a href="https://www.nytimes.com/2021/11/21/us/politics/iran-nuclear-standoff.html">As Hopes for Nuclear Deal Fade, Iran Rebuilds and Risks Grow</a> NYT: With Iran’s new administration preparing for its first international nuclear negotiations, there are signs that there will be no going back to the 2015 agreement. 
 
 
 </details>
@@ -196,6 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade crash</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
+ <p class="updated_time"> 06:38 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
- <p class="updated_time"> 04:11 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
@@ -276,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 06:03 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/home-heating-assistance-program-liheap/index.html">Record federal home heating aid available, but it likely still isn't enough</a> CNN: Never before has there been so much federal aid to help struggling Americans pay their home heating bills. 
- <p class="updated_time"> 06:00 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/african-union-vaccines-covax-523254">Why the African Union isn’t waiting for COVAX</a> Politico: Blocked from buying vaccines made in the U.S., Europe and India, the head of the African Union’s vaccination effort says the only solution is building a vaccine infrastructure back home. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Raging inflation may force Fed’s hand on rates</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
