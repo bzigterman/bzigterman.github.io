@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
  <p class="updated_time"> 01:07 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Minors and a pregnant woman are said to be among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 12:33 PM CT, Nov. 25 </p> 
