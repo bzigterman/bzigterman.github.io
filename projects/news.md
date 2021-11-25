@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:55 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 10:31 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 10:23 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
  <p class="updated_time"> 09:53 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Siberia: Dozens missing after deadly Russian mine accident</a> BBC: Emergency services have paused the search for survivors amid concerns over possible explosions. 
  <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
- <p class="updated_time"> 09:28 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Chose Its First Female Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, the leader of the Social Democratic Party, quit after her new government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 09:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
  <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
- <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
 
 
 </details>
