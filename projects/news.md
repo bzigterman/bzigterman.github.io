@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
+ <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 03:58 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can pose a threat to progress or limit a vaccine’s effectiveness. 
  <p class="updated_time"> 03:54 PM CT, Nov. 25 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
- <p class="updated_time"> 02:31 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine fire</a> BBC: A search for survivors after a fire in a Siberian mine turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
@@ -45,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
+ <p class="updated_time"> 11:19 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France, U.K. Grapple With Migrant Boat Crossings After 27 Drown</a> WSJ: After France tried to stop migrants from entering the U.K. via the tunnel under the English Channel, they took a more dangerous route. 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
  <p class="updated_time"> 10:41 AM CT, Nov. 25 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
  <p class="updated_time"> 08:12 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Defeating the Delta variant is proving harder than a virus-weary continent had hoped. 
+ <p class="updated_time"> 07:42 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: The country’s government is considering new public-health restrictions to contain a fast-spreading new variant, prompting the WHO to call an urgent meeting of experts to discuss whether to declare the new strain a ‘variant of concern.’ 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
@@ -73,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
- <p class="updated_time"> 04:43 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France Holds Crisis Talks After 27 Migrants Die in English Channel</a> WSJ: French authorities are working to identify the migrants whose bodies were recovered from the English Channel, as officials hold crisis talks over the area’s deadliest migrant crossing in recent history. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
 
@@ -314,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 05:36 PM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/biden-build-back-better-infrastructure-523166">Team Biden gets some pep in its step after months of taking it on the chin</a> Politico: For the first time in a while, President Biden had a week to truly feel good about. Now, he and his team just need to make it stick. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
  <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
