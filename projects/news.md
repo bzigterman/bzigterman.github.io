@@ -97,6 +97,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
+ <p class="updated_time"> 10:52 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/sports/olympics/china-sports-peng-shuai.html">Do Sports Still Need China?</a> NYT: Global outrage, broken contracts and shifting politics could change the calculus for leagues and teams that once raced to do business in China. 
  <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59412139?at_medium=RSS&at_campaign=KARANGA">US restricts trade with a dozen more Chinese technology firms</a> BBC: The move comes as tensions grow between the US and China over the status of Taiwan and trade issues. 
  <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
@@ -173,6 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
+ <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
@@ -181,8 +185,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
+ <p class="updated_time"> 11:29 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
+ <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
 
