@@ -190,14 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigitalism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
+ <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 08:34 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/collecting-money-white-nationalists-523373">Collecting $26M award vs. white nationalists may be tough</a> Politico: “I have no assets. I have no property. You can’t get blood from a stone,” one said. 
  <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade deaths</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
- <p class="updated_time"> 06:38 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
  <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
- <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
