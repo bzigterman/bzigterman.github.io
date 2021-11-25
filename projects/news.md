@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
+ <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/mexican-president-nominates-deputy-finance-minister-victoria-rodriguez-as-next-central-bank-chief-11637764634">Mexico's Central Bank Nominee Fuels Concerns About Independence</a> WSJ: Mexican President López Obrador, a leftist nationalist, nominated Deputy Finance Minister Victoria Rodríguez as the next governor of the Bank of Mexico, sparking a sharp depreciation of the peso 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
@@ -89,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
+ <p class="updated_time"> 08:50 AM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-invitation-to-taiwan-for-democracy-summit-tests-ties-with-china-11637783402">U.S. Invitation to Taiwan for Democracy Summit Tests China Ties</a> WSJ: The moves further bucks Beijing’s campaign to isolate the island diplomatically and tests a recent lessening of U.S.-China tensions. 
  <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
- <p class="updated_time"> 05:34 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/capitol-riot-trump-523211">Capitol riot suspect’s court hearing turns to potential criminal charge for Trump</a> Politico: The judge and lawyers discuss whether the then-president’s pressure on Vice President Mike Pence could have amounted to obstruction. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
