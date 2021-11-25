@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:33 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 04:08 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands: Why Are People Protesting?</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
- <p class="updated_time"> 03:25 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel migrants: UK calls for smuggler crackdown after migrant deaths</a> BBC: A fifth person is arrested after 27 people drowned while trying to cross the Channel on Wednesday. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
+ <p class="updated_time"> 03:47 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: UK calls for smuggler crackdown after 27 people drown</a> BBC: A fifth person is arrested after 27 people drowned while trying to cross the Channel on Wednesday. 
+ <p class="updated_time"> 03:39 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59414834?at_medium=RSS&at_campaign=KARANGA">Frank Turner says he's reconciled with trans parent</a> BBC: The musician tells The Guardian his estranged father is "a lot more considerate" since transitioning. 
  <p class="updated_time"> 02:57 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
@@ -73,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 12:44 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
- <p class="updated_time"> 12:31 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59406196?at_medium=RSS&at_campaign=KARANGA">Mike Tyson: Malawi asks former boxer to be cannabis ambassador</a> BBC: A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US. 
  <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
  <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">27 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
@@ -160,8 +166,6 @@ permalink: /projects/news/
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/asia/pacific-islands-covid-vaccinations.html">Some Pacific Nations Won't Vaccinate Populations for Years, Research Predicts</a> NYT: Papua New Guinea will have vaccinated only a third of its adult population by 2026 if it continues at its current rate, according to an Australian think tank. 
- <p class="updated_time"> 08:54 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/germany-pfizer-vaccines-boosters.html">Pfizer Vaccine Supplies Dwindle in Germany</a> NYT: A strong fourth Covid wave has led to a renewed run on vaccines. 
  <p class="updated_time"> 08:53 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/covid-europe-surge-protests.html">Austria Imposes Lockdown Amid Europe’s Covid Surge</a> NYT: Europe is again at the center of the pandemic, and amid vaccine resistance and protests, nations are imposing new rules and pressuring people to get inoculated. 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
  <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
- <p class="updated_time"> 08:07 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/australia/australia-visa-holders.html">Australia Will Allow Some Visa Holders to Return in December.</a> NYT: The country will allow skilled workers and international students to enter next month, the government announced. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
  <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
@@ -192,6 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why the Retail Industry Is Fighting Vaccine Mandates</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigitalism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
@@ -362,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 04:49 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/us/politics/sean-parnell-suspends-pennsylvania-senate.html">Sean Parnell Suspends G.O.P. Senate Bid in Pennsylvania</a> NYT: Mr. Parnell, who was endorsed by Donald Trump in one of the highest-profile 2022 Senate races, had been accused by his estranged wife of spousal and child abuse. 
  <p class="updated_time"> 04:33 PM CT, Nov. 22 </p> 
  <a href="https://www.npr.org/2021/11/22/1057038176/roger-stone-alex-jones-subpoenas-jan-6-panel-capitol">Roger Stone, Alex Jones among new subpoenas issued by Jan. 6 panel</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 35 witnesses subpoenaed already. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
@@ -372,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
- <p class="updated_time"> 12:40 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/us/politics/jan-6-trump-files.html">Court Urged to Let Jan. 6 Panel See Trump White House Files</a> NYT: In appellate briefs, lawyers for the House and the Justice Department argued against the former president’s claim of executive privilege. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
