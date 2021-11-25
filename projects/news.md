@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:06 AM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059196427/breaking-down-the-democratic-turnover-in-congress-ahead-of-the-mid-term-election">Breaking down the Democratic turnover in Congress ahead of the mid-term election</a> NPR: With less than a year until the mid-term election, dozens of lawmakers are calling it quits. NPR's Dierdre Walsh explains why. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
  <p class="updated_time"> 05:30 AM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/sections/money/2021/11/23/1057446470/the-conglomerate-paradox-as-ge-splinters-facebook-becomes-meta">The Conglomerate Paradox: As GE splinters, Facebook becomes Meta</a> NPR: GE announced it's breaking into three. Meanwhile, tech companies continue to take over a wider swath of industries. 
- <p class="updated_time"> 05:00 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/sections/codeswitch/2021/11/23/256592468/the-white-ghosts-haunting-native-americans-in-the-sentence">The white ghosts haunting Native Americans in 'The Sentence'</a> NPR: Louise Erdrich's novel turns the trope of the haunted Indian burial ground on its head with the story of a Native-run bookstore being visited by the ghost of a white woman obsessed with indigeneity. 
  <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
