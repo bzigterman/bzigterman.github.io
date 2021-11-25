@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 09:53 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Siberia: Dozens missing after deadly Russian mine accident</a> BBC: Emergency services have paused the search for survivors amid concerns over possible explosions. 
  <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
- <p class="updated_time"> 09:30 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 09:28 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Chose Its First Female Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, the leader of the Social Democratic Party, quit after her new government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 09:14 AM CT, Nov. 25 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041760/quebec-maple-syrup-producers-to-tap-into-maple-syrup-reserves-after-poor-harvest">Quebec Maple Syrup Producers to tap into maple syrup reserves after poor harvest</a> NPR: Due to a poor spring harvest, the Quebec Maple Syrup Producers announced they'd be tapping into nearly 50 million pounds of its maple syrup strategic reserves in order to keep up with the demand. 
  <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
- <p class="updated_time"> 03:34 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59411030?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Three US men guilty of murdering black jogger</a> BBC: Ahmaud Arbery was chased and shot in a case that became a rallying cry to racial justice protesters. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
