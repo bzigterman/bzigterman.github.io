@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:54 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
- <p class="updated_time"> 08:44 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
- <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 09:14 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon. 
+ <p class="updated_time"> 09:11 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Chose Its First Female Prime Minister. She Lasted Less Than a Day.</a> NYT: Magdalena Andersson, the leader of the Social Democratic Party, quit after her new government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 09:08 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:04 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why the Retail Industry Is Fighting Vaccine Mandates</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 08:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:06 AM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059196427/breaking-down-the-democratic-turnover-in-congress-ahead-of-the-mid-term-election">Breaking down the Democratic turnover in Congress ahead of the mid-term election</a> NPR: With less than a year until the mid-term election, dozens of lawmakers are calling it quits. NPR's Dierdre Walsh explains why. 
- <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why the Retail Industry Is Fighting Vaccine Mandates</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 11:01 PM CT, Nov. 24 </p> 
