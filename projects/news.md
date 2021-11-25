@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:20 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 06:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 06:37 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/explosion-outside-school-kills-8-in-somalias-capital.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
- <p class="updated_time"> 05:30 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -31,8 +31,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
+ <p class="updated_time"> 12:56 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/australia-lends-peacekeepers-to-help-quell-solomon-islands-unrest-11637841400">Australia Lends Peacekeepers to Help Quell Solomon Islands Unrest</a> WSJ: Protesters have taken to streets in the capital and burned buildings in what the prime minister says is an attempt to unseat the Pacific Island nation’s government. 
+ <p class="updated_time"> 12:52 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474">China's State-Run Firms Limit Use of Tencent's Messaging App</a> WSJ: Managers at at least nine state-run companies told employees that chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
+ <p class="updated_time"> 11:21 PM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662">China's Response to Peng Shuai Allegations Follows Familiar Pattern</a> WSJ: Discussions within the country about the tennis star are heavily censored, while Chinese state-media journalists have released photos and videos on Twitter—a platform blocked in China—that are meant to attest to her well-being. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
@@ -45,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad high court: Outrage as court reduces child sex abuse sentence</a> BBC: There’s been outrage in India after the Allahabad high court reduces the jail term of a sex offender. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
+ <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-korea-raises-rate-tightens-policy-to-curb-inflation-11637802115">Bank of Korea Raises Rates Again With an Eye on Inflation</a> WSJ: South Korea raised interest rates for the second time in three months, expressing confidence in the global economic recovery while giving priority to moves to curb accelerating inflation and soaring household debt. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
@@ -109,28 +117,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
- <p class="updated_time"> 08:50 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-invitation-to-taiwan-for-democracy-summit-tests-ties-with-china-11637783402">U.S. Invitation to Taiwan for Democracy Summit Tests China Ties</a> WSJ: The moves further bucks Beijing’s campaign to isolate the island diplomatically and tests a recent lessening of U.S.-China tensions. 
  <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
- <p class="updated_time"> 08:01 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/europe-health-agency-in-shift-urges-faster-covid-19-booster-rollout-as-cases-surge-11637776090">Europe Health Agency Urges Faster Booster Rollout</a> WSJ: In a shift, the head of the European Union’s public-health agency recommended governments accelerate their Covid-19 booster campaigns as case numbers rise rapidly across parts of the bloc. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59401921?at_medium=RSS&at_campaign=KARANGA">Climate change causing albatross divorce, says study</a> BBC: There are more bird break-ups in warmer years, a study of 15,500 breeding pairs finds. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
- <p class="updated_time"> 06:45 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/u-n-nuclear-chief-leaves-iran-without-deal-on-access-to-nuclear-plant-diplomats-say-11637748096">U.N. Leaves Iran Without a Deal on Factory Inspection</a> WSJ: The head of the International Atomic Energy Agency failed to reach a deal to allow inspectors access to a factory making equipment for Tehran’s nuclear program, diplomats said, casting a fresh shadow over international nuclear talks set for next week. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 04:37 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/migrants-trapped-at-polands-border-with-belarus-face-snow-drones-and-wild-boar-11637768228">Migrants Trapped at Polish Border Face Snow, Drones and Wild Boar</a> WSJ: A standoff on the European Union’s border with Belarus is turning into a protracted game of cat-and-mouse in the east of Poland, as migrants break into small groups to evade the thousands of soldiers sent to pursue them. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058794582/public-mental-health-care-illnesses-italy-trieste">A public mental health model in Italy earns global praise. Now it faces its demise</a> NPR: Trieste has a reputed approach to bringing people with mental illnesses out of hospitals and into the community. Now the region's hard-right politicians are breaking the system apart. 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why the Retail Industry Is Fighting Vaccine Mandates</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
+ <p class="updated_time"> 11:01 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigitalism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 08:45 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
- <p class="updated_time"> 08:35 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-covid-travel-poll/index.html">Analysis: Thanksgiving is back, baby!</a> CNN: Almost 7 in 10 Americans say they plan to spend Thanksgiving with the same number of people (63%) or even more people (5%) than they did pre-Covid, according to new Monmouth University poll numbers -- data that suggest people are getting back to their normal holiday routines even as the number of cases continues to trend higher across much of the United States. 
  <p class="updated_time"> 08:34 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/collecting-money-white-nationalists-523373">Collecting $26M award vs. white nationalists may be tough</a> Politico: “I have no assets. I have no property. You can’t get blood from a stone,” one said. 
  <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
- <p class="updated_time"> 03:37 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/covid-thanksgiving-travel-what-matters/index.html">Americans try to look past Covid-19 for Thanksgiving</a> CNN: Last Thanksgiving, there was no coronavirus vaccine and the US government asked people to stay home for the holiday. Gatherings probably helped fuel a Covid-19 surge. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
@@ -358,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 07:24 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/us/politics/capitol-riot-subpoenas-roger-stone-alex-jones.html">House Panel Subpoenas Roger Stone and Alex Jones in Capitol Riot Inquiry</a> NYT: Investigators summoned five more allies of former President Donald J. Trump as they dug further into the planning and financing of rallies before the Jan. 6 attack. 
+ <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
@@ -378,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
  <p class="updated_time"> 10:03 AM CT, Nov. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/20/rittenhouse-verdict-pushes-bbb-out-of-the-headlines-495177">POLITICO Playbook: Rittenhouse verdict pushes BBB out of the headlines</a> Politico: And President Joe Biden is deemed “fit for duty.” 
- <p class="updated_time"> 10:01 AM CT, Nov. 20 </p> 
- <a href="https://www.cnn.com/2021/11/20/politics/mezuzah-vice-president-home/index.html">Second family becomes first to affix a mezuzah on executive home</a> CNN: Vice President Kamala Harris and her husband Doug Emhoff achieved another first in their historic roles when they affixed a white mezuzah to the right-hand side of the doorway of the vice presidential residence. 
  <p class="updated_time"> 02:59 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/18/democrats-social-spending-cbo-522947">McCarthy derails Dem plans to vote on social spending bill Thursday</a> Politico: Democrats delayed the vote on the $1.7 trillion package until Friday, due to a rambling speech by Minority Leader Kevin McCarthy that lasted more than four hours. 
  <p class="updated_time"> 07:07 AM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/18/house-launches-debate-votes-await-495152">House launches debate, votes await</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:34 AM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/18/3-headlines-1-congress-495148">POLITICO Playbook: 3 headlines, 1 Congress</a> Politico: And the “QAnon Shaman” gets a prison sentence. 
 
 
 </details>
