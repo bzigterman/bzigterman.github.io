@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:22 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 08:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
- <p class="updated_time"> 07:52 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
@@ -278,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Fight Covid Mandates, Then Blame Biden as Cases Rise</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
- <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
