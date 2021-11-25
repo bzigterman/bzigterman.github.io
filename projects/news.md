@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59385194?at_medium=RSS&at_campaign=KARANGA">Kavala: The case that set Turkey on collision course with the West</a> BBC: Osman Kavala has not been convicted but his detention has set Turkey's leader on a collision course. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
  <p class="updated_time"> 11:47 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/middleeast/israel-netanyahu-trial-hefetz.html">Critical Witness Testifies at Netanyahu Trial, Reviving a Drifting Case</a> NYT: Nir Hefetz, a former spokesman for Benjamin Netanyahu, is a state witness at the former prime minister’s corruption trial, which was once at the heart of a constitutional crisis. 
- <p class="updated_time"> 09:13 AM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/middleeast/belarus-iraqi-migrant-deportations.html">Limping and Penniless, Iraqis Deported From Belarus Face Bleak Futures</a> NYT: Hundreds of desperate Iraqis are being sent home after becoming political pawns in Belarus’s quarrel with its European Union neighbors. 
  <p class="updated_time"> 08:08 AM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/asia/china-peng-shuai-metoo.html">How Peng Shuai Went From ‘Chinese Princess’ to Silenced #MeToo Accuser</a> NYT: The tennis star won independence while remaining in Beijing’s good graces. But she has been unable to break through China’s resistance to sexual assault allegations. 
 
