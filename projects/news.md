@@ -7,28 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
+ <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
  <p class="updated_time"> 03:22 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059263530/death-and-destruction-follow-a-siberian-coal-mine-fire">Death and destruction follow a Siberian coal mine fire</a> NPR: A devastating fire swept through a Siberian coal mine Thursday, killing 52 miners and rescuers about 820 feet underground, Russian news reports said. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
+ <a href="https://www.npr.org/2021/11/25/1059262094/a-different-type-of-covid-19-vaccine-is-about-to-roll-out-around-the-world">A different type of COVID-19 vaccine is about to roll out around the world</a> NPR: Whatever happened to Novavax and Sanofi's COVID-19 vaccines? Many people thought at the beginning of the pandemic that these were the two most likely vaccines to succeed. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
- <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262094/a-different-type-of-covid-19-vaccine-is-about-to-roll-out-around-the-world">A different type of COVID-19 vaccine is about to roll out around the world</a> NPR: Whatever happened to Novavax and Sanofi's COVID-19 vaccines? Many people thought at the beginning of the pandemic that these were the two most likely vaccines to succeed. 
  <p class="updated_time"> 03:02 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can pose a threat to progress or limit a vaccine’s effectiveness. 
  <p class="updated_time"> 02:31 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine fire</a> BBC: A search for survivors after a fire in a Siberian mine turns to tragedy, with rescuers among the dead. 
- <p class="updated_time"> 02:25 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
- <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
@@ -191,9 +191,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
- <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
