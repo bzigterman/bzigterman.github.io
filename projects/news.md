@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 12:27 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Minors and a pregnant woman are said to be among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 12:20 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59423297?at_medium=RSS&at_campaign=KARANGA">Macy's Thanksgiving Parade: Baby Yoda and Snoopy delight crowds</a> BBC: Thousands turn out to enjoy the annual parade with millions more watching on television. 
  <p class="updated_time"> 12:16 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Vows to Lead Troops as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
- <p class="updated_time"> 11:34 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Minors and a pregnant woman are said to be among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 11:12 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Siberia: Dozens missing after deadly Russian mine accident</a> BBC: The bodies of three rescuers are found hours after a fire filled the mine with smoke, killing 11. 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059237151/afghan-girl-evacuated-italy-national-geographic">The woman from National Geographic's famous 'Afghan Girl' photo is evacuated to Italy</a> NPR: Sharbat Gula arrived in Italy as part of the West's evacuation effort, Italy's government said Thursday. Premier Mario Draghi's office said Italy organized her evacuation after she asked for help. 
  <p class="updated_time"> 10:38 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon. 
- <p class="updated_time"> 10:23 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
  <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
@@ -33,6 +35,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
+ <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627">Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</a> WSJ: Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
  <p class="updated_time"> 05:52 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Switch Savings to U.S. Dollars as Lira Collapses</a> WSJ: Turks abandoned their local currency savings for U.S. dollars and other foreign-currency deposits over concerns about the country’s faltering economy, propelling the Turkish lira to its worst slide in years. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
@@ -59,12 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
- <p class="updated_time"> 12:52 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474">China's State-Run Companies Limit Use of Tencent's Messaging App</a> WSJ: Managers at some state-run companies told employees that chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
- <p class="updated_time"> 11:21 PM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/chinas-response-to-peng-shuai-allegations-follows-familiar-pattern-11637835662">China's Response to Peng Shuai Allegations Follows Familiar Pattern</a> WSJ: Discussions within the country about the tennis star are heavily censored, while Chinese state-media journalists have released photos and videos on Twitter—a platform blocked in China—that are meant to attest to her well-being. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59385194?at_medium=RSS&at_campaign=KARANGA">Kavala: The case that set Turkey on collision course with the West</a> BBC: Osman Kavala has not been convicted but his detention has set Turkey's leader on a collision course. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
- <p class="updated_time"> 07:09 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad high court: Outrage as court reduces child sex abuse sentence</a> BBC: There’s been outrage in India after the Allahabad high court reduces the jail term of a sex offender. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
