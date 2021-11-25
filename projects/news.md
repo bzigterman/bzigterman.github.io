@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">New Covid-19 variant in South Africa raises concern</a> NPR: The World Health Organization is holding an emergency meeting on Friday to review the variant. While it's too soon to tell exactly how the new variant functions, virologists are rushing to learn more. 
+ <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">New coronavirus variant in South Africa raises concern</a> NPR: The World Health Organization is holding an emergency meeting on Friday to review the variant. While it's too soon to tell exactly how the new variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
