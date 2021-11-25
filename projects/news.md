@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:45 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 05:51 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/africa/explosion-outside-school-kills-8-in-somalias-capital.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
+ <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:30 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
  <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
- <p class="updated_time"> 01:53 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/europe/russia-memorial-prosecution.html">Trying to Blur Memories of the Gulag, Russia Targets a Rights Group</a> NYT: Prosecutors are trying to shut down Memorial International, Russia’s most prominent human rights group, as the Kremlin moves to control the historical narrative of the Soviet Union. 
 
 
 </details>
