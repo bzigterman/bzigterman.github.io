@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 07:15 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 07:02 AM CT, Nov. 25 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
+ <p class="updated_time"> 02:15 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France Holds Crisis Talks After 27 Migrants Die in English Channel</a> WSJ: French authorities are working to identify the migrants whose bodies were recovered from the English Channel, as officials hold crisis talks over the area’s deadliest migrant crossing in recent history. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
  <p class="updated_time"> 12:56 AM CT, Nov. 25 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 12:44 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
- <p class="updated_time"> 12:30 PM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/31-migrants-drown-in-the-english-channel-11637792650">27 Migrants Drown in the English Channel</a> WSJ: France’s interior Minister Gerald Darmanin said five women and a little girl were among the dead. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 07:00 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59401921?at_medium=RSS&at_campaign=KARANGA">Climate change causing albatross divorce, says study</a> BBC: There are more bird break-ups in warmer years, a study of 15,500 breeding pairs finds. 
  <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
@@ -186,6 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/25/biden-colombia-florida-523375">Biden Colombia plan stirs up Florida hornets nest</a> Politico: A plan to remove the terrorist designation from the guerrilla group FARC is angering some top Democrats. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343">Weed lounges are coming to a city near you</a> Politico: Las Vegas hopes to become a pioneer in creating public consumption spaces. 
  <p class="updated_time"> 05:24 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
  <p class="updated_time"> 09:54 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/bechara-choucair-white-house-vaccination-coordinator-departure/index.html">White House Covid-19 vaccination coordinator steps down in long-planned departure</a> CNN: Dr. Bechara Choucair, the Biden White House Covid-19 vaccinations coordinator, departed his post earlier this week as the administration's efforts to vaccinate Americans continues. 
- <p class="updated_time"> 09:28 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/jobless-claims-unemployment-benefits-drop-523293">U.S. jobless claims plunge to 199,000, lowest in 52 years</a> Politico: The number of Americans applying for unemployment benefits plummeted last week to the lowest level in more than half a century, another sign that the U.S. job market is rebounding rapidly from last year’s coronavirus recession. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
@@ -291,15 +295,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:03 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/home-heating-assistance-program-liheap/index.html">Record federal home heating aid available, but it likely still isn't enough</a> CNN: Never before has there been so much federal aid to help struggling Americans pay their home heating bills. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/jerome-powell-federal-reserve-inflation-jobs-523274">Raging inflation may force Fed’s hand on rates</a> Politico: Powell, newly nominated by President Joe Biden for a second term, would disappoint many progressives and Fed watchers if he chooses to curb the central bank's efforts to boost the economy. 
- <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has penetrated the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
  <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
- <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden picks Capitol Hill favorite to run his budget office</a> Politico: The president announced Wednesday that he will nominate Shalanda Young as OMB director and Nani Coloretti as deputy director. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
