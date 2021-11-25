@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 07:09 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad High Court: Outrage as India court reduces child abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad High Court: Outrage as court reduces child sex abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
  <p class="updated_time"> 06:45 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
