@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
+ <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
+ <p class="updated_time"> 04:46 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Turkey: Police fire tear gas at women's rights march</a> BBC: It comes months after Turkey withdrew from a treaty to combat violence against women. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
@@ -34,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
  <p class="updated_time"> 03:10 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">Channel migrants: PM calls on France to take back people who make crossing</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
+ <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">UK PM calls on France to take back migrants</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
  <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
@@ -49,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
+ <p class="updated_time"> 11:29 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: Whose lives were lost off Calais?</a> BBC: At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities. 
  <p class="updated_time"> 11:19 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France, U.K. Grapple With Migrant Boat Crossings After 27 Drown</a> WSJ: After France tried to stop migrants from entering the U.K. via the tunnel under the English Channel, they took a more dangerous route. 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
@@ -91,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
- <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
@@ -169,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
- <p class="updated_time"> 11:29 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
