@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 07:09 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Outrage as India court reduces child abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad High Court: Outrage as India court reduces child abuse sentence</a> BBC: The Allahabad high court reduced the jail term of the convict from 10 years to seven years. 
  <p class="updated_time"> 06:45 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59406355?at_medium=RSS&at_campaign=KARANGA">Migrant tragedy is biggest loss of life in Channel</a> BBC: Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 11:43 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-pick-office-management-budget-523291">Biden picks Capitol Hill favorite to run his budget office</a> Politico: The president announced Wednesday that he will nominate Shalanda Young as OMB director and Nani Coloretti as deputy director. 
- <p class="updated_time"> 10:43 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/trump-kyle-rittenhouse-visit-trial-523283">Trump says Kyle Rittenhouse visited him in Mar-a-Lago after trial</a> Politico: “Really a nice young man,” the former president said. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
