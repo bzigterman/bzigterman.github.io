@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-chose-its-first-female-prime-minister-she-lasted-less-than-a-day.html">Sweden Chose Its First Female Prime Minister. She Lasted Less Than a Day.</a> NYT: Magdalena Andersson, the leader of the Social Democratic Party, quit after her new government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
+ <p class="updated_time"> 08:35 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 08:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
@@ -27,6 +31,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 03:39 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59414834?at_medium=RSS&at_campaign=KARANGA">Frank Turner says he's reconciled with trans parent</a> BBC: The musician tells The Guardian his estranged father is "a lot more considerate" since transitioning. 
+ <p class="updated_time"> 03:25 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Defeating the Delta variant is proving harder than a virus-weary continent had hoped. 
+ <p class="updated_time"> 03:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/interpol-elects-official-accused-of-human-rights-abuses-as-president-11637848862">Interpol Elects Official Accused of Human-Rights Abuses as President</a> WSJ: The global law enforcement body’s election defies objections from Western officials who say authoritarian governments have exploited the group in recent years. 
  <p class="updated_time"> 02:57 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
@@ -55,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59401179?at_medium=RSS&at_campaign=KARANGA">Allahabad high court: Outrage as court reduces child sex abuse sentence</a> BBC: There’s been outrage in India after the Allahabad high court reduces the jail term of a sex offender. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
- <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/bank-of-korea-raises-rate-tightens-policy-to-curb-inflation-11637802115">Bank of Korea Raises Rates Again With an Eye on Inflation</a> WSJ: South Korea raised interest rates for the second time in three months, expressing confidence in the global economic recovery while giving priority to moves to curb accelerating inflation and soaring household debt. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
  <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
- <p class="updated_time"> 11:08 AM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/israel-warns-white-house-over-striking-partial-nuclear-deal-with-iran-11637787118">Israel Warns White House Over Striking Partial Nuclear Deal With Iran</a> WSJ: Israeli officials say a partial accord would be a gift to the new hard-line government in Tehran, stoking a growing public rift with the Biden administration over Iran’s nuclear program. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
  <p class="updated_time"> 10:39 PM CT, Nov. 22 </p> 
  <a href="https://www.nytimes.com/2021/11/22/world/canada/canada-indigenous-journalist-arrests.html">2 Canadian Journalists Arrested at Indigenous Protest Are Freed on Bail</a> NYT: Journalist groups denounced the arrest of a photographer and a filmmaker covering an Indigenous pipeline protest in British Columbia. 
- <p class="updated_time"> 04:30 PM CT, Nov. 22 </p> 
- <a href="https://www.nytimes.com/2021/11/22/world/europe/belarus-migrants-facebook-fake-news.html">How Fake News on Facebook Helped Fuel a Border Crisis in Europe</a> NYT: Social media worsened a migrant crisis on the border of Belarus and Poland and helped smugglers profit off desperate people trying to reach Europe. 
 
 
 </details>
@@ -205,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:01 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigitalism remains a very real threat. 
+ <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
