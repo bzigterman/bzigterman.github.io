@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:38 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
- <p class="updated_time"> 07:37 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 08:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday. 
+ <p class="updated_time"> 07:52 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Migrant Drownings, France and U.K. Promise Action</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:56 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/australia-lends-peacekeepers-to-help-quell-solomon-islands-unrest-11637841400">Australia Lends Peacekeepers to Help Quell Solomon Islands Unrest</a> WSJ: Protesters have taken to streets in the capital and burned buildings in what the prime minister says is an attempt to unseat the Pacific Island nation’s government. 
  <p class="updated_time"> 12:52 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474">China's State-Run Firms Limit Use of Tencent's Messaging App</a> WSJ: Managers at at least nine state-run companies told employees that chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down. 
+ <a href="https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474">China's State-Run Companies Limit Use of Tencent's Messaging App</a> WSJ: Managers at some state-run companies told employees that chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:21 PM CT, Nov. 24 </p> 
@@ -91,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59409508?at_medium=RSS&at_campaign=KARANGA">JPMorgan boss 'regrets' China joke amid backlash</a> BBC: Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
- <p class="updated_time"> 01:11 PM CT, Nov. 24 </p> 
- <a href="https://www.wsj.com/articles/mexican-president-nominates-deputy-finance-minister-victoria-rodriguez-as-next-central-bank-chief-11637764634">Mexico's Central Bank Nominee Fuels Concerns About Independence</a> WSJ: Mexican President López Obrador, a leftist nationalist, nominated Deputy Finance Minister Victoria Rodríguez as the next governor of the Bank of Mexico, sparking a sharp depreciation of the peso 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
