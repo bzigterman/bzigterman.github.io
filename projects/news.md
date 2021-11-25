@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
+ <p class="updated_time"> 04:43 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France Holds Crisis Talks After 27 Migrants Die in English Channel</a> WSJ: French authorities are working to identify the migrants whose bodies were recovered from the English Channel, as officials hold crisis talks over the area’s deadliest migrant crossing in recent history. 
  <p class="updated_time"> 04:34 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Defeating the Delta variant is proving harder than a virus-weary continent had hoped. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
- <p class="updated_time"> 02:15 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France Holds Crisis Talks After 27 Migrants Die in English Channel</a> WSJ: French authorities are working to identify the migrants whose bodies were recovered from the English Channel, as officials hold crisis talks over the area’s deadliest migrant crossing in recent history. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
  <p class="updated_time"> 12:56 AM CT, Nov. 25 </p> 
@@ -188,8 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
- <p class="updated_time"> 09:04 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why the Retail Industry Is Fighting Vaccine Mandates</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
+ <p class="updated_time"> 09:43 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 08:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
