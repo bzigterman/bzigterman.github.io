@@ -190,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/biden-thanksgiving-nantucket-troops/index.html">Bidens greet troops at US Coast Guard Station Brant Point on Thanksgiving Day </a> CNN: President Joe Biden and first lady Jill Biden stopped by the US Coast Guard Station Brant Point Thursday, meeting with US troops stationed there as well as troops around the world virtually as they expressed their gratitude on the Thanksgiving holiday. 
  <p class="updated_time"> 11:20 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
- <p class="updated_time"> 06:51 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/biden-friendsgiving-fort-bragg/index.html">President celebrates 'Friendsgiving' with Fort Bragg service members and their families</a> CNN: President Joe Biden and first lady Jill Biden are heading to Fort Bragg, North Carolina, on Monday afternoon to hold a "Friendsgiving" celebration with military service members and their families. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
