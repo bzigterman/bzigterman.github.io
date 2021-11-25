@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:31 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Children and a pregnant woman were among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 10:57 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/25/world/migrants-boat-capsize-calais">Live Updates: After Channel Drownings, France and U.K. Trade Blame and Promises</a> NYT: Minors and a pregnant woman are said to be among at least 27 people who died after a migrant boat capsized. The disaster has intensified the fractious debate about how to curb perilous small-boat crossings between the two countries. 
+ <p class="updated_time"> 10:41 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
+ <p class="updated_time"> 10:41 AM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059237151/afghan-girl-evacuated-italy-national-geographic">The woman from National Geographic's famous 'Afghan Girl' photo is evacuated to Italy</a> NPR: Sharbat Gula arrived in Italy as part of the West's evacuation effort, Italy's government said Thursday. Premier Mario Draghi's office said Italy organized her evacuation after she asked for help. 
+ <p class="updated_time"> 10:38 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon. 
  <p class="updated_time"> 10:23 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
@@ -17,12 +23,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Siberia: Dozens missing after deadly Russian mine accident</a> BBC: Emergency services have paused the search for survivors amid concerns over possible explosions. 
  <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
- <p class="updated_time"> 09:14 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59412329?at_medium=RSS&at_campaign=KARANGA">Channel deaths: More boats arrive after 27 people drown</a> BBC: Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
+ <p class="updated_time"> 05:52 AM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Switch Savings to U.S. Dollars as Local Currency Collapses</a> WSJ: Turks abandoned their local currency savings for U.S. dollars and other foreign-currency deposits over concerns about the country’s faltering economy, propelling the Turkish lira to its worst slide in years. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 01:00 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59411999?at_medium=RSS&at_campaign=KARANGA">Australia: LGBTQ advocates blast religious discrimination bill</a> BBC: The new bill has raised concerns that it could pave the way for discriminatory hiring practices 
- <p class="updated_time"> 12:56 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/australia-lends-peacekeepers-to-help-quell-solomon-islands-unrest-11637841400">Australia Lends Peacekeepers to Help Quell Solomon Islands Unrest</a> WSJ: Protesters have taken to streets in the capital and burned buildings in what the prime minister says is an attempt to unseat the Pacific Island nation’s government. 
  <p class="updated_time"> 12:52 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/chinas-state-run-firms-limit-use-of-tencents-messaging-app-11637837474">China's State-Run Companies Limit Use of Tencent's Messaging App</a> WSJ: Managers at some state-run companies told employees that chat groups set up for work purposes on Weixin could contain sensitive information and should be shut down. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html">Bulgaria Bus Crash Kills Dozens</a> NYT: The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said. 
  <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
- <p class="updated_time"> 12:04 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/chun-doo-hwan-dead.html">Chun Doo-hwan, South Korea's Most Vilified Ex-Military Dictator, Dies at 90</a> NYT: The country’s most vilified former military dictator, he seized power in a coup and ruled his country with an iron fist for most of the 1980s. 
  <p class="updated_time"> 11:29 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/rudy-guede-free-killer-meredith-kercher.html">Italy Frees Convicted Killer of U.K. Student Meredith Kercher</a> NYT: Rudy Guede had served 13 years of a 16-year sentence for the 2007 murder. Another student, Amanda Knox, was eventually exonerated in what became a polarizing case. 
  <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
  <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
- <p class="updated_time"> 02:26 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058240419/bus-crash-in-bulgaria-kills-at-least-45-people">Bus crash in Bulgaria kills at least 45 people</a> NPR: A bus crash in western Bulgaria early Tuesday has killed at least 45 people, authorities said. Children were among the victims The bus was one of four traveling together. 
 
 
 </details>
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:40 AM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
  <p class="updated_time"> 09:43 AM CT, Nov. 25 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
- <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
