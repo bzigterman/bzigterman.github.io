@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 02:31 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine accident</a> BBC: Sources confirmed the toll to Russian agencies on Thursday, with rescuers and miners among the dead. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine accident</a> BBC: A search for survivors after a fire in a Siberian mine turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 02:30 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can pose a threat to progress or limit a vaccine’s effectiveness. 
  <p class="updated_time"> 02:28 PM CT, Nov. 25 </p> 
