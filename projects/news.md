@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/africa/explosion-outside-school-kills-8-in-somalias-capital.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
+ <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
