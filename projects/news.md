@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:08 AM CT, Nov. 25 </p> 
+ <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands: Why Are People Protesting?</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:06 AM CT, Nov. 25 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/kevin-mccarthy-speakership-race/index.html">Trump's influence looms over McCarthy's race to be next House speaker</a> CNN: Donald Trump and his allies are starting to dangle the threat of the speakership over House Minority Leader Kevin McCarthy's head, teeing up a yearlong dynamic that is already emboldening the MAGA wing of the GOP conference and influencing the California Republican's decision-making as he crafts a strategy to win back the House next year. 
- <p class="updated_time"> 11:03 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
