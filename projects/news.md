@@ -7,10 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262094/a-different-type-of-covid-19-vaccine-is-about-to-roll-out-around-the-world">A different type of COVID-19 vaccine is about to roll out around the world</a> NPR: Whatever happened to Novavax and Sanofi's COVID-19 vaccines? Many people thought at the beginning of the pandemic that these were the two most likely vaccines to succeed. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
  <p class="updated_time"> 03:02 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can pose a threat to progress or limit a vaccine’s effectiveness. 
- <p class="updated_time"> 03:01 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrates how dangerous it is. 
  <p class="updated_time"> 02:31 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine fire</a> BBC: A search for survivors after a fire in a Siberian mine turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 02:25 PM CT, Nov. 25 </p> 
@@ -121,18 +133,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
  <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
- <p class="updated_time"> 12:44 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058945320/sweden-appoints-its-first-female-prime-minister-who-resigns-hours-later">Sweden's first female prime minister resigns hours after she was appointed</a> NPR: Magdalena Andersson quit Wednesday after suffering a budget defeat in parliament and a coalition partner left the two-party minority government. She had been prime minister for about seven hours. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
- <p class="updated_time"> 11:21 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058884439/babies-parliament-uk-british-ban">British lawmakers want to change rules that ban babies in Parliament</a> NPR: The move comes after parliamentarian Stella Creasy was told she couldn't bring her 3-month-old son into the House of Commons. Babies are less disruptive than "braying backbenchers," one lawmaker said. 
  <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
- <p class="updated_time"> 10:46 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058820074/soccer-star-karim-benzema-is-found-guilty-of-attempting-to-blackmail-a-teammate">Soccer star Karim Benzema is found guilty of attempting to blackmail a teammate</a> NPR: A French court handed Benzema a one-year suspended jail sentence, finding him guilty of conspiring to blackmail former teammate Mathieu Valbuena over a sex tape. Benzema denies the allegations. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
@@ -149,18 +155,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 06:48 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058811612/german-parties-say-theyve-reached-a-deal-to-form-a-coalition-government">German parties reach a deal to form a coalition government as the era of Merkel ends </a> NPR: Leaders of the three parties unveiled some details of how the coalition, with Olaf Scholz, leader of the center-left Social Democrats, set to replace Angela Merkel, Germany's longtime chancellor. 
  <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058794582/public-mental-health-care-illnesses-italy-trieste">A public mental health model in Italy earns global praise. Now it faces its demise</a> NPR: Trieste has a reputed approach to bringing people with mental illnesses out of hospitals and into the community. Now the region's hard-right politicians are breaking the system apart. 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 03:07 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -190,6 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
+ <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
  <p class="updated_time"> 01:23 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
@@ -328,30 +338,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
  <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
- <p class="updated_time"> 03:11 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058623989/u-s-to-release-50-million-barrels-of-crude-oil-from-the-reserve-to-lower-gas-pri">U.S. to release 50 million barrels of crude oil from the reserve to lower gas prices</a> NPR: The Biden administration is tapping into the country's emergency petroleum reserves in a bid to bring down high gas prices. But it's not clear how successful that strategy will be. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/rural-health-care-relief-funds.html">Rural Health Care Providers Get $7.5 Billion in Relief Funds</a> NYT: The money will help offset the increased expenses and revenue losses that rural hospitals and clinics have experienced during the pandemic. 
  <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
- <p class="updated_time"> 02:17 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058351733/new-subpoenas-trump-allies-january-6-capitol-select-committee">Proud Boys, Oath Keepers receive subpoenas in congressional Jan. 6 probe</a> NPR: The House panel investigating the Jan. 6 attack on the Capitol has issued five new subpoenas for witnesses lawmakers want to hear from, in addition to 40 witnesses subpoenaed already. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
- <p class="updated_time"> 09:04 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058292334/u-s-to-release-oil-reserves-as-the-holiday-travel-season-gears-up">U.S. to release oil reserves as the holiday travel season gears up</a> NPR: The Biden administration will release 50 million barrels of oil from the country's strategic petroleum reserve to lower gas prices for Americans as the holiday traveling season kicks off. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:13 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058268112/biden-is-tapping-oil-reserves-to-try-to-bring-down-high-gas-prices">The White House is tapping oil reserves to try to bring down high gas prices</a> NPR: China, India, Japan, South Korea and the United Kingdom are also tapping their emergency stocks. The goal is to try to bring down oil prices, which have been causing consumers pain at the pump. 
  <p class="updated_time"> 06:12 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
- <p class="updated_time"> 05:30 AM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/sections/money/2021/11/23/1057446470/the-conglomerate-paradox-as-ge-splinters-facebook-becomes-meta">The Conglomerate Paradox: As GE splinters, Facebook becomes Meta</a> NPR: GE announced it's breaking into three. Meanwhile, tech companies continue to take over a wider swath of industries. 
  <p class="updated_time"> 04:31 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/coronavirus-vaccine-global-pandemic-523218">Failure to vaccinate poor countries fans fears of uncontrolled outbreak</a> Politico: For months, critics have prodded drug companies to do more for the world. Now, as Covid-19 surges, U.S. and global policymakers are struggling to get shots into arms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
