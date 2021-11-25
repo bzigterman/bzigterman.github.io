@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">New Covid-19 variant in South Africa raises concern</a> NPR: The World Health Organization is holding an emergency meeting on Friday to review the variant. While it's too soon to tell exactly how the new variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
@@ -72,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:32 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
  <p class="updated_time"> 08:12 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Defeating the Delta variant is proving harder than a virus-weary continent had hoped. 
+ <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Taming the Delta variant is proving harder than a virus-weary continent had hoped. 
  <p class="updated_time"> 07:42 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: The country’s government is considering new public-health restrictions to contain a fast-spreading new variant, prompting the WHO to call an urgent meeting of experts to discuss whether to declare the new strain a ‘variant of concern.’ 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59414834?at_medium=RSS&at_campaign=KARANGA">Frank Turner says he's reconciled with trans parent</a> BBC: The musician tells The Guardian his estranged father is "a lot more considerate" since transitioning. 
  <p class="updated_time"> 03:01 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/interpol-elects-official-accused-of-human-rights-abuses-as-president-11637848862">Interpol Elects Official Accused of Human-Rights Abuses as President</a> WSJ: The global law enforcement body’s election defies objections from Western officials who say authoritarian governments have exploited the group in recent years. 
- <p class="updated_time"> 02:57 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59412000?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Australia sends peacekeeping troops amid riots</a> BBC: Violent riots have rocked the Pacific Island nation for a second straight day. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041718/nasa-launches-1st-ever-practice-mission-to-defend-earth-from-asteroids">NASA launches 1st-ever practice mission to defend Earth from asteroids</a> NPR: NASA is launching its first-ever practice mission to redirect an asteroid. The launch is part of a planetary defense strategy if an object ever threatens Earth in the future. 
- <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:56 PM CT, Nov. 24 </p> 
@@ -175,6 +173,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
+ <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
