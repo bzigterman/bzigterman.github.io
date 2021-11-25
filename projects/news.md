@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
+ <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
  <p class="updated_time"> 01:07 PM CT, Nov. 25 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058790263/australias-barrier-reef-erupts-in-color-as-corals-spawn">Australia's Barrier Reef erupts in color as corals spawn</a> NPR: Australia's Great Barrier Reef is spawning in an explosion of color as the World Heritage-listed natural wonder recovers from life-threatening coral bleaching episodes in 2016, 2017 and last year. 
  <p class="updated_time"> 01:57 AM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59399510?at_medium=RSS&at_campaign=KARANGA">Blast off for Nasa mission to strike space rock</a> BBC: The spacecraft is set to crash into an object called Dimorphos in September 2022. 
- <p class="updated_time"> 11:40 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/24/1058770506/samsung-says-it-will-build-17b-chip-factory-in-texas">Samsung says it will build $17B chip factory in Texas</a> NPR: Amid global shortage of chips used in phones, cars and other electronic devices, Samsung says it hopes to begin operations at the semiconductor factory outside of Austin by 2024. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
  <p class="updated_time"> 03:31 PM CT, Nov. 18 </p> 
  <a href="https://www.politico.com/news/2021/11/18/peter-navarro-trump-adviser-covid-subpoena-522982">House Covid panel subpoenas former Trump adviser Navarro</a> Politico: The committee issued its first subpoena to Steven Hatfill, a virologist and former adviser to Navarro, in September. 
- <p class="updated_time"> 02:19 PM CT, Nov. 18 </p> 
- <a href="https://www.politico.com/news/2021/11/18/schumer-mcconnell-debt-limit-fight-522968">Schumer, McConnell turn down the heat on debt limit fight</a> Politico: The Senate leaders are meeting Thursday to discuss a path forward on the debt ceiling, with a deadline hitting in early December. 
 
 
 </details>
