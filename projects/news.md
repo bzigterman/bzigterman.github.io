@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:52 PM CT, Nov. 25 </p> 
+ <p class="updated_time"> 08:01 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
  <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
