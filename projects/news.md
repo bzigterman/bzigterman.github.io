@@ -7,24 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 03:45 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/business/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
+ <p class="updated_time"> 03:44 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/new-covid-variant-omicron-travel-restrictions.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 03:30 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391740/protestors-in-sudan-took-to-the-streets-thursday-to-push-for-civilian-rule">Protestors in Sudan took to the streets Thursday to push for civilian rule</a> NPR: Having forced the military to install the prime minister it had ousted, pro-democracy activists in Sudan are pressing to insure civilian control. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391733/tensions-have-been-high-as-the-presidential-election-in-honduras-nears">Tensions have been high as the presidential election in Honduras nears</a> NPR: Honduras is holding its presidential election Sunday at a time of poverty, corruption and increased migration to the United States. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391705/new-coronavirus-variant-omicron-is-classified-as-a-variant-of-concern">New coronavirus variant omicron is classified as a 'variant of concern'</a> NPR: A variant now named omicron, first detected in South Africa, prompted new overseas travel restrictions in Europe and a special World Health Organization meeting on Friday. 
- <p class="updated_time"> 03:18 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
- <p class="updated_time"> 03:10 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/new-covid-variant-omicron-travel-restrictions.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 02:53 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
- <p class="updated_time"> 02:46 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 02:21 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059340560/russia-siberia-coal-mine-explosion-rescuers">Rescuers find a survivor after a Siberian coal mine exploded but many are feared dead</a> NPR: Russian authorities released the names of 51 people presumed dead after a devastating methane explosion in a coal mine in Siberia, believed to be the country's deadliest mining incident since 2010. 
  <p class="updated_time"> 02:14 PM CT, Nov. 26 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">U.S. will begin new travel restrictions amid concerns over a new coronavirus variant</a> NPR: The policy will affect South Africa and seven other countries, senior administration officials said. The World Health Organization expressed concern about the new variant — called omicron. 
- <p class="updated_time"> 01:02 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 12:58 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Omicron: Mutations prompt new coronavirus variant concern from WHO</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
