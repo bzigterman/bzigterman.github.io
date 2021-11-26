@@ -203,7 +203,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
