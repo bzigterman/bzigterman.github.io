@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:34 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘Of Concern’</a> NYT: Several countries have imposed restrictions on travel to and from South Africa and its neighbors in an effort to keep people infected with the new Omicron variant from crossing borders. 
- <p class="updated_time"> 12:30 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">New Omicron variant is a concern, WHO says</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries have imposed restrictions on travel to and from South Africa and its neighbors in an effort to keep people infected with the new Omicron variant from crossing borders. 
+ <p class="updated_time"> 12:44 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
+ <p class="updated_time"> 12:43 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Omicron: Mutations prompt new coronavirus variant concern from WHO</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 12:24 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-vaccine-boosters-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
- <p class="updated_time"> 12:23 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
+ <p class="updated_time"> 12:40 PM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/interior-department-federal-review-oil-gas-leasing/index.html">Interior Department releases long-awaited review of federal oil and gas leasing program</a> CNN: The Department of Interior on Friday released a long-awaited report on oil and gas drilling on federal land that recommends an increase in leasing fees and consideration of climate change in leasing decisions. But the report largely sidesteps climate concerns, and does not recommend a halt to new oil and gas leasing -- a promise President Joe Biden campaigned on. 
  <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
@@ -218,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/covid-new-variant-southern-africa-523382">WHO classifies new 'omicron' variant as ‘highly transmissible’ virus</a> Politico: Medical experts warned against any overreaction before all elements were clear but nations who acted said their concerns were justified. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/25/biden-colombia-florida-523375">Biden Colombia plan stirs up Florida hornets nest</a> Politico: A plan to remove the terrorist designation from the guerrilla group FARC is angering some top Democrats. 
  <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343">Weed lounges are coming to a city near you</a> Politico: Las Vegas hopes to become a pioneer in creating public consumption spaces. 
- <p class="updated_time"> 05:24 AM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:06 AM CT, Nov. 25 </p> 
