@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">UK PM calls on France to take back migrants</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
@@ -15,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
+ <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59426908?at_medium=RSS&at_campaign=KARANGA">Chinese tech giant Tencent told to suspend new app roll outs</a> BBC: It comes as China's technology industry regulator reviews compliance with new privacy rules. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/variant-hong-kong-covid.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 11:36 PM CT, Nov. 25 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59426057?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Pilot accused of murders remanded in custody</a> BBC: After a dramatic arrest, Greg Lynn is charged with killing a pair who disappeared 20 months ago. 
- <p class="updated_time"> 09:44 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">UK PM calls on France to take back migrants</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
  <p class="updated_time"> 08:41 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Protesters turn out around the world calling for an end to violence against women. 
  <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59409507?at_medium=RSS&at_campaign=KARANGA">Black Friday spending set to soar despite fewer deals</a> BBC: Analysts say this year's sale will be the biggest ever, but retailers won't offer as many discounts. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
- <p class="updated_time"> 02:11 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Amazon workers plan Black Friday strikes</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:33 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
- <p class="updated_time"> 11:29 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: Scramble to identify dead off Calais</a> BBC: At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities. 
  <p class="updated_time"> 11:19 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France, U.K. Grapple With Migrant Boat Crossings After 27 Drown</a> WSJ: After France tried to stop migrants from entering the U.K. via the tunnel under the English Channel, they took a more dangerous route. 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
