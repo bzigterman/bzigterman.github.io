@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU latest to call for border closures over new variant fears</a> BBC: EU calls for flight ban as health officials hold urgent meeting over new variant in southern Africa. 
+ <p class="updated_time"> 09:35 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraqis-return-from-belarus-but-some-say-they-will-try-again-to-reach-the-eu.html">Iraqis Return from Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
- <p class="updated_time"> 09:18 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
  <p class="updated_time"> 09:17 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
- <p class="updated_time"> 08:44 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 07:32 AM CT, Nov. 26 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
+ <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 03:59 AM CT, Nov. 26 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59428406?at_medium=RSS&at_campaign=KARANGA">Poorest face food crisis amid fertiliser shortage</a> BBC: The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">U.S. lawmakers meet with Taiwan's president in a surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
- <p class="updated_time"> 02:31 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
  <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
@@ -234,6 +234,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 07:15 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/biden-thanksgiving-nantucket-troops/index.html">Bidens greet troops at US Coast Guard Station Brant Point on Thanksgiving Day </a> CNN: President Joe Biden and first lady Jill Biden stopped by the US Coast Guard Station Brant Point Thursday, meeting with US troops stationed there as well as troops around the world virtually as they expressed their gratitude on the Thanksgiving holiday. 
+ <p class="updated_time"> 05:58 PM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/25/canada-climate-change-agenda-523380">Watchdog: Department in charge of Trudeau's climate agenda lacks clout to drive it</a> Politico: Environment and Sustainable Development Commissioner Jerry DeMarco said Canada's climate record is one of failure. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
@@ -376,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
+ <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
