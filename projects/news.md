@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
  <p class="updated_time"> 12:22 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 06:17 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine is to take a break from all forms of cricket "for the foreseeable future". 
+ <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
@@ -44,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Death toll soars to 52 after accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 03:54 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Vows to Lead Troops as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
- <p class="updated_time"> 11:49 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
  <p class="updated_time"> 11:33 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 11:29 AM CT, Nov. 25 </p> 
