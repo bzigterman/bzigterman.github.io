@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 11:42 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries imposed restrictions on travel to and from the region. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
+ <p class="updated_time"> 11:38 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa-botswana-hong-kong-israel.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 11:16 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an ancient romantic Japanese classic sold millions of copies. 
- <p class="updated_time"> 11:15 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 11:15 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
@@ -21,8 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
- <p class="updated_time"> 10:24 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries imposed restrictions on travel to and from the region. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428712?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia conflict: Zelensky alleges coup plan involving Russians</a> BBC: He says an alleged plan to overthrow his government comes amid threats of a Russian invasion. 
  <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The WHO holds an urgent meeting over a Covid variant in southern Africa, as EU calls for flight ban. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
- <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">The EU wants to stop flights from southern Africa over a new COVID variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
- <p class="updated_time"> 01:43 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
  <p class="updated_time"> 01:30 AM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800">Supply-Chain Woes Snarl Attempts to Tame House Prices</a> WSJ: The rising costs of construction materials and labor shortages are complicating efforts to cool some of the world’s hottest property markets. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
