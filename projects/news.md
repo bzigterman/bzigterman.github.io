@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">U.S. lawmakers meet with Taiwan's president in a surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
  <p class="updated_time"> 02:34 AM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Variant Sets Off Fears of Restrictions, Arrives in Europe</a> WSJ: Dozens of countries restricted travel to and from southern Africa, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious, while a case was confirmed in Belgium. 
+ <p class="updated_time"> 02:31 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
  <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
@@ -49,12 +51,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
  <p class="updated_time"> 01:43 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
+ <p class="updated_time"> 01:30 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/supply-chain-woes-snarl-attempts-to-tame-house-prices-11637929800">Supply-Chain Woes Snarl Attempts to Tame House Prices</a> WSJ: The rising costs of construction materials and labor shortages are complicating efforts to cool some of the world’s hottest property markets. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
+ <p class="updated_time"> 12:44 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/france-italy-sign-pact-seeking-more-influence-in-europe-11637927053">France, Italy Sign Pact Seeking More Influence in Europe</a> WSJ: Advocates hope the cooperation treaty could shift the balance of power in the European Union, matching Germany’s influence by deepening cooperation between the bloc’s second and third-biggest members. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
  <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
@@ -127,12 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
- <p class="updated_time"> 08:32 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
- <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627">Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</a> WSJ: Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica. 
- <p class="updated_time"> 06:49 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghans Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059317198/what-to-expect-during-the-iran-u-s-nuclear-deal-negotiations">What to expect during the Iran-U.S. nuclear deal negotiations</a> NPR: NPR's Steve Inskeep speaks with U.S. Special Envoy for Iran Rob Malley about the next round of talks to revive the Iran nuclear deal. 
  <p class="updated_time"> 05:11 AM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/trump-2022-candidates-north-carolina-alabama-georgia/index.html">Trump pulls strings behind the scenes to help loyal 2022 candidates </a> CNN: Former President Donald Trump has taken his involvement in 2022 Republican primaries to a new level as he works to permanently mold the GOP in his image. Beyond Trump's public efforts to oust Republican incumbents he considers disloyal, he has quietly tried to clear potential GOP threats to his endorsed candidates and encouraged others to run against his enemies. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/cartoons/2021/11/24/the-nations-cartoonists-on-the-week-in-politics-000268">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -254,6 +256,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/25/biden-colombia-florida-523375">Biden Colombia plan stirs up Florida hornets nest</a> Politico: A plan to remove the terrorist designation from the guerrilla group FARC is angering some top Democrats. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343">Weed lounges are coming to a city near you</a> Politico: Las Vegas hopes to become a pioneer in creating public consumption spaces. 
  <p class="updated_time"> 05:24 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
@@ -262,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059196427/breaking-down-the-democratic-turnover-in-congress-ahead-of-the-mid-term-election">Breaking down the Democratic turnover in Congress ahead of the mid-term election</a> NPR: With less than a year until the mid-term election, dozens of lawmakers are calling it quits. NPR's Dierdre Walsh explains why. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
@@ -282,6 +286,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
+ <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Biden’s Justice Department puts unruly airline passengers on notice</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/russia-push-new-weapons-ukraine-523362">Russian buildup sparks new push to send weapons to Ukraine</a> Politico: A new lethal weapons package for Kyiv is up for debate in Congress, but NDAA delays could scuttle the $50 million boost in funding. 
  <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
@@ -308,16 +314,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
- <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 01:23 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
- <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
- <p class="updated_time"> 10:15 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/supreme-court-north-carolina-voter-id-law-523294">Supreme Court to consider GOP lawmakers' right to defend North Carolina voter ID law</a> Politico: GOP state legislators argue Democratic attorney general isn't doing enough to uphold the statute. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
@@ -420,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
  <p class="updated_time"> 09:48 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
- <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
