@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
+ <p class="updated_time"> 02:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
+ <p class="updated_time"> 02:23 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
+ <p class="updated_time"> 02:21 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059340560/russia-siberia-coal-mine-explosion-rescuers">Rescuers find a survivor after a Siberian coal mine exploded but many are feared dead</a> NPR: Russian authorities released the names of 51 people presumed dead after a devastating methane explosion in a coal mine in Siberia, believed to be the country's deadliest mining incident since 2010. 
  <p class="updated_time"> 02:14 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059341809/leicester-england-archaeologists-ancient-roman-mosaic">First they found a dead king's body. Now they've uncovered an ancient mosaic</a> NPR: A rare Roman mosaic is the latest discovery from a crack team of British archaeologists. 
  <p class="updated_time"> 02:07 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from S Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
- <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">U.S. will begin new travel restrictions amid concerns over a new coronavirus variant</a> NPR: The policy will affect South Africa and seven other countries, senior administration officials said. The World Health Organization expressed concern about the new variant — called omicron. 
- <p class="updated_time"> 01:30 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 01:24 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron-travel-restrictions.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 01:10 PM CT, Nov. 26 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 12:58 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Omicron: Mutations prompt new coronavirus variant concern from WHO</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
- <p class="updated_time"> 12:44 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 11:57 AM CT, Nov. 26 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
- <p class="updated_time"> 10:41 AM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059237151/afghan-girl-evacuated-italy-national-geographic">The woman from National Geographic's famous 'Afghan Girl' photo is evacuated to Italy</a> NPR: Sharbat Gula arrived in Italy as part of the West's evacuation effort, Italy's government said Thursday. Premier Mario Draghi's office said Italy organized her evacuation after she asked for help. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
  <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
@@ -206,12 +206,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
+ <p class="updated_time"> 02:25 PM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/interior-department-federal-review-oil-gas-leasing/index.html">Biden administration calls for hike in federal drilling fees in report that largely sidesteps climate issues</a> CNN: The Department of Interior on Friday released a long-awaited report on oil and gas drilling on federal land that recommends an increase in leasing fees and consideration of climate change in leasing decisions. But the report largely sidesteps climate concerns, and does not recommend a halt to new oil and gas leasing -- a promise President Joe Biden campaigned on. 
- <p class="updated_time"> 01:57 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
  <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
- <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/renters-rent-control-523351">Renters strike back as cities cap price hikes by landlords</a> Politico: The revival of rent control policies long derided by economists, including one of President Joe Biden’s top advisers, comes as officials scramble to contain rising prices across a range of goods and services. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
