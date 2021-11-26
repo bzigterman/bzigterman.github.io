@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
+ <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
+ <p class="updated_time"> 02:03 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks with UK in protest at letter published by PM Boris Johnson on the migrant crisis. 
  <p class="updated_time"> 01:43 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
- <p class="updated_time"> 01:41 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks with UK in protest at letter published by PM Boris Johnson on the migrant crisis. 
- <p class="updated_time"> 01:34 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59426057?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Pilot accused of murders remanded in custody</a> BBC: After a dramatic arrest, Greg Lynn is charged with killing a pair who disappeared 20 months ago. 
- <p class="updated_time"> 08:41 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Protesters turn out around the world calling for an end to violence against women. 
  <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
  <p class="updated_time"> 06:44 PM CT, Nov. 25 </p> 
@@ -54,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Death toll soars to 52 after accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Death toll soars to 52 after accident - reports</a> BBC: A search for survivors of a Siberian mine accident turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
@@ -101,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
  <p class="updated_time"> 08:32 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
- <p class="updated_time"> 08:12 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Taming the Delta variant is proving harder than a virus-weary continent had hoped. 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
