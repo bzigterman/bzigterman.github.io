@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:39 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 10:03 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
  <p class="updated_time"> 09:37 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU latest to call for border closures over new variant fears</a> BBC: EU calls for flight ban as health officials hold urgent meeting over new variant in southern Africa. 
  <p class="updated_time"> 09:35 AM CT, Nov. 26 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
- <p class="updated_time"> 09:17 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:38 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
@@ -418,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
  <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
- <p class="updated_time"> 10:00 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/dems-2010-social-spending-523011">‘Whole different ballgame’: Dems vow they’ve learned Obamacare lessons in messaging $1.7T megabill</a> Politico: The party is setting out on an ambitious sales pitch for its social spending plan, insisting it can avoid a repeat of 2010’s electoral wipeout. 
 
 
 </details>
