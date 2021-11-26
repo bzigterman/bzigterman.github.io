@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron rounds on Johnson in boat crossings row</a> BBC: France bans the UK from high-level talks on Channel crisis in protest at a letter by Boris Johnson. 
+ <p class="updated_time"> 04:51 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59409507?at_medium=RSS&at_campaign=KARANGA">Black Friday spending set to soar despite fewer deals</a> BBC: Analysts say this year's sale will be the biggest ever, but retailers won't offer as many discounts. 
  <p class="updated_time"> 04:43 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 04:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
- <p class="updated_time"> 04:11 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -43,10 +45,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
+ <p class="updated_time"> 11:56 PM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59426908?at_medium=RSS&at_campaign=KARANGA">Chinese tech giant Tencent told to suspend new app roll outs</a> BBC: It comes as China's technology industry regulator reviews compliance with new privacy rules. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/variant-hong-kong-covid.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
+ <p class="updated_time"> 11:04 PM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 10:18 PM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: A delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
- <p class="updated_time"> 06:01 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-59409507?at_medium=RSS&at_campaign=KARANGA">Black Friday spending set to soar despite fewer deals</a> BBC: Analysts say this year's sale will be the biggest ever, but retailers won't offer as many discounts. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
- <p class="updated_time"> 05:02 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: Scientists say the new variant has a high number of mutations that may make it more transmissible and allow it to evade some of the immune responses triggered by previous infection or vaccination. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
