@@ -7,24 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:57 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 06:40 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
+ <p class="updated_time"> 06:39 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
+ <p class="updated_time"> 06:38 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
+ <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
+ <p class="updated_time"> 06:32 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron attacks Johnson in boat crossings row</a> BBC: The French President accuses the PM of not being "serious" over call for France to take back migrants. 
  <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Over Channel Crossings Deepens</a> NYT: The French responded angrily to Boris Johnson’s suggestion that France take back migrants who reach Britain, and rescinded an invitation for a top British official to discuss the crisis. 
- <p class="updated_time"> 06:16 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
- <p class="updated_time"> 06:02 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 06:01 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
- <p class="updated_time"> 05:58 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron attacks Johnson in boat crossings row</a> BBC: The French President accuses the PM of not being "serious" over call for France to take back migrants. 
- <p class="updated_time"> 05:26 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
- <p class="updated_time"> 04:43 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">US lawmakers meet with Taiwan president in surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
  <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">Thai chain's cannabis pizza is trendy but won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
+ <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
@@ -189,6 +189,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
+ <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
+ <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
+ <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
+ <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
 
 
 </details>
@@ -196,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
  <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
  <p class="updated_time"> 06:14 AM CT, Nov. 26 </p> 
@@ -330,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
