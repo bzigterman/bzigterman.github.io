@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
+ <p class="updated_time"> 01:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 01:24 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, imposed restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
- <p class="updated_time"> 01:24 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/new-variant-omicron-travel-restrictions.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron-travel-restrictions.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 01:10 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa-botswana-hong-kong-israel.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">What Scientists Know About the New Covid Variant, Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 01:02 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 12:58 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Omicron: Mutations prompt new coronavirus variant concern from WHO</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 12:44 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
- <p class="updated_time"> 12:24 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-vaccine-boosters-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
@@ -208,7 +208,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
- <p class="updated_time"> 01:19 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 01:31 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
