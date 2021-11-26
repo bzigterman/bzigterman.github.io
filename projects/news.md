@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
+ <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
+ <p class="updated_time"> 09:18 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 09:17 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
- <p class="updated_time"> 08:50 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
  <p class="updated_time"> 08:44 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
- <p class="updated_time"> 08:15 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
- <p class="updated_time"> 08:01 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 07:32 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Dozens killed in Siberia accident</a> BBC: Fifty-one deaths have been confirmed in Russia's worst mining disaster in a decade. 
  <p class="updated_time"> 07:13 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59432579?at_medium=RSS&at_campaign=KARANGA">New Covid variant: Pride and punishment follows South Africa discovery</a> BBC: South Africans feel they are paying the price for their ability to monitor new Covid variants. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59432579?at_medium=RSS&at_campaign=KARANGA">New Covid variant: South Africa's pride and punishment</a> BBC: South Africans feel they are paying the price for their ability to monitor new Covid variants. 
  <p class="updated_time"> 06:38 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
+ <p class="updated_time"> 03:59 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">The EU wants to stop flights from southern Africa over a new COVID variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:30 AM CT, Nov. 26 </p> 
@@ -72,9 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59426908?at_medium=RSS&at_campaign=KARANGA">Chinese tech giant Tencent told to suspend new app roll outs</a> BBC: It comes as China's technology industry regulator reviews compliance with new privacy rules. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/asia/variant-hong-kong-covid.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
- <p class="updated_time"> 11:04 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
+ <a href="https://www.nytimes.com/2021/11/26/world/asia/south-africa-covid-variant-hong-kong.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 10:18 PM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: The delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/buffalo-covid-mask-mandate.html">Buffalo Officials Reimpose a Mask Mandate as Cases Surge</a> NYT: Cases have doubled in Erie County over four weeks, prompting the return of a mask requirement for stores, restaurants, bars, salons, and other public indoor spaces. 
  <p class="updated_time"> 10:25 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
