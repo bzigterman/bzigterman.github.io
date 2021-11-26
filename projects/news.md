@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">People pulled from water as 300 saved in boat rescue</a> BBC: Dramatic video from the Italian coastguard shows a migrant boat rescue off Lampedusa Island, Italy. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">New coronavirus variant in South Africa raises concern</a> NPR: The World Health Organization is holding an emergency meeting on Friday to review the variant. While it's too soon to tell exactly how the new variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
- <p class="updated_time"> 05:46 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -105,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
- <p class="updated_time"> 10:52 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/sports/olympics/china-sports-peng-shuai.html">Do Sports Still Need China?</a> NYT: Global outrage, broken contracts and shifting politics could change the calculus for leagues and teams that once raced to do business in China. 
  <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59412139?at_medium=RSS&at_campaign=KARANGA">US restricts trade with a dozen more Chinese technology firms</a> BBC: The move comes as tensions grow between the US and China over the status of Taiwan and trade issues. 
  <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
@@ -181,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/americas/venezuela-election-maduro.html">In Venezuela’s Flawed Vote, Maduro Shows One Way to Retain Power</a> NYT: European observers said the elections were neither free nor fair. They showed how President Nicolás Maduro’s government, however unpopular, can win by excluding and splitting opponents. 
  <p class="updated_time"> 08:49 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/south-korea-covid-religious-settlement.html">South Korea Links Over 200 Covid Cases to Religious Settlement</a> NYT: Nearly half of the residents at the facility in the city of Cheonan tested positive for Covid, an outbreak that comes as South Korea’s case levels surge. 
+ <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
+ <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
- <p class="updated_time"> 01:23 PM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/thanksgiving-covid-economy-what-matters/index.html">Reasons to be thankful vs. worried this Thanksgiving</a> CNN: We're living through a life-changing pandemic, an assault on democracy and a reckoning with racial justice. But it's the economy and inflation souring the overall mood for Americans. 
  <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 11:59 AM CT, Nov. 25 </p> 
