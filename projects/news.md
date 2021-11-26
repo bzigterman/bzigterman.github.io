@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:18 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 12:18 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-vaccine-boosters-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
- <p class="updated_time"> 12:17 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 12:34 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘Of Concern’</a> NYT: Several countries have imposed restrictions on travel to and from South Africa and its neighbors in an effort to keep people infected with the new Omicron variant from crossing borders. 
+ <p class="updated_time"> 12:30 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">New Omicron variant is a concern, WHO says</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
+ <p class="updated_time"> 12:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-vaccine-boosters-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
+ <p class="updated_time"> 12:23 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The EU imposes a flight ban on southern Africa as the new variant is classified as being "of concern". 
- <p class="updated_time"> 12:09 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 11:57 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The World Health Organization said preliminary evidence suggested the strain first detected in southern Africa presented a higher risk of a person catching Covid-19 for a second time. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Dozens killed in Siberia accident</a> BBC: Fifty-one deaths have been confirmed in Russia's worst mining disaster in a decade. 
  <p class="updated_time"> 07:13 AM CT, Nov. 26 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Over Channel Crossings Deepens</a> NYT: The French responded angrily to Boris Johnson’s suggestion that France take back migrants who reach Britain, and rescinded an invitation for a top British official to discuss the crisis. 
- <p class="updated_time"> 05:46 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Variant Arrives in Europe, Sets Off Global Fears of Restrictions</a> WSJ: Europe recorded its first case of the fast-spreading new variant and dozens of countries restricted travel to and from southern Africa, where it was first detected, amid concerns that it could be more contagious. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
+ <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/cartoons/2021/11/24/the-nations-cartoonists-on-the-week-in-politics-000268">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
- <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 08:52 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
