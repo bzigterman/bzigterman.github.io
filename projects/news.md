@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:32 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new variant in southern Africa</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
  <p class="updated_time"> 05:26 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 05:24 AM CT, Nov. 26 </p> 
@@ -45,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
+ <p class="updated_time"> 12:45 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
- <p class="updated_time"> 12:03 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59426908?at_medium=RSS&at_campaign=KARANGA">Chinese tech giant Tencent told to suspend new app roll outs</a> BBC: It comes as China's technology industry regulator reviews compliance with new privacy rules. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
