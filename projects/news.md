@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:04 PM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 10:18 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: A delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
+ <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: The delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59426057?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Pilot accused of murders remanded in custody</a> BBC: After a dramatic arrest, Greg Lynn is charged with killing a pair who disappeared 20 months ago. 
  <p class="updated_time"> 09:50 PM CT, Nov. 25 </p> 
@@ -207,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Don’t answer your phone’: Health experts feared Cuomo’s intervention at pandemic’s height</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
+ <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
@@ -268,6 +268,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059196427/breaking-down-the-democratic-turnover-in-congress-ahead-of-the-mid-term-election">Breaking down the Democratic turnover in Congress ahead of the mid-term election</a> NPR: With less than a year until the mid-term election, dozens of lawmakers are calling it quits. NPR's Dierdre Walsh explains why. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
+ <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
@@ -320,6 +322,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/business/media/biden-media-strategy.html">Biden’s Low-Key Media Strategy Draws Allies’ Concern</a> NYT: So far in his tenure, the president has given far fewer one-on-one interviews than his two predecessors. Some Democrats are asking if he could be making better use of his White House pulpit. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/ian-fishback-veteran-mental-health-crisis.html">Ian Fishback's Death Highlights Veteran Mental Illness Crisis</a> NYT: Ian Fishback revealed abuse of detainees during the Iraq war, but struggled after leaving the service. He died awaiting a bed at the V.A. 
+ <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 11:26 AM CT, Nov. 24 </p> 
@@ -400,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
- <p class="updated_time"> 04:31 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/covid-surge-winter-523109">Stubborn Covid surges signal bleak winter</a> Politico: The risk to health systems across the country is further heightened because influenza and RSV are also on the rise. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
