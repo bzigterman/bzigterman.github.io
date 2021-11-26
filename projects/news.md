@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
+ <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
- <p class="updated_time"> 12:22 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/variant-hong-kong-covid.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 11:36 PM CT, Nov. 25 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Death toll soars to 52 after accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
- <p class="updated_time"> 03:54 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
