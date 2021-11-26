@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059391740/protestors-in-sudan-took-to-the-streets-thursday-to-push-for-civilian-rule">Protestors in Sudan took to the streets Thursday to push for civilian rule</a> NPR: Having forced the military to install the prime minister it had ousted, pro-democracy activists in Sudan are pressing to insure civilian control. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391733/tensions-have-been-high-as-the-presidential-election-in-honduras-nears">Tensions have been high as the presidential election in Honduras nears</a> NPR: Honduras is holding its presidential election Sunday at a time of poverty, corruption and increased migration to the United States. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391705/new-coronavirus-variant-omicron-is-classified-as-a-variant-of-concern">New coronavirus variant omicron is classified as a 'variant of concern'</a> NPR: A variant now named omicron, first detected in South Africa, prompted new overseas travel restrictions in Europe and a special World Health Organization meeting on Friday. 
- <p class="updated_time"> 03:18 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
  <p class="updated_time"> 03:18 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 03:10 PM CT, Nov. 26 </p> 
@@ -45,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
+ <p class="updated_time"> 10:29 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the Omicron strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 10:27 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
- <p class="updated_time"> 09:07 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the Omicron strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262094/a-different-type-of-covid-19-vaccine-is-about-to-roll-out-around-the-world">A different type of COVID-19 vaccine is about to roll out around the world</a> NPR: Whatever happened to Novavax and Sanofi's COVID-19 vaccines? Many people thought at the beginning of the pandemic that these were the two most likely vaccines to succeed. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
- <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
  <p class="updated_time"> 12:20 PM CT, Nov. 25 </p> 
@@ -206,6 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059391740/protestors-in-sudan-took-to-the-streets-thursday-to-push-for-civilian-rule">Protestors in Sudan took to the streets Thursday to push for civilian rule</a> NPR: Having forced the military to install the prime minister it had ousted, pro-democracy activists in Sudan are pressing to insure civilian control. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059391733/tensions-have-been-high-as-the-presidential-election-in-honduras-nears">Tensions have been high as the presidential election in Honduras nears</a> NPR: Honduras is holding its presidential election Sunday at a time of poverty, corruption and increased migration to the United States. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059391712/behind-the-loud-pushback-against-progressive-district-attorneys-across-the-count">Behind the loud pushback against progressive district attorneys across the country</a> NPR: An effort to remove San Francisco's progressive District Attorney Chesa Boudin from office is gaining momentum. It's part of a wider (so far unsuccessful) backlash against reformist DAs nationally. 
  <p class="updated_time"> 03:18 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 02:32 PM CT, Nov. 26 </p> 
@@ -304,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
- <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Biden’s Justice Department puts unruly airline passengers on notice</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
@@ -314,16 +318,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
- <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
  <p class="updated_time"> 03:10 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/business/economy/inflation-pce-october-2021.html"> Inflation Surged Again in October, With P.C.E. Index Climbing 5 Percent</a> NYT: Prices climbed by 5 percent in the 12 months through October, according to Personal Consumption Expenditures price index data released Wednesday. 
  <p class="updated_time"> 03:01 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 02:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
- <p class="updated_time"> 02:41 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058973471/despite-voter-approved-anti-gerrymandering-reforms-ohio-gop-still-draws-lopsided">Despite voter-approved anti-gerrymandering reforms, Ohio GOP still draws lopsided map</a> NPR: Ohio's new congressional map favors Republicans 13 to 2. Voting rights advocates say it's a violation of redistricting rules voters put in place in 2018. One group has already filed a legal challenge. 
  <p class="updated_time"> 02:38 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
- <p class="updated_time"> 08:57 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058837137/biden-nominate-omb-shalanda-young-nani-coloretti">Biden nominates 2 women of color to lead the OMB</a> NPR: If confirmed, Shalanda Young will be the first Black female director of the White House Office of Management and Budget. Nani Coloretti would serve as its deputy director. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
