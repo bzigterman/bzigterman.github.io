@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' - World Health Organization</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 04:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
  <p class="updated_time"> 04:12 PM CT, Nov. 26 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">U.S. will begin new travel restrictions amid concerns over a new coronavirus variant</a> NPR: The policy will affect South Africa and seven other countries, senior administration officials said. The World Health Organization expressed concern about the new variant — called omicron. 
- <p class="updated_time"> 12:58 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Omicron: Mutations prompt new coronavirus variant concern from WHO</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
