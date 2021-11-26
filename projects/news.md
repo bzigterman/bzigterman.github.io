@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:22 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
  <p class="updated_time"> 11:38 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/variant-hong-kong-covid.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 11:36 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 11:29 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
- <p class="updated_time"> 11:17 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
+ <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59426057?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Pilot accused of murders remanded in custody</a> BBC: After a dramatic arrest, Greg Lynn is charged with killing a pair who disappeared 20 months ago. 
  <p class="updated_time"> 09:44 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">UK PM calls on France to take back migrants</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
  <p class="updated_time"> 08:41 PM CT, Nov. 25 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59425542?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Why politics is dominating the debate on migrants</a> BBC: UK-French rivalry is making a common solution difficult, says the BBC's Europe Editor Katya Adler. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
+ <p class="updated_time"> 06:17 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine is to take a break from all forms of cricket "for the foreseeable future". 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Amazon workers plan Black Friday strikes</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 02:02 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
@@ -75,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:49 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he is wrangling the Pikachu balloon. 
+ <p class="updated_time"> 11:33 AM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 11:29 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: Whose lives were lost off Calais?</a> BBC: At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities. 
  <p class="updated_time"> 11:19 AM CT, Nov. 25 </p> 
@@ -105,14 +113,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 03:39 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59414834?at_medium=RSS&at_campaign=KARANGA">Frank Turner says he's reconciled with trans parent</a> BBC: The musician tells The Guardian his estranged father is "a lot more considerate" since transitioning. 
  <p class="updated_time"> 03:01 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/interpol-elects-official-accused-of-human-rights-abuses-as-president-11637848862">Interpol Elects Official Accused of Human-Rights Abuses as President</a> WSJ: The global law enforcement body’s election defies objections from Western officials who say authoritarian governments have exploited the group in recent years. 
  <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
- <p class="updated_time"> 12:14 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041718/nasa-launches-1st-ever-practice-mission-to-defend-earth-from-asteroids">NASA launches 1st-ever practice mission to defend Earth from asteroids</a> NPR: NASA is launching its first-ever practice mission to redirect an asteroid. The launch is part of a planetary defense strategy if an object ever threatens Earth in the future. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
- <p class="updated_time"> 01:56 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-59409508?at_medium=RSS&at_campaign=KARANGA">JPMorgan boss 'regrets' China joke amid backlash</a> BBC: Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
