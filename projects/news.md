@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
+ <p class="updated_time"> 03:58 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">EU wants to stop flights from southern Africa over variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
- <p class="updated_time"> 03:34 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
- <p class="updated_time"> 03:26 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-59428406?at_medium=RSS&at_campaign=KARANGA">Poorest face food crisis amid fertiliser shortage</a> BBC: The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">US lawmakers meet with Taiwan president in surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
- <p class="updated_time"> 02:50 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
  <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">Thai chain's cannabis pizza is trendy but won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
@@ -116,7 +120,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/total-solar-eclipse-chasers-travel-antarctica-11637793627">Eclipse Chasers Travel Far and Pack Traditions: Orange Pants and Dinky Doo</a> WSJ: Devoted followers of total solar eclipses often have their own special rituals for the event, from wearing special outfits to making egg creams. Now they’re gearing up for the next one, over Antarctica. 
  <p class="updated_time"> 06:49 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
+ <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghans Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -169,14 +173,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
- <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
  <p class="updated_time"> 10:36 PM CT, Nov. 23 </p> 
@@ -189,12 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Rescuing the Afghanistan girls' football team</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
  <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
- <p class="updated_time"> 12:14 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/science/microbes-construction-bacteria.html">This Ink Is Alive and Made Entirely of Microbes</a> NYT: Scientists have created a bacterial ink that reproduces itself and can be 3D-printed into living architecture. 
- <p class="updated_time"> 11:24 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
- <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
 
 
 </details>
@@ -202,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 08:52 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
@@ -348,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
- <p class="updated_time"> 03:35 PM CT, Nov. 23 </p> 
- <a href="https://www.npr.org/2021/11/23/1058624173/with-the-holidays-ahead-president-biden-addressed-inflation-in-his-economy-speec">President Biden addressed rising inflation in his economy speech</a> NPR: President Biden highlighted the strength of the U.S. economy Tuesday afternoon, while also addressing rising prices. The administration is trying to lower gasoline prices, a major driver of inflation. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
@@ -372,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
- <p class="updated_time"> 04:00 AM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/dealbook/companies-politics-partisan.html">Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?</a> NYT: Major brands and chief executives have become increasingly entangled in social and political debates. Is more to come? 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
