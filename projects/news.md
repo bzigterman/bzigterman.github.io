@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:35 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 05:22 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
  <p class="updated_time"> 05:12 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 05:11 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
- <p class="updated_time"> 05:08 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
  <p class="updated_time"> 05:06 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 05:02 PM CT, Nov. 26 </p> 
@@ -23,12 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/business/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 04:54 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from S Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
- <p class="updated_time"> 04:15 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
  <p class="updated_time"> 04:09 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059399463/who-is-trying-to-start-outlining-international-rules-for-covid-outbreaks">WHO is trying to start outlining international rules for COVID outbreaks</a> NPR: Representatives from 194 countries will start negotiations on a possible new pandemic treaty. Officials say a lack of clarity on countries' obligations has hindered the response to COVID. 
- <p class="updated_time"> 04:08 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 03:49 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59439533?at_medium=RSS&at_campaign=KARANGA">Channel disaster: Kurdish woman is first victim identified</a> BBC: Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq. 
  <p class="updated_time"> 03:47 PM CT, Nov. 26 </p> 
@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">U.S. will begin new travel restrictions amid concerns over a new coronavirus variant</a> NPR: The policy will affect South Africa and seven other countries, senior administration officials said. The World Health Organization expressed concern about the new variant — called omicron. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">What to know about omicron, the new COVID variant </a> NPR: The World Health Organization deemed it a variant of concern, and the U.S. is banning travel from parts of Africa where it's spreading. Here's what scientists know and what they're trying to learn. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:01 PM CT, Nov. 26 </p> 
@@ -262,6 +262,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/cartoons/2021/11/24/the-nations-cartoonists-on-the-week-in-politics-000268">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 08:52 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html">Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules</a> CNN: Katherine Rickfelder, a Florida public school teacher, is one of nearly 30,000 people who have seen their student debt balance reduced to zero since the federal government announced significant changes to a popular loan forgiveness program last month. 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
- <p class="updated_time"> 04:06 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/ian-fishback-dead.html">Maj. Ian Fishback, Who Exposed Abuse of Detainees, Dies at 42</a> NYT: His letter to two senators about beatings by U.S. troops in Iraq led to legislation in 2005 prohibiting extreme mistreatment of military prisoners. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
  <p class="updated_time"> 02:50 PM CT, Nov. 23 </p> 
