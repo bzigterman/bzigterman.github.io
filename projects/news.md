@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
- <p class="updated_time"> 02:03 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks with UK in protest at letter published by PM Boris Johnson on the migrant crisis. 
  <p class="updated_time"> 01:43 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
