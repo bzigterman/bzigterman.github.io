@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:36 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 08:16 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 08:15 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
+ <p class="updated_time"> 08:01 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 07:32 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Dozens killed in Siberia accident</a> BBC: Fifty-one deaths have been confirmed in Russia's worst mining disaster in a decade. 
+ <p class="updated_time"> 07:13 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59432579?at_medium=RSS&at_campaign=KARANGA">New Covid variant: Pride and punishment follows South Africa discovery</a> BBC: South Africans feel they are paying the price for their ability to monitor new Covid variants. 
  <p class="updated_time"> 06:40 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
- <p class="updated_time"> 06:39 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
  <p class="updated_time"> 06:38 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
- <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
@@ -143,16 +145,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
- <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements. 
- <p class="updated_time"> 05:25 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59356176?at_medium=RSS&at_campaign=KARANGA">What I learned eating at 8,000 Chinese restaurants</a> BBC: David R Chan's decades of dining at 8,000 Chinese eateries has taught him about America and himself. 
  <p class="updated_time"> 04:43 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-government.html">Germany Meets Its Post-Merkel Government</a> NYT: Olaf Scholz will be the first center-left chancellor in 16 years. But how much change he can deliver as the leader of a three-way coalition is unclear. 
  <p class="updated_time"> 03:59 PM CT, Nov. 24 </p> 
@@ -300,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
- <p class="updated_time"> 03:30 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/airlines-violence-garland-federal-prosecutors/index.html">AG Garland directs federal prosecutors to prioritize cases involving violence on flights</a> CNN: Attorney General Merrick Garland on Wednesday directed federal prosecutors to prioritize cases involving violence on flights amid a sharp increase in assaults and disruptions of airline workers. 
  <p class="updated_time"> 03:16 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041704/germanys-post-angela-merkel-government-has-agreed-on-a-new-direction-for-the-cou">Germany's post-Angela Merkel government has agreed on a new direction for the country</a> NPR: Leaders of the three parties set to form Germany's new government have announced a coalition deal to make Social Democrat Olaf Scholz the country's next chancellor. 
  <p class="updated_time"> 03:10 PM CT, Nov. 24 </p> 
