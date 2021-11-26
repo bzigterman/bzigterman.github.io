@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 04:11 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
- <p class="updated_time"> 03:58 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">EU wants to stop flights from southern Africa over variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
