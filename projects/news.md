@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:16 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an ancient romantic Japanese classic sold millions of copies. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
- <p class="updated_time"> 10:43 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 10:34 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 10:27 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
+ <p class="updated_time"> 06:21 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Over Channel Crossings Deepens</a> NYT: The French responded angrily to Boris Johnson’s suggestion that France take back migrants who reach Britain, and rescinded an invitation for a top British official to discuss the crisis. 
  <p class="updated_time"> 05:46 AM CT, Nov. 26 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
- <p class="updated_time"> 03:59 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">The EU wants to stop flights from southern Africa over a new COVID variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
@@ -98,7 +100,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">New coronavirus variant in South Africa raises concern</a> NPR: The World Health Organization is holding an emergency meeting on Friday to review the variant. While it's too soon to tell exactly how the new variant functions, virologists are rushing to learn more. 
+ <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">A new coronavirus variant leads to global concern, travel bans and market jitters</a> NPR: Stock markets around the world tumbled on concerns about the new variant. While it's too soon to tell exactly how the variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
 
 
 </details>
