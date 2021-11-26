@@ -206,7 +206,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:32 PM CT, Nov. 25 </p> 
+ <p class="updated_time"> 08:52 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
