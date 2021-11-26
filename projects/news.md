@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 08:50 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
  <p class="updated_time"> 08:44 AM CT, Nov. 26 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 12:20 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59423297?at_medium=RSS&at_campaign=KARANGA">Macy's Thanksgiving Parade: Baby Yoda and Snoopy delight crowds</a> BBC: Thousands turn out to enjoy the annual parade with millions more watching on television. 
- <p class="updated_time"> 12:16 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Vows to Lead Troops as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
  <p class="updated_time"> 11:33 AM CT, Nov. 25 </p> 
