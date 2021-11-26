@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:57 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
+ <p class="updated_time"> 07:22 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Dozens killed in Siberia accident</a> BBC: Fifty-one deaths have been confirmed in Russia's worst mining disaster in a decade. 
+ <p class="updated_time"> 07:13 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 06:40 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
  <p class="updated_time"> 06:39 AM CT, Nov. 26 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
- <p class="updated_time"> 06:32 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron attacks Johnson in boat crossings row</a> BBC: The French President accuses the PM of not being "serious" over call for France to take back migrants. 
  <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
- <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 03:37 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">EU wants to stop flights from southern Africa over variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">US lawmakers meet with Taiwan president in surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
  <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
+ <p class="updated_time"> 02:10 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from southern Africa, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious, while a case was confirmed in Belgium. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
- <p class="updated_time"> 12:59 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
- <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Russian coal mine: Death toll soars to 52 after accident - reports</a> BBC: A search for survivors of a Siberian mine accident turns to tragedy, with rescuers among the dead. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
@@ -204,12 +204,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Don’t answer your phone’: Health experts feared Cuomo’s intervention at pandemic’s height</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/renters-rent-control-523351">Renters strike back as cities cap price hikes by landlords</a> Politico: The revival of rent control policies long derided by economists, including one of President Joe Biden’s top advisers, comes as officials scramble to contain rising prices across a range of goods and services. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
  <p class="updated_time"> 06:14 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317198/what-to-expect-during-the-iran-u-s-nuclear-deal-negotiations">What to expect during the Iran-U.S. nuclear deal negotiations</a> NPR: NPR's Steve Inskeep speaks with U.S. Special Envoy for Iran Rob Malley about the next round of talks to revive the Iran nuclear deal. 
+ <p class="updated_time"> 05:11 AM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/trump-2022-candidates-north-carolina-alabama-georgia/index.html">Trump pulls strings behind the scenes to help loyal 2022 candidates </a> CNN: Former President Donald Trump has taken his involvement in 2022 Republican primaries to a new level as he works to permanently mold the GOP in his image. Beyond Trump's public efforts to oust Republican incumbents he considers disloyal, he has quietly tried to clear potential GOP threats to his endorsed candidates and encouraged others to run against his enemies. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -244,10 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
- <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/25/biden-colombia-florida-523375">Biden Colombia plan stirs up Florida hornets nest</a> Politico: A plan to remove the terrorist designation from the guerrilla group FARC is angering some top Democrats. 
- <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343">Weed lounges are coming to a city near you</a> Politico: Las Vegas hopes to become a pioneer in creating public consumption spaces. 
  <p class="updated_time"> 05:24 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/thanksgiving-price-inflation-farmers/index.html">This pricey Thanksgiving is costing farmers, too</a> CNN: Jim Jones is facing a supply chain squeeze on his farm outside Raleigh, North Carolina, as skyrocketing costs slice through his profits. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
@@ -276,16 +282,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-thanksgiving-nantucket.html">President Biden Arrives in Nantucket for Thanksgiving </a> NYT: President Biden and his family are spending Thanksgiving on Nantucket, renewing a family tradition that dates back to 1975. 
- <p class="updated_time"> 05:27 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/justice-department-lawyers-unruly-passengers-holiday-523361">Biden’s Justice Department puts unruly airline passengers on notice</a> Politico: “The unacceptable disruptive behavior that we’re seeing is a serious safety threat to flights,” said FAA administrator Steve Dickson. 
  <p class="updated_time"> 05:24 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/russia-push-new-weapons-ukraine-523362">Russian buildup sparks new push to send weapons to Ukraine</a> Politico: A new lethal weapons package for Kyiv is up for debate in Congress, but NDAA delays could scuttle the $50 million boost in funding. 
  <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
- <p class="updated_time"> 04:00 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/thanksgiving-turkey-inflation-523330">How your Thanksgiving turkey became a proxy in the latest political war</a> Politico: Food prices are up. Republicans are on the attack. And the White House is scrambling to push back ahead of Thanksgiving. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1058973471/despite-voter-approved-anti-gerrymandering-reforms-ohio-gop-still-draws-lopsided">Despite voter-approved anti-gerrymandering reforms, Ohio GOP still draws lopsided map</a> NPR: Ohio's new congressional map favors Republicans 13 to 2. Voting rights advocates say it's a violation of redistricting rules voters put in place in 2018. One group has already filed a legal challenge. 
  <p class="updated_time"> 02:38 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
- <p class="updated_time"> 02:07 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/south-fork-wind-farm-approval-climate/index.html">Federal officials green-light wind farm off coast of Rhode Island in quest to expand renewable energy</a> CNN: Federal officials are green-lighting plans for a wind farm off the Rhode Island coast as the Biden administration aims to grow renewable energy capacity. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 02:59 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/al-gore-trump-election-capitol-riot/index.html">Al Gore 'was a man' about his election loss, unlike Trump, federal judge says</a> CNN: A federal judge took aim at former President Donald Trump on Monday for lying about voter fraud during the 2020 presidential election, saying that former Vice President Al Gore had a better standing to challenge the 2000 election results but that he was "a man" and walked away. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
