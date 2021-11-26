@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 11:17 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
- <p class="updated_time"> 10:51 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 10:10 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
  <p class="updated_time"> 09:44 PM CT, Nov. 25 </p> 
