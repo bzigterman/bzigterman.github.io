@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
  <p class="updated_time"> 05:02 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: The country’s government is considering new public-health restrictions to contain a fast-spreading new variant, prompting the WHO to call an urgent meeting of experts to discuss whether to declare the new strain a ‘variant of concern.’ 
+ <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: Scientists say the new variant has a high number of mutations that may make it more transmissible and allow it to evade some of the immune responses triggered by previous infection or vaccination. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
