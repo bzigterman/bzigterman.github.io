@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:03 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 10:03 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries are already imposing restrictions on travel to and from the region. 
- <p class="updated_time"> 09:37 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU latest to call for border closures over new variant fears</a> BBC: EU calls for flight ban as health officials hold urgent meeting over new variant in southern Africa. 
- <p class="updated_time"> 09:35 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraqis-return-from-belarus-but-some-say-they-will-try-again-to-reach-the-eu.html">Iraqis Return from Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
+ <p class="updated_time"> 10:43 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
+ <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries imposed restrictions on travel to and from the region. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The WHO holds an urgent meeting over a Covid variant in southern Africa, as EU calls for flight ban. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
@@ -23,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
- <p class="updated_time"> 07:32 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis</a> BBC: The French president accuses the UK prime minister of not being serious as diplomatic row escalates. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
@@ -121,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059093325/sudans-civilian-prime-minister-has-been-reinstated-but-the-protests-continue">Sudan's civilian prime minister has been reinstated, but the protests aren't over yet</a> NPR: Sudan's civilian prime minister has been reinstated after having been removed from power by the country's military a month ago. But protesters aren't satisfied with the deal that was made. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
- <p class="updated_time"> 12:33 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 12:20 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59423297?at_medium=RSS&at_campaign=KARANGA">Macy's Thanksgiving Parade: Baby Yoda and Snoopy delight crowds</a> BBC: Thousands turn out to enjoy the annual parade with millions more watching on television. 
  <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
@@ -191,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
- <p class="updated_time"> 04:56 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/united-states-death-toll-covid.html">U.S. Has Lost More Lives to Covid This Year Than Last</a> NYT: The higher death toll is attributed to lower-than-needed vaccination rates and the relaxation of everyday precautions amid a rise of the highly contagious Delta variant. 
 
 
 </details>
@@ -202,6 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
+ <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
+ <p class="updated_time"> 10:29 AM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 09:40 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/covid-new-variant-southern-africa-523382">World takes action as new variant emerges in southern Africa</a> Politico: Medical experts warned against any overreaction before all elements were clear but nations who acted said their concerns were justified. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
@@ -246,10 +254,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank">How the U.S. became a 'backsliding democracy,' according to a European think tank</a> NPR: NPR's Audie Cornish talks with Annika Silva-Leander, the lead writer of the International IDEA's report that designated the U.S as a "backsliding democracy." 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
- <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
- <p class="updated_time"> 11:20 AM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Fight Covid Mandates, Then Blame Biden as Cases Rise</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:40 AM CT, Nov. 25 </p> 
@@ -378,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
- <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/trump-2024-map-523230">Trump poll tests his 2024 comeback map</a> Politico: The former president is targeting five swing states that are pivotal to his hopes of winning back the White House. 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
