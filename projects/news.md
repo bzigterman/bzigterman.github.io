@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new variant in southern Africa</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
+ <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
+ <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Over Channel Crossings Deepens</a> NYT: The French responded angrily to Boris Johnson’s suggestion that France take back migrants who reach Britain, and rescinded an invitation for a top British official to discuss the crisis. 
+ <p class="updated_time"> 06:16 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Countries shut borders over new South Africa variant</a> BBC: Nations ban flights as health officials hold an urgent meeting over a new variant in southern Africa. 
+ <p class="updated_time"> 06:02 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
+ <p class="updated_time"> 06:01 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
+ <p class="updated_time"> 05:58 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron attacks Johnson in boat crossings row</a> BBC: The French President accuses the PM of not being "serious" over call for France to take back migrants. 
  <p class="updated_time"> 05:26 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
- <p class="updated_time"> 05:24 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Macron attacks Johnson in boat crossings row</a> BBC: The French President accuses the PM of not being "serious" over call for France to take back migrants. 
- <p class="updated_time"> 05:11 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries are already imposing restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 05:06 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists will meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries have already imposed restrictions on travel to and from the region. 
+ <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
  <p class="updated_time"> 04:43 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-cases-threaten-progress-pandemic.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
@@ -43,10 +49,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
+ <p class="updated_time"> 12:59 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
- <p class="updated_time"> 12:45 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">New Covid-19 Variant Prompts Wave of Travel Restrictions</a> WSJ: Dozens of countries restricted travel to and from South Africa and neighboring nations, hoping to contain a fast-spreading new variant of the coronavirus that scientists say may be more contagious. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
  <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/japan-approves-extra-defense-spending-and-sets-a-record-11637916622">Japan Approves Extra Defense Spending and Sets a Record</a> WSJ: Japan has gone significantly beyond 1% of GDP in this year’s defense spending, pushing aside a longstanding guideline in response to China’s rapid military expansion and U.S. requests for upgrades. 
  <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
- <p class="updated_time"> 06:44 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59425542?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Why politics is dominating the debate on migrants</a> BBC: UK-French rivalry is making a common solution difficult, says the BBC's Europe Editor Katya Adler. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/stella-creasy-baby.html">British Lawmaker Is Reprimanded for Bringing Her Baby to a Debate</a> NYT: Stella Creasy received a letter of complaint for attending a debate with her infant son in tow. After an outcry, the speaker of the House of Commons said that a committee would review the rules. 
- <p class="updated_time"> 12:49 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
@@ -187,10 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/lithuania-migrants-belarus-middle-east.html">Lithuania Welcomes Belarusians as It Rebuffs Middle Easterners</a> NYT: People fleeing repression in Belarus are processed quickly and given visas. Middle Eastern migrants passing through Belarus to the E.U. face a harsher fate. 
- <p class="updated_time"> 07:06 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/americas/el-salvador-bukele-raids.html">Raids on Independent Groups in El Salvador Raise Fears of Repression</a> NYT: President Nayib Bukele bills himself as a young reformer, but a crackdown on voices outside the government’s control is fueling claims of growing authoritarianism. 
- <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-59394170?at_medium=RSS&at_campaign=KARANGA">Rescuing the Afghanistan girls' football team</a> BBC: The mission to rescue the national Afghan girls' football team from the Taliban. 
 
 
 </details>
@@ -198,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
+ <p class="updated_time"> 06:14 AM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059317198/what-to-expect-during-the-iran-u-s-nuclear-deal-negotiations">What to expect during the Iran-U.S. nuclear deal negotiations</a> NPR: NPR's Steve Inskeep speaks with U.S. Special Envoy for Iran Rob Malley about the next round of talks to revive the Iran nuclear deal. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
@@ -328,10 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 04:11 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058787777/the-biden-administrations-plan-to-tap-into-oil-reserves-is-drawing-criticism">The Biden administration's plan to tap into oil reserves is drawing criticism </a> NPR: NPR's Rachel Martin talks to economic policy consultant Tony Fratto, who says releasing oil from the strategic petroleum reserve is little more than a "political messaging device." 
- <p class="updated_time"> 04:00 AM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1058739328/biden-hits-a-new-low-in-the-npr-marist-poll-as-inflation-concerns-rise">Biden hits a new low in the NPR/Marist poll as inflation concerns rise</a> NPR: Americans' most pressing economic concern is inflation, and it's contributing to a decline in how they view President Biden. His approval is down to 42%, the survey's lowest since Biden took office. 
  <p class="updated_time"> 07:47 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html">Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices</a> NYT: In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles. 
  <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
@@ -418,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/democrats-social-spending-bill-passes-house-523026">Dems’ $1.7T spending bill clears House, but Senate changes loom</a> Politico: After months of infighting and cost concerns, House Democrats passed their massive social spending bill. Now, it’s the Senate’s turn. 
  <p class="updated_time"> 07:43 AM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/19/mccarthy-delays-dems-vote-victory-lap-495169">McCarthy delays Dems vote, victory lap</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:32 AM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/19/mccarthy-filibusters-biden-dithers-and-fauci-unmasks-495166">POLITICO Playbook: McCarthy filibusters, Biden dithers and Fauci unmasks</a> Politico: And the BBB looks set to pass the House today. 
 
 
 </details>
