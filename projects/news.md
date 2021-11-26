@@ -7,16 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 12:18 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: Variant Alert From South Africa Prompts Rush to Halt Flights</a> NYT: South African scientists meet with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. Several countries impose restrictions on travel to and from South Africa and its neighbors. 
- <p class="updated_time"> 11:42 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 12:18 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/covid-vaccine-boosters-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
+ <p class="updated_time"> 12:17 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">New Omicron variant is a concern, WHO says</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
+ <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
+ <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The EU imposes a flight ban on southern Africa as the new variant is classified as being "of concern". 
+ <p class="updated_time"> 12:09 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: South African scientists were meeting with W.H.O. experts on Friday to discuss a concerning new coronavirus variant. An increasing number of countries imposed restrictions on travel to and from the region. 
- <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
+ <p class="updated_time"> 11:57 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
+ <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 11:38 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-south-africa-botswana-hong-kong-israel.html">What Scientists Know About the New Covid Variant, B.1.1.529</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
- <p class="updated_time"> 11:16 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an ancient romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
  <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428712?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia conflict: Zelensky alleges coup plan involving Russians</a> BBC: He says an alleged plan to overthrow his government comes amid threats of a Russian invasion. 
- <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The WHO holds an urgent meeting over a Covid variant in southern Africa, as EU calls for flight ban. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
@@ -181,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 11:45 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-foreign-policy.html">New German Chancellor Faces a Slate of Foreign Policy Crises</a> NYT: Olaf Scholz will be confronted with an extraordinary array of troubles on the international stage that will test his mettle quickly. 
- <p class="updated_time"> 10:50 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/23/world/new-zealand-travel.html">New Zealand Plans to Reopen to International Visitors</a> NYT: Emerging from one of the world’s longest lockdowns, the country plans to admit most fully vaccinated travelers by the end of April without a mandatory hotel quarantine. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
  <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
@@ -202,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
@@ -386,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
@@ -416,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/19/social-spending-bill-senate-523050">What's next for Biden's social spending bill: The Senate struggle</a> Politico: Chuck Schumer wants to pass the legislation out of the upper chamber before Christmas. 
  <p class="updated_time"> 01:54 PM CT, Nov. 19 </p> 
  <a href="https://www.politico.com/news/2021/11/19/bill-hagerty-foreign-policy-522992">Bill Hagerty embraces diplomatic roots: ‘I’m gonna be here longer than Joe Biden’</a> Politico: Most freshmen lawmakers shun foreign policy. Not Hagerty. 
- <p class="updated_time"> 12:05 PM CT, Nov. 19 </p> 
- <a href="https://www.politico.com/news/2021/11/19/senate-defense-bill-thanksgiving-523042">Senate punts defense bill until after Thanksgiving as debate hits roadblock</a> Politico: Pushing back votes on the defense bill further narrows the window for leaders of the Senate and House Armed Services Committees to iron out a compromise. 
 
 
 </details>
