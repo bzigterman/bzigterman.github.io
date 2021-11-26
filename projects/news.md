@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">US lawmakers meet with Taiwan president in surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
  <p class="updated_time"> 02:50 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks in protest at a letter published by PM Boris Johnson. 
+ <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">Thai chain's cannabis pizza is trendy but won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:09 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
@@ -31,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Man claiming to know athlete says WTA head ignored mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 10:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59426057?at_medium=RSS&at_campaign=KARANGA">Australia missing campers: Pilot accused of murders remanded in custody</a> BBC: After a dramatic arrest, Greg Lynn is charged with killing a pair who disappeared 20 months ago. 
+ <p class="updated_time"> 09:50 PM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/japan-approves-extra-defense-spending-and-sets-a-record-11637916622">Japan Approves Extra Defense Spending and Sets a Record</a> WSJ: Japan has gone significantly beyond 1% of GDP in this year’s defense spending, pushing aside a longstanding guideline in response to China’s rapid military expansion and U.S. requests for upgrades. 
  <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
  <p class="updated_time"> 06:44 PM CT, Nov. 25 </p> 
@@ -139,12 +145,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/24/1059041767/sudans-military-reinstate-prime-minister-as-protesters-prepare-for-a-demonstrati">Sudan's military reinstate prime minister as protesters prepare for a demonstration</a> NPR: One month after the military removed Sudan's civilian prime minister from power, he has been reinstalled in his position. 
  <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
  <a href="https://www.npr.org/2021/11/24/1059041760/quebec-maple-syrup-producers-to-tap-into-maple-syrup-reserves-after-poor-harvest">Quebec Maple Syrup Producers to tap into maple syrup reserves after poor harvest</a> NPR: Due to a poor spring harvest, the Quebec Maple Syrup Producers announced they'd be tapping into nearly 50 million pounds of its maple syrup strategic reserves in order to keep up with the demand. 
- <p class="updated_time"> 03:35 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041732/lin-manuel-miranda-and-disney-filmmakers-traveled-colombia-to-prepare-for-encant">Lin Manuel Miranda and Disney filmmakers traveled Colombia to prepare for 'Encanto'</a> NPR: Lin Manual Miranda, who wrote songs for the Disney's new movie Encanto, traveled to Colombia with crew members to learn about the country's history. Encanto celebrates the country's culture. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
- <p class="updated_time"> 03:26 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041718/nasa-launches-1st-ever-practice-mission-to-defend-earth-from-asteroids">NASA launches 1st-ever practice mission to defend Earth from asteroids</a> NPR: NASA is launching its first-ever practice mission to redirect an asteroid. The launch is part of a planetary defense strategy if an object ever threatens Earth in the future. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
