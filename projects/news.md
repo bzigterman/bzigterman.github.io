@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 08:02 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the strain first detected in the region presents a higher risk of a person falling ill with Covid-19 for a second time. 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
@@ -108,7 +108,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">A new coronavirus variant leads to global concern, travel bans and market jitters</a> NPR: Stock markets around the world tumbled on concerns about the new variant. While it's too soon to tell exactly how the variant functions, virologists are rushing to learn more. 
+ <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">Stocks and oil prices drop as the world reacts to new coronavirus variant omicron</a> NPR: Stock markets around the world tumbled on concerns about the new variant. While it's too soon to tell exactly how the variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
