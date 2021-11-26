@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
+ <p class="updated_time"> 01:41 AM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks with UK in protest at letter published by PM Boris Johnson on the migrant crisis. 
  <p class="updated_time"> 01:34 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
- <p class="updated_time"> 01:30 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&at_campaign=KARANGA">France scraps UK talks over Johnson migrants letter</a> BBC: France cancels high-level talks with UK in protest at letter published by PM Boris Johnson on the migrant crisis. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59425542?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Why politics is dominating the debate on migrants</a> BBC: UK-French rivalry is making a common solution difficult, says the BBC's Europe Editor Katya Adler. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
- <p class="updated_time"> 06:17 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/59345925?at_medium=RSS&at_campaign=KARANGA">Tim Paine: Former Australia captain to take immediate break from the game</a> BBC: Former Australia Test captain Tim Paine will take a break from cricket "for the foreseeable future". 
  <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
  <p class="updated_time"> 06:01 PM CT, Nov. 25 </p> 
