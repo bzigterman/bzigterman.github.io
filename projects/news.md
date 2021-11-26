@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
+ <p class="updated_time"> 09:54 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59426312?at_medium=RSS&at_campaign=KARANGA">China man claiming to know Peng Shuai says WTA head ignored her mail</a> BBC: The mail, tweeted out by a man claiming to be her associate, told the WTA to 'not hype up personal affairs.' 
  <p class="updated_time"> 09:44 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59423245?at_medium=RSS&at_campaign=KARANGA">UK PM calls on France to take back migrants</a> BBC: A returns agreement would have an "immediate" impact on the number of crossings, Boris Johnson says. 
  <p class="updated_time"> 09:25 PM CT, Nov. 25 </p> 
@@ -29,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
+ <p class="updated_time"> 05:02 PM CT, Nov. 25 </p> 
+ <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: The country’s government is considering new public-health restrictions to contain a fast-spreading new variant, prompting the WHO to call an urgent meeting of experts to discuss whether to declare the new strain a ‘variant of concern.’ 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
@@ -85,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turks-switch-savings-to-u-s-dollars-as-local-currency-collapses-11637859160">Turks Abandon the Lira for Dollars as Currency Crisis Deepens</a> WSJ: Riot police lined the streets in parts of Istanbul as the country braced for a third night of scattered protests over President Erdogan’s inability to stop a precipitous currency decline. 
  <p class="updated_time"> 08:12 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-covid-19-surge-presents-hard-choices-as-winter-approaches-11637850332">Europe's Covid-19 Surge Presents Hard Choices as Winter Nears</a> WSJ: As infections and deaths in the EU eclipse those in the U.S., the region is confronting an ugly reality: Taming the Delta variant is proving harder than a virus-weary continent had hoped. 
- <p class="updated_time"> 07:42 AM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/south-africa-raises-alarm-over-new-coronavirus-variant-11637862061">South Africa Raises Alarm Over New Coronavirus Variant</a> WSJ: The country’s government is considering new public-health restrictions to contain a fast-spreading new variant, prompting the WHO to call an urgent meeting of experts to discuss whether to declare the new strain a ‘variant of concern.’ 
  <p class="updated_time"> 07:26 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59417409?at_medium=RSS&at_campaign=KARANGA">UAE general accused of torture elected Interpol president</a> BBC: Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces. 
  <p class="updated_time"> 06:50 AM CT, Nov. 25 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghan-teachers-defy-taliban-by-secretly-schooling-teenage-girls-11637862558">Afghan Teachers Defy Taliban by Secretly Schooling Teenage Girls</a> WSJ: Three months after the Taliban seized control of Afghanistan, girls haven’t been allowed in public school beyond sixth grade in Kabul and other cities. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
- <p class="updated_time"> 05:27 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Discontent has long simmered over a perceived unequal distribution of resources and the central government’s decision to switch allegiances to Beijing from Taipei. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59412299?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: Missing India police officer reappears after months</a> BBC: Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
- <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-59412139?at_medium=RSS&at_campaign=KARANGA">US restricts trade with a dozen more Chinese technology firms</a> BBC: The move comes as tensions grow between the US and China over the status of Taiwan and trade issues. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
@@ -197,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/23/world/americas/biden-vaccine-mandate-companies-covid.html">The U.S. Asks Court to Unblock Biden Vaccine Mandate for Big Companies</a> NYT: The ruling being appealed was issued by a three-judge panel on the Court of Appeals for the Fifth Circuit, in New Orleans. 
  <p class="updated_time"> 09:17 AM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/kashmiri-activist-india-antiterror.html">India's Arrest of Kashmiri Activist, Khurram Parvez, Is Criticized</a> NYT: Khurram Parvez’s detention has deepened concerns that the Modi administration is abusing the law to squelch dissent. 
- <p class="updated_time"> 03:08 AM CT, Nov. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59381294?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 100 days of Taliban rule</a> BBC: BBC reporter Yalda Hakim visits Kabul to look at four key areas of concern in Afghanistan. 
 
 
 </details>
