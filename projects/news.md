@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:05 AM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
@@ -84,7 +86,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:33 AM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 11:29 AM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: Whose lives were lost off Calais?</a> BBC: At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: Scramble to identify dead off Calais</a> BBC: At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities. 
  <p class="updated_time"> 11:19 AM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/france-holds-crisis-talks-after-27-migrants-die-crossing-english-channel-11637846122">France, U.K. Grapple With Migrant Boat Crossings After 27 Drown</a> WSJ: After France tried to stop migrants from entering the U.K. via the tunnel under the English Channel, they took a more dangerous route. 
  <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-public-transportation-vaccine.html">Vaccine Checks Begin on German Trains, Trams and Buses</a> NYT: Passengers will have to show proof of vaccination, recovery from Covid or a negative daily test under a system of random checks. 
  <p class="updated_time"> 07:04 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/angela-merkel-future.html">What's Next for Angela Merkel?</a> NYT: After 16 years as chancellor, there is no shortage of speculation about what her second act will be. 
- <p class="updated_time"> 06:32 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/australia/defamation-lawsuit.html">Australian Minister Wins Defamation Case Over Tweet</a> NYT: A government minister sued and won over a brief Twitter post that called him a “rape apologist.” A journalist sees “asymmetric warfare.” 
  <p class="updated_time"> 04:05 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/europe/who-europe-covid-death-toll.html">Europe’s Covid Death Toll Could Exceed 2 Million by Spring</a> NYT: Covid is now the leading cause of death in Europe, the World Health Organization said in a statement, with almost 4,200 new deaths a day, double the number at the end of September. 
  <p class="updated_time"> 03:23 AM CT, Nov. 24 </p> 
