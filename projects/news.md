@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:52 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can limit a vaccine’s effectiveness. Hours later Britain banned flights from six countries in the region. 
+ <p class="updated_time"> 07:25 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&at_campaign=KARANGA">The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam</a> BBC: Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America. 
+ <p class="updated_time"> 06:44 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59425542?at_medium=RSS&at_campaign=KARANGA">Channel migrants: Why politics is dominating the debate on migrants</a> BBC: UK-French rivalry is making a common solution difficult, says the BBC's Europe Editor Katya Adler. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59419672?at_medium=RSS&at_campaign=KARANGA">'I don't need a new TV, but I'll probably get one'</a> BBC: Black Friday is back and Americans, flush with Covid cash, are going out to spend. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
@@ -23,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 04:22 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421319?at_medium=RSS&at_campaign=KARANGA">Death toll soars to 52 in Russian coal mine accident - reports</a> BBC: A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead. 
- <p class="updated_time"> 03:58 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: The density of mutations raises concerns. While it’s too early to say, new variants can pose a threat to progress or limit a vaccine’s effectiveness. 
  <p class="updated_time"> 03:54 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
@@ -107,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 09:42 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-59412139?at_medium=RSS&at_campaign=KARANGA">US restricts trade with a dozen more Chinese technology firms</a> BBC: The move comes as tensions grow between the US and China over the status of Taiwan and trade issues. 
- <p class="updated_time"> 07:52 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59385194?at_medium=RSS&at_campaign=KARANGA">Kavala: The case that set Turkey on collision course with the West</a> BBC: Osman Kavala has not been convicted but his detention has set Turkey's leader on a collision course. 
  <p class="updated_time"> 07:11 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59398367?at_medium=RSS&at_campaign=KARANGA">Tripura: Fear and hope after anti-Muslim violence</a> BBC: Weeks after mosques and Muslim properties were attacked, life is slowly getting back to normal in Tripura. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 09:00 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/arts/music/accordion-repair-francisco-luis-ramirez.html">He’s the Brusque Mr. Fix-It for Mexico City’s Accordions</a> NYT: For 50 years, Francisco Luis Ramírez has been the go-to guy for instrument repairs in a nation that reveres the accordion. Now it’s a family business. 
- <p class="updated_time"> 08:49 AM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59405846?at_medium=RSS&at_campaign=KARANGA">Germany: African diaspora with 'a voice' in politics</a> BBC: How can the "voice" of African diaspora help build relations between Germany and Africa? 
  <p class="updated_time"> 08:42 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/23/world/asia/immigration-pandemic-labor-shortages.html">Contending With the Pandemic, Wealthy Nations Wage Global Battle for Migrants</a> NYT: Covid kept many people in place. Now several developed countries, facing aging labor forces and worker shortages, are racing to recruit, train and integrate foreigners. 
  <p class="updated_time"> 08:14 AM CT, Nov. 24 </p> 
@@ -204,6 +206,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
+ <p class="updated_time"> 07:15 PM CT, Nov. 25 </p> 
+ <a href="https://www.cnn.com/2021/11/25/politics/biden-thanksgiving-nantucket-troops/index.html">Bidens greet troops at US Coast Guard Station Brant Point on Thanksgiving Day </a> CNN: President Joe Biden and first lady Jill Biden stopped by the US Coast Guard Station Brant Point Thursday, meeting with US troops stationed there as well as troops around the world virtually as they expressed their gratitude on the Thanksgiving holiday. 
  <p class="updated_time"> 05:40 PM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262052/a-u-s-weapons-sale-is-raising-doubts-about-bidens-promise-to-help-end-war-in-yem">A U.S. weapons sale is raising doubts about Biden's promise to help end war in Yemen</a> NPR: The Biden administration has promised to help end the war in Yemen, but it continues to approve weapons sales to the Saudi government that is blamed for prolonging the war. 
  <p class="updated_time"> 12:14 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
- <p class="updated_time"> 11:59 AM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/biden-thanksgiving-nantucket-troops/index.html">Bidens greet troops at US Coast Guard Station Brant Point on Thanksgiving Day </a> CNN: President Joe Biden and first lady Jill Biden stopped by the US Coast Guard Station Brant Point Thursday, meeting with US troops stationed there as well as troops around the world virtually as they expressed their gratitude on the Thanksgiving holiday. 
  <p class="updated_time"> 11:20 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
@@ -228,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
- <p class="updated_time"> 09:43 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
