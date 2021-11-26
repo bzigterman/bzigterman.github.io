@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 PM CT, Nov. 26 </p> 
+ <a href="https://www.npr.org/2021/11/26/1059341809/leicester-england-archaeologists-ancient-roman-mosaic">First they found a dead king's body. Now they've uncovered an ancient mosaic</a> NPR: A rare Roman mosaic is the latest discovery from a crack team of British archaeologists. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from S Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
+ <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
+ <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">U.S. will begin new travel restrictions amid concerns over a new coronavirus variant</a> NPR: The policy will affect South Africa and seven other countries, senior administration officials said. The World Health Organization expressed concern about the new variant — called omicron. 
- <p class="updated_time"> 01:35 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/live/2021/11/26/world/covid-vaccine-boosters-mandates">Covid Live Updates: W.H.O. Says New Variant in South Africa Is ‘of Concern’</a> NYT: Several countries, including the United States, announced restrictions on travelers from southern Africa in an effort to contain the new Omicron variant, which has mutations that may make reinfection more likely. 
  <p class="updated_time"> 01:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 01:24 PM CT, Nov. 26 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/covid-variant-travel-restrictions.html">Variant Detected in South Africa Prompts Travel Restrictions </a> NYT: The organization named the new variant with the Greek letter Omicron. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
- <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Coronavirus: EU to block flights after Belgium new variant case</a> BBC: The EU imposes a flight ban on southern Africa as the new variant is classified as being "of concern". 
  <p class="updated_time"> 11:57 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
@@ -45,12 +49,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the Omicron strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
- <p class="updated_time"> 08:02 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 06:21 AM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
- <p class="updated_time"> 06:20 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Over Channel Crossings Deepens</a> NYT: The French responded angrily to Boris Johnson’s suggestion that France take back migrants who reach Britain, and rescinded an invitation for a top British official to discuss the crisis. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements. 
  <p class="updated_time"> 03:59 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/americas/violence-against-women-covid.html">U.N. Surveys Suggest Violence Against Women Has Intensified in Pandemic</a> NYT: Almost half of the women who were surveyed said that they or a woman they knew had experience violence since the start of the outbreak. 
- <p class="updated_time"> 03:52 PM CT, Nov. 24 </p> 
- <a href="https://www.npr.org/2021/11/24/1059041753/why-sen-rubio-is-stalling-bidens-pick-for-ambassador-to-china">Why Sen. Rubio is stalling Biden's pick for ambassador to China</a> NPR: Florida's Republican Sen. Marco Rubio has placed a hold on President Biden's pick to be the U.S. ambassador to China. Here's what means for U.S. diplomacy. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
@@ -208,12 +208,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
- <p class="updated_time"> 01:31 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/interior-department-federal-review-oil-gas-leasing/index.html">Biden administration calls for hike in federal drilling fees in report that largely sidesteps climate issues</a> CNN: The Department of Interior on Friday released a long-awaited report on oil and gas drilling on federal land that recommends an increase in leasing fees and consideration of climate change in leasing decisions. But the report largely sidesteps climate concerns, and does not recommend a halt to new oil and gas leasing -- a promise President Joe Biden campaigned on. 
+ <p class="updated_time"> 01:57 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 01:15 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/stocks-sink-on-new-covid-variant-dow-loses-950-points-523392">Stocks sink on new Covid variant; Dow loses 950 points</a> Politico: The S&P 500 was down 2.3%, on pace for its worst day since February. 
- <p class="updated_time"> 01:14 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/interior-department-federal-review-oil-gas-leasing/index.html">Interior Department releases long-awaited review of federal oil and gas leasing program</a> CNN: The Department of Interior on Friday released a long-awaited report on oil and gas drilling on federal land that recommends an increase in leasing fees and consideration of climate change in leasing decisions. But the report largely sidesteps climate concerns, and does not recommend a halt to new oil and gas leasing -- a promise President Joe Biden campaigned on. 
  <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
