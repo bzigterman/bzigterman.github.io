@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
+ <p class="updated_time"> 09:13 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did Omicron, the New Covid-19 Variant, Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
  <p class="updated_time"> 08:56 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">At least 2 people in the U.K. have the omicron variant, health secretary says</a> NPR: The cases involve travel to southern Africa, where the latest COVID variant of concern was first identified, the British health secretary said. No cases have been identified in the U.S. so far. 
  <p class="updated_time"> 08:36 AM CT, Nov. 27 </p> 
@@ -34,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:10 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian nations expand booster shots, with an eye on Europe’s surge.</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
+ <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian Nations Expand Booster Shots, With an Eye on Europe’s Surge</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
@@ -205,8 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/americas/violence-against-women-covid.html">U.N. Surveys Suggest Violence Against Women Has Intensified in Pandemic</a> NYT: Almost half of the women who were surveyed said that they or a woman they knew had experience violence since the start of the outbreak. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
- <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
 
 
 </details>
@@ -216,6 +218,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 07:59 AM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/27/politics/joe-biden-nantucket-covid-19/index.html">Bidens aim for sense of normalcy as nerves grow over worrying new virus variant</a> CNN: President Joe Biden and first lady Jill Biden descended on the island of Nantucket this week looking to preserve the sense of normalcy that the nation was so looking forward to over this holiday season. 
  <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
- <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/politics/steve-bannon-congress-indict.html">Steve Bannon and a Cautionary Tale on Congressional Power</a> NYT: The actions of the House Committee on Un-American Activities show how Congress’s power to hold witnesses in contempt is a tool prone to abuse. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
