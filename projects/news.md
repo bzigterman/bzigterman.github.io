@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:02 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
  <p class="updated_time"> 08:54 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/asia/solomon-islands-protests-bodies.html">3 Bodies Found May Be Tied to Protests in Solomon Islands</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
+ <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">3 Bodies Found May Be Tied to Protests in Solomon Islands</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
