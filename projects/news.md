@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
+ <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/australia/thanksgiving-after-lockdowns.html">Giving Thanks in Australia</a> NYT: It’s an odd affair outside America, but maybe the holiday will inspire more of us to pause and appreciate the gifts we’ve been given. 
+ <p class="updated_time"> 07:50 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59440642?at_medium=RSS&at_campaign=KARANGA">Musical theatre icon Stephen Sondheim dies at 91</a> BBC: The US composer and lyricist reshaped America's musical theatre in a career spanning over 60 years. 
  <p class="updated_time"> 06:59 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59428011?at_medium=RSS&at_campaign=KARANGA">NFHS: Does India really have more women than men?</a> BBC: An Indian government survey says so - but the numbers don't add up. 
  <p class="updated_time"> 06:56 PM CT, Nov. 26 </p> 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 05:22 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
- <p class="updated_time"> 05:12 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 05:02 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 05:01 PM CT, Nov. 26 </p> 
@@ -78,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:01 PM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">WHO Identifies New Covid-19 'Variant of Concern' as Strain Stirs Fears</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the Omicron strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
+ <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">Omicron Identified as 'Variant of Concern'</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the new strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/france-italy-sign-pact-seeking-more-influence-in-europe-11637927053">France, Italy Sign Pact Seeking More Influence in Europe</a> WSJ: Advocates hope the cooperation treaty could shift the balance of power in the European Union, matching Germany’s influence by deepening cooperation between the bloc’s second and third-biggest members. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
- <p class="updated_time"> 11:47 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-59426908?at_medium=RSS&at_campaign=KARANGA">Chinese tech giant Tencent told to suspend new app roll outs</a> BBC: It comes as China's technology industry regulator reviews compliance with new privacy rules. 
  <p class="updated_time"> 10:18 PM CT, Nov. 25 </p> 
  <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: The delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
  <p class="updated_time"> 09:50 PM CT, Nov. 25 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/americas/violence-against-women-covid.html">U.N. Surveys Suggest Violence Against Women Has Intensified in Pandemic</a> NYT: Almost half of the women who were surveyed said that they or a woman they knew had experience violence since the start of the outbreak. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
- <p class="updated_time"> 02:14 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-new-chancellor-olaf-scholz.html">Who Is Olaf Scholz, Germany's Next Chancellor?</a> NYT: Germany’s next chancellor is something of an enigma. He comes to power with a dizzying array of challenges, raising questions about whether he can fill the very big shoes of his predecessor. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
  <p class="updated_time"> 12:52 PM CT, Nov. 24 </p> 
@@ -212,12 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:13 PM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/world-new-covid-threat-omicron-variant-523396">World races to contain new Covid threat, the omicron variant</a> Politico: A World Health Organization panel named the variant “omicron” and classified it as a highly transmissible virus of concern, the same category of the delta variant. 
+ <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 05:59 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
- <p class="updated_time"> 05:12 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 04:29 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 03:54 PM CT, Nov. 26 </p> 
@@ -242,6 +244,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
+ <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
  <p class="updated_time"> 10:29 AM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
- <p class="updated_time"> 07:00 AM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/25/weed-lounges-las-vegas-523343">Weed lounges are coming to a city near you</a> Politico: Las Vegas hopes to become a pioneer in creating public consumption spaces. 
  <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:06 AM CT, Nov. 25 </p> 
@@ -312,10 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 08:45 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
- <p class="updated_time"> 08:34 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/collecting-money-white-nationalists-523373">Collecting $26M award vs. white nationalists may be tough</a> Politico: “I have no assets. I have no property. You can’t get blood from a stone,” one said. 
- <p class="updated_time"> 07:22 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/waukesha-brooks-parade-intent-523371">Legal experts see case for intent in Waukesha parade deaths</a> Politico: No motive has been given for Darrell Brooks Jr., the suspect in the Wisconsin crash Sunday that killed six people. 
  <p class="updated_time"> 07:05 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/first-amendment-praetorian-january-6-subpoena/index.html">What is the 1st Amendment Praetorian, the obscure far-right group subpoenaed by the January 6 committee?</a> CNN: An obscure far-right paramilitary group is in the spotlight this week after getting subpoenaed by the House select committee investigating the January 6 insurrection. 
  <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
@@ -398,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
+ <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 01:00 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/fda-hahn-covid-response-panel-probe-523184">House panel probing Covid response seeks to question former FDA chief</a> Politico: The former commissioner was intimately involved in the FDA’s decision to approve hydroxychloroquine for emergency use during the pandemic. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
