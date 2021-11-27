@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
+ <p class="updated_time"> 10:24 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
+ <p class="updated_time"> 10:19 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 09:02 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
  <p class="updated_time"> 08:54 PM CT, Nov. 26 </p> 
@@ -17,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 08:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
- <p class="updated_time"> 08:20 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
- <p class="updated_time"> 08:17 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
@@ -81,18 +83,24 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">What to know about omicron, the new COVID variant </a> NPR: The World Health Organization deemed it a variant of concern, and the U.S. is banning travel from parts of Africa where it's spreading. Here's what scientists know and what they're trying to learn. 
+ <p class="updated_time"> 01:19 PM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/wto-postpones-first-meeting-in-four-years-amid-covid-variant-concerns-11637967647">WTO Postpones First Meeting in Four Years Amid Variant Concerns</a> WSJ: This is the second time that concerns about Covid-19 have led the group to postpone the meeting, which was initially scheduled for June 2020. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
  <p class="updated_time"> 12:01 PM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/southern-africas-new-covid-19-variant-prompts-wave-of-travel-restrictions-11637920491">Omicron Identified as 'Variant of Concern'</a> WSJ: The U.S. and other countries have restricted travel with southern Africa as initial data indicate the new strain detected in the region presents a higher risk of a person falling ill with Covid-19 a second time. 
  <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
+ <p class="updated_time"> 11:30 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-looks-to-nato-to-deter-russian-aggression-as-ukraine-warns-of-possible-coup-11637962617">U.S. Looks to NATO to Deter Russian Aggression as Ukraine Warns of Possible Coup</a> WSJ: The Biden administration considers options from deterrence to diplomacy and wants a NATO meeting next week to discuss common actions. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
  <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-highlights-risks-of-low-vaccination-rates-in-poor-countries-11637960558">Variant Highlights Risks of Low Vaccination Rates in Poor Countries</a> WSJ: The disparity between wealthier and lower-income countries helped open the door to the rise of this latest variant, public-health officials say. 
  <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428712?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia conflict: Zelensky alleges coup plan involving Russians</a> BBC: He says an alleged plan to overthrow his government comes amid threats of a Russian invasion. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
@@ -137,14 +145,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
- <p class="updated_time"> 12:44 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/france-italy-sign-pact-seeking-more-influence-in-europe-11637927053">France, Italy Sign Pact Seeking More Influence in Europe</a> WSJ: Advocates hope the cooperation treaty could shift the balance of power in the European Union, matching Germany’s influence by deepening cooperation between the bloc’s second and third-biggest members. 
  <p class="updated_time"> 12:35 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/macys-pikachu-parade-new-york-city.html">A Day in the Life of a Macy's Thanksgiving Parade Balloon Handler</a> NYT: Growing up, George Gustines had fond memories of a Sesame Street float and a vague recollection of one with Marvel heroes and villains. This year he wrangled the Pikachu balloon. 
- <p class="updated_time"> 10:18 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/taiwan-hosts-second-u-s-congressional-delegation-in-two-weeks-11637918337">Taiwan Hosts Second U.S. Congressional Delegation in Two Weeks</a> WSJ: The delegation of mostly Democratic lawmakers arrived in Taiwan for a two-day trip, marking the second Congressional visit in roughly two weeks at a time of rising tension between Beijing and Washington over the democratically self-ruled island. 
- <p class="updated_time"> 09:50 PM CT, Nov. 25 </p> 
- <a href="https://www.wsj.com/articles/japan-approves-extra-defense-spending-and-sets-a-record-11637916622">Japan Approves Extra Defense Spending and Sets a Record</a> WSJ: Japan has gone significantly beyond 1% of GDP in this year’s defense spending, pushing aside a longstanding guideline in response to China’s rapid military expansion and U.S. requests for upgrades. 
  <p class="updated_time"> 06:37 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 02:33 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/europe-covid-restrictions.html">Europe Health Authority Calls for Covid Restrictions and More Shots</a> NYT: The European Center for Disease Prevention and Control urged member countries to tighten restrictions and recommended booster shots for all adults. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
