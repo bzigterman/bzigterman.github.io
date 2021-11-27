@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/27/politics/joe-biden-nantucket-covid-19/index.html">Bidens aim for sense of normalcy as nerves grow over worrying new virus variant</a> CNN: President Joe Biden and first lady Jill Biden descended on the island of Nantucket this week looking to preserve the sense of normalcy that the nation was so looking forward to over this holiday season. 
  <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -408,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
