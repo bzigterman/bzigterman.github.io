@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
+ <p class="updated_time"> 03:49 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
+ <p class="updated_time"> 03:48 PM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059539557/what-peng-shuais-disappearance-says-about-beijings-grip-on-power">What Peng Shuai's disappearance says about Beijing's grip on power</a> NPR: NPR's David Folkenflik talks to Yan Bennett, of the Center on Contemporary China at Princeton, about Chinese tennis star Peng Shuai's disappearance. 
+ <p class="updated_time"> 02:41 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The Dutch health authority says the new Omicron variant was "probably found in a number of people". 
+ <p class="updated_time"> 02:34 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
- <p class="updated_time"> 02:14 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
- <p class="updated_time"> 01:49 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html">A Tale of Culinary Reconciliation, Beside the Eiffel Tower</a> NYT: Two decades ago, Spain was the new France, leading gastronomic innovation. Now two iconic chefs have joined forces in Paris. 
  <p class="updated_time"> 12:21 PM CT, Nov. 27 </p> 
@@ -29,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
  <p class="updated_time"> 10:33 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 27 </p> 
+ <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K., Italy</a> WSJ: Britain and Italy became the latest nations to confirm cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 10:04 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 10:01 AM CT, Nov. 27 </p> 
@@ -37,18 +45,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
  <p class="updated_time"> 09:24 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
- <p class="updated_time"> 09:01 AM CT, Nov. 27 </p> 
- <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K., Italy</a> WSJ: Britain and Italy became the latest nations to confirm cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 08:56 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">At least 2 people in the U.K. have the omicron variant, health secretary says</a> NPR: The cases involve travel to southern Africa, where the latest COVID variant of concern was first identified, the British health secretary said. No cases have been identified in the U.S. so far. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">The omicron variant spreads across Europe as new travel bans take effect</a> NPR: Cases of the latest COVID variant of concern — first identified in South Africa — have been reported in the U.K., Germany, Italy and elsewhere. Travel from southern Africa is now restricted. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 07:40 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59439533?at_medium=RSS&at_campaign=KARANGA">Channel disaster: Kurdish woman is first victim identified</a> BBC: Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq. 
  <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
- <p class="updated_time"> 07:16 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A recent arrival from South Africa had a coronavirus infection with several mutations typical of the Omicron variant, a regional health minister said. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian Nations Expand Booster Shots, With an Eye on Europe’s Surge</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
- <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The results are being examined for cases of the new Omicron variant emerging in southern Africa. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 01:58 AM CT, Nov. 27 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059391705/new-coronavirus-variant-omicron-is-classified-as-a-variant-of-concern">New coronavirus variant omicron is classified as a 'variant of concern'</a> NPR: A variant now named omicron, first detected in South Africa, prompted new overseas travel restrictions in Europe and a special World Health Organization meeting on Friday. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
- <p class="updated_time"> 02:21 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059340560/russia-siberia-coal-mine-explosion-rescuers">Rescuers find a survivor after a Siberian coal mine exploded but many are feared dead</a> NPR: Russian authorities released the names of 51 people presumed dead after a devastating methane explosion in a coal mine in Siberia, believed to be the country's deadliest mining incident since 2010. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:19 PM CT, Nov. 26 </p> 
@@ -218,10 +218,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/27/politics/jill-biden-white-house-holiday-theme-decor/index.html">First lady Jill Biden to unveil the holiday theme and decor for the White House Monday</a> CNN: First lady Jill Biden will reveal the theme and decor for the White House holiday trimmings on Monday, her office announced. 
+ <p class="updated_time"> 12:16 PM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/27/politics/kevin-mccarthy-speaker-race-moderates/index.html">Moderate House Republican warns McCarthy over embracing far-right members</a> CNN: A moderate House Republican is firing off a warning shot at House Minority Leader Kevin McCarthy as he caters to his right flank in a quest for the speaker's gavel. 
  <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-base-weakening-support.html">Democrats Struggle to Energize Their Base as Frustrations Mount</a> NYT: Even as President Biden achieves some significant victories, Democrats are warning that many of their most loyal supporters see inaction and broken campaign promises. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/27/politics/republicans-leaving-fox-news-trump-analysis/index.html">How anti-Trump conservatives have fled Fox News </a> CNN: Former Fox News contributors Jonah Goldberg and Stephen Hayes decided to leave the network last week. The two have long been concerned over former President Donald Trump falsely claiming the 2020 election was stolen. The publication of Tucker Carlson's falsehood-filled "Patriot Purge" on Fox Nation, about January 6, was the last straw. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
  <p class="updated_time"> 09:00 AM CT, Nov. 27 </p> 
@@ -332,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
  <p class="updated_time"> 07:05 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/first-amendment-praetorian-january-6-subpoena/index.html">What is the 1st Amendment Praetorian, the obscure far-right group subpoenaed by the January 6 committee?</a> CNN: An obscure far-right paramilitary group is in the spotlight this week after getting subpoenaed by the House select committee investigating the January 6 insurrection. 
- <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
@@ -382,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
- <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
- <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
