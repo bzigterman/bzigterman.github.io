@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
  <p class="updated_time"> 09:24 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 27 </p> 
+ <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K., Italy</a> WSJ: Britain and Italy became the latest nations to confirm cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 08:56 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">At least 2 people in the U.K. have the omicron variant, health secretary says</a> NPR: The cases involve travel to southern Africa, where the latest COVID variant of concern was first identified, the British health secretary said. No cases have been identified in the U.S. so far. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian Nations Expand Booster Shots, With an Eye on Europe’s Surge</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
- <p class="updated_time"> 05:18 AM CT, Nov. 27 </p> 
- <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K.</a> WSJ: Britain confirmed two cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
