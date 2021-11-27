@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
+ <p class="updated_time"> 07:16 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-suspected-omicron-variant.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A recent arrival from South Africa had a coronavirus infection with several mutations typical of the Omicron variant, a regional health minister said. 
+ <p class="updated_time"> 07:13 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/americas/brazils-president-lula-is-staging-a-comeback-can-he-bring-the-country-along.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -16,9 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490171/new-covid-19-variant-omicron-sparking-concern-with-its-speed-and-reinfection-rat">New COVID-19 variant, Omicron, sparking concern with its speed and reinfection rate</a> NPR: The World Health Organization has designated a new coronavirus variant a "variant of concern" due to its large number of mutations. The strain has been named Omicron. 
  <p class="updated_time"> 06:55 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be lauded for discovering Omicron, not hit with travel bans, its officials say. 
- <p class="updated_time"> 06:49 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/americas/brazils-president-lula-is-staging-a-comeback-can-he-bring-the-country-along.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 06:10 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The results are being examined for cases of the new Omicron variant emerging in southern Africa. 
- <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 02:00 AM CT, Nov. 27 </p> 
@@ -205,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
  <p class="updated_time"> 01:29 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html">A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy</a> NYT: Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed. 
- <p class="updated_time"> 12:29 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
 
 
 </details>
@@ -214,10 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
+ <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/fda-tobacco-califf-523390">The overlooked public health issue that could make or break Biden’s new drug regulator</a> Politico: Robert Califf, who President Joe Biden nominated this month to lead the agency, is being looked to by forces from all sides as someone who can reboot the FDA’s Center for Tobacco Products. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
  <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1058946643/trump-test-republican-democrats-unity">Trump, tough issues and personal rivalries test the GOP's reputation for unity</a> NPR: Tensions are driven by the still-divisive personality of former President Trump, by issues such as vaccines and mandates and by the prospect of big Republican gains in the elections of 2022 and 2024. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 04:29 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 03:54 PM CT, Nov. 26 </p> 
