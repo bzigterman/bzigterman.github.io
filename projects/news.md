@@ -218,10 +218,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Nov. 27 </p> 
+ <a href="https://www.politico.com/news/2021/11/27/iran-nuclear-deal-talks-fissures-523408">Maximum fissures: Iran nuclear deal talks head toward oblivion</a> Politico: Expectations are low as talks resume following a lengthy hiatus and an Iranian election. 
+ <p class="updated_time"> 05:41 PM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
+ <p class="updated_time"> 05:32 PM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/27/politics/kevin-mccarthy-speaker-race-moderates/index.html">Moderate House Republican warns McCarthy over embracing far-right members</a> CNN: A moderate House Republican is firing off a warning shot at House Minority Leader Kevin McCarthy as he caters to his right flank in a quest for the speaker's gavel. 
  <p class="updated_time"> 01:15 PM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/27/politics/jill-biden-white-house-holiday-theme-decor/index.html">First lady Jill Biden to unveil the holiday theme and decor for the White House Monday</a> CNN: First lady Jill Biden will reveal the theme and decor for the White House holiday trimmings on Monday, her office announced. 
- <p class="updated_time"> 12:16 PM CT, Nov. 27 </p> 
- <a href="https://www.cnn.com/2021/11/27/politics/kevin-mccarthy-speaker-race-moderates/index.html">Moderate House Republican warns McCarthy over embracing far-right members</a> CNN: A moderate House Republican is firing off a warning shot at House Minority Leader Kevin McCarthy as he caters to his right flank in a quest for the speaker's gavel. 
  <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-base-weakening-support.html">Democrats Struggle to Energize Their Base as Frustrations Mount</a> NYT: Even as President Biden achieves some significant victories, Democrats are warning that many of their most loyal supporters see inaction and broken campaign promises. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 07:59 AM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/27/politics/joe-biden-nantucket-covid-19/index.html">Bidens aim for sense of normalcy as nerves grow over worrying new virus variant</a> CNN: President Joe Biden and first lady Jill Biden descended on the island of Nantucket this week looking to preserve the sense of normalcy that the nation was so looking forward to over this holiday season. 
- <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/fda-tobacco-califf-523390">The overlooked public health issue that could make or break Biden’s new drug regulator</a> Politico: Robert Califf, who President Joe Biden nominated this month to lead the agency, is being looked to by forces from all sides as someone who can reboot the FDA’s Center for Tobacco Products. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 11:01 AM CT, Nov. 22 </p> 
