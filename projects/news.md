@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
+ <p class="updated_time"> 02:14 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 01:49 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html">A Tale of Culinary Reconciliation, Beside the Eiffel Tower</a> NYT: Two decades ago, Spain was the new France, leading gastronomic innovation. Now two iconic chefs have joined forces in Paris. 
  <p class="updated_time"> 12:21 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
- <p class="updated_time"> 12:19 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 12:11 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/americas/brazil-president-lula.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 11:59 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 11:01 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1054293073/whiskey-distilleries-europe-tariffs-lift">American whiskey makers set their sights on Europe as Trump-era tariffs are lifted</a> NPR: The 25% tariff on U.S. whiskey will be removed in January. Gone too will be the tariffs on U.S. motorcycles and denim, all levied during the Trump administration's trade battle with the E.U. 
- <p class="updated_time"> 10:53 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
  <p class="updated_time"> 10:45 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 10:36 AM CT, Nov. 27 </p> 
@@ -197,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
- <p class="updated_time"> 09:34 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/sports/australia-volunteer-lifesaving-swimming.html">Embracing the Swimming Culture After a Move to Australia</a> NYT: In Sydney, something changed. I embraced the uncertainty of the sea, following my children into a culture of volunteer lifesaving. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
  <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
