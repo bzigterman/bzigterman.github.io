@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
+ <p class="updated_time"> 08:26 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
+ <p class="updated_time"> 08:20 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
+ <p class="updated_time"> 08:17 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
+ <p class="updated_time"> 08:13 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
@@ -23,16 +33,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59431216?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Athletes get ready for Games</a> BBC: Just a short journey from Beijing, athletes are training for the 2022 Winter Olympics in Chongli. 
  <p class="updated_time"> 06:44 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59415885?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine border: Why Moscow is stoking tensions</a> BBC: The Kremlin is sending the West a message, but how big a risk is there of conflict? 
- <p class="updated_time"> 06:44 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: The World Health Organization says the variant has a large number of mutations, some are concerning. 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/canada/british-columbia-floods-aftermath.html">British Columbia Flood Victims Come Together In Storm's Wake</a> NYT: A tour of the flood-ravaged parts of the province finds communities supporting each other following disaster. 
  <p class="updated_time"> 06:29 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59434553?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Migrants crossing English Channel to UK</a> BBC: This week at least 27 migrants died while trying to make the journey, the deadliest crossing on record. 
  <p class="updated_time"> 06:28 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59380745?at_medium=RSS&at_campaign=KARANGA">Covid: Swiss vote on ending restrictions while cases surge</a> BBC: Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe. 
- <p class="updated_time"> 06:18 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 05:52 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
  <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 05:22 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
- <p class="updated_time"> 05:02 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 05:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/business/covid-variant-stock-market-oil-prices.html">Stocks and Oil Drop Amid New Coronavirus Variant</a> NYT: Stocks and oil futures slumped, while investors sought safety in government bonds. 
  <p class="updated_time"> 04:09 PM CT, Nov. 26 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059391705/new-coronavirus-variant-omicron-is-classified-as-a-variant-of-concern">New coronavirus variant omicron is classified as a 'variant of concern'</a> NPR: A variant now named omicron, first detected in South Africa, prompted new overseas travel restrictions in Europe and a special World Health Organization meeting on Friday. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
- <p class="updated_time"> 02:53 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 02:21 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059340560/russia-siberia-coal-mine-explosion-rescuers">Rescuers find a survivor after a Siberian coal mine exploded but many are feared dead</a> NPR: Russian authorities released the names of 51 people presumed dead after a devastating methane explosion in a coal mine in Siberia, believed to be the country's deadliest mining incident since 2010. 
  <p class="updated_time"> 02:14 PM CT, Nov. 26 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
  <p class="updated_time"> 08:55 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
- <p class="updated_time"> 08:42 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 07:17 AM CT, Nov. 26 </p> 
@@ -212,12 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 08:13 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/world-new-covid-threat-omicron-variant-523396">World races to contain new Covid threat, the omicron variant</a> Politico: A World Health Organization panel named the variant “omicron” and classified it as a highly transmissible virus of concern, the same category of the delta variant. 
+ <p class="updated_time"> 08:10 PM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 05:59 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 04:29 PM CT, Nov. 26 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 07:00 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html">House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers</a> NYT: Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6. 
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
  <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
  <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
