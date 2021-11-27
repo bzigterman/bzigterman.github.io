@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The results are being examined for cases of the new Omicron variant emerging in southern Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 02:43 AM CT, Nov. 27 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
- <p class="updated_time"> 10:19 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
