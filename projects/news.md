@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:49 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
+ <p class="updated_time"> 07:49 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 07:40 AM CT, Nov. 27 </p> 
@@ -18,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:16 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-suspected-omicron-variant.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A recent arrival from South Africa had a coronavirus infection with several mutations typical of the Omicron variant, a regional health minister said. 
  <p class="updated_time"> 07:13 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/americas/brazils-president-lula-is-staging-a-comeback-can-he-bring-the-country-along.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
+ <a href="https://www.nytimes.com/2021/11/27/world/americas/brazil-president-lula.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1059490199/indias-oldest-chinese-community-faces-the-impact-of-the-two-countrys-tensions">India's oldest Chinese community faces the impact of the two country's tensions</a> NPR: A postcard from India's oldest and largest Chinese community, where residents are feeling recent tensions between Delhi and Beijing. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490171/new-covid-19-variant-omicron-sparking-concern-with-its-speed-and-reinfection-rat">New COVID-19 variant, Omicron, sparking concern with its speed and reinfection rate</a> NPR: The World Health Organization has designated a new coronavirus variant a "variant of concern" due to its large number of mutations. The strain has been named Omicron. 
- <p class="updated_time"> 06:55 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 06:10 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
