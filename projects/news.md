@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:01 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1054293073/whiskey-distilleries-europe-tariffs-lift">American whiskey makers set their sights on Europe as Trump-era tariffs are lifted</a> NPR: The 25% tariff on U.S. whiskey will be removed in January. Gone too will be the tariffs on U.S. motorcycles and denim, all levied during the Trump administration's trade battle with the E.U. 
  <p class="updated_time"> 10:53 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
  <p class="updated_time"> 10:45 AM CT, Nov. 27 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian Nations Expand Booster Shots, With an Eye on Europe’s Surge</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
  <p class="updated_time"> 05:18 AM CT, Nov. 27 </p> 
- <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K.</a> WSJ: Britain confirmed its first cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
+ <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K.</a> WSJ: Britain confirmed two cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 02:21 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059340560/russia-siberia-coal-mine-explosion-rescuers">Rescuers find a survivor after a Siberian coal mine exploded but many are feared dead</a> NPR: Russian authorities released the names of 51 people presumed dead after a devastating methane explosion in a coal mine in Siberia, believed to be the country's deadliest mining incident since 2010. 
- <p class="updated_time"> 02:14 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059341809/leicester-england-archaeologists-ancient-roman-mosaic">First they found a dead king's body. Now they've uncovered an ancient mosaic</a> NPR: A rare Roman mosaic is the latest discovery from a crack team of British archaeologists. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 01:19 PM CT, Nov. 26 </p> 
