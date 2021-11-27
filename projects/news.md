@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: World races to contain new Omicron variant</a> BBC: Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain. 
  <p class="updated_time"> 12:21 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
- <p class="updated_time"> 11:55 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: More nations are restricting travel to southern Africa to try to slow the spread of a new variant. 
  <p class="updated_time"> 11:36 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
