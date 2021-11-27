@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:53 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
+ <p class="updated_time"> 10:36 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
  <p class="updated_time"> 10:33 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
  <p class="updated_time"> 10:25 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Are Blamed and Banned</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 10:23 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Passengers on two flights that left South Africa on the eve of new restrictions faced a nightmarish situation. 
- <p class="updated_time"> 10:19 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
  <p class="updated_time"> 10:04 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 10:01 AM CT, Nov. 27 </p> 
@@ -52,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian Nations Expand Booster Shots, With an Eye on Europe’s Surge</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
  <p class="updated_time"> 05:18 AM CT, Nov. 27 </p> 
- <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K.</a> WSJ: The U.K. confirmed its first Omicron cases, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
+ <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K.</a> WSJ: Britain confirmed its first cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 01:58 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59442534?at_medium=RSS&at_campaign=KARANGA">The gangs enticing migrants to cross the English Channel</a> BBC: The BBC has uncovered evidence showing that smugglers are still telling migrants it is safe to cross. 
- <p class="updated_time"> 12:21 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 11:33 PM CT, Nov. 26 </p> 
@@ -71,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/in-the-land-of-dikes-nature-now-reinforces-flood-defenses-11638009003">In the Land of Dikes, Nature Now Reinforces Flood Defenses</a> WSJ: Faced with a hydraulic onslaught that is overwhelming traditional defenses, specialists are seeking new ways to manage water that are more in tune with nature than simply building higher walls. 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/new-covid-variant-omicron.html">New Covid Variant: What Scientists Know About Omicron</a> NYT: Scientists don’t know how effective vaccines will be against the new variant flagged by a team in South Africa, which displays mutations that might resist neutralization. 
  <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
@@ -101,6 +105,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
  <p class="updated_time"> 05:22 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
+ <p class="updated_time"> 04:25 PM CT, Nov. 26 </p> 
+ <a href="https://www.wsj.com/articles/omicron-coronavirus-variant-raises-questions-among-scientists-11637954249">Omicron Coronavirus Variant Raises Questions Among Scientists</a> WSJ: Researchers are investigating whether mutations might make the variant more infectious or evade immune response. 
  <p class="updated_time"> 04:09 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059399463/who-is-trying-to-start-outlining-international-rules-for-covid-outbreaks">WHO is trying to start outlining international rules for COVID outbreaks</a> NPR: Representatives from 194 countries will start negotiations on a possible new pandemic treaty. Officials say a lack of clarity on countries' obligations has hindered the response to COVID. 
  <p class="updated_time"> 03:48 PM CT, Nov. 26 </p> 
@@ -139,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
  <p class="updated_time"> 10:25 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/sweden-first-female-prime-minister-quit.html">Sweden Finally Chose a Prime Minister. She Lasted About 7 Hours.</a> NYT: Magdalena Andersson, Sweden’s first female prime minister, quit after her government’s budget was defeated on her first day in office and her coalition partners bolted. 
- <p class="updated_time"> 10:14 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-highlights-risks-of-low-vaccination-rates-in-poor-countries-11637960558">Variant Highlights Risks of Low Vaccination Rates in Poor Countries</a> WSJ: The disparity between wealthier and lower-income countries helped open the door to the rise of this latest variant, public-health officials say. 
  <p class="updated_time"> 10:13 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59428712?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia conflict: Zelensky alleges coup plan involving Russians</a> BBC: He says an alleged plan to overthrow his government comes amid threats of a Russian invasion. 
  <p class="updated_time"> 09:24 AM CT, Nov. 26 </p> 
@@ -157,16 +161,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
- <p class="updated_time"> 06:21 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
- <p class="updated_time"> 06:19 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/amazon-trucks-snarled-in-u-k-amid-climate-protest-blockades-11637947164">Amazon Trucks Snarled in U.K. Amid Climate Protest Blockades</a> WSJ: Activists for a British group campaigning for action on climate change began blocking roads outside Amazon warehouses, in some cases erecting metal structures to prevent delivery trucks entering or leaving the facilities. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
  <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
- <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
- <a href="https://www.wsj.com/articles/turkeys-central-bank-says-financial-system-is-strong-despite-lira-crisis-11637925186">Turkey's Central Bank Says Financial System Is Strong Despite Lira Crisis</a> WSJ: The banking sector has enough reserves to withstand the sharp fall in the lira, the central bank said, taking some pressure off President Recep Tayyip Erdogan to change course. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
@@ -211,8 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
- <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
 
