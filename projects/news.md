@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:54 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: World races to contain new Omicron variant</a> BBC: Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain. 
+ <p class="updated_time"> 04:51 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
+ <p class="updated_time"> 04:51 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59443519?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: WTA concerned over 'censorship or coercion'</a> BBC: The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion. 
  <p class="updated_time"> 04:38 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The results are being examined for cases of the new Omicron variant emerging in southern Africa. 
  <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
- <p class="updated_time"> 02:43 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: World races to contain new Omicron variant</a> BBC: Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 02:00 AM CT, Nov. 27 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59442534?at_medium=RSS&at_campaign=KARANGA">The gangs enticing migrants to cross the English Channel</a> BBC: The BBC has uncovered evidence showing that smugglers are still telling migrants it is safe to cross. 
  <p class="updated_time"> 12:21 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
- <p class="updated_time"> 11:36 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 11:33 PM CT, Nov. 26 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
- <p class="updated_time"> 06:24 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/migrants-boat-capsize-calais.html">27 Migrants Drown Trying to Go From France to U.K. by Boat</a> NYT: The boat, which capsized near Calais, had been carrying a group of migrants to Britain. “France won’t let the Channel become a graveyard,’’ President Emmanuel Macron said. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
  <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
