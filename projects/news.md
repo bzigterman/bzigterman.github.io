@@ -69,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 01:58 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59442534?at_medium=RSS&at_campaign=KARANGA">The gangs enticing migrants to cross the English Channel</a> BBC: The BBC has uncovered evidence showing that smugglers are still telling migrants it is safe to cross. 
+ <p class="updated_time"> 01:50 AM CT, Nov. 27 </p> 
+ <a href="https://www.wsj.com/articles/macau-police-question-junket-boss-over-alleged-illegal-gambling-syndicate-11638017449">Macau Police Question Junket Boss Over Alleged Illegal Gambling Syndicate</a> WSJ: Alvin Chau, the chairman of Suncity Group Holdings, was being held for questioning by police in Macau after authorities in the eastern Chinese city of Wenzhou issued an arrest warrant. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 11:33 PM CT, Nov. 26 </p> 
