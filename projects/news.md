@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:59 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 11:01 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1054293073/whiskey-distilleries-europe-tariffs-lift">American whiskey makers set their sights on Europe as Trump-era tariffs are lifted</a> NPR: The 25% tariff on U.S. whiskey will be removed in January. Gone too will be the tariffs on U.S. motorcycles and denim, all levied during the Trump administration's trade battle with the E.U. 
  <p class="updated_time"> 10:53 AM CT, Nov. 27 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
  <p class="updated_time"> 10:33 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
- <p class="updated_time"> 10:25 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Are Blamed and Banned</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 10:23 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Passengers on two flights that left South Africa on the eve of new restrictions faced a nightmarish situation. 
  <p class="updated_time"> 10:04 AM CT, Nov. 27 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-base-weakening-support.html">Democrats Struggle to Energize Their Base as Frustrations Mount</a> NYT: Even as President Biden achieves some significant victories, Democrats are warning that many of their most loyal supporters see inaction and broken campaign promises. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 06:14 PM CT, Nov. 23 </p> 
- <a href="https://www.nytimes.com/2021/11/23/business/media/project-veritas-new-york-times.html">Order Blocking New York Times Coverage of Project Veritas Stays in Place</a> NYT: A New York trial judge said he needed more time to deliberate on an order that the newspaper argued violates the First Amendment. 
  <p class="updated_time"> 04:39 PM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/23/politics/biden-thanksgiving-nantucket/index.html">Bidens to revive family's Nantucket Thanksgiving tradition</a> CNN: The Bidens are expected this week to revive a longstanding Thanksgiving family tradition that goes back to 1975, opting to spend this year's dinner in Nantucket, Massachusetts. 
  <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
