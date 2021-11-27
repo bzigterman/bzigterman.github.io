@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490234/honduras-holds-presidential-elections-after-difficult-year-for-the-country">Honduras holds presidential elections after difficult year for the country</a> NPR: Honduras, one of the poorest and most corrupt countries in the Americas, is holding presidential elections tomorrow. On top of COVID-19, it has also seen large numbers of people leaving for the U.S.. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490199/indias-oldest-chinese-community-faces-the-impact-of-the-two-countrys-tensions">India's oldest Chinese community faces the impact of the two country's tensions</a> NPR: A postcard from India's oldest and largest Chinese community, where residents are feeling recent tensions between Delhi and Beijing. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490171/new-covid-19-variant-omicron-sparking-concern-with-its-speed-and-reinfection-rat">New COVID-19 variant, Omicron, sparking concern with its speed and reinfection rate</a> NPR: The World Health Organization has designated a new coronavirus variant a "variant of concern" due to its large number of mutations. The strain has been named Omicron. 
+ <p class="updated_time"> 06:55 AM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be lauded for discovering Omicron, not hit with travel bans, its officials say. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/americas/brazils-president-lula-is-staging-a-comeback-can-he-bring-the-country-along.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 06:10 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 05:58 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/asia-booster-shots-covid.html">Asian nations expand booster shots, with an eye on Europe’s surge.</a> NYT: Some highly vaccinated countries in East and Southeast Asia are embracing boosters as the virus surges through parts of Europe where third shots are not yet widely available. 
- <p class="updated_time"> 04:54 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: World races to contain new Omicron variant</a> BBC: Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain. 
  <p class="updated_time"> 04:51 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 04:44 AM CT, Nov. 27 </p> 
@@ -53,8 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59390968?at_medium=RSS&at_campaign=KARANGA">Covid: Conspiracy and untruths drive Europe's Covid protests</a> BBC: Amid some legitimate concerns, misinformation and extreme views are radicalising people to violent protest. 
  <p class="updated_time"> 06:53 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59383324?at_medium=RSS&at_campaign=KARANGA">Kenya tree felling sparks anger over Nairobi's new highway</a> BBC: Some 4,000 young and mature trees face being cut down to make way for a Chinese-financed project. 
- <p class="updated_time"> 06:47 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59431216?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Athletes get ready for Games</a> BBC: Just a short journey from Beijing, athletes are training for the 2022 Winter Olympics in Chongli. 
+ <p class="updated_time"> 06:49 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59430731?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Testing times in the Chongli mountains</a> BBC: Beijing is pushing ahead with Winter Olympics test events, despite Covid and human rights allegations. 
  <p class="updated_time"> 06:44 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59415885?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine border: Why Moscow is stoking tensions</a> BBC: The Kremlin is sending the West a message, but how big a risk is there of conflict? 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
@@ -129,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59419572?at_medium=RSS&at_campaign=KARANGA">Protesters hit Amazon buildings on Black Friday</a> BBC: Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
- <p class="updated_time"> 06:24 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/poland-border-migrants-politics.html">Migrant Crisis at Poland’s Border Eases Pressure on Its Government</a> NYT: The governing Law and Justice party’s tough stance on migrants seeking to enter the E.U. from Belarus has lifted its popularity, which had taken blows from Covid and rising inflation. 
  <p class="updated_time"> 06:21 AM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/siberia-coal-mine-explosion-kills-more-than-50-11637921091">Siberia Coal-Mine Explosion Kills More Than 50</a> WSJ: Russian authorities opened a criminal investigation into a suspected methane-gas explosion at a Siberian coal mine that killed more than 50 people and left dozens hospitalized. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
@@ -143,10 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059319131/eu-wants-to-stop-flights-from-southern-africa-over-variant">The EU wants to stop flights from southern Africa over a new COVID variant</a> NPR: The European Union said Friday it's planning to stop air travel from southern Africa to counter the spread of a new COVID-19 variant as the 27-nation block battles a massive spike in cases. 
  <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-59428406?at_medium=RSS&at_campaign=KARANGA">Poorest face food crisis amid fertiliser shortage</a> BBC: The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices. 
- <p class="updated_time"> 03:10 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059317314/us-lawmakers-meet-with-taiwan-president-in-surprise-visit">U.S. lawmakers meet with Taiwan's president in a surprise visit</a> NPR: Five U.S. lawmakers met with Taiwan President Tsai Ing-wen Friday morning in a surprise one-day visit intended to reaffirm the United States' "rock solid" support for the self-governing island. 
- <p class="updated_time"> 02:22 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059311840/thai-chains-cannabis-pizza-trendy-but-wont-get-you-high">A Thai chain's cannabis pizza is trendy, but it won't get you high</a> NPR: The "Crazy Happy Pizza" is an under-the-radar product topped with a cannabis leaf. It's legal but won't get you high, unlike the legendary happy pizzas in neighboring Cambodia's capital, Phnom Penh. 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
  <p class="updated_time"> 01:30 AM CT, Nov. 26 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/australia/suspect-is-charged-with-murder-in-case-of-two-vanished-campers.html">Suspect Arrested in Wonnangatta Valley Murder Case</a> NYT: In a remote southern Australian area famed for its forbidding landscape and unsolved mysteries, the couple had set out for a weeklong trip and were never seen again. 
  <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
- <p class="updated_time"> 05:24 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059272133/new-covid-19-variant-in-south-africa-raises-concern">Stocks and oil prices drop as the world reacts to new coronavirus variant omicron</a> NPR: Stock markets around the world tumbled on concerns about the new variant. While it's too soon to tell exactly how the variant functions, virologists are rushing to learn more. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
- <p class="updated_time"> 03:22 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059263530/death-and-destruction-follow-a-siberian-coal-mine-fire">Death and destruction follow a Siberian coal mine fire</a> NPR: A devastating fire swept through a Siberian coal mine Thursday, killing 52 miners and rescuers about 820 feet underground, Russian news reports said. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
  <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/fda-tobacco-califf-523390">The overlooked public health issue that could make or break Biden’s new drug regulator</a> Politico: Robert Califf, who President Joe Biden nominated this month to lead the agency, is being looked to by forces from all sides as someone who can reboot the FDA’s Center for Tobacco Products. 
  <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/25/politics/troops-thanksgiving-meals/index.html">US troops around the globe will get Thanksgiving meal despite supply chain obstacles</a> CNN: Almost 60,000 pounds of roasted turkeys, over 38,000 pounds of sweet potatoes and over 68,000 pies and cakes were shipped around the world by the Department of Defense's Logistics Agency to make sure American service members stationed in the US and across the globe will have a Thanksgiving meal. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
- <p class="updated_time"> 05:01 AM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059019616/theres-a-backlash-brewing-against-bail-reform-after-the-parade-tragedy-in-waukes">There's a backlash brewing against bail reform after the parade tragedy in Waukesha</a> NPR: Critics of the movement to reduce cash bail cite the $1000 cash bail paid by Darrell E. Brooks, Jr., weeks before he allegedly plowed his SUV through the Waukesha Christmas parade 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
