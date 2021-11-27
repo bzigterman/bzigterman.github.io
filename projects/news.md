@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:21 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
+ <p class="updated_time"> 12:19 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
+ <p class="updated_time"> 12:11 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/americas/brazil-president-lula.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 11:59 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 11:01 AM CT, Nov. 27 </p> 
@@ -27,12 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
  <p class="updated_time"> 09:39 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
- <p class="updated_time"> 09:38 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The country’s health secretary said the infected individuals were self-isolating as contact-tracing is done. 
  <p class="updated_time"> 09:24 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
- <p class="updated_time"> 09:23 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 08:56 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">At least 2 people in the U.K. have the omicron variant, health secretary says</a> NPR: The cases involve travel to southern Africa, where the latest COVID variant of concern was first identified, the British health secretary said. No cases have been identified in the U.S. so far. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 07:16 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A recent arrival from South Africa had a coronavirus infection with several mutations typical of the Omicron variant, a regional health minister said. 
- <p class="updated_time"> 07:13 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/americas/brazil-president-lula.html">Brazil’s President Lula Is Staging a Comeback. Can He Bring the Country Along?</a> NYT: Luiz Inácio Lula da Silva, the former president, has beat back a flurry of corruption cases and climbed to the front of next year’s presidential race. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
