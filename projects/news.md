@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:21 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 11:55 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59438723?at_medium=RSS&at_campaign=KARANGA">Covid: New variant classed 'of concern' and named Omicron</a> BBC: More nations are restricting travel to southern Africa to try to slow the spread of a new variant. 
  <p class="updated_time"> 11:36 PM CT, Nov. 26 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
- <p class="updated_time"> 10:24 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 10:19 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from southern Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 08:54 PM CT, Nov. 26 </p> 
