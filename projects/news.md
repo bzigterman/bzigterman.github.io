@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Passengers on two flights that left South Africa on the eve of new restrictions faced a nightmarish situation. 
+ <p class="updated_time"> 01:49 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html">A Tale of Culinary Reconciliation, Beside the Eiffel Tower</a> NYT: Two decades ago, Spain was the new France, leading gastronomic innovation. Now two iconic chefs have joined forces in Paris. 
  <p class="updated_time"> 12:21 PM CT, Nov. 27 </p> 
