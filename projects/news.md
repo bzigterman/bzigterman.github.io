@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, Nov. 27 </p> 
+ <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
+ <p class="updated_time"> 09:38 AM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The country’s health secretary said the infected individuals were self-isolating as contact-tracing is done. 
  <p class="updated_time"> 09:32 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Passengers on two flights that left South Africa on the eve of new restrictions faced a nightmarish situation. 
  <p class="updated_time"> 09:24 AM CT, Nov. 27 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059341809/leicester-england-archaeologists-ancient-roman-mosaic">First they found a dead king's body. Now they've uncovered an ancient mosaic</a> NPR: A rare Roman mosaic is the latest discovery from a crack team of British archaeologists. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
- <p class="updated_time"> 01:51 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/26/1059339865/coronavirus-variant-covid-omicron-travel-bans">What to know about omicron, the new COVID variant </a> NPR: The World Health Organization deemed it a variant of concern, and the U.S. is banning travel from parts of Africa where it's spreading. Here's what scientists know and what they're trying to learn. 
  <p class="updated_time"> 01:19 PM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/wto-postpones-first-meeting-in-four-years-amid-covid-variant-concerns-11637967647">WTO Postpones First Meeting in Four Years Amid Variant Concerns</a> WSJ: This is the second time that concerns about Covid-19 have led the group to postpone the meeting, which was initially scheduled for June 2020. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
