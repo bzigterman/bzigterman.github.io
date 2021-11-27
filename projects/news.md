@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:35 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 05:52 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
+ <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59439533?at_medium=RSS&at_campaign=KARANGA">Channel disaster: Kurdish woman is first victim identified</a> BBC: Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq. 
  <p class="updated_time"> 05:29 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
  <p class="updated_time"> 05:29 PM CT, Nov. 26 </p> 
@@ -29,9 +31,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59427770?at_medium=RSS&at_campaign=KARANGA">Covid: US joins EU in restricting flights from S Africa over new coronavirus variant</a> BBC: Flights from eight African nations to be blocked as new variant is classified as being "of concern". 
  <p class="updated_time"> 04:09 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059399463/who-is-trying-to-start-outlining-international-rules-for-covid-outbreaks">WHO is trying to start outlining international rules for COVID outbreaks</a> NPR: Representatives from 194 countries will start negotiations on a possible new pandemic treaty. Officials say a lack of clarity on countries' obligations has hindered the response to COVID. 
- <p class="updated_time"> 03:49 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59439533?at_medium=RSS&at_campaign=KARANGA">Channel disaster: Kurdish woman is first victim identified</a> BBC: Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq. 
- <p class="updated_time"> 03:47 PM CT, Nov. 26 </p> 
+ <p class="updated_time"> 03:48 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/south-africa-covid-variant-hong-kong.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391777/u-s-and-iran-to-talk-nuclear-deal-on-monday">U.S. and Iran to talk nuclear deal on Monday</a> NPR: The Biden administration will take another try at reviving the Iran nuclear deal in talks that start in Vienna. Time has passed and much has changed since the Trump White House abandoned the deal. 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/world/europe/italy-vaccine-restrictions-coronavirus.html">Italy Sets New Restrictions for the Unvaccinated</a> NYT: People who refuse a shot will be barred from a wide range of social activities, including indoor dining at restaurants and bars, and attending shows and sport events. 
  <p class="updated_time"> 10:28 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/german-government-cannabis.html">Germany's New Government Plans to Legalize Marijuana</a> NYT: In Germany it’s not illegal to consume marijuana but it is illegal to buy it. That may change. 
- <p class="updated_time"> 09:41 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/world/europe/germany-coalition-agreement.html">German Leaders Present Coalition Agreement</a> NYT: Sometimes long, sometimes laborious, coalition agreements have helped ensure the durability of German governments — mostly. 
  <p class="updated_time"> 09:37 AM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/world/europe/iran-nuclear-talks.html">Iran Rebuffs U.N. Watchdog on Resuming Nuclear Inspections</a> NYT: The head of the U.N. nuclear agency said Tehran continues to refuse to let it replace key monitoring equipment that tracks the country’s nuclear program. 
  <p class="updated_time"> 06:10 PM CT, Nov. 23 </p> 
@@ -206,12 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Nov. 26 </p> 
+ <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 05:12 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 04:29 PM CT, Nov. 26 </p> 
  <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
- <p class="updated_time"> 04:19 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/lauren-boebert-ilhan-omar-anti-muslim-comments/index.html">Rep. Lauren Boebert suggested Rep. Ilhan Omar was terrorist in anti-Muslim remarks at event </a> CNN: Republican Rep. Lauren Boebert of Colorado apologized to "anyone in the Muslim community I offended" on Twitter Friday after video surfaced of her making anti-Muslim comments last weekend about Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 03:54 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391798/a-new-report-suggests-that-abuses-of-power-surrounded-andrew-cuomos-book-deal">A new report suggests that abuses of power surrounded Andrew Cuomo's book deal</a> NPR: NPR's Audie Cornish talks to Eric Lach, a reporter at The New Yorker, about a new report that reveals details around Andrew Cuomo's many abuses of power. 
  <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
