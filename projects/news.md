@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
+ <p class="updated_time"> 12:32 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one quarter of its population has been fully vaccinated. 
+ <p class="updated_time"> 12:32 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
- <p class="updated_time"> 11:25 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59409447?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Can US troops be punished for refusing the jabs?</a> BBC: The US military has said that America's 2.1 million soldiers and sailors must all get the vaccine. 
  <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134040?at_medium=RSS&at_campaign=KARANGA">Nigerian celebrities Simi and Chigul expose sexism in music and Nollywood</a> BBC: Singer Simi and Nollywood's Chigul tell the BBC about the cultural hurdles female stars face. 
- <p class="updated_time"> 06:14 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59344606?at_medium=RSS&at_campaign=KARANGA">'Why do you like Shah Rukh Khan?'</a> BBC: The Bollywood superstar's female fandom rests not on love but on economics, according to a new book. 
  <p class="updated_time"> 06:11 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446944?at_medium=RSS&at_campaign=KARANGA">Hondurans vote to replace controversial leader</a> BBC: A former first lady and a man convicted of corruption vie to succeed an unpopular president. 
  <p class="updated_time"> 06:10 PM CT, Nov. 27 </p> 
@@ -201,10 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
  <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
- <p class="updated_time"> 12:05 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/macys-business-turkey.html">The Macy's Thanksgiving Day brings back some business to the area</a> NYT: Business was brisk for some as the Macy’s Thanksgiving Day Parade returned to New York City. Delis, supermarkets, and even a man selling a turkey hat were overjoyed by the thousands of spectators. 
- <p class="updated_time"> 11:08 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
 
 
 </details>
