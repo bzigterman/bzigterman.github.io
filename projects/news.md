@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who first spotted the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059391777/u-s-and-iran-to-talk-nuclear-deal-on-monday">U.S. and Iran to talk nuclear deal on Monday</a> NPR: The Biden administration will take another try at reviving the Iran nuclear deal in talks that start in Vienna. Time has passed and much has changed since the Trump White House abandoned the deal. 
  <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391761/dr-francis-collins-on-what-we-know-about-the-omicron-variant-so-far">Dr. Francis Collins on what we know about the Omicron variant so far</a> NPR: NPR's Audie Cornish speaks with National Institutes of Health director Dr. Francis Collins about how the new COVID-19 variant might affect U.S. response and where the national strategy goes from here. 
- <p class="updated_time"> 03:45 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 03:30 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391740/protestors-in-sudan-took-to-the-streets-thursday-to-push-for-civilian-rule">Protestors in Sudan took to the streets Thursday to push for civilian rule</a> NPR: Having forced the military to install the prime minister it had ousted, pro-democracy activists in Sudan are pressing to insure civilian control. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
