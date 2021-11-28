@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:08 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hour of Voting in Critical Honduras Election: Live Updates</a> NYT: Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
- <p class="updated_time"> 05:08 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 05:05 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 05:30 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/es/2021/11/28/espanol/elecciones-honduras-urnas-cierre.html">Elecciones en Honduras: las casillas cerrarán a las 5 p. m.</a> NYT: La jornada electoral concluyó en Honduras y han empezado los conteos. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Voting Wraps Up With Few Major Problems in Honduras: Live Updates</a> NYT: Preliminary results are expected within three hours, but determining a winner may take days. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. 
+ <p class="updated_time"> 05:26 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Polls began wrapping up around 5 p.m. with few reports of problems so far. 
+ <p class="updated_time"> 05:15 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
+ <p class="updated_time"> 05:14 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 05:05 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
- <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 04:33 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
@@ -31,14 +35,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
  <p class="updated_time"> 03:24 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Swiss Voters Approve Their Government’s Covid Policy in a Referendum</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
- <p class="updated_time"> 03:17 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/es/2021/11/28/espanol/elecciones-honduras-urnas-cierre.html">Elecciones en Honduras: las casillas cerrarán a las 5 p. m.</a> NYT: Se esperan resultados preliminares tres horas después. 
  <p class="updated_time"> 03:09 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59454243?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish over missing family since tragedy</a> BBC: Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday. 
  <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
- <p class="updated_time"> 02:53 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Preliminary results are expected three hours later. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:40 PM CT, Nov. 28 </p> 
@@ -210,7 +210,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:07 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 05:23 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/january-6-investigation/index.html">The latest in the January 6 investigation</a> CNN: The House select committee investigating the January 6 US Capitol riot is touting its extensive number of interviews and subpoenas, but a court hearing Tuesday may determine how much lawmakers will eventually be able to accomplish in their probe. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
