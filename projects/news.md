@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:42 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/south-africa-covid-variant-omicron-523410">South African scientists brace for wave propelled by omicron</a> Politico: The omicron variant has sent South Africa from a period of low transmission to rapid growth of new confirmed cases. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
