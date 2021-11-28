@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after two cases of the Omicron variant were detected. 
+ <p class="updated_time"> 08:09 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
@@ -42,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 10:37 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">How the Covid-19 Omicron Variant Got Its Name</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
+ <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 10:20 PM CT, Nov. 27 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/australia/thanksgiving-after-lockdowns.html">Giving Thanks in Australia</a> NYT: It’s an odd affair outside America, but maybe the holiday will inspire more of us to pause and appreciate the gifts we’ve been given. 
- <p class="updated_time"> 07:50 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59440642?at_medium=RSS&at_campaign=KARANGA">Musical theatre icon Stephen Sondheim dies at 91</a> BBC: The US composer and lyricist reshaped America's musical theatre in a career spanning over 60 years. 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/canada/british-columbia-floods-aftermath.html">British Columbia Flood Victims Come Together In Storm's Wake</a> NYT: A tour of the flood-ravaged parts of the province finds communities supporting each other following disaster. 
  <p class="updated_time"> 06:29 PM CT, Nov. 26 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
- <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
 
 
 </details>
