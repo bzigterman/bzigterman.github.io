@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
+ <p class="updated_time"> 02:41 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 02:40 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 02:33 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully vaccinated. 
  <p class="updated_time"> 02:24 PM CT, Nov. 28 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
  <p class="updated_time"> 09:47 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59452651?at_medium=RSS&at_campaign=KARANGA">Kevin Strickland: Fundraiser for exonerated Missouri man tops $1.5m</a> BBC: Kevin Strickland was released after 42 years in jail over a triple murder he did not commit. 
- <p class="updated_time"> 09:40 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 09:21 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59409447?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Can US troops be punished for refusing the jabs?</a> BBC: The US military has said that America's 2.1 million soldiers and sailors must all get the vaccine. 
  <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134040?at_medium=RSS&at_campaign=KARANGA">Nigerian celebrities Simi and Chigul expose sexism in music and Nollywood</a> BBC: Singer Simi and Nollywood's Chigul tell the BBC about the cultural hurdles female stars face. 
- <p class="updated_time"> 06:11 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59446944?at_medium=RSS&at_campaign=KARANGA">Hondurans vote to replace controversial leader</a> BBC: A former first lady and a man convicted of corruption vie to succeed an unpopular president. 
  <p class="updated_time"> 06:10 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59262086?at_medium=RSS&at_campaign=KARANGA">Yemen: The woman saving a crumbling heritage</a> BBC: Its famous architecture has been wrecked by war - now a female engineer is rebuilding amid the conflict. 
  <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
@@ -197,12 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
- <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/germany-coalition-green.html">Will Germany’s ‘Debt Brake’ Stop Its Green Ambitions?</a> NYT: The new government has big plans to modernize the economy and switch to renewable energy. But the question remains how it will pay for it. 
  <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
- <p class="updated_time"> 01:21 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/pikachu-pokemon-macys-thanksgiving-new-york.html">A Native New Yorker Wrangles Pikachu in Thanksgiving Parade</a> NYT: Decked in a white jumpsuit and blue smock with a Pikachu cartoon on it, George Gustines maneuvered the huge blowup cartoon character down New York’s streets on Thursday. 
 
 
 </details>
