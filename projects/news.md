@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:18 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
+ <p class="updated_time"> 07:12 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600292/hondurans-vote-in-presidential-election">Hondurans vote in presidential election</a> NPR: Honduras is holding its presidential election today. Who wins will likely have an impact on Honduran migration to the U.S. 
- <p class="updated_time"> 06:53 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59380745?at_medium=RSS&at_campaign=KARANGA">Covid: Swiss back government on Covid pass as cases surge</a> BBC: Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe. 
  <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
- <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">00</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59450168?at_medium=RSS&at_campaign=KARANGA">New Zealand politician Julie Anne Genter cycles to hospital to give birth</a> BBC: Julie Anne Genter said she had not planned to cycle whilst in labour, "but it did end up happening". 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
@@ -362,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
- <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
