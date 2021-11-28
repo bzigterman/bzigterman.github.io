@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:48 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
- <p class="updated_time"> 07:18 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 07:12 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -212,6 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
+ <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/abortion-roe-vs-wade-john-roberts-supreme-court/index.html">John Roberts' long history with abortion and Roe v. Wade</a> CNN: Since his first job as a young lawyer in Washington, John Roberts' work has been entangled with Roe v. Wade, the 1973 decision that gave women a right to end a pregnancy. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -228,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/south-africa-covid-variant-omicron-523410">South African scientists brace for wave propelled by omicron</a> Politico: The omicron variant has sent South Africa from a period of low transmission to rapid growth of new confirmed cases. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
+ <p class="updated_time"> 11:03 PM CT, Nov. 27 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/iran-talks-restart/index.html">Iran nuclear talks to restart as US emphasizes it's 'prepared to use other options' if diplomacy fails</a> CNN: The US and its allies restart Iran nuclear talks on Monday unsure how Tehran's new government will approach negotiations, not optimistic about the prospects ahead and emphasizing that if diplomacy fails, the US is "prepared to use other options." 
  <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 06:31 PM CT, Nov. 27 </p> 
@@ -256,12 +262,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1058946643/trump-test-republican-democrats-unity">Trump, tough issues and personal rivalries test the GOP's reputation for unity</a> NPR: Tensions are driven by the still-divisive personality of former President Trump, by issues such as vaccines and mandates and by the prospect of big Republican gains in the elections of 2022 and 2024. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
- <p class="updated_time"> 08:10 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/travel-restrictions-south-africa/index.html">Biden to restrict travel from South Africa and seven other countries starting Monday</a> CNN: President Joe Biden will restrict travel from South Africa and seven other countries starting Monday as a new coronavirus variant has emerged, administration officials told CNN. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 04:29 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/immigration-biden-work-permit-processing-delays/index.html">'Quite disruptive': Months-long processing delays leave people out of work amid nationwide labor shortage </a> CNN: Dayana Vera de Aponte had locked in her holiday plans after nearly two years of uncertainty fueled by the coronavirus pandemic, but then the unexpected happen: she lost her job because of an unprecedented US government backlog. 
  <p class="updated_time"> 03:54 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391798/a-new-report-suggests-that-abuses-of-power-surrounded-andrew-cuomos-book-deal">A new report suggests that abuses of power surrounded Andrew Cuomo's book deal</a> NPR: NPR's Audie Cornish talks to Eric Lach, a reporter at The New Yorker, about a new report that reveals details around Andrew Cuomo's many abuses of power. 
  <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
@@ -278,16 +280,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
  <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
- <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/interior-department-federal-review-oil-gas-leasing/index.html">Biden administration calls for hike in federal drilling fees in report that largely sidesteps climate issues</a> CNN: The Department of Interior on Friday released a long-awaited report on oil and gas drilling on federal land that recommends an increase in leasing fees and consideration of climate change in leasing decisions. But the report largely sidesteps climate concerns, and does not recommend a halt to new oil and gas leasing -- a promise President Joe Biden campaigned on. 
  <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
  <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
- <p class="updated_time"> 10:29 AM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/marjorie-taylor-greene-kevin-mccarthy/index.html">Marjorie Taylor Greene lays out demands for GOP House speaker vote if Republicans retake majority in 2022</a> CNN: Georgia Rep. Marjorie Taylor Greene, one of Donald Trump's staunchest allies in Congress, on Thursday laid out demands for a GOP leader to earn her vote for House Speaker if Republicans are able to retake the majority after the 2022 elections and cast doubt on House Minority Leader Kevin McCarthy being elected to the position. 
  <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/republican-redistricting-swing-states.html">G.O.P. Cements Hold on Legislatures in Battleground States</a> NYT: Democrats were once able to count on wave elections to win back key statehouses. Republican gerrymandering is making that all but impossible. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
@@ -302,18 +300,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
  <p class="updated_time"> 06:14 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317198/what-to-expect-during-the-iran-u-s-nuclear-deal-negotiations">What to expect during the Iran-U.S. nuclear deal negotiations</a> NPR: NPR's Steve Inskeep speaks with U.S. Special Envoy for Iran Rob Malley about the next round of talks to revive the Iran nuclear deal. 
- <p class="updated_time"> 05:11 AM CT, Nov. 26 </p> 
- <a href="https://www.cnn.com/2021/11/26/politics/trump-2022-candidates-north-carolina-alabama-georgia/index.html">Trump pulls strings behind the scenes to help loyal 2022 candidates </a> CNN: Former President Donald Trump has taken his involvement in 2022 Republican primaries to a new level as he works to permanently mold the GOP in his image. Beyond Trump's public efforts to oust Republican incumbents he considers disloyal, he has quietly tried to clear potential GOP threats to his endorsed candidates and encouraged others to run against his enemies. 
  <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
- <p class="updated_time"> 08:52 PM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/us-lawmakers-defy-china-meeting-taiwan-officials/index.html">Five US lawmakers defy China by meeting with officials in Taiwan</a> CNN: Five US lawmakers arrived in Taiwan on Thursday to meet with government officials, defying Beijing to visit the contested island. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
- <p class="updated_time"> 07:15 PM CT, Nov. 25 </p> 
- <a href="https://www.cnn.com/2021/11/25/politics/biden-thanksgiving-nantucket-troops/index.html">Bidens greet troops at US Coast Guard Station Brant Point on Thanksgiving Day </a> CNN: President Joe Biden and first lady Jill Biden stopped by the US Coast Guard Station Brant Point Thursday, meeting with US troops stationed there as well as troops around the world virtually as they expressed their gratitude on the Thanksgiving holiday. 
  <p class="updated_time"> 05:58 PM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/news/2021/11/25/canada-climate-change-agenda-523380">Watchdog: Department in charge of Trudeau's climate agenda lacks clout to drive it</a> Politico: Environment and Sustainable Development Commissioner Jerry DeMarco said Canada's climate record is one of failure. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
@@ -344,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
  <p class="updated_time"> 07:05 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/first-amendment-praetorian-january-6-subpoena/index.html">What is the 1st Amendment Praetorian, the obscure far-right group subpoenaed by the January 6 committee?</a> CNN: An obscure far-right paramilitary group is in the spotlight this week after getting subpoenaed by the House select committee investigating the January 6 insurrection. 
+ <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
@@ -390,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
+ <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
@@ -404,6 +400,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
+ <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
@@ -416,6 +414,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
+ <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
