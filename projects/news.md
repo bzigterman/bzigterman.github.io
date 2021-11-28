@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who first spotted the new variant says patients are showing very mild symptoms so far. 
+ <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 04:50 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59450168?at_medium=RSS&at_campaign=KARANGA">New Zealand politician Julie Anne Genter cycles to hospital to give birth</a> BBC: Julie Anne Genter said she had not planned to cycle whilst in labour, "but it did end up happening". 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59444335?at_medium=RSS&at_campaign=KARANGA">Calais activists: Migrants call us from boats asking for help</a> BBC: Activists in Calais demand change after decades of people coming to the city looking to reach the UK. 
- <p class="updated_time"> 01:50 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 11:46 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59448525?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands tightens partial lockdown amid surging infections</a> BBC: The government says the three-week curbs are critical to protect hospitals from becoming overwhelmed. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
- <p class="updated_time"> 05:12 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&at_campaign=KARANGA">Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes'</a> BBC: The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
  <p class="updated_time"> 03:53 PM CT, Nov. 25 </p> 
