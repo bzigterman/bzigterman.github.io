@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully vaccinated. 
+ <p class="updated_time"> 02:24 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 02:09 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The travel bans appeared more drastic but less discriminatory than those implemented by many Western nations. 
- <p class="updated_time"> 02:08 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
- <p class="updated_time"> 01:36 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one quarter of its population has been fully vaccinated. 
  <p class="updated_time"> 01:31 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
@@ -45,14 +45,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Iran nuclear talks are starting again. A lot has changed, and here's what's at stake</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
+ <p class="updated_time"> 08:28 AM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-found-on-flights-reveals-gaps-in-covid-19-travel-rules-11638127730">Omicron Variant Found on Flights Reveals Gaps in Covid-19 Travel Rules</a> WSJ: Of around 600 passengers on the two flights from South Africa to the Netherlands, 61 tested positive for Covid-19, and at least 13 were confirmed as the Omicron variant. 
  <p class="updated_time"> 08:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
  <p class="updated_time"> 07:24 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59450598?at_medium=RSS&at_campaign=KARANGA">Great Carnival of Dakar: Fire-eaters and dancers mark event</a> BBC: The three-day event is a celebration of Senegalese culture and features an elaborate parade. 
- <p class="updated_time"> 07:23 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/in-naming-omicron-variant-authorities-skipped-xi-and-nu-11638114899">Authorities Skipped 'Xi' and 'Nu' in Naming New Variant Omicron</a> WSJ: The WHO has been using the Greek alphabet to refer to the most widely prevalent coronavirus variants, but two letters posed problems. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
