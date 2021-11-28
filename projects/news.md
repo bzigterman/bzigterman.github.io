@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
+ <p class="updated_time"> 04:36 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hour of Voting in Critical Honduras Election: Live Updates</a> NYT: Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
  <p class="updated_time"> 04:33 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
- <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hour of Voting in Critical Honduras Election: Live Updates</a> NYT: Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
  <p class="updated_time"> 04:09 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Officials Grapple With Response</a> WSJ: Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:00 AM CT, Nov. 28 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
- <p class="updated_time"> 04:47 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Officials Grapple With Response</a> WSJ: Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave. 
  <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
@@ -210,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:58 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-covid-travel-bans-523428">World Health Organization criticizes travel bans on southern African countries</a> Politico: WHO’s regional director for Africa  called on countries to follow science and international health regulations. 
+ <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
  <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
  <p class="updated_time"> 03:57 PM CT, Nov. 28 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
- <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Fight Covid Mandates, Then Blame Biden as Cases Rise</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
  <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
