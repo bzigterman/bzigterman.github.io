@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:24 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
+ <p class="updated_time"> 09:21 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 09:00 PM CT, Nov. 27 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1059535392/honduras-presidential-election">Honduran voters want to protest the president. Their options are a cast of characters</a> NPR: Hondurans go to the polls Sunday, and many voters say they're undecided who they'll vote for. But one thing they do know is that they'll be casting a vote to punish the current National Party. 
  <p class="updated_time"> 04:05 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
- <p class="updated_time"> 03:49 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 03:48 PM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059539557/what-peng-shuais-disappearance-says-about-beijings-grip-on-power">What Peng Shuai's disappearance says about Beijing's grip on power</a> NPR: NPR's David Folkenflik talks to Yan Bennett, of the Center on Contemporary China at Princeton, about Chinese tennis star Peng Shuai's disappearance. 
  <p class="updated_time"> 02:41 PM CT, Nov. 27 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
- <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/solomon-islands-riot.html">Solomon Islands:  Here’s What’s Behind the Unrest</a> NYT: Protesters tried to storm the prime minister’s residence, and he blamed the central government’s 2019 decision to switch allegiances to Beijing from Taipei for the violence. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
