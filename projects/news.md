@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 10:18 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/in-a-nonbinary-pronoun-france-sees-a-us-attack-on-the-republic.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
  <p class="updated_time"> 10:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/south-korea-singing-ban-covid.html">Covid Rules Prevent South Korean Fans From Singing at Concerts</a> NYT: South Koreans including K-pop fans will not be able to shout, chant or sing at performances with 500 or more attendees, according to government rules. 
  <p class="updated_time"> 09:57 AM CT, Nov. 28 </p> 
@@ -52,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:54 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/in-naming-omicron-variant-authorities-skipped-xi-and-nu-11638114899">Authorities Skipped 'Xi' and 'Nu' in Naming New Variant Omicron</a> WSJ: The WHO has been using the Greek alphabet to refer to the most widely prevalent coronavirus variants, but two letters posed problems. 
  <p class="updated_time"> 04:47 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant</a> WSJ: Australia and Austria joined the group of countries that have detected cases of the new Covid-19 variant, which is presenting policy makers with choices that are politically and socially difficult. 
+ <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Israel Shuts Borders</a> WSJ: Australia and Austria joined the group of countries that have detected cases of the new Covid-19 variant, which is presenting policy makers with choices that are politically and socially difficult. 
  <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
  <p class="updated_time"> 08:59 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
- <p class="updated_time"> 08:12 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 08:05 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-travel-restrictions-covid.html">Omicron Variant Prompts More Countries to Restrict Travel from Southern Africa</a> NYT: Australia, Canada and Thailand are among the latest countries to restrict travelers from the region over concerns about the Omicron variant. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:08 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-fauci-america-523413">Omicron variant will 'inevitably' reach the U.S., Fauci says</a> Politico: NIAID Director Anthony Fauci said cases of the Omicron variant have not been detected yet in the U.S., but that “inevitably, it will be here.” 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
@@ -426,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
  <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
- <p class="updated_time"> 10:39 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/news/2021/11/21/brian-deese-senate-spending-bill-523138">White House adviser sees 'a lot of momentum' for social spending bill in the Senate</a> Politico: White House National Economic Council Director Brian Deese said the bill includes issues that every Democratic lawmaker can get behind. 
 
 
 </details>
