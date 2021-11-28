@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/jussie-smollett-chicago-trial-523422">Trial set to start on charges that actor faked racist attack</a> Politico: Jussie Smollett stands accused of staging a hate crime against himself in Chicago. 
  <p class="updated_time"> 02:05 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/mississippi-governor-vaccines-abortions-523421">Mississippi governor draws lines on individual choice</a> Politico: Tate Reeves discussed abortion and vaccine mandates with “Meet the Press” host Chuck Todd. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
@@ -410,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
