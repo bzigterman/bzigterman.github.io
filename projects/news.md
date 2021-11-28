@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:41 PM CT, Nov. 28 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 10:36 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
- <p class="updated_time"> 10:04 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 10:01 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
  <p class="updated_time"> 09:39 AM CT, Nov. 27 </p> 
@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
- <p class="updated_time"> 08:45 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/variant-south-africa-covid.html">South Africa Identifies New Variant of Coronavirus</a> NYT: Within hours of the announcement, Britain, Israel and Singapore had restricted travel from South Africa and some nearby countries. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
