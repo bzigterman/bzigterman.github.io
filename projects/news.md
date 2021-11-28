@@ -292,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
  <p class="updated_time"> 12:33 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/email-political-fundraising-pitches.html">That ‘Team Beto’ Fund-Raising Email? It Might Not Be From Beto.</a> NYT: Mimicking official correspondence is an age-old marketing trick. But look-alike emails suggesting links to Beto O’Rourke’s campaign for governor show the tactic has accelerated in the digital era. 
- <p class="updated_time"> 11:39 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/us-lawmakers-visit-taiwan-china-conducts-military-patrols-523387">U.S. lawmakers visit Taiwan; China conducts military patrols</a> Politico: The visit came as tensions between Taiwan and China have risen to their highest level in decades. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
  <p class="updated_time"> 10:26 AM CT, Nov. 26 </p> 
@@ -334,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
+ <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
@@ -362,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
+ <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
