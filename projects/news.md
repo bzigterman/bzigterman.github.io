@@ -7,14 +7,32 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
- <p class="updated_time"> 04:45 PM CT, Nov. 27 </p> 
+ <p class="updated_time"> 06:36 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
+ <p class="updated_time"> 06:34 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
+ <p class="updated_time"> 06:24 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59409447?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Can US troops be punished for refusing the jabs?</a> BBC: The US military has said that America's 2.1 million soldiers and sailors must all get the vaccine. 
+ <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59134040?at_medium=RSS&at_campaign=KARANGA">Nigerian celebrities Simi and Chigul expose sexism in music and Nollywood</a> BBC: Singer Simi and Nollywood's Chigul tell the BBC about the cultural hurdles female stars face. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59344606?at_medium=RSS&at_campaign=KARANGA">'Why do you like Shah Rukh Khan?'</a> BBC: The Bollywood superstar's female fandom rests not on love but on economics, according to a new book. 
+ <p class="updated_time"> 06:11 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59446944?at_medium=RSS&at_campaign=KARANGA">Hondurans vote to replace controversial leader</a> BBC: A former first lady and a man convicted of corruption vie to succeed an unpopular president. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59262086?at_medium=RSS&at_campaign=KARANGA">Yemen: The woman saving a crumbling heritage</a> BBC: Its famous architecture has been wrecked by war - now a female engineer is rebuilding amid the conflict. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59407041?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'home comforts'</a> BBC: A selection of striking images from our readers around the world. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59429216?at_medium=RSS&at_campaign=KARANGA">‘I’m blind but technology helps me animate’</a> BBC: Elodie Bateson, 11, from Limavady who is blind has become an expert at making short animated movies. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59421912?at_medium=RSS&at_campaign=KARANGA">ICYMI: Smells like Christmas, confirms US First Lady</a> BBC: Jill Biden's clearly feeling festive but here’s some other tree-mendous moments you may have missed this week. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: Three specially chartered planes have now returned 1,000 migrants from Belarus to Iraq. 
  <p class="updated_time"> 04:35 PM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059535392/honduras-presidential-election">Honduran voters want to protest the president. Their options are a cast of characters</a> NPR: Hondurans go to the polls Sunday, and many voters say they're undecided who they'll vote for. But one thing they do know is that they'll be casting a vote to punish the current National Party. 
- <p class="updated_time"> 04:09 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 04:05 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
  <p class="updated_time"> 03:49 PM CT, Nov. 27 </p> 
@@ -95,16 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/australia/thanksgiving-after-lockdowns.html">Giving Thanks in Australia</a> NYT: It’s an odd affair outside America, but maybe the holiday will inspire more of us to pause and appreciate the gifts we’ve been given. 
  <p class="updated_time"> 07:50 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59440642?at_medium=RSS&at_campaign=KARANGA">Musical theatre icon Stephen Sondheim dies at 91</a> BBC: The US composer and lyricist reshaped America's musical theatre in a career spanning over 60 years. 
- <p class="updated_time"> 06:59 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59428011?at_medium=RSS&at_campaign=KARANGA">NFHS: Does India really have more women than men?</a> BBC: An Indian government survey says so - but the numbers don't add up. 
- <p class="updated_time"> 06:56 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/59390968?at_medium=RSS&at_campaign=KARANGA">Covid: Conspiracy and untruths drive Europe's Covid protests</a> BBC: Amid some legitimate concerns, misinformation and extreme views are radicalising people to violent protest. 
- <p class="updated_time"> 06:53 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59383324?at_medium=RSS&at_campaign=KARANGA">Kenya tree felling sparks anger over Nairobi's new highway</a> BBC: Some 4,000 young and mature trees face being cut down to make way for a Chinese-financed project. 
- <p class="updated_time"> 06:49 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59430731?at_medium=RSS&at_campaign=KARANGA">Winter Olympics 2022: Testing times in the Chongli mountains</a> BBC: Beijing is pushing ahead with Winter Olympics test events, despite Covid and human rights allegations. 
- <p class="updated_time"> 06:44 PM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59415885?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine border: Why Moscow is stoking tensions</a> BBC: The Kremlin is sending the West a message, but how big a risk is there of conflict? 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/canada/british-columbia-floods-aftermath.html">British Columbia Flood Victims Come Together In Storm's Wake</a> NYT: A tour of the flood-ravaged parts of the province finds communities supporting each other following disaster. 
  <p class="updated_time"> 06:29 PM CT, Nov. 26 </p> 
@@ -159,14 +167,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/africa/ethiopia-abiy-troops-battlefront.html">Ethiopian Leader Heads to Front Line as War Threatens to Widen</a> NYT: Two years after receiving the Nobel Peace Prize, Prime Minister Abiy Ahmed’s claim that he was going into battle reflected both resolve and vulnerability. 
  <p class="updated_time"> 07:23 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
- <p class="updated_time"> 07:13 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59432579?at_medium=RSS&at_campaign=KARANGA">New Covid variant: South Africa's pride and punishment</a> BBC: South Africans feel they are paying the price for their ability to monitor new Covid variants. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 05:04 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59428504?at_medium=RSS&at_campaign=KARANGA">Covid variant: Reaction to new rules on travel from southern Africa</a> BBC: Travellers at Cape Town airport respond to new UK quarantine measures over Covid variant. 
- <p class="updated_time"> 04:28 AM CT, Nov. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&at_campaign=KARANGA">Why Iraqi Kurds risk their lives to reach the West</a> BBC: What drives people to make the perilous journey, which for many has ended in death? 
  <p class="updated_time"> 02:08 AM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59423301?at_medium=RSS&at_campaign=KARANGA">Clashes as protesters demand end to violence against women</a> BBC: Three are shot dead in Mexico and police fire tear gas in Turkey in rallies over gender-based violence. 
  <p class="updated_time"> 01:29 AM CT, Nov. 26 </p> 
@@ -205,10 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/china-peng-shuai-zhang-gaoli.html">Peng Shuai’s Accusation Pierced the Privileged Citadel of Chinese Politics</a> NYT: Zhang Gaoli was best known as a low-key technocrat. Then a Chinese tennis star’s allegations made him a symbol of a system that bristles against scrutiny. 
- <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59409077?at_medium=RSS&at_campaign=KARANGA">Beatles outtakes in new Peter Jackson film</a> BBC: The Lord of The Rings director has restored more than 50 hours of footage. 
- <p class="updated_time"> 06:01 PM CT, Nov. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59402658?at_medium=RSS&at_campaign=KARANGA">Russian troop build-up: View from Ukraine front line</a> BBC: BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements. 
  <p class="updated_time"> 03:28 PM CT, Nov. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59410982?at_medium=RSS&at_campaign=KARANGA">Inside Dunkirk's new migrant camp</a> BBC: Last week French police officers evicted up to 1,500 people from a camp in Dunkirk. 
 
