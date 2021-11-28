@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
+ <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hour of Voting in Critical Honduras Election: Live Updates</a> NYT: Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
  <p class="updated_time"> 04:09 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The shift was more severe but less discriminatory than those implemented by other nations. Morocco went a step further by banning all travelers. 
- <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hour of Voting in Critical Honduras Election: Live Updates</a> NYT: Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
  <p class="updated_time"> 03:57 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 03:24 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Swiss Voters Approve Their Government’s Covid Policy in a Referendum</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
- <p class="updated_time"> 03:17 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 03:09 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59454243?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish over missing family since tragedy</a> BBC: Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday. 
  <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
@@ -210,7 +210,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:58 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-covid-travel-bans-523428">World Health Organization criticizes travel bans on southern African countries</a> Politico: WHO’s regional director for Africa  called on countries to follow science and international health regulations. 
- <p class="updated_time"> 04:01 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
  <p class="updated_time"> 03:57 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
