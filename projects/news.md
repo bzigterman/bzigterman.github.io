@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
+ <p class="updated_time"> 10:32 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59448525?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands enters partial lockdown amid surging infections</a> BBC: The government says the three-week curbs are critical to protect hospitals from becoming overwhelmed. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 10:20 PM CT, Nov. 27 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
  <p class="updated_time"> 03:48 PM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059539557/what-peng-shuais-disappearance-says-about-beijings-grip-on-power">What Peng Shuai's disappearance says about Beijing's grip on power</a> NPR: NPR's David Folkenflik talks to Yan Bennett, of the Center on Contemporary China at Princeton, about Chinese tennis star Peng Shuai's disappearance. 
- <p class="updated_time"> 02:41 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59442149?at_medium=RSS&at_campaign=KARANGA">Covid: Dozens test positive on SA-Netherlands flights</a> BBC: The Dutch health authority says the new Omicron variant was "probably found in a number of people". 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
  <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
@@ -81,10 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">The omicron variant spreads across Europe as new travel bans take effect</a> NPR: Cases of the latest COVID variant of concern — first identified in South Africa — have been reported in the U.K., Germany, Italy and elsewhere. Travel from southern Africa is now restricted. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
- <p class="updated_time"> 07:40 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59439533?at_medium=RSS&at_campaign=KARANGA">Channel disaster: Kurdish woman is first victim identified</a> BBC: Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq. 
- <p class="updated_time"> 07:25 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
@@ -218,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 06:31 PM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/iran-nuclear-deal-talks-fissures-523408">Maximum fissures: Iran nuclear deal talks head toward oblivion</a> Politico: Expectations are low as talks resume following a lengthy hiatus and an Iranian election. 
  <p class="updated_time"> 05:41 PM CT, Nov. 27 </p> 
@@ -234,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/27/politics/republicans-leaving-fox-news-trump-analysis/index.html">How anti-Trump conservatives have fled Fox News </a> CNN: Former Fox News contributors Jonah Goldberg and Stephen Hayes decided to leave the network last week. The two have long been concerned over former President Donald Trump falsely claiming the 2020 election was stolen. The publication of Tucker Carlson's falsehood-filled "Patriot Purge" on Fox Nation, about January 6, was the last straw. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 09:00 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 07:59 AM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/27/politics/joe-biden-nantucket-covid-19/index.html">Bidens aim for sense of normalcy as nerves grow over worrying new virus variant</a> CNN: President Joe Biden and first lady Jill Biden descended on the island of Nantucket this week looking to preserve the sense of normalcy that the nation was so looking forward to over this holiday season. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
