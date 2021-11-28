@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">00</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59450168?at_medium=RSS&at_campaign=KARANGA">New Zealand politician Julie Anne Genter cycles to hospital to give birth</a> BBC: Julie Anne Genter said she had not planned to cycle whilst in labour, "but it did end up happening". 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
@@ -197,10 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/thanksgiving-air-travel.html">Thanksgiving Air Travel Doubles, Nearly Hitting 2019 Levels</a> NYT: About 2.3 million people passed through security at airports on Wednesday, more than twice as many as in 2020. 
  <p class="updated_time"> 10:06 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
- <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
- <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/asia/pakistan-taliban-afghanistan-madrasa.html">Pakistan Madrasa Taught Afghanistan's Taliban Leaders</a> NYT: Darul Uloom Haqqania in Pakistan argues that the madrasa and its graduates have changed. Some worry they could be the source of new radicalism. 
  <p class="updated_time"> 11:02 PM CT, Nov. 24 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 06:31 PM CT, Nov. 27 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
- <p class="updated_time"> 09:06 AM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/shalanda-young-omb-director.html">Biden to Nominate Shalanda Young as Budget Director</a> NYT: Ms. Young, the acting head of the Office of Management and Budget, would be the first Black woman to hold the post on a permanent basis. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
