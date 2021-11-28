@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:55 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hours of Voting in Critical Honduras Election: Live Updates</a> NYT: Hondurans hope a new leader will improve their lives. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
+ <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
+ <p class="updated_time"> 03:47 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
  <p class="updated_time"> 03:39 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 03:33 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hours of Voting in Critical Honduras Election: Live Updates</a> NYT: Hondurans hope a new leader will improve their lives. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The travel bans appeared more drastic but less discriminatory than those implemented by many Western nations. 
  <p class="updated_time"> 03:24 PM CT, Nov. 28 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401">Taliban Covert Operatives Seized Kabul, Other Afghan Cities From Within</a> WSJ: Undercover agents—often clean-shaven, dressed in jeans and sporting sunglasses—spent years infiltrating Afghan government ministries, universities, businesses and aid organizations. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
- <p class="updated_time"> 10:37 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 10:20 PM CT, Nov. 27 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1059490234/honduras-holds-presidential-elections-after-difficult-year-for-the-country">Honduras holds presidential elections after difficult year for the country</a> NPR: Honduras, one of the poorest and most corrupt countries in the Americas, is holding presidential elections tomorrow. On top of COVID-19, it has also seen large numbers of people leaving for the U.S.. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490199/indias-oldest-chinese-community-faces-the-impact-of-the-two-countrys-tensions">India's oldest Chinese community faces the impact of the two country's tensions</a> NPR: A postcard from India's oldest and largest Chinese community, where residents are feeling recent tensions between Delhi and Beijing. 
- <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059490171/new-covid-19-variant-omicron-sparking-concern-with-its-speed-and-reinfection-rat">New COVID-19 variant, Omicron, sparking concern with its speed and reinfection rate</a> NPR: The World Health Organization has designated a new coronavirus variant a "variant of concern" due to its large number of mutations. The strain has been named Omicron. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 01:58 AM CT, Nov. 27 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
+ <p class="updated_time"> 03:48 PM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059640113/omicron-variant-spreads-to-australia-and-more-of-europe">Omicron variant spreads to Australia and more of Europe</a> NPR: President Biden received a briefing from his medical task force, including Dr. Anthony Fauci, who said that "inevitably" the omicron variant will turn up in the U.S. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html">Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure</a> NYT: The nation’s most ambitious engineering projects are mired in postponements and skyrocketing costs. Delivering $1.2 trillion in new infrastructure will be tough. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262115/venezuelan-opposition-is-regrouping-after-the-ruling-party-dominated-election">Venezuelan opposition is regrouping after the ruling party dominated election</a> NPR: After boycotting elections for years, Venezuela's opposition chose to participate in state and regional elections this week. The ruling Socialist Party won overwhelmingly. 
- <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
  <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Fight Covid Mandates, Then Blame Biden as Cases Rise</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/afghan-refugees.html">For Afghan Refugees, a Choice Between Community and Opportunity</a> NYT: In resettling thousands of displaced Afghans, the Biden administration must weigh their need for support against the needs of the U.S. labor market. 
  <p class="updated_time"> 02:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
- <p class="updated_time"> 02:38 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
@@ -410,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
+ <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
