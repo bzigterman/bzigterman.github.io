@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
  <p class="updated_time"> 11:25 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
- <p class="updated_time"> 10:18 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
  <p class="updated_time"> 10:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/south-korea-singing-ban-covid.html">Covid Rules Prevent South Korean Fans From Singing at Concerts</a> NYT: South Koreans including K-pop fans will not be able to shout, chant or sing at performances with 500 or more attendees, according to government rules. 
  <p class="updated_time"> 09:57 AM CT, Nov. 28 </p> 
@@ -41,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
  <p class="updated_time"> 07:24 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59450598?at_medium=RSS&at_campaign=KARANGA">Great Carnival of Dakar: Fire-eaters and dancers mark event</a> BBC: The three-day event is a celebration of Senegalese culture and features an elaborate parade. 
+ <p class="updated_time"> 07:23 AM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/in-naming-omicron-variant-authorities-skipped-xi-and-nu-11638114899">Authorities Skipped 'Xi' and 'Nu' in Naming New Variant Omicron</a> WSJ: The WHO has been using the Greek alphabet to refer to the most widely prevalent coronavirus variants, but two letters posed problems. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -53,10 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
- <p class="updated_time"> 04:54 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/in-naming-omicron-variant-authorities-skipped-xi-and-nu-11638114899">Authorities Skipped 'Xi' and 'Nu' in Naming New Variant Omicron</a> WSJ: The WHO has been using the Greek alphabet to refer to the most widely prevalent coronavirus variants, but two letters posed problems. 
  <p class="updated_time"> 04:47 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Israel Shuts Borders</a> WSJ: Australia, Austria and the Netherlands joined the group of countries that have detected cases of the new Covid-19 variant, which is presenting policy makers with choices that are politically and socially difficult. 
+ <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Israel Shuts Borders</a> WSJ: Australia, Austria and the Netherlands joined the list of countries that have detected cases of the new Covid-19 variant, which is presenting governments with some tough choices. 
  <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59434553?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Migrants crossing English Channel to UK</a> BBC: This week at least 27 migrants died while trying to make the journey, the deadliest crossing on record. 
  <p class="updated_time"> 05:52 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
- <p class="updated_time"> 05:22 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
  <p class="updated_time"> 03:48 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/south-africa-covid-variant-hong-kong.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/cohen-trump-grifting-american-people-523419">Michael Cohen says Trump is ‘grifting’ off the American people</a> Politico: The former attorney for Donald Trump also said he’s convinced the former president won’t run again. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:08 AM CT, Nov. 28 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/24/us/politics/biden-inflation-prices.html">The Inflation Miscalculation Complicating Biden’s Agenda</a> NYT: Administration officials blame the Delta variant for a prolonged stretch of consumer spending on goods, rather than services, pushing up prices and creating a conundrum for the Fed. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
- <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
  <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 01:06 PM CT, Nov. 24 </p> 
