@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:13 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Votes in Election Closely Watched in U.S.: Live Updates</a> NYT: Hondurans hope a new leader will improve their lives. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Last Hours of Voting in Critical Honduras Election: Live Updates</a> NYT: Hondurans hope a new leader will improve their lives. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. Many Hondurans living in the United States struggled to cast a ballot. 
+ <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The travel bans appeared more drastic but less discriminatory than those implemented by many Western nations. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Swiss Voters Approve Their Government’s Covid Policy in a Referendum</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
+ <p class="updated_time"> 03:17 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 03:09 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59454243?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish over missing family since tragedy</a> BBC: Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday. 
  <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
- <p class="updated_time"> 02:09 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The travel bans appeared more drastic but less discriminatory than those implemented by many Western nations. 
  <p class="updated_time"> 01:31 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
- <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 10:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/south-korea-singing-ban-covid.html">Covid Rules Prevent South Korean Fans From Singing at Concerts</a> NYT: South Koreans including K-pop fans will not be able to shout, chant or sing at performances with 500 or more attendees, according to government rules. 
  <p class="updated_time"> 09:57 AM CT, Nov. 28 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/asia/india-kolkata-cafe-culture.html">Coffee or Chai? At 2 Kolkata Cafes, ‘Adda’ Is What’s Really on the Menu</a> NYT: Unrestricted talk, or “adda,” is the main draw at two storied cafes that are at once museums to the city’s intellectual history — and places for debate. 
  <p class="updated_time"> 06:37 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
- <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html">Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure</a> NYT: The nation’s most ambitious engineering projects are mired in postponements and skyrocketing costs. Delivering $1.2 trillion in new infrastructure will be tough. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/jussie-smollett-chicago-trial-523422">Trial set to start on charges that actor faked racist attack</a> Politico: Jussie Smollett stands accused of staging a hate crime against himself in Chicago. 
  <p class="updated_time"> 02:05 PM CT, Nov. 28 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/25/1059262073/south-korean-semiconductor-makers-are-giving-the-u-s-data-but-with-some-concern">South Korean semiconductor makers are giving the U.S. data, but with some concern</a> NPR: The White House is enlisting allies in its efforts to rebuild U.S. manufacturing capacity in the high-tech sector. South Korean semiconductor makers are playing along, but with some misgivings. 
  <p class="updated_time"> 11:04 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/24/us/politics/republicans-biden-coronavirus.html">Republicans Fight Covid Mandates, Then Blame Biden as Cases Rise</a> NYT: Republicans have fought mask requirements and vaccine mandates for months, but as coronavirus infections again rise, they are blaming the president for failing to end the health crisis. 
- <p class="updated_time"> 10:40 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/24/us/politics/pentagon-ufos.html">Pentagon Forms a Group to Examine Unexplained Aerial Sightings</a> NYT: The announcement follows a report that failed to clarify strange phenomena observed by military pilots and others over the past two decades. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
  <p class="updated_time"> 07:07 AM CT, Nov. 25 </p> 
