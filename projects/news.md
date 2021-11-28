@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
+ <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
  <p class="updated_time"> 07:18 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 07:12 AM CT, Nov. 28 </p> 
@@ -153,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/asia/south-africa-covid-variant-hong-kong.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
  <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391777/u-s-and-iran-to-talk-nuclear-deal-on-monday">U.S. and Iran to talk nuclear deal on Monday</a> NPR: The Biden administration will take another try at reviving the Iran nuclear deal in talks that start in Vienna. Time has passed and much has changed since the Trump White House abandoned the deal. 
- <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059391761/dr-francis-collins-on-what-we-know-about-the-omicron-variant-so-far">Dr. Francis Collins on what we know about the Omicron variant so far</a> NPR: NPR's Audie Cornish speaks with National Institutes of Health director Dr. Francis Collins about how the new COVID-19 variant might affect U.S. response and where the national strategy goes from here. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/covid-france-booster.html">France Make All Adults Eligible for Boosters Amid Covid Surge</a> NYT: The French health minister said the latest wave of cases would be worse than the one during the summer. Adults will need a booster for their health pass to remain valid. 
  <p class="updated_time"> 08:40 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/inflation-pikachu-thanksgiving-balloons-macy.html">Another Thanksgiving Tradition Returns to N.Y.C. on 72nd Street</a> NYT: On Wednesday, the public got a front-row seat to organizers inflating a giant Pikachu, Papa Smurf, Smokey Bear and other balloon stars. 
- <p class="updated_time"> 05:47 AM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/africa/somalia-explosion-school-8-dead.html">Explosion Outside School Kills 8 in Somalia’s Capital</a> NYT: The latest in a series of deadly attacks comes as the country is gripped by election instability and by a drought that threatens 2.6 million people. 
 
 
 </details>
