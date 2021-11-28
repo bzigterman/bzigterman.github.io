@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59452651?at_medium=RSS&at_campaign=KARANGA">Kevin Strickland: Fundraiser for exonerated Missouri man tops $1.5m</a> BBC: Kevin Strickland was released after 42 years in jail over a triple murder he did not commit. 
  <p class="updated_time"> 09:40 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election 2021: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
- <p class="updated_time"> 09:31 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 09:26 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Covid: 13 test positive for Omicron after S Africa-Netherlands flights</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 09:21 AM CT, Nov. 28 </p> 
