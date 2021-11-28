@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/omicron-covid-variant-collins-523411">Too early to know answers on Omicron variant, NIH director says</a> Politico: Francis Collins said there are many unknowns at this point. 
  <p class="updated_time"> 08:41 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
