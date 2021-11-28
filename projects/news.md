@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:40 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59380745?at_medium=RSS&at_campaign=KARANGA">Covid: Swiss back government on Covid pass as cases surge</a> BBC: Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe. 
  <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who first spotted the new variant says patients are showing very mild symptoms so far. 
+ <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59444335?at_medium=RSS&at_campaign=KARANGA">Calais activists: Migrants call us from boats asking for help</a> BBC: Activists in Calais demand change after decades of people coming to the city looking to reach the UK. 
  <p class="updated_time"> 12:15 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/irans-nuclear-advances-weigh-on-renewed-talks-11638098147">Iran's Nuclear Advances Weigh on Renewed Talks</a> WSJ: Negotiators are convening in Vienna this week with the aim of reviving the 2015 international nuclear agreement, a top foreign-policy goal of the Biden administration. 
- <p class="updated_time"> 11:46 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59448525?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands tightens partial lockdown amid surging infections</a> BBC: The government says the three-week curbs are critical to protect hospitals from becoming overwhelmed. 
  <p class="updated_time"> 11:30 PM CT, Nov. 27 </p> 
  <a href="https://www.wsj.com/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401">Taliban Covert Operatives Seized Kabul, Other Afghan Cities From Within</a> WSJ: Undercover agents—often clean-shaven, dressed in jeans and sporting sunglasses—spent years infiltrating Afghan government ministries, universities, businesses and aid organizations. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
