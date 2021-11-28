@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/28/1059025751/who-seeks-a-new-treaty-on-handling-future-pandemics-it-could-be-a-hard-sell">The WHO is seeking a new treaty on handling future pandemics. It could be a hard sell</a> NPR: At a special session this week, the World Health Organization hopes to start sketching out a new world order. "We don't have rules of the game," says WHO head Tedros Adhanom Ghebreyesus. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Iran nuclear talks are starting again. A lot has changed, and here's what's at stake</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:48 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Omicron Netherlands: 13 air passengers test positive for new variant</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
@@ -32,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
+ <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
@@ -155,12 +159,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059200463/india-farmer-protests-modi-farm-laws">India's farmers faced down a popular prime minister and won. What will they do now?</a> NPR: India is repealing controversial farm laws that sparked a year of protest from farmers. Analysts say it's both a victory for nonviolent resistance, and a shrewd political move. 
  <p class="updated_time"> 04:25 PM CT, Nov. 26 </p> 
  <a href="https://www.wsj.com/articles/omicron-coronavirus-variant-raises-questions-among-scientists-11637954249">Omicron Coronavirus Variant Raises Questions Among Scientists</a> WSJ: Researchers are investigating whether mutations might make the variant more infectious or evade immune response. 
- <p class="updated_time"> 04:09 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059399463/who-is-trying-to-start-outlining-international-rules-for-covid-outbreaks">WHO is trying to start outlining international rules for COVID outbreaks</a> NPR: Representatives from 194 countries will start negotiations on a possible new pandemic treaty. Officials say a lack of clarity on countries' obligations has hindered the response to COVID. 
  <p class="updated_time"> 03:48 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/south-africa-covid-variant-hong-kong.html">Hong Kong Records Two Cases of Variant Detected in South Africa</a> NYT: The discovery could complicate efforts to reopen the border between the territory and the Chinese mainland. 
- <p class="updated_time"> 03:46 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059391777/u-s-and-iran-to-talk-nuclear-deal-on-monday">U.S. and Iran to talk nuclear deal on Monday</a> NPR: The Biden administration will take another try at reviving the Iran nuclear deal in talks that start in Vienna. Time has passed and much has changed since the Trump White House abandoned the deal. 
  <p class="updated_time"> 02:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 02:01 PM CT, Nov. 26 </p> 
@@ -212,9 +212,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
  <p class="updated_time"> 09:52 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-covid-variant-collins-523411">Too early to know answers on Omicron variant, NIH director says</a> Politico: Francis Collins said there are many unknowns at this point. 
- <p class="updated_time"> 08:41 AM CT, Nov. 28 </p> 
+ <p class="updated_time"> 09:10 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/abortion-roe-vs-wade-john-roberts-supreme-court/index.html">John Roberts' long history with abortion and Roe v. Wade</a> CNN: Since his first job as a young lawyer in Washington, John Roberts' work has been entangled with Roe v. Wade, the 1973 decision that gave women a right to end a pregnancy. 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
- <p class="updated_time"> 05:58 PM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/25/canada-climate-change-agenda-523380">Watchdog: Department in charge of Trudeau's climate agenda lacks clout to drive it</a> Politico: Environment and Sustainable Development Commissioner Jerry DeMarco said Canada's climate record is one of failure. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
  <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
