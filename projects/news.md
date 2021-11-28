@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
+ <p class="updated_time"> 09:00 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
+ <p class="updated_time"> 08:59 PM CT, Nov. 27 </p> 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 08:12 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 08:05 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-travel-restrictions-covid.html">Omicron Variant Prompts More Countries to Restrict Travel from Southern Africa</a> NYT: Australia, Canada and Thailand are among the latest countries to restrict travelers from the region over concerns about the Omicron variant. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
- <p class="updated_time"> 06:51 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 06:34 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 06:24 PM CT, Nov. 27 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59262086?at_medium=RSS&at_campaign=KARANGA">Yemen: The woman saving a crumbling heritage</a> BBC: Its famous architecture has been wrecked by war - now a female engineer is rebuilding amid the conflict. 
  <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59407041?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'home comforts'</a> BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 06:04 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59429216?at_medium=RSS&at_campaign=KARANGA">‘I’m blind but technology helps me animate’</a> BBC: Elodie Bateson, 11, from Limavady who is blind has become an expert at making short animated movies. 
  <p class="updated_time"> 06:02 PM CT, Nov. 27 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
  <p class="updated_time"> 10:36 AM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
- <p class="updated_time"> 10:33 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
  <p class="updated_time"> 10:08 AM CT, Nov. 27 </p> 
  <a href="https://www.wsj.com/articles/dutch-authorities-isolate-61-covid-19-cases-among-travelers-from-south-africa-11638007221">First Omicron Covid-19 Cases Detected in U.K., Italy</a> WSJ: Britain and Italy became the latest nations to confirm cases of the new variant, as other European countries probe suspected cases of a coronavirus strain the WHO says could be more transmissible. 
  <p class="updated_time"> 10:04 AM CT, Nov. 27 </p> 
