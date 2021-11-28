@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:43 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 10:18 AM CT, Nov. 28 </p> 
@@ -33,12 +35,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Iran nuclear talks are starting again. A lot has changed, and here's what's at stake</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
- <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after two cases of the Omicron variant were detected. 
  <p class="updated_time"> 08:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
+ <p class="updated_time"> 07:24 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59450598?at_medium=RSS&at_campaign=KARANGA">Great Carnival of Dakar: Fire-eaters and dancers mark event</a> BBC: The three-day event is a celebration of Senegalese culture and features an elaborate parade. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:54 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/in-naming-omicron-variant-authorities-skipped-xi-and-nu-11638114899">Authorities Skipped 'Xi' and 'Nu' in Naming New Variant Omicron</a> WSJ: The WHO has been using the Greek alphabet to refer to the most widely prevalent coronavirus variants, but two letters posed problems. 
  <p class="updated_time"> 04:47 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Israel Shuts Borders</a> WSJ: Australia and Austria joined the group of countries that have detected cases of the new Covid-19 variant, which is presenting policy makers with choices that are politically and socially difficult. 
+ <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Israel Shuts Borders</a> WSJ: Australia, Austria and the Netherlands joined the group of countries that have detected cases of the new Covid-19 variant, which is presenting policy makers with choices that are politically and socially difficult. 
  <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
@@ -62,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59444335?at_medium=RSS&at_campaign=KARANGA">Calais activists: Migrants call us from boats asking for help</a> BBC: Activists in Calais demand change after decades of people coming to the city looking to reach the UK. 
  <p class="updated_time"> 02:00 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/honduran-election-sparks-worries-of-unrest-and-further-migration-11638104402">Honduran Election Sparks Worries of Unrest</a> WSJ: A tense presidential election is pitting a ruling party dogged by allegations of corruption against the wife of a controversial former leftist president, with U.S. officials fearing the election could touch off violence that would prompt further migration northward. 
+ <a href="https://www.wsj.com/articles/honduran-election-sparks-worries-of-unrest-and-further-migration-11638104402">Honduran Election Sparks Worries of Unrest</a> WSJ: A tense presidential election is pitting a ruling party dogged by corruption allegations against the wife of a controversial former president, with U.S. officials fearing possible violence could prompt further migration. 
  <p class="updated_time"> 12:15 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/irans-nuclear-advances-weigh-on-renewed-talks-11638098147">Iran's Nuclear Advances Weigh on Renewed Talks</a> WSJ: Negotiators are convening in Vienna this week with the aim of reviving the 2015 international nuclear agreement, a top foreign-policy goal of the Biden administration. 
  <p class="updated_time"> 11:30 PM CT, Nov. 27 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe-covid-cases-pandemic-progress.html">Europe is Tested by Waves of Cases that Threaten its Progress Against Pandemic</a> NYT: The deteriorating situation is also worrisome for the United States, as trends in new Covid cases tended to follow Europe by weeks. 
  <p class="updated_time"> 12:51 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/britain-variant-africa-travel-ban.html">Britain to Ban Flights From Six African Nations as Variant Identified</a> NYT: The British health secretary said the ban takes effect on Friday. Earlier on Thursday, South African scientists said they had identified a new variant. 
- <p class="updated_time"> 05:46 PM CT, Nov. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&at_campaign=KARANGA">Dramatic rescue of 300 from migrant boat in Italy</a> BBC: Some people were already in the water when the Italian coastguard reached them off Lampedusa Island. 
  <p class="updated_time"> 05:13 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:50 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/lincoln-project-anymore-523409">No one seems to like the Lincoln Project anymore</a> Politico: Once the belle of the resistance ball, the group now has a growing list of detractors. They say they’re still committed to the fight. 
  <p class="updated_time"> 06:42 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/south-africa-covid-variant-omicron-523410">South African scientists brace for wave propelled by omicron</a> Politico: The omicron variant has sent South Africa from a period of low transmission to rapid growth of new confirmed cases. 
+ <a href="https://www.politico.com/news/2021/11/28/south-africa-covid-variant-omicron-523410">South African scientists brace for wave propelled by variant</a> Politico: The Omicron variant has sent South Africa from a period of low transmission to rapid growth of new confirmed cases. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 11:03 PM CT, Nov. 27 </p> 
@@ -426,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/senate-jan-6-ethics-probe-cruz-hawley-523033">Senate's Jan. 6 ethics probe into Cruz, Hawley drags on</a> Politico: It's been 10 months since seven Democrats asked for an inquiry into two Republican senators who led objections to certifying the 2020 election. 
- <p class="updated_time"> 11:18 AM CT, Nov. 21 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/21/biden-tries-to-calm-nerves-about-2024-495178">POLITICO Playbook: Biden tries to calm nerves about 2024</a> Politico: And Rep. Alexandria Ocasio-Cortez issues a warning to Democratic leadership. 
 
 
 </details>
