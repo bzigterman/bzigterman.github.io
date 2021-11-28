@@ -210,6 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/2021/11/28/1059657056/carrie-meek-black-former-congresswoman-dies">Carrie Meek, pioneering Black former congresswoman, has died</a> NPR: Meek, the grandchild of a slave and a sharecropper's daughter who became one of the first Black Floridians elected to Congress since Reconstruction, died Sunday. She was 95. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman lights first candle at National Menorah ceremony: 'Jewish history is American history'</a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 05:23 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/january-6-investigation/index.html">The latest in the January 6 investigation</a> CNN: The House select committee investigating the January 6 US Capitol riot is touting its extensive number of interviews and subpoenas, but a court hearing Tuesday may determine how much lawmakers will eventually be able to accomplish in their probe. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/omicron-covid-travel-bans-523428">World Health Organization criticizes travel bans on southern African countries</a> Politico: WHO’s regional director for Africa  called on countries to follow science and international health regulations. 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
- <p class="updated_time"> 04:35 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman lights first candle at National Menorah ceremony: 'Jewish history is American history'</a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
  <p class="updated_time"> 03:57 PM CT, Nov. 28 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
- <p class="updated_time"> 03:19 PM CT, Nov. 25 </p> 
- <a href="https://www.npr.org/2021/11/25/1059262108/author-kati-marton-explores-angela-merkel-s-impact-on-the-world-in-the-chancello">Encore: Author Kati Marton explores Angela Merkel's impact on Germany and the world</a> NPR: NPR's Sarah McCammon speaks with author Kati Marton about her biography of Angela Merkel, The Chancellor, and what the politician's departure means for Germany and the world. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
