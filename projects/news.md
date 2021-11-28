@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-travel-restrictions-covid.html">Omicron Variant Prompts More Countries to Restrict Travel from Southern Africa</a> NYT: Australia, Canada and Thailand are among the latest countries to restrict travelers from the region over concerns about the Omicron variant. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
- <p class="updated_time"> 06:34 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59442129?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa 'punished' for detecting new Omicron variant</a> BBC: South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say. 
  <p class="updated_time"> 06:24 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59409447?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Can US troops be punished for refusing the jabs?</a> BBC: The US military has said that America's 2.1 million soldiers and sailors must all get the vaccine. 
  <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
