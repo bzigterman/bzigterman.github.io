@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:13 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Votes in Election Closely Watched in U.S.: Live Updates</a> NYT: Hondurans hope a new leader will improve their lives. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. 
+ <p class="updated_time"> 03:09 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59454243?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish over missing family since tragedy</a> BBC: Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday. 
  <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Preliminary results are expected three hours later. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:41 PM CT, Nov. 28 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-travel-restrictions-covid.html">Omicron Variant Prompts More Countries to Restrict Travel from Southern Africa</a> NYT: Australia, Canada and Thailand are among the latest countries to restrict travelers from the region over concerns about the Omicron variant. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
- <p class="updated_time"> 06:24 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59409447?at_medium=RSS&at_campaign=KARANGA">Covid vaccine: Can US troops be punished for refusing the jabs?</a> BBC: The US military has said that America's 2.1 million soldiers and sailors must all get the vaccine. 
  <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134040?at_medium=RSS&at_campaign=KARANGA">Nigerian celebrities Simi and Chigul expose sexism in music and Nollywood</a> BBC: Singer Simi and Nollywood's Chigul tell the BBC about the cultural hurdles female stars face. 
  <p class="updated_time"> 06:10 PM CT, Nov. 27 </p> 
@@ -197,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/world/europe/russia-mine-explosion.html">Russian Mine Blast Kills Dozens, Among Them Rescuers</a> NYT: Investigators said a gas buildup at a Siberian mine with a history of problems led to the deaths of at least 52 people. 
  <p class="updated_time"> 04:25 PM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/world/gambia-jammeh-prosecution.html">Abuses Under Gambia’s Ex-Ruler Should Be Prosecuted, Inquiry Says</a> NYT: A commission’s long-awaited investigation reported widespread human rights violations, but it is not clear if anyone will be charged with crimes. 
- <p class="updated_time"> 03:24 PM CT, Nov. 25 </p> 
- <a href="https://www.nytimes.com/2021/11/25/world/europe/english-channel-migrant-crossings.html">Undeterred by Channel’s Perils, Desperate Migrants Still Plan to Cross</a> NYT: The number of migrants setting off into the English Channel by boat has soared in recent months. The deaths Wednesday of at least 27 people trying to make the crossing illustrate how dangerous it is. 
 
 
 </details>
