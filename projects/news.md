@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:46 PM CT, Nov. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59448525?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands enters partial lockdown amid surging infections</a> BBC: The government says the three-week curbs are critical to protect hospitals from becoming overwhelmed. 
  <p class="updated_time"> 11:45 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
- <p class="updated_time"> 10:32 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59448525?at_medium=RSS&at_campaign=KARANGA">Covid: Netherlands enters partial lockdown amid surging infections</a> BBC: The government says the three-week curbs are critical to protect hospitals from becoming overwhelmed. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 10:20 PM CT, Nov. 27 </p> 
