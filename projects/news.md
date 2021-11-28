@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one quarter of its population has been fully vaccinated. 
+ <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Covid: 13 test positive for Omicron after S Africa-Netherlands flights</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 12:39 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
- <p class="updated_time"> 12:32 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one quarter of its population has been fully vaccinated. 
  <p class="updated_time"> 12:32 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59452651?at_medium=RSS&at_campaign=KARANGA">Kevin Strickland: Fundraiser for exonerated Missouri man tops $1.5m</a> BBC: Kevin Strickland was released after 42 years in jail over a triple murder he did not commit. 
  <p class="updated_time"> 09:40 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election 2021: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
- <p class="updated_time"> 09:26 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Covid: 13 test positive for Omicron after S Africa-Netherlands flights</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 09:21 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html">U.K. Confirms Two Cases of Omicron Coronavirus Variant</a> NYT: The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’ 
  <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:05 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/mississippi-governor-vaccines-abortions-523421">Mississippi governor draws lines on individual choice</a> Politico: Tate Reeves discussed abortion and vaccine mandates with “Meet the Press” host Chuck Todd. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/cohen-trump-grifting-american-people-523419">Michael Cohen says Trump is ‘grifting’ off the American people</a> Politico: The former attorney for Donald Trump also said he’s convinced the former president won’t run again. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
