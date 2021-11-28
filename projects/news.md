@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
+ <p class="updated_time"> 09:47 AM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59452651?at_medium=RSS&at_campaign=KARANGA">Kevin Strickland: Fundraiser for exonerated Missouri man tops $1.5m</a> BBC: Kevin Strickland was released after 42 years in jail over a triple murder he did not commit. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 09:31 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 09:26 AM CT, Nov. 28 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
- <p class="updated_time"> 07:12 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">Honduras Election: What's at Stake</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
- <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
  <p class="updated_time"> 02:45 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59450168?at_medium=RSS&at_campaign=KARANGA">New Zealand politician Julie Anne Genter cycles to hospital to give birth</a> BBC: Julie Anne Genter said she had not planned to cycle whilst in labour, "but it did end up happening". 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
  <p class="updated_time"> 04:35 PM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059535392/honduras-presidential-election">Honduran voters want to protest the president. Their options are a cast of characters</a> NPR: Hondurans go to the polls Sunday, and many voters say they're undecided who they'll vote for. But one thing they do know is that they'll be casting a vote to punish the current National Party. 
- <p class="updated_time"> 04:05 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59443521?at_medium=RSS&at_campaign=KARANGA">Burkina Faso: Tear gas fired at protesters decrying Islamist attacks</a> BBC: The protest comes amid fear of an Islamist encroachment following a number of recent attacks. 
  <p class="updated_time"> 03:48 PM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059539557/what-peng-shuais-disappearance-says-about-beijings-grip-on-power">What Peng Shuai's disappearance says about Beijing's grip on power</a> NPR: NPR's David Folkenflik talks to Yan Bennett, of the Center on Contemporary China at Princeton, about Chinese tennis star Peng Shuai's disappearance. 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
