@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:23 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health care workers in some states. 
+ <p class="updated_time"> 05:35 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health workers in 10 states. 
  <p class="updated_time"> 05:14 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
  <p class="updated_time"> 05:06 PM CT, Nov. 29 </p> 
@@ -204,10 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/maxwell-epstein-partners-in-crime-prosecutor-says-523478">Maxwell, Epstein were ‘partners in crime,’ prosecutor says</a> Politico: Ghislaine Maxwell’s sex trafficking trial gets under way. 
  <p class="updated_time"> 05:37 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/bill-cosby-supreme-court-523475">Cosby prosecutors urge Supreme Court to restore conviction</a> Politico: Legal scholars and victim advocates will be watching closely to see if the court takes an interest in the high-profile #MeToo case. 
+ <p class="updated_time"> 05:36 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">McConnell threatens to stall defense bill without amendment votes</a> Politico: Democrats need to muster 60 votes to advance the defense policy bill, meaning Republicans could stall the measure if they hang together on the vote. 
- <p class="updated_time"> 05:29 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
@@ -281,7 +281,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:48 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/shutdown-congress-funding-523442">'No appetite' for a shutdown as Congress readies funding fix</a> Politico: Leaders are mulling mid to late January for the new funding deadline rather than before Christmas as previously discussed. 
  <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — bills to fund the government, avoid a default on the nation's credit limit and a $2 trillion spending bill. 
+ <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — to fund the government and avoid a default on the nation's credit limit, plus a $2 trillion spending bill. 
  <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1056129045/as-the-supreme-court-considers-roe-v-wade-a-look-at-how-abortion-became-legal">As the Supreme Court considers Roe v. Wade, a look at how abortion became legal</a> NPR: Abortion did not become illegal in most states until the mid to late 1800s. But by the 1960s, abortion, like childbirth, had become a safe procedure when performed by a doctor. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
@@ -406,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
- <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
 
 
 </details>
