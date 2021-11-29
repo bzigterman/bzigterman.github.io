@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
+ <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the omicron variant was identified can work against scientific transparency. 
  <p class="updated_time"> 08:53 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 08:46 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
- <p class="updated_time"> 08:45 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Both main parties have claimed victory. The United States is watching the results closely. 
  <p class="updated_time"> 07:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 07:37 PM CT, Nov. 28 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490248/british-columbia-faces-floods-after-a-months-worth-of-rain-fell-in-two-days">British Columbia faces floods after a month's worth of rain fell in two days </a> NPR: The residents of British Columbia, Canada, face more heavy rains while still recovering from a previous storm that caused widespread flooding and damage. 
- <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059490234/honduras-holds-presidential-elections-after-difficult-year-for-the-country">Honduras holds presidential elections after difficult year for the country</a> NPR: Honduras, one of the poorest and most corrupt countries in the Americas, is holding presidential elections tomorrow. On top of COVID-19, it has also seen large numbers of people leaving for the U.S.. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
@@ -214,8 +214,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
- <p class="updated_time"> 08:34 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 09:07 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/matthew-mcconaughey-not-running-texas-governor/index.html">Matthew McConaughey will not run for Texas governor</a> CNN: Actor Matthew McConaughey announced Sunday in a video message on Twitter that a future in political leadership is not in the cards -- right now. 
+ <p class="updated_time"> 08:57 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/carrie-meek-florida-pioneer-congresswoman/index.html">Carrie Meek, trailblazing Black former congresswoman, dies at 95</a> CNN: Former Rep. Carrie Meek, who broke barriers throughout her winding political career as the daughter of a sharecropper and granddaughter of a slave, died Sunday in her Miami home. She was 95. 
  <p class="updated_time"> 08:29 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman attends National Menorah lighting ceremony: 'Jewish history is American history'  </a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
  <p class="updated_time"> 07:05 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/first-amendment-praetorian-january-6-subpoena/index.html">What is the 1st Amendment Praetorian, the obscure far-right group subpoenaed by the January 6 committee?</a> CNN: An obscure far-right paramilitary group is in the spotlight this week after getting subpoenaed by the House select committee investigating the January 6 insurrection. 
- <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
