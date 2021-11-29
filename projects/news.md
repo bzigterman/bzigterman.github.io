@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as More Countries Close Borders</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden was scheduled to deliver an update on the U.S. response. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
+ <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the Omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant Delta variant, has global health officials worried about a possible new surge in cases. 
+ <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden was scheduled to deliver an update on the U.S. response. 
  <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59458466?at_medium=RSS&at_campaign=KARANGA">Tanzania: Seven die in Zanzibar after eating poisonous turtle meat</a> BBC: The meat is a delicacy for some in Tanzania but the authorities have now banned its consumption. 
  <p class="updated_time"> 08:14 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
- <p class="updated_time"> 08:07 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 08:07 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
@@ -175,14 +177,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
  <p class="updated_time"> 10:01 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
- <p class="updated_time"> 09:39 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
- <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 11:32 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
@@ -204,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
  <p class="updated_time"> 08:43 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Will Not Run for Texas Governor</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 08:18 AM CT, Nov. 29 </p> 
@@ -410,16 +410,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
  <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
- <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
- <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
 
 
 </details>
