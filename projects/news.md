@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:27 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 01:35 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
+ <p class="updated_time"> 01:27 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 01:22 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. announces Omicron cases and extends boosters to all adults.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 01:20 PM CT, Nov. 29 </p> 
@@ -42,21 +44,21 @@ permalink: /projects/news/
  <p class="updated_time"> 10:05 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59414088?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: How he 'helped black people dream in fashion'</a> BBC: Radio 1 Newsbeat has been speaking to people about the legacy Virgil Abloh leaves behind. 
  <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Couple Who Left Quarantine Hotel Is Arrested on Plane in Amsterdam</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Dutch Police Arrest a Couple Who Fled Quarantine and Boarded a Plane.</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
  <p class="updated_time"> 09:45 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
  <p class="updated_time"> 09:37 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Jury selection begins in actor’s trial</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 09:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell's sex-trafficking trial begins in New York City</a> BBC: The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse. 
- <p class="updated_time"> 09:18 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
  <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
+ <p class="updated_time"> 08:36 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 08:17 AM CT, Nov. 29 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in hospitalizations in Gauteng province during the past two weeks, although fewer patients than in previous surges are being treated for severe disease. 
  <p class="updated_time"> 06:33 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/iran-doubles-down-on-demands-as-nuclear-talks-resume-11638207200">Iran Doubles Down on Demands as Nuclear Talks Resume</a> WSJ: Tehran’s position raised doubts over an early breakthrough in negotiations in Vienna that aim to address steps Iran and the U.S. will take to revive the 2015 nuclear deal. 
- <p class="updated_time"> 06:16 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -170,7 +170,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 09:00 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Variant Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
+ <a href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html">How Did the New Covid Variant, Omicron, Get Its Name?</a> NYT: The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma. 
  <p class="updated_time"> 08:59 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 08:05 PM CT, Nov. 27 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
  <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and she fought for programs to create jobs. 
+ <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and in five terms she fought for programs to create jobs. 
  <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
  <p class="updated_time"> 01:09 PM CT, Nov. 29 </p> 
@@ -324,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/donald-trump-senate-picks-stumble-523407">Trump’s Senate picks stumble out of the gate</a> Politico: The former president’s endorsement doesn’t guarantee a glide path to the GOP nomination. 
- <p class="updated_time"> 06:50 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/lincoln-project-anymore-523409">No one seems to like the Lincoln Project anymore</a> Politico: Once the belle of the resistance ball, the group now has a growing list of detractors. They say they’re still committed to the fight. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 11:03 PM CT, Nov. 27 </p> 
@@ -382,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
  <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
+ <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
