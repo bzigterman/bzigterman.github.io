@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 05:11 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 05:10 AM CT, Nov. 29 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/asia/south-korea-singing-ban-covid.html">Covid Rules Prevent South Korean Fans From Singing at Concerts</a> NYT: South Koreans including K-pop fans will not be able to shout, chant or sing at performances with 500 or more attendees, according to government rules. 
  <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059695761/leftist-claims-victory-in-honduran-vote-setting-up-a-showdown-with-national-part">Leftist claims victory in Honduran vote, setting up a showdown with National Party</a> NPR: The leftist opposition candidate claimed victory in Sunday's presidential election, while the National Party also said its candidate had won. Complete results may not be known for days. 
- <p class="updated_time"> 12:43 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 12:39 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59456143?at_medium=RSS&at_campaign=KARANGA">Macau casino shares fall after 'illegal gambling' arrests</a> BBC: A prominent gambling industry figure in Macau is believed to be among those arrested. 
  <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
  <p class="updated_time"> 05:03 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-agenda-republicans-quest-to-flip-house-2022/index.html">Biden's agenda brings warring conservative factions together in quest to flip House </a> CNN: The US Chamber of Commerce last year endorsed 23 vulnerable freshman House Democrats -- the most in at least a decade -- and enraged House GOP Leader Kevin McCarthy and other top Republicans who accused their long-time big business allies of heresy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
