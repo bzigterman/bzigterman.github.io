@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:29 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 04:37 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
@@ -198,8 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">McConnell threatens to stall defense bill without amendment votes</a> Politico: Democrats need to muster 60 votes to advance the defense policy bill, meaning Republicans could stall the measure if they hang together on the vote. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
+ <p class="updated_time"> 04:41 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 04:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 04:17 PM CT, Nov. 29 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 02:59 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
- <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">Biden meets with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/climate/climate-change-drilling-public-lands.html">Interior Dept. Report on Drilling Is Mostly Silent on Climate Change</a> NYT: The department recommended higher fees for oil and gas leases, but there was no sign the government planned to take global warming into account when weighing new applications. 
  <p class="updated_time"> 02:32 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/guantanamo-bay.html">Guantánamo Bay: Beyond the Prison</a> NYT: With 6,000 residents and the feel of a college campus, the U.S. Navy base has some of the trappings of small-town America, and some of a police state. 
- <p class="updated_time"> 02:06 PM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/biden-admin-announces-travel-ban-for-south-africa-and-7-other-countries-citing-new-variant-523394">Biden admin announces travel ban for South Africa and 7 other countries, citing new variant</a> Politico: The travel restrictions will begin Monday, according to a senior administration official. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
@@ -368,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
