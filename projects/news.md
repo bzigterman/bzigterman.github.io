@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
  <p class="updated_time"> 03:37 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
  <p class="updated_time"> 03:20 PM CT, Nov. 29 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Much has changed for the Iran nuclear deal. These are 4 things to know as talks resume</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
- <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
@@ -200,6 +200,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
+ <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Former Trump Official With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
+ <p class="updated_time"> 03:42 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059858635/reps-boebert-and-omar-spoke-after-boeberts-islamophobic-comments-it-didnt-go-wel">Reps. Boebert and Omar spoke after Boebert's Islamophobic comments. It didn't go well</a> NPR: The contentious phone call between Reps. Lauren Boebert and Ilhan Omar likely means the controversy will continue. 
+ <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861841/former-governor-who-signed-mississippi-abortion-law-weighs-in-on-supreme-court-f">Former governor who signed Mississippi abortion law weighs in on Supreme Court fight</a> NPR: NPR's Ari Shapiro talks with Phil Bryant, the former governor of Mississippi who signed a bill that bans abortions after 15 weeks. The Supreme Court will soon hear arguments over the law. 
+ <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861701/wisconsin-gop-lawmakers-want-the-state-legislature-to-take-over-federal-election">Wisconsin GOP lawmakers want the state legislature to take over federal elections</a> NPR: Republican Sen. Ron Johnson of Wisconsin is pushing state lawmakers to consider stripping the bipartisan state elections agency of its control over federal elections. 
  <p class="updated_time"> 03:11 PM CT, Nov. 29 </p> 
@@ -218,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors frontline workers, first responders and the military. 
  <p class="updated_time"> 02:36 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
- <p class="updated_time"> 02:32 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Former Trump Official With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
  <p class="updated_time"> 02:14 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
@@ -324,10 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
- <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
- <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059600285/politics-chat-u-s-bans-travelers-from-8-african-countries-to-slow-covid-19-varia">Politics chat: U.S. bans travelers from 8 African countries to slow COVID-19 variant</a> NPR: With the emergence of the Omicron variant, the U.S. limits travel from eight African nations. Congress has a big to-do list next month, and Democrats are pushing to pass the "Build Back Better" bill. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
