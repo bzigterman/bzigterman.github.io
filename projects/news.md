@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:16 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 12:36 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
+ <p class="updated_time"> 12:35 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 11:44 AM CT, Nov. 29 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter co-founder Jack Dorsey steps down as chief executive</a> BBC: Twitter co-founder Jack Dorsey steps down from leading the company, saying he's "ready to move on". 
  <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
- <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 10:34 AM CT, Nov. 29 </p> 
@@ -59,12 +59,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 06:51 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in hospitalizations in Gauteng province during the past two weeks, although fewer patients than in previous surges are being treated for severe disease. 
- <p class="updated_time"> 05:43 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/omicron-disrupts-reopening-plans-across-asia-11638186847">Omicron Disrupts Reopening Plans Across Asia</a> WSJ: Many countries in Asia are recalibrating their opening plans to account for the new Covid-19 variant. Japan, for instance, is closing its borders to foreigners until year’s end, and Indonesia will require foreign travelers to quarantine for a week upon arrival. 
+ <p class="updated_time"> 06:33 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/iran-doubles-down-on-demands-as-nuclear-talks-resume-11638207200">Iran Doubles Down on Demands as Nuclear Talks Resume</a> WSJ: Tehran’s position raised doubts over an early breakthrough in negotiations in Vienna that aim to address steps Iran and the U.S. will take to revive the 2015 nuclear deal. 
+ <p class="updated_time"> 06:16 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
+ <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/us-china-pentagon-middle-east-11638142162">Pentagon Plans to Improve Bases in Guam and Australia to Confront China</a> WSJ: A review of U.S. military forces and capabilities world-wide doesn’t contain large adjustments as the U.S. tries to take on Beijing, deter Russia and fight terrorism. 
  <p class="updated_time"> 05:24 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59459660?at_medium=RSS&at_campaign=KARANGA">Honduras election: Opposition candidate Castro in the lead</a> BBC: Early results give the left-wing opposition a strong lead, but the governing party has not conceded. 
  <p class="updated_time"> 05:18 AM CT, Nov. 29 </p> 
@@ -73,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
  <p class="updated_time"> 04:27 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
+ <p class="updated_time"> 04:26 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/in-honduras-election-leftist-candidate-holds-a-big-lead-11638193226">Leftist Candidate Holds a Big Lead in Honduras Election</a> WSJ: Xiomara Castro de Zelaya, the wife of a former leftist president deposed by the military 12 years ago, appeared headed for a comfortable victory in the presidential vote. 
  <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
- <p class="updated_time"> 11:34 PM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/disneys-missing-simpsons-episode-in-hong-kong-raises-censorship-fears-11638182046">Disney's Missing 'Simpsons' Episode in Hong Kong Raises Censorship Fears</a> WSJ: The Disney+ service in Hong Kong features 32 “Simpsons” seasons, but an episode that includes a reference to the 1989 Tiananmen Square massacre is missing from the lineup. 
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Omicron: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
  <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
- <p class="updated_time"> 04:30 PM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873">How Omicron Variant Rattled the World in One Week</a> WSJ: The speedy discovery, announcement and global response shows a new phase in the fight against Covid-19, as health officials hunt for variants that could evade vaccines. 
  <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
  <p class="updated_time"> 03:47 PM CT, Nov. 28 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059600292/hondurans-vote-in-presidential-election">Hondurans vote in presidential election</a> NPR: Honduras is holding its presidential election today. Who wins will likely have an impact on Honduran migration to the U.S. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
- <p class="updated_time"> 11:30 PM CT, Nov. 27 </p> 
- <a href="https://www.wsj.com/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401">Taliban Covert Operatives Seized Kabul, Other Afghan Cities From Within</a> WSJ: Undercover agents—often clean-shaven, dressed in jeans and sporting sunglasses—spent years infiltrating Afghan government ministries, universities, businesses and aid organizations. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
@@ -204,9 +204,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
- <p class="updated_time"> 12:12 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States and crucial questions about the variant itself remain. 
- <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 12:31 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
+ <p class="updated_time"> 12:23 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 11:57 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059640113/omicron-variant-spreads-to-australia-and-more-of-europe">Omicron variant spreads to North America, Australia and more of Europe</a> NPR: President Biden received a briefing from his medical task force, including Dr. Anthony Fauci, who said that "inevitably" the omicron variant will turn up in the U.S. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html">Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure</a> NYT: The nation’s most ambitious engineering projects are mired in postponements and skyrocketing costs. Delivering $1.2 trillion in new infrastructure will be tough. 
- <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/jussie-smollett-chicago-trial-523422">Trial set to start on charges that actor faked racist attack</a> Politico: Jussie Smollett stands accused of staging a hate crime against himself in Chicago. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
