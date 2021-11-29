@@ -13,6 +13,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
  <p class="updated_time"> 09:42 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 09:42 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter founder Jack Dorsey expected to step down as chief executive - reports</a> BBC: The founder and chief executive will step down from leading the company, media reports say. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Jury selection begins in actor’s trial</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 09:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell's sex-trafficking trial begins in New York City</a> BBC: The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 09:18 AM CT, Nov. 29 </p> 
@@ -23,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant Delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
+ <p class="updated_time"> 08:46 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59463879?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: No need to panic, South Africa minister says</a> BBC: Joe Phaahla says South Africa is experienced in dealing with Covid variants, despite a surge in cases. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 08:17 AM CT, Nov. 29 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
- <p class="updated_time"> 06:34 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-disrupts-reopening-plans-across-asia-11638186847">Omicron Disrupts Reopening Plans Across Asia</a> WSJ: Many countries in Asia are recalibrating their opening plans to account for the new Covid-19 variant. Japan, for instance, is closing its borders to foreigners until year’s end, and Indonesia will require foreign travelers to quarantine for a week upon arrival. 
  <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059695761/leftist-claims-victory-in-honduran-vote-setting-up-a-showdown-with-national-part">Leftist claims victory in Honduran vote, setting up a showdown with National Party</a> NPR: The leftist opposition candidate claimed victory in Sunday's presidential election, while the National Party also said its candidate had won. Complete results may not be known for days. 
- <p class="updated_time"> 12:39 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-59456143?at_medium=RSS&at_campaign=KARANGA">Macau casino shares fall after 'illegal gambling' arrests</a> BBC: A prominent gambling industry figure in Macau is believed to be among those arrested. 
  <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
  <p class="updated_time"> 03:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
- <p class="updated_time"> 03:09 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59454243?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish over missing family since tragedy</a> BBC: Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday. 
  <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
@@ -130,7 +130,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/28/1059025751/who-seeks-a-new-treaty-on-handling-future-pandemics-it-could-be-a-hard-sell">The WHO is seeking a new treaty on handling future pandemics. It could be a hard sell</a> NPR: At a special session this week, the World Health Organization hopes to start sketching out a new world order. "We don't have rules of the game," says WHO head Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Iran nuclear talks are starting again. A lot has changed, and here's what's at stake</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
+ <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Much has changed for the Iran nuclear deal. These are 4 things to know as talks resume</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
