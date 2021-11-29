@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday morning, some patrons, band members and staff members were still stuck. 
  <p class="updated_time"> 05:32 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
- <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday morning, some patrons, band members and staff members were still stuck. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hong-kong-censorship.html">‘Simpsons’ Episode Mocking Chinese Censorship Vanishes in Hong Kong</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
  <p class="updated_time"> 05:24 AM CT, Nov. 29 </p> 
@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
  <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch Celestina Olulode as she travels to the island to find out what Barbadians make of the move. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch as we travel to the island to find out what Barbadians make of the move. 
  <p class="updated_time"> 10:09 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell's sex-trafficking trial to begin in New York City</a> BBC: The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
