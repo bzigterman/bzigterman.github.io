@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:49 AM CT, Nov. 29 </p> 
+ <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter co-founder Jack Dorsey steps down as chief executive</a> BBC: Twitter co-founder Jack Dorsey steps down from leading the company, saying he's "ready to move on". 
+ <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
+ <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden was scheduled to deliver an update on the U.S. response. 
+ <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
+ <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
+ <p class="updated_time"> 10:05 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59414088?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: How he 'helped black people dream in fashion'</a> BBC: Radio 1 Newsbeat has been speaking to people about the legacy Virgil Abloh leaves behind. 
+ <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Couple Who Left Quarantine Hotel Is Arrested on Plane in Amsterdam</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
  <p class="updated_time"> 09:45 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
- <p class="updated_time"> 09:42 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 09:42 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter founder Jack Dorsey expected to step down as chief executive - reports</a> BBC: The founder and chief executive will step down from leading the company, media reports say. 
  <p class="updated_time"> 09:37 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Jury selection begins in actor’s trial</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 09:36 AM CT, Nov. 29 </p> 
@@ -24,7 +34,9 @@ permalink: /projects/news/
  <p class="updated_time"> 09:06 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant Delta variant, has global health officials worried about a possible new surge in cases. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
+ <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
  <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 08:46 AM CT, Nov. 29 </p> 
@@ -41,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
+ <p class="updated_time"> 05:43 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/omicron-disrupts-reopening-plans-across-asia-11638186847">Omicron Disrupts Reopening Plans Across Asia</a> WSJ: Many countries in Asia are recalibrating their opening plans to account for the new Covid-19 variant. Japan, for instance, is closing its borders to foreigners until year’s end, and Indonesia will require foreign travelers to quarantine for a week upon arrival. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -51,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
- <p class="updated_time"> 04:35 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
  <p class="updated_time"> 04:27 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
@@ -65,12 +77,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapees</a> BBC: Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday. 
+ <p class="updated_time"> 03:02 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59458431?at_medium=RSS&at_campaign=KARANGA">Queen of Barbados - but just for one last day</a> BBC: The island nation will remove Queen Elizabeth as head of state and swear in its first Barbadian president. 
  <p class="updated_time"> 01:12 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in hospitalizations in Gauteng province over the past two weeks, although fewer patients than in previous surges are being treated for severe disease. 
  <p class="updated_time"> 12:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59456540?at_medium=RSS&at_campaign=KARANGA">China: North Korea fugitive captured after 40-day manhunt</a> BBC: The defector had been on the run after staging a daring escape from a Chinese prison. 
- <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/omicron-disrupts-reopening-plans-across-asia-11638186847">Omicron Disrupts Reopening Plans Across Asia</a> WSJ: Many countries in Asia are recalibrating their opening plans to account for the new Covid-19 variant. Japan, for instance, is closing its borders to foreigners until year’s end, and Indonesia will require foreign travelers to quarantine for a week upon arrival. 
  <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059695761/leftist-claims-victory-in-honduran-vote-setting-up-a-showdown-with-national-part">Leftist claims victory in Honduran vote, setting up a showdown with National Party</a> NPR: The leftist opposition candidate claimed victory in Sunday's presidential election, while the National Party also said its candidate had won. Complete results may not be known for days. 
  <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
@@ -79,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
  <p class="updated_time"> 11:34 PM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/disneys-missing-simpsons-episode-in-hong-kong-raises-censorship-fears-11638182046">Disney's Missing 'Simpsons' Episode in Hong Kong Raises Censorship Fears</a> WSJ: The Disney+ service in Hong Kong features 32 “Simpsons” seasons, but an episode that includes a reference to the 1989 Tiananmen Square massacre is missing from the lineup. 
- <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch as we travel to the island to find out what Barbadians make of the move. 
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Omicron: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
@@ -115,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
- <p class="updated_time"> 02:24 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
@@ -175,16 +183,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/27/1054293073/whiskey-distilleries-europe-tariffs-lift">American whiskey makers set their sights on Europe as Trump-era tariffs are lifted</a> NPR: The 25% tariff on U.S. whiskey will be removed in January. Gone too will be the tariffs on U.S. motorcycles and denim, all levied during the Trump administration's trade battle with the E.U. 
  <p class="updated_time"> 10:45 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iran-protests-water-shortages.html">Iran Clamps Down on Protests Against Growing Water Shortages</a> NYT: The crackdown came after the protests spilled over to at least one other city and a major protest on Friday loomed. Weather experts say 97 percent of the country is dealing with water scarcity issues. 
- <p class="updated_time"> 10:36 AM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59446488?at_medium=RSS&at_campaign=KARANGA">Pre-Inca mummy found in Peru</a> BBC: Archaeologists think the mummy, found near Lima, could be up to 1,200 years old. 
  <p class="updated_time"> 10:01 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
- <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
- <p class="updated_time"> 11:32 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
@@ -202,6 +204,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge allows Jan. 6 defendant who played Judas in 'Jesus Christ Superstar' to go home</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
+ <p class="updated_time"> 11:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/jack-dorsey-steps-down-523446">Twitter CEO Jack Dorsey will step down</a> Politico: His replacement as CEO will be Parag Agrawal, who has been its chief technology officer since 2017. 
+ <p class="updated_time"> 10:48 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/shutdown-congress-funding-523442">'No appetite' for a shutdown as Congress readies funding fix</a> Politico: Leaders are mulling mid to late January for the new funding deadline rather than before Christmas as previously discussed. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving holiday break with a pile up of critical legislation — bills to fund the government, avoid a default on the nation's credit limit and a $2 T spending bill. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/white-house-holiday-decorations/index.html">First lady Jill Biden unveils her first White House holiday decorations</a> CNN: The White House unveiled its holiday decorations on Monday, going along with the theme selected this year by first lady Jill Biden, who titled her inspiration "Gifts from the Heart." 
+ <p class="updated_time"> 09:51 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/trump-intelligence-briefings/index.html">US intelligence community 'struggled' to brief Trump, CIA study says</a> CNN: The US intelligence community "struggled" to brief President-elect Donald Trump in 2016, achieving "only limited success" in educating and developing a relationship with the incoming president, according to a newly released unclassified history of the transition period published by the CIA's in-house academic center. 
+ <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1056129045/as-the-supreme-court-considers-roe-v-wade-a-look-at-how-abortion-became-legal">As the Supreme Court considers Roe v. Wade, a look at how abortion became legal</a> NPR: Abortion did not become illegal in most states until the mid to late 1800s. But by the 1960s, abortion, like childbirth, had become a safe procedure when performed by a doctor. 
  <p class="updated_time"> 09:17 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi to Run for Governor of New York</a> NYT: Mr. Suozzi will enter a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
@@ -276,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/mississippi-governor-vaccines-abortions-523421">Mississippi governor draws lines on individual choice</a> Politico: Tate Reeves discussed abortion and vaccine mandates with “Meet the Press” host Chuck Todd. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
- <p class="updated_time"> 11:08 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/omicron-variant-fauci-america-523413">Omicron variant will 'inevitably' reach the U.S., Fauci says</a> Politico: NIAID Director Anthony Fauci said cases of the Omicron variant have not been detected yet in the U.S., but that “inevitably, it will be here.” 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
  <p class="updated_time"> 10:55 AM CT, Nov. 28 </p> 
@@ -306,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/28/politics/iran-talks-restart/index.html">Iran nuclear talks to restart as US emphasizes it's 'prepared to use other options' if diplomacy fails</a> CNN: The US and its allies restart Iran nuclear talks on Monday unsure how Tehran's new government will approach negotiations, not optimistic about the prospects ahead and emphasizing that if diplomacy fails, the US is "prepared to use other options." 
  <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
- <p class="updated_time"> 01:15 PM CT, Nov. 27 </p> 
- <a href="https://www.cnn.com/2021/11/27/politics/jill-biden-white-house-holiday-theme-decor/index.html">First lady Jill Biden to unveil the holiday theme and decor for the White House Monday</a> CNN: First lady Jill Biden will reveal the theme and decor for the White House holiday trimmings on Monday, her office announced. 
  <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-base-weakening-support.html">Democrats Struggle to Energize Their Base as Frustrations Mount</a> NYT: Even as President Biden achieves some significant victories, Democrats are warning that many of their most loyal supporters see inaction and broken campaign promises. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
@@ -330,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/26/1059391740/protestors-in-sudan-took-to-the-streets-thursday-to-push-for-civilian-rule">Protestors in Sudan took to the streets Thursday to push for civilian rule</a> NPR: Having forced the military to install the prime minister it had ousted, pro-democracy activists in Sudan are pressing to insure civilian control. 
  <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059391733/tensions-have-been-high-as-the-presidential-election-in-honduras-nears">Tensions have been high as the presidential election in Honduras nears</a> NPR: Honduras is holding its presidential election Sunday at a time of poverty, corruption and increased migration to the United States. 
- <p class="updated_time"> 03:24 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059391712/behind-the-loud-pushback-against-progressive-district-attorneys-across-the-count">Behind the loud pushback against progressive district attorneys across the country</a> NPR: An effort to remove San Francisco's progressive District Attorney Chesa Boudin from office is gaining momentum. It's part of a wider (so far unsuccessful) backlash against reformist DAs nationally. 
  <p class="updated_time"> 03:23 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/climate/climate-change-drilling-public-lands.html">Interior Dept. Report on Drilling Is Mostly Silent on Climate Change</a> NYT: The department recommended higher fees for oil and gas leases, but there was no sign the government planned to take global warming into account when weighing new applications. 
  <p class="updated_time"> 02:32 PM CT, Nov. 26 </p> 
@@ -350,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
- <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
@@ -362,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
- <p class="updated_time"> 09:41 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/uncomfortable-truths-ahmaud-arbery-verdict-523374">The uncomfortable truths hidden inside the Ahmaud Arbery verdict</a> Politico: Many are celebrating the conviction of the 25-year-old’s killers. But legal scholars warn white vigilantism remains a very real threat. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
@@ -376,18 +382,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
- <p class="updated_time"> 04:35 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/oath-keeper-broadway-january-6-arrest/index.html">Oath Keeper playing Judas in 'Jesus Christ Superstar' charged in US Capitol riot</a> CNN: A Florida man and actor playing Judas in the musical "Jesus Christ Superstar" has joined the list of Oath Keepers charged for participating in the US Capitol riot on January 6. 
  <p class="updated_time"> 04:21 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/trump-rnc-payments/index.html">'Nothing about this is normal': RNC payments to Trump attorneys irk GOP officials </a> CNN: A pair of payments the Republican National Committee made to a law firm representing former President Donald Trump is raising questions among former and current GOP officials about the party's priorities in a critical election year and its ability to remain neutral -- as long-standing RNC rules require -- in the 2024 presidential primary. 
- <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
- <p class="updated_time"> 10:24 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/congress-anger-house-fights/index.html">Lawmakers describe 'toxic' work environment in Congress</a> CNN: Many members within the House of Representatives told CNN in recent days that they find themselves in a toxic work environment, wrought with bitter exchanges, threats and fears about what the erosion of decorum in the chamber will mean for a body that has still not recovered 10 months after the Capitol Hill riot. 
  <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
@@ -400,6 +400,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
+ <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
+ <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/lobbyists-capitol-hill-real-estate-523246">These days, Capitol Hill townhomes aren't for living in. They're for lobbying.</a> Politico: POLITICO identified more than 20 properties around the Capitol owned by business groups and others lobbying Congress. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
