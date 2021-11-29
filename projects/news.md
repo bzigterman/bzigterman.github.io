@@ -7,14 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 07:20 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
+ <p class="updated_time"> 07:15 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Peaceful Presidential Election: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Both main parties have claimed victory. The United States is watching the results closely. 
+ <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
+ <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
- <p class="updated_time"> 06:10 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Voting Wraps Up With Few Major Problems in Honduras: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Hardship has pushed hundreds of thousands toward the U.S., which is watching the results closely. 
+ <p class="updated_time"> 06:30 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59433271?at_medium=RSS&at_campaign=KARANGA">Tigray: Suspicion and sacrifice as Ethiopia fighting spreads</a> BBC: Ethiopians tell the BBC they are willing to give up their lives to defend their country against rebels. 
+ <p class="updated_time"> 06:25 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
+ <p class="updated_time"> 06:21 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves 61 Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Sunday night, patrons, band members and staff members were still stuck. 
+ <p class="updated_time"> 06:16 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
  <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
- <p class="updated_time"> 06:00 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: 'My family wanted to cure me'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
  <p class="updated_time"> 05:55 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 05:53 PM CT, Nov. 28 </p> 
@@ -25,12 +37,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Polls began wrapping up around 5 p.m. with few reports of problems so far. 
  <p class="updated_time"> 05:15 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
- <p class="updated_time"> 05:14 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 05:09 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
+ <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
  <p class="updated_time"> 04:33 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
@@ -55,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 01:31 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
+ <p class="updated_time"> 01:17 PM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873">How Omicron Variant Rattled the World in One Week</a> WSJ: The speedy discovery, announcement and global response shows a new phase in fight against Covid-19, as health officials hunt for variants that could evade vaccines. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Covid: 13 test positive for Omicron after S Africa-Netherlands flights</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
@@ -81,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Iran nuclear talks are starting again. A lot has changed, and here's what's at stake</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
- <p class="updated_time"> 08:28 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-found-on-flights-reveals-gaps-in-covid-19-travel-rules-11638127730">Omicron Variant Found on Flights Reveals Gaps in Covid-19 Travel Rules</a> WSJ: Of around 600 passengers on the two flights from South Africa to the Netherlands, 61 tested positive for Covid-19, and at least 13 were confirmed as the Omicron variant. 
  <p class="updated_time"> 08:09 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59452646?at_medium=RSS&at_campaign=KARANGA">Covid-positive Czech president appointed new PM from plexiglass box</a> BBC: Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus. 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
@@ -127,14 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-travel-restrictions-covid.html">Omicron Variant Prompts More Countries to Restrict Travel from Southern Africa</a> NYT: Australia, Canada and Thailand are among the latest countries to restrict travelers from the region over concerns about the Omicron variant. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
- <p class="updated_time"> 06:20 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59134040?at_medium=RSS&at_campaign=KARANGA">Nigerian celebrities Simi and Chigul expose sexism in music and Nollywood</a> BBC: Singer Simi and Nollywood's Chigul tell the BBC about the cultural hurdles female stars face. 
- <p class="updated_time"> 06:10 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59262086?at_medium=RSS&at_campaign=KARANGA">Yemen: The woman saving a crumbling heritage</a> BBC: Its famous architecture has been wrecked by war - now a female engineer is rebuilding amid the conflict. 
- <p class="updated_time"> 06:05 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59407041?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'home comforts'</a> BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 06:04 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59429216?at_medium=RSS&at_campaign=KARANGA">‘I’m blind but technology helps me animate’</a> BBC: Elodie Bateson, 11, from Limavady who is blind has become an expert at making short animated movies. 
  <p class="updated_time"> 06:02 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-59421912?at_medium=RSS&at_campaign=KARANGA">ICYMI: Smells like Christmas, confirms US First Lady</a> BBC: Jill Biden's clearly feeling festive but here’s some other tree-mendous moments you may have missed this week. 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
@@ -193,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/europe/france-uk-migrants-english-channel.html">France-U.K. Acrimony Impedes Progress on Channel Crossings</a> NYT: Rather than working together to curb hazardous sea crossings, leaders of the two countries almost immediately fell into a familiar pattern of squabbling. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
- <p class="updated_time"> 11:48 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/mexico-tiktok-journalist-izquierdo.html">‘Today’s Outfit Is Confidence’: Atypical TikTok Star Enchants Mexico</a> NYT: Middle-aged and scarred, a Mexican journalist is breaking the mold of social media influencers with a message of pure positivity that resonates in dark times. 
  <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
  <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
@@ -212,10 +214,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
+ <p class="updated_time"> 06:51 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
+ <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 06:37 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/china-schumers-innovation-and-competition-act-523414">China blowback looms for Schumer’s Innovation and Competition Act</a> Politico: Beijing warns that U.S. tech and competitiveness legislation will “gravely damage America's own interests.” 
- <p class="updated_time"> 06:17 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
+ <p class="updated_time"> 06:34 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/esper-defense-department-lawsuit/index.html">Defense Department wants former Sec. Esper to take out parts about Trump from forthcoming book, suit says</a> CNN: Former Secretary of Defense Mark Esper is suing the Department of Defense for not clearing his book manuscript for publication, after the agency told Esper he needed to take out parts of the book about his time working under then-President Donald Trump. 
  <p class="updated_time"> 06:07 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
@@ -230,8 +238,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/omicron-covid-travel-bans-523428">World Health Organization criticizes travel bans on southern African countries</a> Politico: WHO’s regional director for Africa  called on countries to follow science and international health regulations. 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
- <p class="updated_time"> 04:31 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
+ <p class="updated_time"> 04:16 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/videos/politics/2021/11/28/anthony-fauci-ted-cruz-coronavirus-january-6-sot-vpx-nr.cnn">'What happened on January 6 senator?': Fauci fires back at Sen. Cruz's comments </a> CNN: In an interview with CBS News, Dr. Anthony Fauci reacted to comments from Sen. Ted Cruz (R-TX) saying that he should face federal prosecution over some of his testimony before Congress. 
  <p class="updated_time"> 03:48 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059640113/omicron-variant-spreads-to-australia-and-more-of-europe">Omicron variant spreads to North America, Australia and more of Europe</a> NPR: President Biden received a briefing from his medical task force, including Dr. Anthony Fauci, who said that "inevitably" the omicron variant will turn up in the U.S. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
@@ -412,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 12:01 AM CT, Nov. 23 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
- <p class="updated_time"> 07:06 PM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/federal-workforce-vaccination-rate/index.html">White House announces 95% of federal workforce in compliance with vaccine mandate</a> CNN: White House health officials are set to announce on Monday that 95% of the federal workforce is in compliance with the Biden administration's vaccine mandate, a senior administration official said. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
@@ -424,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:56 AM CT, Nov. 22 </p> 
- <a href="https://www.cnn.com/2021/11/22/politics/white-house-mask-rules/index.html">White House keeps its mask mandate in place as Washington rolls back district's masking rules</a> CNN: The White House will keep its mask mandate in place on its grounds even as Washington, DC, lifts its indoor mask requirement starting Monday, a contrast that highlights the uneven messaging many Americans are receiving on Covid-19. 
  <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
  <p class="updated_time"> 04:30 AM CT, Nov. 22 </p> 
