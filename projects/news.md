@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 01:27 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
+ <p class="updated_time"> 01:22 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. announces Omicron cases and extends boosters to all adults.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
+ <p class="updated_time"> 01:20 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
- <p class="updated_time"> 12:35 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59421912?at_medium=RSS&at_campaign=KARANGA">ICYMI: Smells like Christmas, confirms US First Lady</a> BBC: Jill Biden's clearly feeling festive but here’s some other tree-mendous moments you may have missed this week. 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
- <p class="updated_time"> 04:35 PM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1059535392/honduras-presidential-election">Honduran voters want to protest the president. Their options are a cast of characters</a> NPR: Hondurans go to the polls Sunday, and many voters say they're undecided who they'll vote for. But one thing they do know is that they'll be casting a vote to punish the current National Party. 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html">A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</a> NYT: A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat. 
  <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
+ <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
  <p class="updated_time"> 01:09 PM CT, Nov. 29 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 12:39 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
- <p class="updated_time"> 12:23 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:52 AM CT, Nov. 29 </p> 
@@ -272,6 +272,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
+ <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
@@ -408,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
- <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
 
 
 </details>
