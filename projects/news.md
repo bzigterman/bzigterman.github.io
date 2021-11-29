@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:07 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 08:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Both main parties have claimed victory. The United States is watching the results closely. 
  <p class="updated_time"> 07:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
@@ -214,8 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:37 PM CT, Nov. 28 </p> 
+ <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
+ <p class="updated_time"> 08:34 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/matthew-mcconaughey-not-running-texas-governor/index.html">Matthew McConaughey will not run for Texas governor</a> CNN: Actor Matthew McConaughey announced Sunday in a video message on Twitter that a future in political leadership is not in the cards -- right now. 
+ <p class="updated_time"> 08:29 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman attends National Menorah lighting ceremony: 'Jewish history is American history'  </a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 06:51 PM CT, Nov. 28 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059657056/carrie-meek-black-former-congresswoman-dies">Carrie Meek, pioneering Black former congresswoman, has died</a> NPR: Meek, the grandchild of a slave and a sharecropper's daughter who became one of the first Black Floridians elected to Congress since Reconstruction, died Sunday. She was 95. 
- <p class="updated_time"> 05:29 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman lights first candle at National Menorah ceremony: 'Jewish history is American history'</a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 05:23 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/january-6-investigation/index.html">The latest in the January 6 investigation</a> CNN: The House select committee investigating the January 6 US Capitol riot is touting its extensive number of interviews and subpoenas, but a court hearing Tuesday may determine how much lawmakers will eventually be able to accomplish in their probe. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
