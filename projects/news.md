@@ -7,28 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:57 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
+ <p class="updated_time"> 04:13 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59469489?at_medium=RSS&at_campaign=KARANGA">Mark Esper: Former Pentagon chief sues Pentagon over book release</a> BBC: Trump's fired defence secretary opposes the Defense Department's redactions to his new memoir. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
  <p class="updated_time"> 03:20 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: The British socialite denies sex trafficking charges as her trial opens in New York 
+ <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861708/secret-prisons-in-libya-keep-migrants-out-of-europe">Secret prisons in Libya keep migrants out of Europe</a> NPR: NPR's Mary Louise Kelly talks with investigative reporter Ian Urbina about his piece The New Yorker. He headed into Libya to better understand its role in migrants' movement toward Europe. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861694/opening-arguments-begin-in-the-ghislaine-maxwell-case">Opening arguments begin in the Ghislaine Maxwell case</a> NPR: Prosecutors began their case against Ghislaine Maxwell, the socialite who is charged with grooming underage girls for alleged sexual predator Jeffrey Epstein. Epstein died while in federal custody. 
- <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: The British socialite denies sex trafficking charges as her trial opens in New York 
- <p class="updated_time"> 03:05 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter co-founder Jack Dorsey steps down as chief executive</a> BBC: Twitter co-founder Jack Dorsey steps down from leading the company, saying he's "ready to move on". 
  <p class="updated_time"> 02:48 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
- <p class="updated_time"> 02:47 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:33 PM CT, Nov. 29 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
- <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
  <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
@@ -198,8 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">The Biden administration, under fire for supply chain woes, says stores will be fully stocked for the holidays.</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
  <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
+ <p class="updated_time"> 04:07 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: A four-star Army general will review reports that dozens of civilians were killed in a 2019 strike and that top military officers and civilian officials sought to conceal it. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">Biden meets with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
- <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
- <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
  <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
