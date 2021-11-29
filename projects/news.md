@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:19 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 06:30 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59433271?at_medium=RSS&at_campaign=KARANGA">Tigray: Suspicion and sacrifice as Ethiopia fighting spreads</a> BBC: Ethiopians tell the BBC they are willing to give up their lives to defend their country against rebels. 
- <p class="updated_time"> 06:25 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 06:21 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves 61 Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Sunday night, patrons, band members and staff members were still stuck. 
  <p class="updated_time"> 06:16 PM CT, Nov. 28 </p> 
@@ -55,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
  <p class="updated_time"> 04:33 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
+ <p class="updated_time"> 04:30 PM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873">How Omicron Variant Rattled the World in One Week</a> WSJ: The speedy discovery, announcement and global response shows a new phase in fight against Covid-19, as health officials hunt for variants that could evade vaccines. 
  <p class="updated_time"> 04:05 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: The shift was more severe but less discriminatory than those implemented by other nations. Morocco went a step further by banning all travelers. 
  <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
  <p class="updated_time"> 01:31 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
- <p class="updated_time"> 01:17 PM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-coronavirus-south-africa-11638144873">How Omicron Variant Rattled the World in One Week</a> WSJ: The speedy discovery, announcement and global response shows a new phase in fight against Covid-19, as health officials hunt for variants that could evade vaccines. 
  <p class="updated_time"> 01:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59451103?at_medium=RSS&at_campaign=KARANGA">Covid: 13 test positive for Omicron after S Africa-Netherlands flights</a> BBC: Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
