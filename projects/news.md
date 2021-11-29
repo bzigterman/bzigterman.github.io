@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 AM CT, Nov. 29 </p> 
+ <p class="updated_time"> 01:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 01:16 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: In Japan, all foreign travelers except those who are residents of the country will be barred from entering starting at midnight on Monday. Morocco went a step further by banning even its citizens. 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:55 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 05:53 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59455685?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish, a missing family</a> BBC: Rizgar Hussein hasn't heard from his family since the Channel disaster on Tuesday. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59455685?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish, a missing family</a> BBC: Rizgar Hussein hasn't heard from his family since the Channel disaster on Wednesday. 
  <p class="updated_time"> 05:30 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/es/2021/11/28/espanol/elecciones-honduras-urnas-cierre.html">Elecciones en Honduras: las casillas cerrarán a las 5 p. m.</a> NYT: La jornada electoral concluyó en Honduras y han empezado los conteos. 
  <p class="updated_time"> 05:26 PM CT, Nov. 28 </p> 
