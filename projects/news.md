@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius set to meet victim Reeva Steenkamp's parents</a> BBC: The meeting is part of South Africa's restorative justice process before parole is considered. 
+ <p class="updated_time"> 04:35 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 04:27 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/japan-border-closings.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
- <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 04:05 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 04:04 AM CT, Nov. 29 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapees</a> BBC: Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday. 
- <p class="updated_time"> 03:34 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius set to meet victim Reeva Steenkamp's parents</a> BBC: The meeting is part of a restorative justice process that has to happen before parole is considered. 
  <p class="updated_time"> 01:36 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 01:06 AM CT, Nov. 29 </p> 
@@ -219,6 +219,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/fcc-broadband-maps-biden-523425">The FCC’s shoddy maps could upend Biden’s broadband gold rush</a> Politico: The administration and Congress are devoting tens of billions of dollars to closing the digital divide. But a key ingredient is missing: an accurate picture of Americans' internet access. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/trump-vice-president-choice-2024-523429">Next on Trump’s 2024 list: An out-of-the-box running mate</a> Politico: The question of Trump’s prospective veep choice is surfacing with increasing frequency. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:08 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-fauci-america-523413">Omicron variant will 'inevitably' reach the U.S., Fauci says</a> Politico: NIAID Director Anthony Fauci said cases of the Omicron variant have not been detected yet in the U.S., but that “inevitably, it will be here.” 
- <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
  <p class="updated_time"> 10:55 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/adam-schiff-mark-meadows-january-6-committee-cnntv/index.html">Schiff: January 6 committee decision on criminal contempt charges for Mark Meadows could come this week</a> CNN: The House select committee investigating the January 6 insurrection will make a decision "this week" on whether it will refer Mark Meadows for criminal contempt charges for defying a subpoena before the Thanksgiving recess, California Rep. Adam Schiff, a member of the panel, said Sunday. 
  <p class="updated_time"> 10:31 AM CT, Nov. 28 </p> 
@@ -296,14 +296,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059600285/politics-chat-u-s-bans-travelers-from-8-african-countries-to-slow-covid-19-varia">Politics chat: U.S. bans travelers from 8 African countries to slow COVID-19 variant</a> NPR: With the emergence of the Omicron variant, the U.S. limits travel from eight African nations. Congress has a big to-do list next month, and Democrats are pushing to pass the "Build Back Better" bill. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/donald-trump-senate-picks-stumble-523407">Trump’s Senate picks stumble out of the gate</a> Politico: The former president’s endorsement doesn’t guarantee a glide path to the GOP nomination. 
+ <p class="updated_time"> 06:50 AM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/lincoln-project-anymore-523409">No one seems to like the Lincoln Project anymore</a> Politico: Once the belle of the resistance ball, the group now has a growing list of detractors. They say they’re still committed to the fight. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 11:03 PM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/iran-talks-restart/index.html">Iran nuclear talks to restart as US emphasizes it's 'prepared to use other options' if diplomacy fails</a> CNN: The US and its allies restart Iran nuclear talks on Monday unsure how Tehran's new government will approach negotiations, not optimistic about the prospects ahead and emphasizing that if diplomacy fails, the US is "prepared to use other options." 
  <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
- <p class="updated_time"> 06:31 PM CT, Nov. 27 </p> 
- <a href="https://www.politico.com/news/2021/11/27/iran-nuclear-deal-talks-fissures-523408">Maximum fissures: Iran nuclear deal talks head toward oblivion</a> Politico: Expectations are low as talks resume following a lengthy hiatus and an Iranian election. 
  <p class="updated_time"> 01:15 PM CT, Nov. 27 </p> 
  <a href="https://www.cnn.com/2021/11/27/politics/jill-biden-white-house-holiday-theme-decor/index.html">First lady Jill Biden to unveil the holiday theme and decor for the White House Monday</a> CNN: First lady Jill Biden will reveal the theme and decor for the White House holiday trimmings on Monday, her office announced. 
  <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/27/politics/republicans-leaving-fox-news-trump-analysis/index.html">Analysis: How anti-Trump conservatives have fled Fox News </a> CNN: Former Fox News contributors Jonah Goldberg and Stephen Hayes decided to leave the network last week. The two have long been concerned over former President Donald Trump falsely claiming the 2020 election was stolen. The publication of Tucker Carlson's falsehood-filled "Patriot Purge" on Fox Nation, about January 6, was the last straw. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
- <a href="https://www.politico.com/news/2021/11/27/fda-tobacco-califf-523390">The overlooked public health issue that could make or break Biden’s new drug regulator</a> Politico: Robert Califf, who President Joe Biden nominated this month to lead the agency, is being looked to by forces from all sides as someone who can reboot the FDA’s Center for Tobacco Products. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
  <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
@@ -350,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
  <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
- <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/renters-rent-control-523351">Renters strike back as cities cap price hikes by landlords</a> Politico: The revival of rent control policies long derided by economists, including one of President Joe Biden’s top advisers, comes as officials scramble to contain rising prices across a range of goods and services. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
