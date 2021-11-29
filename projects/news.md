@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:01 AM CT, Nov. 29 </p> 
+ <p class="updated_time"> 02:42 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 01:36 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
@@ -44,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the omicron variant was identified can work against scientific transparency. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As Omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the Omicron variant was identified can work against scientific transparency. 
  <p class="updated_time"> 07:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
