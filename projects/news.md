@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Countries Close Borders as More Omicron Cases Emerge</a> NYT: Scotland said it had found six cases of the new variant and that contact tracing was underway. Japan barred all foreign travelers, and Australia delayed reopening its borders for two weeks. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
+ <p class="updated_time"> 08:14 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
+ <p class="updated_time"> 08:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
+ <p class="updated_time"> 08:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
+ <p class="updated_time"> 08:03 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
- <p class="updated_time"> 07:17 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
  <p class="updated_time"> 06:41 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 06:34 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
- <p class="updated_time"> 06:14 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
- <p class="updated_time"> 05:38 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday morning, some patrons, band members and staff members were still stuck. 
- <p class="updated_time"> 05:32 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 05:31 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
  <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
- <p class="updated_time"> 06:03 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances adds air of urgency as sides meet in Vienna after months-long pause. 
  <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: Family wanted to 'make me better'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
  <p class="updated_time"> 05:55 PM CT, Nov. 28 </p> 
@@ -177,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
+ <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 11:32 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/health/omicron-variant-vaccines.html">New 'Omicron' Variant Stokes Concern but Vaccines May Still Work</a> NYT: The Omicron variant carries worrisome mutations that may let it evade antibodies, scientists said. But it will take more research to know how it fares against vaccinated people. 
  <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
@@ -189,6 +193,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/canada/british-columbia-floods-aftermath.html">British Columbia Flood Victims Come Together In Storm's Wake</a> NYT: A tour of the flood-ravaged parts of the province finds communities supporting each other following disaster. 
  <p class="updated_time"> 06:29 PM CT, Nov. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59434553?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Migrants crossing English Channel to UK</a> BBC: This week at least 27 migrants died while trying to make the journey, the deadliest crossing on record. 
+ <p class="updated_time"> 05:52 PM CT, Nov. 26 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/world/europe/mine-disaster-russia-safety.html">A Mine Disaster in Russia Highlights Safety Shortfalls in Rush to Dig Coal</a> NYT: At least 46 miners were killed in an explosion at a Siberian mine. The director of the mine has been taken into police custody, along with five other administrators. 
+ <p class="updated_time"> 02:06 PM CT, Nov. 24 </p> 
+ <a href="https://www.nytimes.com/2021/11/24/travel/new-york-canada-tourism.html">In Buffalo, Waiting for the Canadians</a> NYT: So far, relaxed travel restrictions between the United States and Canada have not led to a big influx of tourists on either side of the New York-Ontario border. Both sides are waiting, not so patiently. 
 
 
 </details>
@@ -196,14 +204,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:04 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Federal officials bracing for first detection of Omicron coronavirus variant in the US</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:10 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Will Not Run for Texas Governor</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
- <p class="updated_time"> 07:09 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Federal officials bracing for first detection of Omicron coronavirus variant in the US</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 06:46 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
