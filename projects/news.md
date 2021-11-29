@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:07 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Both main parties have claimed victory. The United States is watching the results closely. 
+ <p class="updated_time"> 07:48 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
+ <p class="updated_time"> 07:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 07:36 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
  <p class="updated_time"> 07:20 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
- <p class="updated_time"> 07:15 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Peaceful Presidential Election: Live Updates</a> NYT: Preliminary results are expected Sunday night, but determining a winner may take days. Both main parties have claimed victory. The United States is watching the results closely. 
  <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Polls began wrapping up around 5 p.m. with few reports of problems so far. 
  <p class="updated_time"> 05:15 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
- <p class="updated_time"> 05:09 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
  <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
@@ -59,8 +63,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
- <p class="updated_time"> 02:33 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully vaccinated. 
+ <p class="updated_time"> 02:38 PM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Officials Grapple With Response</a> WSJ: Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave. 
  <p class="updated_time"> 02:24 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
- <p class="updated_time"> 11:55 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Officials Grapple With Response</a> WSJ: Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave. 
  <p class="updated_time"> 11:22 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 10:00 AM CT, Nov. 28 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059600292/hondurans-vote-in-presidential-election">Hondurans vote in presidential election</a> NPR: Honduras is holding its presidential election today. Who wins will likely have an impact on Honduran migration to the U.S. 
  <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
- <p class="updated_time"> 05:30 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/matthew-mcconaughey-not-running-texas-governor/index.html">Matthew McConaughey will not run for Texas governor</a> CNN: Actor Matthew McConaughey announced Sunday in a video message on Twitter that a future in political leadership is not in the cards -- right now. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 06:51 PM CT, Nov. 28 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
- <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 12:20 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/biden-lift-stay-vaccine-test-rule-523251">Biden administration asks court to lift stay of vaccine-or-test rule</a> Politico: The administration said that if the court disagrees, it should modify the stay so that the masking-and-testing requirement can remain in effect as the legal fights play out. 
  <p class="updated_time"> 11:01 AM CT, Nov. 23 </p> 
