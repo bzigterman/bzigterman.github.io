@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:17 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
  <p class="updated_time"> 06:41 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 06:34 AM CT, Nov. 29 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
- <p class="updated_time"> 01:31 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59454135?at_medium=RSS&at_campaign=KARANGA">Channel migrants: France wants 'serious' talks with UK</a> BBC: Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics. 
  <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
@@ -127,14 +127,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
- <p class="updated_time"> 07:24 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59450598?at_medium=RSS&at_campaign=KARANGA">Great Carnival of Dakar: Fire-eaters and dancers mark event</a> BBC: The three-day event is a celebration of Senegalese culture and features an elaborate parade. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600292/hondurans-vote-in-presidential-election">Hondurans vote in presidential election</a> NPR: Honduras is holding its presidential election today. Who wins will likely have an impact on Honduran migration to the U.S. 
- <p class="updated_time"> 05:52 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 11:30 PM CT, Nov. 27 </p> 
@@ -202,6 +198,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:10 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Will Not Run for Texas Governor</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
+ <p class="updated_time"> 07:09 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Federal officials bracing for first detection of Omicron coronavirus variant in the US</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 06:46 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
@@ -230,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
- <p class="updated_time"> 09:28 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">McConaughey Says He Won't Run for Texas Governor ‘at This Moment’</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
  <p class="updated_time"> 08:29 PM CT, Nov. 28 </p> 
@@ -279,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:31 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
  <p class="updated_time"> 10:09 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Analysis: Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
+ <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
@@ -390,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 04:38 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/public-service-loan-forgiveness-pslf/index.html">Nearly 30,000 borrowers awarded Public Service Loan Forgiveness so far under new rules</a> CNN: Katherine Rickfelder, a Florida public school teacher, is one of nearly 30,000 people who have seen their student debt balance reduced to zero since the federal government announced significant changes to a popular loan forgiveness program last month. 
  <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
@@ -416,10 +412,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/news/2021/11/22/biden-renames-powell-to-lead-fed-risking-the-lefts-wrath-523177">Biden renames Powell to lead Fed, risking the left’s wrath</a> Politico: Jerome Powell — a Republican and a Trump appointee — is expected to easily win confirmation with bipartisan backing. 
- <p class="updated_time"> 07:16 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
- <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
