@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 11:54 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Opposition Candidate Takes Big Early Lead in Honduras Election: Live Updates</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
  <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Swiss Voters Approve Their Government’s Covid Policy in a Referendum</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
- <p class="updated_time"> 11:41 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 11:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: In Japan, all foreign travelers except those who are residents of the country will be barred from entering starting at midnight on Monday. Morocco went a step further by banning even its citizens. 
  <p class="updated_time"> 11:16 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch Celestina Olulode as she travels to the island to find out what Barbadians make of the move. 
- <p class="updated_time"> 10:36 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
  <p class="updated_time"> 10:18 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapee couple</a> BBC: The arrests were made on a plane in Amsterdam's airport before the take-off on Sunday, police say. 
  <p class="updated_time"> 10:09 PM CT, Nov. 28 </p> 
