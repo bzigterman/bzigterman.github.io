@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: In Japan, all foreign travelers except those who are residents of the country will be barred from entering starting at midnight on Monday. Morocco went a step further by banning even its citizens. 
  <p class="updated_time"> 11:16 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch Celestina Olulode as she travels to the island to find out what Barbadians make of the move. 
- <p class="updated_time"> 10:45 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: In Japan, all foreign travelers except those who are residents of the country will be barred from entering starting at midnight on Monday. Morocco went a step further by banning even its citizens. 
  <p class="updated_time"> 10:36 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
  <p class="updated_time"> 10:18 PM CT, Nov. 28 </p> 
