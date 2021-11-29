@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
+ <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861708/secret-prisons-in-libya-keep-migrants-out-of-europe">Secret prisons in Libya keep migrants out of Europe</a> NPR: NPR's Mary Louise Kelly talks with investigative reporter Ian Urbina about his piece The New Yorker. He headed into Libya to better understand its role in migrants' movement toward Europe. 
+ <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861694/opening-arguments-begin-in-the-ghislaine-maxwell-case">Opening arguments begin in the Ghislaine Maxwell case</a> NPR: Prosecutors began their case against Ghislaine Maxwell, the socialite who is charged with grooming underage girls for alleged sexual predator Jeffrey Epstein. Epstein died while in federal custody. 
+ <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: The British socialite denies sex trafficking charges as her trial opens in New York 
  <p class="updated_time"> 03:11 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
  <p class="updated_time"> 03:05 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
- <p class="updated_time"> 02:57 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: The British socialite denies sex trafficking charges as her trial opens in New York 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 10:34 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 10:05 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59414088?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: How he 'helped black people dream in fashion'</a> BBC: Radio 1 Newsbeat has been speaking to people about the legacy Virgil Abloh leaves behind. 
  <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
@@ -159,10 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 07:40 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059606165/the-netherlands-and-australia-find-the-omicron-variant-as-curbs-spread">The Netherlands and Australia find the omicron variant as curbs spread</a> NPR: A raft of travel restrictions are being imposed by nations around the world as they scramble to slow the variant's spread. 
- <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
- <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059600292/hondurans-vote-in-presidential-election">Hondurans vote in presidential election</a> NPR: Honduras is holding its presidential election today. Who wins will likely have an impact on Honduran migration to the U.S. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
@@ -198,8 +198,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
+ <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059861701/wisconsin-gop-lawmakers-want-the-state-legislature-to-take-over-federal-election">Wisconsin GOP lawmakers want the state legislature to take over federal elections</a> NPR: Republican Sen. Ron Johnson of Wisconsin is pushing state lawmakers to consider stripping the bipartisan state elections agency of its control over federal elections. 
+ <p class="updated_time"> 03:11 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 02:59 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
- <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/abortion-roe-vs-wade-john-roberts-supreme-court/index.html">John Roberts' long history with abortion and Roe v. Wade</a> CNN: Since his first job as a young lawyer in Washington, John Roberts' work has been entangled with Roe v. Wade, the 1973 decision that gave women a right to end a pregnancy. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600341/u-s-and-iran-will-meet-for-another-attempt-at-reviving-the-nuclear-deal">U.S. and Iran will meet for another attempt at reviving the nuclear deal</a> NPR: After months of stalemate, the U.S. and Iran meet with European mediators Monday in Vienna for another attempt at reviving the nuclear deal that the Trump administration pulled out of. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
  <p class="updated_time"> 07:00 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059490178/week-in-politics-house-issues-more-subpoenas-to-trump-allies-in-jan-6-investigat">Week in politics: House issues more subpoenas to Trump allies in Jan. 6 investigation</a> NPR: We look the latest on the House committee's investigation into the January 6 attack on the U.S. Capitol, as well as the Biden administration's response to a new COVID-19 variant. 
- <p class="updated_time"> 04:00 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/2021/11/27/1058946643/trump-test-republican-democrats-unity">Trump, tough issues and personal rivalries test the GOP's reputation for unity</a> NPR: Tensions are driven by the still-divisive personality of former President Trump, by issues such as vaccines and mandates and by the prospect of big Republican gains in the elections of 2022 and 2024. 
  <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
