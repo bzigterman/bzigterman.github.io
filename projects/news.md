@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:41 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
+ <p class="updated_time"> 06:34 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 06:14 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 05:38 AM CT, Nov. 29 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 05:10 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 05:09 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
  <p class="updated_time"> 04:35 AM CT, Nov. 29 </p> 
@@ -41,12 +43,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
- <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapees</a> BBC: Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday. 
+ <p class="updated_time"> 01:12 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in Covid-19 hospitalizations in Gauteng province over the past two weeks, although fewer patients are being treated for severe disease. 
  <p class="updated_time"> 12:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59456540?at_medium=RSS&at_campaign=KARANGA">China: North Korea fugitive captured after 40-day manhunt</a> BBC: The defector had been on the run after staging a daring escape from a Chinese prison. 
+ <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/omicron-disrupts-reopening-plans-across-asia-11638186847">Omicron Disrupts Reopening Plans Across Asia</a> WSJ: Many countries in Asia are recalibrating their opening plans to account for the new Covid-19 variant. Japan, for instance, is closing its borders to foreigners until year’s end, and Indonesia will require foreign travelers to quarantine for a week upon arrival. 
  <p class="updated_time"> 12:54 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059695761/leftist-claims-victory-in-honduran-vote-setting-up-a-showdown-with-national-part">Leftist claims victory in Honduran vote, setting up a showdown with National Party</a> NPR: The leftist opposition candidate claimed victory in Sunday's presidential election, while the National Party also said its candidate had won. Complete results may not be known for days. 
  <p class="updated_time"> 12:39 AM CT, Nov. 29 </p> 
@@ -55,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
+ <p class="updated_time"> 11:34 PM CT, Nov. 28 </p> 
+ <a href="https://www.wsj.com/articles/disneys-missing-simpsons-episode-in-hong-kong-raises-censorship-fears-11638182046">Disney's Missing 'Simpsons' Episode in Hong Kong Raises Censorship Fears</a> WSJ: The Disney+ service in Hong Kong features 32 “Simpsons” seasons, but an episode that includes a reference to the 1989 Tiananmen Square massacre is missing from the lineup. 
  <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch as we travel to the island to find out what Barbadians make of the move. 
  <p class="updated_time"> 10:09 PM CT, Nov. 28 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
- <p class="updated_time"> 02:38 PM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-border-to-foreigners-as-more-countries-report-omicron-variant-11638105344">More Countries Find Omicron Variant as Officials Grapple With Response</a> WSJ: Countries around the world reported their first cases as some imposed new travel restrictions, racing to protect themselves against the fast-spreading strain ahead of a potentially severe winter wave. 
  <p class="updated_time"> 02:24 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455382?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: Designer and Off-White founder dies aged 41</a> BBC: Abloh, who was Louis Vuitton's artistic director, had been suffering from a rare form of cancer. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
@@ -133,12 +137,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
- <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
- <p class="updated_time"> 02:00 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/honduran-election-sparks-worries-of-unrest-and-further-migration-11638104402">Honduran Election Sparks Worries of Unrest</a> WSJ: A tense presidential election is pitting a ruling party dogged by corruption allegations against the wife of a controversial former president, with U.S. officials fearing possible violence could prompt further migration. 
- <p class="updated_time"> 12:15 AM CT, Nov. 28 </p> 
- <a href="https://www.wsj.com/articles/irans-nuclear-advances-weigh-on-renewed-talks-11638098147">Iran's Nuclear Advances Weigh on Renewed Talks</a> WSJ: Negotiators are convening in Vienna this week with the aim of reviving the 2015 international nuclear agreement, a top foreign-policy goal of the Biden administration. 
  <p class="updated_time"> 11:30 PM CT, Nov. 27 </p> 
  <a href="https://www.wsj.com/articles/taliban-covert-operatives-seized-kabul-other-afghan-cities-from-within-11638095401">Taliban Covert Operatives Seized Kabul, Other Afghan Cities From Within</a> WSJ: Undercover agents—often clean-shaven, dressed in jeans and sporting sunglasses—spent years infiltrating Afghan government ministries, universities, businesses and aid organizations. 
  <p class="updated_time"> 11:24 PM CT, Nov. 27 </p> 
@@ -202,10 +200,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:46 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
- <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
  <p class="updated_time"> 05:58 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/joe-biden-omicron-variant-covid-19/index.html">Biden moves to reassure weary Americans as fears rise about new Covid variant</a> CNN: President Joe Biden's attempts to limit the spread of the new Omicron Covid-19 variant begins on Monday with new US restrictions on travel from South Africa and seven other countries taking effect, as his administration seeks to assure Americans that they are moving swiftly to try to contain the threat. 
  <p class="updated_time"> 05:03 AM CT, Nov. 29 </p> 
@@ -282,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Analysis: Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
- <p class="updated_time"> 09:52 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/omicron-covid-variant-collins-523411">Too early to know answers on Omicron variant, NIH director says</a> Politico: Francis Collins said there are many unknowns at this point. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/abortion-roe-vs-wade-john-roberts-supreme-court/index.html">John Roberts' long history with abortion and Roe v. Wade</a> CNN: Since his first job as a young lawyer in Washington, John Roberts' work has been entangled with Roe v. Wade, the 1973 decision that gave women a right to end a pregnancy. 
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
@@ -412,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/22/politics/gary-fielder-ernest-john-walker-fees-election-lawsuits/index.html">Judge orders pro-Trump attorneys who brought frivolous election fraud case to pay more than $180,000 to defendants they sued</a> CNN: Two lawyers who went to court to claim voter fraud after the 2020 election must pay nearly $180,000 to the defendants they sued, a federal magistrate judge ordered Monday, saying their lawsuit aimed to "manipulate gullible members of the public and foment public unrest." 
  <p class="updated_time"> 05:30 PM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/politics/joe-biden-reelection-2024/index.html">White House says Biden intends to run for reelection in 2024</a> CNN: The White House on Monday said that President Joe Biden intends to run for reelection in 2024, following a recent report indicating that the commander in chief and his staff are attempting to assuage concerns about his future political prospects. 
+ <p class="updated_time"> 01:28 PM CT, Nov. 22 </p> 
+ <a href="https://www.politico.com/news/2021/11/22/mcbath-bourdeaux-georgia-523189">McBath, Bourdeaux set for Georgia showdown</a> Politico: The McBath-Bourdeaux matchup will be costly and high-profile and marks the third primary battle to be set between two incumbents. 
  <p class="updated_time"> 11:43 AM CT, Nov. 22 </p> 
  <a href="https://www.cnn.com/2021/11/22/business/jerome-powell-fed-chair/index.html">Biden to nominate Jerome Powell as Federal Reserve chairman</a> CNN: President Joe Biden will renominate Jerome Powell as chairman of the Federal Reserve and Lael Brainard as vice chair, according to a source familiar. 
  <p class="updated_time"> 09:04 AM CT, Nov. 22 </p> 
