@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:36 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 12:49 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
+ <p class="updated_time"> 12:46 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 12:35 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
+ <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 11:44 AM CT, Nov. 29 </p> 
@@ -187,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/asia/solomon-islands-protests-bodies.html">Solomon Islands Protests: 3 Burned Bodies Found in Chinatown</a> NYT: The police were trying to determine if the charred remains found in the capital’s Chinatown district were linked to the protests, in which demonstrators set fire to buildings. 
- <p class="updated_time"> 11:30 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe/coronavirus-omicron-variant.html">Omicron Variant Prompts Travel Bans and Batters World Markets</a> NYT: Scientists do not yet know how dangerous the new Omicron variant is, but its many mutations set off alarms, lowering hopes of putting the pandemic in the past. 
  <p class="updated_time"> 07:56 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/australia/thanksgiving-after-lockdowns.html">Giving Thanks in Australia</a> NYT: It’s an odd affair outside America, but maybe the holiday will inspire more of us to pause and appreciate the gifts we’ve been given. 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
+ <p class="updated_time"> 12:39 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
  <p class="updated_time"> 12:31 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 12:23 PM CT, Nov. 29 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
- <p class="updated_time"> 02:44 PM CT, Nov. 23 </p> 
- <a href="https://www.cnn.com/2021/11/23/politics/biden-oil-reserves-gas-prices/index.html">Biden announces release of oil reserves, but says gas prices will not drop overnight</a> CNN: President Joe Biden on Tuesday will announce the Department of Energy will release 50 million barrels of oil from the Strategic Petroleum Reserve as part of an effort to lower high gas prices and address the lack of oil supply around the world. 
  <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 23 </p> 
