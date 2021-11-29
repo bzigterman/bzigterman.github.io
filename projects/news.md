@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 07:17 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
  <p class="updated_time"> 06:41 AM CT, Nov. 29 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
- <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapees</a> BBC: Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday. 
  <p class="updated_time"> 01:12 AM CT, Nov. 29 </p> 
@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Omicron: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As Omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the Omicron variant was identified can work against scientific transparency. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the omicron variant was identified can work against scientific transparency. 
  <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:10 AM CT, Nov. 29 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
- <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
