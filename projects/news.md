@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:35 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 05:50 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health workers in 10 states. 
  <p class="updated_time"> 05:14 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
@@ -59,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
+ <p class="updated_time"> 12:48 PM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/us-china-pentagon-middle-east-11638142162">Pentagon Plans to Improve Airfields in Guam and Australia to Confront China</a> WSJ: A review of U.S. military forces and capabilities world-wide doesn’t contain large adjustments as the U.S. tries to take on Beijing, deter Russia and fight terrorism. 
  <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
@@ -67,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
  <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-to-investigate-2019-syria-airstrike-that-killed-women-and-children-11638224156">Pentagon to Probe 2019 Syria Airstrike That Killed Women and Children</a> WSJ: The inquiry will look at the number of civilians killed and whether the U.S. complied with the laws of war in launching the attack, which the military didn’t publicly acknowledge until this year. 
  <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-doubles-down-on-demands-as-nuclear-talks-resume-11638207200">Iran Doubles Down on Demands as Nuclear Talks Resume</a> WSJ: Tehran’s position raised doubts over an early breakthrough in negotiations in Vienna that aim to address steps Iran and the U.S. will take to revive the 2015 nuclear deal. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
- <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/us-china-pentagon-middle-east-11638142162">Pentagon Plans to Improve Bases in Guam and Australia to Confront China</a> WSJ: A review of U.S. military forces and capabilities world-wide doesn’t contain large adjustments as the U.S. tries to take on Beijing, deter Russia and fight terrorism. 
  <p class="updated_time"> 05:24 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59459660?at_medium=RSS&at_campaign=KARANGA">Honduras election: Opposition candidate Castro in the lead</a> BBC: Early results give the left-wing opposition a strong lead, but the governing party has not conceded. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:49 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said in a statement. 
+ <p class="updated_time"> 05:47 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
  <p class="updated_time"> 05:39 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/maxwell-epstein-partners-in-crime-prosecutor-says-523478">Maxwell, Epstein were ‘partners in crime,’ prosecutor says</a> Politico: Ghislaine Maxwell’s sex trafficking trial gets under way. 
  <p class="updated_time"> 05:37 PM CT, Nov. 29 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 03:23 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/climate/climate-change-drilling-public-lands.html">Interior Dept. Report on Drilling Is Mostly Silent on Climate Change</a> NYT: The department recommended higher fees for oil and gas leases, but there was no sign the government planned to take global warming into account when weighing new applications. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
