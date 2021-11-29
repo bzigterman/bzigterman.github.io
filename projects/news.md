@@ -7,18 +7,32 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
+ <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
+ <p class="updated_time"> 04:04 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday morning, patrons, band members and staff members were still stuck. 
+ <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1058048696/saudi-arabia-formula-1-china-olympics-human-rights-sports">Saudi Arabia and China are accused of using sports to cover up human rights abuse</a> NPR: Saudi Arabia has invested hundreds of millions of dollars to stage high-profile sporting events. Critics say those investments are an attempt by the kingdom to cover up human rights violations. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapees</a> BBC: Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday. 
  <p class="updated_time"> 03:34 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius set to meet victim Reeva Steenkamp's parents</a> BBC: The meeting is part of a restorative justice process that has to happen before parole is considered. 
- <p class="updated_time"> 02:50 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Britain's Sajid Javid Defends Response to Omicron Variant</a> NYT: The government stopped short of urging people to work from home or extending vaccine passports in England after cases of the Omicron variant were detected. 
  <p class="updated_time"> 01:36 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 01:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Election: Opposition Candidate Takes Big Early Lead</a> NYT: Opposition candidate Xiomara Castro, the wife of a former leftist president who was deposed, took a commanding early lead, but determining a winner may take days. Both main parties have claimed victory. 
- <p class="updated_time"> 01:16 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Responding to the Omicron Variant, Israel and Morocco Impose Bans on All Foreign Travelers</a> NYT: In Japan, all foreign travelers except those who are residents of the country will be barred from entering starting at midnight on Monday. Morocco went a step further by banning even its citizens. 
  <p class="updated_time"> 01:06 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
  <p class="updated_time"> 12:58 AM CT, Nov. 29 </p> 
@@ -37,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Swiss Voters Approve Their Government’s Covid Policy in a Referendum</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
- <p class="updated_time"> 11:16 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59453842?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa's president calls for lifting of Omicron travel bans</a> BBC: Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary. 
  <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438437?at_medium=RSS&at_campaign=KARANGA">Barbados prepares to cut ties with the Queen</a> BBC: Watch Celestina Olulode as she travels to the island to find out what Barbadians make of the move. 
  <p class="updated_time"> 10:09 PM CT, Nov. 28 </p> 
@@ -53,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
- <p class="updated_time"> 06:21 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves 61 Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Sunday night, patrons, band members and staff members were still stuck. 
  <p class="updated_time"> 06:16 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
  <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
@@ -137,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iran-israel-cyber-hack.html">Israel and Iran Broaden Cyberwar to Attack Civilian Targets</a> NYT: Iranians couldn’t buy gas. Israelis found their intimate dating details posted online. The Iran-Israel shadow war is now hitting ordinary citizens. 
  <p class="updated_time"> 10:24 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/amsterdam-cases-covid-variant.html">Netherlands Finds 61 Covid Cases on South Africa Flights</a> NYT: The passengers were in the air when the Netherlands announced travel restrictions on flights from southern Africa. 
- <p class="updated_time"> 10:20 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/europe/afghan-girl-national-geographic.html">‘Afghan Girl’ From 1985 National Geographic Cover Takes Refuge in Italy</a> NYT: Sharbat Gula, whose haunting portrait was featured by the magazine more than three decades ago, was evacuated to Rome after the Taliban takeover of Afghanistan. 
  <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 09:00 PM CT, Nov. 27 </p> 
@@ -173,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/asia/afghanistan-economy-collapse-sanctions.html">Afghan Economy Nears Collapse as Pressure Builds to Ease U.S. Sanctions</a> NYT: Afghanistan’s economy has crashed since the Taliban seized power, plunging the country into one of the world’s worst humanitarian crises. 
  <p class="updated_time"> 09:39 AM CT, Nov. 27 </p> 
  <a href="https://www.npr.org/2021/11/27/1059500165/first-winter-storm-in-the-u-k-deaths">At least 2 people have died during the first winter storm in the U.K.</a> NPR: The first winter storm of the season, named Arwen, hit parts of the north of England, Scotland and Northern Ireland particularly hard, with gusts of nearly 100 mph. Falling trees killed two people. 
- <p class="updated_time"> 08:56 AM CT, Nov. 27 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/27/1059501446/covid-coronavirus-omicron-variant">The omicron variant spreads across Europe as new travel bans take effect</a> NPR: Cases of the latest COVID variant of concern — first identified in South Africa — have been reported in the U.K., Germany, Italy and elsewhere. Travel from southern Africa is now restricted. 
  <p class="updated_time"> 07:43 AM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/africa/south-africa-omicron-travel-ban.html">South Africa Feels Punished for Alerting World to New Variant</a> NYT: Hours after South African scientists announced the existence of a troublesome new variant, Britain banned travelers from southern Africa. The United States and other nations quickly followed suit. 
  <p class="updated_time"> 02:05 AM CT, Nov. 27 </p> 
@@ -199,12 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/americas/martinique-covid-protests.html">Protesters in Martinique Fire at Police Officers and Journalists</a> NYT: Protests against the French island’s coronavirus protocols, requiring a health pass to enter most public venues, have been exacerbated by frustrations and anger over economic inequality with the mainland. 
  <p class="updated_time"> 12:15 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/asia/jakucho-setouchi-dead.html">Jakucho Setouchi, 99, Dies; Buddhist Priest Wrote of Sex and Love</a> NYT: Her more than 400 novels often drew on her own romantic affairs, and her translation of an 11th-century romantic Japanese classic sold millions of copies. 
- <p class="updated_time"> 10:59 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/middleeast/iraq-migrants-belarus-border-european-union.html">Iraqis Return From Belarus, but Some Say They Will Try Again to Reach the E.U.</a> NYT: “If I find a better and safe route, I will definitely try again,” said one of the more than 600 Iraqi migrants who came home on the government’s latest evacuation flights. 
- <p class="updated_time"> 10:57 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/arts/music/europe-covid-restrictions-theaters-music-venues.html">Covid Restrictions Are Back at Some of Europe's Theaters</a> NYT: Strict controls on playhouses and music venues are returning as the continent deals with a new coronavirus wave. 
- <p class="updated_time"> 09:20 AM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/africa/sudan-darfur-violence-protests.html">Fresh Violence in Darfur Adds to Sudan’s Crises</a> NYT: At least 43 people have been killed in clashes in the area, the U.N. says, while the nation’s leaders are focused elsewhere, dealing with the fallout from a coup. 
 
 
 </details>
@@ -214,6 +214,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/trump-vice-president-choice-2024-523429">Next on Trump’s 2024 list: An out-of-the-box running mate</a> Politico: The question of Trump’s prospective veep choice is surfacing with increasing frequency. 
+ <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
@@ -234,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
- <p class="updated_time"> 06:37 PM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/china-schumers-innovation-and-competition-act-523414">China blowback looms for Schumer’s Innovation and Competition Act</a> Politico: Beijing warns that U.S. tech and competitiveness legislation will “gravely damage America's own interests.” 
  <p class="updated_time"> 06:34 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/esper-defense-department-lawsuit/index.html">Defense Department wants former Sec. Esper to take out parts about Trump from forthcoming book, suit says</a> CNN: Former Secretary of Defense Mark Esper is suing the Department of Defense for not clearing his book manuscript for publication, after the agency told Esper he needed to take out parts of the book about his time working under then-President Donald Trump. 
  <p class="updated_time"> 06:07 PM CT, Nov. 28 </p> 
@@ -350,10 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 06:15 AM CT, Nov. 26 </p> 
  <a href="https://www.npr.org/2021/11/26/1059317191/a-new-round-of-talks-for-iran-nuclear-deal-begins-monday">A new round of talks for Iran nuclear deal begins Monday</a> NPR: Nuclear talks resume Monday between Iran and world powers in Vienna. The Biden administration has been trying to get the United States back into the 2015 nuclear agreement. 
- <p class="updated_time"> 06:14 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059317198/what-to-expect-during-the-iran-u-s-nuclear-deal-negotiations">What to expect during the Iran-U.S. nuclear deal negotiations</a> NPR: NPR's Steve Inskeep speaks with U.S. Special Envoy for Iran Rob Malley about the next round of talks to revive the Iran nuclear deal. 
- <p class="updated_time"> 04:01 AM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059317247/what-bidens-build-back-better-plan-can-do-for-the-nation">What Biden's 'Build Back Better' plan can do for the nation</a> NPR: NPR's Steve Inskeep asks Sen Michael Bennett how Democrats are selling Build Back Better to their voters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/nyregion/edward-durr-new-jersey-republican.html">Edward Durr Jr.: The Trump Republican Who’s Riding High in New Jersey</a> NYT: “If anything, my election showed nobody’s untouchable,” said Edward Durr Jr., who pulled off a stunning victory to win a New Jersey State Senate seat. 
  <p class="updated_time"> 07:24 PM CT, Nov. 25 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/donald-trump-january-6-committee-argument/index.html">Trump argues January 6 committee could damage the presidency in quest for his records</a> CNN: Former President Donald Trump is accusing the House select committee investigating January 6 of being so aggressive in its pursuit of his White House records that it could permanently damage the presidency, according to a court filing from his legal team on Wednesday. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/matthew-calamari-trump-org/index.html">Prosecutors tell Trump Org. executive Matthew Calamari they don't intend to bring charges for now</a> CNN: Manhattan prosecutors have informed top Trump Organization executive Matthew Calamari that they do not intend to charge him for now with any crimes as part of their wide-ranging investigation into the former President's company, according to people familiar with the investigation. 
- <p class="updated_time"> 01:34 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/technology/adam-mosseri-instagram-congress.html">Adam Mosseri, Instagram's Head, Agrees to Testify Before Congress</a> NYT: This will be the first time Adam Mosseri, a trusted lieutenant to Mark Zuckerberg, will appear before lawmakers under oath. 
  <p class="updated_time"> 11:57 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/federal-agency-score-card-biden-vaccine-mandate-523299">Agency score card: Who met Biden's vaccine mandate deadline and who didn't</a> Politico: The White House announcement touts that 92 percent of federal employees received at least one Covid-19 vaccination dose by the Nov. 22 deadline. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
