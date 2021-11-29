@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:36 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
+ <p class="updated_time"> 10:18 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59456332?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch police arrest quarantine hotel escapee couple</a> BBC: The arrests were made on a plane in Amsterdam's airport before the take-off on Sunday, police say. 
+ <p class="updated_time"> 10:09 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell's sex-trafficking trial to begin in New York City</a> BBC: The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 09:49 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
- <p class="updated_time"> 09:19 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/live/2021/11/28/world/honduras-election-results">Honduras Awaits Results in Presidential Election: Live Updates</a> NYT: Preliminary results gave the opposition candidate an early lead, but determining a winner may take days. Both main parties have claimed victory in an election that the United States is watching closely. 
  <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the omicron variant was identified can work against scientific transparency. 
  <p class="updated_time"> 08:53 PM CT, Nov. 28 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
  <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances adds air of urgency as sides meet in Vienna after months-long pause. 
  <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: 'My family wanted to cure me'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
  <p class="updated_time"> 05:55 PM CT, Nov. 28 </p> 
@@ -115,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59450174?at_medium=RSS&at_campaign=KARANGA">Covid: Australia woman charged after setting fire in quarantine hotel</a> BBC: The woman is charged with arson after allegedly lighting a fire under a bed at Pacific Hotel in Queensland. 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">New variant symptoms mild, says doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
- <p class="updated_time"> 05:09 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59448547?at_medium=RSS&at_campaign=KARANGA">Covid: Israel to impose travel ban for foreigners over new variant</a> BBC: Travellers from all countries will be banned from entering Israel for 14 days, local media report. 
  <p class="updated_time"> 03:16 AM CT, Nov. 28 </p> 
  <a href="https://www.wsj.com/articles/australia-seeks-to-make-social-media-firms-liable-for-users-defamatory-comments-11638109003">Australia Seeks to Make Social-Media Firms Liable for Users' Defamatory Comments</a> WSJ: The new legislation would create a defense for social-media companies that disclose details of users when a complaint is made against their comments. 
  <p class="updated_time"> 02:28 AM CT, Nov. 28 </p> 
@@ -214,6 +218,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
+ <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
+ <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
  <p class="updated_time"> 09:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Won't Run for Texas Governor ‘at This Moment’</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
@@ -260,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/cohen-trump-grifting-american-people-523419">Michael Cohen says Trump is ‘grifting’ off the American people</a> Politico: The former attorney for Donald Trump also said he’s convinced the former president won’t run again. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
- <p class="updated_time"> 11:26 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
  <p class="updated_time"> 11:08 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-fauci-america-523413">Omicron variant will 'inevitably' reach the U.S., Fauci says</a> Politico: NIAID Director Anthony Fauci said cases of the Omicron variant have not been detected yet in the U.S., but that “inevitably, it will be here.” 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
