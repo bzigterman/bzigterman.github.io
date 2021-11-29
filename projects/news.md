@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
+ <p class="updated_time"> 02:47 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
+ <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:33 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
- <p class="updated_time"> 02:09 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
  <p class="updated_time"> 01:54 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:18 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Biden urges calm over Omicron fears</a> BBC: No cases of the strain have been detected in the US, but Mr Biden called its arrival "inevitable". 
- <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Hondurus but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59458466?at_medium=RSS&at_campaign=KARANGA">Tanzania: Seven die in Zanzibar after eating poisonous turtle meat</a> BBC: The meat is a delicacy for some in Tanzania but the authorities have now banned its consumption. 
  <p class="updated_time"> 08:14 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59459733?at_medium=RSS&at_campaign=KARANGA">Magdalena Andersson: Sweden's first female PM returns after resignation</a> BBC: Magdalena Andersson is backed by MPs again, despite standing down last week hours into the job. 
- <p class="updated_time"> 07:37 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 06:51 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in hospitalizations in Gauteng province during the past two weeks, although fewer patients than in previous surges are being treated for severe disease. 
  <p class="updated_time"> 06:33 AM CT, Nov. 29 </p> 
@@ -202,10 +202,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
+ <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors frontline workers, first responders and the military. 
+ <p class="updated_time"> 02:36 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 02:32 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Jeffrey Clark With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
- <p class="updated_time"> 02:27 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 02:25 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: A four-star Army general will review reports that dozens of civilians were killed in a 2019 strike and that top military officers and civilian officials sought to conceal it. 
  <p class="updated_time"> 02:14 PM CT, Nov. 29 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
- <p class="updated_time"> 03:54 PM CT, Nov. 26 </p> 
- <a href="https://www.npr.org/2021/11/26/1059391798/a-new-report-suggests-that-abuses-of-power-surrounded-andrew-cuomos-book-deal">A new report suggests that abuses of power surrounded Andrew Cuomo's book deal</a> NPR: NPR's Audie Cornish talks to Eric Lach, a reporter at The New Yorker, about a new report that reveals details around Andrew Cuomo's many abuses of power. 
  <p class="updated_time"> 03:23 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/climate/climate-change-drilling-public-lands.html">Interior Dept. Report on Drilling Is Mostly Silent on Climate Change</a> NYT: The department recommended higher fees for oil and gas leases, but there was no sign the government planned to take global warming into account when weighing new applications. 
  <p class="updated_time"> 02:32 PM CT, Nov. 26 </p> 
