@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:06 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/virus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
- <p class="updated_time"> 05:05 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 05:23 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health care workers in some states. 
+ <p class="updated_time"> 05:14 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
+ <p class="updated_time"> 05:06 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 04:49 PM CT, Nov. 29 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:33 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
- <p class="updated_time"> 02:23 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:54 PM CT, Nov. 29 </p> 
@@ -206,12 +206,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/bill-cosby-supreme-court-523475">Cosby prosecutors urge Supreme Court to restore conviction</a> Politico: Legal scholars and victim advocates will be watching closely to see if the court takes an interest in the high-profile #MeToo case. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">McConnell threatens to stall defense bill without amendment votes</a> Politico: Democrats need to muster 60 votes to advance the defense policy bill, meaning Republicans could stall the measure if they hang together on the vote. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 04:41 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 04:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 04:17 PM CT, Nov. 29 </p> 
@@ -281,7 +281,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:48 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/shutdown-congress-funding-523442">'No appetite' for a shutdown as Congress readies funding fix</a> Politico: Leaders are mulling mid to late January for the new funding deadline rather than before Christmas as previously discussed. 
  <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving holiday break with a pile up of critical legislation — bills to fund the government, avoid a default on the nation's credit limit and a $2 T spending bill. 
+ <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — bills to fund the government, avoid a default on the nation's credit limit and a $2 trillion spending bill. 
  <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1056129045/as-the-supreme-court-considers-roe-v-wade-a-look-at-how-abortion-became-legal">As the Supreme Court considers Roe v. Wade, a look at how abortion became legal</a> NPR: Abortion did not become illegal in most states until the mid to late 1800s. But by the 1960s, abortion, like childbirth, had become a safe procedure when performed by a doctor. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
