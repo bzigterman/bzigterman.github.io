@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:14 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 05:38 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded in Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday morning, some patrons, band members and staff members were still stuck. 
  <p class="updated_time"> 05:32 AM CT, Nov. 29 </p> 
@@ -18,9 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:24 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59459660?at_medium=RSS&at_campaign=KARANGA">Honduras election: Opposition candidate Castro in the lead</a> BBC: Early results give the left-wing opposition a strong lead, but the governing party has not conceded. 
  <p class="updated_time"> 05:18 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
- <p class="updated_time"> 05:11 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
+ <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 05:10 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 05:09 AM CT, Nov. 29 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
+ <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
+ <p class="updated_time"> 05:58 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/joe-biden-omicron-variant-covid-19/index.html">Biden moves to reassure weary Americans as fears rise about new Covid variant</a> CNN: President Joe Biden's attempts to limit the spread of the new Omicron Covid-19 variant begins on Monday with new US restrictions on travel from South Africa and seven other countries taking effect, as his administration seeks to assure Americans that they are moving swiftly to try to contain the threat. 
  <p class="updated_time"> 05:03 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-agenda-republicans-quest-to-flip-house-2022/index.html">Biden's agenda brings warring conservative factions together in quest to flip House </a> CNN: The US Chamber of Commerce last year endorsed 23 vulnerable freshman House Democrats -- the most in at least a decade -- and enraged House GOP Leader Kevin McCarthy and other top Republicans who accused their long-time big business allies of heresy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
@@ -213,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/fcc-broadband-maps-biden-523425">The FCC’s shoddy maps could upend Biden’s broadband gold rush</a> Politico: The administration and Congress are devoting tens of billions of dollars to closing the digital divide. But a key ingredient is missing: an accurate picture of Americans' internet access. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/trump-vice-president-choice-2024-523429">Next on Trump’s 2024 list: An out-of-the-box running mate</a> Politico: The question of Trump’s prospective veep choice is surfacing with increasing frequency. 
+ <a href="https://www.politico.com/news/2021/11/29/trump-vice-president-choice-2024-523429">‘They’re all begging me’: Trump’s 2024 veep tryouts get underway</a> Politico: The question of Trump’s prospective choice of running mate is surfacing with increasing frequency. 
  <p class="updated_time"> 04:09 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/vaccines-abortion-january-6-legal-cases-biden/index.html">From vaccine mandates to abortion to insurrection probes, key court fights could shape Biden's legacy</a> CNN: Coming off the Thanksgiving holiday, the Biden administration enters a legal crucible as several high-profile lawsuits that carry significant consequences for President Joe Biden's legacy get key hearings in court. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
@@ -222,10 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now frozen under U.S. law. 
- <p class="updated_time"> 11:14 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ prosecutors push back against Bannon for wanting to publicize evidence against him </a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
- <p class="updated_time"> 11:01 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/joe-biden-omicron-variant-covid-19/index.html">Biden moves to reassure weary Americans as fears rise about new Covid variant</a> CNN: President Joe Biden's attempts to limit the spread of the new Omicron Covid-19 variant begins on Monday with new US restrictions on travel from South Africa and seven other countries taking effect, as his administration seeks to assure Americans that they are moving swiftly to try to contain the threat. 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
@@ -234,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">McConaughey Says He Won't Run for Texas Governor ‘at This Moment’</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
- <p class="updated_time"> 09:23 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/carrie-meek-florida-pioneer-congresswoman/index.html">Carrie Meek, trailblazing Black former congresswoman, dies at 95</a> CNN: Former Rep. Carrie Meek, who broke barriers throughout her winding political career as the daughter of a sharecropper and granddaughter of a slave, died Sunday in her Miami home. She was 95. 
  <p class="updated_time"> 08:29 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman attends National Menorah lighting ceremony: 'Jewish history is American history'  </a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
@@ -245,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 06:34 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/esper-defense-department-lawsuit/index.html">DOD wants former Sec. Esper to take out parts about Trump from forthcoming book, suit says</a> CNN: Former Secretary of Defense Mark Esper is suing the Department of Defense for not clearing his book manuscript for publication, after the agency told Esper he needed to take out parts of the book about his time working under then-President Donald Trump. 
+ <a href="https://www.cnn.com/2021/11/28/politics/esper-defense-department-lawsuit/index.html">DOD wants Esper to take out parts about Trump from forthcoming book, suit says</a> CNN: Former Secretary of Defense Mark Esper is suing the Department of Defense for not clearing his book manuscript for publication, after the agency told Esper he needed to take out parts of the book about his time working under then-President Donald Trump. 
  <p class="updated_time"> 06:07 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
  <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
@@ -356,6 +354,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/25/business/retail-vaccine-mandates.html">Why Retailers Are Fighting a Vaccine Mandate Before the Holidays</a> NYT: The Biden administration has called on major companies to help fight the pandemic. Big chains want to get past the holiday staffing crunch first. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 04:00 AM CT, Nov. 25 </p> 
  <a href="https://www.nytimes.com/2021/11/25/us/politics/biden-putin-russia-ukraine.html">How Far Would Biden Go to Defend Ukraine Against Russia?</a> NYT: U.S. officials are vague about when and how they might punish new Russian aggression. President Vladimir V. Putin may doubt their resolve. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
@@ -366,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/biden-colonoscopy-lesion-removed/index.html">Biden had benign but potentially precancerous lesion removed during colonoscopy</a> CNN: President Joe Biden had a single 3-millimeter polyp removed during his routine colonoscopy last week at Walter Reed medical center. 
  <p class="updated_time"> 07:05 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/first-amendment-praetorian-january-6-subpoena/index.html">What is the 1st Amendment Praetorian, the obscure far-right group subpoenaed by the January 6 committee?</a> CNN: An obscure far-right paramilitary group is in the spotlight this week after getting subpoenaed by the House select committee investigating the January 6 insurrection. 
+ <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 06:02 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/fact-check-trump-gas-prices/index.html">Fact check: Gas prices when Trump left office were much higher than he now claims</a> CNN: Former President Donald Trump has been attacking President Joe Biden over this year's increase in gas prices -- and greatly exaggerating the size of that increase. 
  <p class="updated_time"> 05:55 PM CT, Nov. 24 </p> 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/22/peter-welch-senate-campaign-patrick-leahy-seat-523176">Rep. Peter Welch launches Senate bid for Leahy's seat</a> Politico: The Democrat has represented Vermont's at-large House district since 2007. 
  <p class="updated_time"> 07:15 AM CT, Nov. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/22/from-the-hill-to-halifax-senators-face-tough-reality-495188">From the Hill to Halifax, senators face tough reality</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:14 AM CT, Nov. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/22/the-case-for-why-biden-is-screwed-495184">POLITICO Playbook: The case for why Biden is screwed</a> Politico: And a person plows through a holiday parade in Wisconsin, killing five and injuring dozens more. 
 
 
 </details>
