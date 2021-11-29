@@ -7,9 +7,15 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:49 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 01:06 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a ‘cause for concern, not a cause for panic.’ 
- <p class="updated_time"> 12:46 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
+ <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Hondurus but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
+ <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
+ <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 12:35 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-boosters-adults-omicron.html">The U.K. extends boosters to all adults while announcing two new Omicron cases.</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
  <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
- <p class="updated_time"> 11:20 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Hondurus but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 11:14 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59463879?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: No need to panic, South African minister says</a> BBC: Joe Phaahla says South Africa is experienced in dealing with Covid variants, despite a surge in cases. 
  <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1058048696/saudi-arabia-formula-1-china-olympics-human-rights-sports">Saudi Arabia and China are accused of using sports to cover up human rights abuse</a> NPR: Saudi Arabia has invested hundreds of millions of dollars to stage high-profile sporting events. Critics say those investments are an attempt by the kingdom to cover up human rights violations. 
- <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 03:36 AM CT, Nov. 29 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/26/world/australia/thanksgiving-after-lockdowns.html">Giving Thanks in Australia</a> NYT: It’s an odd affair outside America, but maybe the holiday will inspire more of us to pause and appreciate the gifts we’ve been given. 
  <p class="updated_time"> 06:35 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/world/canada/british-columbia-floods-aftermath.html">British Columbia Flood Victims Come Together In Storm's Wake</a> NYT: A tour of the flood-ravaged parts of the province finds communities supporting each other following disaster. 
- <p class="updated_time"> 02:06 PM CT, Nov. 24 </p> 
- <a href="https://www.nytimes.com/2021/11/24/travel/new-york-canada-tourism.html">In Buffalo, Waiting for the Canadians</a> NYT: So far, relaxed travel restrictions between the United States and Canada have not led to a big influx of tourists on either side of the New York-Ontario border. Both sides are waiting, not so patiently. 
 
 
 </details>
@@ -204,16 +204,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
  <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
+ <p class="updated_time"> 12:54 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 12:39 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
- <p class="updated_time"> 12:31 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 12:23 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, 5-Term Florida Representative, Dies at 95</a> NYT: She was the first Black person to represent the state in the House since Reconstruction, and she fought for programs to create jobs. 
- <p class="updated_time"> 11:57 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:52 AM CT, Nov. 29 </p> 
