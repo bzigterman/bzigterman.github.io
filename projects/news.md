@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
- <p class="updated_time"> 04:14 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: W.H.O. Warns of ‘Very High’ Risk From Omicron as Questions Remain</a> NYT: Scotland and Portugal identified cases of the new variant, and Japan became the latest country to ban all foreign travelers. President Biden calls the variant a “cause for concern, not a cause for panic.” 
  <p class="updated_time"> 04:13 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 03:45 PM CT, Nov. 29 </p> 
@@ -198,10 +198,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
+ <p class="updated_time"> 04:24 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 04:17 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">The Biden administration, under fire for supply chain woes, says stores will be fully stocked for the holidays.</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
+ <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">Biden Administration Says Stores Will Be Fully Stocked for the Holidays</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
  <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
+ <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request and insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 04:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
@@ -221,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:59 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-cms-mandate-missouri-order/index.html">Vaccine mandate for some health care workers blocked in 10 states</a> CNN: A federal judge in Missouri issued an order Monday partially blocking the Biden administration from implementing a vaccine mandate for certain health care workers. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: A four-star Army general will review reports that dozens of civilians were killed in a 2019 strike and that top military officers and civilian officials sought to conceal it. 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">Biden meets with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors frontline workers, first responders and the military. 
  <p class="updated_time"> 02:36 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
- <p class="updated_time"> 02:14 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
  <p class="updated_time"> 01:52 PM CT, Nov. 29 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
- <p class="updated_time"> 10:55 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/adam-schiff-mark-meadows-january-6-committee-cnntv/index.html">Schiff: January 6 committee decision on criminal contempt charges for Mark Meadows could come this week</a> CNN: The House select committee investigating the January 6 insurrection will make a decision "this week" on whether it will refer Mark Meadows for criminal contempt charges for defying a subpoena before the Thanksgiving recess, California Rep. Adam Schiff, a member of the panel, said Sunday. 
  <p class="updated_time"> 10:31 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
  <p class="updated_time"> 10:09 AM CT, Nov. 28 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
- <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
