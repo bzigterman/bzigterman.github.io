@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:49 PM CT, Nov. 28 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 09:32 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59344605?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Is India ready for a third wave?</a> BBC: Experts say the government needs to first fulfil its promises to boost the public health system. 
  <p class="updated_time"> 09:19 PM CT, Nov. 28 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-quarantine-hotel-fire.html">Arson Charges in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 07:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/26/science/merck-molnupiravir-antiviral-covid-pill.html">Merck Says Its Covid Pill Is Less Effective in a Final Analysis</a> NYT: The drug, molnupiravir, reduced the risk of hospitalization and death in high-risk Covid patients by 30 percent. An earlier analysis had found a 50 percent reduction. 
- <p class="updated_time"> 07:37 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination is the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 07:36 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
  <p class="updated_time"> 07:20 PM CT, Nov. 28 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 09:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Won't Run for Texas Governor ‘at This Moment’</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
@@ -281,15 +283,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:03 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059600285/politics-chat-u-s-bans-travelers-from-8-african-countries-to-slow-covid-19-varia">Politics chat: U.S. bans travelers from 8 African countries to slow COVID-19 variant</a> NPR: With the emergence of the Omicron variant, the U.S. limits travel from eight African nations. Congress has a big to-do list next month, and Democrats are pushing to pass the "Build Back Better" bill. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/vaccine-global-world-trade-organization-omicron-523405">Vaccine squabble tests global trade ties as WTO meeting postponed</a> Politico: The new leader of the World Trade Organization is trying to find a compromise on vaccine patents to help global efforts to combat coronavirus. 
- <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/donald-trump-senate-picks-stumble-523407">Trump’s Senate picks stumble out of the gate</a> Politico: The former president’s endorsement doesn’t guarantee a glide path to the GOP nomination. 
  <p class="updated_time"> 06:50 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/lincoln-project-anymore-523409">No one seems to like the Lincoln Project anymore</a> Politico: Once the belle of the resistance ball, the group now has a growing list of detractors. They say they’re still committed to the fight. 
- <p class="updated_time"> 06:42 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/south-africa-covid-variant-omicron-523410">South African scientists brace for wave propelled by variant</a> Politico: The Omicron variant has sent South Africa from a period of low transmission to rapid growth of new confirmed cases. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 11:03 PM CT, Nov. 27 </p> 
