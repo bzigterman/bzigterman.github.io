@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:20 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185901/the-u-s-has-lifted-the-terrorist-label-on-colombias-farc">The U.S. has lifted the terrorist label on Colombia's FARC</a> NPR: The U.S. State Department removed Colombia's FARC rebel group from its list of international terrorist organizations. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">The U.S. may start to clarify its Taiwan policy</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185866/what-we-know-about-the-omicron-variant">What we know about the omicron variant</a> NPR: The omicron variant of the not been found in the United States yet. Here's what's we known about it, how dangerous it's likely to be, and whether vaccines or new drugs will be effective against it. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. Expands Search for Omicron</a> NYT: The variant was already in Europe a week ago, a week before the W.H.O. labeled it a variant of concern. Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 03:20 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 03:23 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Macron hails the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 03:02 PM CT, Nov. 30 </p> 
@@ -145,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861708/secret-prisons-in-libya-keep-migrants-out-of-europe">Secret prisons in Libya keep migrants out of Europe</a> NPR: NPR's Mary Louise Kelly talks with investigative reporter Ian Urbina about his piece The New Yorker. He headed into Libya to better understand its role in migrants' movement toward Europe. 
- <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059861694/opening-arguments-begin-in-the-ghislaine-maxwell-case">Opening arguments begin in the Ghislaine Maxwell case</a> NPR: Prosecutors began their case against Ghislaine Maxwell, the socialite who is charged with grooming underage girls for alleged sexual predator Jeffrey Epstein. Epstein died while in federal custody. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
@@ -155,16 +163,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
- <p class="updated_time"> 01:20 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
- <p class="updated_time"> 11:44 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
- <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59441379?at_medium=RSS&at_campaign=KARANGA">China surveillance of journalists to use 'traffic-light' system</a> BBC: Documents detail how one province is making a facial-recognition system to spot "people of concern". 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
@@ -200,10 +202,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">U.S. Covid travel restrictions in a stasis — for now</a> Politico: There have been indications that the variant may have originated in Europe, raising questions about whether the U.S. might again shut down flights from Europe. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
- <p class="updated_time"> 03:11 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">The U.S. may start to clarify its Taiwan policy</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
@@ -348,10 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions">The omicron variant is cause for concern — but not panic, Biden says</a> NPR: President Biden said that while restrictions imposed on travelers from several nations in southern Africa would slow the variant's entry, the U.S. will eventually see cases. 
  <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059781079/matthew-mcconaughey-texas-governor-2022-video">Matthew McConaughey says he won't run for Texas governor in 2022</a> NPR: After months of dropping hints and dodging specifics, Matthew McConaughey has finally announced his much-speculated-about plans for the Texas governor race: He won't be running in it. 
- <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to try to avoid a partial government shutdown. Here's its to-do list</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — to fund the government and avoid a default on the nation's credit limit, plus a $2 trillion spending bill. 
- <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1056129045/as-the-supreme-court-considers-roe-v-wade-a-look-at-how-abortion-became-legal">As the Supreme Court considers Roe v. Wade, a look at how abortion became legal</a> NPR: Abortion did not become illegal in most states until the mid to late 1800s. But by the 1960s, abortion, like childbirth, had become a safe procedure when performed by a doctor. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
  <p class="updated_time"> 08:43 AM CT, Nov. 29 </p> 
