@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson">There's a GOP push in Wisconsin to take over the state's election system</a> NPR: Some GOP lawmakers in Wisconsin want to strip the state's bipartisan elections agency of its power and give it to the Republican-controlled Legislature. The idea is backed by GOP Sen. Ron Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 11:02 PM CT, Nov. 29 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 09:55 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/trump-intelligence-briefings/index.html">US intelligence community 'struggled' to brief Trump, CIA study says</a> CNN: The US intelligence community "struggled" to brief President-elect Donald Trump in 2016, achieving "only limited success" in educating and developing a relationship with the incoming president, according to a newly released unclassified history of the transition period published by the CIA's in-house academic center. 
+ <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/esper-book-defense-department-trump-cnntv/index.html">Esper says Americans deserve 'unvarnished' look at 'tumultuous' Trump administration as he sues Pentagon over book redactions</a> CNN: Former Secretary of Defense Mark Esper said Monday that the American people deserve an "unvarnished" look at former President Donald Trump's "tumultuous" presidency after he filed a lawsuit against the Pentagon for not clearing his book manuscript for publication. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/travel-restrictions-fauci-omicron-covid/index.html">Fauci says he doesn't expect more travel restrictions even if Omicron variant proves more contagious and deadly</a> CNN: Dr. Anthony Fauci, the nation's top infectious diseases expert, said Monday that he doesn't anticipate the United States will implement additional travel restrictions even if the Omicron variant proves worse than previous strains of Covid-19. 
- <p class="updated_time"> 06:11 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/mcconnell-trump-call-to-step-down-response/index.html">Analysis: How long can Mitch McConnell ignore Donald Trump?</a> CNN: Mitch McConnell would like everyone in the Republican Party to forget all about Donald Trump -- and the last four years. 
  <p class="updated_time"> 06:11 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/pfizer-fda-authorization-boosters-ages-16-17/index.html">Pfizer expected to seek FDA authorization for boosters for those ages 16 and 17</a> CNN: Pfizer is expected to seek authorization from the US Food and Drug Administration for its vaccine booster shot for those who are ages 16 and 17, a source familiar with the plan told CNN on Monday. 
  <p class="updated_time"> 05:51 PM CT, Nov. 29 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
  <p class="updated_time"> 08:43 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Will Not Run for Texas Governor</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
- <p class="updated_time"> 08:18 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/department-of-justice-steve-bannon-court-filing/index.html">DOJ moves to limit Bannon media circus over January 6 investigation</a> CNN: Prosecutors in the case against former President Donald Trump's ex-adviser Steve Bannon have accused him of attempting to try his criminal case through the media instead of in court, saying his tactics could affect witnesses against him, according to a new filing in DC District Court. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
@@ -380,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
+ <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
