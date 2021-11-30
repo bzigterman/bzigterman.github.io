@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 08:12 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Biden urges calm over Omicron fears</a> BBC: Mr Biden says he sees no need for a new US lockdown "if people are vaccinated and wear their masks". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Biden says Omicron lockdowns not needed 'for now'</a> BBC: Mr Biden says he sees no need for a new US lockdown "if people are vaccinated and wear their masks". 
  <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 07:29 PM CT, Nov. 29 </p> 
