@@ -410,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
  <p class="updated_time"> 03:04 PM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/news/2021/11/23/january-6-subpoena-proud-boys-oath-keepers-523255">Jan. 6 investigators subpoena Proud Boys, Oath Keepers as probe turns to domestic extremism</a> Politico: The House select committee’s latest round of summonses target leaders of the groups, as well as a third far-right entity. 
- <p class="updated_time"> 07:42 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
