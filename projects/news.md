@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 11:50 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
  <p class="updated_time"> 11:36 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
@@ -198,10 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:51 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
+ <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
  <p class="updated_time"> 11:38 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
- <p class="updated_time"> 11:37 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 11:28 AM CT, Nov. 30 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/bill-cosby-prosecutors-supreme-court-review-conviction/index.html">Prosecutors ask US Supreme Court to review Bill Cosby's overturned sexual assault conviction</a> CNN: Prosecutors in Pennsylvania announced Monday they're appealing a court ruling in the case against Bill Cosby to the US Supreme Court, arguing that a statement from a previous district attorney that they would not file charges against Cosby does not mean that charges would never be filed. 
  <p class="updated_time"> 07:06 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
- <p class="updated_time"> 07:04 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
