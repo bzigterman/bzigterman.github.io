@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:00 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:27 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: The new Omicron variant was already in Europe a week ago, officials said, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 03:51 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:27 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Endorses Merck’s Covid Pill for High-Risk Adults</a> NYT: The drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 04:19 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
+ <p class="updated_time"> 04:15 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
+ <p class="updated_time"> 04:13 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185957/china-critics-hope-the-wta-will-inspire-outcry-about-alleged-human-rights-violat">China critics hope the WTA will inspire outcry about alleged human rights violations</a> NPR: Chinese tennis star Peng Shuai made an assault allegation, then disappeared. She's re-emerged, but the Women's Tennis Association's unflinching support may inspire a wider outcry over China's actions. 
  <p class="updated_time"> 03:46 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059501906/islamic-state-member-convicted-death-yazidi-girl-genocide">A former member of the Islamic State is convicted in the death of a Yazidi girl</a> NPR: A German court on Tuesday convicted the man of genocide and committing a war crime over the death of a 5-year-old Yazidi girl he had purchased as a slave and then chained up in the hot sun to die. 
  <p class="updated_time"> 03:39 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds six</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
- <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Macron hails the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185915/the-omicron-variant-might-have-originated-in-someone-with-a-suppressed-immune-sy">The omicron variant might have originated in someone with a suppressed immune system</a> NPR: How did the coronavirus end up mutating into the omicron variant? One hypothesis is that it spent months replicating in the body of someone whose immune system was suppressed by uncontrolled HIV. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -30,17 +34,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185866/what-we-know-about-the-omicron-variant">What we know about the omicron variant</a> NPR: The omicron variant of the not been found in the United States yet. Here's what's we known about it, how dangerous it's likely to be, and whether vaccines or new drugs will be effective against it. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
- <p class="updated_time"> 03:02 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
+ <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 02:48 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel over Omicron</a> BBC: It urges those who are unwell and the over-60s to delay international travel because of the Omicron variant. 
+ <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel to Covid hotspots over Omicron</a> BBC: It urges those who are unwell and the over-60s to delay international travel to areas with community transmission. 
  <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
- <p class="updated_time"> 02:31 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 02:14 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484382?at_medium=RSS&at_campaign=KARANGA">Emma Coronel: Wife of kingpin El Chapo sentenced to three years</a> BBC: Emma Coronel Aispuro pleaded guilty to conspiracy and drug charges in June 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
@@ -175,12 +175,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
- <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
- <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 06:16 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
  <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
@@ -196,16 +192,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/trump-allies-launch-maga-publishing-house-523564">Trump allies launch a MAGA publishing house with an eye on profit and intel</a> Politico: The former president is trying to circumvent the Big Five, having not inked a deal for a memoir. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA expert panel narrowly endorses Merck’s Covid-19 pill</a> Politico: The vote was 13-10. 
- <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports making banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
- <p class="updated_time"> 04:05 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:19 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Court blocks vaccine mandate for federal contractors in 3 states, in latest blow to Biden administration</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
+ <p class="updated_time"> 04:13 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-michigan-school-shooting/index.html">Biden says his 'heart goes out' to families affected by Michigan school shooting</a> CNN: President Joe Biden on Tuesday mourned the deaths of three students shot and killed at a southeast Michigan high school. 
+ <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen Still Supports Making Banks Give the I.R.S. New Customer Data</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
+ <p class="updated_time"> 04:04 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/austin-national-guard-warning/index.html">Defense secretary warns unvaccinated National Guard members won't be paid</a> CNN: Defense Secretary Lloyd Austin warned on Tuesday that unvaccinated members of the National Guard won't be paid and won't be allowed to participate in training, drills and deployments. 
  <p class="updated_time"> 04:01 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/philip-heymann-dead.html">Philip B. Heymann, 89, Dies; Prosecuted Watergate and Abscam</a> NYT: He served four presidents over six decades, mostly in the Justice Department and often as a key part of major investigations. 
- <p class="updated_time"> 03:59 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
@@ -225,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Federal health officials say that they are expanding the search for Omicron in the U.S.</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Search for Omicron in U.S. Is Expanding, Officials Say</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/dems-want-biden-to-go-negative-523427">Dems want Biden to start swinging at Republicans. Allies aren’t sure he can.</a> Politico: Inside the White House a debate rages over how hard the president should attack Republicans heading into the midterms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
- <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
@@ -388,22 +388,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
- <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
- <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/24/buzz-grows-about-buttigieg-2024-495215">POLITICO Playbook: Buzz grows about Buttigieg 2024</a> Politico: And Josh Gottheimer takes a victory lap on Build Back Better. 
  <p class="updated_time"> 04:30 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/pete-buttigieg-presidential-buzz-white-house-523281">The Buttigieg presidential buzz has hit the White House</a> Politico: At 39, he is the most recognizable and powerful transportation secretary in modern memory. And he wants you to believe his eye isn’t on the future. 
- <p class="updated_time"> 04:29 PM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/bernie-kerik-january-6-apology-523259">Former NYC police commissioner demands apology from Jan. 6 committee, but plans to comply</a> Politico: The Capitol riot panel subpoenaed Bernard Kerik in part because its investigators believed he attended a meeting at the Willard Hotel with other Trump World figures. His lawyer says that's not true. 
 
 
 </details>
