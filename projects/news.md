@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:54 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:00 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: The new Omicron variant was already in Europe a week ago, officials said, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
  <p class="updated_time"> 03:51 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Endorses Merck’s Covid Pill for High-Risk Adults</a> NYT: The drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185957/china-critics-hope-the-wta-will-inspire-outcry-about-alleged-human-rights-violat">China critics hope the WTA will inspire outcry about alleged human rights violations</a> NPR: Chinese tennis star Peng Shuai made an assault allegation, then disappeared. She's re-emerged, but the Women's Tennis Association's unflinching support may inspire a wider outcry over China's actions. 
  <p class="updated_time"> 03:46 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059501906/islamic-state-member-convicted-death-yazidi-girl-genocide">A former member of the Islamic State is convicted in the death of a Yazidi girl</a> NPR: A German court on Tuesday convicted the man of genocide and committing a war crime over the death of a 5-year-old Yazidi girl he had purchased as a slave and then chained up in the hot sun to die. 
+ <p class="updated_time"> 03:39 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds six</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
  <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Macron hails the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
- <p class="updated_time"> 12:43 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid: Couple win freedom from Omicron quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands are told they can now go home. 
  <p class="updated_time"> 12:27 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 12:14 PM CT, Nov. 30 </p> 
@@ -121,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 06:38 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59477186?at_medium=RSS&at_campaign=KARANGA">Man rescued after 22 hours adrift off Japan coast</a> BBC: Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters. 
- <p class="updated_time"> 05:39 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59474965?at_medium=RSS&at_campaign=KARANGA">Dozens of former Afghan forces killed or disappeared by Taliban, rights group says</a> BBC: Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared. 
  <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474807?at_medium=RSS&at_campaign=KARANGA">France issues arrest warrant over Japan 'parental kidnap'</a> BBC: Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018. 
  <p class="updated_time"> 04:43 AM CT, Nov. 30 </p> 
@@ -189,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
  <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: Family wanted to 'make me better'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
- <p class="updated_time"> 05:26 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Polls began wrapping up around 5 p.m. with few reports of problems so far. 
  <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
 
@@ -200,6 +196,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA expert panel narrowly endorses Merck’s Covid-19 pill</a> Politico: The vote was 13-10. 
+ <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports making banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
+ <p class="updated_time"> 04:05 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-michigan-school-shooting/index.html">Biden says his 'heart goes out' to families affected by Michigan school shooting</a> CNN: President Joe Biden on Tuesday mourned the deaths of three students shot and killed at a southeast Michigan high school. 
+ <p class="updated_time"> 04:01 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/philip-heymann-dead.html">Philip B. Heymann, 89, Dies; Prosecuted Watergate and Abscam</a> NYT: He served four presidents over six decades, mostly in the Justice Department and often as a key part of major investigations. 
+ <p class="updated_time"> 03:59 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
@@ -220,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Federal health officials say that they are expanding the search for Omicron in the U.S.</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
- <p class="updated_time"> 02:42 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports a plan to make banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
@@ -252,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows cooperating with January 6 investigators</a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060029279/senate-effort-to-reform-military-justice-system-now-under-threat-faces-final-hur">Senate effort to reform military justice system, now under threat, faces final hurdle</a> NPR: As Congress works to pass the annual defense policy bill, lawmakers work to ensure efforts to reform the military justice system remain. 
- <p class="updated_time"> 12:24 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/farc-delisting/index.html">US removes Colombia's FARC from terrorism blacklist</a> CNN: The US State Department has removed the Revolutionary Armed Forces of Colombia, known by the acronym the FARC, from its terrorism blacklist, and listed two dissident groups led by former FARC militants. 
  <p class="updated_time"> 11:55 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060091466/ex-trump-chief-of-staff-mark-meadows-to-appear-before-jan-6-panel">Ex-Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Capitol attack had threatened Meadows with a criminal contempt referral because he had previously refused to cooperate. 
  <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
@@ -267,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 08:30 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden to sell infrastructure law in Minnesota</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
+ <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden heads to Minnesota to sell infrastructure law</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
  <p class="updated_time"> 08:16 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:23 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-omicron-variant-uncertainty/index.html">Analysis: Biden faces a familiar foe -- uncertainty</a> CNN: President Joe Biden had hoped to return from the Thanksgiving holiday bearing good news about his moves to get the economy back on track, his administration's effort to fix the supply chain crisis and hopes for a holiday season where Americans could gather safely with families and friends. 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
@@ -302,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
- <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 07:06 PM CT, Nov. 29 </p> 
@@ -312,20 +310,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">Biden Administration Says Stores Will Be Fully Stocked for the Holidays</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
- <p class="updated_time"> 06:33 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/esper-book-defense-department-trump-cnntv/index.html">Esper says Americans deserve 'unvarnished' look at 'tumultuous' Trump administration as he sues Pentagon over book redactions</a> CNN: Former Secretary of Defense Mark Esper said Monday that the American people deserve an "unvarnished" look at former President Donald Trump's "tumultuous" presidency after he filed a lawsuit against the Pentagon for not clearing his book manuscript for publication. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/travel-restrictions-fauci-omicron-covid/index.html">Fauci says he doesn't expect more travel restrictions even if Omicron variant proves more contagious and deadly</a> CNN: Dr. Anthony Fauci, the nation's top infectious diseases expert, said Monday that he doesn't anticipate the United States will implement additional travel restrictions even if the Omicron variant proves worse than previous strains of Covid-19. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">Republicans stall defense bill over amendment dispute</a> Politico: Democrats needed to muster 60 votes to advance the bill, but Republicans are digging in over Nord Stream 2 sanctions. 
- <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
  <p class="updated_time"> 05:16 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/patriots-45-maga-gang-fanone-capitol-riot/index.html">'Patriots 45 MAGA Gang' planned violence on January 6, prosecutors say</a> CNN: Federal prosecutors have indicted a trio of alleged US Capitol rioters -- including one who is accused of assaulting DC police officer Michael Fanone -- for planning to be violent together on January 6, according to court records and a Justice Department statement on Monday. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
  <p class="updated_time"> 04:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
@@ -354,16 +346,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
+ <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge lets actor charged in Jan. 6 riot head home despite ‘gobbledygook’ at hearing</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
- <p class="updated_time"> 08:43 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/politics/matthew-mcconaughey-texas-governor.html">Matthew McConaughey Says He Will Not Run for Texas Governor</a> NYT: With about two weeks before the candidate filing deadline for the Texas primary, the actor said a run for office is “a path that I’m choosing not to take at this moment.” 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
- <p class="updated_time"> 05:03 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/biden-agenda-republicans-quest-to-flip-house-2022/index.html">Biden's agenda brings warring conservative factions together in quest to flip House </a> CNN: The US Chamber of Commerce last year endorsed 23 vulnerable freshman House Democrats -- the most in at least a decade -- and enraged House GOP Leader Kevin McCarthy and other top Republicans who accused their long-time big business allies of heresy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/dems-want-biden-to-go-negative-523427">Dems want Biden to start swinging at Republicans. Allies aren’t sure he can.</a> Politico: Inside the White House a debate rages over how hard the president should attack Republicans heading into the midterms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
@@ -398,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
+ <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
