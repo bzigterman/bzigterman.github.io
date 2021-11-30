@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: If approved, the booster would be the first for anyone under 18 in the U.S. A federal judge temporarily blocked a vaccine mandate for health workers in 10 states. 
+ <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
+ <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
+ <p class="updated_time"> 07:29 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor hatched 'secret plan' for hate hoax</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
  <p class="updated_time"> 07:08 PM CT, Nov. 29 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59469489?at_medium=RSS&at_campaign=KARANGA">Mark Esper: Former Pentagon chief sues Pentagon over book release</a> BBC: Trump's fired defence secretary opposes the Defense Department's redactions to his new memoir. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
- <p class="updated_time"> 03:20 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861708/secret-prisons-in-libya-keep-migrants-out-of-europe">Secret prisons in Libya keep migrants out of Europe</a> NPR: NPR's Mary Louise Kelly talks with investigative reporter Ian Urbina about his piece The New Yorker. He headed into Libya to better understand its role in migrants' movement toward Europe. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/us-china-pentagon-middle-east-11638142162">Pentagon Plans to Improve Airfields in Guam, Australia to Confront China</a> WSJ: A review of U.S. military forces and capabilities world-wide doesn’t contain large adjustments as the U.S. tries to take on Beijing, deter Russia and fight terrorism. 
  <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
- <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59386825?at_medium=RSS&at_campaign=KARANGA">US and Iran seek to break impasse at talks on reviving nuclear deal</a> BBC: Iran's nuclear advances add an air of urgency as the sides meet in Vienna after a five-month pause. 
  <p class="updated_time"> 11:44 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
  <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
@@ -97,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Dutch Police Arrest a Couple Who Fled Quarantine and Boarded a Plane.</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
  <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-drives-rise-in-covid-19-hospitalizations-in-south-africa-hot-spot-11638185629">Omicron Drives Rise in Hospitalizations in South Africa Hot Spot</a> WSJ: The variant’s emergence in South Africa has driven a sharp increase in hospitalizations in Gauteng province during the past two weeks, although fewer patients than in previous surges are being treated for severe disease. 
- <p class="updated_time"> 09:37 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Jury selection begins in actor’s trial</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
@@ -115,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iran-doubles-down-on-demands-as-nuclear-talks-resume-11638207200">Iran Doubles Down on Demands as Nuclear Talks Resume</a> WSJ: Tehran’s position raised doubts over an early breakthrough in negotiations in Vienna that aim to address steps Iran and the U.S. will take to revive the 2015 nuclear deal. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
- <p class="updated_time"> 05:24 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59459660?at_medium=RSS&at_campaign=KARANGA">Honduras election: Opposition candidate Castro in the lead</a> BBC: Early results give the left-wing opposition a strong lead, but the governing party has not conceded. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
  <p class="updated_time"> 04:27 AM CT, Nov. 29 </p> 
@@ -202,8 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
  <p class="updated_time"> 08:05 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/twitter-dorsey-agrawal-ceo-523492">Twitter’s CEO is leaving. The storms that consumed his company won’t end.</a> Politico: Conservative activists and lawmakers immediately began heaping attacks on Jack Dorsey's chosen successor, Parag Agrawal. 
+ <p class="updated_time"> 07:45 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 07:11 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 07:08 PM CT, Nov. 29 </p> 
@@ -222,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/esper-book-defense-department-trump-cnntv/index.html">Esper says Americans deserve 'unvarnished' look at 'tumultuous' Trump administration as he sues Pentagon over book redactions</a> CNN: Former Secretary of Defense Mark Esper said Monday that the American people deserve an "unvarnished" look at former President Donald Trump's "tumultuous" presidency after he filed a lawsuit against the Pentagon for not clearing his book manuscript for publication. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/travel-restrictions-fauci-omicron-covid/index.html">Fauci says he doesn't expect more travel restrictions even if Omicron variant proves more contagious and deadly</a> CNN: Dr. Anthony Fauci, the nation's top infectious diseases expert, said Monday that he doesn't anticipate the United States will implement additional travel restrictions even if the Omicron variant proves worse than previous strains of Covid-19. 
- <p class="updated_time"> 06:21 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 06:11 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/mcconnell-trump-call-to-step-down-response/index.html">Analysis: How long can Mitch McConnell ignore Donald Trump?</a> CNN: Mitch McConnell would like everyone in the Republican Party to forget all about Donald Trump -- and the last four years. 
  <p class="updated_time"> 06:11 PM CT, Nov. 29 </p> 
