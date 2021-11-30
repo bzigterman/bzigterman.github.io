@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:36 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1059976355/myanmar-court-postpones-verdict-for-ousted-leader-aung-san-suu-kyi">Myanmar court postpones verdict for ousted leader Aung San Suu Kyi</a> NPR: The court agreed with a defense motion to allow testimony from an additional witness. On Feb. 1, the army seized power — arresting Suu Kyi and blocking her party from a second term in office. 
  <p class="updated_time"> 12:10 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 12:05 AM CT, Nov. 30 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
  <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/28/1059025751/who-seeks-a-new-treaty-on-handling-future-pandemics-it-could-be-a-hard-sell">The WHO is seeking a new treaty on handling future pandemics. It could be a hard sell</a> NPR: At a special session this week, the World Health Organization hopes to start sketching out a new world order. "We don't have rules of the game," says WHO head Tedros Adhanom Ghebreyesus. 
- <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Much has changed for the Iran nuclear deal. These are 4 things to know as talks resume</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
