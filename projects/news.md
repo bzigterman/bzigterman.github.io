@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:03 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 03:20 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. Expands Search for Omicron</a> NYT: The variant was already in Europe a week ago, a week before the W.H.O. labeled it a variant of concern. Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 03:03 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 03:20 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 03:02 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
- <p class="updated_time"> 02:54 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
+ <p class="updated_time"> 02:48 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel over Omicron</a> BBC: It urges people who are unwell and the over-60s to delay travel because of the Omicron variant. 
  <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
  <p class="updated_time"> 02:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
+ <p class="updated_time"> 02:14 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484382?at_medium=RSS&at_campaign=KARANGA">Emma Coronel: Wife of kingpin El Chapo sentenced to three years</a> BBC: Emma Coronel Aispuro pleaded guilty to conspiracy and drug charges in June 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 01:58 PM CT, Nov. 30 </p> 
@@ -29,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
+ <p class="updated_time"> 01:53 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
  <p class="updated_time"> 12:43 PM CT, Nov. 30 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 09:07 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
- <p class="updated_time"> 09:03 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59473131?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron variant in Netherlands earlier than thought</a> BBC: The new Covid-19 variant is found in Dutch samples taken before it was reported by South Africa. 
  <p class="updated_time"> 08:59 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/59461861?at_medium=RSS&at_campaign=KARANGA">Omicron: Do travel bans work against new Covid variants?</a> BBC: What is the evidence that travel restrictions could stop the spread of coronavirus? 
  <p class="updated_time"> 08:59 AM CT, Nov. 30 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
  <p class="updated_time"> 12:36 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059976355/myanmar-court-postpones-verdict-for-ousted-leader-aung-san-suu-kyi">Myanmar court postpones verdict for ousted leader Aung San Suu Kyi</a> NPR: The court agreed with a defense motion to allow testimony from an additional witness. On Feb. 1, the army seized power — arresting Suu Kyi and blocking her party from a second term in office. 
- <p class="updated_time"> 12:13 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59472194?at_medium=RSS&at_campaign=KARANGA">Australian parliament: One in three workers sexually harassed, says report</a> BBC: Canberra's workplace culture has left a "trail of devastation" for women especially, a review finds. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">U.S. Covid travel restrictions in a stasis — for now</a> Politico: There have been indications that the variant may have originated in Europe, raising questions about whether the U.S. might again shut down flights from Europe. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
+ <p class="updated_time"> 03:11 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
- <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
