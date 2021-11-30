@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Former Trump Official With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Jeffrey Clark With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
  <p class="updated_time"> 03:42 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059858635/reps-boebert-and-omar-spoke-after-boeberts-islamophobic-comments-it-didnt-go-wel">Reps. Boebert and Omar spoke after Boebert's Islamophobic comments. It didn't go well</a> NPR: The contentious phone call between Reps. Lauren Boebert and Ilhan Omar likely means the controversy will continue. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
