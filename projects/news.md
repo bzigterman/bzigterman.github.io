@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 07:49 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
+ <p class="updated_time"> 07:48 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
  <p class="updated_time"> 07:14 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: China Pledges 1 Billion Vaccine Doses for Africa</a> NYT: The announcement comes as southern Africa grapples with the emergence of the Omicron variant, whose severity remains unclear. F.D.A. advisers will vote on whether to recommend authorizing an antiviral pill for high-risk Covid patients. 
  <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 06:25 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
- <p class="updated_time"> 06:05 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
  <p class="updated_time"> 05:44 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59473981?at_medium=RSS&at_campaign=KARANGA">House of Gucci: Family hits out at insulting and painful portrayal</a> BBC: The heirs of Italian fashion house Gucci criticise depiction of the family in House of Gucci film. 
  <p class="updated_time"> 05:40 AM CT, Nov. 30 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking Barbados' new status as a republic. 
  <p class="updated_time"> 12:36 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059976355/myanmar-court-postpones-verdict-for-ousted-leader-aung-san-suu-kyi">Myanmar court postpones verdict for ousted leader Aung San Suu Kyi</a> NPR: The court agreed with a defense motion to allow testimony from an additional witness. On Feb. 1, the army seized power — arresting Suu Kyi and blocking her party from a second term in office. 
  <p class="updated_time"> 12:26 AM CT, Nov. 30 </p> 
