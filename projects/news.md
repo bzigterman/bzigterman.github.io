@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
+ <p class="updated_time"> 08:12 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Biden urges calm over Omicron fears</a> BBC: Mr Biden says he sees no need for a new US lockdown "if people are vaccinated and wear their masks". 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
- <p class="updated_time"> 01:54 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 01:43 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59468148?at_medium=RSS&at_campaign=KARANGA">The Simpsons: Tiananmen episode not found in Hong Kong</a> BBC: The episode includes jokes about China's censorship of the Tiananmen Square massacre. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 01:20 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
- <p class="updated_time"> 01:18 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Biden urges calm over Omicron fears</a> BBC: No cases of the strain have been detected in the US, but Mr Biden called its arrival "inevitable". 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 01:03 PM CT, Nov. 29 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
  <p class="updated_time"> 08:05 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/twitter-dorsey-agrawal-ceo-523492">Twitter’s CEO is leaving. The storms that consumed his company won’t end.</a> Politico: Conservative activists and lawmakers immediately began heaping attacks on Jack Dorsey's chosen successor, Parag Agrawal. 
+ <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
+ <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/january-6-jesus-christ-superstar-sovereign-citizen/index.html">'Jesus Christ Superstar' actor, an accused Capitol rioter, claimed 'divine' authority in court hearing</a> CNN: A court hearing for a January 6 defendant quickly turned contentious Monday after an actor and Oath Keeper tried to reject the United States' authority over him. 
  <p class="updated_time"> 07:45 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
- <p class="updated_time"> 07:11 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
+ <p class="updated_time"> 07:21 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/bill-cosby-prosecutors-supreme-court-review-conviction/index.html">Prosecutors ask US Supreme Court to review Bill Cosby's overturned sexual assault conviction</a> CNN: Prosecutors in Pennsylvania announced Monday they're appealing a court ruling in the case against Bill Cosby to the US Supreme Court, arguing that a statement from a previous district attorney that they would not file charges against Cosby does not mean that charges would never be filed. 
  <p class="updated_time"> 07:08 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 07:06 PM CT, Nov. 29 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
  <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge lets actor charged in Jan. 6 riot head home despite ‘gobbledygook’ at hearing</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
- <p class="updated_time"> 11:27 AM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/january-6-jesus-christ-superstar-sovereign-citizen/index.html">'Jesus Christ Superstar' actor, an accused Capitol rioter, claimed 'divine' authority in court hearing</a> CNN: A court hearing for a January 6 defendant quickly turned contentious Monday after an actor and Oath Keeper tried to reject the United States' authority over him. 
  <p class="updated_time"> 11:23 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions">The omicron variant is cause for concern — but not panic, Biden says</a> NPR: President Biden said that while restrictions imposed on travelers from several nations in southern Africa would slow the variant's entry, the U.S. will eventually see cases. 
  <p class="updated_time"> 11:09 AM CT, Nov. 29 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
- <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
