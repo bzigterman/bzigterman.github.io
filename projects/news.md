@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:18 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 10:50 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 10:11 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59470666?at_medium=RSS&at_campaign=KARANGA">Westpac: Australia bank pays out over charging dead people</a> BBC: Australia's second largest bank has agreed to pay $81m in penalties and compensate customers. 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 08:12 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Biden says Omicron lockdowns not needed 'for now'</a> BBC: Mr Biden says he sees no need for a new US lockdown "if people are vaccinated and wear their masks". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Biden says Omicron lockdowns not needed 'for now'</a> BBC: The president says a new US lockdown can be avoided "if people are vaccinated and wear their masks". 
  <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 07:29 PM CT, Nov. 29 </p> 
@@ -233,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:51 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request and insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 05:49 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said in a statement. 
+ <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said. 
  <p class="updated_time"> 05:46 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/iran-nuclear-talks-restart/index.html">Iran nuclear talks restart as participants draw their lines in the sand</a> CNN: Iran nuclear talks resumed Monday in Vienna, Austria, as the US warned Tehran against further uranium enrichment, Israel forcefully lobbied against sanctions relief for Iran and Iran announced its "willingness and seriousness" to reach a deal -- but only if the US lifts sanctions. 
  <p class="updated_time"> 05:39 PM CT, Nov. 29 </p> 
