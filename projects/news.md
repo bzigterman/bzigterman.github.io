@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
+ <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
  <p class="updated_time"> 08:05 PM CT, Nov. 29 </p> 
@@ -206,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/january-6-jesus-christ-superstar-sovereign-citizen/index.html">'Jesus Christ Superstar' actor, an accused Capitol rioter, claimed 'divine' authority in court hearing</a> CNN: A court hearing for a January 6 defendant quickly turned contentious Monday after an actor and Oath Keeper tried to reject the United States' authority over him. 
- <p class="updated_time"> 07:45 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 07:21 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/bill-cosby-prosecutors-supreme-court-review-conviction/index.html">Prosecutors ask US Supreme Court to review Bill Cosby's overturned sexual assault conviction</a> CNN: Prosecutors in Pennsylvania announced Monday they're appealing a court ruling in the case against Bill Cosby to the US Supreme Court, arguing that a statement from a previous district attorney that they would not file charges against Cosby does not mean that charges would never be filed. 
  <p class="updated_time"> 07:08 PM CT, Nov. 29 </p> 
@@ -278,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 02:36 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
  <p class="updated_time"> 01:52 PM CT, Nov. 29 </p> 
