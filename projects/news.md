@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:10 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:27 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 04:10 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Set to Discuss Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
@@ -38,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 10:11 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/59470666?at_medium=RSS&at_campaign=KARANGA">Westpac: Australia bank pays out over charging dead people</a> BBC: Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers. 
+ <a href="https://www.bbc.co.uk/news/59470666?at_medium=RSS&at_campaign=KARANGA">Westpac: Australian bank pays out over charging dead people</a> BBC: Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers. 
  <p class="updated_time"> 09:54 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Trump effort to stymie Jan. 6 committee faces appeals court reckoning</a> Politico: The former president’s lawsuit to shield his White House records faces a crucial review Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
@@ -294,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/breyer-massachusetts-hospital-vaccine-mandate/index.html">Justice Breyer rejects request to block Massachusetts hospital's vaccine mandate</a> CNN: Justice Stephen Breyer rejected a request on Monday that the Supreme Court block the vaccine mandate being implemented by the large Massachusetts hospital system, Mass General Brigham. 
  <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and in five terms she fought for programs to create jobs. 
- <p class="updated_time"> 01:12 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/biden-omicron-523449">Biden: Omicron 'a cause for concern, not a cause for panic'</a> Politico: The president plans to take action against omicron "not with shutdowns or lockdowns, but with more widespread vaccinations, boosters, testing and more." 
  <p class="updated_time"> 01:09 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/jeffrey-clark-criminal-contempt-of-congress-referral/index.html">Former DOJ official could be second person to face contempt charges for defying January 6 committee</a> CNN: The House Select Committee investigating the January 6 insurrection is poised to vote on a criminal contempt of Congress referral for former top Department of Justice official, Jeffrey Clark, the panel announced Monday. 
  <p class="updated_time"> 01:07 PM CT, Nov. 29 </p> 
@@ -336,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
+ <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
+ <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
@@ -406,10 +410,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/23/congress-braces-for-a-december-to-dread-495204">Congress braces for a December to dread</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/23/trumps-2024-map-495201">POLITICO Playbook: Trump’s 2024 map</a> Politico: And Republicans look for a backup plan in the Pennsylvania Senate race. 
- <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/dems-joe-biden-infrastructure-midterms-523194">The Democratic brand is broken. The infrastructure bill isn’t fixing it.</a> Politico: In one recent focus group, even those who voted for Joe Biden in 2020 weren’t exactly sure what the party stands for. 
- <p class="updated_time"> 04:30 AM CT, Nov. 23 </p> 
- <a href="https://www.politico.com/news/2021/11/23/bannon-indictment-jan6-committee-subpoena-talks-523209">Bannon indictment does little to jumpstart Jan. 6 committee's subpoena talks with top targets</a> Politico: The panel investigating the Capitol riot is still pushing for cooperation from Mark Meadows, Dan Scavino and Kash Patel. 
 
 
 </details>
