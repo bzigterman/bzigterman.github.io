@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:59 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 02:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
- <p class="updated_time"> 02:34 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 02:19 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
+ <p class="updated_time"> 09:39 PM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-allies-weigh-response-to-russian-military-buildup-around-ukraine-11638261598">U.S., Allies Weigh Response to Russian Military Buildup</a> WSJ: NATO foreign ministers are meeting in Latvia to calibrate a response to Russia’s military buildup around Ukraine, seeking to deter the Kremlin from any potential assault while making clear the limits of its support. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59471153?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Michael Jackson imitator clashes with judge in court</a> BBC: Investigators say the man wore a "Bad" world tour jacket to the riot and brought a homemade shield. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
@@ -79,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
+ <p class="updated_time"> 02:14 PM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/venezuela-governors-election-ruling-sparks-outcry-11638234842">Venezuela Governor's Election Ruling Sparks Outcry</a> WSJ: With the vote count incomplete, the Supreme Court barred the opposition candidate from holding office in Barinas, leading to accusations that the election was being stolen. 
  <p class="updated_time"> 01:43 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59468148?at_medium=RSS&at_campaign=KARANGA">The Simpsons: Tiananmen episode not found in Hong Kong</a> BBC: The episode includes jokes about China's censorship of the Tiananmen Square massacre. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
- <p class="updated_time"> 01:03 PM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/in-honduras-election-leftist-candidate-holds-a-big-lead-11638193226">In Honduras Presidential Race, Leftist Candidate Has Big Lead</a> WSJ: Xiomara Castro de Zelaya, the wife of a former leftist president deposed by the military 12 years ago, appeared headed for a comfortable victory in the presidential vote. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 12:48 PM CT, Nov. 29 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
  <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
- <p class="updated_time"> 11:15 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/pentagon-to-investigate-2019-syria-airstrike-that-killed-women-and-children-11638224156">Pentagon to Probe 2019 Syria Airstrike That Killed Women and Children</a> WSJ: The inquiry will look at the number of civilians killed and whether the U.S. complied with the laws of war in launching the attack, which the military didn’t publicly acknowledge until this year. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
