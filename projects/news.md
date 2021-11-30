@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:05 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: China Pledges 1 Billion Vaccine Doses for Africa</a> NYT: The announcement comes as southern Africa grapples with the emergence of the Omicron variant, whose severity remains unclear. F.D.A. advisers will vote on whether to recommend authorizing an antiviral pill for high-risk Covid patients. 
- <p class="updated_time"> 08:05 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 08:21 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: China Pledges 1 Billion Vaccine Doses for Africa</a> NYT: The announcement comes as southern Africa grapples with the emergence of the Omicron variant, whose severity remains unclear. F.D.A. advisers are meeting on whether to recommend authorizing an antiviral pill for high-risk Covid patients — watch that meeting below. 
+ <p class="updated_time"> 08:07 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid case: Escaped couple fight quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands say their conditions are worse than in a prison. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
  <p class="updated_time"> 07:58 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
- <p class="updated_time"> 08:52 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/business/nuclear-power-europe-climate.html">Europe Looks to Nuclear Power to Meet Climate Goals</a> NYT: While wind and solar ramp up, several countries, including France and Britain, are looking to expand their nuclear energy programs. Germany and others aren’t so enthusiastic. 
  <p class="updated_time"> 08:36 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
@@ -145,6 +145,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
+ <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1058048696/saudi-arabia-formula-1-china-olympics-human-rights-sports">Saudi Arabia and China are accused of using sports to cover up human rights abuse</a> NPR: Saudi Arabia has invested hundreds of millions of dollars to stage high-profile sporting events. Critics say those investments are an attempt by the kingdom to cover up human rights violations. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
@@ -194,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:16 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/trump-intelligence-briefings/index.html">US intelligence community 'struggled' to brief Trump, CIA study says</a> CNN: The US intelligence community "struggled" to brief President-elect Donald Trump in 2016, achieving "only limited success" in educating and developing a relationship with the incoming president, according to a newly released unclassified history of the transition period published by the CIA's in-house academic center. 
  <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
@@ -315,7 +319,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059781079/matthew-mcconaughey-texas-governor-2022-video">Matthew McConaughey says he won't run for Texas governor in 2022</a> NPR: After months of dropping hints and dodging specifics, Matthew McConaughey has finally announced his much-speculated-about plans for the Texas governor race: He won't be running in it. 
  <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — to fund the government and avoid a default on the nation's credit limit, plus a $2 trillion spending bill. 
+ <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to try to avoid a partial government shutdown. Here's its to-do list</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — to fund the government and avoid a default on the nation's credit limit, plus a $2 trillion spending bill. 
  <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1056129045/as-the-supreme-court-considers-roe-v-wade-a-look-at-how-abortion-became-legal">As the Supreme Court considers Roe v. Wade, a look at how abortion became legal</a> NPR: Abortion did not become illegal in most states until the mid to late 1800s. But by the 1960s, abortion, like childbirth, had become a safe procedure when performed by a doctor. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
- <p class="updated_time"> 10:09 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
