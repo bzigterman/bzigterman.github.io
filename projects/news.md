@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
+ <p class="updated_time"> 05:28 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
+ <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: A judge blocked a vaccine mandate for U.S. health workers. The new Omicron variant was already in Europe a week before the W.H.O. called it a variant of concern. 
  <p class="updated_time"> 05:15 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
- <p class="updated_time"> 04:57 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060177252/united-nations-global-tourism-2021-covid-pandemic">The U.N. predicts that 2021 global tourism losses will barely improve over last year</a> NPR: The recent emergence of the highly transmissible omicron variant presents another potential hurdle as the tourism industry prepares for the upcoming winter holiday season. 
  <p class="updated_time"> 04:39 PM CT, Nov. 30 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185957/china-critics-hope-the-wta-will-inspire-outcry-about-alleged-human-rights-violat">China critics hope the WTA will inspire outcry about alleged human rights violations</a> NPR: Chinese tennis star Peng Shuai made an assault allegation, then disappeared. She's re-emerged, but the Women's Tennis Association's unflinching support may inspire a wider outcry over China's actions. 
  <p class="updated_time"> 03:46 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059501906/islamic-state-member-convicted-death-yazidi-girl-genocide">A former member of the Islamic State is convicted in the death of a Yazidi girl</a> NPR: A German court on Tuesday convicted the man of genocide and committing a war crime over the death of a 5-year-old Yazidi girl he had purchased as a slave and then chained up in the hot sun to die. 
- <p class="updated_time"> 03:39 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds six</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
  <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185915/the-omicron-variant-might-have-originated-in-someone-with-a-suppressed-immune-sy">The omicron variant might have originated in someone with a suppressed immune system</a> NPR: How did the coronavirus end up mutating into the omicron variant? One hypothesis is that it spent months replicating in the body of someone whose immune system was suppressed by uncontrolled HIV. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
- <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59456541?at_medium=RSS&at_campaign=KARANGA">Leaked papers link top Chinese leaders to Uyghur crackdown</a> BBC: They show speeches by Xi Jinping and others which led to Uyghurs' mass internment and forced labour. 
  <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
