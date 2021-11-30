@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 12:43 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid: Couple win freedom from Omicron quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands are told they can now go home. 
  <p class="updated_time"> 12:27 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
- <p class="updated_time"> 12:21 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 12:20 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid: Couple win freedom from Omicron quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands are told they can now go home. 
  <p class="updated_time"> 12:14 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-virus-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
@@ -75,10 +75,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 08:26 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
+ <p class="updated_time"> 07:39 AM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-variant-omicron-threatens-u-s-global-economies-11638268200">Covid-19 Variant Omicron Threatens U.S., Global Economies</a> WSJ: Growth could suffer a modest blow from Omicron, though the scale of the damage will hinge on the potency of the strain itself, economists say. 
  <p class="updated_time"> 07:18 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: The American-born entertainer and civil-rights activist was awarded one of France’s rarest honors. 
- <p class="updated_time"> 07:16 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/covid-19-variant-omicron-threatens-u-s-global-economies-11638268200">Covid-19 Variant Omicron Threatens U.S., Global Economies</a> WSJ: Growth could suffer a modest blow from Omicron, though the scale of the damage will hinge on the potency of the strain itself, economists say. 
  <p class="updated_time"> 07:01 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
  <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
@@ -198,12 +198,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:09 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/powell-fed-economic-support-523521">Powell: Fed may pull back economic support more quickly as prices spike</a> Politico: Powell's comment came after the Fed already announced earlier this month that it would slow the pace at which it buys U.S. government debt and mortgage-backed securities. 
+ <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/us-removes-colombias-farc-rebel-group-from-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
+ <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
+ <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Mark Meadows Cooperating With Jan. 6 Attack Inquiry</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
+ <p class="updated_time"> 12:34 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows cooperating with January 6 investigators</a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060029279/senate-effort-to-reform-military-justice-system-now-under-threat-faces-final-hur">Senate effort to reform military justice system, now under threat, faces final hurdle</a> NPR: As Congress works to pass the annual defense policy bill, lawmakers work to ensure efforts to reform the military justice system remain. 
- <p class="updated_time"> 12:26 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
- <p class="updated_time"> 12:20 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows reaches deal for initial cooperation with January 6 investigators </a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
+ <p class="updated_time"> 12:24 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/farc-delisting/index.html">US removes Colombia's FARC from terrorism blacklist</a> CNN: The US State Department has removed the Revolutionary Armed Forces of Colombia, known by the acronym the FARC, from its terrorism blacklist, and listed two dissident groups led by former FARC militants. 
  <p class="updated_time"> 11:55 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060091466/ex-trump-chief-of-staff-mark-meadows-to-appear-before-jan-6-panel">Ex-Trump chief of staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Capitol attack had threatened Meadows with a criminal contempt referral because he had previously refused to cooperate. 
  <p class="updated_time"> 11:51 AM CT, Nov. 30 </p> 
@@ -264,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/twitter-dorsey-agrawal-ceo-523492">Twitter’s CEO is leaving. The storms that consumed his company won’t end.</a> Politico: Conservative activists and lawmakers immediately began heaping attacks on Jack Dorsey's chosen successor, Parag Agrawal. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
- <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/january-6-jesus-christ-superstar-sovereign-citizen/index.html">'Jesus Christ Superstar' actor, an accused Capitol rioter, claimed 'divine' authority in court hearing</a> CNN: A court hearing for a January 6 defendant quickly turned contentious Monday after an actor and Oath Keeper tried to reject the United States' authority over him. 
  <p class="updated_time"> 07:21 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/bill-cosby-prosecutors-supreme-court-review-conviction/index.html">Prosecutors ask US Supreme Court to review Bill Cosby's overturned sexual assault conviction</a> CNN: Prosecutors in Pennsylvania announced Monday they're appealing a court ruling in the case against Bill Cosby to the US Supreme Court, arguing that a statement from a previous district attorney that they would not file charges against Cosby does not mean that charges would never be filed. 
  <p class="updated_time"> 07:06 PM CT, Nov. 29 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/china-schumers-innovation-and-competition-act-523414">China blowback looms for Schumer’s Innovation and Competition Act</a> Politico: Beijing warns that U.S. tech and competitiveness legislation will “gravely damage America's own interests.” 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
- <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html">Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure</a> NYT: The nation’s most ambitious engineering projects are mired in postponements and skyrocketing costs. Delivering $1.2 trillion in new infrastructure will be tough. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
- <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
