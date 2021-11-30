@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Macron hails the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
+ <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185915/the-omicron-variant-might-have-originated-in-someone-with-a-suppressed-immune-sy">The omicron variant might have originated in someone with a suppressed immune system</a> NPR: How did the coronavirus end up mutating into the omicron variant? One hypothesis is that it spent months replicating in the body of someone whose immune system was suppressed by uncontrolled HIV. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. Expands Search for Omicron</a> NYT: The variant was already in Europe a week ago, a week before the W.H.O. labeled it a variant of concern. Scientists are still unsure where or when Omicron originated. 
  <p class="updated_time"> 03:23 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
- <p class="updated_time"> 03:23 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Macron hails the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 03:02 PM CT, Nov. 30 </p> 
@@ -28,7 +30,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 02:48 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel over Omicron</a> BBC: It urges people who are unwell and the over-60s to delay travel because of the Omicron variant. 
+ <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel over Omicron</a> BBC: It urges those who are unwell and the over-60s to delay international travel because of the Omicron variant. 
  <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
  <p class="updated_time"> 02:31 PM CT, Nov. 30 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
- <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059861708/secret-prisons-in-libya-keep-migrants-out-of-europe">Secret prisons in Libya keep migrants out of Europe</a> NPR: NPR's Mary Louise Kelly talks with investigative reporter Ian Urbina about his piece The New Yorker. He headed into Libya to better understand its role in migrants' movement toward Europe. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
@@ -202,8 +202,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">U.S. Covid travel restrictions in a stasis — for now</a> Politico: There have been indications that the variant may have originated in Europe, raising questions about whether the U.S. might again shut down flights from Europe. 
- <p class="updated_time"> 03:30 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
+ <p class="updated_time"> 03:38 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
+ <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 12:54 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
- <p class="updated_time"> 12:54 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
  <p class="updated_time"> 12:42 PM CT, Nov. 30 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
  <p class="updated_time"> 11:23 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions">The omicron variant is cause for concern — but not panic, Biden says</a> NPR: President Biden said that while restrictions imposed on travelers from several nations in southern Africa would slow the variant's entry, the U.S. will eventually see cases. 
- <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059781079/matthew-mcconaughey-texas-governor-2022-video">Matthew McConaughey says he won't run for Texas governor in 2022</a> NPR: After months of dropping hints and dodging specifics, Matthew McConaughey has finally announced his much-speculated-about plans for the Texas governor race: He won't be running in it. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
  <p class="updated_time"> 08:43 AM CT, Nov. 29 </p> 
