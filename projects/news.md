@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:34 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 09:47 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/30/1059780197/african-leaders-condemn-travel-restrictions-as-omicron-variant-spreads-globally">African leaders condemn travel restrictions as omicron variant spreads globally</a> NPR: African nations are bristling at the restrictions imposed on them by rich countries — and say they are harmful to local economies and discriminate against countries in the region. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 09:42 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 09:34 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
  <p class="updated_time"> 09:32 AM CT, Nov. 30 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-allies-weigh-response-to-russian-military-buildup-around-ukraine-11638261598">U.S., Allies Weigh Response to Russian Military Buildup</a> WSJ: NATO foreign ministers are meeting in Latvia to calibrate a response to Russia’s military buildup around Ukraine, seeking to deter the Kremlin from any potential assault while making clear the limits of its support. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/30/1059859253/why-omicron-variant-spreads-so-quickly-infectious-mutations">Why some researchers think the omicron variant could be the most infectious one yet</a> NPR: Preliminary data about omicron suggests the variant became widespread across southern Africa in a very short period of time. Scientists say its many mutations may play a role in its transmissibility. 
- <p class="updated_time"> 03:44 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
@@ -187,10 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
  <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
- <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html">A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</a> NYT: Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes. 
- <p class="updated_time"> 12:25 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
 
