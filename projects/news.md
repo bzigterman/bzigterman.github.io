@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:30 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 10:59 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 10:59 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
+ <p class="updated_time"> 10:51 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060025081/omicron-variant-netherlands-europe-south-africa">The omicron variant was in Europe a week before South Africa reported it</a> NPR: The rapidly spreading variant was identified in retests of samples that were taken on Nov. 19 and 23 in the Netherlands, according to a Dutch health agency. 
  <p class="updated_time"> 10:30 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
- <p class="updated_time"> 10:19 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
  <p class="updated_time"> 09:56 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 09:47 AM CT, Nov. 30 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
- <p class="updated_time"> 08:28 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
  <p class="updated_time"> 08:26 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 08:07 AM CT, Nov. 30 </p> 
@@ -65,12 +69,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59473981?at_medium=RSS&at_campaign=KARANGA">House of Gucci: Family hits out at 'insulting and painful' portrayal</a> BBC: The heirs of Italian fashion house Gucci criticise depiction of the family in House of Gucci film. 
  <p class="updated_time"> 05:39 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474965?at_medium=RSS&at_campaign=KARANGA">Dozens of former Afghan forces killed or disappeared by Taliban, rights group says</a> BBC: Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared. 
+ <p class="updated_time"> 05:36 AM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: Josephine Baker, the American-born entertainer and civil-rights activist, will become the first Black woman to receive one of France’s rarest honors. 
  <p class="updated_time"> 05:22 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
  <p class="updated_time"> 05:20 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-launches-presidential-bid-to-challenge-macron-11638289224">French Nationalist TV Host Launches Presidential Bid to Challenge Macron</a> WSJ: Éric Zemmour plans to run in next year’s election with a tough line on immigration, Islam and the European Union. 
- <p class="updated_time"> 05:20 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/omicron-crept-into-australia-after-strict-border-rules-were-eased-11638263658">Omicron Variant Cases Rise in Europe, Asia</a> WSJ: Health authorities around Europe and the Pacific Rim said dozens of cases of the Omicron variant of the coronavirus were identified in their countries and most carriers had entered before it was identified last week. 
  <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474807?at_medium=RSS&at_campaign=KARANGA">France issues arrest warrant over Japan 'parental kidnap'</a> BBC: Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018. 
  <p class="updated_time"> 04:43 AM CT, Nov. 30 </p> 
@@ -78,13 +82,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:40 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59472676?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: India celebrates new Twitter CEO</a> BBC: Parag Agrawal's appointment has made headlines in India where Twitter has over 30 million users. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
+ <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/30/1059859253/why-omicron-variant-spreads-so-quickly-infectious-mutations">Why some researchers think the omicron variant could be the most infectious one yet</a> NPR: Preliminary data about omicron suggests the variant became widespread across southern Africa in a very short period of time. Scientists say its many mutations may play a role in its transmissibility. 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
- <p class="updated_time"> 02:29 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-commander-calls-for-more-aircraft-carriers-in-pacific-to-deter-china-11638278989">U.S. Commander Calls for More Aircraft Carriers in Pacific</a> WSJ: The U.S. Seventh Fleet’s commander called for an expanded presence by U.S. and allied aircraft carriers in the Pacific to persuade China and Russia that ‘today is not the day’ to start a conflict. 
- <p class="updated_time"> 02:11 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/sexual-harassment-bullying-are-widespread-in-australias-parliament-report-says-11638277869">Sexual Harassment, Bullying Widespread in Australia Parliament, Report Says</a> WSJ: A report commissioned by the government found that 51% of people working in Australia’s parliament have experienced bullying, sexual harassment or actual or attempted sexual assault. 
  <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59456541?at_medium=RSS&at_campaign=KARANGA">Leaked papers link top Chinese leaders to Uyghur crackdown</a> BBC: They show speeches by Xi Jinping and others which led to Uyghurs' mass internment and forced labour. 
  <p class="updated_time"> 02:00 AM CT, Nov. 30 </p> 
@@ -185,12 +187,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59455685?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish, a missing family</a> BBC: Rizgar Hussein hasn't heard from his family since the Channel disaster on Wednesday. 
  <p class="updated_time"> 05:26 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html">When Will We Know Results in the Presidential Election in Honduras?</a> NYT: Polls began wrapping up around 5 p.m. with few reports of problems so far. 
- <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
  <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
- <p class="updated_time"> 03:50 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
 
 
 </details>
@@ -198,8 +196,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:27 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell signals the Fed’s bond-buying program could end sooner as inflation persists.</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
+ <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
+ <p class="updated_time"> 10:53 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows reaches deal for initial cooperation with January 6 investigators </a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
+ <p class="updated_time"> 10:49 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
  <p class="updated_time"> 10:03 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 08:49 AM CT, Nov. 30 </p> 
@@ -207,7 +209,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 08:30 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden heads to Minnesota to sell infrastructure law</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
+ <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden to sell infrastructure law in Minnesota</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
  <p class="updated_time"> 08:16 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
@@ -217,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-omicron-variant-uncertainty/index.html">Biden faces a familiar foe -- uncertainty</a> CNN: President Joe Biden had hoped to return from the Thanksgiving holiday bearing good news about his moves to get the economy back on track, his administration's effort to fix the supply chain crisis and hopes for a holiday season where Americans could gather safely with families and friends. 
+ <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-omicron-variant-uncertainty/index.html">Analysis: Biden faces a familiar foe -- uncertainty</a> CNN: President Joe Biden had hoped to return from the Thanksgiving holiday bearing good news about his moves to get the economy back on track, his administration's effort to fix the supply chain crisis and hopes for a holiday season where Americans could gather safely with families and friends. 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
@@ -225,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Trump effort to stymie Jan. 6 committee faces appeals court reckoning</a> Politico: The former president’s lawsuit to shield his White House records faces a crucial review Tuesday. 
+ <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump's effort withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records is under scrutiny in court on Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:05 AM CT, Nov. 30 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 06:37 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/china-schumers-innovation-and-competition-act-523414">China blowback looms for Schumer’s Innovation and Competition Act</a> Politico: Beijing warns that U.S. tech and competitiveness legislation will “gravely damage America's own interests.” 
- <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1059657056/carrie-meek-black-former-congresswoman-dies">Carrie Meek, pioneering Black former congresswoman, has died</a> NPR: Meek, the grandchild of a slave and a sharecropper's daughter who became one of the first Black Floridians elected to Congress since Reconstruction, died Sunday. She was 95. 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
- <p class="updated_time"> 06:16 PM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/border-biden-remain-in-mexico/index.html">Biden administration expected to restart 'Remain in Mexico' policy next week</a> CNN: The Biden administration is expected to restart the Trump-era "Remain in Mexico" border policy next week, according to a senior administration official. 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
