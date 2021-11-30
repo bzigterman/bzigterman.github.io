@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:34 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
+ <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. Expands Search for Omicron</a> NYT: The variant was already in Europe a week ago, a week before the W.H.O. labeled it a variant of concern. Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
  <p class="updated_time"> 02:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Covid Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
- <p class="updated_time"> 11:32 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 11:29 AM CT, Nov. 30 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
- <p class="updated_time"> 01:27 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html">Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</a> NYT: Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant. 
  <p class="updated_time"> 01:20 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59441379?at_medium=RSS&at_campaign=KARANGA">China surveillance of journalists to use 'traffic-light' system</a> BBC: Documents detail how one province is making a facial-recognition system to spot "people of concern". 
- <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
@@ -202,8 +200,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
- <p class="updated_time"> 02:30 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Federal health officials say that they are expanding the search for Omicron in the U.S.</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
+ <p class="updated_time"> 02:42 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports a plan to make banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
- <p class="updated_time"> 01:38 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports a plan to make banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/el-chapo-wife-sentenced.html">El Chapo’s Wife Sentenced to 3 Years in Prison</a> NYT: Emma Coronel Aispuro pleaded guilty in June to helping her husband, Joaquin Guzmán Loera, smuggle drugs into the United States and escape from prison. 
  <p class="updated_time"> 01:09 PM CT, Nov. 30 </p> 
@@ -273,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump's effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
+ <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump’s effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:05 AM CT, Nov. 30 </p> 
