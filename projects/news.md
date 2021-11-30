@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/myanmar-coup-verdict-aung-san-suu-kyi/myanmar-aung-san-suu-kyi-trial-verdict">Myanmar Delays 1st Verdict in Aung San Suu Kyi Trial</a> NYT: The ousted civilian leader is facing a series of rulings that could keep her locked up for the rest of her life. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
+ <p class="updated_time"> 08:51 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
+ <p class="updated_time"> 08:50 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Covid Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
+ <p class="updated_time"> 08:48 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
  <p class="updated_time"> 08:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 08:44 AM CT, Nov. 30 </p> 
@@ -15,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
- <p class="updated_time"> 08:42 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
  <p class="updated_time"> 08:36 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
  <p class="updated_time"> 08:29 AM CT, Nov. 30 </p> 
@@ -29,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid case: Escaped couple fight quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands say their conditions are worse than in a prison. 
  <p class="updated_time"> 07:58 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
- <p class="updated_time"> 07:49 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
  <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed by a German court for crimes including the murder of a young Yazidi girl. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
@@ -77,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59471153?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Michael Jackson imitator clashes with judge in court</a> BBC: Investigators say the man wore a "Bad" world tour jacket to the riot and brought a homemade shield. 
- <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059787296/dozens-of-strangers-were-snowed-in-at-a-u-k-pub-cue-the-oasis-singalongs">Dozens of strangers were snowed in at a U.K. pub. Cue the Oasis singalongs</a> NPR: The stranded residents and musicians slept on the floor and on mattresses provided by the pub, and passed the time by singing karaoke, playing quiz games and eating Yorkshire puddings. 
  <p class="updated_time"> 11:24 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
- <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59441379?at_medium=RSS&at_campaign=KARANGA">China surveillance of journalists to use 'traffic-light' system</a> BBC: Documents detail how one province is making a facial-recognition system to spot "people of concern". 
  <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
  <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: Family wanted to 'make me better'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
- <p class="updated_time"> 05:55 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Covid Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 05:53 PM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59455685?at_medium=RSS&at_campaign=KARANGA">Channel disaster: A father's anguish, a missing family</a> BBC: Rizgar Hussein hasn't heard from his family since the Channel disaster on Wednesday. 
  <p class="updated_time"> 05:26 PM CT, Nov. 28 </p> 
@@ -200,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:49 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
+ <p class="updated_time"> 08:48 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Trump takes attempt to block release of his January 6 documents to court Tuesday</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 08:30 AM CT, Nov. 30 </p> 
@@ -212,14 +216,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:35 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Trump takes attempt to block release of his January 6 documents to court Tuesday</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 06:23 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-omicron-variant-uncertainty/index.html">Biden faces a familiar foe -- uncertainty</a> CNN: President Joe Biden had hoped to return from the Thanksgiving holiday bearing good news about his moves to get the economy back on track, his administration's effort to fix the supply chain crisis and hopes for a holiday season where Americans could gather safely with families and friends. 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy': The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
+ <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
