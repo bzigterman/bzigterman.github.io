@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:37 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
+ <p class="updated_time"> 02:34 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 02:19 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 02:00 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
- <p class="updated_time"> 01:15 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 01:02 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron lockdown not needed for now, Biden says</a> BBC: The president urges Americans not to panic about the new Coronavirus variant, saying a lockdown is avoidable. 
  <p class="updated_time"> 12:36 AM CT, Nov. 30 </p> 
@@ -43,12 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor hatched 'secret plan' for hate hoax</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
- <p class="updated_time"> 06:59 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 06:23 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
  <p class="updated_time"> 06:10 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59464760?at_medium=RSS&at_campaign=KARANGA">Yemen: The children haunted by 'ghosts' of war</a> BBC: BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59464760?at_medium=RSS&at_campaign=KARANGA">Yemen: The children haunted by 'ghosts' of war</a> BBC: BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen. 
  <p class="updated_time"> 06:05 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59468682?at_medium=RSS&at_campaign=KARANGA">Why France is declaring Josephine Baker a national hero</a> BBC: Josephine Baker is the first black woman to be remembered in the resting place of France’s national heroes. 
  <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
