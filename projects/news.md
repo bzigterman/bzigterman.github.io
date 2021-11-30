@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:35 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed by a German court for crimes including the murder of a young Yazidi girl. 
+ <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
+ <p class="updated_time"> 06:38 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59477186?at_medium=RSS&at_campaign=KARANGA">Man rescued after 22 hours adrift off Japan coast</a> BBC: Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters. 
  <p class="updated_time"> 06:27 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Set to Discuss Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
  <p class="updated_time"> 06:26 AM CT, Nov. 30 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 06:05 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
- <p class="updated_time"> 05:54 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed by a German court for crimes including the murder of a young Yazidi girl. 
  <p class="updated_time"> 05:44 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59473981?at_medium=RSS&at_campaign=KARANGA">House of Gucci: Family hits out at insulting and painful portrayal</a> BBC: The heirs of Italian fashion house Gucci criticise depiction of the family in House of Gucci film. 
  <p class="updated_time"> 05:40 AM CT, Nov. 30 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059623783/fauci-says-the-omicron-variant-will-inevitably-appear-in-the-u-s">Fauci says the omicron variant will inevitably appear in the U.S.</a> NPR: The omicron variant has not been detected in the U.S., but Dr. Anthony Fauci says it is certain to be at some point. Fauci and Dr. Francis Collins appealed for people to get vaccinated as a defense. 
  <p class="updated_time"> 12:22 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
- <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
 
 
 </details>
@@ -184,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:35 AM CT, Nov. 30 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
- <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/vaccine-global-world-trade-organization-omicron-523405">Vaccine squabble tests global trade ties as WTO meeting postponed</a> Politico: The new leader of the World Trade Organization is trying to find a compromise on vaccine patents to help global efforts to combat coronavirus. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
