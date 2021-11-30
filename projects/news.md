@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 11:59 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1059776777/josephine-baker-france-pantheon">Josephine Baker is the first Black woman to be inducted into France's Pantheon</a> NPR: The trailblazing U.S.-born star and civil rights activist was given France's highest honor on Tuesday when she was inducted into the Pantheon. She first achieved fame in Paris in the 1920s. 
  <p class="updated_time"> 11:36 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html">Omicron Variant Surfaces Amid an Airline Travel Rebound</a> NYT: With several countries imposing new restrictions, the question now is whether travelers will be deterred. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
@@ -19,14 +23,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 11:32 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
+ <p class="updated_time"> 11:32 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 11:29 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:19 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59474808?at_medium=RSS&at_campaign=KARANGA">Covid: Greece to fine over-60s who refuse Covid-19 vaccine</a> BBC: Fines of €100 (£85) will be imposed from mid-January, with the money going towards healthcare. 
- <p class="updated_time"> 11:11 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 11:17 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59482050?at_medium=RSS&at_campaign=KARANGA">Lesotho ex-PM Thomas Thabane charged with murdering wife</a> BBC: Thomas Thabane denies organising the killing of his estranged wife. 
  <p class="updated_time"> 11:08 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa, has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
@@ -63,12 +69,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Dutch Police Arrest a Couple Who Fled Quarantine and Boarded a Plane.</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
- <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
  <p class="updated_time"> 08:26 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 08:07 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid case: Escaped couple fight quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands say their conditions are worse than in a prison. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
  <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed by a German court for crimes including the murder of a young Yazidi girl. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
@@ -79,20 +85,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 06:25 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
+ <p class="updated_time"> 06:09 AM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/irans-nuclear-enrichment-could-imperil-nuclear-talks-diplomats-say-11638292190">Iran's Nuclear Enrichment Could Imperil Talks, Diplomats Say</a> WSJ: Senior European diplomats warned that if Iran were to produce weapons-grade enriched uranium, negotiations to revive nuclear talks would be seriously imperiled. 
  <p class="updated_time"> 05:39 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474965?at_medium=RSS&at_campaign=KARANGA">Dozens of former Afghan forces killed or disappeared by Taliban, rights group says</a> BBC: Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared. 
  <p class="updated_time"> 05:36 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: Josephine Baker, the American-born entertainer and civil-rights activist, will become the first Black woman to receive one of France’s rarest honors. 
- <p class="updated_time"> 05:22 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
- <p class="updated_time"> 05:20 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-launches-presidential-bid-to-challenge-macron-11638289224">French Nationalist TV Host Launches Presidential Bid to Challenge Macron</a> WSJ: Éric Zemmour plans to run in next year’s election with a tough line on immigration, Islam and the European Union. 
  <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474807?at_medium=RSS&at_campaign=KARANGA">France issues arrest warrant over Japan 'parental kidnap'</a> BBC: Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018. 
  <p class="updated_time"> 04:43 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709">Leaked Documents Detail Xi Jinping's Extensive Role in Xinjiang Crackdown</a> WSJ: Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups. 
- <p class="updated_time"> 04:40 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59472676?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: India celebrates new Twitter CEO</a> BBC: Parag Agrawal's appointment has made headlines in India where Twitter has over 30 million users. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-variant-omicron-threatens-u-s-global-economies-11638268200">Covid-19 Variant Omicron Threatens U.S., Global Economies</a> WSJ: Growth could suffer a modest blow from Omicron, though the scale of the damage will hinge on the potency of the strain itself, economists say. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
- <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59471153?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Michael Jackson imitator clashes with judge in court</a> BBC: Investigators say the man wore a "Bad" world tour jacket to the riot and brought a homemade shield. 
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
@@ -167,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
- <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1058048696/saudi-arabia-formula-1-china-olympics-human-rights-sports">Saudi Arabia and China are accused of using sports to cover up human rights abuse</a> NPR: Saudi Arabia has invested hundreds of millions of dollars to stage high-profile sporting events. Critics say those investments are an attempt by the kingdom to cover up human rights violations. 
  <p class="updated_time"> 11:48 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
@@ -198,10 +196,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060091466/ex-trump-chief-of-staff-mark-meadows-to-appear-before-jan-6-panel">Ex-Trump chief of staff Mark Meadows to appear before Jan. 6 panel</a> NPR: The House committee investigating the Capitol attack had threatened Meadows with a criminal contempt referral since he had previously refused to cooperate. 
  <p class="updated_time"> 11:51 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
+ <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/biden-veterans-laws/index.html">Biden signs slate of bills aimed at supporting veterans</a> CNN: President Joe Biden on Tuesday signed into law four bills aimed at supporting the nation's veterans, including legislation intended to combat racial disparities related to benefits as well as addressing maternal mortality among female veterans. 
  <p class="updated_time"> 11:38 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
@@ -209,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:28 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
  <p class="updated_time"> 11:21 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
+ <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
  <p class="updated_time"> 11:07 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows reaches deal for initial cooperation with January 6 investigators </a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
@@ -278,6 +280,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request, insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 05:49 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said. 
+ <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">Republicans stall defense bill over amendment dispute</a> Politico: Democrats needed to muster 60 votes to advance the bill, but Republicans are digging in over Nord Stream 2 sanctions. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
  <p class="updated_time"> 05:16 PM CT, Nov. 29 </p> 
@@ -310,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
  <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and in five terms she fought for programs to create jobs. 
- <p class="updated_time"> 01:09 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/jeffrey-clark-criminal-contempt-of-congress-referral/index.html">Former DOJ official could be second person to face contempt charges for defying January 6 committee</a> CNN: The House Select Committee investigating the January 6 insurrection is poised to vote on a criminal contempt of Congress referral for former top Department of Justice official, Jeffrey Clark, the panel announced Monday. 
  <p class="updated_time"> 01:07 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/white-house-holiday-decorations/index.html">First lady Jill Biden unveils her first White House holiday decorations</a> CNN: The White House unveiled its holiday decorations on Monday, going along with the theme selected this year by first lady Jill Biden, who titled her inspiration "Gifts from the Heart." 
  <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
@@ -346,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
- <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
@@ -378,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/fda-covid-pill-pregnant-523385">FDA seeks advice on whether to limit Covid-19 pill in pregnant people</a> Politico: Regulators are considering whether to authorize the pill's emergency use in adults who have been experiencing symptoms for less than five days and, if so, how to define who's considered high risk. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
  <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
