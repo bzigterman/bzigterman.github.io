@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:01 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 02:30 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. Expands Search for Omicron</a> NYT: The variant was already in Europe a week ago, a week before the W.H.O. labeled it a variant of concern. Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 01:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 01:56 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
- <p class="updated_time"> 01:50 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
  <p class="updated_time"> 12:43 PM CT, Nov. 30 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 06:38 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59477186?at_medium=RSS&at_campaign=KARANGA">Man rescued after 22 hours adrift off Japan coast</a> BBC: Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters. 
- <p class="updated_time"> 06:25 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 05:39 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59474965?at_medium=RSS&at_campaign=KARANGA">Dozens of former Afghan forces killed or disappeared by Taliban, rights group says</a> BBC: Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared. 
  <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
@@ -198,24 +198,28 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
+ <p class="updated_time"> 02:30 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Federal health officials say that they are expanding the search for Omicron in the U.S.</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
+ <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
+ <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
+ <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">Congress fumbles for shutdown remedy ahead of Friday deadline</a> Politico: House leaders aim to pass a funding patch as early as Wednesday. But if that goal slips, the timeline will get dicey in the Senate. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
- <p class="updated_time"> 01:53 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
- <p class="updated_time"> 01:40 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 01:38 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen still supports a plan to make banks give the I.R.S. new customer data.</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/el-chapo-wife-sentenced.html">El Chapo’s Wife Sentenced to 3 Years in Prison</a> NYT: Emma Coronel Aispuro pleaded guilty in June to helping her husband, Joaquin Guzmán Loera, smuggle drugs into the United States and escape from prison. 
- <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Federal health officials say that they are expanding the search for Omicron in the U.S.</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
  <p class="updated_time"> 01:09 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/powell-fed-economic-support-523521">Powell: Fed may pull back economic support more quickly as prices spike</a> Politico: Powell's comment came after the Fed already announced earlier this month that it would slow the pace at which it buys U.S. government debt and mortgage-backed securities. 
  <p class="updated_time"> 01:03 PM CT, Nov. 30 </p> 
@@ -332,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and in five terms she fought for programs to create jobs. 
  <p class="updated_time"> 01:07 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/white-house-holiday-decorations/index.html">First lady Jill Biden unveils her first White House holiday decorations</a> CNN: The White House unveiled its holiday decorations on Monday, going along with the theme selected this year by first lady Jill Biden, who titled her inspiration "Gifts from the Heart." 
  <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
