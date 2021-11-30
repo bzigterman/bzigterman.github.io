@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:50 PM CT, Nov. 29 </p> 
+ <p class="updated_time"> 06:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</a> NYT: South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health workers in 10 states. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59464760?at_medium=RSS&at_campaign=KARANGA">Yemen: The children haunted by 'ghosts' of war</a> BBC: BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59468682?at_medium=RSS&at_campaign=KARANGA">Why France is declaring Josephine Baker a national hero</a> BBC: Josephine Baker is the first black woman to be remembered in the resting place of France’s national heroes. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 05:14 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
  <p class="updated_time"> 05:06 PM CT, Nov. 29 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Letter From Catherine the Great Shows Her Support for Inoculations</a> NYT: In a letter from 1787 to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
- <p class="updated_time"> 04:13 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 03:45 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59469489?at_medium=RSS&at_campaign=KARANGA">Mark Esper: Former Pentagon chief sues Pentagon over book release</a> BBC: Trump's fired defence secretary opposes the Defense Department's redactions to his new memoir. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
@@ -57,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059767108/former-defense-secretary-esper-sues-the-pentagon-over-book-redactions">Former Defense Secretary Esper sues the Pentagon over book redactions</a> NPR: The Trump-era Pentagon head says he wants to publish an "unvarnished" account of his turbulent time in the post. But the Biden administration wants him to delete parts of 60 pages of the text. 
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
+ <p class="updated_time"> 01:03 PM CT, Nov. 29 </p> 
+ <a href="https://www.wsj.com/articles/in-honduras-election-leftist-candidate-holds-a-big-lead-11638193226">In Honduras Presidential Race, Leftist Candidate Has Big Lead</a> WSJ: Xiomara Castro de Zelaya, the wife of a former leftist president deposed by the military 12 years ago, appeared headed for a comfortable victory in the presidential vote. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 12:48 PM CT, Nov. 29 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
  <p class="updated_time"> 04:27 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
- <p class="updated_time"> 04:26 AM CT, Nov. 29 </p> 
- <a href="https://www.wsj.com/articles/in-honduras-election-leftist-candidate-holds-a-big-lead-11638193226">Leftist Candidate Holds a Big Lead in Honduras Election</a> WSJ: Xiomara Castro de Zelaya, the wife of a former leftist president deposed by the military 12 years ago, appeared headed for a comfortable victory in the presidential vote. 
  <p class="updated_time"> 04:07 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html">Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</a> NYT: The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Much has changed for the Iran nuclear deal. These are 4 things to know as talks resume</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
- <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 09:00 PM CT, Nov. 27 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 07:06 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html">Germany Finds Suspected Omicron Variant Case</a> NYT: A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique. 
- <p class="updated_time"> 06:02 PM CT, Nov. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-59421912?at_medium=RSS&at_campaign=KARANGA">ICYMI: Smells like Christmas, confirms US First Lady</a> BBC: Jill Biden's clearly feeling festive but here’s some other tree-mendous moments you may have missed this week. 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
@@ -200,6 +200,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
+ <p class="updated_time"> 05:58 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/the-defense-department-says-oklahoma-national-guard-must-get-vaccinated.html">The defense department says Oklahoma National Guard must get vaccinated.</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
+ <p class="updated_time"> 05:51 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request and insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 05:49 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said in a statement. 
  <p class="updated_time"> 05:47 PM CT, Nov. 29 </p> 
@@ -208,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/maxwell-epstein-partners-in-crime-prosecutor-says-523478">Maxwell, Epstein were ‘partners in crime,’ prosecutor says</a> Politico: Ghislaine Maxwell’s sex trafficking trial gets under way. 
  <p class="updated_time"> 05:37 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/bill-cosby-supreme-court-523475">Cosby prosecutors urge Supreme Court to restore conviction</a> Politico: Legal scholars and victim advocates will be watching closely to see if the court takes an interest in the high-profile #MeToo case. 
- <p class="updated_time"> 05:36 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">McConnell threatens to stall defense bill without amendment votes</a> Politico: Democrats need to muster 60 votes to advance the defense policy bill, meaning Republicans could stall the measure if they hang together on the vote. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
@@ -222,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">Biden Administration Says Stores Will Be Fully Stocked for the Holidays</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
  <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/amazon-union-election-alabama-nlrb-523460">Amazon ordered to hold new union election at Alabama facility</a> Politico: The new election is the latest turn in the union’s fight to form Amazon’s first-ever U.S. union. 
- <p class="updated_time"> 04:15 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request and insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 04:07 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/jack-dorsey-steps-down-523446">Twitter CEO Jack Dorsey will step down</a> Politico: His replacement as CEO will be Parag Agrawal, who has been its chief technology officer since 2017. 
  <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059781079/matthew-mcconaughey-texas-governor-2022-video">Matthew McConaughey says he won't run for Texas governor in 2022</a> NPR: After months of dropping hints and dodging specifics, Matthew McConaughey has finally announced his much-speculated-about plans for the Texas governor race: He won't be running in it. 
- <p class="updated_time"> 10:48 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/shutdown-congress-funding-523442">'No appetite' for a shutdown as Congress readies funding fix</a> Politico: Leaders are mulling mid to late January for the new funding deadline rather than before Christmas as previously discussed. 
  <p class="updated_time"> 10:26 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059718970/congress-returns-to-tight-deadlines-on-government-funding-bidens-agenda-and-more">Congress returns to tight deadlines on government funding, Biden's agenda and more</a> NPR: Lawmakers return from the Thanksgiving break to a pileup of critical legislation — to fund the government and avoid a default on the nation's credit limit, plus a $2 trillion spending bill. 
  <p class="updated_time"> 09:38 AM CT, Nov. 29 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/27/new-covid-variant-biden-health-team-523400">New Covid variant triggers urgent moment for Biden health team</a> Politico: There is plenty still unknown about Omicron, but the variant already has the potential to upend the global pandemic response and undo progress that's been made containing Covid-19. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 11:35 PM CT, Nov. 26 </p> 
- <a href="https://www.nytimes.com/2021/11/26/world/americas/us-travel-restrictions-new-covid-variant-omicron.html">U.S. to Place Travel Restrictions on South Africa, Other Countries</a> NYT: Starting Monday, travelers from South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi will be barred unless they are citizens or permanent residents. 
  <p class="updated_time"> 07:58 PM CT, Nov. 26 </p> 
  <a href="https://www.nytimes.com/2021/11/26/us/politics/kushner-investment-middle-east.html">Seeking Backers for New Fund, Jared Kushner Turns to Middle East</a> NYT: Former President Donald J. Trump’s son-in-law is trying to raise capital for his investment firm and is turning to a region that he dealt with extensively while in the White House. 
  <p class="updated_time"> 11:07 AM CT, Nov. 26 </p> 
