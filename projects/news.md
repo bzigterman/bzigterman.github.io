@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 02:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 02:34 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 02:19 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
+ <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59456541?at_medium=RSS&at_campaign=KARANGA">Leaked papers link top Chinese leaders to Uyghur crackdown</a> BBC: They show speeches by Xi Jinping and others which led to Uyghurs' mass internment and forced labour. 
  <p class="updated_time"> 02:00 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
- <p class="updated_time"> 01:02 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59469486?at_medium=RSS&at_campaign=KARANGA">Covid: Omicron lockdown not needed for now, Biden says</a> BBC: The president urges Americans not to panic about the new Coronavirus variant, saying a lockdown is avoidable. 
  <p class="updated_time"> 12:36 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059976355/myanmar-court-postpones-verdict-for-ousted-leader-aung-san-suu-kyi">Myanmar court postpones verdict for ousted leader Aung San Suu Kyi</a> NPR: The court agreed with a defense motion to allow testimony from an additional witness. On Feb. 1, the army seized power — arresting Suu Kyi and blocking her party from a second term in office. 
  <p class="updated_time"> 12:13 AM CT, Nov. 30 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 04:49 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: Prosecutors say Ghislaine Maxwell was "essential" to Jeffrey Epstein's abuse, as her trial opens. 
- <p class="updated_time"> 04:41 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Letter From Catherine the Great Shows Her Support for Inoculations</a> NYT: In a letter from 1787 to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
