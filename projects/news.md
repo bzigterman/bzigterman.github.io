@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:59 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 11:24 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 10:59 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 11:11 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Meets on Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa, has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
+ <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060080946/barbados-breaks-with-the-queen-and-becomes-the-worlds-newest-republic">Barbados breaks with the queen and becomes the world's newest republic</a> NPR: With cheers and fireworks, the island nation became a parliamentary republic, swore in its first president and declared Barbadian-born Rihanna a national hero. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
  <p class="updated_time"> 10:51 AM CT, Nov. 30 </p> 
@@ -27,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
+ <p class="updated_time"> 09:27 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59473984?at_medium=RSS&at_campaign=KARANGA">Adele announces Las Vegas residency</a> BBC: The singer will perform at Caesars Palace Hotel, with shows running from 21 January next year. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 09:03 AM CT, Nov. 30 </p> 
@@ -119,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 04:49 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: Prosecutors say Ghislaine Maxwell was "essential" to Jeffrey Epstein's abuse, as her trial opens. 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
@@ -171,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html">Covid Law in Switzerland Is Approved in a Vote</a> NYT: After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces. 
  <p class="updated_time"> 11:42 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html">South Africa Is Better Vaccinated Than Most African Countries</a> NYT: The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated. 
- <p class="updated_time"> 09:08 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059619823/omicron-travel-bans-covid">As omicron spreads, studies suggest that travel bans alone don't do much good</a> NPR: Public health experts warn that the rush to impose travel bans on southern African countries after the omicron variant was identified can work against scientific transparency. 
  <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
@@ -196,14 +198,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:24 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
+ <p class="updated_time"> 11:21 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
+ <p class="updated_time"> 11:07 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows reaches deal for initial cooperation with January 6 investigators </a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
- <p class="updated_time"> 10:53 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows reaches deal for initial cooperation with January 6 investigators </a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 10:49 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
- <p class="updated_time"> 10:03 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html">Appeals court judges skeptical of Trump's arguments for blocking release of his January 6 documents</a> CNN: Former President Donald Trump faces a major test in Washington on Tuesday, as he attempts to convince a federal appeals court he should be able to keep records from his presidency from the House select committee that's investigating the January 6 US Capitol riot. 
  <p class="updated_time"> 08:49 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
@@ -274,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/omicron-coronavirus-booster-cdc-523481">All adults should get a Covid booster shot, CDC says</a> Politico: “The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters and prevention efforts needed to protect against Covid-19,” CDC Director Rochelle Walensky said. 
  <p class="updated_time"> 05:26 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/powell-coronavirus-job-market-supply-chain-523465">Fed’s Powell warns Omicron could slow job growth, extend supply snarls</a> Politico: “Greater concerns about the virus could reduce people’s willingness to work in person, which would slow progress in the labor market and intensify supply-chain disruptions,” Powell said in his statement. 
- <p class="updated_time"> 05:22 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/pentagon-syria-airstrike-review/index.html">Secretary of defense orders review of US airstrike that killed civilians in Syria in 2019</a> CNN: Secretary of Defense Lloyd Austin has ordered a review of a US airstrike conducted in Syria in 2019 that the Pentagon only recently admitted had killed civilians after the publication of a New York Times report, Pentagon spokesman John Kirby said during a briefing on Monday. 
  <p class="updated_time"> 05:16 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/patriots-45-maga-gang-fanone-capitol-riot/index.html">'Patriots 45 MAGA Gang' planned violence on January 6, prosecutors say</a> CNN: Federal prosecutors have indicted a trio of alleged US Capitol rioters -- including one who is accused of assaulting DC police officer Michael Fanone -- for planning to be violent together on January 6, according to court records and a Justice Department statement on Monday. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 01:44 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/breyer-massachusetts-hospital-vaccine-mandate/index.html">Justice Breyer rejects request to block Massachusetts hospital's vaccine mandate</a> CNN: Justice Stephen Breyer rejected a request on Monday that the Supreme Court block the vaccine mandate being implemented by the large Massachusetts hospital system, Mass General Brigham. 
  <p class="updated_time"> 01:30 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/obituaries/carrie-p-meek-dead.html">Carrie P. Meek, U.S. Lawmaker Who Made Racial History, Dies at 95</a> NYT: She was the first Black person to represent Florida in the House since Reconstruction, and in five terms she fought for programs to create jobs. 
  <p class="updated_time"> 01:09 PM CT, Nov. 29 </p> 
