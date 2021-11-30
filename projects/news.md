@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:18 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 09:54 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
+ <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59471153?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Michael Jackson imitator clashes with judge in court</a> BBC: Investigators say the man wore a "Bad" world tour jacket to the riot and brought a homemade shield. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
- <p class="updated_time"> 08:34 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 08:12 PM CT, Nov. 29 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059861694/opening-arguments-begin-in-the-ghislaine-maxwell-case">Opening arguments begin in the Ghislaine Maxwell case</a> NPR: Prosecutors began their case against Ghislaine Maxwell, the socialite who is charged with grooming underage girls for alleged sexual predator Jeffrey Epstein. Epstein died while in federal custody. 
  <p class="updated_time"> 02:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html">A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</a> NYT: A 31-year-old mother and her two children had arrived in Queensland a few days ago. 
- <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59465747?at_medium=RSS&at_campaign=KARANGA">Twitter co-founder Jack Dorsey steps down as chief executive</a> BBC: Twitter co-founder Jack Dorsey steps down from leading the company, saying he's "ready to move on". 
  <p class="updated_time"> 02:48 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059789674/magdalena-andersson-sweden-first-female-prime-minister-reelected">Sweden's first female leader quit last week after a few hours. She was just reelected</a> NPR: Magdalena Andersson, a former finance minister who leads the Social Democratic Party, won her second election in less than a week. She will officially take office on Tuesday. 
  <p class="updated_time"> 11:15 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/pentagon-to-investigate-2019-syria-airstrike-that-killed-women-and-children-11638224156">Pentagon to Probe 2019 Syria Airstrike That Killed Women and Children</a> WSJ: The inquiry will look at the number of civilians killed and whether the U.S. complied with the laws of war in launching the attack, which the military didn’t publicly acknowledge until this year. 
- <p class="updated_time"> 10:57 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
@@ -109,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
- <p class="updated_time"> 08:17 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59458466?at_medium=RSS&at_campaign=KARANGA">Tanzania: Seven die in Zanzibar after eating poisonous turtle meat</a> BBC: The meat is a delicacy for some in Tanzania but the authorities have now banned its consumption. 
  <p class="updated_time"> 06:33 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/iran-doubles-down-on-demands-as-nuclear-talks-resume-11638207200">Iran Doubles Down on Demands as Nuclear Talks Resume</a> WSJ: Tehran’s position raised doubts over an early breakthrough in negotiations in Vienna that aim to address steps Iran and the U.S. will take to revive the 2015 nuclear deal. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -159,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1059649445/iran-expected-to-drive-hard-bargain-in-nuclear-talks">Iran expected to drive hard bargain in nuclear talks</a> NPR: There's new leadership in Iran and it's putting a harder edge on the country's position heading into nuclear talks starting Monday, with Europe, China and the U.S. 
  <p class="updated_time"> 03:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html">The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</a> NYT: Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness. 
- <p class="updated_time"> 02:55 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html">They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</a> NYT: Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported. 
  <p class="updated_time"> 02:47 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html">What’s at Stake in the Honduran Presidential Election?</a> NYT: Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large. 
  <p class="updated_time"> 02:22 PM CT, Nov. 28 </p> 
@@ -181,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
- <p class="updated_time"> 09:03 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html">As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</a> NYT: Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa. 
  <p class="updated_time"> 08:59 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html">As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</a> NYT: With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place. 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
