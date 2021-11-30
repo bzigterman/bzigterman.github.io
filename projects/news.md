@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:48 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:10 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
+ <p class="updated_time"> 04:10 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Set to Discuss Merck’s Covid Pill</a> NYT: If an expert committee votes to recommend it, the drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/30/1059859253/why-omicron-variant-spreads-so-quickly-infectious-mutations">Why some researchers think the omicron variant could be the most infectious one yet</a> NPR: Preliminary data about omicron suggests the variant became widespread across southern Africa in a very short period of time. Scientists say its many mutations may play a role in its transmissibility. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows the Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 03:44 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
@@ -96,7 +102,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Leader — for Second Time in a Week</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 12:48 PM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/us-china-pentagon-middle-east-11638142162">U.S. Plans to Improve Bases to Deter China</a> WSJ: A review of U.S. military forces and capabilities world-wide doesn’t contain large adjustments as the U.S. tries to take on Beijing, deter Russia and fight terrorism. 
  <p class="updated_time"> 12:07 PM CT, Nov. 29 </p> 
@@ -117,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/29/1059723751/omicron-variant-latest-high-risk-world-health-organization">The World Health Organization warns of very high risk posed by the omicron variant</a> NPR: The newly identified strain of the coronavirus, which could be more transmissible than the previously dominant delta variant, has global health officials worried about a possible new surge in cases. 
  <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
- <p class="updated_time"> 08:50 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html">Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</a> NYT: He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland. 
  <p class="updated_time"> 08:36 AM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/omicron-variant-prompts-governments-to-push-covid-19-boosters-11638193119">Omicron Variant Prompts Governments to Push Covid-19 Boosters</a> WSJ: Israel, the United Arab Emirates and the U.K., all early adopters of the Covid-19 vaccine, are urging their residents to get a booster shot as governments globally consider options to help fend off the coronavirus’s new variant. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
@@ -181,14 +185,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html">In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</a> NYT: When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities. 
  <p class="updated_time"> 09:47 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html">‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</a> NYT: After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women. 
- <p class="updated_time"> 09:01 AM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/28/1059025751/who-seeks-a-new-treaty-on-handling-future-pandemics-it-could-be-a-hard-sell">The WHO is seeking a new treaty on handling future pandemics. It could be a hard sell</a> NPR: At a special session this week, the World Health Organization hopes to start sketching out a new world order. "We don't have rules of the game," says WHO head Tedros Adhanom Ghebreyesus. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
- <p class="updated_time"> 01:03 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html">A Tale of Culinary Reconciliation, Beside the Eiffel Tower</a> NYT: Two decades ago, Spain was the new France, leading gastronomic innovation. Now two iconic chefs have joined forces in Paris. 
 
 
 </details>
@@ -196,6 +196,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
+ <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1059990238/biden-discusses-holiday-supply-chain-issues-with-business-ceos">Biden discusses holiday supply chain issues with business CEOs</a> NPR: NPR's Noel King talks with Mattel CEO Ynon Kreiz about supply chain problems and Monday's White House meeting that President Biden had with top retail executives. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson">There's a GOP push in Wisconsin to take over the state's election system</a> NPR: Some GOP lawmakers in Wisconsin want to strip the state's bipartisan elections agency of its power and give it to the Republican-controlled Legislature. The idea is backed by GOP Sen. Ron Johnson. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 10:57 PM CT, Nov. 29 </p> 
@@ -210,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
- <p class="updated_time"> 08:05 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/twitter-dorsey-agrawal-ceo-523492">Twitter’s CEO is leaving. The storms that consumed his company won’t end.</a> Politico: Conservative activists and lawmakers immediately began heaping attacks on Jack Dorsey's chosen successor, Parag Agrawal. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
@@ -344,12 +350,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
  <p class="updated_time"> 05:31 PM CT, Nov. 28 </p> 
  <a href="https://www.npr.org/2021/11/28/1059657056/carrie-meek-black-former-congresswoman-dies">Carrie Meek, pioneering Black former congresswoman, has died</a> NPR: Meek, the grandchild of a slave and a sharecropper's daughter who became one of the first Black Floridians elected to Congress since Reconstruction, died Sunday. She was 95. 
- <p class="updated_time"> 05:01 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/2021/11/28/1058884480/duterte-marcos-and-political-dynasties-in-the-philippine-presidential-election">Clan politics reign but a family is divided in the race to rule the Philippines</a> NPR: In the race to succeed outgoing Philippine President Rodrigo Duterte, the offspring of two presidents are gunning to run the country in an unprecedented tie-up. 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
- <p class="updated_time"> 03:48 PM CT, Nov. 28 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/28/1059640113/omicron-variant-spreads-to-australia-and-more-of-europe">Omicron variant spreads to North America, Australia and more of Europe</a> NPR: President Biden received a briefing from his medical task force, including Dr. Anthony Fauci, who said that "inevitably" the omicron variant will turn up in the U.S. 
  <p class="updated_time"> 03:28 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/infrastructure-megaprojects.html">Years of Delays, Billions in Overruns: The Dismal History of Big Infrastructure</a> NYT: The nation’s most ambitious engineering projects are mired in postponements and skyrocketing costs. Delivering $1.2 trillion in new infrastructure will be tough. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 04:00 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/business/media/build-back-better-local-news.html">Local News Outlets May Reap $1.7 Billion in Build Back Better Aid</a> NYT: A small paper like The Storm Lake Times in Iowa would receive a big tax credit. So would Gannett, the nation’s largest news publisher. 
- <p class="updated_time"> 10:57 PM CT, Nov. 27 </p> 
- <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-policies-approval-ratings.html">The Disconnect Between Biden’s Popular Policies and His Unpopularity</a> NYT: Voters often punish a president for pushing an unpopular agenda. But President Biden has been learning that they rarely reward a president for enacting legislation. 
  <p class="updated_time"> 12:00 PM CT, Nov. 27 </p> 
  <a href="https://www.nytimes.com/2021/11/27/us/politics/biden-base-weakening-support.html">Democrats Struggle to Energize Their Base as Frustrations Mount</a> NYT: Even as President Biden achieves some significant victories, Democrats are warning that many of their most loyal supporters see inaction and broken campaign promises. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
