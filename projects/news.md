@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
  <p class="updated_time"> 01:15 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 01:02 AM CT, Nov. 30 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59472194?at_medium=RSS&at_campaign=KARANGA">Australian parliament: One in three workers sexually harassed, says report</a> BBC: Canberra's workplace culture has left a "trail of devastation" for women especially, a review finds. 
  <p class="updated_time"> 12:05 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59470843?at_medium=RSS&at_campaign=KARANGA">Barbados becomes a republic and parts ways with the Queen</a> BBC: The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna. 
- <p class="updated_time"> 11:55 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59472695?at_medium=RSS&at_campaign=KARANGA">Caribbean island Barbados becomes world's newest republic</a> BBC: The Caribbean island has removed Queen Elizabeth II as its head of state. 
  <p class="updated_time"> 11:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 10:11 PM CT, Nov. 29 </p> 
