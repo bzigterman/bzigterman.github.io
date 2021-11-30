@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:47 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 12:53 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Omicron Was Already in Europe a Week Ago, Officials Say</a> NYT: The variant was found in a test sample from Nov. 19 in the Netherlands, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
+ <p class="updated_time"> 12:51 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 12:43 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473067?at_medium=RSS&at_campaign=KARANGA">Dutch Covid: Couple win freedom from Omicron quarantine in TB ward</a> BBC: A couple who fled an isolation hotel in the Netherlands are told they can now go home. 
  <p class="updated_time"> 12:27 PM CT, Nov. 30 </p> 
@@ -198,12 +200,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:09 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/powell-fed-economic-support-523521">Powell: Fed may pull back economic support more quickly as prices spike</a> Politico: Powell's comment came after the Fed already announced earlier this month that it would slow the pace at which it buys U.S. government debt and mortgage-backed securities. 
+ <p class="updated_time"> 12:54 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
+ <p class="updated_time"> 12:54 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Mark Meadows Cooperating With Jan. 6 Attack Inquiry</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/us-removes-colombias-farc-rebel-group-from-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/january-6-riot-hatchet-fbi-desjardins/index.html">Prosecutors charge man who allegedly assaulted police at the US Capitol and brought hatchets to FBI headquarters</a> CNN: Federal prosecutors unsealed charges against a Rhode Island man on Monday who allegedly attempted to hop over security chains behind the FBI headquarters in Washington, DC, with two hatchets just hours after the US Capitol riot on January 6. 
  <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
- <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Mark Meadows Cooperating With Jan. 6 Attack Inquiry</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 12:34 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">Meadows cooperating with January 6 investigators</a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
  <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/biden-veterans-laws/index.html">Biden signs slate of bills aimed at supporting veterans</a> CNN: President Joe Biden on Tuesday signed into law four bills aimed at supporting the nation's veterans, including legislation intended to combat racial disparities related to benefits as well as addressing maternal mortality among female veterans. 
- <p class="updated_time"> 11:38 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: The Federal Reserve could pull back economic support faster as inflation lasts, and its chair signaled that for now the Omicron variant is a “risk.” 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 11:28 AM CT, Nov. 30 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/esper-book-defense-department-trump-cnntv/index.html">Esper says Americans deserve 'unvarnished' look at 'tumultuous' Trump administration as he sues Pentagon over book redactions</a> CNN: Former Secretary of Defense Mark Esper said Monday that the American people deserve an "unvarnished" look at former President Donald Trump's "tumultuous" presidency after he filed a lawsuit against the Pentagon for not clearing his book manuscript for publication. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/travel-restrictions-fauci-omicron-covid/index.html">Fauci says he doesn't expect more travel restrictions even if Omicron variant proves more contagious and deadly</a> CNN: Dr. Anthony Fauci, the nation's top infectious diseases expert, said Monday that he doesn't anticipate the United States will implement additional travel restrictions even if the Omicron variant proves worse than previous strains of Covid-19. 
- <p class="updated_time"> 06:11 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/pfizer-fda-authorization-boosters-ages-16-17/index.html">Pfizer expected to seek FDA authorization for boosters for those ages 16 and 17</a> CNN: Pfizer is expected to seek authorization from the US Food and Drug Administration for its vaccine booster shot for those who are ages 16 and 17, a source familiar with the plan told CNN on Monday. 
  <p class="updated_time"> 05:51 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/pentagon-oklahoma-vaccine/index.html">Pentagon denies Oklahoma governor's request, insists National Guard members must be vaccinated</a> CNN: Secretary of State Lloyd Austin denied a request from Oklahoma's governor to exempt his states' National Guard members from the Pentagon's Covid-19 vaccine mandate. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/28/us/politics/mark-esper-memoir-lawsuit.html">Esper Claims Defense Dept. Is Improperly Blocking Parts of His Memoir</a> NYT: The former defense secretary sued the agency, saying that portions of the book were being concealed “under the guise of classification.” 
  <p class="updated_time"> 06:45 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html">As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</a> NYT: The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists. 
- <p class="updated_time"> 06:37 PM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/china-schumers-innovation-and-competition-act-523414">China blowback looms for Schumer’s Innovation and Competition Act</a> Politico: Beijing warns that U.S. tech and competitiveness legislation will “gravely damage America's own interests.” 
  <p class="updated_time"> 04:37 PM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/us/politics/supreme-court-mississippi-abortion-law.html">Fetal Viability, Long an Abortion Dividing Line, Faces a Supreme Court Test</a> NYT: On Wednesday, the justices will hear the most important abortion case in decades, one that could undermine or overturn Roe v. Wade. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
