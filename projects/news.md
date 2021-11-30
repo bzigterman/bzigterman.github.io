@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy': The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
@@ -204,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Trump effort to stymie Jan. 6 committee faces appeals court reckoning</a> Politico: The former president’s lawsuit to shield his White House records faces a crucial review Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/roe-wade-stare-decisis-abortion-supreme-court/index.html">Roe v. Wade has been the law of the land for nearly 50 years. Will that matter?</a> CNN: In a biting dissent two years ago, when the Supreme Court overturned a ruling from 1979, Justice Stephen Breyer wrote that the decision "can only cause one to wonder which cases the court will overrule next." 
  <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059990238/biden-discusses-holiday-supply-chain-issues-with-business-ceos">Biden discusses holiday supply chain issues with business CEOs</a> NPR: NPR's Noel King talks with Mattel CEO Ynon Kreiz about supply chain problems and Monday's White House meeting that President Biden had with top retail executives. 
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
@@ -212,12 +216,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
+ <p class="updated_time"> 11:02 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-omicron-variant-uncertainty/index.html">Biden faces a familiar foe -- uncertainty</a> CNN: President Joe Biden had hoped to return from the Thanksgiving holiday bearing good news about his moves to get the economy back on track, his administration's effort to fix the supply chain crisis and hopes for a holiday season where Americans could gather safely with families and friends. 
  <p class="updated_time"> 10:57 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/global-posture-review-china/index.html">Pentagon to build up US bases in Guam and Australia to meet China challenge</a> CNN: The Pentagon will focus on building up bases in Guam and Australia to better prepare the US military to counter China, a senior defense official said on Monday. 
  <p class="updated_time"> 09:55 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/trump-intelligence-briefings/index.html">US intelligence community 'struggled' to brief Trump, CIA study says</a> CNN: The US intelligence community "struggled" to brief President-elect Donald Trump in 2016, achieving "only limited success" in educating and developing a relationship with the incoming president, according to a newly released unclassified history of the transition period published by the CIA's in-house academic center. 
- <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/boebert-omar-apology.html">Boebert Reaches Out to Omar After Incendiary Video, Escalating a Feud</a> NYT: Representative Lauren Boebert made an overture to Representative Ilhan Omar after suggesting that the Muslim lawmaker was a terrorism threat. The call did not go well. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
- <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/esper-defense-department-lawsuit/index.html">DOD wants Esper to take out parts about Trump from forthcoming book, suit says</a> CNN: Former Secretary of Defense Mark Esper is suing the Department of Defense for not clearing his book manuscript for publication, after the agency told Esper he needed to take out parts of the book about his time working under then-President Donald Trump. 
  <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">Biden Administration Says Stores Will Be Fully Stocked for the Holidays</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
  <p class="updated_time"> 06:33 PM CT, Nov. 29 </p> 
@@ -277,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Former Trump Official With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
+ <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Jeffrey Clark With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
  <p class="updated_time"> 03:42 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059858635/reps-boebert-and-omar-spoke-after-boeberts-islamophobic-comments-it-didnt-go-wel">Reps. Boebert and Omar spoke after Boebert's Islamophobic comments. It didn't go well</a> NPR: The contentious phone call between Reps. Lauren Boebert and Ilhan Omar likely means the controversy will continue. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
@@ -310,6 +312,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
+ <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge lets actor charged in Jan. 6 riot head home despite ‘gobbledygook’ at hearing</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
  <p class="updated_time"> 11:23 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions">The omicron variant is cause for concern — but not panic, Biden says</a> NPR: President Biden said that while restrictions imposed on travelers from several nations in southern Africa would slow the variant's entry, the U.S. will eventually see cases. 
  <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
@@ -328,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
+ <p class="updated_time"> 05:03 AM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/biden-agenda-republicans-quest-to-flip-house-2022/index.html">Biden's agenda brings warring conservative factions together in quest to flip House </a> CNN: The US Chamber of Commerce last year endorsed 23 vulnerable freshman House Democrats -- the most in at least a decade -- and enraged House GOP Leader Kevin McCarthy and other top Republicans who accused their long-time big business allies of heresy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/dems-want-biden-to-go-negative-523427">Dems want Biden to start swinging at Republicans. Allies aren’t sure he can.</a> Politico: Inside the White House a debate rages over how hard the president should attack Republicans heading into the midterms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
@@ -338,12 +344,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1058160233/democrats-go-on-the-offense-with-bidens-agenda-to-avoid-a-repeat-of-obamacare-ba">Democrats go on the offense with Biden's agenda to avoid a repeat of Obamacare battle</a> NPR: The Build Back Better agenda is the largest expansion of the social safety net in decades. Democrats say they learned from the debate over the Affordable Care Act and are selling their bills sooner. 
  <p class="updated_time"> 10:46 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/bannon-trial-media-spectacle-523432">DOJ: Bannon attempting ‘frivolous’ effort to turn court case into media spectacle</a> Politico: Prosecutors seek to turn ex-Trump aide’s combative out-of-court statements against him. 
- <p class="updated_time"> 10:37 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/asa-hutchinson-kevin-mccarthy-cnntv/index.html">McCarthy should publicly condemn behavior by GOP members 'crossing the line' on violence and civility, Hutchinson says</a> CNN: House Minority Leader Kevin McCarthy should publicly condemn Republican lawmakers whose behavior is violent or increases division, Arkansas Gov. Asa Hutchinson said Sunday. 
  <p class="updated_time"> 09:26 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/matthew-mcconaughey-texas-governor-523431">McConaughey not running for governor of Texas</a> Politico: The actor had been considered a wild card in the 2022 race. 
- <p class="updated_time"> 08:29 PM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/national-menorah-lighting-doug-emhoff-hanukkah/index.html">Second gentleman attends National Menorah lighting ceremony: 'Jewish history is American history'  </a> CNN: Doug Emhoff, husband to Vice President Kamala Harris, will celebrate the Jewish faith Sunday on the first night of Hanukkah, as he is expected to light the first candle of the National Menorah Sunday afternoon. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 06:51 PM CT, Nov. 28 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
- <p class="updated_time"> 10:31 AM CT, Nov. 28 </p> 
- <a href="https://www.cnn.com/2021/11/28/politics/francis-collins-omicron-coronavirus-variant-cnntv/index.html">NIH director: New Covid-19 variant 'ought to redouble' vaccination and mitigation efforts </a> CNN: The director of the National Institutes of Health stressed Sunday that a newly emerged coronavirus variant "ought to redouble" vaccination efforts and other mitigation strategies, saying that while much is unknown about the variant, action should be taken now to avoid "a situation that makes this worse." 
  <p class="updated_time"> 10:09 AM CT, Nov. 28 </p> 
  <a href="https://www.cnn.com/2021/11/28/politics/2024-trump-biden-early-predictions-analysis/index.html">Why we need to stop with the 2024 predictions</a> CNN: We're less than three years away from the 2024 presidential election. That hasn't stopped polls of a potential matchup between President Joe Biden and former President Donald Trump -- which indicate Biden is in trouble -- from being published. 
  <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
@@ -390,12 +390,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
+ <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
  <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
+ <p class="updated_time"> 09:23 AM CT, Nov. 24 </p> 
+ <a href="https://www.cnn.com/2021/11/24/politics/nani-coloretti-omb-deputy-director/index.html">'History-making' Shalanda Young and Nani Coloretti nominated to lead budget agency</a> CNN: President Joe Biden will nominate Nani Coloretti to serve as deputy director of the Office of Management and Budget after elevating Shalanda Young to serve as the agency's permanent director, according to sources familiar with the decision. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Nov. 24 </p> 
