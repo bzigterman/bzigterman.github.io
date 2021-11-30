@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59474807?at_medium=RSS&at_campaign=KARANGA">France issues arrest warrant over Japan 'parental kidnap'</a> BBC: Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018. 
+ <p class="updated_time"> 04:57 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed for life for crimes including the murder of a young Yazidi girl in 2015. 
+ <p class="updated_time"> 04:54 AM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59474142?at_medium=RSS&at_campaign=KARANGA">Inditex: Zara founder’s daughter becomes fashion giant's chair</a> BBC: Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka 
  <p class="updated_time"> 04:27 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 04:10 AM CT, Nov. 30 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
- <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 07:29 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor hatched 'secret plan' for hate hoax</a> BBC: Jussie Smollett is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59468682?at_medium=RSS&at_campaign=KARANGA">Why France is declaring Josephine Baker a national hero</a> BBC: Josephine Baker is the first black woman to be remembered in the resting place of France’s national heroes. 
  <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
- <p class="updated_time"> 05:14 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59468155?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO warns of 'high infection risk' around globe</a> BBC: Omicron could lead to severe consequences in some regions, the World Health Organization has warned. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 04:49 PM CT, Nov. 29 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 02:14 PM CT, Nov. 29 </p> 
  <a href="https://www.wsj.com/articles/venezuela-governors-election-ruling-sparks-outcry-11638234842">Venezuela Governor's Election Ruling Sparks Outcry</a> WSJ: With the vote count incomplete, the Supreme Court barred the opposition candidate from holding office in Barinas, leading to accusations that the election was being stolen. 
- <p class="updated_time"> 01:43 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59468148?at_medium=RSS&at_campaign=KARANGA">The Simpsons: Tiananmen episode not found in Hong Kong</a> BBC: The episode includes jokes about China's censorship of the Tiananmen Square massacre. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
  <p class="updated_time"> 01:27 PM CT, Nov. 29 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy': The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
@@ -222,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elizabeth-holmes-theranos-balwani-523496">Elizabeth Holmes accuses former lover, business partner of abuse</a> Politico: The founder of Theranos puts the onus on Sunny Balwani. 
+ <p class="updated_time"> 08:05 PM CT, Nov. 29 </p> 
+ <a href="https://www.politico.com/news/2021/11/29/twitter-dorsey-agrawal-ceo-523492">Twitter’s CEO is leaving. The storms that consumed his company won’t end.</a> Politico: Conservative activists and lawmakers immediately began heaping attacks on Jack Dorsey's chosen successor, Parag Agrawal. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 01:55 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/jan-6-investigators-523456">Jan. 6 investigators prepare to hold former Trump admin official in contempt</a> Politico: Jeffrey Clark would be the second figure in the former president's orbit to face a contempt referral so far during the investigation, after Steve Bannon. 
  <p class="updated_time"> 01:52 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 01:44 PM CT, Nov. 29 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
- <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge lets actor charged in Jan. 6 riot head home despite ‘gobbledygook’ at hearing</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
  <p class="updated_time"> 11:23 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions">The omicron variant is cause for concern — but not panic, Biden says</a> NPR: President Biden said that while restrictions imposed on travelers from several nations in southern Africa would slow the variant's entry, the U.S. will eventually see cases. 
  <p class="updated_time"> 11:06 AM CT, Nov. 29 </p> 
@@ -332,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/dems-want-biden-to-go-negative-523427">Dems want Biden to start swinging at Republicans. Allies aren’t sure he can.</a> Politico: Inside the White House a debate rages over how hard the president should attack Republicans heading into the midterms. 
  <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
- <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/fcc-broadband-maps-biden-523425">Why billions in broadband money may go to the wrong places</a> Politico: The administration and Congress are devoting tens of billions of dollars to closing the digital divide. But a key ingredient is missing: an accurate picture of Americans' internet access. 
  <p class="updated_time"> 04:01 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059706138/congress-returns-from-a-holiday-break-with-a-full-plate-of-must-pass-legislation">Congress returns from a holiday break with a full plate of must-pass legislation</a> NPR: Congress faces a Friday deadline to keep federal agencies funded and avoid a partial shutdown, while Democrats push to pass the remainder of President Biden's spending agenda. 
  <p class="updated_time"> 04:00 AM CT, Nov. 29 </p> 
@@ -392,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
+ <p class="updated_time"> 01:53 PM CT, Nov. 24 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/all-three-defendants-guilty-on-murder-charges-in-arbery-case-523303">All 3 defendants guilty on murder charges in Ahmaud Arbery case</a> Politico: The three men convicted in Arbery's death are Greg and Travis McMichael, and their neighbor William "Roddie" Bryan. 
  <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
