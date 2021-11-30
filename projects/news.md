@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:27 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:39 PM CT, Nov. 30 </p> 
+ <a href="https://www.npr.org/2021/11/30/1060175635/greece-covid-vaccine-mandate">Greece will mandate the COVID-19 vaccine for anyone over 60, or make them pay fines</a> NPR: Anyone who refuses to get vaccinated will face monthly fines of 100 euros, or roughly $114. The monthly fine is substantial for retirees — the average pension is 730 euros a month. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: The new Omicron variant was already in Europe a week ago, officials said, a week before the W.H.O. labeled it a “variant of concern.” Scientists are still unsure where or when Omicron originated. 
- <p class="updated_time"> 04:27 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 04:33 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
+ <p class="updated_time"> 04:32 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/fda-merck-pill-molnupiravir.html">F.D.A. Advisers Endorses Merck’s Covid Pill for High-Risk Adults</a> NYT: The drug, molnupiravir, could be authorized within days for patients at high risk of severe illness. 
+ <p class="updated_time"> 04:31 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 04:19 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
- <p class="updated_time"> 04:15 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 04:13 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Interred in French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Inducted Into French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185957/china-critics-hope-the-wta-will-inspire-outcry-about-alleged-human-rights-violat">China critics hope the WTA will inspire outcry about alleged human rights violations</a> NPR: Chinese tennis star Peng Shuai made an assault allegation, then disappeared. She's re-emerged, but the Women's Tennis Association's unflinching support may inspire a wider outcry over China's actions. 
  <p class="updated_time"> 03:46 PM CT, Nov. 30 </p> 
@@ -30,15 +34,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185901/the-u-s-has-lifted-the-terrorist-label-on-colombias-farc">The U.S. has lifted the terrorist label on Colombia's FARC</a> NPR: The U.S. State Department removed Colombia's FARC rebel group from its list of international terrorist organizations. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">The U.S. may start to clarify its Taiwan policy</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
+ <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">A stronger China tests America's 'strategic ambiguity' on Taiwan</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185866/what-we-know-about-the-omicron-variant">What we know about the omicron variant</a> NPR: The omicron variant of the not been found in the United States yet. Here's what's we known about it, how dangerous it's likely to be, and whether vaccines or new drugs will be effective against it. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
- <p class="updated_time"> 02:48 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel to Covid hotspots over Omicron</a> BBC: It urges those who are unwell and the over-60s to delay international travel to areas with community transmission. 
  <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
  <p class="updated_time"> 02:14 PM CT, Nov. 30 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
- <p class="updated_time"> 01:53 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
  <p class="updated_time"> 12:27 PM CT, Nov. 30 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709">Leaked Documents Detail Xi Jinping's Extensive Role in Xinjiang Crackdown</a> WSJ: Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
- <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/30/1059859253/why-omicron-variant-spreads-so-quickly-infectious-mutations">Why some researchers think the omicron variant could be the most infectious one yet</a> NPR: Preliminary data about omicron suggests the variant became widespread across southern Africa in a very short period of time. Scientists say its many mutations may play a role in its transmissibility. 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 02:09 AM CT, Nov. 30 </p> 
@@ -192,10 +190,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/mueller-report-appeals-trump-523558">Appeals court orders release of more from Mueller report</a> Politico: The unanimous three-judge panel says the public is entitled to more details on decisions not to prosecute Trump campaign officials. 
+ <p class="updated_time"> 05:25 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/jan-6-panel-subpoena-lawmakers-communications-523568">Jan. 6 panel hasn't subpoenaed lawmakers' communications yet — but still plans to</a> Politico: The committee sparked GOP resistance with early reports of its plans to subpoena colleagues' records. Multiple sources say it isn't backing off. 
+ <p class="updated_time"> 05:24 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/pentagon-austin-vaccine-national-guard-523570">Pentagon chief says Guard who refuse vaccine cannot train</a> Politico: “Vaccination is essential to the health and readiness of the force,” Lloyd Austin wrote. 
  <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/trump-allies-launch-maga-publishing-house-523564">Trump allies launch a MAGA publishing house with an eye on profit and intel</a> Politico: The former president is trying to circumvent the Big Five, having not inked a deal for a memoir. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA expert panel narrowly endorses Merck’s Covid-19 pill</a> Politico: The vote was 13-10. 
+ <p class="updated_time"> 04:38 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden sells infrastructure law in Minnesota</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/sba-eidl-pandemic-relief.html">S.B.A. Gave $3.7 Billion in Improper Relief Payments, Auditor Finds</a> NYT: The Small Business Administration skipped a basic fraud check and sent billions to recipients barred from receiving federal funds, the agency’s inspector general reported. 
  <p class="updated_time"> 04:19 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Court blocks vaccine mandate for federal contractors in 3 states, in latest blow to Biden administration</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 04:17 PM CT, Nov. 30 </p> 
@@ -223,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">The U.S. may start to clarify its Taiwan policy</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
+ <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">A stronger China tests America's 'strategic ambiguity' on Taiwan</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
@@ -270,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
- <p class="updated_time"> 08:30 AM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden heads to Minnesota to sell infrastructure law</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
  <p class="updated_time"> 08:16 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/patriots-45-maga-gang-fanone-capitol-riot/index.html">'Patriots 45 MAGA Gang' planned violence on January 6, prosecutors say</a> CNN: Federal prosecutors have indicted a trio of alleged US Capitol rioters -- including one who is accused of assaulting DC police officer Michael Fanone -- for planning to be violent together on January 6, according to court records and a Justice Department statement on Monday. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 04:07 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/boston-flag-free-speech.html">A Public Flagpole, a Christian Flag and the First Amendment</a> NYT: The Supreme Court will decide whether Boston, which allows many kinds of groups to raise flags outside its City Hall, can reject one bearing the Latin cross. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-19-joe-biden/index.html">Biden says new Omicron variant is 'cause for concern, not a cause for panic'</a> CNN: Federal health officials are bracing for the first cases of the new Omicron coronavirus variant to be detected in the US and say there are likely far more cases worldwide than is currently known. 
  <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
- <p class="updated_time"> 11:30 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/judge-jan-6-defendant-broadway-actor-523447">Judge lets actor charged in Jan. 6 riot head home despite ‘gobbledygook’ at hearing</a> Politico: Actor James Beeks is cleared to drive to Florida, but complains the FBI took his car keys, cash, silver and gold. 
  <p class="updated_time"> 08:49 AM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/biden-stutter-encouragement-video/index.html">Biden offers words of encouragement to young girl with stutter</a> CNN: President Joe Biden offered some words of encouragement to a young girl who struggles with a stutter, empathizing with her as someone who has had a lifelong stutter himself. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
@@ -376,14 +378,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
- <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
- <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
- <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
