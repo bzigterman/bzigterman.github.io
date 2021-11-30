@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:18 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
+ <p class="updated_time"> 10:11 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/59470666?at_medium=RSS&at_campaign=KARANGA">Westpac: Australia bank pays out over charging dead people</a> BBC: Australia's second largest bank has agreed to pay $81m in penalties and compensate customers. 
  <p class="updated_time"> 09:54 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
@@ -45,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59455605?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell accused of preying on young girls for Epstein to abuse</a> BBC: Prosecutors say Ghislaine Maxwell was "essential" to Jeffrey Epstein's abuse, as her trial opens. 
  <p class="updated_time"> 04:41 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Letter From Catherine the Great Shows Her Support for Inoculations</a> NYT: In a letter from 1787 to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
+ <p class="updated_time"> 04:30 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59470276?at_medium=RSS&at_campaign=KARANGA">Video appears to show UK F-35 fighter crash after take-off</a> BBC: Dramatic footage of what appears to be a jet crashing off the aircraft carrier HMS Queen Elizabeth was posted on Twitter. 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 03:45 PM CT, Nov. 29 </p> 
