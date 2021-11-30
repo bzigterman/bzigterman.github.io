@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59471153?at_medium=RSS&at_campaign=KARANGA">Actor who played Judas charged in US Capitol riot</a> BBC: The Jesus Christ Superstar cast member was accused by a judge of spewing "gobbledygook" in court. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 08:34 PM CT, Nov. 29 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59458460?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius: Reeva Steenkamp's parents to meet her killer</a> BBC: The ex-Paralympian is moved to a prison close to the parents of the woman he killed eight years ago. 
  <p class="updated_time"> 10:52 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html">U.S. Health Officials Push Vaccines as Omicrom Spreads</a> NYT: Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday. 
- <p class="updated_time"> 10:05 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59414088?at_medium=RSS&at_campaign=KARANGA">Virgil Abloh: How he 'helped black people dream in fashion'</a> BBC: Radio 1 Newsbeat has been speaking to people about the legacy Virgil Abloh leaves behind. 
  <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59441379?at_medium=RSS&at_campaign=KARANGA">China surveillance of journalists to use 'traffic-light' system</a> BBC: Documents detail how one province is making a facial-recognition system to spot "people of concern". 
  <p class="updated_time"> 09:48 AM CT, Nov. 29 </p> 
@@ -198,10 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
- <p class="updated_time"> 09:12 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">Analysis: One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 09:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/nyregion/tom-suozzi-governor-ny.html">Rep. Tom Suozzi Is Running for Governor of New York</a> NYT: Mr. Suozzi, who has positioned himself as a centrist, entered a crowded field of Democrats seeking to challenge the incumbent, Gov. Kathy Hochul. 
  <p class="updated_time"> 08:33 PM CT, Nov. 29 </p> 
