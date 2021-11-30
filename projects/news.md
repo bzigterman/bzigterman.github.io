@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 12:05 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59470843?at_medium=RSS&at_campaign=KARANGA">Barbados becomes a republic and parts ways with the Queen</a> BBC: The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna. 
+ <p class="updated_time"> 11:55 PM CT, Nov. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59472695?at_medium=RSS&at_campaign=KARANGA">Caribbean island Barbados becomes world's newest republic</a> BBC: The Caribbean island has removed Queen Elizabeth II as its head of state. 
  <p class="updated_time"> 11:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
- <p class="updated_time"> 10:50 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid Live Updates: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
  <p class="updated_time"> 10:11 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59470666?at_medium=RSS&at_campaign=KARANGA">Westpac: Australia bank pays out over charging dead people</a> BBC: Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers. 
  <p class="updated_time"> 09:54 PM CT, Nov. 29 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/28/1058533008/iran-nuclear-deal-talks-us">Much has changed for the Iran nuclear deal. These are 4 things to know as talks resume</a> NPR: The deal provided Iran sanctions relief for limits on its nuclear program. But now there's new Iranian leadership and more uranium in their stockpile than when Trump abandoned the agreement. 
  <p class="updated_time"> 08:38 AM CT, Nov. 28 </p> 
  <a href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html">Portugal Soccer Match Abandoned After Covid Reduces Team to 9</a> NYT: Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.” 
- <p class="updated_time"> 05:13 AM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59450988?at_medium=RSS&at_campaign=KARANGA">Omicron symptoms mild so far, says South African doctor who spotted it</a> BBC: The South African doctor who found the new variant says patients are showing very mild symptoms so far. 
  <p class="updated_time"> 06:01 PM CT, Nov. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59438028?at_medium=RSS&at_campaign=KARANGA">The migrants returned to Iraqi camps from Belarus</a> BBC: One family returns to the same camp they had lived in for seven years before trying to reach Europe. 
  <p class="updated_time"> 02:16 PM CT, Nov. 27 </p> 
