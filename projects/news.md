@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:37 AM CT, Nov. 30 </p> 
+ <p class="updated_time"> 02:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 02:34 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news">Covid News: Pfizer to Seek Approval for Boosters for 16- and 17-Year-Olds</a> NYT: President Biden cautioned against panic because of the Omicron variant, as scientists said they needed weeks to understand its true threat. 
@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:33 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/59439797?at_medium=RSS&at_campaign=KARANGA">Enes Kanter Freedom: NBA star changes name to celebrate US citizenship</a> BBC: Outspoken Boston Celtics basketball player Enes Kanter will add 'Freedom' to his name. 
  <p class="updated_time"> 07:29 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor hatched 'secret plan' for hate hoax</a> BBC: The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59439796?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor hatched 'secret plan' for hate hoax</a> BBC: Jussie Smollett is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
  <p class="updated_time"> 06:23 PM CT, Nov. 29 </p> 
