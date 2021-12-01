@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 10:14 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. to Tighten Testing for Travelers Amid Omicron Worries</a> NYT: The U.S. will require air travelers to provide a negative test within 24 hours of their departure. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
@@ -186,12 +186,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/andre-dickens-atlanta-mayor-523589">Council member Andre Dickens elected mayor of Atlanta</a> Politico: He won a campaign dominated by concern over rising violent crime in the city. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
+ <p class="updated_time"> 10:09 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/atlanta-mayor-race-andre-dickens/index.html">City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects</a> CNN: City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects, defeating City Council President Felicia Moore in a runoff election to determine who will hold the city's top post. 
+ <p class="updated_time"> 10:01 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/conservative-judges-legal-movement-abortion/index.html">Conservative legal activists watch SCOTUS abortion cases with worry over what happens if they lose</a> CNN: Amid the wave of excitement among conservative organizers over the prospect of reversing access to abortion for the first time in nearly 50 years -- since Roe v. Wade affirmed a constitutional right to the procedure in 1973 -- there are growing fears about how the conservative legal movement will fare if its own appointees on the bench stop short of dismantling the landmark abortion ruling. 
  <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
- <p class="updated_time"> 09:36 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/conservative-judges-legal-movement-abortion/index.html">Concerns mount over conservative legal movement as SCOTUS considers abortion cases</a> CNN: Amid the wave of excitement among conservative organizers over the prospect of reversing access to abortion for the first time in nearly 50 years -- since Roe v. Wade affirmed a constitutional right to the procedure in 1973 -- there are growing fears about how the conservative legal movement will fare if its own appointees on the bench stop short of dismantling the landmark abortion ruling. 
  <p class="updated_time"> 09:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 09:06 PM CT, Nov. 30 </p> 
@@ -278,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
- <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/trump-intelligence-briefings/index.html">US intelligence community 'struggled' to brief Trump, CIA study says</a> CNN: The US intelligence community "struggled" to brief President-elect Donald Trump in 2016, achieving "only limited success" in educating and developing a relationship with the incoming president, according to a newly released unclassified history of the transition period published by the CIA's in-house academic center. 
- <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
