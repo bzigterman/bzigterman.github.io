@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:46 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 04:53 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: California Reports First Omicron Case in U.S.</a> NYT: The person arrived on a plane from South Africa, where the new variant now accounts for a majority of new cases. Nearly two dozen countries have now detected cases of Omicron. 
+ <p class="updated_time"> 04:52 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
+ <p class="updated_time"> 04:51 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/newsom-california-omicron-variant.html">California Officials Say They're Prepared for Omicron Variant</a> NYT: The first case of the variant detected in the United States was in a San Francisco resident who traveled back from South Africa. 
+ <p class="updated_time"> 04:49 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: The 15-year-old killed four students in an "absolutely premeditated" attack, say prosecutors. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/covid-travel-boosters-omicron.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
- <p class="updated_time"> 04:03 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
- <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: Ethan Crumbley, 15, allegedly killed four students and injured seven others on Tuesday. 
  <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
  <p class="updated_time"> 03:32 PM CT, Dec. 01 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
- <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
 
 
 </details>
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:47 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/david-mccormick-pennsylvania-senate-bid-523623">Hedge fund CEO readies Senate bid despite Oz announcement</a> Politico: David McCormick is expected to join the Pennsylvania GOP primary in the next few weeks. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
  <p class="updated_time"> 04:43 PM CT, Dec. 01 </p> 
