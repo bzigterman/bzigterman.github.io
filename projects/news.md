@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/01/scoop-conservatives-plot-government-shutdown-over-vaccine-mandate-495273">SCOOP: Conservatives plot government shutdown over vaccine mandate</a> Politico: And CNN suspends Chris Cuomo indefinitely. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
@@ -238,14 +240,16 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/roe-wade-abortion-supreme-court-what-matters/index.html">Analysis: Prepare for a post-Roe v. Wade reality</a> CNN: This could be the moment when some combination of Republican-appointed Supreme Court justices agrees to break 50 years of precedent by removing the national right to an abortion recognized in Roe v. Wade. 
  <p class="updated_time"> 05:45 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dobbs-v-jackson-womens-health-organization-what-to-watch/index.html">What to watch for as the Supreme Court reconsiders Roe v. Wade</a> CNN: The Supreme Court hears oral arguments Wednesday in a case that could result in the repeal of Roe v. Wade, the decision legalizing abortion nationwide that's been at the center of American politics for nearly 50 years. 
- <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/mueller-report-appeals-trump-523558">Appeals court orders release of more from Mueller report</a> Politico: The unanimous three-judge panel says the public is entitled to more details on decisions not to prosecute Trump campaign officials. 
+ <p class="updated_time"> 05:25 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/jan-6-panel-subpoena-lawmakers-communications-523568">Jan. 6 panel hasn't subpoenaed lawmakers' communications yet — but still plans to</a> Politico: The committee sparked GOP resistance with early reports of its plans to subpoena colleagues' records. Multiple sources say it isn't backing off. 
  <p class="updated_time"> 05:24 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/pentagon-austin-vaccine-national-guard-523570">Pentagon chief says Guard who refuse vaccine cannot train</a> Politico: “Vaccination is essential to the health and readiness of the force,” Lloyd Austin wrote. 
  <p class="updated_time"> 05:19 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/latinos-republicans-conservative-vote-gop.html">How Much Are Latinos Shifting Right?</a> NYT: So far, the data remains mixed. And the defection of Ryan Guillen, a Texas state lawmaker, to the G.O.P. may not have been driven solely by ideology. 
  <p class="updated_time"> 05:18 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/pfizer-boosters-16-17.html">Pfizer Asks F.D.A. to Authorize Boosters for 16- and 17-Year-Olds</a> NYT: The request accelerates efforts to expand who is eligible for booster shots, as officials try to head off another wave of coronavirus cases. 
+ <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/trump-allies-launch-maga-publishing-house-523564">Trump allies launch publishing house with an eye on upending the book industry</a> Politico: The former president is trying to circumvent the Big Five, having not inked a deal for a memoir. 
  <p class="updated_time"> 04:57 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
@@ -266,6 +270,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/philip-heymann-dead.html">Philip B. Heymann, 89, Dies; Prosecuted Watergate and Abscam</a> NYT: He served four presidents over six decades, mostly in the Justice Department and often as a key part of major investigations. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">Biden will lay down new travel restrictions as Omicron threatens</a> Politico: A tightened testing window will be part of the administration’s attempt to curb the spread of the virus ahead of another  holiday travel period. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -318,10 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
- <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
- <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:05 AM CT, Nov. 30 </p> 
