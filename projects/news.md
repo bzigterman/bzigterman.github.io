@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:59 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
+ <p class="updated_time"> 04:18 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
- <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/virus-variant-travel-boosters.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
+ <p class="updated_time"> 04:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-micron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
+ <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: Ethan Crumbley, 15, allegedly killed four students and injured seven others on Tuesday. 
  <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
  <p class="updated_time"> 03:32 PM CT, Dec. 01 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 24 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
  <p class="updated_time"> 12:04 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59493729?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Lalibela retaken - government</a> BBC: Tigray rebels took control of Lalibela, famous for its 13th Century rock-hewn churches, in August. 
- <p class="updated_time"> 12:02 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills four and wounds seven</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 11:53 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
  <p class="updated_time"> 11:20 AM CT, Dec. 01 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
- <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
  <p class="updated_time"> 06:49 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/india-economy-gdp.html">India's Economy Still Weak, Despite a Strong  Third Quarter</a> NYT: Covid-19 essentially robbed the country of more than a year of badly needed economic growth. That’s lost ground that cannot be regained quickly. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:26 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/marty-walsh-massachusetts-governor-523620">Marty Walsh is weighing a run for Massachusetts governor</a> Politico: Allies are telling Democrats in the state that the labor secretary is considering returning home to mount a bid. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1060608500/massachusetts-gov-charlie-baker-says-he-wont-be-running-for-reelection">Massachusetts Gov. Charlie Baker says he won't be running for reelection</a> NPR: Massachusetts Gov. Charlie Baker, a moderate Republican, says he won't run for a third term. Although he's one of the nation's most popular governors, Baker was facing a tough primary challenge. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
@@ -215,19 +217,17 @@ permalink: /projects/news/
  <p class="updated_time"> 03:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/national-space-council-harris-russia/index.html">Harris condemns Russian test of anti-satellite weapon at Biden administration's first space council meeting</a> CNN: Leaders from all corners of the US government condemned Russia's recent test of an anti-satellite weapon on Wednesday at the inaugural meeting of the National Space Council under the Biden administration, calling for accelerating the development of rules and norms in space. 
  <p class="updated_time"> 03:36 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060620025/stacey-abrams-announces-candidacy-in-georgia-governors-race">Stacey Abrams announces candidacy in Georgia governor's race</a> NPR: Stacey Abrams, who rose to national prominence in 2018, hopes to give Democrats a long-awaited victory in the key battleground state. 
+ <a href="https://www.npr.org/2021/12/01/1060620025/stacey-abrams-announces-candidacy-in-georgia-governors-race">Stacey Abrams announces candidacy in Georgia governor's race</a> NPR: Abrams rose to national prominence following her narrow loss in Georgia's 2018 governor's race. Her entrance into the contest sets up a potential rematch against Gov. Brian Kemp. 
  <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608439/islamophobic-comments-are-the-latest-racist-rhetoric-to-come-from-fringe-lawmake">Islamophobic comments are the latest racist rhetoric to come from fringe lawmakers</a> NPR: Congresswoman Lauren Boebert, R-Colo., recently suggested Congresswoman Ilhan Omar, D-Minn., was a suicide bomber. The Islamophobic comments are the latest in a string of racist rhetoric in the House. 
  <p class="updated_time"> 03:14 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/world-aids-day-biden-national-strategy/index.html">Biden marks World AIDS Day with new national HIV/AIDS strategy</a> CNN: President Joe Biden will mark World AIDS Day on Wednesday by unveiling a new national HIV/AIDS strategy with the goal of ending the HIV epidemic by 2030, a senior administration official told CNN. 
  <p class="updated_time"> 02:56 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
- <p class="updated_time"> 02:46 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/peter-defazio-retiring-house-democrat/index.html">Peter DeFazio is the latest House Democrat to announce plans not to seek reelection</a> CNN: Rep. Peter DeFazio, the chairman of the House Transportation Committee, announced Wednesday that he will not seek reelection in 2022, the latest in a long stream of House Democrats leaving Congress at the end of their terms. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Democrats’ Bill Would Go Far Toward ‘Patching the Holes’ in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Build Back Better Act Would Patch Holes in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
  <p class="updated_time"> 02:04 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">Supreme Court's conservatives lean towards limiting abortion rights after dramatic oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
  <p class="updated_time"> 02:01 PM CT, Dec. 01 </p> 
@@ -246,12 +246,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
  <p class="updated_time"> 12:48 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
- <p class="updated_time"> 12:46 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: Dem anxiety spikes as GOP digs in over shutdown countdown</a> Politico: The two parties are at odds over how long a spending patch should last, 72 hours ahead of their deadline. 
+ <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
  <p class="updated_time"> 11:33 AM CT, Dec. 01 </p> 
@@ -271,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-timeline/index.html">Here's what Trump was up to around the time of his positive Covid-19 test</a> CNN: Here is a broad-strokes timeline of then-President Donald Trump's activities around the time he first tested positive for Covid-19. According to excerpts from a forthcoming book by Trump's former chief of staff Mark Meadows as reported by The Guardian, this was three days ahead of Trump's first 2020 presidential debate with Joe Biden. 
  <p class="updated_time"> 10:33 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Wednesday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
+ <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Blinken warns Russia of 'severe consequences' if it invades Ukraine ahead of Lavrov meeting</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 10:10 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 10:04 AM CT, Dec. 01 </p> 
@@ -318,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">First on CNN: Meadows cooperating with January 6 investigators</a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 07:57 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/boebert-greene-mace.html">Republican Recriminations Point to a Rocky Path to a House Majority</a> NYT: Simmering tensions between the far-right flank and more traditional conservatives burst into the open on Tuesday, while Republican leaders stayed silent. 
- <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/cnn-suspends-chris-cuomo-523577">CNN suspends Chris Cuomo</a> Politico: The move came after documents shed new light on his involvement in defending his brother, then-Gov. Andrew Cuomo, against sexual harassment allegations. 
  <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-executive-privilege-capitol-riot.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
  <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
@@ -362,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060029279/senate-effort-to-reform-military-justice-system-now-under-threat-faces-final-hur">Senate effort to reform military justice system, now under threat, faces final hurdle</a> NPR: As Congress works to pass the annual defense policy bill, lawmakers work to ensure efforts to reform the military justice system remain. 
- <p class="updated_time"> 11:55 AM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060091466/ex-trump-chief-of-staff-mark-meadows-to-appear-before-jan-6-panel">Ex-Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Capitol attack had threatened Meadows with a criminal contempt referral because he had previously refused to cooperate. 
  <p class="updated_time"> 11:45 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/biden-veterans-laws/index.html">Biden signs slate of bills aimed at supporting veterans</a> CNN: President Joe Biden on Tuesday signed into law four bills aimed at supporting the nation's veterans, including legislation intended to combat racial disparities related to benefits as well as addressing maternal mortality among female veterans. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
@@ -376,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
+ <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">The President met with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
