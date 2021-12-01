@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Travelers to U.S. May Face Tougher Testing</a> NYT: The Biden administration is considering additional measures because of Omicron. A judge blocked a vaccine mandate for U.S. health workers. 
+ <p class="updated_time"> 09:20 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: C.D.C. to Toughen Testing for Travelers to U.S.</a> NYT: President Biden will announce plans on Thursday to fight Omicron, the latest variant. A judge blocked a vaccine mandate for U.S. health workers. 
+ <p class="updated_time"> 09:20 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
+ <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59485606?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras votes in first female president</a> BBC: Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party. 
  <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president spoke on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
- <p class="updated_time"> 06:26 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
  <p class="updated_time"> 06:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59459750?at_medium=RSS&at_campaign=KARANGA">Yemen's Marib: The city at the heart of a dirty war</a> BBC: Jeremy Bowen gets rare access to Marib, where civilians are caught behind the conflict's front line. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060025081/omicron-variant-netherlands-europe-south-africa">The omicron variant was in Europe a week before South Africa reported it</a> NPR: The rapidly spreading variant was identified in retests of samples that were taken on Nov. 19 and 23 in the Netherlands, according to a Dutch health agency. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
- <p class="updated_time"> 09:27 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59473984?at_medium=RSS&at_campaign=KARANGA">Adele announces Las Vegas residency</a> BBC: The singer will perform at Caesars Palace Hotel, with shows running from 21 January next year. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 09:07 AM CT, Nov. 30 </p> 
