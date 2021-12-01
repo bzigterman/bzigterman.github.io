@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 08:40 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
  <p class="updated_time"> 08:26 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">EU launches €300bn bid to challenge Chinese influence</a> BBC: The Global Gateway infrastructure plan is described as a true alternative to Chinese influence. 
@@ -194,7 +194,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:25 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
+ <p class="updated_time"> 08:38 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Search for Omicron in U.S. Is Expanding, Officials Say</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
+ <p class="updated_time"> 08:38 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 08:06 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/harvard-poll-young-americans/index.html">Poll: Young Americans say they're fearful about the future of the country</a> CNN: Most American adults younger than 30 are concerned about the US and its democracy, according to a survey released Wednesday by the Institute of Politics at the Harvard Kennedy School. The poll was conducted in late October and early November. 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/republican-infighting-kevin-mccarthy/index.html">GOP feud simmers despite McCarthy's warning, causing concerns over 2022 prospects</a> CNN: House Minority Leader Kevin McCarthy summoned GOP Reps. Marjorie Taylor Greene and Nancy Mace for separate meetings Tuesday night, wanting to deliver a simple message amid their bitter and public feud: "Stop it." 
  <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-executive-privilege-capitol-riot.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
- <p class="updated_time"> 06:51 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 06:12 PM CT, Nov. 30 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">A stronger China tests America's 'strategic ambiguity' on Taiwan</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
- <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Search for Omicron in U.S. Is Expanding, Officials Say</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
