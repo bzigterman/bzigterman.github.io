@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:49 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 03:59 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
- <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-micron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
@@ -205,13 +205,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html">Stacey Abrams announces she's running for governor in Georgia</a> CNN: Georgia Democrat Stacey Abrams announced on Wednesday that she is running for governor, setting up a possible rematch with Georgia GOP Gov. Brian Kemp in what could become one of the most closely watched races in the country. 
+ <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
  <p class="updated_time"> 03:44 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
  <p class="updated_time"> 03:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/stacey-abrams-georgia-governor.html">Stacey Abrams Says She’s Running for Georgia Governor</a> NYT: Ms. Abrams, a Democratic voting rights activist, will aim to unseat Gov. Brian Kemp in a rematch of their contentious 2018 race for governor. 
- <p class="updated_time"> 03:39 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html">Stacey Abrams announces she's running for governor in Georgia</a> CNN: Georgia Democrat Stacey Abrams announced on Wednesday that she is running for governor, setting up a possible rematch with Georgia GOP Gov. Brian Kemp in what could become one of the most closely watched races in the country. 
  <p class="updated_time"> 03:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/national-space-council-harris-russia/index.html">Harris condemns Russian test of anti-satellite weapon at Biden administration's first space council meeting</a> CNN: Leaders from all corners of the US government condemned Russia's recent test of an anti-satellite weapon on Wednesday at the inaugural meeting of the National Space Council under the Biden administration, calling for accelerating the development of rules and norms in space. 
  <p class="updated_time"> 03:36 PM CT, Dec. 01 </p> 
