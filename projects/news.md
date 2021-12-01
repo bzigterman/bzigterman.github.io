@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
  <p class="updated_time"> 03:53 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 03:46 AM CT, Dec. 01 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 02:26 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
- <p class="updated_time"> 02:00 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 01:22 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59486806?at_medium=RSS&at_campaign=KARANGA">Air quality: Delhi records worst November air in years</a> BBC: Residents of the Indian capital didn't breathe "good" air even for one day in November, official data says. 
  <p class="updated_time"> 11:55 PM CT, Nov. 30 </p> 
@@ -161,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 04:16 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html">Xiomara Castro Vows New Era for Honduras but Is Tied to Past</a> NYT: Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition. 
- <p class="updated_time"> 02:45 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html">Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</a> NYT: The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
- <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
 
@@ -186,6 +186,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">How one state’s thirst for justice created ‘a humanitarian crisis’ in its prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
+ <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade in historic arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1059896434/united-states-backsliding-democracy-donald-trump-january-6-capitol-attack">Democracy is declining in the U.S. but it's not all bad news, report finds</a> NPR: The United States has joined the list of countries where democracy is backsliding, according to a new report by the think tank International IDEA. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way shows that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 12:20 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
  <p class="updated_time"> 11:31 PM CT, Nov. 30 </p> 
@@ -228,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/dobbs-v-jackson-womens-health-organization-what-to-watch/index.html">What to watch for as the Supreme Court reconsiders Roe v. Wade</a> CNN: The Supreme Court hears oral arguments Wednesday in a case that could result in the repeal of Roe v. Wade, the decision legalizing abortion nationwide that's been at the center of American politics for nearly 50 years. 
  <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mueller-report-appeals-trump-523558">Appeals court orders release of more from Mueller report</a> Politico: The unanimous three-judge panel says the public is entitled to more details on decisions not to prosecute Trump campaign officials. 
- <p class="updated_time"> 05:25 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/jan-6-panel-subpoena-lawmakers-communications-523568">Jan. 6 panel hasn't subpoenaed lawmakers' communications yet — but still plans to</a> Politico: The committee sparked GOP resistance with early reports of its plans to subpoena colleagues' records. Multiple sources say it isn't backing off. 
  <p class="updated_time"> 05:24 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/pentagon-austin-vaccine-national-guard-523570">Pentagon chief says Guard who refuse vaccine cannot train</a> Politico: “Vaccination is essential to the health and readiness of the force,” Lloyd Austin wrote. 
  <p class="updated_time"> 05:19 PM CT, Nov. 30 </p> 
@@ -281,7 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
@@ -319,8 +327,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:01 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/ndaa-senate-defense-russia-pipeline-523500">Senate Democrats’ Russian pipeline headache just won’t go away</a> Politico: The chamber's goals of passing the defense bill and confirming nominees are at risk of failure over Nord Stream 2 sanctions. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump’s effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
- <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:05 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/roe-wade-stare-decisis-abortion-supreme-court/index.html">Roe v. Wade has been the law of the land for nearly 50 years. Will that matter?</a> CNN: In a biting dissent two years ago, when the Supreme Court overturned a ruling from 1979, Justice Stephen Breyer wrote that the decision "can only cause one to wonder which cases the court will overrule next." 
@@ -354,14 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059858635/reps-boebert-and-omar-spoke-after-boeberts-islamophobic-comments-it-didnt-go-wel">Reps. Boebert and Omar spoke after Boebert's Islamophobic comments. It didn't go well</a> NPR: The contentious phone call between Reps. Lauren Boebert and Ilhan Omar likely means the controversy will continue. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted">Hondurans are hopeful and skeptical as votes for president are counted</a> NPR: Hondurans went to the polls Sunday to elect a new president, but many people in the impoverished country hold little hope that democracy will solve their problems. 
- <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059861841/former-governor-who-signed-mississippi-abortion-law-weighs-in-on-supreme-court-f">Former governor who signed Mississippi abortion law weighs in on Supreme Court fight</a> NPR: NPR's Ari Shapiro talks with Phil Bryant, the former governor of Mississippi who signed a bill that bans abortions after 15 weeks. The Supreme Court will soon hear arguments over the law. 
- <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059861701/wisconsin-gop-lawmakers-want-the-state-legislature-to-take-over-federal-election">Wisconsin GOP lawmakers want the state legislature to take over federal elections</a> NPR: Republican Sen. Ron Johnson of Wisconsin is pushing state lawmakers to consider stripping the bipartisan state elections agency of its control over federal elections. 
- <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
- <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
@@ -390,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
