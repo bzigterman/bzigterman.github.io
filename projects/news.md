@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 01:33 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 01:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
  <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
- <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
  <p class="updated_time"> 12:44 PM CT, Dec. 01 </p> 
@@ -204,8 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">Republicans feud over vaccine shutdown fight</a> Politico: “I want the vaccine mandates lifted, but I don’t think the [spending bill] is the tool to do it," said GOP Sen. Kevin Cramer. 
  <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
- <p class="updated_time"> 01:08 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s vaccine-and-testing mandate for large employers has emerged as a sticking points over a stopgap spending bill. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
+ <p class="updated_time"> 01:28 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s mandate for large employers has emerged as a sticking point over a stopgap spending bill. 
  <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
  <p class="updated_time"> 12:56 PM CT, Dec. 01 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel to take up contempt referral for former DOJ official Jeffrey Clark</a> NPR: Clark, who had promised to pursue former President Donald Trump's false election fraud claims, appeared for a deposition, but the select committee said Clark failed to cooperate. 
  <p class="updated_time"> 10:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600">Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence</a> Politico: Though she didn’t name the former president, U.S. District Judge Amy Berman Jackson clearly referred to his remarks when she described the goal of those leading the Jan. 6 rally. 
- <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 10:46 AM CT, Dec. 01 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1059990238/biden-discusses-holiday-supply-chain-issues-with-business-ceos">Biden discusses holiday supply chain issues with business CEOs</a> NPR: NPR's Noel King talks with Mattel CEO Ynon Kreiz about supply chain problems and Monday's White House meeting that President Biden had with top retail executives. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
- <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">Republicans stall defense bill over amendment dispute</a> Politico: Democrats needed to muster 60 votes to advance the bill, but Republicans are digging in over Nord Stream 2 sanctions. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
