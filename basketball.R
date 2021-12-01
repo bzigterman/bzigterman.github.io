@@ -513,7 +513,8 @@ nba_standings_table <- nba_standings %>%
   gt() %>%
   gt_theme_espn() %>%
   gt_plt_winloss(outcomes, max_wins = 10,
-                 type = "pill") %>%
+                 type = "pill",
+                 width = 15) %>%
   text_transform(
     locations = cells_body(columns = logo_url),
     fn = function(x) {
