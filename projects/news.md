@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
+ <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 07:55 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Travelers to U.S. May Face Tougher Testing</a> NYT: The Biden administration is considering additional measures because of Omicron. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485945?at_medium=RSS&at_campaign=KARANGA">CNN's Chris Cuomo suspended over help to governor brother</a> BBC: The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal. 
  <p class="updated_time"> 06:56 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59480814?at_medium=RSS&at_campaign=KARANGA">Survivor: I'm haunted by deadliest Channel crossing</a> BBC: Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown. 
- <p class="updated_time"> 06:43 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59456545?at_medium=RSS&at_campaign=KARANGA">Resurgence of Pakistani Islamist group TLP sows fear</a> BBC: The release of the TLP leader and supporters could have far-reaching implications in Pakistan and beyond. 
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
@@ -36,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:05 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">Multi-billion EU bid to challenge Chinese influence</a> BBC: The "Global Gateway" plan is seen as an attempt to counter Chinese influence in Africa and beyond. 
  <p class="updated_time"> 06:03 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the "Angel of Death". 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the Angel of Death. 
  <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
  <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484382?at_medium=RSS&at_campaign=KARANGA">Emma Coronel: Wife of kingpin El Chapo sentenced to three years</a> BBC: Emma Coronel Aispuro pleaded guilty to conspiracy and drug charges in June 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
- <p class="updated_time"> 01:58 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 01:56 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
@@ -271,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">Congress fumbles for shutdown remedy ahead of Friday deadline</a> Politico: House leaders aim to pass a funding patch as early as Wednesday. But if that goal slips, the timeline will get dicey in the Senate. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: House Majority Leader Steny Hoyer argued during a closed-door meeting late Tuesday that House Democrats need to bring a funding patch to the floor on Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
@@ -323,7 +323,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson">There's a GOP push in Wisconsin to take over the state's election system</a> NPR: Some GOP lawmakers in Wisconsin want to strip the state's bipartisan elections agency of its power and give it to the Republican-controlled Legislature. The idea is backed by GOP Sen. Ron Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
