@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:07 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 03:29 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1060608432/buildup-of-russian-forces-along-ukraines-border-that-has-some-talking-of-war">Buildup of Russian forces along Ukraine's border that has some talking of war</a> NPR: The war of words between NATO and Russia over Ukraine is reaching another highpoint — with Russian troops massing at the Ukrainian border. 
+ <p class="updated_time"> 03:03 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59498779?at_medium=RSS&at_campaign=KARANGA">WTA suspends China tournaments over Peng Shuai</a> BBC: The WTA announces the immediate suspension of all tournaments in China amid concern for Chinese tennis player Peng Shuai. 
  <p class="updated_time"> 02:57 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
  <p class="updated_time"> 02:51 PM CT, Dec. 01 </p> 
@@ -147,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185901/the-u-s-has-lifted-the-terrorist-label-on-colombias-farc">The U.S. has lifted the terrorist label on Colombia's FARC</a> NPR: The U.S. State Department removed Colombia's FARC rebel group from its list of international terrorist organizations. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">A stronger China tests America's 'strategic ambiguity' on Taiwan</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
- <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060185866/what-we-know-about-the-omicron-variant">What we know about the omicron variant</a> NPR: The omicron variant of the not been found in the United States yet. Here's what's we known about it, how dangerous it's likely to be, and whether vaccines or new drugs will be effective against it. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
@@ -202,6 +204,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
+ <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1060608439/islamophobic-comments-are-the-latest-racist-rhetoric-to-come-from-fringe-lawmake">Islamophobic comments are the latest racist rhetoric to come from fringe lawmakers</a> NPR: Congresswoman Lauren Boebert, R-Colo., recently suggested Congresswoman Ilhan Omar, D-Minn., was a suicide bomber. The Islamophobic comments are the latest in a string of racist rhetoric in the House. 
+ <p class="updated_time"> 03:15 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
  <p class="updated_time"> 03:14 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/world-aids-day-biden-national-strategy/index.html">Biden will mark World AIDS Day with new national HIV/AIDS strategy</a> CNN: President Joe Biden will mark World AIDS Day on Wednesday by unveiling a new national HIV/AIDS strategy with the goal of ending the HIV epidemic by 2030, a senior administration official told CNN. 
  <p class="updated_time"> 03:12 PM CT, Dec. 01 </p> 
@@ -268,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/massachusetts-charlie-baker-reelection-523597">Massachusetts Gov. Charlie Baker won't seek reelection</a> Politico: Baker is one of the country's most popular governors, but he's also been at odds with former President Donald Trump. 
  <p class="updated_time"> 09:40 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/scott-stewart-mississippi-supreme-court.html">Who Is Scott Stewart, the Lawyer Representing Missouri in Abortion Case?</a> NYT: Mr. Stewart helped defend a Trump administration order that a 17-year-old in a federal refugee center continue her pregnancy or leave the country. The order was overruled. 
- <p class="updated_time"> 09:25 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
  <p class="updated_time"> 09:05 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
  <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
- <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1059990238/biden-discusses-holiday-supply-chain-issues-with-business-ceos">Biden discusses holiday supply chain issues with business CEOs</a> NPR: NPR's Noel King talks with Mattel CEO Ynon Kreiz about supply chain problems and Monday's White House meeting that President Biden had with top retail executives. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
