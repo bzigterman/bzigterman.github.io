@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: President Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 11:18 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/atlanta-mayor-race-andre-dickens/index.html">City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects</a> CNN: City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects, defeating City Council President Felicia Moore in a runoff election to determine who will hold the city's top post. 
  <p class="updated_time"> 11:05 PM CT, Nov. 30 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-executive-privilege-capitol-riot.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
  <p class="updated_time"> 06:51 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates are put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
- <p class="updated_time"> 06:49 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: President Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 06:12 PM CT, Nov. 30 </p> 
