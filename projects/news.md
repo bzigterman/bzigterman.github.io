@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 07:26 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police say the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 07:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485945?at_medium=RSS&at_campaign=KARANGA">CNN's Chris Cuomo suspended over help to governor brother</a> BBC: The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal. 
  <p class="updated_time"> 06:56 PM CT, Nov. 30 </p> 
