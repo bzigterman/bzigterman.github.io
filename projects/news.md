@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
  <p class="updated_time"> 06:43 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 06:36 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems have pushed up prices in the 173 cities surveyed. 
+ <p class="updated_time"> 06:17 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
+ <p class="updated_time"> 06:16 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59490699?at_medium=RSS&at_campaign=KARANGA">Nigeria boat capsize: At least 29 die in Kano state</a> BBC: The boat was carrying more than 50 people, most of whom were heading to an Islamic religious event 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/59461861?at_medium=RSS&at_campaign=KARANGA">Omicron: Do travel bans work against new Covid variants?</a> BBC: What is the evidence that travel restrictions could stop the spread of coronavirus? 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59459750?at_medium=RSS&at_campaign=KARANGA">Yemen's Marib: The city at the heart of a dirty war</a> BBC: Jeremy Bowen gets rare access to Marib, where civilians are caught behind the conflict's front line. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">The struggle to recover from NYC's flash flood</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
- <p class="updated_time"> 06:03 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the Angel of Death. 
  <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
@@ -143,10 +147,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html">Dutch Police Arrest a Couple Who Fled Quarantine and Boarded a Plane.</a> NYT: One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel. 
  <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html">UK Announces Omicron Cases and Extends Boosters to All Adults</a> NYT: The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker. 
+ <p class="updated_time"> 08:26 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html">As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</a> NYT: Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost. 
  <p class="updated_time"> 08:03 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/irans-nuclear-enrichment-could-imperil-nuclear-talks-diplomats-say-11638292190">Iran's Nuclear Enrichment Could Imperil Talks, Diplomats Say</a> WSJ: Senior European diplomats warned that if Iran were to produce weapons-grade enriched uranium, negotiations to revive nuclear talks would be seriously imperiled. 
  <p class="updated_time"> 07:18 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: The American-born entertainer and civil-rights activist was awarded one of France’s rarest honors. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/business/india-economy-gdp.html">India's Economy Still Weak, Despite a Strong  Third Quarter</a> NYT: Covid-19 essentially robbed the country of more than a year of badly needed economic growth. That’s lost ground that cannot be regained quickly. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
@@ -171,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
+ <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -184,14 +194,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:17 AM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Thursday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/joe-biden-young-voter-problem-523588">Biden's young voter problem</a> Politico: Polls show the president’s approval rating has fallen sharply among a key component of the Democratic base: younger voters. 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/marietje-schaake-sillicon-valley-regulation-523567">Marietje Schaake calls bulls--- on Silicon Valley’s self-regulation mantra</a> Politico: Self-regulation and big fines have failed. It’s time for principled laws and empowered regulators, says the Stanford educator training Silicon Valley’s next generation. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/01/scoop-conservatives-plot-government-shutdown-over-vaccine-mandate-495273">POLITICO Playbook: Scoop: Conservatives plot government shutdown over vaccine mandate</a> Politico: And CNN suspends Chris Cuomo indefinitely. 
- <p class="updated_time"> 05:17 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Thursday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 05:02 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">House could vote on stopgap funding bill to avert shutdown Wednesday</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
@@ -396,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
- <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/24/thankful-for-data-on-pay-and-diversity-in-the-house-495219">Thankful for data on pay and diversity in the House</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
