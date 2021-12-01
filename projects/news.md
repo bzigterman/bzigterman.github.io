@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
+ <p class="updated_time"> 02:35 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 02:26 AM CT, Dec. 01 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060177252/united-nations-global-tourism-2021-covid-pandemic">The U.N. predicts that 2021 global tourism losses will barely improve over last year</a> NPR: The recent emergence of the highly transmissible omicron variant presents another potential hurdle as the tourism industry prepares for the upcoming winter holiday season. 
  <p class="updated_time"> 04:39 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060175635/greece-covid-vaccine-mandate">Greece will mandate the COVID-19 vaccine for anyone over 60, or make them pay fines</a> NPR: Anyone who refuses to get vaccinated will face monthly fines of 100 euros, or roughly $114. The monthly fine is substantial for retirees — the average pension is 730 euros a month. 
- <p class="updated_time"> 04:33 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 04:31 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 04:13 PM CT, Nov. 30 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
- <p class="updated_time"> 12:14 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059776777/josephine-baker-france-pantheon">Josephine Baker is the first Black woman to be inducted into France's Pantheon</a> NPR: The trailblazing U.S.-born star and civil rights activist was given France's highest honor on Tuesday when she was inducted into the Pantheon. She first achieved fame in Paris in the 1920s. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
