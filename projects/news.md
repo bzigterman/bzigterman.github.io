@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:42 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 05:52 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: California Reports First Omicron Case in U.S.</a> NYT: The person arrived on a plane from South Africa, where the new variant now accounts for a majority of new cases. Nearly two dozen countries have now detected cases of Omicron. 
+ <p class="updated_time"> 05:51 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
+ <p class="updated_time"> 05:46 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 05:28 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-vaccines.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
  <p class="updated_time"> 03:32 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060618440/northern-ireland-collective-wins-the-prestigious-turner-prize-for-art">Northern Ireland collective wins the prestigious Turner Prize for art</a> NPR: A collective from Belfast won the U.K. prize for art. Prize organizers said the work tackles "urgent social and political issues affecting Northern Ireland with humor, seriousness and beauty." 
- <p class="updated_time"> 03:25 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608432/buildup-of-russian-forces-along-ukraines-border-that-has-some-talking-of-war">Buildup of Russian forces along Ukraine's border that has some talking of war</a> NPR: The war of words between NATO and Russia over Ukraine is reaching another highpoint — with Russian troops massing at the Ukrainian border. 
  <p class="updated_time"> 02:57 PM CT, Dec. 01 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
- <p class="updated_time"> 06:49 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/india-economy-gdp.html">India's Economy Still Weak, Despite a Strong  Third Quarter</a> NYT: Covid-19 essentially robbed the country of more than a year of badly needed economic growth. That’s lost ground that cannot be regained quickly. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:47 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/david-mccormick-pennsylvania-senate-bid-523623">Hedge fund CEO readies Senate bid despite Oz announcement</a> Politico: David McCormick is expected to join the Pennsylvania GOP primary in the next few weeks. 
+ <p class="updated_time"> 05:44 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060608439/islamophobic-comments-are-the-latest-racist-rhetoric-to-come-from-fringe-lawmake">Islamophobic comments are the latest racist rhetoric to come from fringe lawmakers</a> NPR: Congresswoman Lauren Boebert, R-Colo., recently suggested Congresswoman Ilhan Omar, D-Minn., was a suicide bomber. The Islamophobic comments are the latest in a string of racist rhetoric in the House. 
  <p class="updated_time"> 03:14 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/world-aids-day-biden-national-strategy/index.html">Biden marks World AIDS Day with new national HIV/AIDS strategy</a> CNN: President Joe Biden will mark World AIDS Day on Wednesday by unveiling a new national HIV/AIDS strategy with the goal of ending the HIV epidemic by 2030, a senior administration official told CNN. 
- <p class="updated_time"> 02:56 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
