@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:55 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
  <p class="updated_time"> 11:16 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. to Tighten Testing for Travelers Amid Omicron Worries</a> NYT: The U.S. will require air travelers to provide a negative test within 24 hours of their departure. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
- <p class="updated_time"> 08:19 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html">Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</a> NYT: A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
  <p class="updated_time"> 06:23 PM CT, Nov. 29 </p> 
