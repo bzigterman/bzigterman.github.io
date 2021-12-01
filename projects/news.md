@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
- <p class="updated_time"> 01:31 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/01/1055803031/the-mystery-of-where-omicron-came-from-and-why-it-matters">The mystery of where omicron came from — and why it matters</a> NPR: How did this new strain of the novel coronavirus evolve? Researchers are investigating various possibilities. One leading theory involves ... just one person. 
+ <p class="updated_time"> 01:40 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
+ <p class="updated_time"> 01:34 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 01:32 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears landmark abortion case</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 12:32 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59498082?at_medium=RSS&at_campaign=KARANGA">Austria: Doctor fined for amputating wrong leg of patient</a> BBC: The patient's right leg was removed instead of his left, with the mistake discovered two days later. 
- <p class="updated_time"> 12:27 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears landmark abortion case</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 12:25 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/germanys-incoming-chancellor-wants-vaccinations-to-be-mandatory.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
+ <p class="updated_time"> 08:46 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches More Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms. 
  <p class="updated_time"> 08:26 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">EU launches €300bn bid to challenge Chinese influence</a> BBC: The Global Gateway infrastructure plan is described as a true alternative to Chinese influence. 
  <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59487910?at_medium=RSS&at_campaign=KARANGA">Munich WW2 bomb blows up near station, wounding four</a> BBC: The "aerial bomb" blows up on a railway construction site close to the main station. 
  <p class="updated_time"> 08:09 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems push up prices in the 173 cities surveyed. 
- <p class="updated_time"> 08:02 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches 23 Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms.. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
  <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
- <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1059776777/josephine-baker-france-pantheon">Josephine Baker is the first Black woman to be inducted into France's Pantheon</a> NPR: The trailblazing U.S.-born star and civil rights activist was given France's highest honor on Tuesday when she was inducted into the Pantheon. She first achieved fame in Paris in the 1920s. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">Supreme Court's conservatives lean towards limiting abortion rights after dramatic oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
+ <p class="updated_time"> 01:57 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/biden-supply-chain-holiday/index.html">Biden says 'shelves are going to be stocked' for the holiday season</a> CNN: President Joe Biden on Wednesday sought to reassure Americans that shelves will be stocked this holiday season despite issues with global supply chains, 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">Omicron variant detected in California</a> Politico: The Centers for Disease Control and Prevention is working with health authorities in California to track the variant’s spread. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
@@ -222,10 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
- <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/biden-supply-chain-holiday/index.html">Biden says 'shelves are going to be stocked' for the holiday season</a> CNN: President Joe Biden on Wednesday sought to reassure Americans that shelves will be stocked this holiday season despite issues with global supply chains, 
- <p class="updated_time"> 11:56 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">Supreme Court's conservatives lean towards limiting abortion rights after dramatic oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: Dem anxiety spikes as GOP digs in over shutdown countdown</a> Politico: The two parties are at odds over how long a spending patch should last, 72 hours ahead of their deadline. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
@@ -293,11 +293,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Build Back Better Act Would Patch Holes in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Democrats’ Bill Would Go Far Toward ‘Patching the Holes’ in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059896434/united-states-backsliding-democracy-donald-trump-january-6-capitol-attack">Democracy is declining in the U.S. but it's not all bad news, a report finds</a> NPR: The United States has joined the list of countries where democracy is backsliding, according to a new report by the think tank International IDEA. 
- <p class="updated_time"> 11:31 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: President Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 11:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/andre-dickens-atlanta-mayor-523589">Council member Andre Dickens elected mayor of Atlanta</a> Politico: He won a campaign dominated by concern over rising violent crime in the city. 
  <p class="updated_time"> 11:02 PM CT, Nov. 30 </p> 
