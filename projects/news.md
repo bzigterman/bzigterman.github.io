@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 09:33 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 09:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59490786?at_medium=RSS&at_campaign=KARANGA">WHO: ‘Omicron is a variant of concern, not panic’</a> BBC: The world needs to be alert but not overreact, the World Health Organization’s spokesperson says. 
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
@@ -43,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
+ <p class="updated_time"> 04:29 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">In the Fight Against Omicron, Scientists See Glimmers of Hope</a> WSJ: Faint signs of hope emerged that a key weapon in the fight against the Covid-19 pandemic would still be effective against the new variant, as scientists and health authorities piece together fragmented evidence about it. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
@@ -65,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59486806?at_medium=RSS&at_campaign=KARANGA">Air quality: Delhi records worst November air in years</a> BBC: Residents of the Indian capital didn't breathe "good" air even for one day in November, official data says. 
  <p class="updated_time"> 12:07 AM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/global-inflation-set-to-be-higher-for-longer-says-oecd-11638356853">Global Inflation Set to Be Higher for Longer, Says OECD</a> WSJ: The pickup in inflation rates around the world will be longer-lasting and sharper than previously anticipated, with a growing risk that households and businesses grow accustomed to faster price rises, the research group said in its latest forecasts. 
- <p class="updated_time"> 11:26 PM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Australia Investigates Whether Omicron Variant Spread on Flight</a> WSJ: Solving that puzzle would go some way to understanding how contagious the strain is compared with others. 
  <p class="updated_time"> 09:14 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59486285?at_medium=RSS&at_campaign=KARANGA">Howard Springs: Australia police arrest quarantine escapees</a> BBC: The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night. 
  <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
@@ -85,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59456545?at_medium=RSS&at_campaign=KARANGA">Pakistan: Islamists against Muhammad cartoons stage comeback</a> BBC: The release of the TLP leader and supporters could have far-reaching implications in Pakistan and beyond. 
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473070?at_medium=RSS&at_campaign=KARANGA">How Magdalena Andersson became Sweden's first female PM twice</a> BBC: Magdalena Andersson's rise to power has been high political drama, but the finale may be yet to come. 
+ <p class="updated_time"> 06:37 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/59431598?at_medium=RSS&at_campaign=KARANGA">HIV: The misinformation still circulating in 2021</a> BBC: Huge progress has been made in treatment, prevention and understanding of HIV - but falsehoods still hurt people living with it. 
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:21 PM CT, Nov. 30 </p> 
@@ -165,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Up for Auction Shows Her Support for Inoculations</a> NYT: In a letter to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
- <p class="updated_time"> 01:35 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59473586?at_medium=RSS&at_campaign=KARANGA">Barbados: Rihanna made national hero as island becomes republic</a> BBC: The artist and businesswoman is honoured at an event marking the nation's status as a republic. 
  <p class="updated_time"> 09:48 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
@@ -196,9 +200,11 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/massachusetts-charlie-baker-reelection-523597">Massachusetts Gov. Charlie Baker won't seek reelection</a> Politico: Baker is one of the country's most popular governors, but he's also been at odds with former President Donald Trump. 
- <p class="updated_time"> 09:10 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 09:34 AM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Sobbing Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
+ <p class="updated_time"> 09:25 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
- <p class="updated_time"> 09:06 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 09:21 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 09:05 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
@@ -206,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">SCOTUS hears oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
  <p class="updated_time"> 08:57 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Wednesday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
- <p class="updated_time"> 08:52 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Sobbing Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
  <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 08:38 AM CT, Dec. 01 </p> 
@@ -216,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/harvard-poll-young-americans/index.html">Poll: Young Americans say they're fearful about the future of the country</a> CNN: Most American adults younger than 30 are concerned about the US and its democracy, according to a survey released Wednesday by the Institute of Politics at the Harvard Kennedy School. The poll was conducted in late October and early November. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/joe-biden-young-voter-problem-523588">Biden's young voter problem</a> Politico: Polls show the president’s approval rating has fallen sharply among a key component of the Democratic base: younger voters. 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/marietje-schaake-sillicon-valley-regulation-523567">Marietje Schaake calls bulls--- on Silicon Valley’s self-regulation mantra</a> Politico: Self-regulation and big fines have failed. It’s time for principled laws and empowered regulators, says the Stanford educator training Silicon Valley’s next generation. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
@@ -235,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
  <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Listen live: Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
+ <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
@@ -278,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/politics/latinos-republicans-conservative-vote-gop.html">How Much Are Latinos Shifting Right?</a> NYT: So far, the data remains mixed. And the defection of Ryan Guillen, a Texas state lawmaker, to the G.O.P. may not have been driven solely by ideology. 
  <p class="updated_time"> 05:18 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/pfizer-boosters-16-17.html">Pfizer Asks F.D.A. to Authorize Boosters for 16- and 17-Year-Olds</a> NYT: The request accelerates efforts to expand who is eligible for booster shots, as officials try to head off another wave of coronavirus cases. 
- <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/trump-allies-launch-maga-publishing-house-523564">Trump allies launch publishing house with an eye on upending the book industry</a> Politico: The former president is trying to circumvent the Big Five, having not inked a deal for a memoir. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisers narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
  <p class="updated_time"> 04:57 PM CT, Nov. 30 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/philip-heymann-dead.html">Philip B. Heymann, 89, Dies; Prosecuted Watergate and Abscam</a> NYT: He served four presidents over six decades, mostly in the Justice Department and often as a key part of major investigations. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
- <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">Biden will lay down new travel restrictions as Omicron threatens</a> Politico: A tightened testing window will be part of the administration’s attempt to curb the spread of the virus ahead of another  holiday travel period. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -334,10 +336,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
+ <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
@@ -345,9 +351,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson">There's a GOP push in Wisconsin to take over the state's election system</a> NPR: Some GOP lawmakers in Wisconsin want to strip the state's bipartisan elections agency of its power and give it to the Republican-controlled Legislature. The idea is backed by GOP Sen. Ron Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
- <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
