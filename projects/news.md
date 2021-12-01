@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 04:46 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: California Reports First Omicron Case in U.S.</a> NYT: The person arrived on a plane from South Africa, where the new variant now accounts for a majority of new cases. Nearly two dozen countries have now detected cases of Omicron. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/virus-variant-travel-boosters.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
+ <a href="https://www.nytimes.com/2021/12/01/world/covid-travel-boosters-omicron.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
  <p class="updated_time"> 04:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
+ <p class="updated_time"> 04:43 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 04:26 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/marty-walsh-massachusetts-governor-523620">Marty Walsh is weighing a run for Massachusetts governor</a> Politico: Allies are telling Democrats in the state that the labor secretary is considering returning home to mount a bid. 
  <p class="updated_time"> 04:19 PM CT, Dec. 01 </p> 
@@ -246,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Senate Republicans Threaten Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s mandate for large employers has emerged as a sticking point over a stopgap spending bill. 
  <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
- <p class="updated_time"> 12:48 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
