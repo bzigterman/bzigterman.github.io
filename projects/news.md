@@ -182,6 +182,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
  <p class="updated_time"> 12:20 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
  <p class="updated_time"> 11:31 PM CT, Nov. 30 </p> 
