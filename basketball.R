@@ -58,7 +58,7 @@ get_team_records <- function(abbreviation) {
                             sep = "")) %>%
     mutate(
       outcomes = list(
-        tail(na.omit(win),20)
+        tail(na.omit(win),10)
       )
     )
 }
@@ -512,7 +512,7 @@ nba_standings_table <- nba_standings %>%
   arrange(conference,desc(win_pct)) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_plt_winloss(outcomes, max_wins = 20,
+  gt_plt_winloss(outcomes, max_wins = 10,
                  type = "pill") %>%
   text_transform(
     locations = cells_body(columns = logo_url),
@@ -537,7 +537,7 @@ nba_standings_table <- nba_standings %>%
     wins = "W",
     losses = "L",
     win_pct_text = "Pct",
-    outcomes = html("Last 20<br>Games")
+    outcomes = html("Last 10 Games")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   tab_options(
