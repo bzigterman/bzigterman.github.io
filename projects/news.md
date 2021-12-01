@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
  <p class="updated_time"> 05:48 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: A judge blocked a vaccine mandate for U.S. health workers. The new Omicron variant was already in Europe a week before the W.H.O. called it a variant of concern. 
  <p class="updated_time"> 05:46 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
- <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
  <p class="updated_time"> 05:28 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
  <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/trump-allies-launch-maga-publishing-house-523564">Trump allies launch publishing house with an eye on upending the book industry</a> Politico: The former president is trying to circumvent the Big Five, having not inked a deal for a memoir. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisors narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
+ <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisers narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
  <p class="updated_time"> 04:57 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
