@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:53 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 05:16 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: California Reports First Omicron Case in U.S.</a> NYT: The person arrived on a plane from South Africa, where the new variant now accounts for a majority of new cases. Nearly two dozen countries have now detected cases of Omicron. 
+ <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">‘So Many Dimensions’: A Drought Study Underlines the Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
+ <p class="updated_time"> 05:00 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/newsom-california-omicron-variant.html">California Officials Say They're Prepared for Omicron Variant</a> NYT: The first case of the variant detected in the United States was in a San Francisco resident who traveled back from South Africa. 
  <p class="updated_time"> 04:52 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
- <p class="updated_time"> 04:51 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/newsom-california-omicron-variant.html">California Officials Say They're Prepared for Omicron Variant</a> NYT: The first case of the variant detected in the United States was in a San Francisco resident who traveled back from South Africa. 
  <p class="updated_time"> 04:49 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: The 15-year-old killed four students in an "absolutely premeditated" attack, say prosecutors. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59471636?at_medium=RSS&at_campaign=KARANGA">Jack Dorsey: What's next for Twitter's co-founder?</a> BBC: The last time the tech visionary left Twitter, he set up another company now worth $100bn. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
- <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/david-mccormick-pennsylvania-senate-bid-523623">Hedge fund CEO readies Senate bid despite Oz announcement</a> Politico: David McCormick is expected to join the Pennsylvania GOP primary in the next few weeks. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
+ <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/peter-defazio-retire.html">Peter DeFazio, House Transportation Committee Chairman, Will Retire</a> NYT: The Oregon Democrat, who has served for nearly 35 years, is the third House committee leader to announce his retirement this year, as the party braces for a grueling midterm election. 
  <p class="updated_time"> 04:43 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 04:26 PM CT, Dec. 01 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden sells infrastructure law in Minnesota</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
  <p class="updated_time"> 04:35 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/sba-eidl-pandemic-relief.html">S.B.A. Gave $3.7 Billion in Improper Relief Payments, Auditor Finds</a> NYT: The Small Business Administration skipped a basic fraud check and sent billions to recipients barred from receiving federal funds, the agency’s inspector general reported. 
- <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen Still Supports Making Banks Give the I.R.S. New Customer Data</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
