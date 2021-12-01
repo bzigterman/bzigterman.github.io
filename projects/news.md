@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Travelers to U.S. May Face Tougher Testing</a> NYT: The Biden administration is considering additional measures because of Omicron. A judge blocked a vaccine mandate for U.S. health workers. 
+ <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
- <p class="updated_time"> 07:55 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Travelers to U.S. May Face Tougher Testing</a> NYT: The Biden administration is considering additional measures because of Omicron. A judge blocked a vaccine mandate for U.S. health workers. 
- <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 07:26 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
  <p class="updated_time"> 07:00 PM CT, Nov. 30 </p> 
@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473070?at_medium=RSS&at_campaign=KARANGA">How Magdalena Andersson became Sweden's first female PM twice</a> BBC: Magdalena Andersson's rise to power has been high political drama, but the finale may be yet to come. 
  <p class="updated_time"> 06:37 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president spoke on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:26 PM CT, Nov. 30 </p> 
@@ -186,6 +186,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:07 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
+ <p class="updated_time"> 09:06 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/blumenthal-evacuation-czar-letter-afghanistan/index.html">Democratic senator calls on Biden to appoint Afghanistan 'evacuation czar'</a> CNN: Democratic Sen. Richard Blumenthal called on President Joe Biden to appoint an "evacuation czar" to lead efforts to bring thousands of at-risk Afghans to safety amid reports of targeted assassinations by the Taliban and the humanitarian crisis unfolding in Afghanistan. 
  <p class="updated_time"> 08:06 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html">First on CNN: Meadows cooperating with January 6 investigators</a> CNN: Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN exclusively has learned. 
  <p class="updated_time"> 07:57 PM CT, Nov. 30 </p> 
@@ -196,12 +200,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/jeffrey-clark-contempt-report-january-6-committee/index.html">January 6 committee uses recent deposition to justify plan to refer former top Trump DOJ official for criminal contempt </a> CNN: The House select committee investigating the January 6 attack on the US Capitol is using Jeffrey Clark's refusal to answer questions during a recent deposition and failure to hand over subpoenaed documents to the panel to justify its plan to refer the former top Department of Justice official for criminal contempt of Congress. 
  <p class="updated_time"> 07:46 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/brad-raffensperger-january-6-committee/index.html">Georgia secretary of state spoke with January 6 committee about election lies</a> CNN: Georgia Secretary of State Brad Raffensperger spoke with the House select committee investigating the January 6 Capitol Hill riot for roughly four hours on Tuesday, according to his office and an aide working for the House panel. 
- <p class="updated_time"> 07:32 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 07:29 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/republican-infighting-kevin-mccarthy/index.html">GOP feud simmers despite McCarthy's warning, causing concerns over 2022 prospects</a> CNN: House Minority Leader Kevin McCarthy summoned GOP Reps. Marjorie Taylor Greene and Nancy Mace for separate meetings Tuesday night, wanting to deliver a simple message amid their bitter and public feud: "Stop it." 
- <p class="updated_time"> 07:24 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/blumenthal-evacuation-czar-letter-afghanistan/index.html">Democratic senator calls on Biden to appoint Afghanistan 'evacuation czar'</a> CNN: Democratic Sen. Richard Blumenthal called on President Joe Biden to appoint an "evacuation czar" to lead efforts to bring thousands of at-risk Afghans to safety amid reports of targeted assassinations by the Taliban and the humanitarian crisis unfolding in Afghanistan. 
  <p class="updated_time"> 07:14 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-comments/index.html">Analysis: Lauren Boebert isn't sorry</a> CNN: On Monday, Colorado Rep. Lauren Boebert (R) called Minnesota Rep. Ilhan Omar (D) to, ostensibly, apologize for suggesting that simply because Omar is a Muslim, she is a potential terrorist. 
  <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
@@ -223,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:24 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/pentagon-austin-vaccine-national-guard-523570">Pentagon chief says Guard who refuse vaccine cannot train</a> Politico: “Vaccination is essential to the health and readiness of the force,” Lloyd Austin wrote. 
  <p class="updated_time"> 05:19 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/latinos-republicans.html">How Much Are Latinos Shifting Right?</a> NYT: So far, the data remains mixed. And the defection of Ryan Guillen, a Texas state lawmaker, to the G.O.P. may not have been driven solely by ideology. 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/latinos-republicans-conservative-vote-gop.html">How Much Are Latinos Shifting Right?</a> NYT: So far, the data remains mixed. And the defection of Ryan Guillen, a Texas state lawmaker, to the G.O.P. may not have been driven solely by ideology. 
  <p class="updated_time"> 05:18 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/pfizer-boosters-16-17.html">Pfizer Asks F.D.A. to Authorize Boosters for 16- and 17-Year-Olds</a> NYT: The request accelerates efforts to expand who is eligible for booster shots, as officials try to head off another wave of coronavirus cases. 
  <p class="updated_time"> 05:10 PM CT, Nov. 30 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">U.S. planning more travel restrictions, with Omicron threatening</a> Politico: A tightened testing window may be part of the Biden administration's attempt to curb the spread of the virus ahead of another busy holiday travel period. 
+ <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">Biden will lay down new travel restrictions as Omicron threatens</a> Politico: A tightened testing window will be part of the Biden administration's attempt to curb the spread of the virus ahead of another busy holiday travel period. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -271,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: House Majority Leader Steny Hoyer argued during a closed-door meeting late Tuesday that House Democrats need to bring a funding patch to the floor on Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that House Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
