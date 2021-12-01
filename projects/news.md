@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron-october.html">Nigeria Finds Omicron Variant Covid Case From October</a> NYT: The sample, found in retrospective sequencing of previously confirmed cases, was collected weeks before the variant was first reported by researchers in southern Africa. 
  <p class="updated_time"> 05:05 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
- <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 11:29 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
@@ -184,10 +184,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/01/scoop-conservatives-plot-government-shutdown-over-vaccine-mandate-495273">POLITICO Playbook: Scoop: Conservatives plot government shutdown over vaccine mandate</a> Politico: And CNN suspends Chris Cuomo indefinitely. 
+ <p class="updated_time"> 05:17 AM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Wednesday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 05:02 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">House could vote on stopgap funding bill to avert shutdown Wednesday</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
- <p class="updated_time"> 04:52 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Secretary of State Antony Blinken to meet with Russian foreign minister Wednesday</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
@@ -217,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:02 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/abortion-rights-cases-supreme-court-explainer/index.html">Roe and Casey: The two abortion precedents the Supreme Court may overturn </a> CNN: When the Supreme Court hears a constitutional challenge on Wednesday to a Mississippi ban on abortion after 15 weeks of pregnancy, the justices will start with the two seminal decisions that secured the abortion right for women. 
  <p class="updated_time"> 11:01 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble demonstrates the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
+ <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 10:01 PM CT, Nov. 30 </p> 
@@ -231,15 +231,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/cnn-suspends-chris-cuomo-523577">CNN suspends Chris Cuomo</a> Politico: The move came after documents shed new light on his involvement in defending his brother, then-Gov. Andrew Cuomo, against sexual harassment allegations. 
  <p class="updated_time"> 07:46 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/jeffrey-clark-contempt-report-january-6-committee/index.html">January 6 committee uses recent deposition to justify plan to refer former top Trump DOJ official for criminal contempt </a> CNN: The House select committee investigating the January 6 attack on the US Capitol is using Jeffrey Clark's refusal to answer questions during a recent deposition and failure to hand over subpoenaed documents to the panel to justify its plan to refer the former top Department of Justice official for criminal contempt of Congress. 
- <p class="updated_time"> 07:46 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/brad-raffensperger-january-6-committee/index.html">Georgia secretary of state spoke with January 6 committee about election lies</a> CNN: Georgia Secretary of State Brad Raffensperger spoke with the House select committee investigating the January 6 Capitol Hill riot for roughly four hours on Tuesday, according to his office and an aide working for the House panel. 
  <p class="updated_time"> 07:29 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/republican-infighting-kevin-mccarthy/index.html">GOP feud simmers despite McCarthy's warning, causing concerns over 2022 prospects</a> CNN: House Minority Leader Kevin McCarthy summoned GOP Reps. Marjorie Taylor Greene and Nancy Mace for separate meetings Tuesday night, wanting to deliver a simple message amid their bitter and public feud: "Stop it." 
  <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-executive-privilege-capitol-riot.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
  <p class="updated_time"> 06:51 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates are put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
+ <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
  <p class="updated_time"> 06:12 PM CT, Nov. 30 </p> 
@@ -290,12 +288,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:51 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Search for Omicron in U.S. Is Expanding, Officials Say</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
+ <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
+ <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/el-chapo-wife-emma-coronel-aispuro-sentenced.html">El Chapo’s Wife Sentenced to 3 Years in Prison</a> NYT: Emma Coronel Aispuro pleaded guilty in June to helping her husband, Joaquin Guzmán Loera, smuggle drugs into the United States and escape from prison. 
  <p class="updated_time"> 01:09 PM CT, Nov. 30 </p> 
