@@ -7,12 +7,34 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 07:12 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Travelers to U.S. May Face Tougher Coronavirus Testing</a> NYT: A judge blocked a vaccine mandate for U.S. health workers. Merck’s Covid pill recommended for high-risk adults by F.D.A. panel. 
+ <p class="updated_time"> 06:56 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59480814?at_medium=RSS&at_campaign=KARANGA">Survivor: I'm haunted by deadliest Channel crossing</a> BBC: Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown. 
+ <p class="updated_time"> 06:43 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
+ <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59456545?at_medium=RSS&at_campaign=KARANGA">Resurgence of Pakistani Islamist group TLP sows fear</a> BBC: The release of the TLP leader and supporters could have far-reaching implications in Pakistan and beyond. 
+ <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59473070?at_medium=RSS&at_campaign=KARANGA">How Magdalena Andersson became Sweden's first female PM twice</a> BBC: Magdalena Andersson's rise to power has been high political drama, but the finale may be yet to come. 
+ <p class="updated_time"> 06:37 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
+ <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
+ <p class="updated_time"> 06:26 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.” 
- <p class="updated_time"> 05:48 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: Merck’s Covid Pill Recommended for High-Risk Adults by F.D.A. Panel</a> NYT: A judge blocked a vaccine mandate for U.S. health workers. The new Omicron variant was already in Europe a week before the W.H.O. called it a variant of concern. 
- <p class="updated_time"> 05:46 PM CT, Nov. 30 </p> 
+ <p class="updated_time"> 06:21 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59459750?at_medium=RSS&at_campaign=KARANGA">Yemen's Marib: The city at the heart of a dirty war</a> BBC: Jeremy Bowen gets rare access to Marib, where civilians are caught behind the conflict's front line. 
+ <p class="updated_time"> 06:09 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">Victims of a historic flood in New York City reflect on the wreckage</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">Multi-billion EU bid to challenge Chinese influence</a> BBC: The "Global Gateway" plan is seen as an attempt to counter Chinese influence in Africa and beyond. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the "Angel of Death". 
+ <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
  <p class="updated_time"> 05:28 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
  <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
@@ -61,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
  <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
- <p class="updated_time"> 12:27 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president speaks on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 12:14 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
@@ -79,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:19 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59474808?at_medium=RSS&at_campaign=KARANGA">Covid: Greece to fine over-60s who refuse Covid-19 vaccine</a> BBC: Fines of €100 (£85) will be imposed from mid-January, with the money going towards healthcare. 
- <p class="updated_time"> 11:17 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59482050?at_medium=RSS&at_campaign=KARANGA">Lesotho ex-PM Thomas Thabane charged with murdering wife</a> BBC: Thomas Thabane denies organising the killing of his estranged wife. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060080946/barbados-breaks-with-the-queen-and-becomes-the-worlds-newest-republic">Barbados breaks with the queen and becomes the world's newest republic</a> NPR: With cheers and fireworks, the island nation became a parliamentary republic, swore in its first president and declared Barbadian-born Rihanna a national hero. 
  <p class="updated_time"> 11:04 AM CT, Nov. 30 </p> 
@@ -91,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
  <p class="updated_time"> 10:45 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060025081/omicron-variant-netherlands-europe-south-africa">The omicron variant was in Europe a week before South Africa reported it</a> NPR: The rapidly spreading variant was identified in retests of samples that were taken on Nov. 19 and 23 in the Netherlands, according to a Dutch health agency. 
- <p class="updated_time"> 09:56 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
  <p class="updated_time"> 09:27 AM CT, Nov. 30 </p> 
@@ -117,14 +133,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/irans-nuclear-enrichment-could-imperil-nuclear-talks-diplomats-say-11638292190">Iran's Nuclear Enrichment Could Imperil Talks, Diplomats Say</a> WSJ: Senior European diplomats warned that if Iran were to produce weapons-grade enriched uranium, negotiations to revive nuclear talks would be seriously imperiled. 
  <p class="updated_time"> 07:18 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: The American-born entertainer and civil-rights activist was awarded one of France’s rarest honors. 
- <p class="updated_time"> 06:48 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59474616?at_medium=RSS&at_campaign=KARANGA">Yazidi genocide: IS member found guilty in German landmark trial</a> BBC: Taha al-Jumailly is jailed by a German court for crimes including the murder of a young Yazidi girl. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 06:38 AM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59477186?at_medium=RSS&at_campaign=KARANGA">Man rescued after 22 hours adrift off Japan coast</a> BBC: Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters. 
- <p class="updated_time"> 04:58 AM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59474807?at_medium=RSS&at_campaign=KARANGA">France issues arrest warrant over Japan 'parental kidnap'</a> BBC: Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018. 
  <p class="updated_time"> 04:43 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709">Leaked Documents Detail Xi Jinping's Extensive Role in Xinjiang Crackdown</a> WSJ: Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
@@ -143,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
  <p class="updated_time"> 06:10 PM CT, Nov. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59464760?at_medium=RSS&at_campaign=KARANGA">Yemen: The children haunted by 'ghosts' of war</a> BBC: BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen. 
- <p class="updated_time"> 06:05 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59468682?at_medium=RSS&at_campaign=KARANGA">Why France is declaring Josephine Baker a national hero</a> BBC: Josephine Baker is the first black woman to be remembered in the resting place of France’s national heroes. 
  <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
@@ -163,26 +173,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
- <p class="updated_time"> 09:58 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59441379?at_medium=RSS&at_campaign=KARANGA">China surveillance of journalists to use 'traffic-light' system</a> BBC: Documents detail how one province is making a facial-recognition system to spot "people of concern". 
- <p class="updated_time"> 09:04 AM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59457607?at_medium=RSS&at_campaign=KARANGA">China: Moment North Korean inmate breaks out of prison</a> BBC: Zhu Xianjian was seen vaulting over an electric fence metres above the ground. 
  <p class="updated_time"> 08:26 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html">She Fled North Korea for Freedom. Then She Was Arrested.</a> NYT: The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html">A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</a> NYT: The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre. 
  <p class="updated_time"> 04:53 AM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html">Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</a> NYT: Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners. 
- <p class="updated_time"> 07:08 PM CT, Nov. 28 </p> 
- <a href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html">As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</a> NYT: A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing. 
- <p class="updated_time"> 06:16 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59436588?at_medium=RSS&at_campaign=KARANGA">Joseph Kabila and DR Congo's missing millions</a> BBC: Millions of dollars of public funds went through bank accounts of ex-President Joseph Kabila's allies, BBC Africa Eye reveals. 
- <p class="updated_time"> 06:04 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59438026?at_medium=RSS&at_campaign=KARANGA">Venezuelan migrants seeking a new home in Chile</a> BBC: Tens of thousands of Venezuelans escaping poverty and violence at home are risking their lives to travel south to Chile. 
- <p class="updated_time"> 06:02 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59320090?at_medium=RSS&at_campaign=KARANGA">Gay and Muslim: Family wanted to 'make me better'</a> BBC: Asad struggled with his mental health and suicidal thoughts when he came out to his religious family. 
- <p class="updated_time"> 04:43 PM CT, Nov. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59435615?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: What key players want from talks</a> BBC: The competing ambitions of the countries involved make success a long shot, writes Jonathan Marcus. 
 
 
 </details>
@@ -190,6 +186,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/cnn-suspends-chris-cuomo-523577">CNN suspends Chris Cuomo</a> Politico: The move came after documents shed new light on his involvement in defending his brother, then-Gov. Andrew Cuomo, against sexual harassment allegations. 
+ <p class="updated_time"> 07:14 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-comments/index.html">Analysis: Lauren Boebert isn't sorry</a> CNN: On Monday, Colorado Rep. Lauren Boebert (R) called Minnesota Rep. Ilhan Omar (D) to, ostensibly, apologize for suggesting that simply because Omar is a Muslim, she is a potential terrorist. 
+ <p class="updated_time"> 07:09 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-biden-executive-privilege-capitol.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
+ <p class="updated_time"> 06:51 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates are put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
+ <p class="updated_time"> 06:49 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: President Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
+ <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/boebert-greene-mace.html">Republican Recriminations Point to a Rocky Path to a House Majority</a> NYT: Simmering tensions between the far-right flank and more traditional conservatives burst into the open on Tuesday, while Republican leaders stayed silent. 
+ <p class="updated_time"> 05:45 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/dobbs-v-jackson-womens-health-organization-what-to-watch/index.html">What to watch for as the Supreme Court reconsiders Roe v. Wade</a> CNN: The Supreme Court hears oral arguments Wednesday in a case that could result in the repeal of Roe v. Wade, the decision legalizing abortion nationwide that's been at the center of American politics for nearly 50 years. 
  <p class="updated_time"> 05:30 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mueller-report-appeals-trump-523558">Appeals court orders release of more from Mueller report</a> Politico: The unanimous three-judge panel says the public is entitled to more details on decisions not to prosecute Trump campaign officials. 
  <p class="updated_time"> 05:25 PM CT, Nov. 30 </p> 
@@ -214,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/biden-minnesota-infrastructure-law/index.html">Biden sells infrastructure law in Minnesota</a> CNN: President Joe Biden heads to Minnesota on Tuesday to tout the benefits of his new bipartisan infrastructure law as the focus turns now to how the massive piece of legislation will be implemented. 
  <p class="updated_time"> 04:35 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/sba-eidl-pandemic-relief.html">S.B.A. Gave $3.7 Billion in Improper Relief Payments, Auditor Finds</a> NYT: The Small Business Administration skipped a basic fraud check and sent billions to recipients barred from receiving federal funds, the agency’s inspector general reported. 
- <p class="updated_time"> 04:19 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Court blocks vaccine mandate for federal contractors in 3 states, in latest blow to Biden administration</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen Still Supports Making Banks Give the I.R.S. New Customer Data</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
  <p class="updated_time"> 04:04 PM CT, Nov. 30 </p> 
@@ -228,12 +240,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">U.S. Covid travel restrictions in a stasis — for now</a> Politico: There have been indications that the variant may have originated in Europe, raising questions about whether the U.S. might again shut down flights from Europe. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
- <p class="updated_time"> 03:38 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
- <p class="updated_time"> 03:36 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/capitol-riot-investigation-meadows.html">Meadows Agrees to Cooperate in Capitol Attack Investigation</a> NYT: Donald J. Trump’s former chief of staff, Mark Meadows, has turned over documents and agreed to be deposed in the House’s inquiry into the Jan. 6 attack. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Authorities: Student kills 3, wounds 6 at Michigan school</a> Politico: Authorities arrested the suspect at the school and recovered a handgun. They didn't immediately release the names of the suspect or victims. 
+ <a href="https://www.politico.com/news/2021/11/30/student-kills-3-wounds-6-michigan-school-523544">Student kills 3 in shooting at Michigan high school</a> Politico: The three students who were killed were a 16-year-old boy and two girls, ages 14 and 17. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -280,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
- <p class="updated_time"> 08:43 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html">Biden Calls Omicron a ‘Cause for Concern, Not a Cause for Panic'</a> NYT: The variant has yet to be detected in the United States, and crucial questions about it remain. 
  <p class="updated_time"> 08:16 AM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/antony-blinken-russia-ukraine/index.html">Blinken warns Russian aggression in Ukraine would trigger 'serious consequences'</a> CNN: US Secretary of State Antony Blinken reiterated a warning for Russia on Tuesday to stay away from aggression in Ukraine, saying "any renewed aggression can trigger serious consequences." 
  <p class="updated_time"> 07:57 AM CT, Nov. 30 </p> 
@@ -314,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
- <p class="updated_time"> 07:06 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/pentagon-airstrike-syria.html">Pentagon Chief Orders New Inquiry Into U.S. Airstrike That Killed Dozens in Syria</a> NYT: The decision follows a New York Times investigation that described allegations that top officials had sought to conceal civilian casualties. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059861841/former-governor-who-signed-mississippi-abortion-law-weighs-in-on-supreme-court-f">Former governor who signed Mississippi abortion law weighs in on Supreme Court fight</a> NPR: NPR's Ari Shapiro talks with Phil Bryant, the former governor of Mississippi who signed a bill that bans abortions after 15 weeks. The Supreme Court will soon hear arguments over the law. 
  <p class="updated_time"> 03:18 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059861701/wisconsin-gop-lawmakers-want-the-state-legislature-to-take-over-federal-election">Wisconsin GOP lawmakers want the state legislature to take over federal elections</a> NPR: Republican Sen. Ron Johnson of Wisconsin is pushing state lawmakers to consider stripping the bipartisan state elections agency of its control over federal elections. 
- <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">The President met with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
  <p class="updated_time"> 01:07 PM CT, Nov. 29 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 08:46 PM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-ahmaud-arbery-murder-guilty-verdicts/index.html">Biden says guilty verdicts in murder of Arbery 'reflect our justice system doing its job'</a> CNN: President Joe Biden said Wednesday the guilty verdicts in the trial for the killing of Ahmaud Arbery "reflect our justice system doing its job," but added, "that alone is not enough." 
- <p class="updated_time"> 11:55 AM CT, Nov. 24 </p> 
- <a href="https://www.cnn.com/2021/11/24/politics/white-house-new-climate-division/index.html">White House creates new climate-focused division within Office of Science and Technology Policy</a> CNN: The White House has created a new climate-focused division within its Office of Science and Technology Policy and has tapped Stanford professor Sally Benson to lead it, a White House official confirmed to CNN. 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
  <a href="https://www.cnn.com/2021/11/24/politics/biden-agency-omb-covid-19-vaccine/index.html">Biden administration agency Covid-19 vaccination data shows mandates work, OMB says</a> CNN: The Biden administration's Office of Management and Budget on Wednesday released a detailed breakdown of agency compliance with the federal government Covid-19 vaccine mandate, which went into effect via executive order earlier this week, linking high levels of compliance as proof mandates work to boost vaccinations. 
  <p class="updated_time"> 07:20 AM CT, Nov. 24 </p> 
