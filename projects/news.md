@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
+ <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
  <p class="updated_time"> 07:34 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59487910?at_medium=RSS&at_campaign=KARANGA">Munich WW2 bomb blows up near station, wounding three</a> BBC: The "aerial bomb" blows up on a railway construction site close to the main station. 
- <p class="updated_time"> 07:27 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
  <p class="updated_time"> 06:43 AM CT, Dec. 01 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59461861?at_medium=RSS&at_campaign=KARANGA">Omicron: Do travel bans work against new Covid variants?</a> BBC: What is the evidence that travel restrictions could stop the spread of coronavirus? 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
- <p class="updated_time"> 05:24 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron-october.html">Nigeria Finds Omicron Variant Covid Case From October</a> NYT: The sample, found in retrospective sequencing of previously confirmed cases, was collected weeks before the variant was first reported by researchers in southern Africa. 
  <p class="updated_time"> 05:05 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
@@ -43,12 +43,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59488472?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Worst kind of tragedy, says sheriff</a> BBC: Watch the Oakland County sheriff give details of the shooting, where three pupils were killed. 
  <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
+ <p class="updated_time"> 02:45 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 02:26 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
- <p class="updated_time"> 01:46 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 01:22 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59486806?at_medium=RSS&at_campaign=KARANGA">Air quality: Delhi records worst November air in years</a> BBC: Residents of the Indian capital didn't breathe "good" air even for one day in November, official data says. 
  <p class="updated_time"> 12:41 AM CT, Dec. 01 </p> 
@@ -127,6 +127,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
+ <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 11:29 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
  <p class="updated_time"> 10:51 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html">After the Floods, British Columbia Picks Up the Pieces</a> NYT: Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future. 
- <p class="updated_time"> 10:45 AM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060025081/omicron-variant-netherlands-europe-south-africa">The omicron variant was in Europe a week before South Africa reported it</a> NPR: The rapidly spreading variant was identified in retests of samples that were taken on Nov. 19 and 23 in the Netherlands, according to a Dutch health agency. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
