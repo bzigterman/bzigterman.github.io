@@ -26,13 +26,13 @@ permalink: /projects/news/
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 07:26 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: The suspect, a 15-year-old student, was taken into custody five minutes after police were called. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police say the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 07:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485945?at_medium=RSS&at_campaign=KARANGA">CNN's Chris Cuomo suspended over help to governor brother</a> BBC: The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal. 
  <p class="updated_time"> 06:56 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59480814?at_medium=RSS&at_campaign=KARANGA">Survivor: I'm haunted by deadliest Channel crossing</a> BBC: Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown. 
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59456545?at_medium=RSS&at_campaign=KARANGA">Resurgence of Pakistani Islamist group TLP sows fear</a> BBC: The release of the TLP leader and supporters could have far-reaching implications in Pakistan and beyond. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59456545?at_medium=RSS&at_campaign=KARANGA">Pakistan: Islamists against Muhammad cartoons stage comeback</a> BBC: The release of the TLP leader and supporters could have far-reaching implications in Pakistan and beyond. 
  <p class="updated_time"> 06:42 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473070?at_medium=RSS&at_campaign=KARANGA">How Magdalena Andersson became Sweden's first female PM twice</a> BBC: Magdalena Andersson's rise to power has been high political drama, but the finale may be yet to come. 
  <p class="updated_time"> 06:37 PM CT, Nov. 30 </p> 
@@ -190,12 +190,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/andre-dickens-atlanta-mayor-523589">Council member Andre Dickens elected mayor of Atlanta</a> Politico: He won a campaign dominated by concern over rising violent crime in the city. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
+ <p class="updated_time"> 10:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
  <p class="updated_time"> 10:09 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/atlanta-mayor-race-andre-dickens/index.html">City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects</a> CNN: City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects, defeating City Council President Felicia Moore in a runoff election to determine who will hold the city's top post. 
  <p class="updated_time"> 10:01 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/conservative-judges-legal-movement-abortion/index.html">Conservative legal activists watch SCOTUS abortion cases with worry over what happens if they lose</a> CNN: Amid the wave of excitement among conservative organizers over the prospect of reversing access to abortion for the first time in nearly 50 years -- since Roe v. Wade affirmed a constitutional right to the procedure in 1973 -- there are growing fears about how the conservative legal movement will fare if its own appointees on the bench stop short of dismantling the landmark abortion ruling. 
- <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
  <p class="updated_time"> 09:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 09:06 PM CT, Nov. 30 </p> 
@@ -261,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:45 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">Biden will lay down new travel restrictions as Omicron threatens</a> Politico: A tightened testing window will be part of the Biden administration's attempt to curb the spread of the virus ahead of another busy holiday travel period. 
+ <a href="https://www.politico.com/news/2021/11/30/covid-travel-restrictions-omicron-523551">Biden will lay down new travel restrictions as Omicron threatens</a> Politico: A tightened testing window will be part of the administration’s attempt to curb the spread of the virus ahead of another  holiday travel period. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
@@ -376,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
- <p class="updated_time"> 10:06 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/fauci-lying-covid-research-cruz-523412">Fauci: ’I’m going to be saving lives and they're going to be lying’</a> Politico: Anthony Fauci said claims he lied about certain research funding in the Wuhan lab smacked of contempt for science. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 10:49 AM CT, Nov. 27 </p> 
@@ -386,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 26 </p> 
+ <a href="https://www.politico.com/news/2021/11/26/cuomo-coronavirus-pandemic-new-york-523366">‘Ridiculous demands’ and ‘impossible requests’: Life outside Cuomo's pandemic war room</a> Politico: While Cuomo projected calm during his daily public briefings, with thousands dying as the virus ravaged New York City, public health officials were forced to find ways to work around him. 
  <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
