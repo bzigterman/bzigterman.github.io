@@ -7,20 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:08 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: Comments from Anthony Davis indicated James has tested positive for the coronavirus, which could keep him out for 10 days. 
+ <p class="updated_time"> 08:19 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59487910?at_medium=RSS&at_campaign=KARANGA">Munich WW2 bomb blows up near station, wounding four</a> BBC: The "aerial bomb" blows up on a railway construction site close to the main station. 
+ <p class="updated_time"> 08:18 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron-october.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: The West African country reported at least three cases in recent travelers. It also initially said it had found an Omicron case from October, a statement it later withdrew. 
+ <p class="updated_time"> 08:09 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems push up prices in the 173 cities surveyed. 
+ <p class="updated_time"> 07:59 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
  <p class="updated_time"> 07:56 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">EU launches €300bn bid to challenge Chinese influence</a> BBC: The Global Gateway infrastructure plan is described as a true alternative to Chinese influence. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
- <p class="updated_time"> 07:34 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59487910?at_medium=RSS&at_campaign=KARANGA">Munich WW2 bomb blows up near station, wounding three</a> BBC: The "aerial bomb" blows up on a railway construction site close to the main station. 
  <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
  <p class="updated_time"> 06:43 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
- <p class="updated_time"> 06:36 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems have pushed up prices in the 173 cities surveyed. 
  <p class="updated_time"> 06:17 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 06:16 AM CT, Dec. 01 </p> 
@@ -37,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
+ <p class="updated_time"> 03:09 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/turkish-lira-plumbs-record-low-on-erdogans-continued-calls-for-rate-cuts-11638347691">Turkish Central Bank Props Up Collapsing Lira</a> WSJ: The central bank sold foreign reserves after the lira reached new lows following comments by President Recep Tayyip Erdogan in defense of his unorthodox economic policies. 
  <p class="updated_time"> 03:06 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 02:54 AM CT, Dec. 01 </p> 
@@ -53,14 +61,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 01:22 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59486806?at_medium=RSS&at_campaign=KARANGA">Air quality: Delhi records worst November air in years</a> BBC: Residents of the Indian capital didn't breathe "good" air even for one day in November, official data says. 
- <p class="updated_time"> 12:41 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/turkish-lira-plumbs-record-low-on-erdogans-continued-calls-for-rate-cuts-11638347691">Turkish Central Bank Props Up Collapsing Lira</a> WSJ: The central bank sold foreign reserves after the lira reached new lows following comments by President Recep Tayyip Erdogan in defense of his unorthodox economic policies. 
  <p class="updated_time"> 12:07 AM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/global-inflation-set-to-be-higher-for-longer-says-oecd-11638356853">Global Inflation Set to Be Higher for Longer, Says OECD</a> WSJ: The pickup in inflation rates around the world will be longer-lasting and sharper than previously anticipated, with a growing risk that households and businesses grow accustomed to faster price rises, the research group said in its latest forecasts. 
  <p class="updated_time"> 11:26 PM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Australia Investigates Whether Omicron Variant Spread on Flight</a> WSJ: Solving that puzzle would go some way to understanding how contagious the strain is compared with others. 
- <p class="updated_time"> 09:44 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: It is unclear whether James has tested positive for the virus or is a close contact with someone who did. 
  <p class="updated_time"> 09:14 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59486285?at_medium=RSS&at_campaign=KARANGA">Howard Springs: Australia police arrest quarantine escapees</a> BBC: The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night. 
  <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
- <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html">Meet the Beauty Queens of Al Dhafra</a> NYT: Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates. 
  <p class="updated_time"> 11:29 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
  <p class="updated_time"> 01:39 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html">Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</a> NYT: The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa. 
- <p class="updated_time"> 01:04 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html">Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</a> NYT: Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms. 
  <p class="updated_time"> 12:56 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html">Sweden Elects Its First Female Prime Minister, Again</a> NYT: The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute. 
  <p class="updated_time"> 05:30 AM CT, Nov. 29 </p> 
@@ -211,8 +211,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
- <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/dems-anger-voting-rights-stall-523576">Anger sets in among Dems as voting rights push stalls</a> Politico: The party told its base voting rights was a top priority and ballot access was under attack. Then it ran into the realities of a 50-50 Senate. 
  <p class="updated_time"> 04:11 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/world-aids-day-biden-national-strategy/index.html">Biden will mark World AIDS Day with new national HIV/AIDS strategy</a> CNN: President Joe Biden will mark World AIDS Day on Wednesday by unveiling a new national HIV/AIDS strategy with the goal of ending the HIV epidemic by 2030, a senior administration official told CNN. 
@@ -221,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
  <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade in historic arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
+ <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Listen live: Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
