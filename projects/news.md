@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
  <p class="updated_time"> 12:44 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
- <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
  <p class="updated_time"> 12:32 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59498082?at_medium=RSS&at_campaign=KARANGA">Austria: Doctor fined for amputating wrong leg of patient</a> BBC: The patient's right leg was removed instead of his left, with the mistake discovered two days later. 
  <p class="updated_time"> 12:27 PM CT, Dec. 01 </p> 
@@ -20,15 +24,11 @@ permalink: /projects/news/
  <p class="updated_time"> 12:25 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 23 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
- <p class="updated_time"> 12:22 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron strain, says Ursula von der Leyen. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 24 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
  <p class="updated_time"> 12:04 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59493729?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Lalibela retaken - government</a> BBC: Tigray rebels took control of Lalibela, famous for its 13th Century rock-hewn churches, in August. 
  <p class="updated_time"> 12:02 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills four and wounds seven</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
- <p class="updated_time"> 12:01 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
  <p class="updated_time"> 11:53 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
  <p class="updated_time"> 11:20 AM CT, Dec. 01 </p> 
@@ -59,6 +59,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59487910?at_medium=RSS&at_campaign=KARANGA">Munich WW2 bomb blows up near station, wounding four</a> BBC: The "aerial bomb" blows up on a railway construction site close to the main station. 
  <p class="updated_time"> 08:09 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems push up prices in the 173 cities surveyed. 
+ <p class="updated_time"> 08:02 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches 23 Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms.. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
  <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghan-journalists-in-exile-keep-spotlight-on-their-homeland-11638377997">Afghan Journalists in Exile Keep Spotlight on Their Homeland</a> WSJ: Free media was a major achievement of Western efforts in Afghanistan. Now, it struggles for survival under Taliban intimidation. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
- <p class="updated_time"> 05:12 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">In Omicron Fight, Scientists See Glimmers of Hope</a> WSJ: Faint signs of hope emerged that a key weapon in the fight against the Covid-19 pandemic would still be effective against the new variant, as scientists and health authorities piece together fragmented evidence about it. 
  <p class="updated_time"> 05:05 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
@@ -198,12 +198,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">Omicron variant detected in California</a> Politico: The Centers for Disease Control and Prevention is working with health authorities in California to track the variant’s spread. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">Republicans feud over vaccine shutdown fight</a> Politico: “I want the vaccine mandates lifted, but I don’t think the [spending bill] is the tool to do it," said GOP Sen. Kevin Cramer. 
  <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
+ <p class="updated_time"> 01:08 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s vaccine-and-testing mandate for large employers has emerged as a sticking points over a stopgap spending bill. 
  <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
+ <p class="updated_time"> 12:56 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/peter-defazio-retiring-house-democrat/index.html">Peter DeFazio is the latest House Democrat to announce plans not to seek reelection</a> CNN: Rep. Peter DeFazio, the chairman of the House Transportation Committee, announced Wednesday that he will not seek reelection in 2022, the latest in a long stream of House Democrats leaving Congress at the end of their terms. 
+ <p class="updated_time"> 12:54 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 12:48 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 12:46 PM CT, Dec. 01 </p> 
@@ -302,14 +310,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/us/politics/boebert-greene-mace.html">Republican Recriminations Point to a Rocky Path to a House Majority</a> NYT: Simmering tensions between the far-right flank and more traditional conservatives burst into the open on Tuesday, while Republican leaders stayed silent. 
  <p class="updated_time"> 07:53 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/cnn-suspends-chris-cuomo-523577">CNN suspends Chris Cuomo</a> Politico: The move came after documents shed new light on his involvement in defending his brother, then-Gov. Andrew Cuomo, against sexual harassment allegations. 
- <p class="updated_time"> 07:29 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/republican-infighting-kevin-mccarthy/index.html">GOP feud simmers despite McCarthy's warning, causing concerns over 2022 prospects</a> CNN: House Minority Leader Kevin McCarthy summoned GOP Reps. Marjorie Taylor Greene and Nancy Mace for separate meetings Tuesday night, wanting to deliver a simple message amid their bitter and public feud: "Stop it." 
  <p class="updated_time"> 06:59 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/trump-executive-privilege-capitol-riot.html">Appeals Court Questions Trump’s Bid for Secrecy on Jan. 6 Papers</a> NYT: The case presents the novel question of what happens when a current president and a former one disagree about invoking executive privilege. 
  <p class="updated_time"> 06:48 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html">Dr. Oz Says He’s Running for Senate in Pennsylvania</a> NYT: Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic. 
- <p class="updated_time"> 06:12 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/roe-wade-abortion-supreme-court-what-matters/index.html">Analysis: Prepare for a post-Roe v. Wade reality</a> CNN: This could be the moment when some combination of Republican-appointed Supreme Court justices agrees to break 50 years of precedent by removing the national right to an abortion recognized in Roe v. Wade. 
  <p class="updated_time"> 05:45 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dobbs-v-jackson-womens-health-organization-what-to-watch/index.html">What to watch for as the Supreme Court reconsiders Roe v. Wade</a> CNN: The Supreme Court hears oral arguments Wednesday in a case that could result in the repeal of Roe v. Wade, the decision legalizing abortion nationwide that's been at the center of American politics for nearly 50 years. 
  <p class="updated_time"> 05:19 PM CT, Nov. 30 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/business/sba-eidl-pandemic-relief.html">S.B.A. Gave $3.7 Billion in Improper Relief Payments, Auditor Finds</a> NYT: The Small Business Administration skipped a basic fraud check and sent billions to recipients barred from receiving federal funds, the agency’s inspector general reported. 
  <p class="updated_time"> 04:11 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/irs-tax-gap-yellen.html">Janet Yellen Still Supports Making Banks Give the I.R.S. New Customer Data</a> NYT: “I think it’s important that the I.R.S. have visibility into opaque income streams,” the Treasury secretary said. 
- <p class="updated_time"> 04:04 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/austin-national-guard-warning/index.html">Defense secretary warns unvaccinated National Guard members won't be paid</a> CNN: Defense Secretary Lloyd Austin warned on Tuesday that unvaccinated members of the National Guard won't be paid and won't be allowed to participate in training, drills and deployments. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
  <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/el-chapo-wife-emma-coronel-aispuro-sentenced.html">El Chapo’s Wife Sentenced to 3 Years in Prison</a> NYT: Emma Coronel Aispuro pleaded guilty in June to helping her husband, Joaquin Guzmán Loera, smuggle drugs into the United States and escape from prison. 
- <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
  <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
@@ -366,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
- <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 04:01 AM CT, Nov. 30 </p> 
@@ -378,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">Republicans stall defense bill over amendment dispute</a> Politico: Democrats needed to muster 60 votes to advance the bill, but Republicans are digging in over Nord Stream 2 sanctions. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
+ <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
+ <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">The President met with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
