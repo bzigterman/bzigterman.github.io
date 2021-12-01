@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:20 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: C.D.C. to Toughen Testing for Travelers to U.S.</a> NYT: President Biden will announce plans on Thursday to fight Omicron, the latest variant. A judge blocked a vaccine mandate for U.S. health workers. 
+ <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
+ <p class="updated_time"> 09:44 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. to Tighten Testing for Travelers Amid Omicron Worries</a> NYT: The U.S. will require air travelers to provide a negative test within 24 hours of their departure. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 09:20 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59485606?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras votes in first female president</a> BBC: Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party. 
  <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
+ <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59486397?at_medium=RSS&at_campaign=KARANGA">Facebook reverses Kyle Rittenhouse search policy</a> BBC: The company had blocked searches for the US teen after he was acquitted of killing two people. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
@@ -85,16 +89,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
- <p class="updated_time"> 01:21 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59478152?at_medium=RSS&at_campaign=KARANGA">Italian football fan banned for 'slapping' journalist live on TV</a> BBC: Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence. 
  <p class="updated_time"> 12:14 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059776777/josephine-baker-france-pantheon">Josephine Baker is the first Black woman to be inducted into France's Pantheon</a> NPR: The trailblazing U.S.-born star and civil rights activist was given France's highest honor on Tuesday when she was inducted into the Pantheon. She first achieved fame in Paris in the 1920s. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
- <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html">Will the Covid Vaccines Stop Omicron? Scientists Are Racing to Find Out.</a> NYT: A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 11:31 AM CT, Nov. 30 </p> 
@@ -186,6 +186,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
+ <p class="updated_time"> 09:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/conservative-judges-legal-movement-abortion/index.html">Concerns mount over conservative legal movement as SCOTUS considers abortion cases</a> CNN: Amid the wave of excitement among conservative organizers over the prospect of reversing access to abortion for the first time in nearly 50 years -- since Roe v. Wade affirmed a constitutional right to the procedure in 1973 -- there are growing fears about how the conservative legal movement will fare if its own appointees on the bench stop short of dismantling the landmark abortion ruling. 
  <p class="updated_time"> 09:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 09:06 PM CT, Nov. 30 </p> 
@@ -271,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:15 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/dr-oz-senate-campaign-pennsylvania/index.html">Dr. Oz announces bid for Senate seat in Pennsylvania</a> CNN: Dr. Mehmet Oz, the cardiothoracic surgeon and television personality, is running for the US Senate in Pennsylvania as a Republican, according to an op-ed published Tuesday in the conservative Washington Examiner. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that House Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1058956195/republican-wisconsin-take-over-elections-ron-johnson">There's a GOP push in Wisconsin to take over the state's election system</a> NPR: Some GOP lawmakers in Wisconsin want to strip the state's bipartisan elections agency of its power and give it to the Republican-controlled Legislature. The idea is backed by GOP Sen. Ron Johnson. 
  <p class="updated_time"> 04:00 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden's Adviser, Long a Figure of Fascination</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
- <p class="updated_time"> 11:15 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/lauren-boebert-ilhan-omar-response/index.html">Boebert and Omar have contentious call amid backlash for anti-Muslim remarks</a> CNN: Republican Rep. Lauren Boebert of Colorado and Democratic Rep. Ilhan Omar of Minnesota spoke on the phone, the two members of Congress confirmed Monday, amid criticism of Boebert's anti-Muslim remarks aimed at Omar. 
  <p class="updated_time"> 09:28 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/omicron-variant-covid-biden-what-matters/index.html">One thing Biden will not do to fight the Omicron variant</a> CNN: There was a telling moment during President Joe Biden's remarks on the new Omicron coronavirus variant at the White House Monday. He's all in on doing everything he can to get Americans vaccinated and politely asking them to mask up, but he's not likely to go the direction of some European leaders and push lockdowns any time soon. 
  <p class="updated_time"> 08:00 PM CT, Nov. 29 </p> 
