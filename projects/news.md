@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: California Reports First Omicron Case in U.S.</a> NYT: The person arrived on a plane from South Africa, where the new variant now accounts for a majority of new cases. Nearly two dozen countries have now detected cases of Omicron. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
- <p class="updated_time"> 04:18 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/virus-variant-travel-boosters.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
  <p class="updated_time"> 04:03 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-micron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
+ <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 03:58 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: Ethan Crumbley, 15, allegedly killed four students and injured seven others on Tuesday. 
  <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
@@ -74,7 +76,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/germanys-incoming-chancellor-wants-vaccinations-to-be-mandatory.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
+ <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
  <p class="updated_time"> 08:46 AM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches More Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms. 
  <p class="updated_time"> 08:26 AM CT, Dec. 01 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
- <p class="updated_time"> 02:53 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:26 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/marty-walsh-massachusetts-governor-523620">Marty Walsh is weighing a run for Massachusetts governor</a> Politico: Allies are telling Democrats in the state that the labor secretary is considering returning home to mount a bid. 
+ <p class="updated_time"> 04:19 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-january-6-amy-berman-jackson/index.html">Trump 'stoked' crowd on January 6 and should be held accountable, federal judge says</a> CNN: A federal judge suggested Wednesday that Donald Trump and others who spoke at the "Stop the Steal" rally on January 6 should be held accountable for the US Capitol riot that followed, saying the then-President "stoked" the crowd and "might've inspired what happened." 
  <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608500/massachusetts-gov-charlie-baker-says-he-wont-be-running-for-reelection">Massachusetts Gov. Charlie Baker says he won't be running for reelection</a> NPR: Massachusetts Gov. Charlie Baker, a moderate Republican, says he won't run for a third term. Although he's one of the nation's most popular governors, Baker was facing a tough primary challenge. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
