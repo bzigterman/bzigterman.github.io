@@ -62,7 +62,7 @@ get_team_records <- function(abbreviation) {
                             sep = "")) %>%
     mutate(
       outcomes = list(
-        tail(na.omit(win),20)
+        tail(na.omit(win),10)
       )
     )
 }
@@ -400,8 +400,9 @@ standings_table <- division_standings %>%
   arrange(division,desc(win_pct)) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_plt_winloss(outcomes, max_wins = 20,
-                 type = "pill") %>%
+  gt_plt_winloss(outcomes, max_wins = 10,
+                 type = "pill",
+                 width = 15) %>%
   text_transform(
     locations = cells_body(columns = logo_url),
     fn = function(x) {
@@ -431,7 +432,7 @@ standings_table <- division_standings %>%
     division_magic_or_eliminated = html("M#<br>/E#"),
     #division_magic_number = "M#",
     #division_elimination_number = "E#",
-    outcomes = html("Last 20<br>Games")
+    outcomes = html("Last 10 Games")
   ) %>%
   #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   #opt_row_striping(row_striping = TRUE) %>%
@@ -674,8 +675,9 @@ wild_card_table <- mlb_standings_magic %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_plt_winloss(outcomes, max_wins = 20,
-                 type = "pill") %>%
+  gt_plt_winloss(outcomes, max_wins = 10,
+                 type = "pill",
+                 width = 15) %>%
   text_transform(
     locations = cells_body(columns = logo_url),
     fn = function(x) {
@@ -698,7 +700,7 @@ wild_card_table <- mlb_standings_magic %>%
     wc_games_behind = "GB",
     win_pct_text = "Pct",
     division_or_elim = "E#",
-    outcomes = html("Last 20<br>Games")
+    outcomes = html("Last 10 Games")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   tab_options(
