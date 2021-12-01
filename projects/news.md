@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
+ <p class="updated_time"> 09:41 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 09:33 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 01 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/germanys-incoming-chancellor-wants-vaccinations-to-be-mandatory.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
- <p class="updated_time"> 09:00 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 08:40 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
  <p class="updated_time"> 08:26 AM CT, Dec. 01 </p> 
@@ -48,9 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 04:29 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">In the Fight Against Omicron, Scientists See Glimmers of Hope</a> WSJ: Faint signs of hope emerged that a key weapon in the fight against the Covid-19 pandemic would still be effective against the new variant, as scientists and health authorities piece together fragmented evidence about it. 
- <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
+ <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">In Omicron Fight, Scientists See Glimmers of Hope</a> WSJ: Faint signs of hope emerged that a key weapon in the fight against the Covid-19 pandemic would still be effective against the new variant, as scientists and health authorities piece together fragmented evidence about it. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
  <p class="updated_time"> 03:43 AM CT, Dec. 01 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/massachusetts-charlie-baker-reelection-523597">Massachusetts Gov. Charlie Baker won't seek reelection</a> Politico: Baker is one of the country's most popular governors, but he's also been at odds with former President Donald Trump. 
+ <p class="updated_time"> 09:40 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/scott-stewart-mississippi-supreme-court.html">Who Is Scott Stewart, the Lawyer Representing Missouri in Abortion Case?</a> NYT: Mr. Stewart helped defend a Trump administration order that a 17-year-old in a federal refugee center continue her pregnancy or leave the country. The order was overruled. 
  <p class="updated_time"> 09:34 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Sobbing Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
  <p class="updated_time"> 09:25 AM CT, Dec. 01 </p> 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
  <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
+ <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Listen: Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
