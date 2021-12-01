@@ -7,16 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 02:43 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
+ <p class="updated_time"> 02:31 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: At least 23 countries have reported cases, and that number is likely to grow as more samples are tested, the World Health Organization said on Wednesday. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
+ <p class="updated_time"> 02:16 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/arts/design/turner-prize-winner.html">Turner Prize Goes to Array Collective, an Art Protest Group</a> NYT: The Belfast-based Array Collective stages carnivalesque interventions at political rallies. Now the group has won Britain’s major art award. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/01/1055803031/the-mystery-of-where-omicron-came-from-and-why-it-matters">The mystery of where omicron came from — and why it matters</a> NPR: How did this new strain of the novel coronavirus evolve? Researchers are investigating various possibilities. One leading theory involves ... just one person. 
  <p class="updated_time"> 01:40 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/amy-winehouse-design-museum.html">Looking Again at Amy Winehouse, 10 Years After Her Death</a> NYT: In “Amy: Beyond the Stage,” the Design Museum in London explores — and tries to somewhat reframe — the “Back to Black” singer’s life and legacy. 
- <p class="updated_time"> 01:34 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: First U.S. Omicron Case Found in California</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
  <p class="updated_time"> 01:32 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears landmark abortion case</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
- <p class="updated_time"> 01:18 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
  <p class="updated_time"> 12:44 PM CT, Dec. 01 </p> 
@@ -41,12 +49,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060444100/who-member-states-will-work-on-a-global-agreement-to-deal-with-future-pandemics">WHO member states will work on a global agreement to deal with future pandemics</a> NPR: The coronavirus outbreak exposed flaws in the global health system but also showed a willingness among countries to work together, Tedros Adhanom Ghebreyesus, the WHO's director-general, says. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
- <p class="updated_time"> 10:01 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: The West African country reported at least three cases in recent travelers. It also initially said it had found an Omicron case from October, a statement it later withdrew. 
  <p class="updated_time"> 10:00 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59490286?at_medium=RSS&at_campaign=KARANGA">Rust: US Police to search arms supplier over fatal film shooting</a> BBC: A fourth search warrant is issued to find out how the ammo that killed Halyna Hutchins got on set. 
- <p class="updated_time"> 09:48 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 09:28 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59490786?at_medium=RSS&at_campaign=KARANGA">WHO: ‘Omicron is a variant of concern, not panic’</a> BBC: The world needs to be alert but not overreact, the World Health Organization’s spokesperson says. 
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
- <p class="updated_time"> 01:56 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
@@ -198,8 +200,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:58 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 02:46 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/peter-defazio-retiring-house-democrat/index.html">Peter DeFazio is the latest House Democrat to announce plans not to seek reelection</a> CNN: Rep. Peter DeFazio, the chairman of the House Transportation Committee, announced Wednesday that he will not seek reelection in 2022, the latest in a long stream of House Democrats leaving Congress at the end of their terms. 
+ <p class="updated_time"> 02:44 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html">Stacey Abrams announces she's running for governor in Georgia</a> CNN: Georgia Democrat Stacey Abrams announced on Wednesday that she is running for governor, setting up a possible rematch with Georgia GOP Gov. Brian Kemp in what could become one of the most closely watched races in the country. 
+ <p class="updated_time"> 02:42 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/stacey-abrams-georgia-governor.html">Stacey Abrams Says She’s Running for Georgia Governor</a> NYT: Ms. Abrams, a Democratic voting rights activist, will aim to unseat Gov. Brian Kemp in a rematch of their contentious 2018 race for governor. 
+ <p class="updated_time"> 02:29 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
+ <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Democrats’ Bill Would Go Far Toward ‘Patching the Holes’ in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
+ <p class="updated_time"> 02:04 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">Supreme Court's conservatives lean towards limiting abortion rights after dramatic oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
+ <p class="updated_time"> 02:01 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/business/fed-inflation-omicron-covid.html">A Top Official Says the Fed Will ‘Grapple’ With a Faster Bond-Buying Taper</a> NYT: The president of the New York Federal Reserve said Omicron could prolong supply and demand mismatches, causing some inflation pressures to last. 
  <p class="updated_time"> 01:57 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/biden-supply-chain-holiday/index.html">Biden says 'shelves are going to be stocked' for the holiday season</a> CNN: President Joe Biden on Wednesday sought to reassure Americans that shelves will be stocked this holiday season despite issues with global supply chains, 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
@@ -208,22 +224,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">Republicans feud over vaccine shutdown fight</a> Politico: “I want the vaccine mandates lifted, but I don’t think the [spending bill] is the tool to do it," said GOP Sen. Kevin Cramer. 
  <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
- <p class="updated_time"> 01:29 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 01:28 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s mandate for large employers has emerged as a sticking point over a stopgap spending bill. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Senate Republicans Threaten Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s mandate for large employers has emerged as a sticking point over a stopgap spending bill. 
  <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
- <p class="updated_time"> 12:56 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/peter-defazio-retiring-house-democrat/index.html">Peter DeFazio is the latest House Democrat to announce plans not to seek reelection</a> CNN: Rep. Peter DeFazio, the chairman of the House Transportation Committee, announced Wednesday that he will not seek reelection in 2022, the latest in a long stream of House Democrats leaving Congress at the end of their terms. 
- <p class="updated_time"> 12:54 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 12:48 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 12:46 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Sobbing Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
- <p class="updated_time"> 12:41 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
+ <a href="https://www.cnn.com/2021/12/01/politics/capitol-rioter-assault-michael-fanone/index.html">Capitol rioter described his assault of police Officer Michael Fanone: 'My God. What did I just do?'</a> CNN: The Capitol rioter accused of firing the Taser at one of the most outspoken police officers wounded on January 6 had told federal investigators in March he had come to Washington, DC, to respond to then-President Donald Trump's call -- and that he regretted what he had done. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
@@ -233,19 +241,17 @@ permalink: /projects/news/
  <p class="updated_time"> 11:33 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/trump-virus-positive.html">Trump Tested Positive for Virus Days Before Debate, 2 Ex-Officials Say</a> NYT: The former president first received a positive coronavirus test days ahead of his first debate with Joseph R. Biden Jr., and then received a negative result, two former officials say. 
  <p class="updated_time"> 11:24 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appeared to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
+ <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appears to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
  <p class="updated_time"> 11:08 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol">Young Americans are raising alarms about the state of U.S. democracy in a new poll</a> NPR: A poll by the Harvard Kennedy School's Institute of Politics found that a majority of young people believe that American democracy is either "in trouble" or "failed." 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/biden-expands-national-space-council-523593">Biden to expand National Space Council to advance workforce, climate goals</a> Politico: The Cabinet-level body will now include the secretaries of Education, Labor, Agriculture and Interior, along with the national climate adviser. 
+ <a href="https://www.politico.com/news/2021/12/01/biden-expands-national-space-council-523593">Harris calls for new international rules for space after Russia blows up satellite</a> Politico: "By blasting debris across space, this irresponsible act endangered the satellites of other nations," the vice president said. 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel to take up contempt referral for former DOJ official Jeffrey Clark</a> NPR: Clark, who had promised to pursue former President Donald Trump's false election fraud claims, appeared for a deposition, but the select committee said Clark failed to cooperate. 
  <p class="updated_time"> 10:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600">Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence</a> Politico: Though she didn’t name the former president, U.S. District Judge Amy Berman Jackson clearly referred to his remarks when she described the goal of those leading the Jan. 6 rally. 
  <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
- <p class="updated_time"> 10:46 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/charlie-baker-not-running-2022-massachusetts/index.html">Massachusetts Gov. Charlie Baker announces he will not seek third term in 2022</a> CNN: Massachusetts Gov. Charlie Baker will not seek a third term in office, according to a statement from his office, forcing the Republican Party to defend an open gubernatorial seat next year in a deep blue state. 
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-timeline/index.html">Here's what Trump was up to around the time of his positive Covid-19 test</a> CNN: Here is a broad-strokes timeline of then-President Donald Trump's activities around the time he first tested positive for Covid-19. According to excerpts from a forthcoming book by Trump's former chief of staff Mark Meadows as reported by The Guardian, this was three days ahead of Trump's first 2020 presidential debate with Joe Biden. 
  <p class="updated_time"> 10:33 AM CT, Dec. 01 </p> 
@@ -264,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
  <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
- <p class="updated_time"> 08:38 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/us-sequencing-omicron.html">Search for Omicron in U.S. Is Expanding, Officials Say</a> NYT: The Centers for Disease Control and Prevention was “actively looking” for the variant but had not found a case so far. 
  <p class="updated_time"> 08:06 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/harvard-poll-young-americans/index.html">Poll: Young Americans say they're fearful about the future of the country</a> CNN: Most American adults younger than 30 are concerned about the US and its democracy, according to a survey released Wednesday by the Institute of Politics at the Harvard Kennedy School. The poll was conducted in late October and early November. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
@@ -289,11 +293,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
  <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
+ <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
- <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Democrats’ Bill Would Go Far Toward ‘Patching the Holes’ in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059896434/united-states-backsliding-democracy-donald-trump-january-6-capitol-attack">Democracy is declining in the U.S. but it's not all bad news, a report finds</a> NPR: The United States has joined the list of countries where democracy is backsliding, according to a new report by the think tank International IDEA. 
  <p class="updated_time"> 11:05 PM CT, Nov. 30 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/bidens-hire-chief-usher-white-house/index.html">Bidens hire Robert B. Downing to be the new White House chief usher</a> CNN: Robert Blair Downing has been named as the new chief usher of the White House, according to a White House source. 
- <p class="updated_time"> 01:34 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/el-chapo-wife-emma-coronel-aispuro-sentenced.html">El Chapo’s Wife Sentenced to 3 Years in Prison</a> NYT: Emma Coronel Aispuro pleaded guilty in June to helping her husband, Joaquin Guzmán Loera, smuggle drugs into the United States and escape from prison. 
  <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
  <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
- <p class="updated_time"> 02:50 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/biden-supply-chains-holidays/index.html">The President met with retailers and grocers to discuss supply chain as holiday season begins</a> CNN: President Joe Biden met with the CEOs of a number of major retailers and grocers on Monday to discuss the holiday shopping season, part of the administration's ongoing effort to emphasize the strength of the nation's supply chains amid growing concerns. 
  <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 11:54 AM CT, Nov. 29 </p> 
