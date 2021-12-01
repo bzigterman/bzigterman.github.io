@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:52 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. to Tighten Testing for Travelers Amid Omicron Worries</a> NYT: The U.S. will require air travelers to provide a negative test within 24 hours of their departure. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
- <p class="updated_time"> 09:44 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/live/2021/11/30/world/omicron-variant-covid">Covid Live Updates: U.S. to Tighten Testing for Travelers Amid Omicron Worries</a> NYT: The U.S. will require air travelers to provide a negative test within 24 hours of their departure. A judge blocked a vaccine mandate for U.S. health workers. 
  <p class="updated_time"> 09:20 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
+ <p class="updated_time"> 09:14 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59486285?at_medium=RSS&at_campaign=KARANGA">Howard Springs: Australia police arrest quarantine escapees</a> BBC: The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night. 
  <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59485606?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras votes in first female president</a> BBC: Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party. 
  <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 02:47 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060168810/el-chapo-wife-sentenced-us-emma-coronel">Wife of drug kingpin 'El Chapo' is sentenced to 3 years in prison on U.S. charges</a> NPR: Prosecutors had asked for four years for Emma Coronel Aispuro, who pleaded guilty to helping her husband, Joaquin "El Chapo" Guzman, run the Sinaloa cartel, a multibillion-dollar criminal empire. 
- <p class="updated_time"> 02:14 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484382?at_medium=RSS&at_campaign=KARANGA">Emma Coronel: Wife of kingpin El Chapo sentenced to three years</a> BBC: Emma Coronel Aispuro pleaded guilty to conspiracy and drug charges in June 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 01:56 PM CT, Nov. 30 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
+ <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/cryptocurrency-seized-fbi-ransomeware-attacks/index.html">FBI seized roughly $2.3 million in cryptocurrency tied to ransomware attacks</a> CNN: US law enforcement officials in August seized roughly $2.3 million in cryptocurrency tied to ransomware attacks committed by a Russian resident, according to court document unsealed Tuesday. 
  <p class="updated_time"> 09:36 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/conservative-judges-legal-movement-abortion/index.html">Concerns mount over conservative legal movement as SCOTUS considers abortion cases</a> CNN: Amid the wave of excitement among conservative organizers over the prospect of reversing access to abortion for the first time in nearly 50 years -- since Roe v. Wade affirmed a constitutional right to the procedure in 1973 -- there are growing fears about how the conservative legal movement will fare if its own appointees on the bench stop short of dismantling the landmark abortion ruling. 
  <p class="updated_time"> 09:07 PM CT, Nov. 30 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/29/1059861701/wisconsin-gop-lawmakers-want-the-state-legislature-to-take-over-federal-election">Wisconsin GOP lawmakers want the state legislature to take over federal elections</a> NPR: Republican Sen. Ron Johnson of Wisconsin is pushing state lawmakers to consider stripping the bipartisan state elections agency of its control over federal elections. 
  <p class="updated_time"> 02:40 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059786473/first-lady-jill-biden-white-house-christmas-decorations">The Bidens unveil their first White House Christmas decorations</a> NPR: With some holiday spirit and over 100 volunteers, the White House has been decorated in the theme of "gifts from the heart." The theme honors front-line workers, first responders and the military. 
- <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 11:49 AM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059795123/merriam-webster-word-of-the-year-2021-vaccine">Merriam-Webster's 2021 word of the year is, of course, 'vaccine'</a> NPR: The word "vaccine" saw a more than 600% increase in lookups this year over last. In its announcement, Merriam-Webster noted that it's come to represent much more than just medicine. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
