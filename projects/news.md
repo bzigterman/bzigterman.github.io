@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:06 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
+ <p class="updated_time"> 02:54 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
+ <p class="updated_time"> 02:54 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59488472?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Worst kind of tragedy, says sheriff</a> BBC: Watch the Oakland County sheriff give details of the shooting, where three pupils were killed. 
  <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 02:35 AM CT, Dec. 01 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59486285?at_medium=RSS&at_campaign=KARANGA">Howard Springs: Australia police arrest quarantine escapees</a> BBC: The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night. 
  <p class="updated_time"> 09:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59485606?at_medium=RSS&at_campaign=KARANGA">Xiomara Castro: Honduras votes in first female president</a> BBC: Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party. 
- <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59486397?at_medium=RSS&at_campaign=KARANGA">Facebook reverses Kyle Rittenhouse search policy</a> BBC: The company had blocked searches for the US teen after he was acquitted of killing two people. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
@@ -65,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060177252/united-nations-global-tourism-2021-covid-pandemic">The U.N. predicts that 2021 global tourism losses will barely improve over last year</a> NPR: The recent emergence of the highly transmissible omicron variant presents another potential hurdle as the tourism industry prepares for the upcoming winter holiday season. 
  <p class="updated_time"> 04:39 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060175635/greece-covid-vaccine-mandate">Greece will mandate the COVID-19 vaccine for anyone over 60, or make them pay fines</a> NPR: Anyone who refuses to get vaccinated will face monthly fines of 100 euros, or roughly $114. The monthly fine is substantial for retirees — the average pension is 730 euros a month. 
- <p class="updated_time"> 04:31 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484332?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Epstein pilot testifies he flew Prince Andrew</a> BBC: The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet. 
  <p class="updated_time"> 04:13 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Inducted Into French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
  <p class="updated_time"> 06:23 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html">Czech President Appoints Prime Minister From Inside a Cube</a> NYT: President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days. 
- <p class="updated_time"> 06:10 PM CT, Nov. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59464760?at_medium=RSS&at_campaign=KARANGA">Yemen: The children haunted by 'ghosts' of war</a> BBC: BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen. 
  <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
