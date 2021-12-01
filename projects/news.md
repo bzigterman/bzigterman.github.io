@@ -7,28 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 06:53 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
+ <p class="updated_time"> 06:43 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
+ <p class="updated_time"> 06:36 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems have pushed up prices in the 173 cities surveyed. 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/59461861?at_medium=RSS&at_campaign=KARANGA">Omicron: Do travel bans work against new Covid variants?</a> BBC: What is the evidence that travel restrictions could stop the spread of coronavirus? 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
- <p class="updated_time"> 05:25 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59489259?at_medium=RSS&at_campaign=KARANGA">Tel Aviv named as world's most expensive city to live in</a> BBC: Soaring inflation and supply-chain problems have pushed up prices in the 173 cities surveyed. 
  <p class="updated_time"> 05:24 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron-october.html">Nigeria Finds Omicron Variant Covid Case From October</a> NYT: The sample, found in retrospective sequencing of previously confirmed cases, was collected weeks before the variant was first reported by researchers in southern Africa. 
  <p class="updated_time"> 05:05 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
- <p class="updated_time"> 04:20 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
- <p class="updated_time"> 03:46 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59480917?at_medium=RSS&at_campaign=KARANGA">Mike Pence asks Supreme Court to overturn abortion rights</a> BBC: The former vice-president spoke on the eve of the most important abortion case in years at the top US court. 
  <p class="updated_time"> 03:06 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 02:54 AM CT, Dec. 01 </p> 
@@ -41,8 +39,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 02:26 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
+ <p class="updated_time"> 01:46 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 01:22 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59486806?at_medium=RSS&at_campaign=KARANGA">Air quality: Delhi records worst November air in years</a> BBC: Residents of the Indian capital didn't breathe "good" air even for one day in November, official data says. 
+ <p class="updated_time"> 12:41 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/turkish-lira-plumbs-record-low-on-erdogans-continued-calls-for-rate-cuts-11638347691">Turkish Central Bank Props Up Collapsing Lira</a> WSJ: The central bank sold foreign reserves after the lira reached new lows following comments by President Recep Tayyip Erdogan in defense of his unorthodox economic policies. 
+ <p class="updated_time"> 12:07 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/global-inflation-set-to-be-higher-for-longer-says-oecd-11638356853">Global Inflation Set to Be Higher for Longer, Says OECD</a> WSJ: The pickup in inflation rates around the world will be longer-lasting and sharper than previously anticipated, with a growing risk that households and businesses grow accustomed to faster price rises, the research group said in its latest forecasts. 
+ <p class="updated_time"> 11:26 PM CT, Nov. 30 </p> 
+ <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Australia Investigates Whether Omicron Variant Spread on Flight</a> WSJ: Solving that puzzle would go some way to understanding how contagious the strain is compared with others. 
  <p class="updated_time"> 09:44 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: It is unclear whether James has tested positive for the virus or is a close contact with someone who did. 
  <p class="updated_time"> 09:14 PM CT, Nov. 30 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the Angel of Death. 
  <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
- <p class="updated_time"> 05:45 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel if not fully vaccinated</a> BBC: It urges those who are unwell and the over-60s to delay international travel to areas with community transmission. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
@@ -111,6 +115,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 01:55 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59484633?at_medium=RSS&at_campaign=KARANGA">Four dead as storm tears through Turkey</a> BBC: Strong winds hit the country's western coast, destroying buildings and blowing ships ashore. 
+ <p class="updated_time"> 12:11 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59340789?at_medium=RSS&at_campaign=KARANGA">Why US abortion laws could be changed by Supreme Court ruling</a> BBC: If Roe v Wade is overturned, millions of American women will lose access to legal abortions. 
  <p class="updated_time"> 11:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1059776777/josephine-baker-france-pantheon">Josephine Baker is the first Black woman to be inducted into France's Pantheon</a> NPR: The trailblazing U.S.-born star and civil rights activist was given France's highest honor on Tuesday when she was inducted into the Pantheon. She first achieved fame in Paris in the 1920s. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
@@ -121,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060057463/rhinos-translocation-move-white-rwanda-south-africa">Conservationists flew 30 white rhinos to Rwanda in a huge operation to protect them</a> NPR: The roughly 2,000-mile journey took the rhinos to their new home in Akagera National Park, where advocates hope the animals will be able to establish a new breeding stronghold and evade poachers. 
  <p class="updated_time"> 11:06 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060080946/barbados-breaks-with-the-queen-and-becomes-the-worlds-newest-republic">Barbados breaks with the queen and becomes the world's newest republic</a> NPR: With cheers and fireworks, the island nation became a parliamentary republic, swore in its first president and declared Barbadian-born Rihanna a national hero. 
- <p class="updated_time"> 11:04 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/omicron-variant-covid-science-policy-11638301683">Omicron Variant Sends Policy Makers Scrambling as Science Lags Behind</a> WSJ: Researchers are evaluating the variant’s mutations and tracking infections to evaluate the threat it poses. 
  <p class="updated_time"> 10:56 AM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060020412/australia-parliament-assault-sexual-harassment">1 in 3 people working at Australia's parliament are sexually harassed, a report finds</a> NPR: A new report details the stunning culture of sexual harassment and bullying in Australia's parliamentary offices. It comes after another wave of #MeToo protests rocked the country in March. 
  <p class="updated_time"> 10:51 AM CT, Nov. 30 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
- <p class="updated_time"> 09:07 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-colombian-guerrilla-splinter-groups-with-terrorist-listing-11638289364">U.S. Targets Colombian Guerrilla Splinter Groups With Terrorist Listing</a> WSJ: Biden administration removes disbanded rebel group FARC from list and takes aim at its violent offshoots 
  <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
  <p class="updated_time"> 08:44 AM CT, Nov. 30 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/france-honors-josephine-baker-first-black-woman-to-enter-pantheon-11638290176">France Honors Josephine Baker, First Black Woman to Enter Pantheon</a> WSJ: The American-born entertainer and civil-rights activist was awarded one of France’s rarest honors. 
  <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
- <p class="updated_time"> 04:43 AM CT, Nov. 30 </p> 
- <a href="https://www.wsj.com/articles/leaked-documents-detail-xi-jinpings-extensive-role-in-xinjiang-crackdown-11638284709">Leaked Documents Detail Xi Jinping's Extensive Role in Xinjiang Crackdown</a> WSJ: Records of internal speeches released by a U.K.-based panel of lawyers and activists show how China’s leader set the blueprint for the vast campaign of forcible assimilation against Uyghurs and other groups. 
  <p class="updated_time"> 04:07 AM CT, Nov. 30 </p> 
  <a href="https://www.wsj.com/articles/bali-covid-omicron-tourism-economy-travel-restrictions-11638229373">Bali Was Slammed With Tourists Before Covid. Now It's Slammed Without.</a> WSJ: Travel destinations that strained under crowds of visitors before the pandemic now confront the possibility they won’t be back for years. “This is a lesson for us. We can’t stay so dependent on tourism.” 
  <p class="updated_time"> 02:54 AM CT, Nov. 30 </p> 
@@ -299,7 +299,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:20 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/nancy-mace-marjorie-taylor-greene-republicans/index.html">GOP lawmaker defends her record from Marjorie Taylor Greene attack after criticizing Boebert</a> CNN: Republican Rep. Marjorie Taylor Greene attacked fellow House Republican Nancy Mace on Tuesday, after Mace condemned inflammatory and anti-Muslim comments made by Republican Rep. Lauren Boebert. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 02:05 PM CT, Nov. 30 </p> 
@@ -390,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
  <p class="updated_time"> 10:22 AM CT, Nov. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/25/a-dave-chappelle-thanksgiving-special-495228">POLITICO Playbook: A Dave Chappelle Thanksgiving special</a> Politico: And Ahmaud Arbery’s killers are convicted. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 25 </p> 
+ <a href="https://www.politico.com/news/2021/11/24/adams-new-york-mayor-523337">Adams won’t be New York’s first 'night mayor’</a> Politico: It was the Roaring Twenties, a time of easy money, youthful rebellion and just plain silliness, and nobody personified the spirit of the moment better than Jimmy Walker. 
  <p class="updated_time"> 09:18 PM CT, Nov. 24 </p> 
  <a href="https://www.politico.com/news/2021/11/24/when-black-men-meet-white-communities-523372">Opinion | When Black Men Meet White Communities</a> Politico: For all of American history, the criminal justice system has considered Black men in white communities dangerous. With the Arbery verdict, could that be changing? 
  <p class="updated_time"> 10:34 AM CT, Nov. 24 </p> 
