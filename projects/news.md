@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:10 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 11:55 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
  <p class="updated_time"> 09:46 PM CT, Nov. 30 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
- <p class="updated_time"> 07:26 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59484333?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Student kills three and wounds eight</a> BBC: Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier. 
  <p class="updated_time"> 07:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485945?at_medium=RSS&at_campaign=KARANGA">CNN's Chris Cuomo suspended over help to governor brother</a> BBC: The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal. 
  <p class="updated_time"> 06:56 PM CT, Nov. 30 </p> 
@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485508?at_medium=RSS&at_campaign=KARANGA">Lara Logan: Fox News host condemned over Fauci Nazi doctor comments</a> BBC: Lara Logan compared Dr Anthony Fauci to Joseph Mengele - the Auschwitz doctor known as the Angel of Death. 
  <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
+ <p class="updated_time"> 05:45 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59484773?at_medium=RSS&at_campaign=KARANGA">Covid: WHO urges those at risk from disease to delay travel if not fully vaccinated</a> BBC: It urges those who are unwell and the over-60s to delay international travel to areas with community transmission. 
  <p class="updated_time"> 05:21 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59485586?at_medium=RSS&at_campaign=KARANGA">Alice Sebold apologises to man cleared of her rape</a> BBC: Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
