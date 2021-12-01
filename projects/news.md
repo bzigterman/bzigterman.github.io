@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">In China, Buying That Toy Gun Could Get You Arrested</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
+ <p class="updated_time"> 03:43 AM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 03:09 AM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/turkish-lira-plumbs-record-low-on-erdogans-continued-calls-for-rate-cuts-11638347691">Turkish Central Bank Props Up Collapsing Lira</a> WSJ: The central bank sold foreign reserves after the lira reached new lows following comments by President Recep Tayyip Erdogan in defense of his unorthodox economic policies. 
  <p class="updated_time"> 03:06 AM CT, Dec. 01 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59488472?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Worst kind of tragedy, says sheriff</a> BBC: Watch the Oakland County sheriff give details of the shooting, where three pupils were killed. 
  <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
- <p class="updated_time"> 02:45 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 02:26 AM CT, Dec. 01 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Is Said to Decline a Re-election Bid</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
  <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 08:38 AM CT, Dec. 01 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/mcconnell-defense-bill-amendment-votes-523472">Republicans stall defense bill over amendment dispute</a> Politico: Democrats needed to muster 60 votes to advance the bill, but Republicans are digging in over Nord Stream 2 sanctions. 
  <p class="updated_time"> 05:16 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/patriots-45-maga-gang-fanone-capitol-riot/index.html">'Patriots 45 MAGA Gang' planned violence on January 6, prosecutors say</a> CNN: Federal prosecutors have indicted a trio of alleged US Capitol rioters -- including one who is accused of assaulting DC police officer Michael Fanone -- for planning to be violent together on January 6, according to court records and a Justice Department statement on Monday. 
- <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 03:42 PM CT, Nov. 29 </p> 
