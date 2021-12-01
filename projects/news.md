@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:52 AM CT, Dec. 01 </p> 
+ <p class="updated_time"> 08:08 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: U.S. Considers Tougher Rules for Travelers</a> NYT: Officials said the C.D.C. plans to strengthen screening of international arrivals as countries try to contain the Omicron variant. A federal judge blocked President Biden’s vaccine mandate for health workers. 
+ <p class="updated_time"> 07:56 AM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">EU launches €300bn bid to challenge Chinese influence</a> BBC: The Global Gateway infrastructure plan is described as a true alternative to Chinese influence. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
  <p class="updated_time"> 07:34 AM CT, Dec. 01 </p> 
@@ -221,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade in historic arguments</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way shows that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
+ <a href="https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand">Center-left group claims Democrats' spending package would save families thousands</a> NPR: A new report from the think tank Third Way found that a two-parent family of four would save up to $7,400 due to provisions of the Democrats' Build Back Better legislation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1059896434/united-states-backsliding-democracy-donald-trump-january-6-capitol-attack">Democracy is declining in the U.S. but it's not all bad news, a report finds</a> NPR: The United States has joined the list of countries where democracy is backsliding, according to a new report by the think tank International IDEA. 
  <p class="updated_time"> 12:20 AM CT, Dec. 01 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/business/powell-bond-buying-taper.html">Powell Says Fed Could Finish Bond-Buying Taper Early</a> NYT: Jerome H. Powell said the Federal Reserve could end its bond-buying program sooner as inflation persists. 
- <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/georgia-voting-law-absentee-ballot-rejections/index.html">New deadline imposed by Georgia voting law leads to rejections of absentee ballot requests</a> CNN: The main reason absentee ballot requests were rejected for Georgia's fall elections were because they arrived too late under a new deadline imposed as part of a restrictive voting law passed in March. 
  <p class="updated_time"> 04:50 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-michigan-school-shooting/index.html">Biden says his 'heart goes out' to families affected by Michigan school shooting</a> CNN: President Joe Biden on Tuesday mourned the deaths of three students shot and killed at a southeast Michigan high school. 
  <p class="updated_time"> 04:35 PM CT, Nov. 30 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/oklahoma-national-guard-vaccine.html">Defense Department Says Oklahoma National Guard Must Get Vaccinated</a> NYT: The governor had tried to exempt the troops from the federal vaccine requirement that applies to all service branches. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
- <p class="updated_time"> 06:35 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/business/biden-supply-chain-shortages.html">Biden Administration Says Stores Will Be Fully Stocked for the Holidays</a> NYT: President Biden has made a push to unclog ports, address trucker shortages and take other steps to alleviate the pressure created by consumers looking to buy couches, cars and electronics instead of eating out or going to theme parks. 
  <p class="updated_time"> 06:24 PM CT, Nov. 29 </p> 
  <a href="https://www.cnn.com/2021/11/29/politics/travel-restrictions-fauci-omicron-covid/index.html">Fauci says he doesn't expect more travel restrictions even if Omicron variant proves more contagious and deadly</a> CNN: Dr. Anthony Fauci, the nation's top infectious diseases expert, said Monday that he doesn't anticipate the United States will implement additional travel restrictions even if the Omicron variant proves worse than previous strains of Covid-19. 
  <p class="updated_time"> 05:34 PM CT, Nov. 29 </p> 
@@ -366,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
- <p class="updated_time"> 03:44 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/jeffrey-clark-capitol-riot.html">Jan. 6 Panel to Propose Charging Jeffrey Clark With Contempt</a> NYT: The committee investigating the Capitol riot will consider recommending criminal charges against Jeffrey Clark, a former Justice Department official. 
  <p class="updated_time"> 03:42 PM CT, Nov. 29 </p> 
  <a href="https://www.npr.org/2021/11/29/1059858635/reps-boebert-and-omar-spoke-after-boeberts-islamophobic-comments-it-didnt-go-wel">Reps. Boebert and Omar spoke after Boebert's Islamophobic comments. It didn't go well</a> NPR: The contentious phone call between Reps. Lauren Boebert and Ilhan Omar likely means the controversy will continue. 
  <p class="updated_time"> 03:41 PM CT, Nov. 29 </p> 
