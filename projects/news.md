@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis-fans-censors.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 04:20 AM CT, Dec. 02 </p> 
@@ -30,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:04 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59498779?at_medium=RSS&at_campaign=KARANGA">WTA suspends China tournaments over Peng Shuai</a> BBC: The WTA announces the immediate suspension of all tournaments in China amid concern for Chinese tennis player Peng Shuai. 
  <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/asia/biak-missing-soldiers-indonesia.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
+ <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
- <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html">World Omicron Fight Hindered by Fragmented Response</a> NYT: Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy. 
  <p class="updated_time"> 11:33 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-omicron-variant-travel-ban.html">With Scant Information on Omicron, Biden Turned to Travel Ban to Buy Time</a> NYT: “Here’s what it does: It gives us time,” President Biden said of the flight restrictions. He called the new variant a cause for concern, not panic. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
