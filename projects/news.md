@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:11 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s moves are expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. 
+ <p class="updated_time"> 07:36 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 07:08 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 07:04 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 06:54 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503762?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Lavrov warns of return to military confrontation nightmare</a> BBC: Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion. 
- <p class="updated_time"> 06:37 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
+ <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 06:29 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59502177?at_medium=RSS&at_campaign=KARANGA">Merkel picks German punk singer Hagen for last serenade</a> BBC: Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
- <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
@@ -194,8 +194,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:23 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as Democrats unveil plan to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
@@ -310,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
  <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
- <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol">Young Americans are raising alarms about the state of U.S. democracy in a new poll</a> NPR: A poll by the Harvard Kennedy School's Institute of Politics found that a majority of young people believe that American democracy is either "in trouble" or "failed." 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
- <p class="updated_time"> 10:55 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600">Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence</a> Politico: Though she didn’t name the former president, U.S. District Judge Amy Berman Jackson clearly referred to his remarks when she described the goal of those leading the Jan. 6 rally. 
  <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
@@ -360,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisers narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
- <p class="updated_time"> 04:57 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/trump-january-6-docs-hearing-takeaways/index.html">Takeaways from the appeals court hearing in the January 6 Trump documents case</a> CNN: An appeals court hearing Tuesday on former President Donald Trump's claim to keep January 6 documents from his presidency private showed that Trump faces an uphill battle to keep the documents out of the hands of House investigators. 
  <p class="updated_time"> 04:50 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-michigan-school-shooting/index.html">Biden says his 'heart goes out' to families affected by Michigan school shooting</a> CNN: President Joe Biden on Tuesday mourned the deaths of three students shot and killed at a southeast Michigan high school. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
@@ -384,6 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
+ <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump’s effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
