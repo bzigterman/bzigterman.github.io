@@ -194,12 +194,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:24 AM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/biden-at-home-covid-test-costs-523665">Biden seeks to require private health plans to pay for at-home Covid tests</a> Politico: The change represents the core of a ramped-up effort to encourage more widespread testing. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
+ <p class="updated_time"> 08:34 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
- <p class="updated_time"> 08:20 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
- <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
  <p class="updated_time"> 11:24 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appears to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
  <p class="updated_time"> 11:08 AM CT, Dec. 01 </p> 
