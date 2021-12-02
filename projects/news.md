@@ -202,12 +202,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
+ <p class="updated_time"> 04:40 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/abortion-arguments-post-roe.html">How the Politics of Abortion Are Poised to Intensify</a> NYT: The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality. 
+ <p class="updated_time"> 04:39 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">House passes plan to fund the government as Republican senators stand by shutdown threat ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 04:37 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">House Passes Spending Bill as Government Shutdown Still Looms</a> NYT: Even as the House voted to fund the government through mid-February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
- <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">House passes plan to fund the government as Republican senators stand by shutdown threat ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/january-6-andrew-wrigley/index.html">January 6 was opposite of 1776, judge tells rioter who carried revolutionary flag into US Capitol</a> CNN: A federal judge slammed one of the January 6 rioters for waving a 1776 flag while storming the US Capitol, saying his attempt to overturn a democratic election betrayed the values of the American Revolution. 
  <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
@@ -273,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:21 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
+ <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Shutdown odds escalate as Senate fields House-passed funding patch</a> Politico: A standoff over President Joe Biden's vaccine mandate could prompt a funding lapse come midnight Friday. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060608439/islamophobic-comments-are-the-latest-racist-rhetoric-to-come-from-fringe-lawmake">Islamophobic comments are the latest racist rhetoric to come from fringe lawmakers</a> NPR: Congresswoman Lauren Boebert, R-Colo., recently suggested Congresswoman Ilhan Omar, D-Minn., was a suicide bomber. The Islamophobic comments are the latest in a string of racist rhetoric in the House. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
- <p class="updated_time"> 02:01 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/business/fed-inflation-omicron-covid.html">A Top Official Says the Fed Will ‘Grapple’ With a Faster Bond-Buying Taper</a> NYT: The president of the New York Federal Reserve said Omicron could prolong supply and demand mismatches, causing some inflation pressures to last. 
  <p class="updated_time"> 01:57 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/biden-supply-chain-holiday/index.html">Biden says 'shelves are going to be stocked' for the holiday season</a> CNN: President Joe Biden on Wednesday sought to reassure Americans that shelves will be stocked this holiday season despite issues with global supply chains, 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
