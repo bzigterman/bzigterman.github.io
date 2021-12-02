@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 07:36 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
+ <p class="updated_time"> 07:29 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 07:08 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 07:04 AM CT, Dec. 02 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 06:51 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59327131?at_medium=RSS&at_campaign=KARANGA">When Jesus is used to steal from his flock</a> BBC: William Neil "Doc" Gallagher used Christian radio to defraud religious pensioners out of millions. 
- <p class="updated_time"> 06:35 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59500095?at_medium=RSS&at_campaign=KARANGA">Canadian MPs vote to ban LGBT 'conversion therapy'</a> BBC: MPs cross the aisle to shake hands with and even hug their counterparts as the bill is passed. 
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498832?at_medium=RSS&at_campaign=KARANGA">Epstein accuser: Ghislaine Maxwell is a 'master manipulator'</a> BBC: The BBC spoke to Teresa Helm, who accused Epstein of sexually assaulting her at the age of 22. 
  <p class="updated_time"> 06:10 PM CT, Dec. 01 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59466051?at_medium=RSS&at_campaign=KARANGA">Would you give 10% of your salary to charity?</a> BBC: A growing number of people are deciding to give up a substantial chunk of their wages. 
  <p class="updated_time"> 06:01 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59419962?at_medium=RSS&at_campaign=KARANGA">‘It’s like hell in here’: The struggle to save Afghanistan's starving babies</a> BBC: Doctors in Afghanistan’s crisis-hit hospitals are caring for their patients in almost impossible conditions. 
- <p class="updated_time"> 05:59 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
@@ -196,16 +196,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
+ <p class="updated_time"> 07:42 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as Democrats unveil plan to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:23 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as Democrats unveil plan to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
+ <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:25 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/china-hackers-espionage-defense-contractors/index.html">Suspected Chinese hackers breach more US defense and tech firms</a> CNN: A suspected Chinese hacking campaign has breached four more US defense and technology companies in the last month, and hundreds more US organizations are running the type of vulnerable software that the attackers have exploited, according to research shared with CNN. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
