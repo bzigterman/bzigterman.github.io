@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59502515?at_medium=RSS&at_campaign=KARANGA">Home Alone house available to book on Airbnb</a> BBC: The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only. 
+ <p class="updated_time"> 02:28 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow that Russia would face a strong reaction if it interferes further in Ukraine, showing the growing friction over a buildup of Russian forces near the border. 
  <p class="updated_time"> 02:05 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Foreign Travel Was Just Opening Up. Omicron Means It's a Minefield Again.</a> WSJ: The new variant is triggering a fresh patchwork of national travel restrictions around the world, throwing up new obstacles to overseas travel just as it was starting to bounce back from last year’s Covid-19 measures. 
  <p class="updated_time"> 02:04 AM CT, Dec. 02 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
- <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/australia-adopts-magnitsky-sanctions-rules-11638436638">Australia Adopts Magnitsky Sanctions Rules</a> WSJ: Australia’s new rules will allow it to target people and entities allegedly engaged in malicious cyberactivity and corruption with sanctions, including asset freezes and travel bans. 
  <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
  <p class="updated_time"> 10:05 PM CT, Dec. 01 </p> 
@@ -194,9 +194,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
  <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
- <p class="updated_time"> 08:09 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 08:20 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:11 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html">Jan. 6 committee moves to hold ex-DOJ official in contempt but gives him last chance to cooperate</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is expected to approve on Wednesday night the report to hold former Department of Justice official Jeffrey Clark in contempt of Congress for defying his subpoena by refusing to answer questions during a recent deposition and failing to hand over documents to the panel. 
+ <a href="https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html">Jan. 6 committee moves to hold ex-DOJ official in contempt but gives him last chance to cooperate</a> CNN: The House select committee investigating the January 6 attack on the US Capitol approved on Wednesday night the report to hold former Department of Justice official Jeffrey Clark in contempt of Congress for defying his subpoena by refusing to answer questions during a recent deposition and failing to hand over documents to the panel. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Possible Contempt Charge Hangs Over Trump Justice Dept. Official</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 08:01 PM CT, Dec. 01 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 09:40 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/scott-stewart-mississippi-supreme-court.html">Who Is Scott Stewart, the Lawyer Representing Missouri in Abortion Case?</a> NYT: Mr. Stewart helped defend a Trump administration order that a 17-year-old in a federal refugee center continue her pregnancy or leave the country. The order was overruled. 
- <p class="updated_time"> 09:05 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
- <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump’s effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
