@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota who had recently traveled to New York City. 
+ <p class="updated_time"> 01:36 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 01:27 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/coronavirus-omicron-genetic-surveillance.html">Why Hasn’t the U.S. Found More Omicron Cases?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
- <p class="updated_time"> 01:26 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota who had recently traveled to New York City. 
  <p class="updated_time"> 01:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Officials said they found the virus variant in a test sample from a man who had recently traveled to New York City for a convention. 
+ <p class="updated_time"> 01:17 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden unveils new Covid-19 winter measures</a> BBC: Public health officials in Minnesota have just reported a second US case of the Omicron variant. 
  <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
- <p class="updated_time"> 01:07 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 01:07 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
  <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow of a strong reaction if it interferes further in Ukraine, showing friction over Russian troop deployments near the border. 
- <p class="updated_time"> 06:29 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59502177?at_medium=RSS&at_campaign=KARANGA">Merkel picks German punk singer Hagen for last serenade</a> BBC: Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
  <p class="updated_time"> 05:47 AM CT, Dec. 02 </p> 
@@ -200,20 +200,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:36 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 01:34 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/us-belarus-sanctions-migrant-crisis/index.html">US and allies impose new sanctions on Belarus over migrant crisis and ongoing human rights abuses</a> CNN: The United States imposed a wide new tranche of sanctions on Belarus in response to the migrant crisis on the border with Poland and ongoing human rights violations by the Lukashenko regime. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
- <p class="updated_time"> 01:11 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
- <p class="updated_time"> 01:07 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 12:51 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/florida-taxpayer-dollars-unvaccinated/index.html">Florida's DeSantis wants to hand out taxpayer dollars to businesses that defy vaccine mandates</a> CNN: As Florida Republicans, led by Gov. Ron DeSantis, escalate their fight against President Joe Biden's coronavirus vaccine mandate, they are testing a new method to support resisters: giving taxpayer money to the unvaccinated. 
- <p class="updated_time"> 12:47 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 12:20 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 11:45 AM CT, Dec. 02 </p> 
@@ -283,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:11 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html">Jan. 6 committee moves to hold ex-DOJ official in contempt but gives him last chance to cooperate</a> CNN: The House select committee investigating the January 6 attack on the US Capitol approved on Wednesday night the report to hold former Department of Justice official Jeffrey Clark in contempt of Congress for defying his subpoena by refusing to answer questions during a recent deposition and failing to hand over documents to the panel. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Possible Contempt Charge Hangs Over Trump Justice Dept. Official</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 08:01 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/california-ban-ammo-523644">9th Circuit upholds California ban on high-capacity ammo magazines</a> Politico: The divided en banc ruling from the 9th Circuit Court of Appeals backed the constitutionality of two California laws banning magazines that can hold 10 or more rounds. 
  <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
