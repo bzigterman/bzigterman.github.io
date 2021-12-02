@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">Analysis: John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/austin-china-hypersonic-weapons-523661">U.S. defense chief slams China’s drive for hypersonic weapons</a> Politico: Lloyd Austin said the U.S. is concerned about China’s military capability. 
  <p class="updated_time"> 10:39 PM CT, Dec. 01 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/transportation-mask-mandate-extension-biden/index.html">Biden to extend transportation mask mandate through March</a> CNN: The Biden administration will extend existing requirements for travelers to wear masks on airplanes, buses, trains and boats, as well as in airports and other transportation hubs, through March to address concerns over the Omicron coronavirus variant. 
  <p class="updated_time"> 09:06 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/national-space-council-harris-russia/index.html">Harris condemns Russian test of anti-satellite weapon at Biden administration's first space council meeting</a> CNN: Leaders from all corners of the US government condemned Russia's recent test of an anti-satellite weapon on Wednesday at the inaugural meeting of the National Space Council under the Biden administration, calling for accelerating the development of rules and norms in space. 
- <p class="updated_time"> 08:55 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">Analysis: John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 08:54 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/takeaways-supreme-court-abortion/index.html">Takeaways from the historic Supreme Court arguments on abortion rights</a> CNN: The Supreme Court heard oral arguments Wednesday on one of its most important cases in decades and considered the future of abortion rights in America. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
