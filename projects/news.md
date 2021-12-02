@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 03:24 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028418/germany-is-tightening-its-restrictions-on-people-who-havent-gotten-a-covid-vacci">Germany is tightening its restrictions on people who haven't gotten a COVID vaccine</a> NPR: The German government is imposing tighter restrictions on people who have not been vaccinated against COVID-19, and is planning legislation to make vaccination mandatory in early 2022. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases surge as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 11:20 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
  <p class="updated_time"> 09:54 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid-19 Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
- <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow of a strong reaction if it interferes further in Ukraine, showing friction over Russian troop deployments near the border. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Inducted Into French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
- <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
 
 
 </details>
@@ -202,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 03:24 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
  <p class="updated_time"> 02:47 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-staff-symone-sanders/index.html">Harris brushes off question on staff shake-up after senior adviser announces departure</a> CNN: Vice President Kamala Harris on Thursday offered praise for her departing senior adviser, Symone Sanders, while brushing off a question about a larger staff shake up in her office. 
- <p class="updated_time"> 02:38 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
