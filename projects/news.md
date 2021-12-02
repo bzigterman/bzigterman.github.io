@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:53 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 12:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 12:08 PM CT, Dec. 02 </p> 
+ <a href="https://www.npr.org/2021/12/02/1058350093/climate-change-portuguese-children-lawsuit">These Portuguese kids are suing 33 European countries to force them to cut emissions</a> NPR: Adults "can see us as serious or they can see us as a joke," one of the kids says. "A lawsuit is not a joke," her brother adds. The European Court of Human Rights has fast-tracked their 2020 lawsuit. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
@@ -47,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 09:25 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
+ <p class="updated_time"> 06:51 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid-19 Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
  <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59502177?at_medium=RSS&at_campaign=KARANGA">Merkel picks German punk singer Hagen for last serenade</a> BBC: Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
- <p class="updated_time"> 05:56 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
  <p class="updated_time"> 05:47 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
  <p class="updated_time"> 05:17 AM CT, Dec. 02 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/josephine-baker-buried-pantheon.html">Josephine Baker Inducted Into French Panthéon</a> NYT: President Emmanuel Macron hailed the American-born dancer and French resistance fighter as a symbol of unity in a time of sharp division. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185957/china-critics-hope-the-wta-will-inspire-outcry-about-alleged-human-rights-violat">China critics hope the WTA will inspire outcry about alleged human rights violations</a> NPR: Chinese tennis star Peng Shuai made an assault allegation, then disappeared. She's re-emerged, but the Women's Tennis Association's unflinching support may inspire a wider outcry over China's actions. 
- <p class="updated_time"> 03:46 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1059501906/islamic-state-member-convicted-death-yazidi-girl-genocide">A former member of the Islamic State is convicted in the death of a Yazidi girl</a> NPR: A German court on Tuesday convicted the man of genocide and committing a war crime over the death of a 5-year-old Yazidi girl he had purchased as a slave and then chained up in the hot sun to die. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:04 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 11:45 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/interior-oil-gas-report-biden-climate/index.html">Tough politics around oil and gas are preventing Joe Biden from being a climate hero </a> CNN: A long-awaited Department of Interior report on federal oil and gas leasing, tellingly released on Black Friday, is drawing criticism from multiple fronts. 
  <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
- <p class="updated_time"> 09:24 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-at-home-covid-test-costs-523665">Biden seeks to require private health plans to pay for at-home Covid tests</a> Politico: The change represents the core of a ramped-up effort to encourage more widespread testing. 
  <p class="updated_time"> 09:21 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
  <p class="updated_time"> 09:14 AM CT, Dec. 02 </p> 
@@ -257,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: The White House wants more people to get vaccines, booster shots and COVID tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
+ <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Watch live: Biden is about to outline a new plan to limit COVID surges this winter</a> NPR: The White House wants more people to get vaccines, booster shots and COVID tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
  <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
