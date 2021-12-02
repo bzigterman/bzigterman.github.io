@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 05:13 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis-fans-censors.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
+ <p class="updated_time"> 05:12 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59503757?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Defence lawyers seek to discredit key accuser</a> BBC: Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial. 
+ <p class="updated_time"> 04:33 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59503874?at_medium=RSS&at_campaign=KARANGA">Curious leopard enters classroom in India</a> BBC: The five-year-old leopard attacked a student before it was captured in the northern city of Aligarh. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
+ <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
@@ -52,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 08:28 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59500682?at_medium=RSS&at_campaign=KARANGA">Disney elects woman as chairman for first time in 98-year history</a> BBC: Susan Arnold, who has been a board member for 14 years, will succeed Bob Iger at the end of the year. 
+ <a href="https://www.bbc.co.uk/news/business-59500682?at_medium=RSS&at_campaign=KARANGA">Disney appoints woman as chairman for first time in 98-year history</a> BBC: Susan Arnold, who has been a board member for 14 years, will succeed Bob Iger at the end of the year. 
  <p class="updated_time"> 08:04 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 07:24 PM CT, Dec. 01 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59498082?at_medium=RSS&at_campaign=KARANGA">Austria: Doctor fined for amputating wrong leg of patient</a> BBC: The patient's right leg was removed instead of his left, with the mistake discovered two days later. 
  <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 24 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
- <p class="updated_time"> 12:04 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59493729?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Lalibela retaken - government</a> BBC: Tigray rebels took control of Lalibela, famous for its 13th Century rock-hewn churches, in August. 
  <p class="updated_time"> 11:53 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
  <p class="updated_time"> 10:31 AM CT, Dec. 01 </p> 
@@ -143,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
- <p class="updated_time"> 02:54 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59488472?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Worst kind of tragedy, says sheriff</a> BBC: Watch the Oakland County sheriff give details of the shooting, where three pupils were killed. 
  <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
- <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">Victims of a historic flood in New York City reflect on the wreckage</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
+ <p class="updated_time"> 05:10 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/china-hackers-espionage-defense-contractors/index.html">Suspected Chinese hackers breach more US defense and tech firms</a> CNN: A suspected Chinese hacking campaign has breached four more US defense and technology companies in the last month, and hundreds more US organizations are running the type of vulnerable software that the attackers have exploited, according to research shared with CNN. 
  <p class="updated_time"> 05:01 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/trump-ohio-senate-primary-523628">Trump intervenes in Ohio Senate primary — for himself</a> Politico: The former president was upset about ads in the race featuring anti-Trump comments a candidate made in 2016. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
@@ -278,6 +282,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/health/cdc-airlines-passengers-africa.html">C.D.C. Tells Airlines to Disclose Details on Passengers From Southern Africa</a> NYT: The agency said it was “issuing this directive to prevent the importation and spread of a communicable disease of public health importance,” an apparent reference to the new Omicron variant. 
  <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608500/massachusetts-gov-charlie-baker-says-he-wont-be-running-for-reelection">Massachusetts Gov. Charlie Baker says he won't be running for reelection</a> NPR: Massachusetts Gov. Charlie Baker, a moderate Republican, says he won't run for a third term. Although he's one of the nation's most popular governors, Baker was facing a tough primary challenge. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html">Stacey Abrams announces she's running for governor in Georgia</a> CNN: Georgia Democrat Stacey Abrams announced on Wednesday that she is running for governor, setting up a possible rematch with Georgia GOP Gov. Brian Kemp in what could become one of the most closely watched races in the country. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
@@ -302,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
+ <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
  <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
@@ -328,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/scott-stewart-mississippi-supreme-court.html">Who Is Scott Stewart, the Lawyer Representing Missouri in Abortion Case?</a> NYT: Mr. Stewart helped defend a Trump administration order that a 17-year-old in a federal refugee center continue her pregnancy or leave the country. The order was overruled. 
  <p class="updated_time"> 09:05 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html">GOP's toxic squabble shows the challenges for a party still controlled by Trump</a> CNN: Democrats could not look any more vulnerable in the 2022 midterm elections, but Republicans are showing every day just how easily the GOP could torpedo its political chances next year. 
- <p class="updated_time"> 08:42 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/court-blocks-federal-contractor-vaccine-mandate-kentucky-ohio-tennessee/index.html">Biden suffers string of court setbacks as administration's vaccine mandates put on hold</a> CNN: A federal judge on Tuesday blocked the Covid-19 vaccine requirement for federal contractors in Kentucky, Ohio and Tennessee -- the third time in recent weeks that President Joe Biden's federal mandate has been blocked in some capacity in certain parts of the country. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
@@ -396,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
- <p class="updated_time"> 11:01 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/omicron-variant-global-vaccine-equity-523417">Omicron raises concerns about global vaccine equity and hesitancy</a> Politico: African Union officials have complained about the lack of vaccines since the U.S., U.K. and EU pre-purchased the bulk of available supplies at the end of 2020. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
