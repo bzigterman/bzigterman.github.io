@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
  <p class="updated_time"> 10:20 PM CT, Dec. 01 </p> 
@@ -183,12 +185,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
- <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
- <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
 
 
 </details>
