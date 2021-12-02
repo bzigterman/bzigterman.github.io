@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:26 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 11:26 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 11:39 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
  <p class="updated_time"> 11:22 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
+ <p class="updated_time"> 11:20 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:13 AM CT, Dec. 02 </p> 
@@ -47,10 +49,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus, Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
+ <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow of a strong reaction if it interferes further in Ukraine, showing friction over Russian troop deployments near the border. 
  <p class="updated_time"> 06:29 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59502177?at_medium=RSS&at_campaign=KARANGA">Merkel picks German punk singer Hagen for last serenade</a> BBC: Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour. 
- <p class="updated_time"> 06:21 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow that Russia would face a strong reaction if it interferes further in Ukraine, showing the growing friction over a buildup of Russian forces near the border. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
  <p class="updated_time"> 05:56 AM CT, Dec. 02 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
- <p class="updated_time"> 03:38 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59502515?at_medium=RSS&at_campaign=KARANGA">Home Alone house available to book on Airbnb</a> BBC: The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only. 
  <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:16 AM CT, Dec. 02 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html">Supreme Court Seems Poised to Uphold Mississippi’s Abortion Law</a> NYT: It was less clear whether the court’s conservative majority would overrule Roe v. Wade, the decision establishing a constitutional right to abortion. 
  <p class="updated_time"> 10:54 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Lawmakers Strike Spending Deal but Government Shutdown Still Looms</a> NYT: Even as the House set a Thursday vote to fund the government through February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
- <p class="updated_time"> 10:43 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 10:31 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/us-belarus-sanctions-migrant-crisis/index.html">US imposes new sanctions on Belarus over migrant crisis, ongoing human rights abuses</a> CNN: The United States imposed a wide new tranche of sanctions on Belarus in response to the migrant crisis on the border with Poland and ongoing human rights violations by the Lukashenko regime. 
  <p class="updated_time"> 10:30 AM CT, Dec. 02 </p> 
