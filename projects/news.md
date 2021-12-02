@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:10 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
+ <p class="updated_time"> 08:04 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 07:24 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59500496?at_medium=RSS&at_campaign=KARANGA">Argentina ex-President Mauricio Macri charged in sub families spying case</a> BBC: Mauricio Macri denies ordering the spying on relatives of the victims of a 2017 submarine disaster. 
- <p class="updated_time"> 07:21 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
  <p class="updated_time"> 06:51 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59327131?at_medium=RSS&at_campaign=KARANGA">When Jesus is used to steal from his flock</a> BBC: William Neil "Doc" Gallagher used Christian radio to defraud religious pensioners out of millions. 
  <p class="updated_time"> 06:35 PM CT, Dec. 01 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59497462?at_medium=RSS&at_campaign=KARANGA">Covid Omicron: Time to consider mandatory jabs, EU chief says</a> BBC: EU countries should discuss forced vaccinations to combat the Omicron variant, says Ursula von der Leyen. 
  <p class="updated_time"> 02:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: At least 23 countries have reported cases, and that number is likely to grow as more samples are tested, the World Health Organization said on Wednesday. 
- <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 02:16 PM CT, Dec. 01 </p> 
@@ -199,21 +199,25 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday's arguments appeared concerned that this case could exacerbate the public‘s perception that the court is politically motivated. 
+ <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
+ <p class="updated_time"> 08:14 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/transportation-mask-mandate-extension-biden/index.html">Biden to extend transportation mask mandate through March</a> CNN: The Biden administration will extend existing requirements for travelers to wear masks on airplanes, buses, trains and boats, as well as in airports and other transportation hubs, through March to address concerns over the Omicron coronavirus variant. 
+ <p class="updated_time"> 08:11 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html">January 6 committee moves to hold former DOJ official in contempt but gives him last chance to cooperate</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is expected to approve on Wednesday night the report to hold former Department of Justice official Jeffrey Clark in contempt of Congress for defying his subpoena by refusing to answer questions during a recent deposition and failing to hand over documents to the panel. 
+ <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 08:01 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/california-ban-ammo-523644">9th Circuit upholds California ban on high-capacity ammo magazines</a> Politico: The divided en banc ruling from the 9th Circuit Court of Appeals backed the constitutionality of two California laws banning magazines that can hold 10 or more rounds. 
- <p class="updated_time"> 07:38 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The committee investigating the Capitol riot agreed to delay House action against Jeffrey Clark until after he could be interviewed again. 
- <p class="updated_time"> 07:30 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/frances-haugen-congress-big-tech-523632">This time, not even Frances Haugen can unite Congress on big tech</a> Politico: The parties “have very different views of the problem” with the online platforms, Rep. Dan Crenshaw (R-Texas) said during a hearing where Republicans brought their own Facebook witness. 
- <p class="updated_time"> 07:11 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/omicron-variant-us-california.html">U.S. Reports Its 1st Omicron Case, in a California Traveler</a> NYT: The discovery in San Francisco County prompted the Biden administration to renew calls for everyone to get fully vaccinated and receive a booster, if eligible. 
+ <p class="updated_time"> 07:30 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/frances-haugen-congress-big-tech-523632">Tech feuding flares on the Hill as Haugen’s star power fades</a> Politico: The parties “have very different views of the problem” with the online platforms, Rep. Dan Crenshaw said during a hearing where Republicans brought their own Facebook witness. 
+ <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 07:03 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/takeaways-supreme-court-abortion/index.html">Takeaways from the historic Supreme Court arguments on abortion rights</a> CNN: The Supreme Court heard oral arguments Wednesday on one of its most important cases in decades and considered the future of abortion rights in America. 
  <p class="updated_time"> 07:02 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/trump-virus-positive.html">Trump Tested Positive for Virus Days Before Debate, 2 Ex-Officials Say</a> NYT: The former president first received a positive coronavirus test days ahead of his first debate with Joseph R. Biden Jr., and then received a negative result, two former officials say. 
- <p class="updated_time"> 06:57 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html">January 6 committee moves to hold former DOJ official in contempt but gives him last chance to cooperate</a> CNN: The House select committee investigating the January 6 attack on the US Capitol is expected to approve on Wednesday night the report to hold former Department of Justice official Jeffrey Clark in contempt of Congress for defying his subpoena by refusing to answer questions during a recent deposition and failing to hand over documents to the panel. 
  <p class="updated_time"> 06:54 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-economy-holiday.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:50 PM CT, Dec. 01 </p> 
@@ -222,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html">Supreme Court Seems Poised to Uphold Mississippi’s Abortion Law</a> NYT: It was less clear whether the court’s conservative majority would overrule Roe v. Wade, the decision establishing a constitutional right to abortion. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/media/chris-cuomo-cnn.html">CNN and Chris Cuomo Face Difficult Questions After Anchor’s Suspension</a> NYT: The network said it was pursuing a “further evaluation” of evidence regarding its star anchor’s efforts to help stave off a sexual harassment scandal that his brother, former Gov. Andrew M. Cuomo, was facing. 
- <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 06:12 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/stacey-abrams-georgia-governor.html">Stacey Abrams Says She’s Running for Georgia Governor</a> NYT: Ms. Abrams, a Democratic voting rights activist, will aim to unseat Gov. Brian Kemp in a rematch of their contentious 2018 race for governor. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
@@ -240,6 +242,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/david-mccormick-pennsylvania-senate-bid-523623">Hedge fund CEO readies Senate bid despite Oz announcement</a> Politico: David McCormick is expected to join the Pennsylvania GOP primary in the next few weeks. 
  <p class="updated_time"> 05:44 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
+ <p class="updated_time"> 05:43 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/fentanyl-drug-overdose-addiction-what-matters/index.html">Analysis: The United States of Addiction -- searching for new ways to avoid overdoses</a> CNN: When US drug overdose deaths hit a shocking 100,000 over a 12-month period, we focused the newsletter on stories from around the country of overdose deaths related to fentanyl. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
  <p class="updated_time"> 05:30 PM CT, Dec. 01 </p> 
@@ -299,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/biden-expands-national-space-council-523593">Harris calls for new international rules for space after Russia blows up satellite</a> Politico: "By blasting debris across space, this irresponsible act endangered the satellites of other nations," the vice president said. 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel refers ex-DOJ official Jeffrey Clark for criminal contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
+ <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
  <p class="updated_time"> 10:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600">Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence</a> Politico: Though she didn’t name the former president, U.S. District Judge Amy Berman Jackson clearly referred to his remarks when she described the goal of those leading the Jan. 6 rally. 
  <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
@@ -382,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
- <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
