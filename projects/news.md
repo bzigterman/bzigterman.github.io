@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 06:13 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s moves are expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
+ <p class="updated_time"> 05:52 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 05:13 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 05:12 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59503757?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Defence lawyers seek to discredit key accuser</a> BBC: Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial. 
  <p class="updated_time"> 04:33 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59503874?at_medium=RSS&at_campaign=KARANGA">Curious leopard enters classroom in India</a> BBC: The five-year-old leopard attacked a student before it was captured in the northern city of Aligarh. 
- <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
  <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
@@ -40,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
  <p class="updated_time"> 12:46 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/china-protests-politicization-of-sports-after-suspension-of-womens-tennis-11638445613">China Protests 'Politicization of Sports' After Suspension of Women's Tennis</a> WSJ: The Women’s Tennis Association made good on threats to halt its events in the country amid concerns over the safety of star player Peng Shuai. 
+ <a href="https://www.wsj.com/articles/china-protests-politicization-of-sports-after-suspension-of-womens-tennis-11638445613">China Protests 'Politicization of Sports'</a> WSJ: The Women’s Tennis Association made good on threats to halt its events in the country amid concerns over the safety of star player Peng Shuai. 
  <p class="updated_time"> 12:26 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Asia's Tough New Omicron Measures Hit a Nerve: 'Does the Virus Read Your Passport?'</a> WSJ: Countries throughout the Asia-Pacific region are tightening controls for travelers or slamming the door shut altogether in response to the Omicron variant, leading to criticism that they are going too far. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59419962?at_medium=RSS&at_campaign=KARANGA">‘It’s like hell in here’: The struggle to save Afghanistan's starving babies</a> BBC: Doctors in Afghanistan’s crisis-hit hospitals are caring for their patients in almost impossible conditions. 
  <p class="updated_time"> 05:59 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
- <p class="updated_time"> 05:37 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59500093?at_medium=RSS&at_campaign=KARANGA">Biden puts faith in Santa Claus amid supply chain problems</a> BBC: The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/joe-biden-young-voter-problem-523588">Biden's young voter problem</a> Politico: Polls show the president’s approval rating has fallen sharply among a key component of the Democratic base: younger voters. 
- <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/marietje-schaake-sillicon-valley-regulation-523567">Marietje Schaake calls bulls--- on Silicon Valley’s self-regulation mantra</a> Politico: Self-regulation and big fines have failed. It’s time for principled laws and empowered regulators, says the Stanford educator training Silicon Valley’s next generation. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/01/scoop-conservatives-plot-government-shutdown-over-vaccine-mandate-495273">POLITICO Playbook: Scoop: Conservatives plot government shutdown over vaccine mandate</a> Politico: And CNN suspends Chris Cuomo indefinitely. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
@@ -368,10 +366,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
+ <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
