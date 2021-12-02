@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
  <p class="updated_time"> 03:19 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/health/coronavirus-omicron-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
+ <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028389/the-philippines-vaccinated-more-than-7-5-million-people-against-covid-in-3-days">The Philippines vaccinated more than 7.5 million people against COVID in 3 days</a> NPR: More than 7.5 million Filipinos got COVID vaccines in just three days this week — an impressive milestone in the country's battle against the pandemic. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:43 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:22 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-virus-travel-united-states.html">Travelers to U.S. Count the Hours: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 02:16 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
  <p class="updated_time"> 02:07 PM CT, Dec. 02 </p> 
@@ -200,7 +200,9 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:43 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
+ <p class="updated_time"> 04:09 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Exclusive: Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
  <p class="updated_time"> 03:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-january-6-amy-berman-jackson/index.html">Trump 'stoked' crowd on January 6 and should be held accountable, federal judge says</a> CNN: A federal judge suggested Wednesday that Donald Trump and others who spoke at the "Stop the Steal" rally on January 6 should be held accountable for the US Capitol riot that followed, saying the then-President "stoked" the crowd and "might've inspired what happened." 
  <p class="updated_time"> 05:56 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s requirement for large employers is a sticking point over a stopgap spending bill. 
- <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/peter-defazio-retire.html">Peter DeFazio, House Transportation Committee Chairman, Will Retire</a> NYT: The Oregon Democrat, who has served for nearly 35 years, is the third House committee leader to announce his retirement this year, as the party braces for a grueling midterm election. 
  <p class="updated_time"> 04:43 PM CT, Dec. 01 </p> 
