@@ -1,5 +1,3 @@
-remotes::install_github("jthomasmock/gtExtras", force = TRUE)
-
 library(tidyverse)
 library(lubridate)
 library(scales)

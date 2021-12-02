@@ -13,3 +13,7 @@ install.packages("tidyRSS")
 
 install.packages("remotes")
 remotes::install_github("jthomasmock/gtExtras")
+
+update.packages(ask = FALSE,
+                checkBuilt = TRUE)
+
