@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:50 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
+ <p class="updated_time"> 10:20 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
+ <p class="updated_time"> 10:12 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59456548?at_medium=RSS&at_campaign=KARANGA">Facebook uncovers Chinese network behind fake expert</a> BBC: It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search. 
+ <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 08:50 PM CT, Dec. 01 </p> 
@@ -38,11 +44,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:37 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59500093?at_medium=RSS&at_campaign=KARANGA">Biden puts faith in Santa Claus amid supply chain problems</a> BBC: The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">‘So Many Dimensions’: A Drought Study Underlines the Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
+ <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59498779?at_medium=RSS&at_campaign=KARANGA">WTA suspends China tournaments over Peng Shuai</a> BBC: The WTA announces the immediate suspension of all tournaments in China amid concern for Chinese tennis player Peng Shuai. 
- <p class="updated_time"> 05:00 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/newsom-california-omicron-variant.html">California Officials Say They're Prepared for Omicron Variant</a> NYT: The first case of the variant detected in the United States was in a San Francisco resident who traveled back from South Africa. 
  <p class="updated_time"> 04:52 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 04:49 PM CT, Dec. 01 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 12:32 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59498082?at_medium=RSS&at_campaign=KARANGA">Austria: Doctor fined for amputating wrong leg of patient</a> BBC: The patient's right leg was removed instead of his left, with the mistake discovered two days later. 
- <p class="updated_time"> 12:25 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 24 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
  <p class="updated_time"> 12:04 PM CT, Dec. 01 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060444100/who-member-states-will-work-on-a-global-agreement-to-deal-with-future-pandemics">WHO member states will work on a global agreement to deal with future pandemics</a> NPR: The coronavirus outbreak exposed flaws in the global health system but also showed a willingness among countries to work together, Tedros Adhanom Ghebreyesus, the WHO's director-general, says. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
- <p class="updated_time"> 10:00 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59490286?at_medium=RSS&at_campaign=KARANGA">Rust: US Police to search arms supplier over fatal film shooting</a> BBC: A fourth search warrant is issued to find out how the ammo that killed Halyna Hutchins got on set. 
  <p class="updated_time"> 09:28 AM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59490786?at_medium=RSS&at_campaign=KARANGA">WHO: ‘Omicron is a variant of concern, not panic’</a> BBC: The world needs to be alert but not overreact, the World Health Organization’s spokesperson says. 
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
@@ -107,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
  <p class="updated_time"> 08:46 AM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches More Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms. 
- <p class="updated_time"> 08:26 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59473071?at_medium=RSS&at_campaign=KARANGA">EU launches €300bn bid to challenge Chinese influence</a> BBC: The Global Gateway infrastructure plan is described as a true alternative to Chinese influence. 
  <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: Comments from Anthony Davis indicated James has tested positive for the coronavirus, which could keep him out for 10 days. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
@@ -185,8 +183,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html">South Africa Officials See 'No Red Flags Yet' on Omicron Variant</a> NYT: Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant. 
  <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
+ <p class="updated_time"> 02:19 PM CT, Nov. 29 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html">Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</a> NYT: After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government. 
 
 
 </details>
@@ -194,10 +196,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Blinken warns Russia of 'severe consequences' if it invades Ukraine ahead of Lavrov meeting</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
- <p class="updated_time"> 09:40 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 09:29 PM CT, Dec. 01 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
  <p class="updated_time"> 10:55 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/judge-trump-allies-jan-6-violence-523600">Judge: Trump and allies 'stoked the flames of fear' that led to Jan. 6 violence</a> Politico: Though she didn’t name the former president, U.S. District Judge Amy Berman Jackson clearly referred to his remarks when she described the goal of those leading the Jan. 6 rally. 
- <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-timeline/index.html">Here's what Trump was up to around the time of his positive Covid-19 test</a> CNN: Here is a broad-strokes timeline of then-President Donald Trump's activities around the time he first tested positive for Covid-19. According to excerpts from a forthcoming book by Trump's former chief of staff Mark Meadows as reported by The Guardian, this was three days ahead of Trump's first 2020 presidential debate with Joe Biden. 
  <p class="updated_time"> 10:10 AM CT, Dec. 01 </p> 
