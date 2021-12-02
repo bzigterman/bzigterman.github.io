@@ -196,8 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
- <p class="updated_time"> 07:42 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as Democrats unveil plan to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
+ <p class="updated_time"> 07:47 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
