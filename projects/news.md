@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid News: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
+ <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
+ <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/biden-omicron-covid-plan-tests.html">New Biden Plan Will Reimburse At-Home Covid Tests</a> NYT: The new strategy, which includes stricter rules for international travelers, comes as the worrisome Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: France has fewer immigrants than other rich nations. But politicians are hardening their positions against immigration even as other countries compete for migrant workers. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/un-access-to-clean-water.html">Millions More People Got Access to Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
  <p class="updated_time"> 03:38 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
@@ -57,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59500093?at_medium=RSS&at_campaign=KARANGA">Biden puts faith in Santa Claus amid supply chain problems</a> BBC: The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
- <p class="updated_time"> 04:52 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 04:49 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: The 15-year-old killed four students in an "absolutely premeditated" attack, say prosecutors. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
@@ -99,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59493729?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Lalibela retaken - government</a> BBC: Tigray rebels took control of Lalibela, famous for its 13th Century rock-hewn churches, in August. 
  <p class="updated_time"> 11:53 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
- <p class="updated_time"> 11:20 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Supporting Inoculations Sells for $1.3 Million</a> NYT: In the letter, which sold at auction in London on Wednesday, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
  <p class="updated_time"> 10:31 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060444100/who-member-states-will-work-on-a-global-agreement-to-deal-with-future-pandemics">WHO member states will work on a global agreement to deal with future pandemics</a> NPR: The coronavirus outbreak exposed flaws in the global health system but also showed a willingness among countries to work together, Tedros Adhanom Ghebreyesus, the WHO's director-general, says. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
@@ -185,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
  <p class="updated_time"> 07:24 PM CT, Nov. 29 </p> 
  <a href="https://www.nytimes.com/2021/11/29/world/middleeast/egypt-hossam-bahgat-verdict.html">In Latest Assault on Dissent, Egypt Convicts a Human Rights Activist</a> NYT: Hossam Bahgat avoided a prison term, receiving a relatively modest fine, in a verdict that appeared designed to intimidate dissidents without risking international opprobrium. 
- <p class="updated_time"> 04:57 PM CT, Nov. 29 </p> 
- <a href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops-review.html">Biden Military Review Leaves Troops Where They Are, for Now</a> NYT: The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year. 
 
 
 </details>
@@ -196,6 +202,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
+ <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
+ <a href="https://www.npr.org/2021/12/02/1060773437/sen-elizabeth-warren-is-focused-on-bringing-in-more-tax-revenue-for-the-irs">Sen. Elizabeth Warren is focused on bringing in more tax revenue for the IRS</a> NPR: NPR's Steve Inskeep speaks with Democratic Sen. Elizabeth Warren of Massachusetts about the U.S. economy and rising inflation. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: The White House wants more people to get vaccines, booster shots and COVID tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/democrats-midterms-polls.html">Pollster Warns Democrats About Midterms: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">Analysis: John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
@@ -284,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/world-aids-day-biden-national-strategy/index.html">Biden marks World AIDS Day with new national HIV/AIDS strategy</a> CNN: President Joe Biden will mark World AIDS Day on Wednesday by unveiling a new national HIV/AIDS strategy with the goal of ending the HIV epidemic by 2030, a senior administration official told CNN. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
- <p class="updated_time"> 02:21 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/build-back-better-act-health-coverage.html">Build Back Better Act Would Patch Holes in Health Coverage</a> NYT: Taken together, the provisions in the social policy bill represent the biggest step toward universal coverage since the passage of the Affordable Care Act. 
  <p class="updated_time"> 02:04 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/supreme-court-roe-v-wade-oral-arguments/index.html">Supreme Court's conservatives lean towards limiting abortion rights after dramatic oral arguments on Mississippi law banning abortions after 15 weeks</a> CNN: The conservative-leaning Supreme Court will take up the most important abortion case in 30 years Wednesday as the justices consider Mississippi's request to overturn Roe v. Wade and uphold a state law that bars the procedure 15 weeks after conception. 
  <p class="updated_time"> 02:01 PM CT, Dec. 01 </p> 
@@ -364,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185002/tvs-dr-oz-enters-pennsylvanias-crucial-senate-race-on-the-gop-side">TV's Dr. Oz enters Pennsylvania's crucial Senate race on the GOP side</a> NPR: The celebrity surgeon, who has promoted questionable health advice to national television audiences, has thrown his hat into the ring to represent Pennsylvania in the U.S. Senate. 
  <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
- <p class="updated_time"> 03:26 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060185873/the-u-s-may-start-to-clarify-its-taiwan-policy">A stronger China tests America's 'strategic ambiguity' on Taiwan</a> NPR: Rather than clarify its political intentions, the U.S. has stayed vague about Taiwan for four decades to maintain peace. But there are signs of a shift toward more clarity these days. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
@@ -374,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 12:35 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html">Another video shows Lauren Boebert suggesting Ilhan Omar was a terrorist</a> CNN: Republican Rep. Lauren Boebert of Colorado suggested to a crowd for in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called "black-hearted" and "evil," was a terrorist. 
- <p class="updated_time"> 12:31 PM CT, Nov. 30 </p> 
- <a href="https://www.npr.org/2021/11/30/1060029279/senate-effort-to-reform-military-justice-system-now-under-threat-faces-final-hur">Senate effort to reform military justice system, now under threat, faces final hurdle</a> NPR: As Congress works to pass the annual defense policy bill, lawmakers work to ensure efforts to reform the military justice system remain. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
