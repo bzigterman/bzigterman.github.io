@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:09 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
+ <p class="updated_time"> 05:39 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
+ <p class="updated_time"> 05:33 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president said he would ask insurers to reimburse the cost of home coronavirus tests and tighten rules for international travelers. After the first U.S. Omicron case was detected in California, six more cases were reported in New York, Minnesota and Colorado. 
+ <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Four cases were reported in New York City and on Long Island, while a fifth was a Minnesota man who had recently traveled to the city. Another case was reported in Colorado. 
  <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 05:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel’s Parting Message to Germany: Trust One Another</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
- <p class="updated_time"> 04:58 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: One was a Colorado woman who returned from a trip to southern Africa, and the other was a Minnesota man who had been to New York City. 
  <p class="updated_time"> 04:56 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 04:55 PM CT, Dec. 02 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061028418/germany-is-tightening-its-restrictions-on-people-who-havent-gotten-a-covid-vacci">Germany is tightening its restrictions on people who haven't gotten a COVID vaccine</a> NPR: The German government is imposing tighter restrictions on people who have not been vaccinated against COVID-19, and is planning legislation to make vaccination mandatory in early 2022. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
- <p class="updated_time"> 03:19 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028389/the-philippines-vaccinated-more-than-7-5-million-people-against-covid-in-3-days">The Philippines vaccinated more than 7.5 million people against COVID in 3 days</a> NPR: More than 7.5 million Filipinos got COVID vaccines in just three days this week — an impressive milestone in the country's battle against the pandemic. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -204,6 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:39 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/testing-requirement-international-travel-us/index.html">Stricter testing requirements for travelers coming to the US will take effect Monday</a> CNN: The Biden administration's new, stricter testing requirements for all travelers coming to the United States will take effect at midnight on Monday, an administration official told CNN. 
+ <p class="updated_time"> 05:34 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/covid-vaccine-patents-what-matters/index.html">Analysis: Vaccines are the key. They're also making some people very rich.</a> CNN: President Joe Biden released a new plan Thursday to deal with an expected winter surge of Covid-19. It rejects shutdowns and more restrictions in favor of vaccines, boosters and tests. 
+ <p class="updated_time"> 05:30 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/democrats-2022-strategy-trump/index.html">Analysis: Why Donald Trump won't save Democrats in 2022 </a> CNN: Tying Republican candidates to former President Donald Trump won't save Democrats from a midterm Armageddon, according to one prominent party pollster. 
  <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:21 PM CT, Dec. 02 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061015753/abortion-roe-v-wade-trigger-laws-mississippi-jacksons-womens-health-organization">21 states poised to ban or severely restrict abortion if Roe v. Wade is overturned</a> NPR: So-called "trigger laws" in 12 states would automatically enact an abortion ban if Roe is overturned. In nine others, bans that were blocked by courts or have long been unenforced could take effect. 
  <p class="updated_time"> 05:18 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">House passes plan to fund the government as Republican senators stand by shutdown threat ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
- <p class="updated_time"> 05:16 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/testing-requirement-international-travel-us/index.html">Stricter testing requirements for travelers coming to the US to take effect on Monday</a> CNN: The Biden administration's new, stricter testing requirements for all travelers coming to the United States will take effect at midnight on Monday, an administration official told CNN. 
  <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/lynda-blanchard-running-for-governor/index.html">Alabama GOP Senate candidate Lynda Blanchard to switch races and run for governor</a> CNN: Republican Lynda Blanchard plans to end her Alabama US Senate bid and instead run for governor, according to three people familiar with the matter. She is expected to announce her campaign against GOP Gov. Kay Ivey next week. 
  <p class="updated_time"> 05:05 PM CT, Dec. 02 </p> 
@@ -255,13 +259,11 @@ permalink: /projects/news/
  <p class="updated_time"> 02:47 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-staff-symone-sanders/index.html">Harris brushes off question on staff shake-up after senior adviser announces departure</a> CNN: Vice President Kamala Harris on Thursday offered praise for her departing senior adviser, Symone Sanders, while brushing off a question about a larger staff shake up in her office. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Review Finds No Answers to Mystery of Havana Syndrome</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Bidens set to attend National Christmas Tree lighting ceremony</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
  <p class="updated_time"> 02:22 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/nfl-flyover-investigation-military-faa/index.html">US Army and FAA investigating military flyover of NFL game</a> CNN: The US military and the Federal Aviation Administration are reviewing a flyover of an NFL game last month to determine if the military helicopters flew too low over civilians in violation of aviation regulations. 
- <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-variant.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/media/chris-cuomo-cnn.html">CNN and Chris Cuomo Face Difficult Questions After Anchor’s Suspension</a> NYT: The network said it was pursuing a “further evaluation” of evidence regarding its star anchor’s efforts to help stave off a sexual harassment scandal that his brother, former Gov. Andrew M. Cuomo, was facing. 
- <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 06:12 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/stacey-abrams-georgia-governor.html">Stacey Abrams Says She’s Running for Georgia Governor</a> NYT: Ms. Abrams, a Democratic voting rights activist, will aim to unseat Gov. Brian Kemp in a rematch of their contentious 2018 race for governor. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
