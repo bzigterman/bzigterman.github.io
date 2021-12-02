@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 12:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Is Addressing Nation on New Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota who had recently traveled to New York City. 
- <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 12:56 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Officials said they found the virus variant in a test sample from a man who had recently traveled to New York City for a convention. 
+ <p class="updated_time"> 12:54 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
+ <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say 'Omicron'?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
  <p class="updated_time"> 12:15 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59511820?at_medium=RSS&at_campaign=KARANGA">Elle to stop promoting the use of animal fur in its magazines</a> BBC: It is the first major fashion publication to make the pledge, citing its support for animal rights. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59506445?at_medium=RSS&at_campaign=KARANGA">Israel PM: Nuclear talks must end over Iran ‘blackmail’ tactics</a> BBC: Naftali Bennett's call comes as Iran and world powers try to save their nuclear deal from collapse. 
  <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503762?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Lavrov warns of return to military confrontation nightmare</a> BBC: Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion. 
- <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Officials said they found the virus variant in a test sample from a man who had recently traveled to New York City for Anime NYC 2021 convention at the Javits Center. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 11:00 AM CT, Dec. 02 </p> 
@@ -51,7 +53,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
  <p class="updated_time"> 09:25 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
- <p class="updated_time"> 06:51 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 07:57 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid-19 Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
  <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060444100/who-member-states-will-work-on-a-global-agreement-to-deal-with-future-pandemics">WHO member states will work on a global agreement to deal with future pandemics</a> NPR: The coronavirus outbreak exposed flaws in the global health system but also showed a willingness among countries to work together, Tedros Adhanom Ghebreyesus, the WHO's director-general, says. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
- <p class="updated_time"> 09:28 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59490786?at_medium=RSS&at_campaign=KARANGA">WHO: ‘Omicron is a variant of concern, not panic’</a> BBC: The world needs to be alert but not overreact, the World Health Organization’s spokesperson says. 
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
@@ -199,9 +199,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden faces more virus trouble. Wall Street economists see boomtimes for now.</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
- <p class="updated_time"> 12:51 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
+ <p class="updated_time"> 12:54 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 12:51 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/florida-taxpayer-dollars-unvaccinated/index.html">Florida's DeSantis wants to hand out taxpayer dollars to businesses that defy vaccine mandates</a> CNN: As Florida Republicans, led by Gov. Ron DeSantis, escalate their fight against President Joe Biden's coronavirus vaccine mandate, they are testing a new method to support resisters: giving taxpayer money to the unvaccinated. 
+ <p class="updated_time"> 12:47 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 12:33 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:20 PM CT, Dec. 02 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/booster-partisan-split-analysis/index.html">Analysis: The vast majority of Republicans don't want a booster</a> CNN: The effort to provide a Covid-19 vaccine booster to every American adult is underway. While millions of Americans have received their booster, 84% of adults have not. 
- <p class="updated_time"> 08:45 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden will outline new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
@@ -257,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Watch live: Biden is about to outline a new plan to limit COVID surges this winter</a> NPR: The White House wants more people to get vaccines, booster shots and COVID tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
+ <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Watch live: Biden is about to outline a new plan to limit COVID surges this winter</a> NPR: The White House wants more people to get vaccines, booster shots and coronavirus tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
  <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
@@ -302,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-january-6-amy-berman-jackson/index.html">Trump 'stoked' crowd on January 6 and should be held accountable, federal judge says</a> CNN: A federal judge suggested Wednesday that Donald Trump and others who spoke at the "Stop the Steal" rally on January 6 should be held accountable for the US Capitol riot that followed, saying the then-President "stoked" the crowd and "might've inspired what happened." 
  <p class="updated_time"> 05:56 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s requirement for large employers is a sticking point over a stopgap spending bill. 
- <p class="updated_time"> 05:44 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
