@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 04:20 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid News: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59500093?at_medium=RSS&at_campaign=KARANGA">Biden puts faith in Santa Claus amid supply chain problems</a> BBC: The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
- <p class="updated_time"> 04:49 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59498167?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect, 15, charged as an adult</a> BBC: The 15-year-old killed four students in an "absolutely premeditated" attack, say prosecutors. 
  <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
@@ -157,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">Victims of a historic flood in New York City reflect on the wreckage</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
- <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
@@ -227,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:54 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/takeaways-supreme-court-abortion/index.html">Takeaways from the historic Supreme Court arguments on abortion rights</a> CNN: The Supreme Court heard oral arguments Wednesday on one of its most important cases in decades and considered the future of abortion rights in America. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/john-roberts-abortion-supreme-court.html">Roberts Searches for Middle Ground in Abortion Case</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">Roberts Searches for Middle Ground in Abortion Case</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:11 PM CT, Dec. 01 </p> 
