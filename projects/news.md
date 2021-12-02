@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:36 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 05:48 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s moves are expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. 
  <p class="updated_time"> 05:13 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis-fans-censors.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
+ <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 05:12 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59503757?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Defence lawyers seek to discredit key accuser</a> BBC: Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial. 
  <p class="updated_time"> 04:33 AM CT, Dec. 02 </p> 
@@ -39,8 +39,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
+ <p class="updated_time"> 12:26 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Asia's Tough New Omicron Measures Hit a Nerve: 'Does the Virus Read Your Passport?'</a> WSJ: Countries throughout the Asia-Pacific region are tightening controls for travelers or slamming the door shut altogether in response to the Omicron variant, leading to criticism that they are going too far. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/chinas-digital-currency-challenge-winning-hearts-and-minds-11638441000">Digital Yuan Faces Obstacles in Winning Hearts and Minds</a> WSJ: Beijing has convinced financial policy makers everywhere of its resolve to create a digital version of its currency. The challenge is getting consumers interested. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
@@ -127,18 +131,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
- <p class="updated_time"> 08:46 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/australia-investigates-whether-omicron-variant-spread-on-flight-11638335965">Covid-19 Cases Nearly Double in South Africa as Omicron Reaches More Countries</a> WSJ: There are signs the Omicron variant is more transmissible, as well as hints that vaccines help in subduing severe symptoms. 
  <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: Comments from Anthony Davis indicated James has tested positive for the coronavirus, which could keep him out for 10 days. 
  <p class="updated_time"> 07:38 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060423949/nigeria-omicron-variant-origins">Nigeria detects an omicron case from weeks before it was first reported in S. Africa </a> NPR: It is the first West African country that has recorded the omicron variant and adds to a list of nearly 20 countries where the variant has been detected. 
- <p class="updated_time"> 06:44 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-expels-some-u-s-diplomats-in-latest-tit-for-tat-action-11638362097">Russia Expels U.S. Diplomats in Latest Tit-for-Tat Action</a> WSJ: Russia ordered U.S. Embassy staff who have been in Moscow for more than three years to leave the country by Jan. 31, in the latest round of tit-for-tat expulsions between Washington and Moscow. 
  <p class="updated_time"> 06:17 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
- <p class="updated_time"> 05:59 AM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/afghan-journalists-in-exile-keep-spotlight-on-their-homeland-11638377997">Afghan Journalists in Exile Keep Spotlight on Their Homeland</a> WSJ: Free media was a major achievement of Western efforts in Afghanistan. Now, it struggles for survival under Taliban intimidation. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
