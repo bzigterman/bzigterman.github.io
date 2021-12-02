@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
+ <p class="updated_time"> 04:23 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: One was a Colorado woman who returned from a trip to southern Africa, and the other was a Minnesota man who had been to New York City. 
+ <p class="updated_time"> 04:15 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/russia-biden-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 03:47 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028425/new-delhi-is-closing-schools-as-it-tries-to-deal-with-air-pollution">New Delhi is closing schools as it tries to deal with air pollution</a> NPR: Kids in Delhi, India, have been indoors for 20 months –- first for COVID, now for smog beyond four times what's safe. Officials have installed towers to filter it, but scientists say they don't work. 
- <p class="updated_time"> 03:46 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
- <p class="updated_time"> 03:45 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Another case was identified in Colorado: A woman who lives in the state recently returned from a trip to southern Africa for tourism, officials said. 
  <p class="updated_time"> 03:42 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden unveils new Covid-19 winter measures</a> BBC: Cases of the Omicron variant have now been reported in three US states and at least 23 countries. 
  <p class="updated_time"> 03:41 PM CT, Dec. 02 </p> 
@@ -202,8 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
- <p class="updated_time"> 04:09 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 04:29 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/ndaa-senate-stalled/index.html">Annual defense bill stalled in Senate </a> CNN: The annual defense bill is stalled in the Senate amid a bitter disagreement over one senator's demand to punish China over its alleged treatment of the Uyghurs. 
+ <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Exclusive: Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
+ <p class="updated_time"> 04:15 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/russia-biden-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/democrats-massachusetts-governor-baker-healey-walsh/index.html">Democrats take new look at Massachusetts governor's race after Baker steps aside</a> CNN: The race for Massachusetts governor became more appealing for commonwealth Democrats this week with popular Republican Gov. Charlie Baker's decision not to seek a third term. 
  <p class="updated_time"> 03:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 03:34 PM CT, Dec. 02 </p> 
@@ -223,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:47 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-staff-symone-sanders/index.html">Harris brushes off question on staff shake-up after senior adviser announces departure</a> CNN: Vice President Kamala Harris on Thursday offered praise for her departing senior adviser, Symone Sanders, while brushing off a question about a larger staff shake up in her office. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Review Finds No Answers to Mystery of Havana Syndrome</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 02:28 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Bidens set to attend National Christmas Tree lighting ceremony</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
  <p class="updated_time"> 02:22 PM CT, Dec. 02 </p> 
@@ -254,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html">Supreme Court Seems Poised to Uphold Mississippi’s Abortion Law</a> NYT: It was less clear whether the court’s conservative majority would overrule Roe v. Wade, the decision establishing a constitutional right to abortion. 
  <p class="updated_time"> 10:54 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Lawmakers Strike Spending Deal but Government Shutdown Still Looms</a> NYT: Even as the House set a Thursday vote to fund the government through February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
- <p class="updated_time"> 10:30 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/kavanaugh-abortion-precedent-roe-mississippi/index.html">Brett Kavanaugh, who touted importance of precedent during confirmation fight, downplays it as he considers reversing Roe</a> CNN: When Justice Brett Kavanaugh was facing tough questions during his 2018 confirmation battle about his views on the Supreme Court's abortion rulings. he returned time and time again to the importance of precedent and their "precedent on precedent." 
  <p class="updated_time"> 09:45 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/interior-oil-gas-report-biden-climate/index.html">Tough politics around oil and gas are preventing Joe Biden from being a climate hero </a> CNN: A long-awaited Department of Interior report on federal oil and gas leasing, tellingly released on Black Friday, is drawing criticism from multiple fronts. 
  <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
@@ -271,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">A Pollster’s Warning to Democrats: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
@@ -288,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: Among his new steps to fight COVID surges this winter: requiring private health insurers to reimburse people for at-home tests. It also calls for more people to get vaccines and boosters. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/austin-china-hypersonic-weapons-523661">U.S. defense chief slams China’s drive for hypersonic weapons</a> Politico: Lloyd Austin said the U.S. is concerned about China’s military capability. 
- <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-republican-blockade/index.html">Analysis: Biden's path out of the pandemic meets a Republican blockade</a> CNN: The entrenched Republican opposition to public health measures like vaccine and mask mandates has become one of the most difficult challenges facing President Joe Biden as he tries to fulfill his campaign promise to shut down the Covid-19 pandemic. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 09:06 PM CT, Dec. 01 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/omicron-variant-us-california.html">U.S. Reports Its 1st Omicron Case, in a California Traveler</a> NYT: The discovery in San Francisco County prompted the Biden administration to renew calls for everyone to get fully vaccinated and receive a booster, if eligible. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
- <p class="updated_time"> 07:02 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/trump-virus-positive.html">Trump Tested Positive for Virus Days Before Debate, 2 Ex-Officials Say</a> NYT: The former president first received a positive coronavirus test days ahead of his first debate with Joseph R. Biden Jr., and then received a negative result, two former officials say. 
  <p class="updated_time"> 06:54 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-variant.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/us-ambassador-israel.html">In Israel, the New U.S. Ambassador’s Home Lacks a Certain View</a> NYT: The Trump administration sold the luxurious estate where envoys had lived for decades when it moved the U.S. Embassy to Jerusalem. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/alyssa-farah-trump-covid-test-biden-debate-cnntv/index.html">Ex-White House official says Trump showed 'flagrant lack of regard for public health' in keeping positive Covid test secret</a> CNN: Former President Donald Trump showed "a flagrant lack of regard for public health" and endangered White House staff by not disclosing a positive Covid-19 test he received last year, his former communications director said Wednesday. 
- <p class="updated_time"> 05:57 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/donald-trump-january-6-amy-berman-jackson/index.html">Trump 'stoked' crowd on January 6 and should be held accountable, federal judge says</a> CNN: A federal judge suggested Wednesday that Donald Trump and others who spoke at the "Stop the Steal" rally on January 6 should be held accountable for the US Capitol riot that followed, saying the then-President "stoked" the crowd and "might've inspired what happened." 
  <p class="updated_time"> 05:56 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s requirement for large employers is a sticking point over a stopgap spending bill. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
@@ -342,6 +342,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 02:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/fed-inflation-omicron-covid.html">A Top Official Says the Fed Will ‘Grapple’ With a Faster Bond-Buying Taper</a> NYT: The president of the New York Federal Reserve said Omicron could prolong supply and demand mismatches, causing some inflation pressures to last. 
+ <p class="updated_time"> 01:57 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/biden-supply-chain-holiday/index.html">Biden says 'shelves are going to be stocked' for the holiday season</a> CNN: President Joe Biden on Wednesday sought to reassure Americans that shelves will be stocked this holiday season despite issues with global supply chains, 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
@@ -366,6 +368,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-timeline/index.html">Here's what Trump was up to around the time of his positive Covid-19 test</a> CNN: Here is a broad-strokes timeline of then-President Donald Trump's activities around the time he first tested positive for Covid-19. According to excerpts from a forthcoming book by Trump's former chief of staff Mark Meadows as reported by The Guardian, this was three days ahead of Trump's first 2020 presidential debate with Joe Biden. 
+ <p class="updated_time"> 10:10 AM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
