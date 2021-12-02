@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:28 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-duchess-sussex-tabloid-privacy.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
+ <p class="updated_time"> 09:26 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 09:25 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
+ <p class="updated_time"> 09:22 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential  hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 09:05 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
  <p class="updated_time"> 07:55 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 07:46 AM CT, Dec. 02 </p> 
@@ -33,16 +39,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59503757?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Defence lawyers seek to discredit key accuser</a> BBC: Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial. 
  <p class="updated_time"> 04:33 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59503874?at_medium=RSS&at_campaign=KARANGA">Curious leopard enters classroom in India</a> BBC: The five-year-old leopard attacked a student before it was captured in the northern city of Aligarh. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
+ <p class="updated_time"> 04:08 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
- <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy, which includes stricter rules for international travelers, comes as the worrisome Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
+ <p class="updated_time"> 03:47 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
  <p class="updated_time"> 03:38 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
@@ -57,22 +67,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
  <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/business/economy/omicron-economy.html">How Omicron Could Knock Economic Recovery Off Track</a> NYT: The latest zigzag in the pandemic has already curtailed travel, but its broader impact on growth and inflation isn’t likely to be known for several weeks. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/wages-are-going-gangbusters-in-the-u-s-elsewhere-not-so-much-11638450001">Wages Are Going Gangbusters in the U.S.---Elsewhere, Not So Much</a> WSJ: It is a stark divergence as the global economy recovers from the Covid-19 pandemic, with implications for how quickly central banks tighten monetary policy in response to price pressures. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
- <p class="updated_time"> 12:46 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/china-protests-politicization-of-sports-after-suspension-of-womens-tennis-11638445613">China Protests 'Politicization of Sports'</a> WSJ: The Women’s Tennis Association made good on threats to halt its events in the country amid concerns over the safety of star player Peng Shuai. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
- <p class="updated_time"> 11:30 PM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/chinas-digital-currency-challenge-winning-hearts-and-minds-11638441000">Digital Yuan Faces Obstacles in Winning Hearts and Minds</a> WSJ: Beijing has convinced financial policy makers everywhere of its resolve to create a digital version of its currency. The challenge is getting consumers interested. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
- <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
- <p class="updated_time"> 10:05 PM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-south-korea-to-update-wartime-plans-for-north-korea-11638435902">U.S. and South Korea to Update Wartime Plans for North Korea</a> WSJ: In recent months, the Kim Jong Un regime has unleashed smaller-range weapons tests, including new submarine-launched ballistic missile technology and a weapon fired from a train. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 09:42 PM CT, Dec. 01 </p> 
@@ -97,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59419962?at_medium=RSS&at_campaign=KARANGA">‘It’s like hell in here’: The struggle to save Afghanistan's starving babies</a> BBC: Doctors in Afghanistan’s crisis-hit hospitals are caring for their patients in almost impossible conditions. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
- <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/europe/eric-zemmour-france-president.html">Éric Zemmour, Far-Right Pundit, Makes French Presidential Run Official</a> NYT: After months of speculation, Mr. Zemmour, an anti-immigration writer and right-wing television star, said he was running in the presidential elections next year to “save” France. 
  <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
- <p class="updated_time"> 06:47 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/australia/parliament-harassment-report.html">Report: Rampant Sexual Harassment in Australia’s Parliament</a> NYT: A sweeping report lays out a cloistered, alcohol-fueled environment where powerful men violated boundaries unchecked. 
 
 
 </details>
@@ -198,6 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
  <p class="updated_time"> 09:24 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-at-home-covid-test-costs-523665">Biden seeks to require private health plans to pay for at-home Covid tests</a> Politico: The change represents the core of a ramped-up effort to encourage more widespread testing. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
+ <p class="updated_time"> 09:14 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/china-hackers-espionage-defense-contractors/index.html">Suspected Chinese hackers breach more US defense and tech firms</a> CNN: A suspected Chinese hacking campaign has breached four more US defense and technology companies in the last month, and hundreds more US organizations are running the type of vulnerable software that the attackers have exploited, according to research shared with CNN. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
@@ -215,11 +219,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">A Pollster’s Warning to Democrats: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
- <p class="updated_time"> 06:25 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/china-hackers-espionage-defense-contractors/index.html">Suspected Chinese hackers breach more US defense and tech firms</a> CNN: A suspected Chinese hacking campaign has breached four more US defense and technology companies in the last month, and hundreds more US organizations are running the type of vulnerable software that the attackers have exploited, according to research shared with CNN. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 05:01 AM CT, Dec. 02 </p> 
@@ -237,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/austin-china-hypersonic-weapons-523661">U.S. defense chief slams China’s drive for hypersonic weapons</a> Politico: Lloyd Austin said the U.S. is concerned about China’s military capability. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-republican-blockade/index.html">Biden's path out of the pandemic meets a Republican blockade</a> CNN: The entrenched Republican opposition to public health measures like vaccine and mask mandates has become one of the most difficult challenges facing President Joe Biden as he tries to fulfill his campaign promise to shut down the Covid-19 pandemic. 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-republican-blockade/index.html">Analysis: Biden's path out of the pandemic meets a Republican blockade</a> CNN: The entrenched Republican opposition to public health measures like vaccine and mask mandates has become one of the most difficult challenges facing President Joe Biden as he tries to fulfill his campaign promise to shut down the Covid-19 pandemic. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 09:29 PM CT, Dec. 01 </p> 
@@ -247,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:54 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/takeaways-supreme-court-abortion/index.html">Takeaways from the historic Supreme Court arguments on abortion rights</a> CNN: The Supreme Court heard oral arguments Wednesday on one of its most important cases in decades and considered the future of abortion rights in America. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">Roberts Searches for Middle Ground in Abortion Case</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
+ <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">In Abortion Case, Chief Justice Roberts Searches for Middle Ground</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:11 PM CT, Dec. 01 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/house-vote-bill-government-funding-shutdown/index.html">Shutdown deadline fast approaching as Congress struggles to lock in deal</a> CNN: The House of Representatives could vote as soon as Wednesday to approve a stopgap measure to prevent a government shutdown at the end of the week when funding runs out Friday at midnight. 
  <p class="updated_time"> 05:41 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/michigan-teen-charged-in-oxford-high-school-shooting-523625">Michigan teen charged in Oxford High School shooting</a> Politico: No motive was offered by Oakland County authorities. 
- <p class="updated_time"> 05:07 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/scotus-roe-overturn-history-precedent/index.html">Roe has lasted almost 50 years. How unusual would it be to overturn it?</a> CNN: For nearly half a century, Roe v. Wade has stood as the law of the land. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/peter-defazio-retire.html">Peter DeFazio, House Transportation Committee Chairman, Will Retire</a> NYT: The Oregon Democrat, who has served for nearly 35 years, is the third House committee leader to announce his retirement this year, as the party braces for a grueling midterm election. 
  <p class="updated_time"> 04:43 PM CT, Dec. 01 </p> 
