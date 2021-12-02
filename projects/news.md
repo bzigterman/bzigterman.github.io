@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:32 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
+ <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
  <p class="updated_time"> 04:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: One was a Colorado woman who returned from a trip to southern Africa, and the other was a Minnesota man who had been to New York City. 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:22 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
- <p class="updated_time"> 02:16 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
  <p class="updated_time"> 02:07 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
+ <p class="updated_time"> 04:37 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">House Passes Spending Bill as Government Shutdown Still Looms</a> NYT: Even as the House voted to fund the government through mid-February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
+ <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">House passes plan to fund the government as Republican senators stand by shutdown threat ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
+ <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/january-6-andrew-wrigley/index.html">January 6 was opposite of 1776, judge tells rioter who carried revolutionary flag into US Capitol</a> CNN: A federal judge slammed one of the January 6 rioters for waving a 1776 flag while storming the US Capitol, saying his attempt to overturn a democratic election betrayed the values of the American Revolution. 
+ <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
+ <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">House approves a short-term funding bill to avoid a government shutdown</a> NPR: The measure now heads to the Senate, where prospects for quick passage are in doubt ahead of a Friday deadline. A few Republicans have said they'd object to fast-tracking the bill. 
  <p class="updated_time"> 04:29 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/ndaa-senate-stalled/index.html">Annual defense bill stalled in Senate </a> CNN: The annual defense bill is stalled in the Senate amid a bitter disagreement over one senator's demand to punish China over its alleged treatment of the Uyghurs. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
@@ -214,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/democrats-massachusetts-governor-baker-healey-walsh/index.html">Democrats take new look at Massachusetts governor's race after Baker steps aside</a> CNN: The race for Massachusetts governor became more appealing for commonwealth Democrats this week with popular Republican Gov. Charlie Baker's decision not to seek a third term. 
  <p class="updated_time"> 03:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
- <p class="updated_time"> 03:34 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 03:24 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -260,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/mark-meadows-election-fraud-liaison/index.html">New details shed light on ways Mark Meadows pushed federal agencies to pursue dubious election claims</a> CNN: Former White House chief of staff Mark Meadows' new cooperation with the January 6 House select committee could give investigators a valuable window into how former President Donald Trump and his allies tried to enlist government officials to pursue baseless election conspiracy theories -- an effort new CNN reporting reveals Meadows was central to in the weeks after the 2020 election. 
  <p class="updated_time"> 10:55 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html">Supreme Court Seems Poised to Uphold Mississippi’s Abortion Law</a> NYT: It was less clear whether the court’s conservative majority would overrule Roe v. Wade, the decision establishing a constitutional right to abortion. 
- <p class="updated_time"> 10:54 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Lawmakers Strike Spending Deal but Government Shutdown Still Looms</a> NYT: Even as the House set a Thursday vote to fund the government through February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 09:45 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/interior-oil-gas-report-biden-climate/index.html">Tough politics around oil and gas are preventing Joe Biden from being a climate hero </a> CNN: A long-awaited Department of Interior report on federal oil and gas leasing, tellingly released on Black Friday, is drawing criticism from multiple fronts. 
  <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
- <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/booster-partisan-split-analysis/index.html">Analysis: The vast majority of Republicans don't want a booster</a> CNN: The effort to provide a Covid-19 vaccine booster to every American adult is underway. While millions of Americans have received their booster, 84% of adults have not. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 04:05 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060382218/former-trump-chief-of-staff-mark-meadows-will-appear-before-the-jan-6-panel">Former Trump Chief of Staff Mark Meadows will appear before the Jan. 6 panel</a> NPR: The House committee investigating the Jan. 6 attack on the U.S. Capitol says former White House Chief of Staff Mark Meadows has agreed to provide documents and appear for a deposition. 
- <p class="updated_time"> 04:04 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056950304/supreme-court-abortion-roe-v-wade-historic-arguments">Supreme Court considers whether to reverse Roe v. Wade</a> NPR: At issue is whether to reverse the court's nearly half-century-old decision, Roe v. Wade, and subsequent decisions declaring that women have a constitutional right to terminate a pregnancy. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 04:50 PM CT, Nov. 30 </p> 
