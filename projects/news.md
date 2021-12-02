@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Dec. 02 </p> 
+ <a href="https://www.npr.org/2021/12/02/1061028425/new-delhi-is-closing-schools-as-it-tries-to-deal-with-air-pollution">New Delhi is closing schools as it tries to deal with air pollution</a> NPR: Kids in Delhi, India, have been indoors for 20 months –- first for COVID, now for smog beyond four times what's safe. Officials have installed towers to filter it, but scientists say they don't work. 
  <p class="updated_time"> 03:46 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
  <p class="updated_time"> 03:45 PM CT, Dec. 02 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 12:24 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060477609/the-omicron-variant-has-been-found-in-23-countries">The omicron variant has been found in 24 countries</a> NPR: More should be known about the transmissibility and severity of the new variant in "days, not necessarily weeks," a senior World Health Organization scientist says. 
- <p class="updated_time"> 11:53 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
  <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
