@@ -17,6 +17,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59456548?at_medium=RSS&at_campaign=KARANGA">Facebook uncovers Chinese network behind fake expert</a> BBC: It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
+ <p class="updated_time"> 09:42 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59501162?at_medium=RSS&at_campaign=KARANGA">Queensland Floods: Second death recorded as crisis continues</a> BBC: The southern part of Queensland has seen widespread rain and flooding. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 08:50 PM CT, Dec. 01 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
  <p class="updated_time"> 08:22 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/asia/china-peng-shuai-propaganda.html">China’s Silence on Peng Shuai Shows Limits of Beijing’s Propaganda</a> NYT: Officials have struggled to respond to a sexual assault allegation that hits at the heights of its buttoned-up political system. 
- <p class="updated_time"> 07:21 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59486375?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: How a Mississippi legal challenge could upend abortion rights</a> BBC: The Supreme Court is being asked to overturn the 1973 ruling that legalised abortion in the US. 
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
