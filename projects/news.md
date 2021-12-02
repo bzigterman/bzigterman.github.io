@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:46 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 08:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
  <p class="updated_time"> 07:55 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
@@ -198,6 +198,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/biden-at-home-covid-test-costs-523665">Biden seeks to require private health plans to pay for at-home Covid tests</a> Politico: The change represents the core of a ramped-up effort to encourage more widespread testing. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
+ <p class="updated_time"> 08:47 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
+ <p class="updated_time"> 08:45 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden will outline new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 08:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
@@ -218,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/trump-ohio-senate-primary-523628">Trump intervenes in Ohio Senate primary — for himself</a> Politico: The former president was upset about ads in the race featuring anti-Trump comments a candidate made in 2016. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 04:05 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden will outline new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773437/sen-elizabeth-warren-is-focused-on-bringing-in-more-tax-revenue-for-the-irs">Sen. Elizabeth Warren is focused on bringing in more tax revenue for the IRS</a> NPR: NPR's Steve Inskeep speaks with Democratic Sen. Elizabeth Warren of Massachusetts about the U.S. economy and rising inflation. 
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisers narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
- <p class="updated_time"> 04:50 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/joe-biden-michigan-school-shooting/index.html">Biden says his 'heart goes out' to families affected by Michigan school shooting</a> CNN: President Joe Biden on Tuesday mourned the deaths of three students shot and killed at a southeast Michigan high school. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
