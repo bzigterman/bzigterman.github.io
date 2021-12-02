@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 11:53 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
+ <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
  <p class="updated_time"> 11:22 AM CT, Dec. 02 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
- <p class="updated_time"> 11:13 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 11:10 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 11:09 AM CT, Dec. 02 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 09:25 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
- <p class="updated_time"> 07:55 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus, Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 06:47 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html">Who, and Where, Is Chinese Tennis Star Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/booster-partisan-split-analysis/index.html">Analysis: The vast majority of Republicans don't want a booster</a> CNN: The effort to provide a Covid-19 vaccine booster to every American adult is underway. While millions of Americans have received their booster, 84% of adults have not. 
- <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 08:45 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden will outline new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
