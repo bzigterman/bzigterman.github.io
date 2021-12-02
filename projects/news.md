@@ -97,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060531196/world-aids-day-2021-covid-19-similarities-inequities">What the AIDS crisis can teach us about the COVID pandemic response</a> NPR: This is the second World AIDS Day during the coronavirus pandemic. Public health officials are calling on world leaders to do more to address the inequities at the root of both crises. 
  <p class="updated_time"> 11:20 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html">Catherine the Great Letter Supporting Inoculations Sells for $1.3 Million</a> NYT: In the letter, which sold at auction in London on Wednesday, the Russian empress called for widespread access to a precursor of the smallpox vaccine. 
- <p class="updated_time"> 10:59 AM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59439798?at_medium=RSS&at_campaign=KARANGA">Arizona officer fired after fatally shooting man in wheelchair</a> BBC: Tucson police officer Ryan Remington fired nine shots at the 61-year old suspected shoplifter. 
  <p class="updated_time"> 10:31 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/12/01/1060444100/who-member-states-will-work-on-a-global-agreement-to-deal-with-future-pandemics">WHO member states will work on a global agreement to deal with future pandemics</a> NPR: The coronavirus outbreak exposed flaws in the global health system but also showed a willingness among countries to work together, Tedros Adhanom Ghebreyesus, the WHO's director-general, says. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
@@ -147,6 +145,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">Victims of a historic flood in New York City reflect on the wreckage</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
+ <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
