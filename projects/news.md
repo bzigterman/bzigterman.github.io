@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:39 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
+ <p class="updated_time"> 07:11 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s moves are expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. 
+ <p class="updated_time"> 07:08 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
+ <p class="updated_time"> 07:04 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
+ <p class="updated_time"> 06:54 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59503762?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Lavrov warns of return to military confrontation nightmare</a> BBC: Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion. 
  <p class="updated_time"> 06:37 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 06:29 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59502177?at_medium=RSS&at_campaign=KARANGA">Merkel picks German punk singer Hagen for last serenade</a> BBC: Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour. 
- <p class="updated_time"> 06:24 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s moves are expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. 
  <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
  <p class="updated_time"> 05:12 AM CT, Dec. 02 </p> 
@@ -37,16 +41,18 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59502515?at_medium=RSS&at_campaign=KARANGA">Home Alone house available to book on Airbnb</a> BBC: The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only. 
+ <p class="updated_time"> 02:05 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Foreign Travel Was Just Opening Up. Omicron Means It's a Minefield Again.</a> WSJ: The new variant is triggering a fresh patchwork of national travel restrictions around the world, throwing up new obstacles to overseas travel just as it was starting to bounce back from last year’s Covid-19 measures. 
  <p class="updated_time"> 02:04 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59498779?at_medium=RSS&at_campaign=KARANGA">WTA suspends China tournaments over Peng Shuai</a> BBC: The WTA announces the immediate suspension of all tournaments in China amid concern for Chinese tennis player Peng Shuai. 
  <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/business/economy/omicron-economy.html">How Omicron Could Knock Economic Recovery Off Track</a> NYT: The latest zigzag in the pandemic has already curtailed travel, but its broader impact on growth and inflation isn’t likely to be known for several weeks. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
  <p class="updated_time"> 12:46 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/china-protests-politicization-of-sports-after-suspension-of-womens-tennis-11638445613">China Protests 'Politicization of Sports'</a> WSJ: The Women’s Tennis Association made good on threats to halt its events in the country amid concerns over the safety of star player Peng Shuai. 
- <p class="updated_time"> 12:26 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Asia's Tough New Omicron Measures Hit a Nerve: 'Does the Virus Read Your Passport?'</a> WSJ: Countries throughout the Asia-Pacific region are tightening controls for travelers or slamming the door shut altogether in response to the Omicron variant, leading to criticism that they are going too far. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
  <p class="updated_time"> 11:30 PM CT, Dec. 01 </p> 
@@ -56,11 +62,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
  <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
- <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/australia-adopts-magnitsky-sanctions-rules-11638436638">Australia Adopts Magnitsky Sanctions Rules</a> WSJ: Australia’s new rules will allow it to target people and entities allegedly engaged in malicious cyberactivity and corruption with sanctions, including asset freezes and travel bans. 
- <p class="updated_time"> 10:12 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59456548?at_medium=RSS&at_campaign=KARANGA">Facebook uncovers Chinese network behind fake expert</a> BBC: It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search. 
+ <p class="updated_time"> 10:17 PM CT, Dec. 01 </p> 
+ <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
  <p class="updated_time"> 10:05 PM CT, Dec. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-south-korea-to-update-wartime-plans-for-north-korea-11638435902">U.S. and South Korea to Update Wartime Plans for North Korea</a> WSJ: In recent months, the Kim Jong Un regime has unleashed smaller-range weapons tests, including new submarine-launched ballistic missile technology and a weapon fired from a train. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
@@ -91,6 +95,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/health/covid-masks-counterfeit-fake.html">Counterfeit Covid Masks Are Still Sold Everywhere</a> NYT: Rising Covid cases have spurred a return to mask-wearing in the U.S. and overseas, at a time when flawed KN95s from China continue to dominate e-commerce sites. 
  <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
@@ -171,6 +177,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/30/1060185908/barbados-has-removed-the-queen-of-england-as-head-of-state-and-is-now-a-republic">Barbados has removed the Queen of England as head of state and is now a republic</a> NPR: NPR's Ari Shapiro talks with Kareem Smith, a journalist with 'Barbados Today,' about the country removing the Queen of England as its head of state and what that means for Barbadians moving forward. 
  <p class="updated_time"> 03:07 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/asia/taliban-revenge-killings-afghanistan.html">Dozens of Former Afghan Security Forces Dead or Missing Under Taliban, Report Says</a> NYT: More than 100 former members of the military and police have been killed or forcibly disappeared by the Taliban since the group came into power, according to an investigation by Human Rights Watch. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
  <p class="updated_time"> 09:22 AM CT, Nov. 30 </p> 
@@ -188,10 +196,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
- <p class="updated_time"> 06:35 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/antony-blinken-sergey-lavrov-us-russia-meeting-intl/index.html">Blinken and Lavrov meet amid tensions over Russia's intentions in Ukraine</a> CNN: US Secretary of State Antony Blinken and Russian Foreign Minister Sergey Lavrov met Thursday in Stockholm, Sweden, amid growing concern among Western powers that Russia is seeking to destabilize Ukraine. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:25 AM CT, Dec. 02 </p> 
