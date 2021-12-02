@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:52 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential  hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
+ <p class="updated_time"> 09:05 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
  <p class="updated_time"> 07:55 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy, which includes stricter rules for international travelers, comes as the worrisome Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
- <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: France has fewer immigrants than other rich nations. But politicians are hardening their positions against immigration even as other countries compete for migrant workers. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
@@ -194,18 +194,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
  <p class="updated_time"> 09:24 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-at-home-covid-test-costs-523665">Biden seeks to require private health plans to pay for at-home Covid tests</a> Politico: The change represents the core of a ramped-up effort to encourage more widespread testing. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Hill leaders strike short-term funding deal as shutdown looms</a> Politico: Possible trouble still lurks in the Senate for the spending patch, which would continue government funding levels through Feb. 18. 
- <p class="updated_time"> 08:47 AM CT, Dec. 02 </p> 
+ <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
+ <p class="updated_time"> 09:06 AM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/booster-partisan-split-analysis/index.html">Analysis: The vast majority of Republicans don't want a booster</a> CNN: The effort to provide a Covid-19 vaccine booster to every American adult is underway. While millions of Americans have received their booster, 84% of adults have not. 
+ <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 08:45 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden will outline new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 08:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress scrambling to avert shutdown as plan unveiled to fund government into February</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
- <p class="updated_time"> 08:23 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-winter-covid-booster-testing-523662">Biden launching winter Covid-19 booster, testing campaign</a> Politico: The President is set to kick off a more urgent campaign for Americans to get Covid-19 booster shots Thursday following reported cases of the Omicron variant in California. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:53 AM CT, Dec. 02 </p> 
@@ -295,8 +299,6 @@ permalink: /projects/news/
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/stacey-abrams-georgia-governor-race/index.html">Stacey Abrams announces she's running for governor in Georgia</a> CNN: Georgia Democrat Stacey Abrams announced on Wednesday that she is running for governor, setting up a possible rematch with Georgia GOP Gov. Brian Kemp in what could become one of the most closely watched races in the country. 
- <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
  <p class="updated_time"> 03:44 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html">Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election</a> NYT: Mr. Baker, a moderate Republican in a deep-blue state, faced a Trump-backed primary challenge and a potentially difficult general election. 
@@ -320,10 +322,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
  <p class="updated_time"> 01:39 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/mccarthy-house-boebert-523607">McCarthy tries to keep order within House GOP as Dems debate Boebert punishment</a> Politico: But as more controversies crop up in the House Republican conference, ultra-conservatives are increasingly emboldened. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/peter-defazio-retires-523610">Peter DeFazio will retire from Congress in latest blow to Democrats</a> Politico: His move also comes as Democrats are widely expected to lose the majority in the House in 2022, which is likely to have factored into his decision. 
  <p class="updated_time"> 12:38 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-biden-debate/index.html">The Guardian: Trump tested positive for Covid-19 ahead of 2020 debate with Biden</a> CNN: Then-President Donald Trump tested positive for Covid-19 three days ahead of his first 2020 presidential debate with Joe Biden -- though he also had a negative result in that same timeframe, according to excerpts from a forthcoming book from the former Republican president's chief of staff reported by The Guardian. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
+ <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
  <p class="updated_time"> 11:24 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appears to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
  <p class="updated_time"> 11:08 AM CT, Dec. 01 </p> 
@@ -360,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1059896434/united-states-backsliding-democracy-donald-trump-january-6-capitol-attack">Democracy is declining in the U.S. but it's not all bad news, a report finds</a> NPR: The United States has joined the list of countries where democracy is backsliding, according to a new report by the think tank International IDEA. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
- <p class="updated_time"> 05:05 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/fda-merck-covid-pill-523565">FDA advisers narrowly endorse Merck's Covid-19 drug</a> Politico: The 13-10 vote puts the simple, at-home treatment, called molnupiravir, on track for FDA approval. 
  <p class="updated_time"> 03:48 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060185950/despite-omicron-ron-desantis-remains-firmly-against-lockdowns-and-vaccine-mandat">Despite omicron, Ron DeSantis remains firmly against lockdowns and vaccine mandates</a> NPR: Florida's governor is reacting to the omicron variant much differently than New York's. Messaging around how to respond has varied widely by state, depending on politics and recent COVID burdens. 
  <p class="updated_time"> 03:44 PM CT, Nov. 30 </p> 
@@ -371,15 +375,19 @@ permalink: /projects/news/
  <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor  Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
+ <p class="updated_time"> 07:37 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/capitol-riot-grand-jury-defendants-523511">Jan. 6 defendants' grand jury testimony helped prosecutors charge Capitol Police officer</a> Politico: The Justice Department said Jacob Hiles' cooperation was helpful not only in charging the officer but in identifying another rioter. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
+ <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/trump-jan-6-appeals-court-523484">Appeals court judges poised to reject Trump’s effort to withhold Jan. 6 documents</a> Politico: The former president’s lawsuit to shield his White House records came under scrutiny in court on Tuesday. 
  <p class="updated_time"> 04:30 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/covid-biden-presidency-omicron-delta-523497">Covid looms over Biden’s presidency, once more and always</a> Politico: The president’s success in office will be tied to how he handles the pandemic. The emergence of Omicron makes that clear again. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
