@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:49 PM CT, Dec. 01 </p> 
+ <p class="updated_time"> 01:19 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid News: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498832?at_medium=RSS&at_campaign=KARANGA">Epstein accuser: Ghislaine Maxwell is a 'master manipulator'</a> BBC: The BBC spoke to Teresa Helm, who accused Epstein of sexually assaulting her at the age of 22. 
  <p class="updated_time"> 06:10 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59498152?at_medium=RSS&at_campaign=KARANGA">Venezuela's hospital 'hell'</a> BBC: The healthcare system lacks equipment, buildings are crumbling and many healthcare workers have left in search of better lives. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59498152?at_medium=RSS&at_campaign=KARANGA">Inside Venezuela's hospital 'hell'</a> BBC: The healthcare system lacks equipment, buildings are crumbling and many healthcare workers have left in search of better lives. 
  <p class="updated_time"> 06:09 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59489045?at_medium=RSS&at_campaign=KARANGA">'No middle ground': Chile voters face tough choice as run-off looms</a> BBC: Voters speak of the divisions as an ultra-conservative and a left-winger battle it out. 
  <p class="updated_time"> 06:03 PM CT, Dec. 01 </p> 
@@ -146,9 +146,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:31 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/barbados-queen-republic-rihanna.html">Barbados Drops the Queen and Becomes a Republic</a> NYT: The island nation swore in its first president, ending nearly 400 years of British rule. Prince Charles and Rihanna were on hand to witness the ceremony. 
  <p class="updated_time"> 06:08 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">The struggle to recover from NYC's flash flood</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
- <p class="updated_time"> 06:00 PM CT, Nov. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59477100?at_medium=RSS&at_campaign=KARANGA">HGV shortages: Why European drivers don't want to come back to the UK</a> BBC: Lorry drivers say more investment is needed to make the UK industry more attractive to workers. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59480146?at_medium=RSS&at_campaign=KARANGA">Victims of a historic flood in New York City reflect on the wreckage</a> BBC: Victims of a historic flood in New York City reflect on the wreckage wrought by Hurricane Ida. 
  <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
