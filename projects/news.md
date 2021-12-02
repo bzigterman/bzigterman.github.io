@@ -7,18 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:56 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 02:18 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/health/coronavirus-omicron-genetic-surveillance.html">Why Hasn’t the U.S. Found More Omicron Cases?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
+ <p class="updated_time"> 02:16 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
+ <p class="updated_time"> 02:16 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president’s strategy included making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota resident who had recently traveled to New York City. 
- <p class="updated_time"> 01:50 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 02:12 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
- <p class="updated_time"> 01:49 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 02:07 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/omicron-coronavirus-variant.html">What We Know About the New Covid Variant, Omicron</a> NYT: Intense research into the new coronavirus variant first identified in southern Africa has just begun. World leaders have urged people not to panic — and to get vaccinated, if they can. 
- <p class="updated_time"> 01:47 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
+ <p class="updated_time"> 02:03 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-virus-travel-united-states.html">Travelers to U.S. Count the Hours: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
+ <p class="updated_time"> 02:02 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">A Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
+ <p class="updated_time"> 01:59 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Officials said they found the virus variant in a test sample from a man who had recently traveled to New York City for a convention. 
  <p class="updated_time"> 01:39 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
- <p class="updated_time"> 01:27 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/health/coronavirus-omicron-genetic-surveillance.html">Why Hasn’t the U.S. Found More Omicron Cases?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 01:17 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden unveils new Covid-19 winter measures</a> BBC: Public health officials in Minnesota have just reported a second US case of the Omicron variant. 
  <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
@@ -37,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases double in 24 hours as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
- <p class="updated_time"> 11:33 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
  <p class="updated_time"> 11:20 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -177,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
- <p class="updated_time"> 04:58 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/greece-vaccine-fine-covid.html">Greece to Fine Older Residents Who Don't Get Vaccinated</a> NYT: It is the latest European nation to announce restrictions on the unvaccinated, as the country tries to stem a surge. 
  <p class="updated_time"> 04:52 PM CT, Nov. 30 </p> 
  <a href="https://www.npr.org/2021/11/30/1060177252/united-nations-global-tourism-2021-covid-pandemic">The U.N. predicts that 2021 global tourism losses will barely improve over last year</a> NPR: The recent emergence of the highly transmissible omicron variant presents another potential hurdle as the tourism industry prepares for the upcoming winter holiday season. 
  <p class="updated_time"> 04:39 PM CT, Nov. 30 </p> 
@@ -191,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/30/health/johnson-johnson-covid-vaccine-africa.html">South African Company Nears License to Sell J. & J. Covid Shot Across Africa</a> NYT: The new agreement makes Aspen Pharmacare the first African company to market a Covid vaccine on the continent. But it stops short of allowing Aspen to make the ingredients in the vaccine. 
  <p class="updated_time"> 09:29 AM CT, Nov. 30 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/isis-trial-yazidi-germany.html">ISIS Fighter Convicted in Death of Enslaved 5-Year-Old Girl</a> NYT: In a trial held in Germany, the man was sentenced to life in prison for the death of the Yazidi girl, whom he allowed to die of thirst in Falluja, Iraq. 
- <p class="updated_time"> 08:55 AM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/turkey-erdogan-inflation-lira.html">‘Our Money Has No Value’: Frustration Rises in Turkey at Lira Crisis</a> NYT: President Recep Tayyip Erdogan’s insistence on directing monetary policy and sticking with low interest rates is draining confidence, economists say. 
 
 
 </details>
@@ -200,8 +202,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:50 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
+ <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
+ <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:34 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 01:29 PM CT, Dec. 02 </p> 
@@ -226,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:16 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/mark-meadows-election-fraud-liaison/index.html">New details shed light on ways Mark Meadows pushed federal agencies to pursue dubious election claims</a> CNN: Former White House chief of staff Mark Meadows' new cooperation with the January 6 House select committee could give investigators a valuable window into how former President Donald Trump and his allies tried to enlist government officials to pursue baseless election conspiracy theories -- an effort new CNN reporting reveals Meadows was central to in the weeks after the 2020 election. 
- <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 10:59 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant until now. 
  <p class="updated_time"> 10:55 AM CT, Dec. 02 </p> 
@@ -251,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">A Pollster’s Warning to Democrats: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
@@ -265,9 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden outlines a new plan to limit COVID surges this winter</a> NPR: The White House wants more people to get vaccines, booster shots and coronavirus tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
- <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
+ <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: Among his new steps to fight COVID surges this winter: requiring private health insurers to reimburse people for at-home tests. It also calls for more people to get vaccines and boosters. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/austin-china-hypersonic-weapons-523661">U.S. defense chief slams China’s drive for hypersonic weapons</a> Politico: Lloyd Austin said the U.S. is concerned about China’s military capability. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
