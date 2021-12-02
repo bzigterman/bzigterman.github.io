@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:32 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:26 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59501182?at_medium=RSS&at_campaign=KARANGA">Alan Tudge: Australia minister stood aside over 'abusive' affair allegations</a> BBC: Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017. 
- <p class="updated_time"> 10:20 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/12/01/world/omicron-variant-covid">Covid Live Updates: Biden to Extend Mask Mandate for Travel</a> NYT: The move is part of a plan to be announced on Thursday, according to a person familiar with the decision. Nearly two dozen countries, including the U.S., have now detected the variant. 
  <p class="updated_time"> 10:12 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59456548?at_medium=RSS&at_campaign=KARANGA">Facebook uncovers Chinese network behind fake expert</a> BBC: It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
