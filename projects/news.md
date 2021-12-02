@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 08:50 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59495210?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Top US judges signal support for abortion limits</a> BBC: The court's eventual ruling may cut off abortion access for tens of millions of American women. 
  <p class="updated_time"> 08:33 PM CT, Dec. 01 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 05:37 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59500093?at_medium=RSS&at_campaign=KARANGA">Biden puts faith in Santa Claus amid supply chain problems</a> BBC: The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes. 
- <p class="updated_time"> 05:28 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-vaccines.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">‘So Many Dimensions’: A Drought Study Underlines the Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
@@ -194,6 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Blinken warns Russia of 'severe consequences' if it invades Ukraine ahead of Lavrov meeting</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
+ <p class="updated_time"> 09:40 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 09:29 PM CT, Dec. 01 </p> 
@@ -204,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">Analysis: John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 08:54 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/takeaways-supreme-court-abortion/index.html">Takeaways from the historic Supreme Court arguments on abortion rights</a> CNN: The Supreme Court heard oral arguments Wednesday on one of its most important cases in decades and considered the future of abortion rights in America. 
- <p class="updated_time"> 08:49 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House at end of year</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/john-roberts-abortion-supreme-court.html">Roberts Searches for Middle Ground in Abortion Case</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 10:42 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-positive-test-timeline/index.html">Here's what Trump was up to around the time of his positive Covid-19 test</a> CNN: Here is a broad-strokes timeline of then-President Donald Trump's activities around the time he first tested positive for Covid-19. According to excerpts from a forthcoming book by Trump's former chief of staff Mark Meadows as reported by The Guardian, this was three days ahead of Trump's first 2020 presidential debate with Joe Biden. 
- <p class="updated_time"> 10:33 AM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/antony-blinken-russia-sergei-lavrov/index.html">Blinken warns Russia of 'severe consequences' if it invades Ukraine ahead of Lavrov meeting</a> CNN: US Secretary of State Antony Blinken will meet with Russian Foreign Minister Sergei Lavrov on Thursday in Stockholm, according to a State Department official. 
  <p class="updated_time"> 10:10 AM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/11/30/politics/coronavirus-testing-travelers-us-biden-administration/index.html">Biden administration considering requiring stricter coronavirus testing for everyone traveling to US</a> CNN: Top American government officials are considering requiring everyone who enters the United States to be tested for Covid-19 the day before their flight and having all travelers -- including US citizens and permanent residents -- be tested again after returning home, regardless of vaccination status, sources familiar with the discussions have told CNN. 
  <p class="updated_time"> 09:52 AM CT, Dec. 01 </p> 
