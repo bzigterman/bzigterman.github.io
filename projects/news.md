@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:29 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden to Announce New Virus Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home Covid tests, and tightening rules for international travelers. The first U.S. Omicron case is detected in California. 
+ <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Is Addressing Nation on New Plan as Omicron Reaches U.S.</a> NYT: The president’s strategy is expected to include making insurers reimburse the cost of home coronavirus tests, and tightening rules for international travelers. The first U.S. Omicron case was detected in California, and a second in a Minnesota who had recently traveled to New York City. 
+ <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 12:40 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 12:15 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59511820?at_medium=RSS&at_campaign=KARANGA">Elle to stop promoting the use of animal fur in its magazines</a> BBC: It is the first major fashion publication to make the pledge, citing its support for animal rights. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
- <p class="updated_time"> 11:10 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 11:09 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59506445?at_medium=RSS&at_campaign=KARANGA">Israel PM: Nuclear talks must end over Iran ‘blackmail’ tactics</a> BBC: Naftali Bennett's call comes as Iran and world powers try to save their nuclear deal from collapse. 
  <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 10:01 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
- <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 09:25 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
  <p class="updated_time"> 06:51 AM CT, Dec. 02 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden faces more virus trouble. Wall Street economists see boomtimes for now.</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
+ <p class="updated_time"> 12:51 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
+ <p class="updated_time"> 12:33 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:20 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 11:45 AM CT, Dec. 02 </p> 
@@ -210,12 +214,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:16 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/mark-meadows-election-fraud-liaison/index.html">New details shed light on ways Mark Meadows pushed federal agencies to pursue dubious election claims</a> CNN: Former White House chief of staff Mark Meadows' new cooperation with the January 6 House select committee could give investigators a valuable window into how former President Donald Trump and his allies tried to enlist government officials to pursue baseless election conspiracy theories -- an effort new CNN reporting reveals Meadows was central to in the weeks after the 2020 election. 
- <p class="updated_time"> 11:10 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
  <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
- <p class="updated_time"> 11:04 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Republican senators threaten to shut down government over vaccine mandate ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 10:59 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant until now. 
  <p class="updated_time"> 10:55 AM CT, Dec. 02 </p> 
