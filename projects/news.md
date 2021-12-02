@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
  <p class="updated_time"> 01:39 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59488848?at_medium=RSS&at_campaign=KARANGA">Pfizer boss: Annual Covid jabs for years to come</a> BBC: In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives. 
+ <p class="updated_time"> 12:46 AM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-protests-politicization-of-sports-after-suspension-of-womens-tennis-11638445613">China Protests 'Politicization of Sports' After Suspension of Women's Tennis</a> WSJ: The Women’s Tennis Association made good on threats to halt its events in the country amid concerns over the safety of star player Peng Shuai. 
  <p class="updated_time"> 12:26 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/asias-tough-new-omicron-measures-hit-a-nerve-does-the-virus-read-your-passport-11638444401">Asia's Tough New Omicron Measures Hit a Nerve: 'Does the Virus Read Your Passport?'</a> WSJ: Countries throughout the Asia-Pacific region are tightening controls for travelers or slamming the door shut altogether in response to the Omicron variant, leading to criticism that they are going too far. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
@@ -188,6 +190,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
+ <p class="updated_time"> 05:52 AM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 05:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/china-hackers-espionage-defense-contractors/index.html">Suspected Chinese hackers breach more US defense and tech firms</a> CNN: A suspected Chinese hacking campaign has breached four more US defense and technology companies in the last month, and hundreds more US organizations are running the type of vulnerable software that the attackers have exploited, according to research shared with CNN. 
  <p class="updated_time"> 05:01 AM CT, Dec. 02 </p> 
@@ -202,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: The White House wants more people to get vaccines, booster shots and COVID tests — especially with the new omicron variant here. A new plan will provide some new incentives. 
- <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 12:59 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 12:43 AM CT, Dec. 02 </p> 
