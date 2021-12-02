@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president said he would ask insurers to reimburse the cost of home coronavirus tests and tighten rules for international travelers. After the first U.S. Omicron case was detected in California, six more cases were reported in New York, Minnesota and Colorado. 
+ <p class="updated_time"> 05:51 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Five cases were reported in New York City and on Long Island, while another case was a Minnesota man who had recently traveled to the city. Colorado also reported one case. 
  <p class="updated_time"> 05:39 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
- <p class="updated_time"> 05:33 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president said he would ask insurers to reimburse the cost of home coronavirus tests and tighten rules for international travelers. After the first U.S. Omicron case was detected in California, six more cases were reported in New York, Minnesota and Colorado. 
- <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Four cases were reported in New York City and on Long Island, while a fifth was a Minnesota man who had recently traveled to the city. Another case was reported in Colorado. 
  <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 05:05 PM CT, Dec. 02 </p> 
