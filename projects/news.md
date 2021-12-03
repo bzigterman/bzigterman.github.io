@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
  <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
- <p class="updated_time"> 02:28 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 02:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59501055?at_medium=RSS&at_campaign=KARANGA">Thailand: Newspaper rebuked over 'hunts Africans' headline</a> BBC: The country's Covid-19 taskforce admonished the paper by saying it was a "poor choice of words." 
  <p class="updated_time"> 02:13 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
  <p class="updated_time"> 02:03 AM CT, Dec. 03 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 10:17 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
- <p class="updated_time"> 09:09 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-59514800?at_medium=RSS&at_campaign=KARANGA">China app giant Didi plans US stock market exit in move to Hong Kong</a> BBC: The move comes after the company came under intense scrutiny from regulators in the US and China. 
  <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
@@ -199,6 +201,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
+ <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
 
 
 </details>
