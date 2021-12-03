@@ -837,11 +837,11 @@ permalink: /projects/economy/
 
 ![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
 
-![Population]({{ site.baseurl }}/plots/champaign_population.png)
-
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
 ",better_cu_housing_table_html,"
+
+![Population]({{ site.baseurl }}/plots/champaign_population.png)
 
 ## Illinois
 
