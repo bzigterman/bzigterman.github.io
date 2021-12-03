@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
+ <p class="updated_time"> 11:00 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
  <p class="updated_time"> 10:28 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
  <p class="updated_time"> 06:01 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59390778?at_medium=RSS&at_campaign=KARANGA">How to spot the software that could be spying on you</a> BBC: Software used to spy on someone via their phone is a growing threat and common in domestic abuse cases. 
- <p class="updated_time"> 05:53 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-us-china-export-surveillance-human-rights-11638471880">U.S. to Lead Effort to Curb Authoritarians' Access to Surveillance Tools</a> WSJ: The Biden administration said it would launch an initiative with friendly nations to coordinate export policies for technology that can be used to suppress human rights. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow of a strong reaction if it interferes further in Ukraine, showing friction over Russian troop deployments near the border. 
- <p class="updated_time"> 06:01 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59505688?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Hamid Karzai says the Taliban are his brothers</a> BBC: In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan. 
  <p class="updated_time"> 05:47 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
  <p class="updated_time"> 05:17 AM CT, Dec. 02 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
+ <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin tells senators he's skeptical Build Back Better can pass this year, as doubts grow it will get done by Christmas </a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
  <p class="updated_time"> 10:29 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/mueller-report-alternative-release-523703">Feds could release 'alternative' Mueller report soon</a> Politico: "Primary processing" of compendium mentioned in Mueller aide's book should be complete next month, court filing says. 
  <p class="updated_time"> 10:22 PM CT, Dec. 02 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
- <p class="updated_time"> 12:20 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 11:40 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-remain-in-mexico-523666">Biden administration to restart 'Remain in Mexico' program under court order</a> Politico: The controversial Trump-era policy could restart as soon as Monday if Mexico agrees. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -406,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
- <p class="updated_time"> 02:07 PM CT, Nov. 30 </p> 
- <a href="https://www.cnn.com/2021/11/30/politics/omicron-biden-contingency-plans/index.html">Administration working with vaccine manufacturers to 'develop contingency plans' amid new variant</a> CNN: The Biden administration is coordinating with Covid-19 vaccine manufacturers to develop contingency plans in the event future coronavirus vaccines need to be modified, including to fight the Omicron variant, the White House's Covid-19 response coordinator said Tuesday. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
