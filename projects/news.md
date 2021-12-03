@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
  <p class="updated_time"> 08:27 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/asia/china-alibaba-toy-guns.html">A Game Designer in Beijing Bought Toy Guns. China Imprisoned Him.</a> NYT: San Cheng bought toy guns online as props for video game design. Then the police arrived, and he was jailed under China’s strict but messy gun laws. 
  <p class="updated_time"> 02:16 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/turner-prize-winner.html">Turner Prize Goes to Array Collective, an Art Protest Group</a> NYT: The Belfast-based Array Collective stages carnivalesque interventions at political rallies. Now the group has won Britain’s major art award. 
- <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/01/1055803031/the-mystery-of-where-omicron-came-from-and-why-it-matters">The mystery of where omicron came from — and why it matters</a> NPR: How did this new strain of the coronavirus evolve? Researchers are investigating various possibilities. One leading theory involves ... just one person. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
  <p class="updated_time"> 12:44 PM CT, Dec. 01 </p> 
@@ -216,16 +216,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/new-yorker-podcast-andreas-malm-523705">How to blow up a podcast</a> Politico: A Texas intel bulletin on a New Yorker podcast with a fringe environmentalist raises concerns over defining domestic terrorism. 
  <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/employers-hiring-pace-november-523706">U.S. employers added a sluggish 210,000 jobs in November</a> Politico: America’s employers slowed the pace of their hiring in November, adding 210,000 jobs, the fewest in nearly a year. 
- <p class="updated_time"> 08:34 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 08:47 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html">DeSantis proposes a new civilian military force in Florida that he would control</a> CNN: Florida Gov. Ron DeSantis wants to reestablish a World War II-era civilian military force that he, not the Pentagon, would control. 
+ <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 08:07 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/russian-forces-ukraine-border/index.html">Russia positions more forces, supply lines as fears rise of potential Ukraine invasion</a> CNN: Russian forces have capabilities in place along the Ukraine border to carry out a swift and immediate invasion, including erecting supply lines such as medical units and fuel that could sustain a drawn-out conflict, should Moscow choose to invade, two sources familiar with the latest intelligence assessments told CNN. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
- <p class="updated_time"> 07:29 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:27 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/fact-check-biden-unemployment-inflation-nobel/index.html">Fact-checking 4 Biden claims about the economy</a> CNN: President Joe Biden has spoken regularly about the economy in the past month -- trying at once to reassure Americans about inflation, draw attention to job growth and earn support for his signature infrastructure and social spending proposals. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
