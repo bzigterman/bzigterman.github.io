@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 02:53 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
+ <p class="updated_time"> 02:50 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 02:28 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 12:03 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 11:57 AM CT, Dec. 03 </p> 
@@ -207,7 +207,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: The news comes amid increasing tensions between Pentagon leadership and certain factions of the Guard. 
+ <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
  <p class="updated_time"> 02:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, First Openly Transgender Mayor in America, Dies at 73</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
