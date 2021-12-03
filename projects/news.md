@@ -118,7 +118,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say 'Omicron'?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
+ <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say Omicron?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
  <p class="updated_time"> 12:15 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59511820?at_medium=RSS&at_campaign=KARANGA">Elle to stop promoting the use of animal fur in its magazines</a> BBC: It is the first major fashion publication to make the pledge, citing its support for animal rights. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
