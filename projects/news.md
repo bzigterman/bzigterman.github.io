@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 05:33 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
- <p class="updated_time"> 05:22 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
  <p class="updated_time"> 04:25 AM CT, Dec. 03 </p> 
@@ -306,6 +306,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
+ <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 11:40 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-remain-in-mexico-523666">Biden administration to restart 'Remain in Mexico' program under court order</a> Politico: The controversial Trump-era policy could restart as soon as Monday if Mexico agrees. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -436,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
  <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
- <p class="updated_time"> 07:00 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/news/2021/11/26/biden-anti-trump-racial-justice-523377">Biden’s anti-Trump approach to racial justice flashpoints</a> Politico: The president has kept a low profile amid two emotionally charged trials, but that’s left people on both sides of the political divide dissatisfied. 
 
 
 </details>
