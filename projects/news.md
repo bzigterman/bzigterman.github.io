@@ -7,18 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:15 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
+ <p class="updated_time"> 12:07 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
+ <p class="updated_time"> 12:03 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
+ <p class="updated_time"> 11:59 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
+ <p class="updated_time"> 11:57 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
+ <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese tech company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in ride-hailing firm Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
- <p class="updated_time"> 11:46 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
- <p class="updated_time"> 11:46 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 11:40 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
- <p class="updated_time"> 11:38 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 11:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy-return.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather. 
  <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
@@ -27,10 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
- <p class="updated_time"> 09:27 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
- <p class="updated_time"> 09:23 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
@@ -199,10 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/arts/design/turner-prize-winner.html">Turner Prize Goes to Array Collective, an Art Protest Group</a> NYT: The Belfast-based Array Collective stages carnivalesque interventions at political rallies. Now the group has won Britain’s major art award. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
- <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
- <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
 
 
 </details>
@@ -210,8 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/suspects-parents-charged-in-michigan-school-shooting-523715">Suspect’s parents charged in Michigan school shooting</a> Politico: A prosecutor filed involuntary manslaughter charges against the parents of a boy who is accused of killing four students, saying that their actions went “far beyond negligence.” 
  <p class="updated_time"> 12:48 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
+ <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with state House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
  <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
  <p class="updated_time"> 11:51 AM CT, Dec. 03 </p> 
@@ -263,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/cartoons/2021/12/03/the-nations-cartoonists-on-the-week-in-politics-000269">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/senate-republicans-dr-oz-pennsylvania-remedy-523693">Senate Republicans wonder whether Dr. Oz is their Pennsylvania remedy</a> Politico: The surgeon-turned-talk-show-host has name recognition and cash, but also hours of TV for his opposition to use against him. 
+ <a href="https://www.politico.com/news/2021/12/03/senate-republicans-dr-oz-pennsylvania-remedy-523693">Senate GOP open to taking Dr. Oz's miracle cure in Pa.</a> Politico: The surgeon-turned-talk-show-host has name recognition and cash, but also hours of TV for his opposition to use against him. 
  <p class="updated_time"> 04:29 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/supreme-court-briefs-arguments/index.html">They've read the briefs and heard oral arguments. Here's what the Supreme Court justices do next.</a> CNN: The nine Supreme Court justices will gather in their private conference room Friday, if they follow general practice, to cast initial votes in a case that could determine the future of Roe v. Wade and radically transform -- after a half century -- the landscape of women's reproductive health nationwide. 
  <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
