@@ -214,7 +214,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
- <p class="updated_time"> 05:35 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/business/economy/debt-ceiling-xdate.html">Debt Ceiling Window Is Narrowing, Bipartisan Policy Center Warns</a> NYT: The United States could default as soon as Dec. 21 if Democrats and Republicans fail to extend the Treasury Department’s borrowing authority. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
