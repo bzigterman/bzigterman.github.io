@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
+ <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333587/why-orcas-have-been-lingering-longer-in-the-arctic">Why Orcas have been lingering longer in the Arctic</a> NPR: Orcas are lingering longer in the Arctic Ocean, as sea ice there shrinks. The whales often travel to access varieties of prey, but it's likely there are now more hunting opportunities in the Arctic. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333559/south-africa-is-seeing-a-4th-surge-of-covid-19-thats-being-driven-by-omicron">South Africa is seeing a 4th surge of COVID-19 that's being driven by omicron</a> NPR: South Africa's health ministry says the rate of infection is the highest since the beginning of the COVID-19 pandemic. 
  <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333538/berlin-voted-for-the-city-to-seize-apartments-owned-by-developers-to-lower-rent-">Berlin voted for the city to seize apartments owned by developers to lower rent costs</a> NPR: Voters in Berlin, Germany, want the city to expropriate hundreds of thousands of apartments to stop speculation by big property developers — but it's too costly and probably illegal. 
  <p class="updated_time"> 03:40 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333531/mens-tennis-is-under-fire-for-not-pulling-business-from-china-over-peng-shuai">Men's tennis is under fire for not pulling business from China over Peng Shuai</a> NPR: After a Chinese tennis star accused a former Chinese official of assault and temporarily vanished from view, the Women's Tennis Association halted tournaments there. Now the men's group is under fire. 
- <p class="updated_time"> 03:36 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:23 PM CT, Dec. 03 </p> 
@@ -163,12 +167,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say Omicron?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
- <p class="updated_time"> 12:08 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1058350093/climate-change-portuguese-children-lawsuit">These Portuguese kids are suing 33 European countries to force them to cut emissions</a> NPR: Adults "can see us as serious or they can see us as a joke," one of the kids says. "A lawsuit is not a joke," her brother adds. The European Court of Human Rights has fast-tracked their 2020 lawsuit. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
- <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
  <p class="updated_time"> 03:15 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
@@ -430,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
- <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
