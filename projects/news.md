@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 01:18 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
+ <p class="updated_time"> 01:14 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 12:56 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 12:45 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 12:36 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
- <p class="updated_time"> 12:16 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 12:03 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
  <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
+ <p class="updated_time"> 08:10 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Talks to Restore Iran Nuclear Deal Stall</a> WSJ: Western diplomats say Tehran must moderate its demands in discussions that are set to resume next week. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
- <p class="updated_time"> 03:52 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Talks to Restore Iran Nuclear Deal Stall</a> WSJ: Western allies warned the effort was a step closer to collapse after Tehran’s negotiating team barely inched from its tough stance over a grueling week of negotiations. 
  <p class="updated_time"> 03:34 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/asia-pacific-nations-use-tougher-tactics-to-combat-omicron-variant-11638526478">Asia-Pacific Nations Use Tougher Tactics to Combat Omicron Variant</a> WSJ: Countries in the Asia-Pacific region are creating tougher rules for those infected with the Omicron Covid-19 variant, as governments move more aggressively than they have against all other previous iterations. 
  <p class="updated_time"> 03:14 AM CT, Dec. 03 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
- <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
@@ -210,14 +210,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
+ <p class="updated_time"> 01:04 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, First Openly Transgender Mayor in America, Dies at 73</a> NYT: Mr. Rasmussen, who served two terms as mayor of Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress averts shutdown after party leaders resolve GOP standoff over vaccine mandate</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Biden signs stopgap bill to avert shutdown ahead of midnight deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:57 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
- <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb">Congress avoids a government shutdown — but a long to-do list looms</a> NPR: Lawmakers are juggling must-pass items, like addressing the nation's borrowing authority and an annual defense authorization package, along with major political priorities for Democrats. 
  <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
- <p class="updated_time"> 11:51 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, First Openly Transgender Mayor in America, Dies at 73</a> NYT: Mr. Rasmussen, who served two terms as mayor of Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 11:25 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
