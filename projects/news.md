@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 09:33 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 09:10 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Biden blasted for reviving Trump's Remain in Mexico policy</a> BBC: Activists warn restoring 'Remain in Mexico' at the border will result in "torture, rape, and death". 
+ <p class="updated_time"> 09:09 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59514800?at_medium=RSS&at_campaign=KARANGA">China app giant Didi plans US stock market exit in move to Hong Kong</a> BBC: The move comes after the company came under intense scrutiny from regulators in the US and China. 
+ <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
  <p class="updated_time"> 07:57 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden tightens travel rules amid new Omicron cases</a> BBC: But Mr Biden says his plan "doesn't include shutdowns or lockdowns" and does not expand vaccine mandates. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">US tightens travel rules amid new Omicron cases</a> BBC: But Mr Biden says his plan "doesn't include shutdowns or lockdowns" and does not expand vaccine mandates. 
  <p class="updated_time"> 07:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
@@ -28,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26m people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:25 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59503872?at_medium=RSS&at_campaign=KARANGA">The Indian granny who became literate at 104</a> BBC: Kuttiyamma, from the southern Indian state of Kerala, aced a government test that measures literacy. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59503872?at_medium=RSS&at_campaign=KARANGA">Kerala: The granny who learnt to read and write at 104</a> BBC: Kuttiyamma, from the southern Indian state of Kerala, aced a government test that measures literacy. 
  <p class="updated_time"> 06:22 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59487912?at_medium=RSS&at_campaign=KARANGA">Why Turkey's currency crash does not worry Erdogan</a> BBC: Turkey's national currency has plummeted 45% against the dollar this year 
  <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1058350093/climate-change-portuguese-children-lawsuit">These Portuguese kids are suing 33 European countries to force them to cut emissions</a> NPR: Adults "can see us as serious or they can see us as a joke," one of the kids says. "A lawsuit is not a joke," her brother adds. The European Court of Human Rights has fast-tracked their 2020 lawsuit. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
- <p class="updated_time"> 11:44 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-59486675?at_medium=RSS&at_campaign=KARANGA">Ride hailing app Grab falls in $40bn market debut</a> BBC: Shares start trading in ride-hailing firm Grab which has used a shell company for its flotation. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases surge as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 11:23 AM CT, Dec. 02 </p> 
@@ -206,18 +210,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:29 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/mueller-report-alternative-release-523703">Feds could release 'alternative' Mueller report soon</a> Politico: "Primary processing" of compendium mentioned in Mueller aide's book should be complete next month, court filing says. 
+ <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Congress Approves Spending Bill, Averting Government Shutdown</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
+ <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress averts shutdown after party leaders resolve GOP standoff over vaccine mandate</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
- <p class="updated_time"> 08:58 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Congress Approves Spending Bill, Averting Government Shutdown</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
+ <p class="updated_time"> 09:07 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
- <p class="updated_time"> 08:33 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress averts shutdown after party leaders resolve GOP standoff over vaccine mandate</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 08:26 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
- <p class="updated_time"> 08:13 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
@@ -382,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol">Young Americans are raising alarms about the state of U.S. democracy in a new poll</a> NPR: A poll by the Harvard Kennedy School's Institute of Politics found that a majority of young people believe that American democracy is either "in trouble" or "failed." 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
- <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
