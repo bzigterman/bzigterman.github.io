@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:28 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 02:13 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
+ <p class="updated_time"> 02:03 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Court in Philippines Allows Maria Ressa to Travel to Norway for Nobel</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 01:47 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">US tightens travel rules amid new Omicron cases</a> BBC: The US winter plan includes millions of free tests and stricter rules for international passengers. 
- <p class="updated_time"> 01:35 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Biden blasted for reviving Trump's Remain in Mexico policy</a> BBC: Activists warn restoring 'Remain in Mexico' at the border will result in "torture, rape, and death". 
  <p class="updated_time"> 01:30 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59487912?at_medium=RSS&at_campaign=KARANGA">Why Turkey's currency crash does not worry Erdogan</a> BBC: Turkey's national currency has plummeted 45% against the dollar this year 
  <p class="updated_time"> 11:48 PM CT, Dec. 02 </p> 
@@ -29,14 +35,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 10:17 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
- <p class="updated_time"> 10:04 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
  <p class="updated_time"> 09:09 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59514800?at_medium=RSS&at_campaign=KARANGA">China app giant Didi plans US stock market exit in move to Hong Kong</a> BBC: The move comes after the company came under intense scrutiny from regulators in the US and China. 
  <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
+ <p class="updated_time"> 08:22 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/business/china-didi-delisting.html">Didi of China Moves to Delist From New York Stock Exchange</a> NYT: The ride-hailing giant made an abrupt shift as officials in Washington and Beijing have grown increasingly skeptical of Chinese corporate access to Wall Street’s money. 
  <p class="updated_time"> 07:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
@@ -183,22 +189,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
- <p class="updated_time"> 09:15 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html">Federal Judge Blocks Vaccine Mandate for Health Workers</a> NYT: The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
  <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: Comments from Anthony Davis indicated James has tested positive for the coronavirus, which could keep him out for 10 days. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
- <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
- <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
 
 
 </details>
