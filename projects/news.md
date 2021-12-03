@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
- <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 06:03 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:33 AM CT, Dec. 03 </p> 
@@ -214,18 +214,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:04 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/e-jean-carroll-trump-lawsuit/index.html">Appeals court hears arguments in E. Jean Carroll's defamation lawsuit against Trump</a> CNN: Former magazine columnist E. Jean Carroll squares off against the Justice Department before a New York federal appeals court Friday in an oral argument that will likely decide the fate of her defamation lawsuit against former President Donald Trump. 
  <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/nfl-flyover-investigation-military-faa/index.html">US Army and FAA investigating military flyover of NFL game</a> CNN: The US military and the Federal Aviation Administration are reviewing a flyover of an NFL game last month to determine if the military helicopters flew too low over civilians in violation of aviation regulations. 
- <p class="updated_time"> 06:24 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/03/crisis-averted-after-conservatives-cave-495309">POLITICO Playbook: Crisis averted after conservatives cave</a> Politico: And Nikki Haley kisses Donald Trump’s ring. 
  <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
  <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden is doing the once-unthinkable: Showering love on Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
+ <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden embraces his one-time foe: Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
  <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/cartoons/2021/12/03/the-nations-cartoonists-on-the-week-in-politics-000269">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
@@ -274,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Biden tells Americans 'we have so much ahead of us' during National Christmas Tree lighting</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
  <p class="updated_time"> 07:03 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html">DeSantis proposes a new civilian military force in Florida that he would control</a> CNN: Florida Gov. Ron DeSantis wants to reestablish a World War II-era civilian military force that he, not the Pentagon, would control. 
- <p class="updated_time"> 06:59 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/marjorie-taylor-greene-massie-norman-mask-rule-lawsuit/index.html">Judge expresses skepticism of 3 House Republicans' challenge of mask fines</a> CNN: A federal judge expressed skepticism Thursday about a lawsuit brought by a few far-right members of the House challenging the fines they face for not wearing masks on the House floor. 
  <p class="updated_time"> 06:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/suburbs-gerrymandering-republicans.html">How the Suburbs Have Changed Gerrymandering</a> NYT: Republicans have historically used the suburbs to defend against the electoral threat of cities. Now the suburbs themselves are posing the threat. 
  <p class="updated_time"> 06:52 PM CT, Dec. 02 </p> 
@@ -372,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-variant.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/media/chris-cuomo-cnn.html">CNN and Chris Cuomo Face Difficult Questions After Anchor’s Suspension</a> NYT: The network said it was pursuing a “further evaluation” of evidence regarding its star anchor’s efforts to help stave off a sexual harassment scandal that his brother, former Gov. Andrew M. Cuomo, was facing. 
+ <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/us-ambassador-israel.html">In Israel, the New U.S. Ambassador’s Home Lacks a Certain View</a> NYT: The Trump administration sold the luxurious estate where envoys had lived for decades when it moved the U.S. Embassy to Jerusalem. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
