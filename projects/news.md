@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:25 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 01:38 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the most contagious version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
  <p class="updated_time"> 01:22 PM CT, Dec. 03 </p> 
