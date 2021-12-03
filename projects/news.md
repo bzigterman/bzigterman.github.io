@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:00 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 08:42 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
- <p class="updated_time"> 08:00 PM CT, Dec. 02 </p> 
+ <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
  <p class="updated_time"> 07:57 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">Omicron: Biden tightens travel rules amid new Omicron cases</a> BBC: But Mr Biden says his plan "doesn't include shutdowns or lockdowns" and does not expand vaccine mandates. 
@@ -91,14 +91,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1058350093/climate-change-portuguese-children-lawsuit">These Portuguese kids are suing 33 European countries to force them to cut emissions</a> NPR: Adults "can see us as serious or they can see us as a joke," one of the kids says. "A lawsuit is not a joke," her brother adds. The European Court of Human Rights has fast-tracked their 2020 lawsuit. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
+ <p class="updated_time"> 11:44 AM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59486675?at_medium=RSS&at_campaign=KARANGA">Ride hailing app Grab falls in $40bn market debut</a> BBC: Shares start trading in ride-hailing firm Grab which has used a shell company for its flotation. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases surge as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
  <p class="updated_time"> 11:23 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59503922?at_medium=RSS&at_campaign=KARANGA">Will Meghan's big win change public opinion?</a> BBC: The Duchess of Sussex has won her court case over privacy, but interest in her is not going to go away. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
- <p class="updated_time"> 11:09 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59506445?at_medium=RSS&at_campaign=KARANGA">Israel PM: Nuclear talks must end over Iran ‘blackmail’ tactics</a> BBC: Naftali Bennett's call comes as Iran and world powers try to save their nuclear deal from collapse. 
  <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503762?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Lavrov warns of return to military confrontation nightmare</a> BBC: Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
@@ -141,6 +141,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
+ <p class="updated_time"> 09:42 PM CT, Dec. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59501162?at_medium=RSS&at_campaign=KARANGA">Queensland Floods: Second death recorded as crisis continues</a> BBC: The southern part of Queensland has seen widespread rain and flooding. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
@@ -204,14 +206,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
+ <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
+ <p class="updated_time"> 08:43 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Congress Approves Spending Bill, Averting Government Shutdown</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
+ <p class="updated_time"> 08:33 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress averts shutdown after party leaders resolve GOP standoff over vaccine mandate</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
+ <p class="updated_time"> 08:26 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
+ <p class="updated_time"> 08:13 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
- <p class="updated_time"> 07:44 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
+ <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/andrew-cuomo-federal-investigation/index.html">Contract reveals federal investigation into former Gov. Andrew Cuomo sexual harassment allegations </a> CNN: A contract for outside legal help for New York State's Executive Chamber shows the existence of a federal investigation into sexual harassment allegations against former New York Gov. Andrew Cuomo. 
  <p class="updated_time"> 07:36 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-omicron-covid-policies-523696">Biden takes the fight to Omicron. But the toolkit is growing bare.</a> Politico: The policies previewed by the president are continuations or modest expansions of existing initiatives. And he’s yet to embrace the further reaching proposals. 
- <p class="updated_time"> 07:29 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress on verge of avoiding shutdown after last-minute brinkmanship</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 07:19 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/9-11-families-taliban-funds.html">More Sept. 11 Victims Who Sued the Taliban Want Frozen Afghan Funds</a> NYT: The Biden administration was set to tell a court on Friday what it thinks should happen, but obtained a delay until Jan. 28. 
  <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
@@ -222,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/marjorie-taylor-greene-massie-norman-mask-rule-lawsuit/index.html">Judge expresses skepticism of 3 House Republicans' challenge of mask fines</a> CNN: A federal judge expressed skepticism Thursday about a lawsuit brought by a few far-right members of the House challenging the fines they face for not wearing masks on the House floor. 
  <p class="updated_time"> 06:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/suburbs-gerrymandering-republicans.html">How the Suburbs Have Changed Gerrymandering</a> NYT: Republicans have historically used the suburbs to defend against the electoral threat of cities. Now the suburbs themselves are posing the threat. 
- <p class="updated_time"> 06:53 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">House Passes Spending Bill as Lawmakers Race to Avert Government Shutdown</a> NYT: As the House voted to fund the government through mid-February, senators were scrambling to avoid a shutdown over vaccine mandates. 
  <p class="updated_time"> 06:52 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 06:48 PM CT, Dec. 02 </p> 
@@ -254,12 +262,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/abortion-arguments-post-roe.html">How the Politics of Abortion Are Poised to Intensify</a> NYT: The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality. 
  <p class="updated_time"> 04:57 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/roberts-blackmun-roe-papers/index.html">Why John Roberts cited the private papers of the justice who wrote Roe v. Wade</a> CNN: During Wednesday's historic oral arguments on abortion rights, Chief Justice John Roberts pulled back the curtain on internal Supreme Court negotiations and referred to the papers of the late Justice Harry Blackmun, the author of Roe v. Wade. 
- <p class="updated_time"> 04:48 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
  <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/january-6-andrew-wrigley/index.html">January 6 was opposite of 1776, judge tells rioter who carried revolutionary flag into US Capitol</a> CNN: A federal judge slammed one of the January 6 rioters for waving a 1776 flag while storming the US Capitol, saying his attempt to overturn a democratic election betrayed the values of the American Revolution. 
  <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">House approves a short-term funding bill to avoid a government shutdown</a> NPR: The measure now heads to the Senate, where prospects for quick passage are in doubt ahead of a Friday deadline. A few Republicans have said they'd object to fast-tracking the bill. 
+ <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">Congress approves a short-term funding bill to avoid a government shutdown</a> NPR: A day before the Friday deadline, lawmakers approved a spending bill that will keep federal agencies running through Feb. 18, 2022. 
  <p class="updated_time"> 04:29 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/ndaa-senate-stalled/index.html">Annual defense bill stalled in Senate </a> CNN: The annual defense bill is stalled in the Senate amid a bitter disagreement over one senator's demand to punish China over its alleged treatment of the Uyghurs. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
@@ -301,7 +307,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Senate poised to avert shutdown after defusing vaccine mandate standoff</a> Politico: The chamber plans to vote late Thursday on the 11-week stopgap spending bill that the House passed earlier in the day to keep the federal government funded through Feb. 18. 
+ <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
@@ -312,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
- <p class="updated_time"> 05:01 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/trump-ohio-senate-primary-523628">Trump intervenes in Ohio Senate primary — for himself</a> Politico: The former president was upset about ads in the race featuring anti-Trump comments a candidate made in 2016. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
@@ -412,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
- <p class="updated_time"> 01:02 PM CT, Nov. 29 </p> 
- <a href="https://www.cnn.com/2021/11/29/politics/federal-workers-vaccine-mandate-holidays/index.html">Administration tells some agencies they can delay firings of unvaccinated federal employees until after the holidays</a> CNN: The Office of Management and Budget is telling some agencies they can delay firing federal employees who refuse to get vaccinated until after the holidays, an official confirmed to CNN, as an "education and counseling period" continues in December. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
