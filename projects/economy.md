@@ -10,8 +10,6 @@ permalink: /projects/economy/
 
 ![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
 
-![Population]({{ site.baseurl }}/plots/champaign_population.png)
-
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
 <div id="cu_housing_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
@@ -385,6 +383,8 @@ html {
   
 </table>
 </div>
+
+![Population]({{ site.baseurl }}/plots/champaign_population.png)
 
 ## Illinois
 
