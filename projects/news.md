@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Germany’s Angela Merkel Bids Farewell as Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
+ <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
  <p class="updated_time"> 02:28 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
  <p class="updated_time"> 02:13 AM CT, Dec. 03 </p> 
