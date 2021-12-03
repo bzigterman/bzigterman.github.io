@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
+ <p class="updated_time"> 11:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 11:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
+ <p class="updated_time"> 11:38 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
+ <p class="updated_time"> 11:37 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy-return.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather. 
+ <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:29 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
- <p class="updated_time"> 11:20 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
- <p class="updated_time"> 10:09 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana said most of the initial 19 were “imported.” 
- <p class="updated_time"> 10:07 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
  <p class="updated_time"> 09:27 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 09:23 AM CT, Dec. 03 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
- <p class="updated_time"> 08:58 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy-return.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
  <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
@@ -67,14 +71,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59501055?at_medium=RSS&at_campaign=KARANGA">Thailand: Newspaper rebuked over 'hunts Africans' headline</a> BBC: The country's Covid-19 taskforce admonished the paper by saying it was a "poor choice of words." 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
- <p class="updated_time"> 01:47 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">US tightens travel rules amid new Omicron cases</a> BBC: The US winter plan includes millions of free tests and stricter rules for international passengers. 
  <p class="updated_time"> 01:30 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59487912?at_medium=RSS&at_campaign=KARANGA">Why Turkey's currency crash does not worry Erdogan</a> BBC: Turkey's national currency has plummeted 45% against the dollar this year 
  <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
- <p class="updated_time"> 11:29 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59514531?at_medium=RSS&at_campaign=KARANGA">US government shutdown averted hours before deadline</a> BBC: The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 10:28 PM CT, Dec. 02 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
+ <p class="updated_time"> 11:25 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing initiatives to make it difficult for Putin to 'do what people are worried he may do' in Ukraine</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 11:24 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
@@ -308,12 +310,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/immigration-public-health-rule-mexico.html">Many Migrants Are Quickly Expelled, but Others Can Stay. Here’s Why.</a> NYT: The Biden administration is fighting to preserve Title 42, a public health rule that turns back families at the border during the pandemic. But some have been allowed to stay in the United States, despite the rule. 
  <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/dhs-security-directives-rail-aviation-industries/index.html">TSA will force train and plane operators to tell the feds when they've been hacked</a> CNN: US airlines and railroads will have to report cyber breaches to the federal government, the Biden administration said Thursday, as officials warn of increasing danger from attempted hacks. 
- <p class="updated_time"> 05:34 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/covid-vaccine-patents-what-matters/index.html">Analysis: Vaccines are the key. They're also making some people very rich.</a> CNN: President Joe Biden released a new plan Thursday to deal with an expected winter surge of Covid-19. It rejects shutdowns and more restrictions in favor of vaccines, boosters and tests. 
  <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:18 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061015753/abortion-roe-v-wade-trigger-laws-mississippi-jacksons-womens-health-organization">21 states poised to ban or severely restrict abortion if Roe v. Wade is overturned</a> NPR: So-called "trigger laws" in 12 states would automatically enact an abortion ban if Roe is overturned. In nine others, bans that were blocked by courts or have long been unenforced could take effect. 
+ <a href="https://www.npr.org/2021/12/02/1061015753/abortion-roe-v-wade-trigger-laws-mississippi-jacksons-womens-health-organization">21 states poised to ban or severely restrict abortion if 'Roe v. Wade' is overturned</a> NPR: So-called "trigger laws" in 12 states would automatically enact an abortion ban if Roe is overturned. In nine others, bans that were blocked by courts or have long been unenforced could take effect. 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 05:01 PM CT, Dec. 02 </p> 
