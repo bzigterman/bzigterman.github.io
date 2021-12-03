@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 04:30 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">‘Essence of Rio’: Dirty Foot Bars Offer Escape From Inequality</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
- <p class="updated_time"> 04:20 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 04:16 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/suspects-parents-charged-in-michigan-school-shooting-523715">Suspect’s parents charged in Michigan school shooting</a> Politico: A prosecutor filed involuntary manslaughter charges against the parents of a boy who is accused of killing four students, saying that their actions went “far beyond negligence.” 
+ <a href="https://www.politico.com/news/2021/12/03/suspects-parents-charged-in-michigan-school-shooting-523715">Parents of Michigan boy charged in Oxford school shooting</a> Politico: A prosecutor filed involuntary manslaughter charges against the parents of a boy who is accused of killing four students, saying that their actions went “far beyond negligence.” 
  <p class="updated_time"> 12:48 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with state House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
