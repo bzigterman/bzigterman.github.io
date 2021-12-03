@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
  <p class="updated_time"> 11:29 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514531?at_medium=RSS&at_campaign=KARANGA">US government shutdown averted hours before deadline</a> BBC: The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
@@ -105,12 +107,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
  <p class="updated_time"> 11:42 AM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59503517?at_medium=RSS&at_campaign=KARANGA">Covid: South Africa new cases surge as Omicron spreads</a> BBC: The new Omicron variant has now become dominant, the country's top medical scientists say. 
- <p class="updated_time"> 11:23 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59503922?at_medium=RSS&at_campaign=KARANGA">Will Meghan's big win change public opinion?</a> BBC: The Duchess of Sussex has won her court case over privacy, but interest in her is not going to go away. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
- <p class="updated_time"> 11:08 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59503762?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Lavrov warns of return to military confrontation nightmare</a> BBC: Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 11:00 AM CT, Dec. 02 </p> 
