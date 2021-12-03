@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 03:33 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/sport/africa/59517712?at_medium=RSS&at_campaign=KARANGA">Lamine Diack: Disgraced athletics boss dies in Senegal</a> BBC: The disgraced former head of world athletics governing body Lamine Diack dies in Senegal aged 88. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
  <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
