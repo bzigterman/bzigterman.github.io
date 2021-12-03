@@ -212,10 +212,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
+ <p class="updated_time"> 07:22 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:04 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/e-jean-carroll-trump-lawsuit/index.html">Appeals court hears arguments in E. Jean Carroll's defamation lawsuit against Trump</a> CNN: Former magazine columnist E. Jean Carroll squares off against the Justice Department before a New York federal appeals court Friday in an oral argument that will likely decide the fate of her defamation lawsuit against former President Donald Trump. 
  <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
@@ -264,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
  <p class="updated_time"> 08:11 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
- <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/andrew-cuomo-federal-investigation/index.html">Contract reveals federal investigation into former Gov. Andrew Cuomo sexual harassment allegations </a> CNN: A contract for outside legal help for New York State's Executive Chamber shows the existence of a federal investigation into sexual harassment allegations against former New York Gov. Andrew Cuomo. 
  <p class="updated_time"> 07:36 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-omicron-covid-policies-523696">Biden takes the fight to Omicron. But the toolkit is growing bare.</a> Politico: The policies previewed by the president are continuations or modest expansions of existing initiatives. And he’s yet to embrace the further reaching proposals. 
  <p class="updated_time"> 07:19 PM CT, Dec. 02 </p> 
@@ -318,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
+ <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
