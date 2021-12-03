@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:29 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/business/china-didi-delisting.html">Didi of China Moves to Delist From New York Stock Exchange</a> NYT: With plenty of its own money and a greater desire to control the private sector, Beijing is pushing its companies to tap investors closer to home. 
+ <p class="updated_time"> 04:25 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
+ <p class="updated_time"> 04:16 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59511401?at_medium=RSS&at_campaign=KARANGA">Omicron coronavirus variant: Your questions answered</a> BBC: How long do symptoms last for, is it more harmful to children? Experts answer your questions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
@@ -53,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
- <p class="updated_time"> 08:22 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/business/china-didi-delisting.html">Didi of China Moves to Delist From New York Stock Exchange</a> NYT: The ride-hailing giant made an abrupt shift as officials in Washington and Beijing have grown increasingly skeptical of Chinese corporate access to Wall Street’s money. 
  <p class="updated_time"> 07:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
@@ -203,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
- <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
 
 
 </details>
@@ -214,6 +216,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden is doing the once-unthinkable: Showering love on Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/senate-republicans-dr-oz-pennsylvania-remedy-523693">Senate Republicans wonder whether Dr. Oz is their Pennsylvania remedy</a> Politico: The surgeon-turned-talk-show-host has name recognition and cash, but also hours of TV for his opposition to use against him. 
  <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061150251/harris-and-buttigieg-go-to-north-carolina-to-promote-bidens-infrastructure-plan">Harris and Buttigieg go to North Carolina to promote Biden's infrastructure plan</a> NPR: The one-time presidential rivals went to Charlotte to promote the infrastructure act. They also fending off increased chatter about how the president's low approval ratings could affect their futures. 
  <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
@@ -310,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
- <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 11:40 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-remain-in-mexico-523666">Biden administration to restart 'Remain in Mexico' program under court order</a> Politico: The controversial Trump-era policy could restart as soon as Monday if Mexico agrees. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
@@ -394,6 +398,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
+ <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
