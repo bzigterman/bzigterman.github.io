@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
  <p class="updated_time"> 05:22 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
  <p class="updated_time"> 02:39 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59501055?at_medium=RSS&at_campaign=KARANGA">Thailand: Newspaper rebuked over 'hunts Africans' headline</a> BBC: The country's Covid-19 taskforce admonished the paper by saying it was a "poor choice of words." 
- <p class="updated_time"> 02:13 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 01:47 AM CT, Dec. 03 </p> 
@@ -81,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409084?at_medium=RSS&at_campaign=KARANGA">Boxing Day: Festive film debut for Little Mix's Leigh-Anne Pinnock</a> BBC: Boxing Day, the first British Christmas rom-com led by an all-black cast, is released Friday 3 December. 
  <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
- <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59514524?at_medium=RSS&at_campaign=KARANGA">Laverne & Shirley star Eddie Mekka dies aged 69</a> BBC: The US actor is best known for playing Carmine Ragusa in the 1970s-80s Laverne & Shirley TV sitcom. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
  <p class="updated_time"> 06:01 PM CT, Dec. 02 </p> 
