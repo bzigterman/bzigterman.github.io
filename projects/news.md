@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:38 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 09:42 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 09:36 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
@@ -282,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
  <p class="updated_time"> 08:11 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
- <p class="updated_time"> 07:36 PM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-omicron-covid-policies-523696">Biden takes the fight to Omicron. But the toolkit is growing bare.</a> Politico: The policies previewed by the president are continuations or modest expansions of existing initiatives. And he’s yet to embrace the further reaching proposals. 
  <p class="updated_time"> 07:19 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/9-11-families-taliban-funds.html">More Sept. 11 Victims Who Sued the Taliban Want Frozen Afghan Funds</a> NYT: The Biden administration was set to tell a court on Friday what it thinks should happen, but obtained a delay until Jan. 28. 
  <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
