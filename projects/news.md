@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:04 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
+ <p class="updated_time"> 02:57 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 02:53 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
- <p class="updated_time"> 02:50 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
- <p class="updated_time"> 02:28 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 02:26 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 01:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
+ <p class="updated_time"> 01:33 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59517114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Ireland closes nightclubs and tightens Covid rules</a> BBC: Taoiseach Micheál Martin announces a number of new restrictions in a televised address. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
  <p class="updated_time"> 01:22 PM CT, Dec. 03 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59503872?at_medium=RSS&at_campaign=KARANGA">Kerala: The granny who learnt to read and write at 104</a> BBC: Kuttiyamma, from the southern Indian state of Kerala, aced a government test that measures literacy. 
  <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
- <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59502970?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 26 November - 2 December 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:12 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59397897?at_medium=RSS&at_campaign=KARANGA">Broome: Diving the remnants of a WW2 attack on Australia</a> BBC: A WW2 air raid on Broome killed scores of people - historians say it should be better remembered. 
  <p class="updated_time"> 06:11 PM CT, Dec. 02 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59498832?at_medium=RSS&at_campaign=KARANGA">Epstein accuser: Ghislaine Maxwell is a 'master manipulator'</a> BBC: The BBC spoke to Teresa Helm, who accused Epstein of sexually assaulting her at the age of 22. 
- <p class="updated_time"> 06:10 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59498152?at_medium=RSS&at_campaign=KARANGA">Dragged up the stairs for my hospital appointment</a> BBC: The healthcare system lacks equipment, buildings are crumbling and many healthcare workers have left in search of better lives. 
  <p class="updated_time"> 06:09 PM CT, Dec. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59489045?at_medium=RSS&at_campaign=KARANGA">'No middle ground': Chile voters face tough choice as run-off looms</a> BBC: Voters speak of the divisions as an ultra-conservative and a left-winger battle it out. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
