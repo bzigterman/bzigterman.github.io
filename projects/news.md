@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 03:23 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
- <p class="updated_time"> 03:04 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 02:53 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
