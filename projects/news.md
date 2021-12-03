@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
+ <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
+ <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 06:03 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
@@ -15,14 +19,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
- <p class="updated_time"> 04:25 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 04:16 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/health-59511401?at_medium=RSS&at_campaign=KARANGA">Omicron coronavirus variant: Your questions answered</a> BBC: How long do symptoms last for, is it more harmful to children? Experts answer your questions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Court in Philippines Allows Maria Ressa to Travel to Norway for Nobel</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as "lady of the house" at Jeffrey Epstein's US home. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
@@ -79,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59397897?at_medium=RSS&at_campaign=KARANGA">Broome: Diving the remnants of a WW2 attack on Australia</a> BBC: A WW2 air raid on Broome killed scores of people - historians say it should be better remembered. 
  <p class="updated_time"> 06:11 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409084?at_medium=RSS&at_campaign=KARANGA">Boxing Day: Festive film debut for Little Mix's Leigh-Anne Pinnock</a> BBC: Boxing Day, the first British Christmas rom-com led by an all-black cast, is released Friday 3 December. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
@@ -113,6 +117,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
  <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
+ <p class="updated_time"> 01:10 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/business/opec-plus-meeting-oil.html">OPEC Plus Maintains Oil Production Plans</a> NYT: The oil cartel and Russia met less than a week after crude prices plunged amid worries over the Omicron variant. 
  <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say Omicron?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
  <p class="updated_time"> 12:15 PM CT, Dec. 02 </p> 
@@ -189,6 +195,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/01/1055803031/the-mystery-of-where-omicron-came-from-and-why-it-matters">The mystery of where omicron came from — and why it matters</a> NPR: How did this new strain of the coronavirus evolve? Researchers are investigating various possibilities. One leading theory involves ... just one person. 
  <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
+ <p class="updated_time"> 12:44 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/12/01/world/africa/coranavirus-vaccine-hesitancy-africa.html">Vaccine Hesitancy Hurts Covid Fight in Poorer Countries</a> NYT: Vaccines are finally available in many African countries, but an underfunded public health system has slowed their delivery, and some people there, as well as in South Asia, are wary of taking them. 
  <p class="updated_time"> 10:29 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/who-pandemic-treaty.html">W.H.O. members agree to begin talks on a global pandemic treaty.</a> NYT: They agreed to set up an intergovernmental negotiating body that is to meet no later than March to begin negotiating an international agreement intended to ensure a more coherent and equitable response to future pandemics. 
  <p class="updated_time"> 09:01 AM CT, Dec. 01 </p> 
@@ -202,14 +210,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/e-jean-carroll-trump-lawsuit/index.html">Appeals court hears arguments in E. Jean Carroll's defamation lawsuit against Trump</a> CNN: Former magazine columnist E. Jean Carroll squares off against the Justice Department before a New York federal appeals court Friday in an oral argument that will likely decide the fate of her defamation lawsuit against former President Donald Trump. 
+ <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/nfl-flyover-investigation-military-faa/index.html">US Army and FAA investigating military flyover of NFL game</a> CNN: The US military and the Federal Aviation Administration are reviewing a flyover of an NFL game last month to determine if the military helicopters flew too low over civilians in violation of aviation regulations. 
+ <p class="updated_time"> 06:24 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/03/crisis-averted-after-conservatives-cave-495309">POLITICO Playbook: Crisis averted after conservatives cave</a> Politico: And Nikki Haley kisses Donald Trump’s ring. 
- <p class="updated_time"> 06:01 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/e-jean-carroll-trump-lawsuit/index.html">Appeals court hears arguments in E. Jean Carroll's defamation lawsuit against Trump</a> CNN: Former magazine columnist E. Jean Carroll squares off against the Justice Department before a New York federal appeals court Friday in an oral argument that will likely decide the fate of her defamation lawsuit against former President Donald Trump. 
- <p class="updated_time"> 06:01 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
  <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
@@ -235,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:04 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/covid-vaccine-mandates-unemployment-benefits/index.html">Losing your job because of vaccine mandates? You can collect unemployment benefits in these states.</a> CNN: Only a few months after terminating federal pandemic unemployment benefits early, several GOP-led states are now expanding jobless payments to a different group of people affected by Covid-19: unvaccinated residents who are losing their jobs due to vaccine mandates. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin tells senators he's skeptical Build Back Better can pass this year, as doubts grow it will get done by Christmas </a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
+ <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin tells senators he's skeptical Build Back Better can pass this year, as doubts grow it will get done by Christmas</a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
  <p class="updated_time"> 10:29 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/mueller-report-alternative-release-523703">Feds could release 'alternative' Mueller report soon</a> Politico: "Primary processing" of compendium mentioned in Mueller aide's book should be complete next month, court filing says. 
  <p class="updated_time"> 10:22 PM CT, Dec. 02 </p> 
@@ -304,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061028280/biden-administration-says-it-will-restart-the-trump-era-remain-in-mexico-policy">Biden administration says it will restart the Trump-era 'Remain in Mexico' policy</a> NPR: The Biden administration announced Thursday that it will restart the "Remain in Mexico" policy. Officials promised "key changes" to the Trump-era policy that has been widely criticized as inhumane. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:22 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/nfl-flyover-investigation-military-faa/index.html">US Army and FAA investigating military flyover of NFL game</a> CNN: The US military and the Federal Aviation Administration are reviewing a flyover of an NFL game last month to determine if the military helicopters flew too low over civilians in violation of aviation regulations. 
  <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
@@ -352,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/national-space-council-harris-russia/index.html">Harris condemns Russian test of anti-satellite weapon at Biden administration's first space council meeting</a> CNN: Leaders from all corners of the US government condemned Russia's recent test of an anti-satellite weapon on Wednesday at the inaugural meeting of the National Space Council under the Biden administration, calling for accelerating the development of rules and norms in space. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">In Abortion Case, Chief Justice Roberts Searches for Middle Ground</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
- <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
