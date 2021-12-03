@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 09:56 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 09:56 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant. 
  <p class="updated_time"> 09:36 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
  <p class="updated_time"> 09:27 AM CT, Dec. 03 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060618440/northern-ireland-collective-wins-the-prestigious-turner-prize-for-art">Northern Ireland collective wins the prestigious Turner Prize for art</a> NPR: A collective from Belfast won the U.K. prize for art. Prize organizers said the work tackles "urgent social and political issues affecting Northern Ireland with humor, seriousness and beauty." 
  <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608432/buildup-of-russian-forces-along-ukraines-border-that-has-some-talking-of-war">Buildup of Russian forces along Ukraine's border that has some talking of war</a> NPR: The war of words between NATO and Russia over Ukraine is reaching another highpoint — with Russian troops massing at the Ukrainian border. 
- <p class="updated_time"> 02:57 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/theater/uk-masks-coronavirus.html">U.K. Theatergoers Cover Up Again, After Months Without Masks</a> NYT: Encouragements to mask up are hardening into mandates. But the new rules are coming from the playhouses, not the government. 
  <p class="updated_time"> 02:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: At least 23 countries have reported cases, and that number is likely to grow as more samples are tested, the World Health Organization said on Wednesday. 
  <p class="updated_time"> 02:16 PM CT, Dec. 01 </p> 
