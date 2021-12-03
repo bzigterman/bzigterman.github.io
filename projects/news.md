@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:38 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 01:43 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the most contagious version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/appeals-court-suit-trump-rape-denial-523717">Appeals court mulls suit against Trump over rape denial</a> Politico: The Biden administration Justice Department deplores the former president's language, but backs his effort to shut down E. Jean Caroll's lawsuit. 
+ <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
  <p class="updated_time"> 01:04 PM CT, Dec. 03 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Biden signs stopgap bill to avert shutdown ahead of midnight deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
- <p class="updated_time"> 12:57 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
