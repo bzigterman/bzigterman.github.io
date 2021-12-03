@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:38 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
  <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
- <p class="updated_time"> 08:26 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
  <p class="updated_time"> 08:11 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 08:10 PM CT, Dec. 02 </p> 
