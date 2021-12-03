@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president said he would ask insurers to reimburse the cost of home coronavirus tests and tighten rules for international travelers. After the first U.S. Omicron case was detected in California, six more cases were reported in New York, Minnesota and Colorado. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">Covid Live Updates: Biden Details New Strategy as Omicron Reaches U.S.</a> NYT: The president said he would ask insurers to reimburse the cost of home coronavirus tests and tighten rules for international travelers. After the first U.S. Omicron case was detected in California, seven more cases were reported in New York, Minnesota and Colorado. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514524?at_medium=RSS&at_campaign=KARANGA">Laverne & Shirley star Eddie Mekka dies aged 69</a> BBC: The US actor is best known for playing Carmine Ragusa in the 1970s-80s Laverne & Shirley TV sitcom. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
+ <p class="updated_time"> 05:53 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 05:51 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Five cases were reported in New York City and on Long Island, while another case was a Minnesota man who had recently traveled to the city. Colorado also reported one case. 
  <p class="updated_time"> 05:39 PM CT, Dec. 02 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 05:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel’s Parting Message to Germany: Trust One Another</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
- <p class="updated_time"> 04:56 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59509854?at_medium=RSS&at_campaign=KARANGA">US and Mexico to restart Trump-era 'Remain in Mexico' policy</a> BBC: More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme. 
  <p class="updated_time"> 04:55 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
@@ -53,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 01:39 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
  <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
- <p class="updated_time"> 03:19 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59502515?at_medium=RSS&at_campaign=KARANGA">Home Alone house available to book on Airbnb</a> BBC: The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only. 
  <p class="updated_time"> 02:00 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/wages-are-going-gangbusters-in-the-u-s-elsewhere-not-so-much-11638450001">Wages Are Going Gangbusters in the U.S.---Elsewhere, Not So Much</a> WSJ: It is a stark divergence as the global economy recovers from the Covid-19 pandemic, with implications for how quickly central banks tighten monetary policy in response to price pressures. 
  <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
@@ -179,16 +181,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/olaf-scholz-germany-vaccine-mandate.html">Germany's Incoming Chancellor Olaf Scholz Backs Vaccine Mandate</a> NYT: Mainstream German politicians have long dismissed the idea of a vaccine mandate, but are rethinking the issue as cases rise. 
  <p class="updated_time"> 08:23 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/lebron-james-covid-lakers.html">LeBron James Enters N.B.A.'s Covid Protocols</a> NYT: Comments from Anthony Davis indicated James has tested positive for the coronavirus, which could keep him out for 10 days. 
- <p class="updated_time"> 06:17 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-covid-variant-pronunciation.html">How do you say ‘Omicron’?</a> NYT: Unlike Alpha, Beta and Delta, the name of the latest known variant is not as straightforward, with some English speakers offering up diverse pronunciations. 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/greece-migrants-interpreter-expelled.html">E.U. Interpreter Says Greece Expelled Him to Turkey in Migrant Roundup</a> NYT: The man’s story echoes complaints from human-rights groups that Greek authorities often expel asylum seekers indiscriminately and violently. 
  <p class="updated_time"> 04:35 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html">How 2 Flights to Europe May Have Spurred Spread of New Variant</a> NYT: A confounding array of Covid rules and lax enforcement of mask wearing may have sent infected passengers on two KLM flights from South Africa on to “who knows where.” 
  <p class="updated_time"> 04:00 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
- <p class="updated_time"> 02:46 AM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/europe/uk-omicron-variant.html">Amid Variant Fears, U.K. Discovers Limits to Its Virus Strategy</a> NYT: Britain’s approach to coronavirus-related restrictions has been looser than other European countries, but the Omicron variant has spurred swift action on mitigation measures. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
  <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
@@ -204,6 +202,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:12 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">House Passes Spending Bill as Lawmakers Race to Avert Government Shutdown</a> NYT: As the House voted to fund the government through mid-February, senators were scrambling to avoid a shutdown over vaccine mandates. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/immigration-public-health-rule-mexico.html">Many Migrants Are Quickly Expelled, but Others Can Stay. Here’s Why.</a> NYT: The Biden administration is fighting to preserve Title 42, a public health rule that turns back families at the border during the pandemic. But some have been allowed to stay in the United States, despite the rule. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/dhs-security-directives-rail-aviation-industries/index.html">TSA will force train and plane operators to tell the feds when they've been hacked</a> CNN: US airlines and railroads will have to report cyber breaches to the federal government, the Biden administration said Thursday, as officials warn of increasing danger from attempted hacks. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/9-11-families-taliban-funds.html">More Sept. 11 Victims Who Sued the Taliban Want Frozen Afghan Funds</a> NYT: The Biden administration was set to tell a court on Friday what it thinks should happen, but obtained a delay until Jan. 28. 
+ <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Congress on verge of avoiding shutdown after last-minute brinkmanship</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 05:39 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/testing-requirement-international-travel-us/index.html">Stricter testing requirements for travelers coming to the US will take effect Monday</a> CNN: The Biden administration's new, stricter testing requirements for all travelers coming to the United States will take effect at midnight on Monday, an administration official told CNN. 
  <p class="updated_time"> 05:34 PM CT, Dec. 02 </p> 
@@ -216,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/suburbs-gerrymandering-republicans.html">How the Suburbs Have Changed Gerrymandering</a> NYT: Republicans have historically used the suburbs to defend against the electoral threat of cities. Now the suburbs themselves are posing the threat. 
  <p class="updated_time"> 05:18 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061015753/abortion-roe-v-wade-trigger-laws-mississippi-jacksons-womens-health-organization">21 states poised to ban or severely restrict abortion if Roe v. Wade is overturned</a> NPR: So-called "trigger laws" in 12 states would automatically enact an abortion ban if Roe is overturned. In nine others, bans that were blocked by courts or have long been unenforced could take effect. 
- <p class="updated_time"> 05:18 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">House passes plan to fund the government as Republican senators stand by shutdown threat ahead of Friday deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/lynda-blanchard-running-for-governor/index.html">Alabama GOP Senate candidate Lynda Blanchard to switch races and run for governor</a> CNN: Republican Lynda Blanchard plans to end her Alabama US Senate bid and instead run for governor, according to three people familiar with the matter. She is expected to announce her campaign against GOP Gov. Kay Ivey next week. 
  <p class="updated_time"> 05:05 PM CT, Dec. 02 </p> 
@@ -230,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/roberts-blackmun-roe-papers/index.html">Why John Roberts cited the private papers of the justice who wrote Roe v. Wade</a> CNN: During Wednesday's historic oral arguments on abortion rights, Chief Justice John Roberts pulled back the curtain on internal Supreme Court negotiations and referred to the papers of the late Justice Harry Blackmun, the author of Roe v. Wade. 
  <p class="updated_time"> 04:48 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
- <p class="updated_time"> 04:37 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">House Passes Spending Bill as Government Shutdown Still Looms</a> NYT: Even as the House voted to fund the government through mid-February, Senate Republicans were still threatening to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 04:35 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/january-6-andrew-wrigley/index.html">January 6 was opposite of 1776, judge tells rioter who carried revolutionary flag into US Capitol</a> CNN: A federal judge slammed one of the January 6 rioters for waving a 1776 flag while storming the US Capitol, saying his attempt to overturn a democratic election betrayed the values of the American Revolution. 
  <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
@@ -246,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/democrats-massachusetts-governor-baker-healey-walsh/index.html">Democrats take new look at Massachusetts governor's race after Baker steps aside</a> CNN: The race for Massachusetts governor became more appealing for commonwealth Democrats this week with popular Republican Gov. Charlie Baker's decision not to seek a third term. 
  <p class="updated_time"> 03:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-covid-at-home-testing-tests.html">New Biden Covid-19 Plan Will Reimburse At-Home Tests</a> NYT: The new strategy includes insurance reimbursements for at-home tests and stricter rules for international travelers, as the Omicron variant circulates in more than 30 countries. 
- <p class="updated_time"> 03:24 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028404/heres-what-president-bidens-winter-covid-plan-involves">Here's what President Biden's winter COVID plan involves</a> NPR: President Biden announced his strategy to deal with COVID-19 throughout the winter months, including getting more people vaccinated and stepping up testing for the virus. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -288,10 +294,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/interior-oil-gas-report-biden-climate/index.html">Tough politics around oil and gas are preventing Joe Biden from being a climate hero </a> CNN: A long-awaited Department of Interior report on federal oil and gas leasing, tellingly released on Black Friday, is drawing criticism from multiple fronts. 
  <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
- <p class="updated_time"> 09:21 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Shutdown odds escalate as Senate fields House-passed funding patch</a> Politico: A standoff over President Joe Biden's vaccine mandate could prompt a funding lapse come midnight Friday. 
+ <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress on path to avert shutdown after chaotic scramble</a> Politico: While nothing is locked in, several Republican senators on Thursday night said they expect to vote on the stopgap spending bill within a matter of hours. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
@@ -334,14 +338,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-variant.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/media/chris-cuomo-cnn.html">CNN and Chris Cuomo Face Difficult Questions After Anchor’s Suspension</a> NYT: The network said it was pursuing a “further evaluation” of evidence regarding its star anchor’s efforts to help stave off a sexual harassment scandal that his brother, former Gov. Andrew M. Cuomo, was facing. 
- <p class="updated_time"> 06:12 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/stacey-abrams-georgia-governor.html">Stacey Abrams Says She’s Running for Georgia Governor</a> NYT: Ms. Abrams, a Democratic voting rights activist, will aim to unseat Gov. Brian Kemp in a rematch of their contentious 2018 race for governor. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/us-ambassador-israel.html">In Israel, the New U.S. Ambassador’s Home Lacks a Certain View</a> NYT: The Trump administration sold the luxurious estate where envoys had lived for decades when it moved the U.S. Embassy to Jerusalem. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/alyssa-farah-trump-covid-test-biden-debate-cnntv/index.html">Ex-White House official says Trump showed 'flagrant lack of regard for public health' in keeping positive Covid test secret</a> CNN: Former President Donald Trump showed "a flagrant lack of regard for public health" and endangered White House staff by not disclosing a positive Covid-19 test he received last year, his former communications director said Wednesday. 
- <p class="updated_time"> 05:56 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/government-shutdown-vaccine-mandate.html">Republicans Threaten Government Shutdown Over Vaccine Mandates</a> NYT: With federal funding set to lapse on Friday, President Biden’s requirement for large employers is a sticking point over a stopgap spending bill. 
  <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/peter-defazio-retire.html">Peter DeFazio, House Transportation Committee Chairman, Will Retire</a> NYT: The Oregon Democrat, who has served for nearly 35 years, is the third House committee leader to announce his retirement this year, as the party braces for a grueling midterm election. 
  <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
@@ -354,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060620025/stacey-abrams-announces-candidacy-in-georgia-governors-race">Stacey Abrams announces candidacy in Georgia governor's race</a> NPR: Abrams rose to national prominence following her narrow loss in Georgia's 2018 governor's race. Her entrance into the contest sets up a potential rematch against Gov. Brian Kemp. 
  <p class="updated_time"> 03:22 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608439/islamophobic-comments-are-the-latest-racist-rhetoric-to-come-from-fringe-lawmake">Islamophobic comments are the latest racist rhetoric to come from fringe lawmakers</a> NPR: Congresswoman Lauren Boebert, R-Colo., recently suggested Congresswoman Ilhan Omar, D-Minn., was a suicide bomber. The Islamophobic comments are the latest in a string of racist rhetoric in the House. 
- <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
@@ -372,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appears to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
  <p class="updated_time"> 11:08 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol">Young Americans are raising alarms about the state of U.S. democracy in a new poll</a> NPR: A poll by the Harvard Kennedy School's Institute of Politics found that a majority of young people believe that American democracy is either "in trouble" or "failed." 
- <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/biden-expands-national-space-council-523593">Harris calls for new international rules for space after Russia blows up satellite</a> Politico: "By blasting debris across space, this irresponsible act endangered the satellites of other nations," the vice president said. 
  <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
  <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
