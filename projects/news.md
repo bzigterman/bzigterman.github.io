@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 PM CT, Dec. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514531?at_medium=RSS&at_campaign=KARANGA">US government shutdown averted hours before deadline</a> BBC: The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 11:00 PM CT, Dec. 02 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59502180?at_medium=RSS&at_campaign=KARANGA">Covid: Germany puts major restrictions on unvaccinated</a> BBC: Chancellor Angela Merkel describes the far-reaching measures as an act of "national solidarity". 
  <p class="updated_time"> 10:23 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060853542/meghan-duchess-of-sussex-privacy-lawsuit">Meghan, Duchess of Sussex, wins latest stage of her privacy dispute with a publisher</a> NPR: A U.K. court backed the former Meghan Markle in her long-running lawsuit against a British newspaper publisher over its publication of parts of a letter she wrote to her estranged father. 
- <p class="updated_time"> 10:11 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59509814?at_medium=RSS&at_campaign=KARANGA">Ikea customers and staff sleep in store after snowstorm</a> BBC: The group was left stranded after up to 30cm (12in) of snow fell in the Danish city of Aalborg. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 09:54 AM CT, Dec. 02 </p> 
