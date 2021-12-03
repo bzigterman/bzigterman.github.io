@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333559/south-africa-is-seeing-a-4th-surge-of-covid-19-thats-being-driven-by-omicron">South Africa is seeing a 4th surge of COVID-19 that's being driven by omicron</a> NPR: South Africa's health ministry says the rate of infection is the highest since the beginning of the COVID-19 pandemic. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333538/berlin-voted-for-the-city-to-seize-apartments-owned-by-developers-to-lower-rent-">Berlin voted for the city to seize apartments owned by developers to lower rent costs</a> NPR: Voters in Berlin, Germany, want the city to expropriate hundreds of thousands of apartments to stop speculation by big property developers — but it's too costly and probably illegal. 
  <p class="updated_time"> 03:40 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333531/mens-tennis-is-under-fire-for-not-pulling-business-from-china-over-peng-shuai">Men's tennis is under fire for not pulling business from China over Peng Shuai</a> NPR: After a Chinese tennis star accused a former Chinese official of assault and temporarily vanished from view, the Women's Tennis Association halted tournaments there. Now the men's group is under fire. 
  <p class="updated_time"> 03:36 PM CT, Dec. 03 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
- <p class="updated_time"> 10:23 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060853542/meghan-duchess-of-sussex-privacy-lawsuit">Meghan, Duchess of Sussex, wins latest stage of her privacy dispute with a publisher</a> NPR: A U.K. court backed the former Meghan Markle in her long-running lawsuit against a British newspaper publisher over its publication of parts of a letter she wrote to her estranged father. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/covid-travel-boosters-omicron.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
- <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
 
 
 </details>
