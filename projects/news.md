@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:56 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
- <p class="updated_time"> 09:56 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant. 
+ <p class="updated_time"> 10:30 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana said most of the initial 19 were “imported.” 
+ <p class="updated_time"> 10:07 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
  <p class="updated_time"> 09:36 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
  <p class="updated_time"> 09:27 AM CT, Dec. 03 </p> 
@@ -133,14 +135,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 01:14 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59503827?at_medium=RSS&at_campaign=KARANGA">Margaux Pinot: Shock over release of judoka’s partner in assault case</a> BBC: Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof. 
  <p class="updated_time"> 01:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/business/opec-plus-meeting-oil.html">OPEC Plus Maintains Oil Production Plans</a> NYT: The oil cartel and Russia met less than a week after crude prices plunged amid worries over the Omicron variant. 
  <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say Omicron?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
- <p class="updated_time"> 12:15 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59511820?at_medium=RSS&at_campaign=KARANGA">Elle to stop promoting the use of animal fur in its magazines</a> BBC: It is the first major fashion publication to make the pledge, citing its support for animal rights. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
  <p class="updated_time"> 12:08 PM CT, Dec. 02 </p> 
@@ -173,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 10:04 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/europe/putin-nato-russia-ukraine.html">Putin and West Spar Over NATO’s Military Ties to Ukraine</a> NYT: Tensions over Ukraine escalated as Russia’s leader demanded “legal guarantees” that the Western military alliance would not expand to the east, a position NATO regards as untenable. 
- <p class="updated_time"> 09:42 PM CT, Dec. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59501162?at_medium=RSS&at_campaign=KARANGA">Queensland Floods: Second death recorded as crisis continues</a> BBC: The southern part of Queensland has seen widespread rain and flooding. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
  <p class="updated_time"> 06:28 PM CT, Dec. 01 </p> 
@@ -212,6 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/arts/design/jerrell-gibbs-elijah-cummings-portrait.html">Painter of Elijah Cummings Portrait Finds It’s a Career-Changer</a> NYT: The Baltimore artist Jerrell Gibbs was commissioned to paint Maryland’s late Representative. The official portrait will be installed at the U.S. Capitol. 
+ <p class="updated_time"> 10:22 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
+ <p class="updated_time"> 10:03 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/immigration-build-back-better-parliamentarian/index.html">Democrats await decision on whether immigration can be in Build Back Better</a> CNN: Democrats in the Senate have for the third time tried to use a technical procedure to try to include immigration provisions in President Joe Biden's Build Back Better Act, putting everything on the line for what could be the last attempt to try to pass some sort of overhaul of the nation's immigration laws before the new year. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 05:01 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/abortion-arguments-post-roe.html">How the Politics of Abortion Are Poised to Intensify</a> NYT: The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality. 
- <p class="updated_time"> 04:57 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/roberts-blackmun-roe-papers/index.html">Why John Roberts cited the private papers of the justice who wrote Roe v. Wade</a> CNN: During Wednesday's historic oral arguments on abortion rights, Chief Justice John Roberts pulled back the curtain on internal Supreme Court negotiations and referred to the papers of the late Justice Harry Blackmun, the author of Roe v. Wade. 
  <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">Congress approves a short-term funding bill to avoid a government shutdown</a> NPR: A day before the Friday deadline, lawmakers approved a spending bill that will keep federal agencies running through Feb. 18, 2022. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
@@ -345,7 +345,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">A Pollster’s Warning to Democrats: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
@@ -362,22 +362,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">In Abortion Case, Chief Justice Roberts Searches for Middle Ground</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
+ <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/omicron-variant-us-california.html">U.S. Reports Its 1st Omicron Case, in a California Traveler</a> NYT: The discovery in San Francisco County prompted the Biden administration to renew calls for everyone to get fully vaccinated and receive a booster, if eligible. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
- <p class="updated_time"> 06:54 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/business/economy/biden-omicron-variant.html">Biden Projects Normalcy and Optimism as Omicron Poses New Threat</a> NYT: The president tried to convey holiday cheer as he celebrated Hanukkah and downplayed virus concerns as the variant was detected in California. 
  <p class="updated_time"> 06:31 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/business/media/chris-cuomo-cnn.html">CNN and Chris Cuomo Face Difficult Questions After Anchor’s Suspension</a> NYT: The network said it was pursuing a “further evaluation” of evidence regarding its star anchor’s efforts to help stave off a sexual harassment scandal that his brother, former Gov. Andrew M. Cuomo, was facing. 
  <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 06:06 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/us-ambassador-israel.html">In Israel, the New U.S. Ambassador’s Home Lacks a Certain View</a> NYT: The Trump administration sold the luxurious estate where envoys had lived for decades when it moved the U.S. Embassy to Jerusalem. 
- <p class="updated_time"> 04:59 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/peter-defazio-retire.html">Peter DeFazio, House Transportation Committee Chairman, Will Retire</a> NYT: The Oregon Democrat, who has served for nearly 35 years, is the third House committee leader to announce his retirement this year, as the party braces for a grueling midterm election. 
  <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608500/massachusetts-gov-charlie-baker-says-he-wont-be-running-for-reelection">Massachusetts Gov. Charlie Baker says he won't be running for reelection</a> NPR: Massachusetts Gov. Charlie Baker, a moderate Republican, says he won't run for a third term. Although he's one of the nation's most popular governors, Baker was facing a tough primary challenge. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
