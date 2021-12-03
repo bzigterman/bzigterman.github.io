@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 11:48 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59472675?at_medium=RSS&at_campaign=KARANGA">Omicron: India reports first cases of new Covid variant</a> BBC: Two travellers who landed in India's Bangalore city tested positive for the Omicron variant. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59472675?at_medium=RSS&at_campaign=KARANGA">Omicron: India reports first cases of new Covid variant</a> BBC: Health officials say the two patients with the new strain have shown mild symptoms. 
  <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
  <p class="updated_time"> 11:29 PM CT, Dec. 02 </p> 
