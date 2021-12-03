@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Biden blasted for reviving Trump's Remain in Mexico policy</a> BBC: Activists warn restoring 'Remain in Mexico' at the border will result in "torture, rape, and death". 
+ <p class="updated_time"> 01:30 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59487912?at_medium=RSS&at_campaign=KARANGA">Why Turkey's currency crash does not worry Erdogan</a> BBC: Turkey's national currency has plummeted 45% against the dollar this year 
  <p class="updated_time"> 11:48 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59472675?at_medium=RSS&at_campaign=KARANGA">Omicron: India reports first cases of new Covid variant</a> BBC: Health officials say the two patients with the new strain have shown mild symptoms. 
  <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 10:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
- <p class="updated_time"> 09:10 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Biden blasted for reviving Trump's Remain in Mexico policy</a> BBC: Activists warn restoring 'Remain in Mexico' at the border will result in "torture, rape, and death". 
  <p class="updated_time"> 09:09 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59514800?at_medium=RSS&at_campaign=KARANGA">China app giant Didi plans US stock market exit in move to Hong Kong</a> BBC: The move comes after the company came under intense scrutiny from regulators in the US and China. 
  <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
@@ -46,11 +48,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:32 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061053897/elle-magazine-ban-fur-from-publications">Elle magazine says it will ban fur from its publications worldwide</a> NPR: So far, 13 editions globally have implemented the ban, with 20 more set to do so by January 1. The magazine says the decision reflects changing tastes in fashion. 
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26m people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:25 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59503872?at_medium=RSS&at_campaign=KARANGA">Kerala: The granny who learnt to read and write at 104</a> BBC: Kuttiyamma, from the southern Indian state of Kerala, aced a government test that measures literacy. 
- <p class="updated_time"> 06:22 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59487912?at_medium=RSS&at_campaign=KARANGA">Why Turkey's currency crash does not worry Erdogan</a> BBC: Turkey's national currency has plummeted 45% against the dollar this year 
  <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
  <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
