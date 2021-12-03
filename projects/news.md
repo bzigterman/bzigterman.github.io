@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
+ <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
+ <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 03:04 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
- <p class="updated_time"> 02:57 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 02:53 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
- <p class="updated_time"> 02:26 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
@@ -204,10 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
- <p class="updated_time"> 02:35 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, First Openly Transgender Mayor in America, Dies at 73</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/appeals-court-suit-trump-rape-denial-523717">Appeals court mulls suit against Trump over rape denial</a> Politico: The Biden administration Justice Department deplores the former president's language, but backs his effort to shut down E. Jean Caroll's lawsuit. 
  <p class="updated_time"> 02:10 PM CT, Dec. 03 </p> 
@@ -386,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
- <p class="updated_time"> 04:02 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060608500/massachusetts-gov-charlie-baker-says-he-wont-be-running-for-reelection">Massachusetts Gov. Charlie Baker says he won't be running for reelection</a> NPR: Massachusetts Gov. Charlie Baker, a moderate Republican, says he won't run for a third term. Although he's one of the nation's most popular governors, Baker was facing a tough primary challenge. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
