@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:24 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 03:40 PM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061333531/mens-tennis-is-under-fire-for-not-pulling-business-from-china-over-peng-shuai">Men's tennis is under fire for not pulling business from China over Peng Shuai</a> NPR: After a Chinese tennis star accused a former Chinese official of assault and temporarily vanished from view, the Women's Tennis Association halted tournaments there. Now the men's group is under fire. 
+ <p class="updated_time"> 03:36 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
+ <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:23 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
  <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
- <p class="updated_time"> 11:57 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
@@ -55,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59524707?at_medium=RSS&at_campaign=KARANGA">Ethiopia closes schools to boost civil war effort</a> BBC: The government wants secondary school students to harvest crops to help frontline fighters. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
+ <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:19 AM CT, Dec. 03 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
- <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/middleeast/israel-omicron-surgeon.html">Surgeon Was First Omicron Case in Israel. Only One Contact Is Sick.</a> NYT: In the days leading up to his positive test, Elad Maor interacted with about 100 people. So far, only one contact has tested positive. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/covid-travel-boosters-omicron.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
  <p class="updated_time"> 03:42 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
- <p class="updated_time"> 03:32 PM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060618440/northern-ireland-collective-wins-the-prestigious-turner-prize-for-art">Northern Ireland collective wins the prestigious Turner Prize for art</a> NPR: A collective from Belfast won the U.K. prize for art. Prize organizers said the work tackles "urgent social and political issues affecting Northern Ireland with humor, seriousness and beauty." 
 
 
 </details>
