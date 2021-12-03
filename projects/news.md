@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:20 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
- <p class="updated_time"> 09:20 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 09:38 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
+ <p class="updated_time"> 09:36 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
+ <p class="updated_time"> 09:27 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
+ <p class="updated_time"> 09:23 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:58 AM CT, Dec. 03 </p> 
@@ -21,18 +27,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 08:12 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
- <p class="updated_time"> 07:46 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and jab myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 06:03 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
- <p class="updated_time"> 04:23 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 04:16 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/health-59511401?at_medium=RSS&at_campaign=KARANGA">Omicron coronavirus variant: Your questions answered</a> BBC: How long do symptoms last for, is it more harmful to children? Experts answer your questions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
@@ -210,8 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:20 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/stacey-abrams-concession-2018-georgia/index.html">Abrams defends lack of concession after 2018 gubernatorial loss</a> CNN: Democratic gubernatorial candidate Stacey Abrams defended herself from criticism that she never conceded her loss to Gov. Brian Kemp in 2018 on Friday, addressing what Republicans have already used against her in her newly announced 2022 rematch against Kemp. 
  <p class="updated_time"> 09:16 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/new-yorker-podcast-andreas-malm-523705">How to blow up a podcast</a> Politico: A Texas intel bulletin on a New Yorker podcast with a fringe environmentalist raises concerns over defining domestic terrorism. 
  <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/roberts-blackmun-roe-papers/index.html">Why John Roberts cited the private papers of the justice who wrote Roe v. Wade</a> CNN: During Wednesday's historic oral arguments on abortion rights, Chief Justice John Roberts pulled back the curtain on internal Supreme Court negotiations and referred to the papers of the late Justice Harry Blackmun, the author of Roe v. Wade. 
  <p class="updated_time"> 04:34 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">Congress approves a short-term funding bill to avoid a government shutdown</a> NPR: A day before the Friday deadline, lawmakers approved a spending bill that will keep federal agencies running through Feb. 18, 2022. 
- <p class="updated_time"> 04:29 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/ndaa-senate-stalled/index.html">Annual defense bill stalled in Senate </a> CNN: The annual defense bill is stalled in the Senate amid a bitter disagreement over one senator's demand to punish China over its alleged treatment of the Uyghurs. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
@@ -446,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
  <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
- <p class="updated_time"> 09:28 AM CT, Nov. 26 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/26/the-almost-normal-holiday-returns-495230">POLITICO Playbook: The almost-normal holiday returns</a> Politico: And Biden keeps a low profile on recent high-profile court cases. 
 
 
 </details>
