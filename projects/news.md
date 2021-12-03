@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 08:12 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
- <p class="updated_time"> 08:10 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 07:46 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
+ <p class="updated_time"> 03:34 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/asia-pacific-nations-use-tougher-tactics-to-combat-omicron-variant-11638526478">Asia-Pacific Nations Use Tougher Tactics to Combat Omicron Variant</a> WSJ: Countries in the Asia-Pacific region are creating tougher rules for those infected with the Omicron Covid-19 variant, as governments move more aggressively than they have against all other previous iterations. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as "lady of the house" at Jeffrey Epstein's US home. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
  <p class="updated_time"> 11:29 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514531?at_medium=RSS&at_campaign=KARANGA">US government shutdown averted hours before deadline</a> BBC: The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown. 
- <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/asia-pacific-nations-use-tougher-tactics-to-combat-omicron-variant-11638526478">Asia-Pacific Nations Use Tougher Tactics to Combat Omicron Variant</a> WSJ: Countries in the Asia-Pacific region are creating tougher rules for those infected with the Omicron Covid-19 variant, as governments move more aggressively than they have against all other previous iterations. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 10:28 PM CT, Dec. 02 </p> 
@@ -212,8 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/new-yorker-podcast-andreas-malm-523705">How to blow up a podcast</a> Politico: A Texas intel bulletin on a New Yorker podcast with a fringe environmentalist raises concerns over defining domestic terrorism. 
  <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/employers-hiring-pace-november-523706">U.S. employers added a sluggish 210,000 jobs in November</a> Politico: America’s employers slowed the pace of their hiring in November, adding 210,000 jobs, the fewest in nearly a year. 
+ <p class="updated_time"> 08:34 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html">DeSantis proposes a new civilian military force in Florida that he would control</a> CNN: Florida Gov. Ron DeSantis wants to reestablish a World War II-era civilian military force that he, not the Pentagon, would control. 
  <p class="updated_time"> 08:07 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/russian-forces-ukraine-border/index.html">Russia positions more forces, supply lines as fears rise of potential Ukraine invasion</a> CNN: Russian forces have capabilities in place along the Ukraine border to carry out a swift and immediate invasion, including erecting supply lines such as medical units and fuel that could sustain a drawn-out conflict, should Moscow choose to invade, two sources familiar with the latest intelligence assessments told CNN. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/9-11-families-taliban-funds.html">More Sept. 11 Victims Who Sued the Taliban Want Frozen Afghan Funds</a> NYT: The Biden administration was set to tell a court on Friday what it thinks should happen, but obtained a delay until Jan. 28. 
  <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Biden tells Americans 'we have so much ahead of us' during National Christmas Tree lighting</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
- <p class="updated_time"> 07:03 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html">DeSantis proposes a new civilian military force in Florida that he would control</a> CNN: Florida Gov. Ron DeSantis wants to reestablish a World War II-era civilian military force that he, not the Pentagon, would control. 
  <p class="updated_time"> 06:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/suburbs-gerrymandering-republicans.html">How the Suburbs Have Changed Gerrymandering</a> NYT: Republicans have historically used the suburbs to defend against the electoral threat of cities. Now the suburbs themselves are posing the threat. 
  <p class="updated_time"> 06:52 PM CT, Dec. 02 </p> 
