@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">US tightens travel rules amid new Omicron cases</a> BBC: The US winter plan includes millions of free tests and stricter rules for international passengers. 
  <p class="updated_time"> 01:35 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Biden blasted for reviving Trump's Remain in Mexico policy</a> BBC: Activists warn restoring 'Remain in Mexico' at the border will result in "torture, rape, and death". 
  <p class="updated_time"> 01:30 AM CT, Dec. 03 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
- <p class="updated_time"> 07:57 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59512368?at_medium=RSS&at_campaign=KARANGA">US tightens travel rules amid new Omicron cases</a> BBC: But the US president says his plan "doesn't include shutdowns" or expand vaccine mandates. 
  <p class="updated_time"> 07:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
