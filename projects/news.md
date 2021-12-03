@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:36 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
+ <p class="updated_time"> 12:19 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
+ <p class="updated_time"> 12:16 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 12:15 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
  <p class="updated_time"> 12:07 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 12:03 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
- <p class="updated_time"> 11:59 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
  <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 11:57 AM CT, Dec. 03 </p> 
@@ -22,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese tech company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in ride-hailing firm Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
+ <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese ride-hailing company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 11:40 AM CT, Dec. 03 </p> 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:29 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope’s Plea for Migrants Clashes With Island’s Tensions</a> NYT: As he celebrated Mass, Pope Francis urged Cypriots to welcome refugees and embrace their home’s history as a crossroads of cultures. But the government says it is overwhelmed. 
+ <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59524707?at_medium=RSS&at_campaign=KARANGA">Ethiopia closes schools to boost civil war effort</a> BBC: The government wants secondary school students to harvest crops to help frontline fighters. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
@@ -53,10 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
- <p class="updated_time"> 04:16 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/health-59511401?at_medium=RSS&at_campaign=KARANGA">Omicron coronavirus variant: Your questions answered</a> BBC: How long do symptoms last for, is it more harmful to children? Experts answer your questions. 
- <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:52 AM CT, Dec. 03 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59397897?at_medium=RSS&at_campaign=KARANGA">Broome: Diving the remnants of a WW2 attack on Australia</a> BBC: A WW2 air raid on Broome killed scores of people - historians say it should be better remembered. 
  <p class="updated_time"> 06:11 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59409084?at_medium=RSS&at_campaign=KARANGA">Boxing Day: Festive film debut for Little Mix's Leigh-Anne Pinnock</a> BBC: Boxing Day, the first British Christmas rom-com led by an all-black cast, is released Friday 3 December. 
- <p class="updated_time"> 06:08 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-coronavirus.html">Germany Announces Restrictions on Unvaccinated People</a> NYT: The country is trying to fight a monthlong surge in infections that has been breaking daily case records. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
@@ -252,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/fact-check-biden-unemployment-inflation-nobel/index.html">Fact-checking 4 Biden claims about the economy</a> CNN: President Joe Biden has spoken regularly about the economy in the past month -- trying at once to reassure Americans about inflation, draw attention to job growth and earn support for his signature infrastructure and social spending proposals. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/e-jean-carroll-trump-lawsuit/index.html">Appeals court hears arguments in E. Jean Carroll's defamation lawsuit against Trump</a> CNN: Former magazine columnist E. Jean Carroll squares off against the Justice Department before a New York federal appeals court Friday in an oral argument that will likely decide the fate of her defamation lawsuit against former President Donald Trump. 
  <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/nfl-flyover-investigation-military-faa/index.html">US Army and FAA investigating military flyover of NFL game</a> CNN: The US military and the Federal Aviation Administration are reviewing a flyover of an NFL game last month to determine if the military helicopters flew too low over civilians in violation of aviation regulations. 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
@@ -275,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061055858/potential-2024-rivals-harris-and-buttigieg-ally-to-sell-biden-agenda">Potential 2024 rivals Harris and Buttigieg ally to sell Biden agenda</a> NPR: With President Biden approaching 80 years old, the political spotlight has been trained more brightly than usual on the pair. Here's a look at their political prospects. 
  <p class="updated_time"> 01:15 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/republicans-biden-covid-mandates-government-shutdown/index.html">Republicans pull back from the Covid brink -- for now </a> CNN: Sanity prevailed Thursday night when the Senate overcame an effort by a handful of conservative Republican senators who had threatened to force a government shutdown unless they got a vote on an amendment to defund President Joe Biden's Covid-19 vaccine mandates. 
+ <a href="https://www.cnn.com/2021/12/03/politics/republicans-biden-covid-mandates-government-shutdown/index.html">Analysis: Republicans pull back from the Covid brink -- for now </a> CNN: Sanity prevailed Thursday night when the Senate overcame an effort by a handful of conservative Republican senators who had threatened to force a government shutdown unless they got a vote on an amendment to defund President Joe Biden's Covid-19 vaccine mandates. 
  <p class="updated_time"> 12:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
  <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
@@ -314,6 +312,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/immigration-public-health-rule-mexico.html">Many Migrants Are Quickly Expelled, but Others Can Stay. Here’s Why.</a> NYT: The Biden administration is fighting to preserve Title 42, a public health rule that turns back families at the border during the pandemic. But some have been allowed to stay in the United States, despite the rule. 
+ <p class="updated_time"> 05:55 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-administration-restart-remain-in-mexico/index.html">Due to court order, 'Remain in Mexico' rules for migrants are likely to restart Monday</a> CNN: The Biden administration plans to relaunch the Trump-era border program known as "Remain in Mexico" on Monday due to a court order, meaning the US will again send migrants to Mexico to await their immigration court hearings, administration officials announced Thursday. 
  <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/dhs-security-directives-rail-aviation-industries/index.html">TSA will force train and plane operators to tell the feds when they've been hacked</a> CNN: US airlines and railroads will have to report cyber breaches to the federal government, the Biden administration said Thursday, as officials warn of increasing danger from attempted hacks. 
  <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
@@ -340,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
+ <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
@@ -348,12 +350,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/biden-remain-in-mexico-523666">Biden administration to restart 'Remain in Mexico' program under court order</a> Politico: The controversial Trump-era policy could restart as soon as Monday if Mexico agrees. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
- <p class="updated_time"> 11:16 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/mark-meadows-election-fraud-liaison/index.html">New details shed light on ways Mark Meadows pushed federal agencies to pursue dubious election claims</a> CNN: Former White House chief of staff Mark Meadows' new cooperation with the January 6 House select committee could give investigators a valuable window into how former President Donald Trump and his allies tried to enlist government officials to pursue baseless election conspiracy theories -- an effort new CNN reporting reveals Meadows was central to in the weeks after the 2020 election. 
  <p class="updated_time"> 10:55 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/supreme-court-mississippi-abortion-law.html">Supreme Court Seems Poised to Uphold Mississippi’s Abortion Law</a> NYT: It was less clear whether the court’s conservative majority would overrule Roe v. Wade, the decision establishing a constitutional right to abortion. 
- <p class="updated_time"> 09:36 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/the-recast-help-us-find-race-politics-policy-power-players-523516">Help us spotlight who's shaking up race, politics and policy</a> Politico: POLITICO's The Recast is launching its first-ever Power List. We're looking for 40 people to feature — and we want your nominations. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
@@ -378,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 08:23 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/abortion-supreme-court-mississippi.html">In Abortion Case, Chief Justice Roberts Searches for Middle Ground</a> NYT: The chief justice, known for his incremental approach to contentious issues, explored on Wednesday whether the court could uphold Mississippi’s law without totally throwing out Roe v. Wade. 
+ <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
