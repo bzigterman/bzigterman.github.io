@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:33 AM CT, Dec. 03 </p> 
+ <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Court in Philippines Allows Maria Ressa to Travel to Norway for Nobel</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
+ <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
+ <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as 'lady of the house' at Jeffrey Epstein's US home. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59517712?at_medium=RSS&at_campaign=KARANGA">Lamine Diack: Disgraced athletics boss dies in Senegal</a> BBC: The disgraced former head of world athletics governing body Lamine Diack dies in Senegal aged 88. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59501055?at_medium=RSS&at_campaign=KARANGA">Thailand: Newspaper rebuked over 'hunts Africans' headline</a> BBC: The country's Covid-19 taskforce admonished the paper by saying it was a "poor choice of words." 
  <p class="updated_time"> 02:13 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59514465?at_medium=RSS&at_campaign=KARANGA">Rights groups' warning as Trump's Remain in Mexico policy restored</a> BBC: Activists say restoring Remain in Mexico at the border will result in "torture, rape and death". 
- <p class="updated_time"> 02:03 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Court in Philippines Allows Maria Ressa to Travel to Norway for Nobel</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 01:47 AM CT, Dec. 03 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
- <p class="updated_time"> 11:00 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59502180?at_medium=RSS&at_campaign=KARANGA">Covid: Germany puts major restrictions on unvaccinated</a> BBC: Chancellor Angela Merkel describes the far-reaching measures as an act of "national solidarity". 
  <p class="updated_time"> 10:23 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060853542/meghan-duchess-of-sussex-privacy-lawsuit">Meghan, Duchess of Sussex, wins latest stage of her privacy dispute with a publisher</a> NPR: A U.K. court backed the former Meghan Markle in her long-running lawsuit against a British newspaper publisher over its publication of parts of a letter she wrote to her estranged father. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
