@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:55 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 02:21 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the most contagious version of the virus. Omicron has been found in at least six states, mostly among travelers. 
+ <p class="updated_time"> 02:15 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
+ <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
+ <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
+ <p class="updated_time"> 02:07 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/italy-vaccine-fake-arm.html">Man in Italy Tries to Get Vaccinated in a Fake Arm</a> NYT: The stratagem was the latest and perhaps most original episode of vaccine evasion in the struggle between Italy’s government and the country’s anti-vaccine faction. 
+ <p class="updated_time"> 02:01 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 01:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
- <p class="updated_time"> 01:49 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the suspect killed four students and injured seven people with his dad's handgun. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
  <p class="updated_time"> 01:22 PM CT, Dec. 03 </p> 
@@ -21,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 12:36 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 12:03 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
@@ -37,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 11:40 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
- <p class="updated_time"> 11:37 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy-return.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather. 
  <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
@@ -47,14 +53,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 09:19 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Iran Nuclear Talks Stall as Tehran Toughens Stance</a> WSJ: Western diplomats say Iran must moderate its demands in discussions that are set to resume next week. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
- <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
- <p class="updated_time"> 08:10 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Talks to Restore Iran Nuclear Deal Stall</a> WSJ: Western diplomats say Tehran must moderate its demands in discussions that are set to resume next week. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
- <p class="updated_time"> 10:28 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 10:17 PM CT, Dec. 02 </p> 
@@ -197,12 +199,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/01/1060608472/as-omicron-spreads-vaccine-inequity-risks-creating-further-variants">As omicron spreads, vaccine inequity risks creating further variants</a> NPR: NPR's Ari Shapiro chats with Madhu Pai, a global health expert at McGill University, about the state of vaccine deliveries to Africa and the global south. 
  <p class="updated_time"> 03:32 PM CT, Dec. 01 </p> 
  <a href="https://www.npr.org/2021/12/01/1060618440/northern-ireland-collective-wins-the-prestigious-turner-prize-for-art">Northern Ireland collective wins the prestigious Turner Prize for art</a> NPR: A collective from Belfast won the U.K. prize for art. Prize organizers said the work tackles "urgent social and political issues affecting Northern Ireland with humor, seriousness and beauty." 
- <p class="updated_time"> 02:31 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/africa/nigeria-omicron.html">Nigeria Detects Recent Cases of Omicron Variant</a> NYT: At least 23 countries have reported cases, and that number is likely to grow as more samples are tested, the World Health Organization said on Wednesday. 
  <p class="updated_time"> 02:16 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/arts/design/turner-prize-winner.html">Turner Prize Goes to Array Collective, an Art Protest Group</a> NYT: The Belfast-based Array Collective stages carnivalesque interventions at political rallies. Now the group has won Britain’s major art award. 
- <p class="updated_time"> 01:00 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/europe/asylum-rights-poland-eu.html">New E.U. Measures Set to Restrict Asylum Rights at the Belarus Border</a> NYT: Poland, Latvia and Lithuania could take up to four months to process asylum requests at the border, a delay that aid groups said would leave migrants in unsafe conditions as winter sets in. 
 
 
 </details>
@@ -214,6 +212,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: The news comes amid increasing tensions between Pentagon leadership and certain factions of the Guard. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/appeals-court-suit-trump-rape-denial-523717">Appeals court mulls suit against Trump over rape denial</a> Politico: The Biden administration Justice Department deplores the former president's language, but backs his effort to shut down E. Jean Caroll's lawsuit. 
+ <p class="updated_time"> 02:10 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
@@ -234,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb">Congress avoids a government shutdown — but a long to-do list looms</a> NPR: Lawmakers are juggling must-pass items, like addressing the nation's borrowing authority and an annual defense authorization package, along with major political priorities for Democrats. 
  <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
- <p class="updated_time"> 11:25 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061214253/bob-inglis-how-i-changed-my-mind-about-climate-change">Bob Inglis: How I changed my mind about climate change</a> NPR: Former GOP congressman Bob Inglis used to believe climate change wasn't real. But after a candid conversation with his children and a hard look at the evidence, he began to change his mind. 
  <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
