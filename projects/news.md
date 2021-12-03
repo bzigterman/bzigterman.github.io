@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">‘Essence of Rio’: Dirty Foot Bars Offer Escape From Inequality</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
+ <p class="updated_time"> 04:20 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
+ <p class="updated_time"> 04:16 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333587/why-orcas-have-been-lingering-longer-in-the-arctic">Why Orcas have been lingering longer in the Arctic</a> NPR: Orcas are lingering longer in the Arctic Ocean, as sea ice there shrinks. The whales often travel to access varieties of prey, but it's likely there are now more hunting opportunities in the Arctic. 
- <p class="updated_time"> 03:55 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333559/south-africa-is-seeing-a-4th-surge-of-covid-19-thats-being-driven-by-omicron">South Africa is seeing a 4th surge of COVID-19 that's being driven by omicron</a> NPR: South Africa's health ministry says the rate of infection is the highest since the beginning of the COVID-19 pandemic. 
  <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061333531/mens-tennis-is-under-fire-for-not-pulling-business-from-china-over-peng-shuai">Men's tennis is under fire for not pulling business from China over Peng Shuai</a> NPR: After a Chinese tennis star accused a former Chinese official of assault and temporarily vanished from view, the Women's Tennis Association halted tournaments there. Now the men's group is under fire. 
  <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
- <p class="updated_time"> 03:23 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
@@ -67,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/france-to-sell-jet-fighters-to-u-a-e-as-gulf-nation-awaits-u-s-purchase-11638563318">France to Sell Jet Fighters to U.A.E.</a> WSJ: The $19 billion supplies a major U.S. Gulf ally with advanced aircraft while the U.A.E’s growing security ties with China impede its purchase of combat jets from the U.S. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:19 AM CT, Dec. 03 </p> 
@@ -75,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
+ <p class="updated_time"> 08:35 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/omicron-cases-at-norway-christmas-party-provide-clues-on-new-variants-spread-11638554033">Omicron Cases at Norway Christmas Party Provide Clues on New Variant's Spread</a> WSJ: The event at an upscale Oslo restaurant included about 120 people, several of whom had just returned from South Africa. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
@@ -85,6 +91,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
+ <p class="updated_time"> 04:50 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508">Turkey's Economic Turmoil Sends Desperation and Inflation Soaring</a> WSJ: President Erdogan has taken control of the economy and pushed lower interest rates as the currency plunges. Turks have been lining up for subsidized bread and cutting back on meat. 
+ <p class="updated_time"> 04:33 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/china-set-to-create-new-state-owned-rare-earths-giant-11638545586">China Set to Create New State-Owned Rare-Earths Giant</a> WSJ: The move, expected to be announced this month, would aim to strengthen China’s dominance of the global supply chain around the strategic metals. 
+ <p class="updated_time"> 04:18 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/canada-delivers-stellar-november-job-gain-putting-spotlight-on-central-bank-11638544689">Canada Delivers Stellar November Job Gain</a> WSJ: Canada added 153,700 jobs in November and the unemployment rate fell to 6.0%. Economists suggested the data could set the stage for a Bank of Canada rate rise in the first half of 2022 depending on the fallout from the Covid-19 Omicron variant. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:34 AM CT, Dec. 03 </p> 
@@ -173,10 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
- <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/biden-us-china-export-surveillance-human-rights-11638471880">U.S. to Lead Effort to Curb Authoritarians' Access to Surveillance Tools</a> WSJ: The Biden administration said it would launch an initiative with friendly nations to coordinate export policies for technology that can be used to suppress human rights. 
- <p class="updated_time"> 05:47 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
@@ -195,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59489045?at_medium=RSS&at_campaign=KARANGA">'No middle ground': Chile voters face tough choice as run-off looms</a> BBC: Voters speak of the divisions as an ultra-conservative and a left-winger battle it out. 
  <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
- <p class="updated_time"> 04:24 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/europe/vesuvius-victim-herculaneum-ruins.html">Vesuvius Victim May Shed Light on Ancient Rome</a> NYT: Archaeologists found the remains of a person buried at Herculaneum in the eruption of 79 A.D., and hope that with modern technology it will yield fresh insights. 
  <p class="updated_time"> 04:10 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/world/covid-travel-boosters-omicron.html">W.H.O. Scolds Rich Nations for Travel Bans and Booster Shots</a> NYT: As wealthy countries react to the new Omicron virus variant with travel bans and booster shots, the World Health Organization scolded them, calling the steps ineffective and unfair. 
 
@@ -223,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Biden signs stopgap bill to avert shutdown ahead of midnight deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
