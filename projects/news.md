@@ -31,8 +31,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
+ <p class="updated_time"> 03:52 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Talks to Restore Iran Nuclear Deal Stall</a> WSJ: Western allies warned the effort was a step closer to collapse after Tehran’s negotiating team barely inched from its tough stance over a grueling week of negotiations. 
  <p class="updated_time"> 03:34 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/asia-pacific-nations-use-tougher-tactics-to-combat-omicron-variant-11638526478">Asia-Pacific Nations Use Tougher Tactics to Combat Omicron Variant</a> WSJ: Countries in the Asia-Pacific region are creating tougher rules for those infected with the Omicron Covid-19 variant, as governments move more aggressively than they have against all other previous iterations. 
+ <p class="updated_time"> 03:14 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/europe-sees-boost-in-uptake-of-covid-19-shots-but-vaccines-mandates-arestill-on-the-table-11638540874">Europe Sees Boost in Uptake of Shots but Mandates AreStill on the Table</a> WSJ: Relentless pressure to raise vaccination rates in Europe is beginning to bear fruit, but pockets of resistance to the shots mean some countries are leaning toward general vaccine mandates. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as "lady of the house" at Jeffrey Epstein's US home. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
@@ -143,12 +147,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/biden-us-china-export-surveillance-human-rights-11638471880">U.S. to Lead Effort to Curb Authoritarians' Access to Surveillance Tools</a> WSJ: The Biden administration said it would launch an initiative with friendly nations to coordinate export policies for technology that can be used to suppress human rights. 
- <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/blinken-warns-russias-lavrov-over-ukraine-buildup-11638451711">Blinken Warns Russia's Lavrov Over Ukraine Buildup</a> WSJ: The top U.S. diplomat warned his counterpart from Moscow of a strong reaction if it interferes further in Ukraine, showing friction over Russian troop deployments near the border. 
  <p class="updated_time"> 05:47 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-reaches-deal-to-restart-remain-in-mexico-program-for-asylum-seekers-11638457221">U.S. to Restart 'Remain in Mexico' Program for Asylum Seekers</a> WSJ: The Biden administration’s agreement with Mexico allows the U.S. to resume a controversial Trump-era policy, but with some changes. 
- <p class="updated_time"> 05:01 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/turkeys-erdogan-names-loyalist-as-finance-minister-amid-lira-rout-11638436672">Turkey's Erdogan Names Loyalist as Finance Minister Amid Lira Rout</a> WSJ: The incumbent at the finance ministry resigned after clashes with the longtime president’s unconventional economic policies that have intensified a currency crisis shaking the country. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
  <p class="updated_time"> 04:01 AM CT, Dec. 02 </p> 
