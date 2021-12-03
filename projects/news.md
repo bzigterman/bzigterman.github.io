@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Court in Philippines Allows Maria Ressa to Travel to Norway for Nobel</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
- <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/02/world/omicron-variant-covid">New York Reports Five Omicron Cases</a> NYT: After the first U.S. Omicron case was detected in California, more cases have been reported in New York, Minnesota, Hawaii and Colorado. President Biden has announced a new strategy for fighting the virus. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as 'lady of the house' at Jeffrey Epstein's US home. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59516888?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Employee told 'not to look Jeffrey Epstein in the eye'</a> BBC: A former housekeeper said Ghislaine Maxwell acted as "lady of the house" at Jeffrey Epstein's US home. 
  <p class="updated_time"> 03:09 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/sport/africa/59517712?at_medium=RSS&at_campaign=KARANGA">Lamine Diack: Disgraced athletics boss dies in Senegal</a> BBC: The disgraced former head of world athletics governing body Lamine Diack dies in Senegal aged 88. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
+ <p class="updated_time"> 10:22 PM CT, Dec. 02 </p> 
+ <a href="https://www.wsj.com/articles/omicrons-severity-will-take-more-time-to-assess-doctors-say-11638523356">Omicron's Severity Will Take More Time to Assess, Doctors Say</a> WSJ: It is still too early to tell whether Covid-19 caused by the new Omicron variant is milder or more severe than that from other strains of the coronavirus, doctors tracking a rapidly growing outbreak in South Africa said. 
  <p class="updated_time"> 10:17 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/asia/peng-shuai-china-tennis.html">‘Where is **?’: Fans in China Elude Censors to Talk About Peng Shuai</a> NYT: She is not the first celebrity to be scrubbed from the internet, but her supporters are finding creative ways to voice their frustration. 
  <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060853542/meghan-duchess-of-sussex-privacy-lawsuit">Meghan, Duchess of Sussex, wins latest stage of her privacy dispute with a publisher</a> NPR: A U.K. court backed the former Meghan Markle in her long-running lawsuit against a British newspaper publisher over its publication of parts of a letter she wrote to her estranged father. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
- <p class="updated_time"> 09:54 AM CT, Dec. 02 </p> 
- <a href="https://www.wsj.com/articles/scientists-studying-omicron-in-south-africa-see-rise-in-covid-19-reinfections-11638456463">Scientists Studying Omicron See Rise in Covid-19 Reinfections</a> WSJ: Scientists in South Africa tracking the spread of the variant are seeing a rise in coronavirus reinfections in people who had recovered from Covid-19, suggesting previous infection provides less protection against the new variant. 
  <p class="updated_time"> 09:00 AM CT, Dec. 02 </p> 
  <a href="https://www.wsj.com/articles/biden-us-china-export-surveillance-human-rights-11638471880">U.S. to Lead Effort to Curb Authoritarians' Access to Surveillance Tools</a> WSJ: The Biden administration said it would launch an initiative with friendly nations to coordinate export policies for technology that can be used to suppress human rights. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/science/scientist-trust-poll.html">Trust in Science and Scientists Increased Globally, Poll Finds</a> NYT: An international survey found that the pandemic had enhanced public faith in researchers and science, up from 2018. 
  <p class="updated_time"> 02:27 AM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/30/world/americas/honduras-election-castro.html">Xiomara Castro Edges Closer to Honduran Presidency as Opponent Concedes</a> NYT: The outcome appeared to be a repudiation of the National Party’s 12-year rule, marked by corruption and the dismantling of democratic institutions. 
- <p class="updated_time"> 08:36 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/world/omicron-coronavirus-spread.html">Omicron Variant, in 20 Nations, Spread Earlier Than Was Known</a> NYT: With evidence growing that a worrisome new coronavirus variant is highly contagious, health officials issued warnings that vulnerable people should not travel. 
 
 
 </details>
@@ -212,6 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061150251/harris-and-buttigieg-go-to-north-carolina-to-promote-bidens-infrastructure-plan">Harris and Buttigieg go to North Carolina to promote Biden's infrastructure plan</a> NPR: The one-time presidential rivals went to Charlotte to promote the infrastructure act. They also fending off increased chatter about how the president's low approval ratings could affect their futures. 
+ <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061150220/the-u-s-governments-port-envoy-says-container-backlog-is-being-cleared">The U.S. government's port envoy says container backlog is being cleared</a> NPR: NPR's Steve Inskeep talks to John Porcari, port envoy of the White House's Supply Chain Disruptions Task Force, to see how he's facilitating the supply of goods in the holiday season. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 03 </p> 
+ <a href="https://www.npr.org/2021/12/03/1061055858/potential-2024-rivals-harris-and-buttigieg-ally-to-sell-biden-agenda">Potential 2024 rivals Harris and Buttigieg ally to sell Biden agenda</a> NPR: With President Biden approaching 80 years old, the political spotlight has been trained more brightly than usual on the pair. Here's a look at their political prospects. 
  <p class="updated_time"> 12:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
  <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
@@ -386,12 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
- <p class="updated_time"> 11:24 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060508566/roe-v-wade-arguments-abortion-supreme-court-case-mississippi-law">Roe v. Wade's future is in doubt after historic arguments at Supreme Court</a> NPR: The fate of abortion in the U.S. appears to be on shaky ground as a divided Supreme Court weighs a Mississippi law. A decision in the case is expected by summer. 
- <p class="updated_time"> 11:08 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1060429939/young-americans-are-raising-alarms-about-the-state-of-u-s-democracy-in-a-new-pol">Young Americans are raising alarms about the state of U.S. democracy in a new poll</a> NPR: A poll by the Harvard Kennedy School's Institute of Politics found that a majority of young people believe that American democracy is either "in trouble" or "failed." 
- <p class="updated_time"> 11:00 AM CT, Dec. 01 </p> 
- <a href="https://www.npr.org/2021/12/01/1056503745/jan-6-panel-to-take-up-contempt-referral-for-former-doj-official-jeffrey-clark">Jan. 6 panel votes to refer ex-DOJ official Jeffrey Clark for contempt of Congress</a> NPR: The committee said Clark, who had promised to pursue former President Donald Trump's baseless election fraud claims, failed to answer questions during a deposition. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
