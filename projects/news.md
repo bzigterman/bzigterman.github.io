@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
+ <p class="updated_time"> 08:12 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 08:10 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Omicron Variant Found in Several U.S. States</a> NYT: Health officials say that community spread of the new variant is inevitable, although scientists caution that much remains unknown, including about its severity and how current vaccines perform against it. 
- <p class="updated_time"> 07:59 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 07:46 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and jab jitters</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
- <p class="updated_time"> 06:37 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 06:03 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/employers-hiring-pace-november-523706">U.S. employers added a sluggish 210,000 jobs in November</a> Politico: America’s employers slowed the pace of their hiring in November, adding 210,000 jobs, the fewest in nearly a year. 
+ <p class="updated_time"> 08:07 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/russian-forces-ukraine-border/index.html">Russia positions more forces, supply lines as fears rise of potential Ukraine invasion</a> CNN: Russian forces have capabilities in place along the Ukraine border to carry out a swift and immediate invasion, including erecting supply lines such as medical units and fuel that could sustain a drawn-out conflict, should Moscow choose to invade, two sources familiar with the latest intelligence assessments told CNN. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
@@ -322,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
- <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
