@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:41 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 02:10 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 02:05 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/pope-francis-cyprus-migrants.html">Pope Francis Heads to Cyprus Aiming to Highlight Plight of Migrants</a> NYT: Even as the world focuses on a new coronavirus variant, Francis is embarking on a trip that incorporates longstanding priorities like opening borders and welcoming the destitute. 
- <p class="updated_time"> 11:03 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html">U.N. Seats Denied, for Now, to Afghanistan’s Taliban and Myanmar’s Junta</a> NYT: A powerful United Nations committee deferred a decision on applications by the ruling authorities of both countries, widely regarded as pariahs, to replace envoys of the governments they had toppled. 
  <p class="updated_time"> 10:03 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
