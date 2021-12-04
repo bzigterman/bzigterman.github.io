@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:38 PM CT, Dec. 04 </p> 
+ <p class="updated_time"> 03:55 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabs Israeli in East Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 03:31 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59531173?at_medium=RSS&at_campaign=KARANGA">Bus carrying choir members plunges into Kenya river</a> BBC: At least 23 die as a bus taking a church choir group to a wedding plunges into a flooded river. 
  <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
+ <p class="updated_time"> 10:55 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 10:34 AM CT, Dec. 04 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483601/greece-and-austria-are-mandating-covid-19-vaccinations-and-fining-people-who-ref">Greece and Austria are mandating COVID-19 vaccinations and fining people who refuse</a> NPR: Greece, where 62 percent of people are fully vaccinated, has started collecting monthly fines from those who refuse the shots. Austria is also taking similar measures. 
  <p class="updated_time"> 06:44 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
- <p class="updated_time"> 06:35 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
