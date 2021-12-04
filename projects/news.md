@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:36 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 11:20 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-volcano.html">At Least One Dead as Volcano Erupts in Indonesia, Spewing Ash Cloud</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483601/greece-and-austria-are-mandating-covid-19-vaccinations-and-fining-people-who-ref">Greece and Austria are mandating COVID-19 vaccinations and fining people who refuse</a> NPR: Greece, where 62 percent of people are fully vaccinated, has started collecting monthly fines from those who refuse the shots. Austria is also taking similar measures. 
  <p class="updated_time"> 06:44 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
+ <p class="updated_time"> 06:35 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Secures Saudi Agreement to Re-Engage With Lebanon</a> WSJ: The French president says Saudi Arabia’s crown prince has agreed to re-engage with Lebanon after Riyadh cut ties with its neighbor, in the first trip by a major Western leader to the kingdom since the 2018 killing of dissident journalist Jamal Khashoggi. 
  <p class="updated_time"> 04:47 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59531437?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Cable car survivor returned to Italy after custody battle</a> BBC: Eitan Biran, the sole survivor of a cable car crash, is now in Italy after a custody battle. 
- <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 03:41 AM CT, Dec. 04 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59519863?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… America’s abortion divide</a> BBC: How abortion rights in the US look likely to be changed by a conservative majority Supreme Court. 
- <p class="updated_time"> 05:13 PM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 04:34 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59517821?at_medium=RSS&at_campaign=KARANGA">MH370: Could missing Malaysian Airlines plane finally be found?</a> BBC: A British engineer believes he may help solve one of the world's greatest aviation mysteries. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -440,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
- <p class="updated_time"> 02:26 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/dr-oz-announces-senate-bid-523530">Dr. Oz announces Senate bid to his millions of followers</a> Politico: The celebrity television doctor will run in one of the nation’s most important races. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
