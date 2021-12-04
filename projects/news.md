@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
+ <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Reward offered to find suspect's parents</a> BBC: US Marshals say the Michigan couple's son killed four students with the father's handgun. 
  <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/newsbeat-59220247?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia Grand Prix: A race for equal rights</a> BBC: As F1 races in Saudi Arabia, can it be a positive thing for female and LGBT rights? 
  <p class="updated_time"> 06:41 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
- <p class="updated_time"> 06:33 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
  <p class="updated_time"> 06:32 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
- <p class="updated_time"> 12:11 AM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
 
