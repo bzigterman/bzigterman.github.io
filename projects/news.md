@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
+ <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
+ <p class="updated_time"> 07:50 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59531442?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Macron reveals plans for joint European mission</a> BBC: The French president says a number of European nations are working on a joint diplomatic mission. 
  <p class="updated_time"> 07:20 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 07:18 AM CT, Dec. 04 </p> 
@@ -26,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: The socialite is accused of grooming girls for abuse by late sex offender Jeffrey Epstein. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgian-port-city-grapples-with-a-flood-of-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 04:08 AM CT, Dec. 04 </p> 
@@ -37,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Arrested in Detroit, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 12:09 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Is First Major Western Leader to Visit Saudi Arabia Since Khashoggi Killing</a> WSJ: French President Emmanuel Macron traveled to Saudi Arabia to meet Crown Prince Mohammed bin Salman, who has been largely shunned by Western leaders since the 2018 killing of dissident journalist Jamal Khashoggi. 
  <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
@@ -131,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
- <p class="updated_time"> 08:35 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/omicron-cases-at-norway-christmas-party-provide-clues-on-new-variants-spread-11638554033">Omicron Cases at Norway Christmas Party Provide Clues on New Variant's Spread</a> WSJ: The event at an upscale Oslo restaurant included about 120 people, several of whom had just returned from South Africa. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
@@ -195,10 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/meghan-markle-tabloid-lawsuit.html">Meghan Wins Legal Battle Against The Mail on Sunday</a> NYT: An appeals court rejected a bid to force a trial over the duchess’s claim that the tabloid violated her privacy by publishing an anguished letter she sent to her estranged father. 
  <p class="updated_time"> 04:02 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/climate/europe-climate-pledge-carbon-emissions.html">Europe Met a Climate Target. But Is It Burning Less Carbon?</a> NYT: The European Union promised to reduce its emissions 20 percent by 2020. Did it happen? 
- <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
- <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
 
 
 </details>
