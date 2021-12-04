@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
+ <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
  <p class="updated_time"> 12:48 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
  <p class="updated_time"> 12:32 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
- <p class="updated_time"> 12:12 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 11:55 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 11:36 AM CT, Dec. 04 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59532845?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents deny involuntary manslaughter</a> BBC: Bail is set at $1m for the couple arrested in Detroit after failing to attend court on Friday. 
- <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
