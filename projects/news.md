@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:56 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
+ <p class="updated_time"> 08:16 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least 11 states, mostly among travelers. 
+ <p class="updated_time"> 08:03 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59528857?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Brazilian Supreme Court opens investigation into vaccine comments</a> BBC: Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids. 
  <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516156?at_medium=RSS&at_campaign=KARANGA">Ready for power: Team Scholz promises a new Germany</a> BBC: Next week will see a handover of power from the Merkel era and this is what to expect. 
  <p class="updated_time"> 06:43 PM CT, Dec. 03 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 06:25 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/omicrons-severity-will-take-more-time-to-assess-doctors-say-11638523356">Omicron's Severity Will Take More Time to Assess, Scientists Say</a> WSJ: The Covid-19 variant seems more transmissible and presents higher reinfection risk, South African officials say based on early evidence. 
- <p class="updated_time"> 06:03 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59516158?at_medium=RSS&at_campaign=KARANGA">Austria ruling party picks Nehammer for chancellor</a> BBC: Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil. 
  <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
  <p class="updated_time"> 04:50 AM CT, Dec. 03 </p> 
@@ -212,10 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
  <p class="updated_time"> 07:15 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/meadows-book-january-6/index.html">Meadows doubles down on debunked election fraud claims and whitewashes January 6 riot in new book </a> CNN: In a new memoir, Donald Trump's former chief of staff Mark Meadows doubles down on the baseless claim the 2020 election was stolen and whitewashed the violent attack on the US Capitol by Trump supporters on January 6, according to a copy of the book obtained by CNN. 
- <p class="updated_time"> 07:01 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
  <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 06:22 PM CT, Dec. 03 </p> 
@@ -379,7 +379,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">A Pollster’s Warning to Democrats: ‘We Have a Problem’</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
