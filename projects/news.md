@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:16 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least 11 states, mostly among travelers. 
+ <p class="updated_time"> 08:58 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
+ <p class="updated_time"> 08:54 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Fauci and Top U.S. Officials Project Strength in Fighting Omicron</a> NYT: New research in South Africa indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least 11 states, mostly among travelers. 
  <p class="updated_time"> 08:03 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59528857?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Brazilian Supreme Court opens investigation into vaccine comments</a> BBC: Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids. 
  <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
@@ -33,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 04:58 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
+ <p class="updated_time"> 04:34 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59517821?at_medium=RSS&at_campaign=KARANGA">MH370: Could missing Malaysian Airlines plane finally be found?</a> BBC: A British engineer believes he may help solve one of the world's greatest aviation mysteries. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -57,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/italy-vaccine-fake-arm.html">Man in Italy Tries to Get Vaccinated in a Fake Arm</a> NYT: The stratagem was the latest and perhaps most original episode of vaccine evasion in the struggle between Italy’s government and the country’s anti-vaccine faction. 
  <p class="updated_time"> 02:01 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
- <p class="updated_time"> 01:33 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59517114?at_medium=RSS&at_campaign=KARANGA">Covid-19: Ireland closes nightclubs and tightens Covid rules</a> BBC: Taoiseach Micheál Martin announces a number of new restrictions in a televised address. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
  <p class="updated_time"> 01:22 PM CT, Dec. 03 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
  <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
- <p class="updated_time"> 05:15 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/climate/climate-change-madagascar-drought.html">Drought Study on Madagascar Underlines Complexity of Climate</a> NYT: Low rainfall has caused a humanitarian crisis in Madagascar, but common assumptions about drought didn’t hold up to scrutiny. 
 
 
 </details>
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
  <p class="updated_time"> 07:15 PM CT, Dec. 03 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/appeals-court-suit-trump-rape-denial-523717">Appeals court mulls suit against Trump over rape denial</a> Politico: The Biden administration Justice Department deplores the former president's language, but backs his effort to shut down E. Jean Carroll's lawsuit. 
- <p class="updated_time"> 02:10 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
@@ -414,6 +414,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
+ <p class="updated_time"> 10:50 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-rights-debate-523599">Justices signal willingness to pare back abortion rights</a> Politico: The court heard arguments on Mississippi’s 15-week abortion ban Wednesday. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Dec. 01 </p> 
