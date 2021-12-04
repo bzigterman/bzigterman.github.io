@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Fauci and Top U.S. Officials Project Strength in Fighting Omicron</a> NYT: New research in South Africa indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least 11 states, mostly among travelers. 
+ <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
+ <p class="updated_time"> 10:29 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 10:04 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:11 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
+ <p class="updated_time"> 08:44 PM CT, Dec. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59528860?at_medium=RSS&at_campaign=KARANGA">Mali: Dozens of civilians killed after militants attack bus</a> BBC: More than 30 people are killed after gunmen attack a bus travelling to a market. 
  <p class="updated_time"> 08:03 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59528857?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Brazilian Supreme Court opens investigation into vaccine comments</a> BBC: Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids. 
  <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
@@ -31,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59519863?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… America’s abortion divide</a> BBC: How abortion rights in the US look likely to be changed by a conservative majority Supreme Court. 
+ <p class="updated_time"> 05:13 PM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 05:05 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59523682?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Parents of gunman charged with manslaughter</a> BBC: Authorities say the Michigan couple's son killed four students with his father's handgun. 
  <p class="updated_time"> 04:58 PM CT, Dec. 03 </p> 
@@ -63,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/africa/lamine-diack-dead.html">Lamine Diack, Olympics Power Broker Convicted of Taking Bribes, Dies at 88</a> NYT: The former head of the world governing body for track and field was convicted of accepting bribes to cover up a Russian doping scandal. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
- <p class="updated_time"> 01:22 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
  <p class="updated_time"> 12:56 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
@@ -83,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59524707?at_medium=RSS&at_campaign=KARANGA">Ethiopia closes schools to boost civil war effort</a> BBC: The government wants secondary school students to harvest crops to help frontline fighters. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-urge-democracies-to-sanction-corrupt-foreign-officials-human-rights-abusers-11638566102">U.S. to Urge Democracies to Sanction Corrupt Foreign Officials, Human-Rights Abusers</a> WSJ: The sanctions will be imposed in the lead-up to the Biden administration’s virtual Summit for Democracy scheduled for Thursday and Friday, administration officials said. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
@@ -91,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/france-to-sell-jet-fighters-to-u-a-e-as-gulf-nation-awaits-u-s-purchase-11638563318">France to Sell Jet Fighters to U.A.E.</a> WSJ: The $19 billion supplies a major U.S. Gulf ally with advanced aircraft while the U.A.E.’s growing security ties with China impede its purchase of combat jets from the U.S. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
- <p class="updated_time"> 09:19 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/talks-to-restore-iran-nuclear-deal-stall-11638538912">Iran Nuclear Talks Stall as Tehran Toughens Stance</a> WSJ: Western diplomats say Iran must moderate its demands in discussions that are set to resume next week. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
@@ -103,20 +109,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
- <p class="updated_time"> 06:25 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/omicrons-severity-will-take-more-time-to-assess-doctors-say-11638523356">Omicron's Severity Will Take More Time to Assess, Scientists Say</a> WSJ: The Covid-19 variant seems more transmissible and presents higher reinfection risk, South African officials say based on early evidence. 
- <p class="updated_time"> 05:10 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59514525?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin admits career could be over after fatal shooting</a> BBC: But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October. 
  <p class="updated_time"> 04:50 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508">Turkey's Economic Turmoil Sends Desperation and Inflation Soaring</a> WSJ: President Erdogan has taken control of the economy and pushed lower interest rates as the currency plunges. Turks have been lining up for subsidized bread and cutting back on meat. 
- <p class="updated_time"> 04:33 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/china-set-to-create-new-state-owned-rare-earths-giant-11638545586">China Set to Create New State-Owned Rare-Earths Giant</a> WSJ: The move, expected to be announced this month, would aim to strengthen China’s dominance of the global supply chain around the strategic metals. 
- <p class="updated_time"> 04:18 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/canada-delivers-stellar-november-job-gain-putting-spotlight-on-central-bank-11638544689">Canada Delivers Stellar November Job Gain</a> WSJ: Canada added 153,700 jobs in November and the unemployment rate fell to 6.0%. Economists suggested the data could set the stage for a Bank of Canada rate rise in the first half of 2022 depending on the fallout from the Covid-19 Omicron variant. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
- <p class="updated_time"> 03:34 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/asia-pacific-nations-use-tougher-tactics-to-combat-omicron-variant-11638526478">Asia-Pacific Nations Use Tougher Tactics to Combat Omicron Variant</a> WSJ: Countries in the Asia-Pacific region are creating tougher rules for those infected with the Omicron Covid-19 variant, as governments move more aggressively than they have against all other previous iterations. 
  <p class="updated_time"> 03:14 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/europe-sees-boost-in-uptake-of-covid-19-shots-but-vaccines-mandates-arestill-on-the-table-11638540874">Europe Sees Boost in Uptake of Shots but Mandates AreStill on the Table</a> WSJ: Relentless pressure to raise vaccination rates in Europe is beginning to bear fruit, but pockets of resistance to the shots mean some countries are leaning toward general vaccine mandates. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
@@ -203,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59490619?at_medium=RSS&at_campaign=KARANGA">Pfizer CEO Albert Bourla: My wife's vaccine death is fake news</a> BBC: In an exclusive interview, Albert Bourla hits out at the "rubbish" that has been published about him. 
  <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
- <p class="updated_time"> 09:41 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/health/covid-omicron-booster-shots.html">Omicron Prompts Swift Reconsideration of Boosters Among Scientists</a> NYT: Many public health experts were opposed to a boosters-for-all approach. The new variant is changing some minds. 
 
 
 </details>
@@ -212,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
@@ -248,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
- <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Biden signs stopgap bill to avert shutdown ahead of midnight deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
@@ -323,7 +317,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Congress Approves Spending Bill, Averting Government Shutdown</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Government Shutdown Averted as Congress Passes Spending Bill</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
  <p class="updated_time"> 09:07 PM CT, Dec. 02 </p> 
@@ -410,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
+ <p class="updated_time"> 12:41 PM CT, Dec. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
