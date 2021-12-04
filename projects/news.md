@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:20 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
+ <p class="updated_time"> 07:18 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">In France, a Right-Wing Polemicist Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/2021/12/04/1061483664/goodbye-ceremony-for-germanys-chancellor-merkel-featured-some-telling-music-choi">Goodbye ceremony for Germany's Chancellor Merkel featured some telling music choices</a> NPR: Departing German Chancellor Angela Merkel chose three songs for her farewell ceremony this week. One of them, an East German hit from the '70s, caused some surprise in Berlin. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/2021/12/04/1061483650/china-has-a-record-of-human-rights-abuses-and-u-s-businesses-make-billions-there">China has a record of human rights' abuses, and U.S. businesses make billions there</a> NPR: Scott Simon speaks with Robert Daly, director of the Kissinger Institute on China and the United States, about why businesses aren't pulling out of China over its record of human rights abuses. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/2021/12/04/1061483629/omicron-covid-19-cases-spreading-at-alarming-rate-in-south-africa">Omicron COVID-19 cases spreading at alarming rate in South Africa</a> NPR: South Africa's major cities are seeing a dramatic rise in COVID-19 cases driven by the omicron variant. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/2021/12/04/1061483601/greece-and-austria-are-mandating-covid-19-vaccinations-and-fining-people-who-ref">Greece and Austria are mandating COVID-19 vaccinations and fining people who refuse</a> NPR: Greece, where 62 percent of people are fully vaccinated, has started collecting monthly fines from those who refuse the shots. Austria is also taking similar measures. 
  <p class="updated_time"> 06:44 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
  <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
- <p class="updated_time"> 05:56 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -27,10 +37,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Arrested in Detroit, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 12:09 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Is First Major Western Leader to Visit Saudi Arabia Since Khashoggi Killing</a> WSJ: French President Emmanuel Macron traveled to Saudi Arabia to meet Crown Prince Mohammed bin Salman, who has been largely shunned by Western leaders since the 2018 killing of dissident journalist Jamal Khashoggi. 
  <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
+ <p class="updated_time"> 11:40 PM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426">Putin's Pledge to Become Carbon Neutral Rings Hollow</a> WSJ: Moscow’s ambition goal of slashing emissions by 2060 clashes with Russia’s attachment to coal. In one Russian coal town, acrid air and sick children. 
  <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
@@ -107,14 +121,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59524707?at_medium=RSS&at_campaign=KARANGA">Ethiopia closes schools to boost civil war effort</a> BBC: The government wants secondary school students to harvest crops to help frontline fighters. 
- <p class="updated_time"> 10:47 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-urge-democracies-to-sanction-corrupt-foreign-officials-human-rights-abusers-11638566102">U.S. to Urge Democracies to Sanction Corrupt Foreign Officials, Human-Rights Abusers</a> WSJ: The sanctions will be imposed in the lead-up to the Biden administration’s virtual Summit for Democracy scheduled for Thursday and Friday, administration officials said. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
- <p class="updated_time"> 09:28 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/france-to-sell-jet-fighters-to-u-a-e-as-gulf-nation-awaits-u-s-purchase-11638563318">France to Sell Jet Fighters to U.A.E.</a> WSJ: The $19 billion supplies a major U.S. Gulf ally with advanced aircraft while the U.A.E.’s growing security ties with China impede its purchase of combat jets from the U.S. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
@@ -131,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508">Turkey's Economic Turmoil Sends Desperation and Inflation Soaring</a> WSJ: President Erdogan has taken control of the economy and pushed lower interest rates as the currency plunges. Turks have been lining up for subsidized bread and cutting back on meat. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
- <p class="updated_time"> 03:14 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/europe-sees-boost-in-uptake-of-covid-19-shots-but-vaccines-mandates-arestill-on-the-table-11638540874">Europe Sees Boost in Uptake of Shots but Mandates AreStill on the Table</a> WSJ: Relentless pressure to raise vaccination rates in Europe is beginning to bear fruit, but pockets of resistance to the shots mean some countries are leaning toward general vaccine mandates. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
  <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
@@ -173,18 +181,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
- <p class="updated_time"> 03:47 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028425/new-delhi-is-closing-schools-as-it-tries-to-deal-with-air-pollution">New Delhi is closing schools as it tries to deal with air pollution</a> NPR: Kids in Delhi, India, have been indoors for 20 months –- first for COVID, now for smog beyond four times what's safe. Officials have installed towers to filter it, but scientists say they don't work. 
- <p class="updated_time"> 03:39 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/asia/indonesia-battle-of-biak.html">‘Call Me Dog Tag Man’: Pacific Island Is Full of War Relics and Human Remains</a> NYT: More than 75 years after the Battle of Biak ended, collectors are still finding remnants of the fight, and U.S. authorities are hoping to bring closure to families of soldiers still missing. 
- <p class="updated_time"> 03:24 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028418/germany-is-tightening-its-restrictions-on-people-who-havent-gotten-a-covid-vacci">Germany is tightening its restrictions on people who haven't gotten a COVID vaccine</a> NPR: The German government is imposing tighter restrictions on people who have not been vaccinated against COVID-19, and is planning legislation to make vaccination mandatory in early 2022. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028389/the-philippines-vaccinated-more-than-7-5-million-people-against-covid-in-3-days">The Philippines vaccinated more than 7.5 million people against COVID in 3 days</a> NPR: More than 7.5 million Filipinos got COVID vaccines in just three days this week — an impressive milestone in the country's battle against the pandemic. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028375/can-travel-bans-prevent-the-spread-of-new-variants">Can travel bans prevent the spread of new variants?</a> NPR: NPR's Ari Shapiro speaks with Dr. Saad Omer about the effectiveness of travel bans now that the omicron variant has been discovered in the United States. 
  <p class="updated_time"> 02:43 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
@@ -211,11 +209,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Kamala Harris’ non-reset, reset</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
+ <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744">Cracks in immigration system aggravate U.S. labor squeeze</a> Politico: Foreign nationals already in the U.S. have been waiting for months — and in some cases, for over a year — to have their employment authorization approved or extended. 
+ <a href="https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744">Biden and businesses agree on one thing: U.S. needs immigrant workers</a> Politico: Foreign nationals already in the U.S. have been waiting for months — and in some cases, for over a year — to have their employment authorization approved or extended. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/2021/12/04/1061483566/week-in-politics-congress-passes-temporary-funding-bill-to-avoid-shutdown">Week in politics: Congress passes temporary funding bill to avoid shutdown</a> NPR: Congress narrowly avoids a government shutdown by passing a temporary funding bill. We look at what's next in Congress as well as the House committee investigation of the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Who should get the experimental Covid pill?</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
+ <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
  <p class="updated_time"> 11:00 PM CT, Dec. 03 </p> 
@@ -392,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060773437/sen-elizabeth-warren-is-focused-on-bringing-in-more-tax-revenue-for-the-irs">Sen. Elizabeth Warren is focused on bringing in more tax revenue for the IRS</a> NPR: NPR's Steve Inskeep speaks with Democratic Sen. Elizabeth Warren of Massachusetts about the U.S. economy and rising inflation. 
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
- <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060538843/bidens-new-winter-covid-plan-will-reimburse-you-for-at-home-tests">Biden's new winter COVID plan will reimburse you for at-home tests</a> NPR: Among his new steps to fight COVID surges this winter: requiring private health insurers to reimburse people for at-home tests. It also calls for more people to get vaccines and boosters. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
