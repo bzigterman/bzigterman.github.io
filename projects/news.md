@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: The socialite is accused of grooming girls for abuse by late sex offender Jeffrey Epstein. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
  <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
- <p class="updated_time"> 02:39 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59501055?at_medium=RSS&at_campaign=KARANGA">Thailand: Newspaper rebuked over 'hunts Africans' headline</a> BBC: The country's Covid-19 taskforce admonished the paper by saying it was a "poor choice of words." 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
@@ -153,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061053897/elle-magazine-ban-fur-from-publications">Elle magazine says it will ban fur from its publications worldwide</a> NPR: So far, 13 editions globally have implemented the ban, with 20 more set to do so by January 1. The magazine says the decision reflects changing tastes in fashion. 
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
- <p class="updated_time"> 06:25 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59503872?at_medium=RSS&at_campaign=KARANGA">Kerala: The granny who learnt to read and write at 104</a> BBC: Kuttiyamma, from the southern Indian state of Kerala, aced a government test that measures literacy. 
  <p class="updated_time"> 06:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/astrazeneca-vaccine-blood-clots.html">Study Suggests Link Between AstraZeneca Vaccine and Blood Clots</a> NYT: The findings suggest that the problem is linked to the shot’s use of another, harmless virus to deliver information into human cells. 
  <p class="updated_time"> 06:12 PM CT, Dec. 02 </p> 
