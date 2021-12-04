@@ -7,16 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 10:23 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 10:23 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">Omicron Found in 12 States; More Cases Await Detection</a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
+ <p class="updated_time"> 10:17 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59532845?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents deny involuntary manslaughter</a> BBC: Bail is set at $1m for the couple arrested in Detroit after failing to attend court on Friday. 
+ <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
- <p class="updated_time"> 09:42 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59516896?at_medium=RSS&at_campaign=KARANGA">Belgian zoo hippos test positive for Covid</a> BBC: Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
- <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 09:14 AM CT, Dec. 04 </p> 
@@ -208,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/biden-putin-ukraine-523762">Biden, Putin to talk next week as tensions grow over Ukraine</a> Politico: Russia is more adamant than ever that the U.S. guarantees that Ukraine will not be admitted to the NATO military alliance. 
+ <p class="updated_time"> 10:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 09:01 AM CT, Dec. 04 </p> 
@@ -218,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
+ <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -230,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
- <p class="updated_time"> 11:00 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
@@ -330,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin skeptical Build Back Better can pass this year, as doubts grow it'll get done by Christmas</a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
- <p class="updated_time"> 10:29 PM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/mueller-report-alternative-release-523703">Feds could release 'alternative' Mueller report soon</a> Politico: "Primary processing" of compendium mentioned in Mueller aide's book should be complete next month, court filing says. 
  <p class="updated_time"> 10:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
@@ -402,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
- <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
