@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:44 AM CT, Dec. 04 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
  <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 05:56 AM CT, Dec. 04 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061028389/the-philippines-vaccinated-more-than-7-5-million-people-against-covid-in-3-days">The Philippines vaccinated more than 7.5 million people against COVID in 3 days</a> NPR: More than 7.5 million Filipinos got COVID vaccines in just three days this week — an impressive milestone in the country's battle against the pandemic. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028375/can-travel-bans-prevent-the-spread-of-new-variants">Can travel bans prevent the spread of new variants?</a> NPR: NPR's Ari Shapiro speaks with Dr. Saad Omer about the effectiveness of travel bans now that the omicron variant has been discovered in the United States. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028366/irelands-sinn-fein-leader-on-brexit-cross-border-relations-and-party-goals">Ireland's Sinn Féin leader on Brexit, cross-border relations and party goals</a> NPR: NPR's Mary Louise Kelly speaks with Mary Lou McDonald, Sinn Féin president and leader of the opposition in the Republic of Ireland, about Brexit and how cross-border relations are working. 
  <p class="updated_time"> 02:43 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
