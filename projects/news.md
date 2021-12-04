@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you missed this week. 
+ <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
  <p class="updated_time"> 05:24 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
  <p class="updated_time"> 11:00 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
- <p class="updated_time"> 11:40 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-remain-in-mexico-523666">Biden administration to restart 'Remain in Mexico' program under court order</a> Politico: The controversial Trump-era policy could restart as soon as Monday if Mexico agrees. 
  <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
@@ -436,6 +436,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 30 </p> 
+ <a href="https://www.politico.com/news/2021/11/30/roe-wade-strategy-scotus-abortion-523488">‘A post-Roe strategy’: The next phase of the abortion fight has already begun</a> Politico: “We’ve had a post-Roe strategy for the last 15 years,” said Kristan Hawkins, the president of the anti-abortion group Students for Life of America. “Now is when the rubber will meet the road.” 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
