@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/europe/belgian-port-city-grapples-with-a-flood-of-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
+ <p class="updated_time"> 04:08 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 03:34 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Arrested in Detroit, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
- <p class="updated_time"> 02:53 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -197,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/global-poverty-united-nations.html">Extreme Poverty Has Been Sharply Cut. What Has Changed?</a> NYT: The U.N. pledged to cut by half the proportion of people living in the worst conditions around the world. 
  <p class="updated_time"> 04:00 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/clean-water-to-drink.html">Millions More People Got Access to Clean Water. Can They Drink It?</a> NYT: The U.N. pledged to halve the proportion of the world without access to clean drinking water by 2015. 
- <p class="updated_time"> 11:01 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/united-nations-funding.html">Citing Covid-19, Climate and Wars, U.N. Asks Donors for Big Jump in Funding</a> NYT: The world body said it needed $41 billion to fund humanitarian aid to help 183 million people in 63 countries. 
 
 
 </details>
