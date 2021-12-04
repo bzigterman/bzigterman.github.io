@@ -42,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:34 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford High School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
  <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 12:09 AM CT, Dec. 04 </p> 
@@ -209,7 +209,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 09:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735">Clearview AI on track to win U.S. patent for facial recognition technology</a> Politico: The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
