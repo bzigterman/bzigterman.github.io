@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:51 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 05:24 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: The socialite is accused of grooming girls for abuse by late sex offender Jeffrey Epstein. 
