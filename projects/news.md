@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
- <p class="updated_time"> 10:29 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 10:04 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:11 PM CT, Dec. 03 </p> 
@@ -206,8 +206,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
@@ -317,11 +319,11 @@ permalink: /projects/news/
  <p class="updated_time"> 10:10 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Government Shutdown Averted as Congress Passes Spending Bill</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Congress Approves Spending Bill, Averting Government Shutdown</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
  <p class="updated_time"> 09:07 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Emphasizing Tests, Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
  <p class="updated_time"> 08:11 PM CT, Dec. 02 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
  <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
  <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
- <p class="updated_time"> 07:46 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/omicron-variant-us-california.html">U.S. Reports Its 1st Omicron Case, in a California Traveler</a> NYT: The discovery in San Francisco County prompted the Biden administration to renew calls for everyone to get fully vaccinated and receive a booster, if eligible. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
@@ -404,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
- <p class="updated_time"> 12:41 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/jake-sullivan-biden.html">Jake Sullivan, Biden’s Adviser, a Figure of Fascination and Schadenfreude</a> NYT: Washington has long been captivated by fallen star narratives, which has made President Biden’s national security adviser a figure of fascination, somewhere between sympathy and schadenfreude. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
  <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
