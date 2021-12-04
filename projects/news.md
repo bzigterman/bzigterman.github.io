@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:03 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Merkel Makes Final Plea for Germans to Get Vaccinated.</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
  <p class="updated_time"> 02:52 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:27 PM CT, Dec. 04 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
- <p class="updated_time"> 08:41 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/minnesota-omicron-case.html">Another Omicron Case is Detected in the US, This Time in a Minnesota Resident</a> NYT: Cases have been found in New York, Minnesota, California, Colorado and Hawaii. 
  <p class="updated_time"> 07:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html">Why Didn’t the U.S. Detect Omicron Cases Sooner?</a> NYT: Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
@@ -207,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
 
 
 </details>
@@ -289,7 +287,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/suspects-parents-charged-in-michigan-school-shooting-523715">Parents captured after son charged in Oxford school shooting</a> Politico: A prosecutor filed involuntary manslaughter charges against the parents of a boy who is accused of killing four students, saying that their actions went “far beyond negligence.” 
+ <a href="https://www.politico.com/news/2021/12/03/suspects-parents-charged-in-michigan-school-shooting-523715">Bond set at combined $1M after Michigan parents enter pleas</a> Politico: Parents in the U.S. are rarely charged in school shootings involving their children, even as most minors get guns from a parent or relative’s house, according to experts. 
  <p class="updated_time"> 12:48 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with state House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
