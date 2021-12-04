@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
- <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Reward offered to find suspect's parents</a> BBC: US Marshals say the Michigan couple's son killed four students with the father's handgun. 
  <p class="updated_time"> 11:12 PM CT, Dec. 03 </p> 
