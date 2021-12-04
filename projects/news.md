@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Arrested in Detroit, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
  <p class="updated_time"> 02:53 AM CT, Dec. 04 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
- <p class="updated_time"> 06:12 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59519863?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… America’s abortion divide</a> BBC: How abortion rights in the US look likely to be changed by a conservative majority Supreme Court. 
  <p class="updated_time"> 05:13 PM CT, Dec. 03 </p> 
