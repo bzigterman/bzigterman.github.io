@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:23 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 11:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-volcano.html">At Least One Dead as Volcano Erupts in Indonesia, Spewing Ash Cloud</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
+ <p class="updated_time"> 10:54 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
- <p class="updated_time"> 10:23 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 10:54 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">Omicron Found in 12 States; More Cases Await Detection</a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
- <p class="updated_time"> 10:17 AM CT, Dec. 04 </p> 
+ <p class="updated_time"> 10:44 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
+ <p class="updated_time"> 10:34 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: One person has died and 41 have burn injuries as Mt Semeru erupts on Indonesia's Java island. 
  <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59532845?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents deny involuntary manslaughter</a> BBC: Bail is set at $1m for the couple arrested in Detroit after failing to attend court on Friday. 
  <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 09:08 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
- <p class="updated_time"> 09:01 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: One person has died and 41 have burn injuries as Mt Semeru erupts on Indonesia's Java island. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
@@ -51,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
+ <p class="updated_time"> 05:31 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Secures Saudi Agreement to Re-Engage With Lebanon</a> WSJ: The French president says Saudi Arabia’s crown prince has agreed to re-engage with Lebanon after Riyadh cut ties with its neighbor, in the first trip by a major Western leader to the kingdom since the 2018 killing of dissident journalist Jamal Khashoggi. 
  <p class="updated_time"> 04:47 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59531437?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Cable car survivor returned to Italy after custody battle</a> BBC: Eitan Biran, the sole survivor of a cable car crash, is now in Italy after a custody battle. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
- <p class="updated_time"> 12:09 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Is First Major Western Leader to Visit Saudi Arabia Since Khashoggi Killing</a> WSJ: French President Emmanuel Macron traveled to Saudi Arabia to meet Crown Prince Mohammed bin Salman, who has been largely shunned by Western leaders since the 2018 killing of dissident journalist Jamal Khashoggi. 
  <p class="updated_time"> 12:06 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59528864?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Biden warns Russia against Ukraine 'red lines'</a> BBC: Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -143,12 +147,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
- <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
+ <p class="updated_time"> 08:35 AM CT, Dec. 03 </p> 
+ <a href="https://www.wsj.com/articles/omicron-cases-at-norway-christmas-party-provide-clues-on-new-variants-spread-11638554033">Omicron Cases at Norway Christmas Party Provide Clues on New Variant's Spread</a> WSJ: The event at an upscale Oslo restaurant included about 120 people, several of whom had just returned from South Africa. 
  <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
@@ -216,6 +220,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/biden-putin-ukraine-523762">Biden, Putin to talk next week as tensions grow over Ukraine</a> Politico: Russia is more adamant than ever that the U.S. guarantees that Ukraine will not be admitted to the NATO military alliance. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 10:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
@@ -296,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/arts/design/jerrell-gibbs-elijah-cummings-portrait.html">Painter of Elijah Cummings Portrait Finds It’s a Career-Changer</a> NYT: The Baltimore artist Jerrell Gibbs was commissioned to paint Maryland’s late Representative. The official portrait will be installed at the U.S. Capitol. 
  <p class="updated_time"> 10:03 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/immigration-build-back-better-parliamentarian/index.html">Democrats await decision on whether immigration can be in Build Back Better</a> CNN: Democrats in the Senate have for the third time tried to use a technical procedure to try to include immigration provisions in President Joe Biden's Build Back Better Act, putting everything on the line for what could be the last attempt to try to pass some sort of overhaul of the nation's immigration laws before the new year. 
- <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/stacey-abrams-concession-2018-georgia/index.html">Abrams defends lack of concession after 2018 gubernatorial loss</a> CNN: Democratic gubernatorial candidate Stacey Abrams defended herself from criticism that she never conceded her loss to Gov. Brian Kemp in 2018 on Friday, addressing what Republicans have already used against her in her newly announced 2022 rematch against Kemp. 
  <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
