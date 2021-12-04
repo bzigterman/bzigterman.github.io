@@ -216,8 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” he said in a statement. 
  <p class="updated_time"> 04:30 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over His Efforts to Help Andrew</a> NYT: The cable news network said it had “terminated him, effective immediately,” a move that came four months after Andrew Cuomo resigned as governor of New York. 
+ <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The cable news network said it had “terminated him, effective immediately,” a move that came four months after Andrew Cuomo resigned as governor of New York. 
  <p class="updated_time"> 04:10 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
@@ -247,8 +249,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744">Biden and businesses agree on one thing: U.S. needs immigrant workers</a> Politico: Foreign nationals already in the U.S. have been waiting for months — and in some cases, for over a year — to have their employment authorization approved or extended. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1061483566/week-in-politics-congress-passes-temporary-funding-bill-to-avoid-shutdown">Week in politics: Congress passes temporary funding bill to avoid shutdown</a> NPR: Congress narrowly avoids a government shutdown by passing a temporary funding bill. We look at what's next in Congress as well as the House committee investigation of the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
