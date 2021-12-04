@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:58 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
- <p class="updated_time"> 08:54 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 09:18 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Fauci and Top U.S. Officials Project Strength in Fighting Omicron</a> NYT: New research in South Africa indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least 11 states, mostly among travelers. 
+ <p class="updated_time"> 09:11 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
+ <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 08:03 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59528857?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Brazilian Supreme Court opens investigation into vaccine comments</a> BBC: Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids. 
  <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
  <p class="updated_time"> 06:32 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
- <p class="updated_time"> 06:21 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 06:12 PM CT, Dec. 03 </p> 
