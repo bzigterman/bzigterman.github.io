@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 PM CT, Dec. 03 </p> 
+ <p class="updated_time"> 06:12 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Live Updates: Scientists Say Omicron Is Spreading Faster in South Africa Than Any Other Variant</a> NYT: The new research indicates that the variant can spread more easily than Delta, which was previously the fastest-moving version of the virus. Omicron has been found in at least six states, mostly among travelers. 
  <p class="updated_time"> 05:07 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Is Expected to Return to Italy</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
@@ -216,12 +216,24 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/business/economy/debt-ceiling-xdate.html">Debt Ceiling Window Is Narrowing, Bipartisan Policy Center Warns</a> NYT: The United States could default as soon as Dec. 21 if Democrats and Republicans fail to extend the Treasury Department’s borrowing authority. 
+ <p class="updated_time"> 05:37 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/jeffrey-clark-deposition-postponed/index.html">Jeffrey Clark's deposition postponed until December 16</a> CNN: The January 6 select committee announced Friday that the deposition with Jeffrey Clark originally scheduled for Saturday has been postponed until December 16 due to a "medical condition that precludes his participation in tomorrow's meeting." 
+ <p class="updated_time"> 05:33 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/mcconnell-gop-2022/index.html">Analysis: Mitch McConnell's 2022 agenda? Do nothing.</a> CNN: Give Mitch McConnell this: He is remarkably transparent about his political aims. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
+ <p class="updated_time"> 04:37 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/meadows-book-january-6/index.html">Meadows doubles down on debunked election fraud claims and whitewashes January 6 riot in new book </a> CNN: In a new memoir, Donald Trump's former chief of staff Mark Meadows doubles down on the baseless claim the 2020 election was stolen and whitewashed the violent attack on the US Capitol by Trump supporters on January 6, according to a copy of the book obtained by CNN. 
+ <p class="updated_time"> 04:30 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/john-eastman-defying-subpoena/index.html">Conservative lawyer Eastman says he will defy subpoena from January 6 committee</a> CNN: John Eastman, a conservative Lawyer who helped crafted a questionable legal theory that former Vice President Mike Pence had the constitutional authority to interrupt the certification of the 2020 presidential election results, has informed the January 6 committee that he plans to defy a subpoena from the panel. 
+ <p class="updated_time"> 03:40 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/michigan-secretary-of-state-january-6-committee/index.html">January 6 committee spoke with Michigan secretary of state</a> CNN: Michigan Secretary of State Jocelyn Benson and members of her staff met virtually Tuesday with the House select committee investigating the January 6 attack on the US Capitol, Benson spokesperson Tracy Wimmer told CNN. 
  <p class="updated_time"> 03:15 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
+ <p class="updated_time"> 03:11 PM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/iran-talks-us-europe-pessimistic/index.html">US, European allies sound a pessimistic note as Iran nuclear talks break in Vienna</a> CNN: US and European officials sounded a pessimistic note Friday as the latest round of talks to revive the Iran nuclear deal concluded, saying that Tehran's maximalist demands and push to unwind previously agreed upon points are leaving them disappointed and concerned. 
  <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
  <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
@@ -320,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/biden-omicron-covid-policies-523696">Biden takes the fight to Omicron. But the toolkit is growing bare.</a> Politico: The policies previewed by the president are continuations or modest expansions of existing initiatives. And he’s yet to embrace the further reaching proposals. 
  <p class="updated_time"> 07:19 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/9-11-families-taliban-funds.html">More Sept. 11 Victims Who Sued the Taliban Want Frozen Afghan Funds</a> NYT: The Biden administration was set to tell a court on Friday what it thinks should happen, but obtained a delay until Jan. 28. 
- <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Biden tells Americans 'we have so much ahead of us' during National Christmas Tree lighting</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
  <p class="updated_time"> 06:56 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/suburbs-gerrymandering-republicans.html">How the Suburbs Have Changed Gerrymandering</a> NYT: Republicans have historically used the suburbs to defend against the electoral threat of cities. Now the suburbs themselves are posing the threat. 
  <p class="updated_time"> 06:36 PM CT, Dec. 02 </p> 
@@ -352,12 +362,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061028280/biden-administration-says-it-will-restart-the-trump-era-remain-in-mexico-policy">Biden administration says it will restart the Trump-era 'Remain in Mexico' policy</a> NPR: The Biden administration announced Thursday that it will restart the "Remain in Mexico" policy. Officials promised "key changes" to the Trump-era policy that has been widely criticized as inhumane. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
- <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
@@ -368,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
- <p class="updated_time"> 09:10 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/bidens-kennedy-center-honors/index.html">Bidens reinstate tradition of first family attending the Kennedy Center Honors</a> CNN: President Joe Biden and Jill Biden will attend the 44th annual Kennedy Center Honors Sunday night in Washington, DC, reinstating a longstanding tradition that was interrupted by Donald Trump's presidency. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
@@ -398,14 +402,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/01/us/politics/omicron-variant-us-california.html">U.S. Reports Its 1st Omicron Case, in a California Traveler</a> NYT: The discovery in San Francisco County prompted the Biden administration to renew calls for everyone to get fully vaccinated and receive a booster, if eligible. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
- <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
- <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
