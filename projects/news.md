@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:42 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
- <p class="updated_time"> 09:30 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426">Putin's Pledge to Become Carbon Neutral Rings Hollow</a> WSJ: Moscow’s ambition goal of slashing emissions by 2060 clashes with Russia’s attachment to coal. In one Russian coal town, acrid air and sick children. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
- <p class="updated_time"> 10:04 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:11 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
@@ -456,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
  <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
- <p class="updated_time"> 09:54 AM CT, Nov. 27 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/27/mtg-plays-cat-and-mouse-with-mccarthy-495231">POLITICO Playbook: MTG plays cat and mouse with McCarthy</a> Politico: And the deadly new coronavirus variant spreading rapidly in southern Africa now has a name. 
 
 
 </details>
