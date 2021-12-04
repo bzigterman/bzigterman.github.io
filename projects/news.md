@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
+ <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 09:30 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
- <p class="updated_time"> 09:22 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59531167?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Ex-President Yahya Jammeh's shadow looms over poll</a> BBC: Exiled leader Yahya Jammeh - who ruled the country for 22 years - is a key figure in the poll. 
  <p class="updated_time"> 03:34 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
- <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Oxford School Shooting Suspect Arrested, Police Say</a> NYT: The couple were charged after officials said their son carried out the shootings using a handgun his parents had bought for him. 
  <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 12:09 AM CT, Dec. 04 </p> 
