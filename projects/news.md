@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you missed this week. 
  <p class="updated_time"> 05:24 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
- <p class="updated_time"> 12:26 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/health-59512165?at_medium=RSS&at_campaign=KARANGA">How do you say Omicron?</a> BBC: Omicron is the 13th variant of the Covid-19 virus to receive a Greek name but the pronunciation is up for debate. 
  <p class="updated_time"> 12:14 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/spain-omicron.html">Will High Vaccination Rates Help Spain Weather Omicron?</a> NYT: Spain surpassed others in Europe by avoiding politicized debate about Covid shots. Citizens also largely heeded the health guidance from their leaders. 
  <p class="updated_time"> 11:52 AM CT, Dec. 02 </p> 
