@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
+ <p class="updated_time"> 09:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: One person has died and 41 have burn injuries as Mt Semeru erupts on Indonesia's Java island. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
  <p class="updated_time"> 07:50 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59531442?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Macron reveals plans for joint European mission</a> BBC: The French president says a number of European nations are working on a joint diplomatic mission. 
- <p class="updated_time"> 07:20 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Residents flee as Mt Semeru spews huge ash cloud</a> BBC: Airlines have been warned about a plume of ash rising 15,000m from Mt Semeru in Java. 
  <p class="updated_time"> 07:18 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -31,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
+ <p class="updated_time"> 04:47 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59531437?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Cable car survivor returned to Italy after custody battle</a> BBC: Eitan Biran, the sole survivor of a cable car crash, is now in Italy after a custody battle. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -39,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59530279?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents arrested in Detroit</a> BBC: The Michigan couple went on the run after being charged with involuntary manslaughter. 
  <p class="updated_time"> 04:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
+ <p class="updated_time"> 03:41 AM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59531167?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Ex-President Yahya Jammeh's shadow looms over poll</a> BBC: Exiled leader Yahya Jammeh - who ruled the country for 22 years - is a key figure in the poll. 
  <p class="updated_time"> 03:34 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 03:12 AM CT, Dec. 04 </p> 
@@ -81,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59519863?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… America’s abortion divide</a> BBC: How abortion rights in the US look likely to be changed by a conservative majority Supreme Court. 
  <p class="updated_time"> 05:13 PM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
- <p class="updated_time"> 04:58 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 04:34 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59517821?at_medium=RSS&at_campaign=KARANGA">MH370: Could missing Malaysian Airlines plane finally be found?</a> BBC: A British engineer believes he may help solve one of the world's greatest aviation mysteries. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -210,8 +214,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
+ <p class="updated_time"> 09:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
  <p class="updated_time"> 09:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735">Clearview AI on track to win U.S. patent for facial recognition technology</a> Politico: The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms. 
+ <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
+ <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -264,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/guy-reffitt-targetting-pelosi-mcconnell-january-6/index.html">US Capitol rioter 'sought to physically remove' Pelosi and McConnell, prosecutors say</a> CNN: Justice Department prosecutors say have evidence that an alleged rioter who brought a gun to the US Capitol on January 6 was targeting both House Speaker Nancy Pelosi and then-Majority Leader Mitch McConnell. 
- <p class="updated_time"> 01:00 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/government-shutdown-latest-continuing-resolution/index.html">Biden signs stopgap bill to avert shutdown ahead of midnight deadline</a> CNN: Democrats unveiled an agreement Thursday that would keep the federal government funded into mid-February, but it's unclear if the deal would be enough to avoid a rapidly approaching government shutdown on midnight Friday. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:50 PM CT, Dec. 03 </p> 
@@ -298,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
- <p class="updated_time"> 07:27 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/fact-check-biden-unemployment-inflation-nobel/index.html">Fact-checking 4 Biden claims about the economy</a> CNN: President Joe Biden has spoken regularly about the economy in the past month -- trying at once to reassure Americans about inflation, draw attention to job growth and earn support for his signature infrastructure and social spending proposals. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:29 AM CT, Dec. 03 </p> 
@@ -402,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 08:20 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/supreme-court-abortion-523637">5 takeaways from the Supreme Court showdown over abortion</a> Politico: Many players during Wednesday’s arguments appeared concerned that this case could exacerbate the public‘s perception the court is politically motivated. 
- <p class="updated_time"> 08:03 PM CT, Dec. 01 </p> 
- <a href="https://www.nytimes.com/2021/12/01/us/politics/jeffrey-clark-contempt-congress.html">Jan. 6 Panel Seeks Contempt Charge for Jeffrey Clark</a> NYT: The House committee investigating the Capitol riot agreed to delay action against Jeffrey Clark until after he could be interviewed again. 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
