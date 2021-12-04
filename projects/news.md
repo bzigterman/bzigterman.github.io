@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:56 PM CT, Dec. 04 </p> 
+ <p class="updated_time"> 02:06 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/austria-vienna-covid-protest.html">More Than 40,000 March in Vienna Against Coronavirus Restrictions</a> NYT: Protesters gathered for a second weekend of mass demonstrations against the country’s tough lockdown and a coming vaccine mandate. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:26 PM CT, Dec. 04 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/iran-nuclear-deal-negotiations-biden-administration-preparations/index.html">Biden administration still seeking return to compliance with original Iran nuclear deal while preparing for world without it</a> CNN: The Biden administration is still seeking a return to mutual compliance to the 2015 nuclear deal with Iran but is "preparing for a world in which there is no return" to the landmark agreement, a senior State Department official said Saturday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
- <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
