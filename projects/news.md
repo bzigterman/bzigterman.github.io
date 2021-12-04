@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:19 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Michigan Shooting Suspect's Parents  Are Arrested and Arraigned</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
  <p class="updated_time"> 03:55 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabs Israeli in East Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 03:31 PM CT, Dec. 04 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 03:14 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
- <p class="updated_time"> 02:27 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Michigan Shooting Suspect's Parents  Are Arrested and Arraigned</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
  <p class="updated_time"> 02:06 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/austria-vienna-covid-protest.html">More Than 40,000 March in Vienna Against Coronavirus Restrictions</a> NYT: Protesters gathered for a second weekend of mass demonstrations against the country’s tough lockdown and a coming vaccine mandate. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:32 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: The US and Russian leaders will discuss Ukraine amid mounting concerns about a possible Russian invasion. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
@@ -39,12 +41,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least One Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
+ <p class="updated_time"> 11:12 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 11:05 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59531173?at_medium=RSS&at_campaign=KARANGA">Bus carrying choir members plunges into Kenya river</a> BBC: At least 23 die as a bus taking a church choir group to a wedding plunges into a flooded river. 
  <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
- <p class="updated_time"> 10:55 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 10:34 AM CT, Dec. 04 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59516156?at_medium=RSS&at_campaign=KARANGA">Ready for power: Team Scholz promises a new Germany</a> BBC: Next week will see a handover of power from the Merkel era and this is what to expect. 
  <p class="updated_time"> 06:43 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59220247?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia Grand Prix: A race for equal rights</a> BBC: As F1 races in Saudi Arabia, can it be a positive thing for female and LGBT rights? 
- <p class="updated_time"> 06:41 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
  <p class="updated_time"> 06:32 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
@@ -216,9 +216,15 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:13 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over His Efforts to Help Andrew</a> NYT: “We retained a respected law firm to conduct the review, and have terminated him, effective immediately,” the cable network said on Saturday. 
+ <p class="updated_time"> 04:10 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/justice-department-proud-boys-capitol-riot/index.html">Justice Department charges 2 men alleged to have marched with Proud Boys on January 6 and led charge at US Capitol 
 </a> CNN: Federal prosecutors have accused two men of having ties to a Proud Boys leader and being among the first to breach the police line near the US Capitol on January 6. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 04 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/iran-us-hostages-talks-shargi/index.html">For this American family, the Iran nuclear talks are personal</a> CNN: Emad Shargi's daughter says her dad has always been stoic during his ordeal as an American citizen unjustly held in an Iranian prison. But recently, she heard something different. 
  <p class="updated_time"> 02:32 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
  <p class="updated_time"> 01:26 PM CT, Dec. 04 </p> 
@@ -229,8 +235,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/biden-putin-ukraine-523762">Biden, Putin to talk next week as tensions grow over Ukraine</a> Politico: Russia is more adamant than ever that the U.S. guarantees that Ukraine will not be admitted to the NATO military alliance. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
- <p class="updated_time"> 10:00 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 09:00 AM CT, Dec. 04 </p> 
@@ -401,8 +405,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:46 AM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/midterm-election-polls.html">Why a Pollster is Warning Democrats About the 2022 Midterm Elections</a> NYT: Focus groups with Virginia voters led to a bluntly worded memo on what Democrats need to do going into the midterms. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
@@ -413,8 +415,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060773339/morning-news-brief">News brief: omicron variant, Biden's COVID strategy, abortion court case</a> NPR: The U.S. has a case of the latest coronavirus variant. President Biden will outline a new plan for dealing with COVID-19. The U.S. Supreme Court appears poised to roll back abortion rights. 
  <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
- <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
