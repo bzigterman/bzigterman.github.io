@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:14 AM CT, Dec. 05 </p> 
+ <p class="updated_time"> 03:23 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
