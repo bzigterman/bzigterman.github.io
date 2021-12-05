@@ -210,10 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:56 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
- <p class="updated_time"> 06:20 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The cable news network said it had “terminated him, effective immediately,” a move that came four months after Andrew Cuomo resigned as governor of New York. 
  <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” the anchor said in a statement. 
  <p class="updated_time"> 04:10 PM CT, Dec. 04 </p> 
