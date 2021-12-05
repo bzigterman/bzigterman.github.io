@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:30 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/biden-kennedy-center-honors-523775">Kennedy Center ceremony returns to White House</a> Politico: “Our nation is stronger, more dynamic and more vibrant because of you,” President Joe Biden told the honorees. 
+ <p class="updated_time"> 05:40 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">A Chicken-Fried McGovern, Newt’s Good Ideas and the Senate Zoo: A Dole One-Liner Sampler</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
  <p class="updated_time"> 05:31 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 04:56 PM CT, Dec. 05 </p> 
@@ -303,8 +305,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
  <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
- <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
