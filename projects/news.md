@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:28 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 04:19 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Michigan Shooting Suspect's Parents  Are Arrested and Arraigned</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
+ <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Plead Not Guilty to Charges</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
  <p class="updated_time"> 04:02 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
  <p class="updated_time"> 03:55 PM CT, Dec. 04 </p> 
