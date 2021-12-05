@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600334/its-been-tense-between-france-and-the-u-k-since-brexit-or-maybe-since-waterloo">It's been tense between France and the U.K. since Brexit. Or maybe since Waterloo</a> NPR: Relations between the U.K. and France have taken a dive. Their leaders have had troubles getting beyond personal friction which has now become public. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
+ <p class="updated_time"> 06:57 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Live Updates: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
  <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
  <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/virus-omicron-variant-reinfection.html">Omicron Variant Reinfects People Who Have Had the Coronavirus</a> NYT: Evidence from South Africa, where the Omicron variant already dominates, shows a high rate of reinfection of people who have already had the coronavirus. 
- <p class="updated_time"> 06:32 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061053897/elle-magazine-ban-fur-from-publications">Elle magazine says it will ban fur from its publications worldwide</a> NPR: So far, 13 editions globally have implemented the ban, with 20 more set to do so by January 1. The magazine says the decision reflects changing tastes in fashion. 
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
@@ -447,8 +447,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
  <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
- <p class="updated_time"> 07:00 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/news/2021/11/28/billy-long-missouri-auctioneer-trump-523243">The Missouri auctioneer bidding it all for Trump's backing</a> Politico: Rep. Billy Long's been ride-or-die for the ex-president who can put him over the top in the Senate GOP primary. But he's got colorful competition. 
 
 
 </details>
