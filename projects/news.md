@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:30 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/biden-kennedy-center-honors-523775">Kennedy Center ceremony returns to White House</a> Politico: “Our nation is stronger, more dynamic and more vibrant because of you,” President Joe Biden told the honorees. 
+ <p class="updated_time"> 05:48 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">‘A War Hero and Patriot’: Leaders React to the Death of Bob Dole</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
  <p class="updated_time"> 05:40 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">A Chicken-Fried McGovern, Newt’s Good Ideas and the Senate Zoo: A Dole One-Liner Sampler</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
  <p class="updated_time"> 05:31 PM CT, Dec. 05 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669055/bob-dole-a-republican-politician-shaped-by-his-kansas-roots">Bob Dole, a Republican politician shaped by his Kansas roots</a> NPR: Former Senate Majority leader, and GOP presidential candidate Bob Dole, of Kansas, has died. He was 98. 
- <p class="updated_time"> 03:15 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">‘A War Hero and Patriot’: Leaders React to the Death of Bob Dole</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
  <p class="updated_time"> 02:39 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/virginia-robert-lee-statue-pedestal-523773">Virginia’s governor to remove Lee statue pedestal, transfer land to city</a> Politico: The Lee statue, a one-of-a-kind bronze equestrian piece installed in 1890, was hauled away earlier this year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
