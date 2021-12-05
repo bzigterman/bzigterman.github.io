@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 01:08 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:41 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
- <p class="updated_time"> 12:22 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 12:20 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
@@ -213,7 +213,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/gallery/2021/12/05/bob-dole-a-life-in-photos-003034">A life in photos: Bob Dole (1923-2021)</a> Politico: Born in rural Russell, Kansas, and raised during the Great Depression, Bob Dole became one of the singular figures of the Greatest Generation through his heroism in WWII. He returned home severely injured and covered in a body cast, but he willed himself to recover and embarked on, first, a legal and, then, a political career, becoming the longest-serving Republican Senate leader in history. 
+ <a href="https://www.politico.com/gallery/2021/12/05/bob-dole-a-life-in-photos-003034">A life in photos: Bob Dole (1923-2021)</a> Politico: Born in rural Russell, Kansas, and raised during the Great Depression, Bob Dole became one of the singular figures of the Greatest Generation through his heroism in WWII. He returned home severely injured and covered in a body cast, but he willed himself to recover and embarked on, first, a legal and, then, a political career, becoming, at the time, the longest-serving Republican Senate leader in history. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/cyber-command-ransomware.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
