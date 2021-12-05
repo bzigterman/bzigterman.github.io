@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope Francis Chastises West on Visit to Migrant Camp in Greece</a> NYT: He said that because of Europe’s migrant policies, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
  <p class="updated_time"> 11:24 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Veteran Republican leader Bob Dole dies</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
  <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
@@ -216,7 +218,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/mississippi-governor-abortion-ban-523770">Mississippi governor vows to enforce abortion ban</a> Politico: Asked by CNN’s Jake Tapper if he would enforce the “almost total abortion ban in Mississippi that exists” if Roe is overturned, the Republican governor said he would. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 11:24 AM CT, Dec. 05 </p> 
+ <p class="updated_time"> 11:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
@@ -449,8 +451,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
  <p class="updated_time"> 07:29 PM CT, Nov. 28 </p> 
  <a href="https://www.politico.com/news/2021/11/28/carrie-meek-congress-dies-523430">Carrie Meek, pioneering Black former congresswoman, dies at 95</a> Politico: She joined Alcee Hastings and Corrine Brown in January 1993 as the first Black Floridians to serve in Congress since 1876. 
- <p class="updated_time"> 11:38 AM CT, Nov. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/28/tis-the-season-of-sizing-up-promises-495232">POLITICO Playbook: ’Tis the season of sizing up promises</a> Politico: And the world scrambles on the Omicron variant. 
 
 
 </details>
