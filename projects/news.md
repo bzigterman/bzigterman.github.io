@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:41 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
  <p class="updated_time"> 12:22 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 12:20 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
- <p class="updated_time"> 12:06 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
  <p class="updated_time"> 08:27 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
+ <p class="updated_time"> 08:13 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-india-to-reinforce-defense-ties-as-u-s-considers-sanctions-11638731615">Russia, India to Reinforce Defense Ties as U.S. Considers Sanctions</a> WSJ: A meeting in India this week between Russian President Vladimir Putin and Indian Prime Minister Narendra Modi comes as Washington has urged New Delhi to cancel its purchase of a Russian missile system. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061607883/pope-francis-lesbos-greece-refugee-crisis">Pope Francis returns to Lesbos, Greece and pleads for action on migrant crisis</a> NPR: Francis returned to Lesbos, an island that has been at the heart of a massive wave of migration to Europe, and called on nations to end "this shipwreck of civilization." 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
@@ -55,14 +57,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
+ <p class="updated_time"> 06:45 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327">China Seeks First Military Base on Africa's Atlantic Coast</a> WSJ: Classified American intelligence reports suggest China intends to establish a military installation in Equatorial Guinea, a move that would give Beijing its first permanent naval presence on the Atlantic Ocean, according to U.S. officials. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 04:48 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538540?at_medium=RSS&at_campaign=KARANGA">French climber handed Mont Blanc gems after 2013 find</a> BBC: The stones are believed to be from an Air India plane which crashed into the mountain in 1966. 
- <p class="updated_time"> 04:35 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/omicron-may-cause-less-severe-covid-19-small-south-african-study-finds-11638714444">Omicron May Cause Less Severe Covid-19, Study Finds</a> WSJ: Scientists caution it is too early to be sure of the variant’s severity, as more cases are detected in Europe and the U.K. tightens travel restrictions. 
  <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 03:03 AM CT, Dec. 05 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59531437?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Cable car survivor returned to Italy after custody battle</a> BBC: Eitan Biran, the sole survivor of a cable car crash, is now in Italy after a custody battle. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
- <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
@@ -212,18 +212,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/gallery/2021/12/05/bob-dole-a-life-in-photos-003034">A life in photos: Bob Dole (1923-2021)</a> Politico: Born in rural Russell, Kansas, and raised during the Great Depression, Bob Dole became one of the singular figures of the Greatest Generation through his heroism in WWII. He returned home severely injured and covered in a body cast, but he willed himself to recover and embarked on, first, a legal and, then, a political career, becoming the longest-serving Republican Senate leader in history. 
+ <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/cyber-command-ransomware.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
+ <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/biden-partisanship-analysis/index.html">Biden ran on bringing people together. He's failed so far</a> CNN: President Joe Biden ran on a campaign of bringing people together. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
  <p class="updated_time"> 12:53 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
+ <p class="updated_time"> 11:42 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/ukraine-biden-putin-call-joni-ernst-chris-murphy/index.html">Ernst calls on Biden to be 'very clear and very strong' in call with Putin as US concerns grow over Russian military activity near Ukraine </a> CNN: Republican Sen. Joni Ernst on Sunday urged President Joe Biden to be "very clear and very strong" in his upcoming call with Russian President Vladimir Putin as US officials grow increasingly concerned about a possible invasion of Ukraine by Russia. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/mississippi-governor-abortion-ban-523770">Mississippi governor vows to enforce abortion ban</a> Politico: Asked by CNN’s Jake Tapper if he would enforce the “almost total abortion ban in Mississippi that exists” if Roe is overturned, the Republican governor said he would. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 11:33 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 11:08 AM CT, Dec. 05 </p> 
@@ -309,8 +317,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
- <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/syria-drone-strike-investigation-central-command/index.html">US military launches investigation after possible civilian casualties in Syria strike targeting al Qaeda leader</a> CNN: US Central Command has launched an investigation after a drone strike against a senior al Qaeda leader in northwest Syria on Friday may have killed civilians, according to a spokesman for Central Command. 
  <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
@@ -363,8 +369,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061055858/potential-2024-rivals-harris-and-buttigieg-ally-to-sell-biden-agenda">Potential 2024 rivals Harris and Buttigieg ally to sell Biden agenda</a> NPR: With President Biden approaching 80 years old, the political spotlight has been trained more brightly than usual on the pair. Here's a look at their political prospects. 
  <p class="updated_time"> 12:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kraken-lawyers-sanctions-fees-order/index.html">Trump-aligned lawyers ordered to pay $175,000 in sanctions fees for bogus election fraud lawsuit</a> CNN: A group of lawyers aligned with former President Donald Trump -- including Sidney Powell and Lin Wood -- were ordered Thursday by a federal judge to collectively pay more than $175,000 in sanctions-related fees stemming from a bogus election fraud lawsuit they filed last year. 
- <p class="updated_time"> 11:14 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin skeptical Build Back Better can pass this year, as doubts grow it'll get done by Christmas</a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
@@ -401,8 +405,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
- <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
@@ -413,8 +415,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
