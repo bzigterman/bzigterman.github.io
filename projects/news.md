@@ -233,8 +233,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/iran-nuclear-deal-negotiations-biden-administration-preparations/index.html">Biden administration still seeking return to compliance with original Iran nuclear deal while preparing for world without it</a> CNN: The Biden administration is still seeking a return to mutual compliance to the 2015 nuclear deal with Iran but is "preparing for a world in which there is no return" to the landmark agreement, a senior State Department official said Saturday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
- <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/biden-putin-ukraine-523762">Biden, Putin to talk next week as tensions grow over Ukraine</a> Politico: Russia is more adamant than ever that the U.S. guarantees that Ukraine will not be admitted to the NATO military alliance. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
@@ -425,6 +423,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
