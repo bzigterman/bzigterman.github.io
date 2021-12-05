@@ -215,7 +215,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/gallery/2021/12/05/bob-dole-a-life-in-photos-003034">A life in photos: Bob Dole (1923-2021)</a> Politico: Born in rural Russell, Kansas, and raised during the Great Depression, Bob Dole became one of the singular figures of the Greatest Generation through his heroism in WWII. He returned home severely injured and covered in a body cast, but he willed himself to recover and embarked on, first, a legal and, then, a political career, becoming, at the time, the longest-serving Republican Senate leader in history. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/cyber-command-ransomware.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-partisanship-analysis/index.html">Biden ran on bringing people together. He's failed so far</a> CNN: President Joe Biden ran on a campaign of bringing people together. 
  <p class="updated_time"> 01:03 PM CT, Dec. 05 </p> 
@@ -317,6 +317,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
+ <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/syria-drone-strike-investigation-central-command/index.html">US military launches investigation after possible civilian casualties in Syria strike targeting al Qaeda leader</a> CNN: US Central Command has launched an investigation after a drone strike against a senior al Qaeda leader in northwest Syria on Friday may have killed civilians, according to a spokesman for Central Command. 
  <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
@@ -329,8 +331,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
- <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
  <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
