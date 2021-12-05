@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 03:23 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 02:38 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
- <p class="updated_time"> 02:33 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
