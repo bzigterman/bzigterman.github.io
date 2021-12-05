@@ -83,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
- <p class="updated_time"> 12:41 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-calls-on-europe-to-welcome-migrants-during-refugee-camp-visit-11638704461">Pope Francis Calls On Europe to Welcome Migrants</a> WSJ: The pope met with asylum seekers on the Greek island of Lesbos, on the fourth day of a five-day visit to Greece and Cyprus that has highlighted migration, one of the signature issues of the current pontificate. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 09:55 PM CT, Dec. 04 </p> 
@@ -212,6 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/biden-kennedy-center-honors-523775">Kennedy Center ceremony returns to White House</a> Politico: “Our nation is stronger, more dynamic and more vibrant because of you,” President Joe Biden told the honorees. 
+ <p class="updated_time"> 05:31 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 04:56 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/david-perdue-georgia-governor-run/index.html">David Perdue plans to challenge Brian Kemp in GOP primary for Georgia governor, reports say</a> CNN: Former GOP Sen. David Perdue plans to announce Monday that he's mounting a primary challenge against Georgia Gov. Brian Kemp, a move that will pit the ally of former President Donald Trump against the incumbent Republican governor and set up an intra-party fight in one of the nation's closely watched political battlegrounds, according to multiple reports. 
  <p class="updated_time"> 04:34 PM CT, Dec. 05 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061669055/bob-dole-a-republican-politician-shaped-by-his-kansas-roots">Bob Dole, a Republican politician shaped by his Kansas roots</a> NPR: Former Senate Majority leader, and GOP presidential candidate Bob Dole, of Kansas, has died. He was 98. 
  <p class="updated_time"> 03:15 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">‘A War Hero and Patriot’: Leaders React to the Death of Bob Dole</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
- <p class="updated_time"> 03:11 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 02:39 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/virginia-robert-lee-statue-pedestal-523773">Virginia’s governor to remove Lee statue pedestal, transfer land to city</a> Politico: The Lee statue, a one-of-a-kind bronze equestrian piece installed in 1890, was hauled away earlier this year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
@@ -307,8 +307,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 09:00 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735">Clearview AI on track to win U.S. patent for facial recognition technology</a> Politico: The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms. 
  <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
  <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
