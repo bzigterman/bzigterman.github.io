@@ -321,6 +321,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
+ <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/syria-drone-strike-investigation-central-command/index.html">US military launches investigation after possible civilian casualties in Syria strike targeting al Qaeda leader</a> CNN: US Central Command has launched an investigation after a drone strike against a senior al Qaeda leader in northwest Syria on Friday may have killed civilians, according to a spokesman for Central Command. 
  <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
@@ -417,8 +419,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
@@ -437,8 +437,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
- <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
- <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
