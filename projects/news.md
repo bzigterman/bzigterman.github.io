@@ -208,14 +208,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate">Pro-Trump counties now have far higher COVID death rates. Misinformation is to blame</a> NPR: An analysis by NPR shows that since the vaccine rollout, counties that voted heavily for Donald Trump have had more than twice the COVID mortality rates of those that voted for Joe Biden. 
  <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
  <p class="updated_time"> 12:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
- <p class="updated_time"> 11:02 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
