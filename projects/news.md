@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 04:45 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
@@ -23,12 +25,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
+ <p class="updated_time"> 12:41 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-calls-on-europe-to-welcome-migrants-during-refugee-camp-visit-11638704461">Pope Francis Calls On Europe to Welcome Migrants</a> WSJ: The pope met with asylum seekers on the Greek island of Lesbos, on the fourth day of a five-day visit to Greece and Cyprus that has highlighted migration, one of the signature issues of the current pontificate. 
+ <p class="updated_time"> 11:33 PM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 10:55 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Rescuers race to find survivors of Indonesia eruption</a> BBC: At least 13 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
- <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
+ <p class="updated_time"> 09:55 PM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/indonesian-volcano-erupts-killing-more-than-a-dozen-11638694504">Indonesian Volcano Erupts, Killing More Than a Dozen</a> WSJ: Mount Semeru, on the Indonesian island of Java, sent billowing hot clouds and volcanic ash toward nearby villages. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
@@ -71,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
- <p class="updated_time"> 11:12 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/putin-troop-buildup-near-ukraine-raises-concerns-of-potential-2022-invasion-u-s-officials-say-11638589004">Russia Troop Buildup Near Ukraine Raises Fears of Invasion</a> WSJ: Russian President Vladimir Putin is amassing a force expected to total 175,000 troops near the border with Ukraine, giving him the capability for a potential invasion of his neighbor by early 2022, U.S. officials said. 
  <p class="updated_time"> 11:05 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59531173?at_medium=RSS&at_campaign=KARANGA">Bus carrying choir members plunges into Kenya river</a> BBC: At least 23 die as a bus taking a church choir group to a wedding plunges into a flooded river. 
  <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
@@ -85,8 +89,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516896?at_medium=RSS&at_campaign=KARANGA">Belgian zoo hippos test positive for Covid</a> BBC: Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus. 
- <p class="updated_time"> 09:37 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Secures Saudi Agreement to Re-Engage With Lebanon</a> WSJ: The French president says Saudi Arabia’s crown prince has agreed to re-engage with Lebanon after Riyadh cut ties with its neighbor, in the first trip by a major Western leader to the kingdom since the 2018 killing of dissident journalist Jamal Khashoggi. 
+ <p class="updated_time"> 09:46 AM CT, Dec. 04 </p> 
+ <a href="https://www.wsj.com/articles/explosion-heard-near-iranian-nuclear-site-natanz-11638650787">Explosion Heard Near Iranian Nuclear Site Natanz</a> WSJ: Conflicting reports emerged about the nature of the blast, which occurred as Tehran is negotiating with world powers to restore the 2015 nuclear deal. 
  <p class="updated_time"> 09:14 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
@@ -175,12 +179,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
- <p class="updated_time"> 08:35 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/omicron-cases-at-norway-christmas-party-provide-clues-on-new-variants-spread-11638554033">Omicron Cases at Norway Christmas Party Provide Clues on New Variant's Spread</a> WSJ: The event at an upscale Oslo restaurant included about 120 people, several of whom had just returned from South Africa. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
- <p class="updated_time"> 04:50 AM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/turkey-erdogan-inflation-currency-lira-protests-economy-11638477508">Turkey's Economic Turmoil Sends Desperation and Inflation Soaring</a> WSJ: President Erdogan has taken control of the economy and pushed lower interest rates as the currency plunges. Turks have been lining up for subsidized bread and cutting back on meat. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/roe-v-wade-democrats-2022-elections-523759">Why the threat to Roe may not save Democrats in 2022</a> Politico: “I wish we lived in a world where outrage mattered. But I think we live in a post-outrage world,” said one party strategist. 
  <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
@@ -329,8 +331,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
  <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden embraces his one-time foe: Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
- <p class="updated_time"> 04:30 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/cartoons/2021/12/03/the-nations-cartoonists-on-the-week-in-politics-000269">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:29 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/supreme-court-briefs-arguments/index.html">They've read the briefs and heard oral arguments. Here's what the Supreme Court justices do next.</a> CNN: The nine Supreme Court justices will gather in their private conference room Friday, if they follow general practice, to cast initial votes in a case that could determine the future of Roe v. Wade and radically transform -- after a half century -- the landscape of women's reproductive health nationwide. 
  <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
@@ -403,18 +403,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
  <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1060773437/sen-elizabeth-warren-is-focused-on-bringing-in-more-tax-revenue-for-the-irs">Sen. Elizabeth Warren is focused on bringing in more tax revenue for the IRS</a> NPR: NPR's Steve Inskeep speaks with Democratic Sen. Elizabeth Warren of Massachusetts about the U.S. economy and rising inflation. 
- <p class="updated_time"> 09:30 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/symone-sanders-vice-president-office-523660">Symone Sanders to leave the VP’s office</a> Politico: The departure, which is set for the end of the month, is the second major exit from Harris’ office in the last few weeks. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
+ <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
  <p class="updated_time"> 11:52 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/congress-government-shutdown-523601">Tick, tick: House ends day with no shutdown deal</a> Politico: A Republican push on vaccine mandates and a debate over how long a spending patch should last has delayed a House vote to keep the government funded. 
- <p class="updated_time"> 11:35 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/trump-america-first-covid-523604">How Trump’s ‘America First’ edict delayed the global Covid fight</a> Politico: With Omicron emerging in countries deprived of vaccines, the failure to develop a strategy to inoculate the world looms large. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
@@ -427,8 +425,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
- <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
  <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
