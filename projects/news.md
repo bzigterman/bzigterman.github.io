@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
+ <p class="updated_time"> 10:55 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 10:03 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
- <p class="updated_time"> 10:34 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59532845?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents deny involuntary manslaughter</a> BBC: Bail is set at $1m for the couple arrested in Detroit after failing to attend court on Friday. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59516896?at_medium=RSS&at_campaign=KARANGA">Belgian zoo hippos test positive for Covid</a> BBC: Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus. 
  <p class="updated_time"> 09:37 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-is-first-major-western-leader-to-visit-saudi-arabia-since-khashoggi-killing-11638611395">France's Macron Secures Saudi Agreement to Re-Engage With Lebanon</a> WSJ: The French president says Saudi Arabia’s crown prince has agreed to re-engage with Lebanon after Riyadh cut ties with its neighbor, in the first trip by a major Western leader to the kingdom since the 2018 killing of dissident journalist Jamal Khashoggi. 
- <p class="updated_time"> 09:17 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 09:14 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
@@ -212,14 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:45 PM CT, Dec. 04 </p> 
+ <p class="updated_time"> 11:02 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
+ <p class="updated_time"> 10:56 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” the anchor said in a statement. 
- <p class="updated_time"> 04:10 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/justice-department-proud-boys-capitol-riot/index.html">Justice Department charges 2 men alleged to have marched with Proud Boys on January 6 and led charge at US Capitol 
 </a> CNN: Federal prosecutors have accused two men of having ties to a Proud Boys leader and being among the first to breach the police line near the US Capitol on January 6. 
