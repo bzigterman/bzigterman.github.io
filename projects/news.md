@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:48 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59506339?at_medium=RSS&at_campaign=KARANGA">Mandatory vaccinations: Three reasons for and against</a> BBC: Blanket vaccination mandates are on the agenda but do they work and what are their costs? 
  <p class="updated_time"> 06:36 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to talk amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 06:26 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims. 
  <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
