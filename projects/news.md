@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
- <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/virus-omicron-variant-reinfection.html">Omicron Variant Reinfects People Who Have Had the Coronavirus</a> NYT: Evidence from South Africa, where the Omicron variant already dominates, shows a high rate of reinfection of people who have already had the coronavirus. 
  <p class="updated_time"> 06:32 PM CT, Dec. 02 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
  <p class="updated_time"> 12:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 11:02 PM CT, Dec. 04 </p> 
@@ -343,8 +345,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin skeptical Build Back Better can pass this year, as doubts grow it'll get done by Christmas</a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
- <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Government Shutdown Averted as Congress Passes Spending Bill</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
  <p class="updated_time"> 09:07 PM CT, Dec. 02 </p> 
