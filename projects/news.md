@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Live Updates: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
- <p class="updated_time"> 04:45 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
- <p class="updated_time"> 02:38 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 02:38 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59516896?at_medium=RSS&at_campaign=KARANGA">Belgian zoo hippos test positive for Covid</a> BBC: Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus. 
  <p class="updated_time"> 09:46 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/explosion-heard-near-iranian-nuclear-site-natanz-11638650787">Explosion Heard Near Iranian Nuclear Site Natanz</a> WSJ: Conflicting reports emerged about the nature of the blast, which occurred as Tehran is negotiating with world powers to restore the 2015 nuclear deal. 
- <p class="updated_time"> 09:14 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/israel-iran-nuclear-deal-523765">Israel urges hard line against Iran at nuclear talks</a> Politico: Talks in Vienna resumed last week after a more than five-month hiatus. 
  <p class="updated_time"> 07:00 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/roe-v-wade-democrats-2022-elections-523759">Why the threat to Roe may not save Democrats in 2022</a> Politico: “I wish we lived in a world where outrage mattered. But I think we live in a post-outrage world,” said one party strategist. 
  <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
@@ -301,6 +303,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with state House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb">Congress avoids a government shutdown — but a long to-do list looms</a> NPR: Lawmakers are juggling must-pass items, like addressing the nation's borrowing authority and an annual defense authorization package, along with major political priorities for Democrats. 
+ <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061214253/bob-inglis-how-i-changed-my-mind-about-climate-change">Bob Inglis: How I changed my mind about climate change</a> NPR: Former GOP congressman Bob Inglis used to believe climate change wasn't real. But after a candid conversation with his children and a hard look at the evidence, he began to change his mind. 
  <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
@@ -309,16 +313,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/immigration-build-back-better-parliamentarian/index.html">Democrats await decision on whether immigration can be in Build Back Better</a> CNN: Democrats in the Senate have for the third time tried to use a technical procedure to try to include immigration provisions in President Joe Biden's Build Back Better Act, putting everything on the line for what could be the last attempt to try to pass some sort of overhaul of the nation's immigration laws before the new year. 
  <p class="updated_time"> 09:21 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/stacey-abrams-concession-2018-georgia/index.html">Abrams defends lack of concession after 2018 gubernatorial loss</a> CNN: Democratic gubernatorial candidate Stacey Abrams defended herself from criticism that she never conceded her loss to Gov. Brian Kemp in 2018 on Friday, addressing what Republicans have already used against her in her newly announced 2022 rematch against Kemp. 
- <p class="updated_time"> 08:53 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/employers-hiring-pace-november-523706">U.S. employers added a sluggish 210,000 jobs in November</a> Politico: America’s employers slowed the pace of their hiring in November, adding 210,000 jobs, the fewest in nearly a year. 
  <p class="updated_time"> 08:47 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/florida-state-guard-desantis/index.html">DeSantis proposes a new civilian military force in Florida that he would control</a> CNN: Florida Gov. Ron DeSantis wants to reestablish a World War II-era civilian military force that he, not the Pentagon, would control. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 08:07 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/russian-forces-ukraine-border/index.html">Russia deploys supply lines and field hospitals as fears rise of potential Ukraine invasion</a> CNN: Russian forces have capabilities in place along the Ukraine border to carry out a swift and immediate invasion, including erecting supply lines such as medical units and fuel that could sustain a drawn-out conflict, should Moscow choose to invade, two sources familiar with the latest intelligence assessments told CNN. 
- <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/who-delta-omicron-coronavirus-restrictions-523704">WHO says measures used against Delta should work for Omicron</a> Politico: Measures used to counter the Delta variant should remain the foundation for fighting the coronavirus pandemic, even in the face of the new omicron version of the virus, World Health Organization officials said Friday. 
  <p class="updated_time"> 07:38 AM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/donald-trump-sean-conley-covid-test/index.html">Trump's White House doctor facing fresh scrutiny over Covid test timeline</a> CNN: Former President Donald Trump's positive Covid test in September 2020, three days before the first presidential debate, is raising new questions about whether Trump's physician at the time, Dr. Sean Conley, had a duty to inform the public -- and Joe Biden -- about Trump's positive result. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
