@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
+ <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/austria-vienna-covid-protest.html">More Than 40,000 March in Vienna Against Coronavirus Restrictions</a> NYT: Protesters gathered for a second weekend of mass demonstrations against the country’s tough lockdown and a coming vaccine mandate. 
+ <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
+ <p class="updated_time"> 10:23 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 10:08 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">What Happened on the Pope’s Trip to Greece</a> NYT: Visiting a camp on the island of Lesbos, Francis said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
  <p class="updated_time"> 10:04 AM CT, Dec. 05 </p> 
@@ -45,10 +53,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 04:48 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538540?at_medium=RSS&at_campaign=KARANGA">French climber handed Mont Blanc gems after 2013 find</a> BBC: The stones are believed to be from an Air India plane which crashed into the mountain in 1966. 
+ <p class="updated_time"> 04:35 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/omicron-may-cause-less-severe-covid-19-small-south-african-study-finds-11638714444">Omicron May Cause Less Severe Covid-19, Small Study Finds</a> WSJ: Scientists caution it is too early to be sure of the variant’s severity, as more cases are detected in Europe and the U.K. tightens travel restrictions. 
  <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
+ <p class="updated_time"> 03:03 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/omicrons-spread-exposes-south-africas-vaccination-struggles-public-distrust-11638712983">Omicron's Spread Exposes South Africa's Vaccination Struggles</a> WSJ: South Africa’s struggles to vaccinate more than a quarter of its population have left many of its 60 million people potentially exposed as the new Omicron variant spreads across the country. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
@@ -77,24 +89,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59523997?at_medium=RSS&at_campaign=KARANGA">South Africa: The rape survivor who convicts rapists</a> BBC: Rape survivor Sgt Catherine Tladi has secured several convictions for rape in South Africa's courts. 
  <p class="updated_time"> 05:34 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
- <p class="updated_time"> 04:28 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 04:19 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Plead Not Guilty to Charges</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
  <p class="updated_time"> 04:02 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
- <p class="updated_time"> 03:31 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
- <p class="updated_time"> 02:06 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/austria-vienna-covid-protest.html">More Than 40,000 March in Vienna Against Coronavirus Restrictions</a> NYT: Protesters gathered for a second weekend of mass demonstrations against the country’s tough lockdown and a coming vaccine mandate. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
- <p class="updated_time"> 12:32 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 11:55 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
@@ -107,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516896?at_medium=RSS&at_campaign=KARANGA">Belgian zoo hippos test positive for Covid</a> BBC: Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus. 
- <p class="updated_time"> 09:46 AM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/explosion-heard-near-iranian-nuclear-site-natanz-11638650787">Explosion Heard Near Iranian Nuclear Site Natanz</a> WSJ: Conflicting reports emerged about the nature of the blast, which occurred as Tehran is negotiating with world powers to restore the 2015 nuclear deal. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
- <p class="updated_time"> 11:40 PM CT, Dec. 03 </p> 
- <a href="https://www.wsj.com/articles/in-russias-death-valley-putins-pledge-to-become-carbon-neutral-rings-hollow-11638614426">Putin's Pledge to Become Carbon Neutral Rings Hollow</a> WSJ: Moscow’s ambition goal of slashing emissions by 2060 clashes with Russia’s attachment to coal. In one Russian coal town, acrid air and sick children. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
@@ -210,18 +210,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/mississippi-governor-abortion-ban-523770">Mississippi governor vows to enforce abortion ban</a> Politico: Asked by CNN’s Jake Tapper if he would enforce the “almost total abortion ban in Mississippi that exists” if Roe is overturned, the Republican governor said he would. 
+ <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 11:02 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/space-force-china-military-523769">U.S. Space Force general warns of China's growing military space potential</a> Politico: “I don't think it's a foregone conclusion they will be the leader in space at the end of the decade, but they are on an incredible pace,” he said. 
+ <p class="updated_time"> 10:37 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/tate-reeves-abortion-oral-arguments-supreme-court-cnntv/index.html">Mississippi governor calls Supreme Court oral arguments on state's restrictive abortion law 'a watershed moment in American history'</a> CNN: Mississippi Gov. Tate Reeves called recent Supreme Court oral arguments on a restrictive abortion law in his state "a watershed moment in American history," saying he's cautiously optimistic the court will overturn two seminal decisions that secured abortion rights for women nationwide. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Rep. Omar 'very confident' Pelosi will take action against Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 10:10 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
+ <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
  <p class="updated_time"> 09:57 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 09:51 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/fauci-south-african-travel-ban-523766">Fauci: U.S. reviewing its South African travel ban and hopes to lift it soon</a> Politico: “When the ban was put on, it was put to give us time to figure out just what is going on," Biden's chief medical adviser told CNN. 
- <p class="updated_time"> 09:25 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Rep. Omar 'very confident' Pelosi will take action on Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:25 AM CT, Dec. 05 </p> 
@@ -250,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/edward-shames-easy-company-world-war-ii-band-of-brothers/index.html">Army Col. Edward Shames, the last remaining member of World War II's 'Band of Brothers,' dies at 99</a> CNN: Col. Edward Shames, the last surviving officer of the historic World War II parachute infantry regiment of the US Army known as Easy Company, died Friday at the age of 99. 
  <p class="updated_time"> 09:36 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/american-experts-us-china-space-race/index.html">Top Space Force official: China is developing space capabilities at 'twice the rate' of US</a> CNN: Gen. David Thompson, vice chief of space operations for the US Space Force, said Saturday China is developing its space capabilities at "twice the rate" of the US. 
- <p class="updated_time"> 08:34 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/defense-secretary-austin-china-security/index.html">Sec. Austin says US isn't afraid of Chinese competition even as country advances its hypersonic weapons</a> CNN: US Secretary of Defense Lloyd Austin addressed recent Chinese military advancements Saturday, including the test of a hypersonic weapon system and strengthening of nuclear capabilities, saying, "America isn't a country that fears competition." 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
@@ -265,8 +271,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/iran-us-hostages-talks-shargi/index.html">For this American family, the Iran nuclear talks are personal</a> CNN: Emad Shargi's daughter says her dad has always been stoic during his ordeal as an American citizen unjustly held in an Iranian prison. But recently, she heard something different. 
  <p class="updated_time"> 02:32 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
- <p class="updated_time"> 01:26 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/iran-nuclear-deal-negotiations-biden-administration-preparations/index.html">Biden administration still seeking return to compliance with original Iran nuclear deal while preparing for world without it</a> CNN: The Biden administration is still seeking a return to mutual compliance to the 2015 nuclear deal with Iran but is "preparing for a world in which there is no return" to the landmark agreement, a senior State Department official said Saturday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
@@ -289,8 +293,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483566/week-in-politics-congress-passes-temporary-funding-bill-to-avoid-shutdown">Week in politics: Congress passes temporary funding bill to avoid shutdown</a> NPR: Congress narrowly avoids a government shutdown by passing a temporary funding bill. We look at what's next in Congress as well as the House committee investigation of the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
- <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
