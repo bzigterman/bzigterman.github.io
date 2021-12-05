@@ -212,10 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:56 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/david-perdue-georgia-governor-run/index.html">David Perdue plans to challenge Brian Kemp in GOP primary for Georgia governor, reports say</a> CNN: Former GOP Sen. David Perdue plans to announce Monday that he's mounting a primary challenge against Georgia Gov. Brian Kemp, a move that will pit the ally of former President Donald Trump against the incumbent Republican governor and set up an intra-party fight in one of the nation's closely watched political battlegrounds, according to multiple reports. 
  <p class="updated_time"> 04:34 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
- <p class="updated_time"> 04:21 PM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/david-perdue-georgia-governor-run/index.html">David Perdue plans to challenge Brian Kemp in GOP primary for Georgia governor, reports say</a> CNN: Former GOP Sen. David Perdue plans to announce Monday that he's mounting a primary challenge against Georgia Gov. Brian Kemp, a move that will pit the ally of former President Donald Trump against the incumbent Republican governor and set up an intra-party fight in one of the nation's closely watched political battlegrounds, according to multiple reports. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
