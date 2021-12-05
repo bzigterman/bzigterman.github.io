@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
- <p class="updated_time"> 11:10 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 11:08 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/123981928/bob-dole-dies-at-98">Bob Dole, longtime GOP senator and 1996 presidential nominee, dies</a> NPR: After recovering from wounds suffered in World War II, Dole went on to represent Kansas in Congress for more than 30 years. 
  <p class="updated_time"> 11:02 AM CT, Dec. 05 </p> 
