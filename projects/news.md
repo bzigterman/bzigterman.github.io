@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:51 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">What Happened on the Pope’s Trip to Greece</a> NYT: Visiting a camp on the island of Lesbos, Francis said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 11:34 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope Francis Chastises West on Visit to Migrant Camp in Greece</a> NYT: He said that because of Europe’s migrant policies, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 11:24 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
+ <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061607883/pope-francis-lesbos-greece-refugee-crisis">Pope Francis returns to Lesbos, Greece and pleads for action on migrant crisis</a> NPR: Francis returned to Lesbos, an island that has been at the heart of a massive wave of migration to Europe, and called on nations to end "this shipwreck of civilization." 
- <p class="updated_time"> 07:13 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600369/russia-is-planning-military-action-toward-ukraine-as-soon-as-next-year">Russia is planning military action toward Ukraine as soon as next year</a> NPR: Ayesha Rascoe speaks with Washington Post national security reporter Shane Harris about increasing tension between Russia and Ukraine. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
- <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/virus-omicron-variant-reinfection.html">Omicron Variant Reinfects People Who Have Had the Coronavirus</a> NYT: Evidence from South Africa, where the Omicron variant already dominates, shows a high rate of reinfection of people who have already had the coronavirus. 
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
@@ -216,10 +216,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/mississippi-governor-abortion-ban-523770">Mississippi governor vows to enforce abortion ban</a> Politico: Asked by CNN’s Jake Tapper if he would enforce the “almost total abortion ban in Mississippi that exists” if Roe is overturned, the Republican governor said he would. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
+ <p class="updated_time"> 11:24 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
+ <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
+ <p class="updated_time"> 11:10 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
+ <p class="updated_time"> 11:08 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/123981928/bob-dole-dies-at-98">Bob Dole, longtime GOP senator and 1996 presidential nominee, dies</a> NPR: After recovering from wounds suffered in World War II, Dole went on to represent Kansas in Congress for more than 30 years. 
  <p class="updated_time"> 11:02 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/space-force-china-military-523769">U.S. Space Force general warns of China's growing military space potential</a> Politico: “I don't think it's a foregone conclusion they will be the leader in space at the end of the decade, but they are on an incredible pace,” he said. 
- <p class="updated_time"> 11:01 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 10:37 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/tate-reeves-abortion-oral-arguments-supreme-court-cnntv/index.html">Mississippi governor calls Supreme Court oral arguments on state's restrictive abortion law 'a watershed moment in American history'</a> CNN: Mississippi Gov. Tate Reeves called recent Supreme Court oral arguments on a restrictive abortion law in his state "a watershed moment in American history," saying he's cautiously optimistic the court will overturn two seminal decisions that secured abortion rights for women nationwide. 
  <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
- <p class="updated_time"> 09:57 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 09:51 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/fauci-south-african-travel-ban-523766">Fauci: U.S. reviewing its South African travel ban and hopes to lift it soon</a> Politico: “When the ban was put on, it was put to give us time to figure out just what is going on," Biden's chief medical adviser told CNN. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
@@ -389,8 +393,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1060181769/house-approves-a-short-term-funding-bill-to-avoid-a-government-shutdown">Congress approves a short-term funding bill to avoid a government shutdown</a> NPR: A day before the Friday deadline, lawmakers approved a spending bill that will keep federal agencies running through Feb. 18, 2022. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028404/heres-what-president-bidens-winter-covid-plan-involves">Here's what President Biden's winter COVID plan involves</a> NPR: President Biden announced his strategy to deal with COVID-19 throughout the winter months, including getting more people vaccinated and stepping up testing for the virus. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
@@ -403,8 +405,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
