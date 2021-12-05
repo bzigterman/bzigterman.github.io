@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:13 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
+ <p class="updated_time"> 12:06 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
+ <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
+ <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 11:52 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 11:34 AM CT, Dec. 05 </p> 
@@ -27,10 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 10:04 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
- <p class="updated_time"> 09:04 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
- <p class="updated_time"> 08:54 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-may-cause-less-severe-covid-19-small-south-african-study-finds-11638714444">Omicron May Cause Less Severe Covid-19, Small Study Finds</a> WSJ: Scientists caution it is too early to be sure of the variant’s severity, as more cases are detected in Europe and the U.K. tightens travel restrictions. 
  <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
- <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 03:03 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/omicrons-spread-exposes-south-africas-vaccination-struggles-public-distrust-11638712983">Omicron's Spread Exposes South Africa's Vaccination Struggles</a> WSJ: South Africa’s struggles to vaccinate more than a quarter of its population have left many of its 60 million people potentially exposed as the new Omicron variant spreads across the country. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
@@ -215,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, 1996 GOP presidential nominee, dies at 98</a> Politico: The Kansan was a longtime Republican leader in the Senate. 
+ <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/mississippi-governor-abortion-ban-523770">Mississippi governor vows to enforce abortion ban</a> Politico: Asked by CNN’s Jake Tapper if he would enforce the “almost total abortion ban in Mississippi that exists” if Roe is overturned, the Republican governor said he would. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
