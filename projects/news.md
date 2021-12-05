@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
+ <p class="updated_time"> 02:24 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
- <p class="updated_time"> 01:32 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
- <p class="updated_time"> 01:18 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 01:08 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:20 PM CT, Dec. 05 </p> 
