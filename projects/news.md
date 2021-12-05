@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:13 PM CT, Dec. 05 </p> 
+ <p class="updated_time"> 12:26 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
+ <p class="updated_time"> 12:22 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
+ <p class="updated_time"> 12:20 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 12:06 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 11:52 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
- <p class="updated_time"> 11:34 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope Francis Chastises West on Visit to Migrant Camp in Greece</a> NYT: He said that because of Europe’s migrant policies, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
  <p class="updated_time"> 11:24 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 10:04 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
- <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
@@ -169,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
- <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/omicron-travel-restrictions-united-states.html">Travelers to U.S.: Can They Get Their Tests Back in Time?</a> NYT: New travel restrictions announced on Thursday by the White House over fears of the spread of the Omicron variant have many worrying that their trips may not happen. 
  <p class="updated_time"> 02:07 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/italy-vaccine-fake-arm.html">Man in Italy Tries to Get Vaccinated in a Fake Arm</a> NYT: The stratagem was the latest and perhaps most original episode of vaccine evasion in the struggle between Italy’s government and the country’s anti-vaccine faction. 
  <p class="updated_time"> 02:01 PM CT, Dec. 03 </p> 
