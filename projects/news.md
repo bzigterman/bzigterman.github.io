@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:01 AM CT, Dec. 05 </p> 
+ <p class="updated_time"> 02:33 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:36 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to talk amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 06:26 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV host is sacked over efforts to help his brother defend himself against sexual harassment claims. 
  <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59523997?at_medium=RSS&at_campaign=KARANGA">South Africa: The rape survivor who convicts rapists</a> BBC: Rape survivor Sgt Catherine Tladi has secured several convictions for rape in South Africa's courts. 
  <p class="updated_time"> 05:34 PM CT, Dec. 04 </p> 
@@ -252,7 +252,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
