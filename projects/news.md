@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Live Updates: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600369/russia-is-planning-military-action-toward-ukraine-as-soon-as-next-year">Russia is planning military action toward Ukraine as soon as next year</a> NPR: Ayesha Rascoe speaks with Washington Post national security reporter Shane Harris about increasing tension between Russia and Ukraine. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600334/its-been-tense-between-france-and-the-u-k-since-brexit-or-maybe-since-waterloo">It's been tense between France and the U.K. since Brexit. Or maybe since Waterloo</a> NPR: Relations between the U.K. and France have taken a dive. Their leaders have had troubles getting beyond personal friction which has now become public. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
- <p class="updated_time"> 06:57 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Live Updates: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
@@ -171,16 +175,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
- <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese ride-hailing company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
  <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
- <p class="updated_time"> 09:08 AM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061179241/tom-daley-knitting-british-olympic-diver">Olympic diver and knitter Tom Daley launches his own online knitting shop</a> NPR: The British diving star was often seen knitting at the Tokyo Olympics, where he won a gold medal. He sold doggie jumpers for charity; now the purler's going pro with a shop that sells knitting kits. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 03:53 AM CT, Dec. 03 </p> 
@@ -210,6 +210,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:25 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/israel-iran-nuclear-deal-523765">Israel urges hard line against Iran at nuclear talks</a> Politico: Talks in Vienna resumed last week after a more than five-month hiatus. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600376/communities-of-color-face-disproportionate-exposure-to-pollution">Communities of color face disproportionate exposure to pollution</a> NPR: Ayesha Rascoe speaks with Michael S. Regan, the Environmental Protection Agency Administrator, about the Biden administration's approach to environmental justice. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600362/house-expects-to-hear-from-roger-stone-alex-jones-and-michael-flynn-about-jan-6">House expects to hear from Roger Stone, Alex Jones and Michael Flynn about Jan. 6</a> NPR: NPR's Ayesha Rascoe asks journalist Marcy Wheeler about developments in the investigation into the January 6 attack on the Capitol, and the different types of information coming out. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600327/cnn-fires-chris-cuomo-for-involvement-in-his-brothers-sexual-misconduct-allegati">CNN fires Chris Cuomo for involvement in his brother's sexual misconduct allegations</a> NPR: CNN has fired anchor Chris Cuomo over his involvement in Gov. Andrew Cuomo's attempts to overcome allegations of sexual misconduct. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061600320/politics-chat-biden-faces-handling-another-winter-of-the-pandemic">Politics chat: Biden faces handling another winter of the pandemic</a> NPR: The pandemic and its economic effects are a political weight on President Biden. 
  <p class="updated_time"> 07:00 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/roe-v-wade-democrats-2022-elections-523759">Why the threat to Roe may not save Democrats in 2022</a> Politico: “I wish we lived in a world where outrage mattered. But I think we live in a post-outrage world,” said one party strategist. 
  <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
@@ -381,18 +389,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
  <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
  <a href="https://www.npr.org/2021/12/02/1061028404/heres-what-president-bidens-winter-covid-plan-involves">Here's what President Biden's winter COVID plan involves</a> NPR: President Biden announced his strategy to deal with COVID-19 throughout the winter months, including getting more people vaccinated and stepping up testing for the virus. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028366/irelands-sinn-fein-leader-on-brexit-cross-border-relations-and-party-goals">Ireland's Sinn Féin leader on Brexit, cross-border relations and party goals</a> NPR: NPR's Mary Louise Kelly speaks with Mary Lou McDonald, Sinn Féin president and leader of the opposition in the Republic of Ireland, about Brexit and how cross-border relations are working. 
- <p class="updated_time"> 03:14 PM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1061028280/biden-administration-says-it-will-restart-the-trump-era-remain-in-mexico-policy">Biden administration says it will restart the Trump-era 'Remain in Mexico' policy</a> NPR: The Biden administration announced Thursday that it will restart the "Remain in Mexico" policy. Officials promised "key changes" to the Trump-era policy that has been widely criticized as inhumane. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
  <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
- <p class="updated_time"> 11:18 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060896872/u-s-will-resume-remain-in-mexico-policy-for-asylum-seekers">U.S. will resume 'Remain in Mexico' policy for asylum-seekers</a> NPR: Migrants seeking to enter the United States will again have to stay in Mexico as they await immigration hearings, as the Biden administration reluctantly announced plans to comply with a court order. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
@@ -401,8 +403,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 04:03 AM CT, Dec. 02 </p> 
- <a href="https://www.npr.org/2021/12/02/1060773437/sen-elizabeth-warren-is-focused-on-bringing-in-more-tax-revenue-for-the-irs">Sen. Elizabeth Warren is focused on bringing in more tax revenue for the IRS</a> NPR: NPR's Steve Inskeep speaks with Democratic Sen. Elizabeth Warren of Massachusetts about the U.S. economy and rising inflation. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
  <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
