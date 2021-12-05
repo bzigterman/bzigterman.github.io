@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:38 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
+ <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
  <p class="updated_time"> 08:27 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
@@ -15,18 +19,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece: Francis Chastises West on Visit to Lesbos Migrant Camp</a> NYT: He said that because of Europe’s migrant policies, the Mediterranean, “cradle of so many civilizations, now looks like a mirror of death.” Here’s the latest. 
  <p class="updated_time"> 07:29 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
- <p class="updated_time"> 07:27 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 07:13 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600369/russia-is-planning-military-action-toward-ukraine-as-soon-as-next-year">Russia is planning military action toward Ukraine as soon as next year</a> NPR: Ayesha Rascoe speaks with Washington Post national security reporter Shane Harris about increasing tension between Russia and Ukraine. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600334/its-been-tense-between-france-and-the-u-k-since-brexit-or-maybe-since-waterloo">It's been tense between France and the U.K. since Brexit. Or maybe since Waterloo</a> NPR: Relations between the U.K. and France have taken a dive. Their leaders have had troubles getting beyond personal friction which has now become public. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
+ <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
+ <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061333587/why-orcas-have-been-lingering-longer-in-the-arctic">Why Orcas have been lingering longer in the Arctic</a> NPR: Orcas are lingering longer in the Arctic Ocean, as sea ice there shrinks. The whales often travel to access varieties of prey, but it's likely there are now more hunting opportunities in the Arctic. 
  <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333559/south-africa-is-seeing-a-4th-surge-of-covid-19-thats-being-driven-by-omicron">South Africa is seeing a 4th surge of COVID-19 that's being driven by omicron</a> NPR: South Africa's health ministry says the rate of infection is the highest since the beginning of the COVID-19 pandemic. 
- <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061333538/berlin-voted-for-the-city-to-seize-apartments-owned-by-developers-to-lower-rent-">Berlin voted for the city to seize apartments owned by developers to lower rent costs</a> NPR: Voters in Berlin, Germany, want the city to expropriate hundreds of thousands of apartments to stop speculation by big property developers — but it's too costly and probably illegal. 
  <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
