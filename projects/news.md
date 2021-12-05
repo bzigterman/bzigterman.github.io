@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:09 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 03:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59542811?at_medium=RSS&at_campaign=KARANGA">Bob Dole: Biden leads tributes to a 'dear friend'</a> BBC: Tributes have been paid across the US political divide to the late Republican leader Bob Dole. 
  <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
- <p class="updated_time"> 02:46 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/david-perdue-georgia-governor-run/index.html">David Perdue plans to challenge Brian Kemp in GOP primary for Georgia governor, reports say</a> CNN: Former GOP Sen. David Perdue plans to announce Monday that he's mounting a primary challenge against Georgia Gov. Brian Kemp, a move that will pit the ally of former President Donald Trump against the incumbent Republican governor and set up an intra-party fight in one of the nation's closely watched political battlegrounds, according to multiple reports. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
@@ -409,8 +411,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:11 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/john-roberts-supreme-court-viability-standard-analysis/index.html">John Roberts has a plan that would gut -- yet save -- Roe v. Wade. Can it work? </a> CNN: Chief Justice John Roberts came to Wednesday's abortion arguments with an idea, an idea that no other Supreme Court justice would likely want but one that a slim majority might eventually accept. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
