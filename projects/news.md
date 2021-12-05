@@ -59,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 11:55 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
- <p class="updated_time"> 11:36 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 11:12 AM CT, Dec. 04 </p> 
@@ -101,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59531437?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Cable car survivor returned to Italy after custody battle</a> BBC: Eitan Biran, the sole survivor of a cable car crash, is now in Italy after a custody battle. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
- <p class="updated_time"> 03:41 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59531167?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Ex-President Yahya Jammeh's shadow looms over poll</a> BBC: Exiled leader Yahya Jammeh - who ruled the country for 22 years - is a key figure in the poll. 
  <p class="updated_time"> 02:34 AM CT, Dec. 04 </p> 
  <a href="https://www.wsj.com/articles/arab-gulf-states-compete-for-influence-in-taliban-ruled-afghanistan-11638624895">Arab Gulf States Compete for Influence in Taliban-Ruled Afghanistan</a> WSJ: The United Arab Emirates and Saudi Arabia are reopening diplomatic missions and restarting flights as they try to match Qatar’s sway in Kabul. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -161,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese ride-hailing company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
  <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
- <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59524707?at_medium=RSS&at_campaign=KARANGA">Ethiopia closes schools to boost civil war effort</a> BBC: The government wants secondary school students to harvest crops to help frontline fighters. 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
  <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
