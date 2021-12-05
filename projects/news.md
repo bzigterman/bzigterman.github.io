@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/in-one-week-omicron-plunged-the-world-into-collective-uncertainty.html">Omicron Plunged World Into Uncertainty</a> NYT: The global pandemic has been transformed at dizzying speed in the days since scientists in South Africa announced the detection of the new, highly mutated variant. 
+ <p class="updated_time"> 07:28 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 07:28 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
+ <p class="updated_time"> 07:23 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: It is uncertain if any of the other cases involve the Omicron variant. 
  <p class="updated_time"> 06:56 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59521211?at_medium=RSS&at_campaign=KARANGA">Pacific Ocean garbage patch is immense plastic habitat</a> BBC: Researchers discover coastal species living on debris miles from their natural surroundings. 
  <p class="updated_time"> 06:50 PM CT, Dec. 04 </p> 
@@ -16,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:36 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 06:26 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV presenter is sacked over efforts to help his brother fight off sexual harassment claims. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims. 
  <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59523997?at_medium=RSS&at_campaign=KARANGA">South Africa: The rape survivor who convicts rapists</a> BBC: Rape survivor Sgt Catherine Tladi has secured several convictions for rape in South Africa's courts. 
  <p class="updated_time"> 05:34 PM CT, Dec. 04 </p> 
@@ -31,14 +39,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 03:31 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
- <p class="updated_time"> 03:14 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:06 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/austria-vienna-covid-protest.html">More Than 40,000 March in Vienna Against Coronavirus Restrictions</a> NYT: Protesters gathered for a second weekend of mass demonstrations against the country’s tough lockdown and a coming vaccine mandate. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
- <p class="updated_time"> 01:32 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
- <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
