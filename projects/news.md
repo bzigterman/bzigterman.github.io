@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:03 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 09:11 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least One Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
- <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
@@ -199,6 +199,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
+ <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
@@ -210,7 +212,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:56 PM CT, Dec. 04 </p> 
+ <p class="updated_time"> 10:27 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
