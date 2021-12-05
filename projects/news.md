@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
+ <p class="updated_time"> 09:11 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least One Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 11:36 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
- <p class="updated_time"> 11:20 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least One Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 11:12 AM CT, Dec. 04 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
- <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59516156?at_medium=RSS&at_campaign=KARANGA">Ready for power: Team Scholz promises a new Germany</a> BBC: Next week will see a handover of power from the Merkel era and this is what to expect. 
  <p class="updated_time"> 06:43 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59220247?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia Grand Prix: A race for equal rights</a> BBC: As F1 races in Saudi Arabia, can it be a positive thing for female and LGBT rights? 
  <p class="updated_time"> 06:32 PM CT, Dec. 03 </p> 
