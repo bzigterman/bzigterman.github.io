@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:14 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 02:38 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
+ <p class="updated_time"> 02:38 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 02:33 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 10:55 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island. 
- <p class="updated_time"> 10:03 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
@@ -187,6 +189,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/article/peng-shuai.html">Who, and Where, Is Peng Shuai?</a> NYT: China’s censorship of the tennis star’s #MeToo allegations has not been able to silence a chorus of concern for her safety. The Women’s Tennis Association moved to suspend all tournaments in China. 
+ <p class="updated_time"> 09:06 PM CT, Dec. 02 </p> 
+ <a href="https://www.nytimes.com/2021/12/02/world/africa/reinfections-appear-more-common-with-omicron-south-african-scientists-say.html">Reinfections appear more common with Omicron, South African scientists say.</a> NYT: The scientists cautioned that much about the variant remains unknown, but as Omicron drives a surge of new cases in South Africa, they are gaining more insight into it. 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/virus-omicron-variant-reinfection.html">Omicron Variant Reinfects People Who Have Had the Coronavirus</a> NYT: Evidence from South Africa, where the Omicron variant already dominates, shows a high rate of reinfection of people who have already had the coronavirus. 
  <p class="updated_time"> 06:32 PM CT, Dec. 02 </p> 
@@ -195,10 +199,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
- <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
- <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
 
 
 </details>
@@ -431,6 +431,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
