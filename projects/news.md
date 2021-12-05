@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:26 PM CT, Dec. 05 </p> 
+ <p class="updated_time"> 12:41 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
  <p class="updated_time"> 12:22 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
@@ -62,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:48 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538540?at_medium=RSS&at_campaign=KARANGA">French climber handed Mont Blanc gems after 2013 find</a> BBC: The stones are believed to be from an Air India plane which crashed into the mountain in 1966. 
  <p class="updated_time"> 04:35 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/omicron-may-cause-less-severe-covid-19-small-south-african-study-finds-11638714444">Omicron May Cause Less Severe Covid-19, Small Study Finds</a> WSJ: Scientists caution it is too early to be sure of the variant’s severity, as more cases are detected in Europe and the U.K. tightens travel restrictions. 
+ <a href="https://www.wsj.com/articles/omicron-may-cause-less-severe-covid-19-small-south-african-study-finds-11638714444">Omicron May Cause Less Severe Covid-19, Study Finds</a> WSJ: Scientists caution it is too early to be sure of the variant’s severity, as more cases are detected in Europe and the U.K. tightens travel restrictions. 
  <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 03:03 AM CT, Dec. 05 </p> 
