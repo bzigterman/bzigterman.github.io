@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:03 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59542811?at_medium=RSS&at_campaign=KARANGA">Bob Dole: Biden leads tributes to a 'dear friend'</a> BBC: Tributes have been paid across the US political divide to the late Republican leader Bob Dole. 
  <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:52 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Veteran Republican leader Bob Dole dies</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Obituary: Bob Dole, WWII veteran and Republican stalwart</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
  <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 11:05 AM CT, Dec. 05 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
  <p class="updated_time"> 10:23 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
+ <p class="updated_time"> 10:18 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327">China Seeks First Military Base on Africa's Atlantic Coast</a> WSJ: Classified American intelligence reports suggest China intends to establish a military installation in Equatorial Guinea, a move that would give Beijing its first permanent naval presence on the Atlantic Ocean, according to U.S. officials. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
- <p class="updated_time"> 06:45 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327">China Seeks First Military Base on Africa's Atlantic Coast</a> WSJ: Classified American intelligence reports suggest China intends to establish a military installation in Equatorial Guinea, a move that would give Beijing its first permanent naval presence on the Atlantic Ocean, according to U.S. officials. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 11:05 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59531173?at_medium=RSS&at_campaign=KARANGA">Bus carrying choir members plunges into Kenya river</a> BBC: At least 23 die as a bus taking a church choir group to a wedding plunges into a flooded river. 
- <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
@@ -214,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">Biden, Obama and Other Leaders React to Bob Dole's Death</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
+ <p class="updated_time"> 03:11 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 02:39 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/virginia-robert-lee-statue-pedestal-523773">Virginia’s governor to remove Lee statue pedestal, transfer land to city</a> Politico: The Lee statue, a one-of-a-kind bronze equestrian piece installed in 1890, was hauled away earlier this year. 
  <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
@@ -224,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/biden-partisanship-analysis/index.html">Biden ran on bringing people together. He's failed so far</a> CNN: President Joe Biden ran on a campaign of bringing people together. 
  <p class="updated_time"> 01:03 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
- <p class="updated_time"> 12:53 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
@@ -381,8 +383,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/biden-omicron-covid-testing.html">Biden Vows to Fight Omicron With ‘Science and Speed’</a> NYT: The president’s plan shifts away from a near-singular focus on vaccination, as new cases of the variant have emerged in the United States. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
- <p class="updated_time"> 08:11 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/havana-syndrome.html">Havana Syndrome Mystery: Review Finds No Answers</a> NYT: Some officials remain convinced Russia is involved, but so far there is no evidence pointing to a particular adversary and no one has detected microwaves or other possible weapons. 
  <p class="updated_time"> 07:36 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/biden-omicron-covid-policies-523696">Biden takes the fight to Omicron. But the toolkit is growing bare.</a> Politico: The policies previewed by the president are continuations or modest expansions of existing initiatives. And he’s yet to embrace the further reaching proposals. 
  <p class="updated_time"> 07:19 PM CT, Dec. 02 </p> 
