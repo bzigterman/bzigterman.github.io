@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/us/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
+ <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
  <p class="updated_time"> 08:38 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
- <p class="updated_time"> 06:49 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/indonesian-volcano-erupts-killing-more-than-a-dozen-11638694504">Indonesian Volcano Erupts, Killing More Than a Dozen</a> WSJ: Mount Semeru, on the Indonesian island of Java, sent billowing hot clouds and volcanic ash toward nearby villages. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
- <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/in-one-week-omicron-plunged-the-world-into-collective-uncertainty.html">Omicron Plunged World Into Uncertainty</a> NYT: The global pandemic has been transformed at dizzying speed in the days since scientists in South Africa announced the detection of the new, highly mutated variant. 
  <p class="updated_time"> 06:56 PM CT, Dec. 04 </p> 
