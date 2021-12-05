@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59521211?at_medium=RSS&at_campaign=KARANGA">Pacific Ocean garbage patch is immense plastic habitat</a> BBC: Researchers discover coastal species living on debris miles from their natural surroundings. 
+ <p class="updated_time"> 06:50 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59517501?at_medium=RSS&at_campaign=KARANGA">Why France faces so much anger in West Africa</a> BBC: Despite engaging better with the African continent recently, the ex-colonial power faces a backlash. 
+ <p class="updated_time"> 06:48 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59506339?at_medium=RSS&at_campaign=KARANGA">Mandatory vaccinations: Three reasons for and against</a> BBC: Blanket vaccination mandates are on the agenda but do they work and what are their costs? 
+ <p class="updated_time"> 06:36 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
+ <p class="updated_time"> 06:26 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV presenter is sacked over efforts to help his brother fight off sexual harassment claims. 
+ <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59523997?at_medium=RSS&at_campaign=KARANGA">South Africa: The rape survivor who convicts rapists</a> BBC: Rape survivor Sgt Catherine Tladi has secured several convictions for rape in South Africa's courts. 
  <p class="updated_time"> 05:34 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
  <p class="updated_time"> 04:28 PM CT, Dec. 04 </p> 
@@ -16,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:02 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
  <p class="updated_time"> 03:55 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabs Israeli in East Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
+ <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 03:31 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
  <p class="updated_time"> 03:14 PM CT, Dec. 04 </p> 
@@ -27,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 01:32 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
- <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to hold call amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
@@ -67,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html">Omicron Is Here. Should You Cancel Your Trip?</a> NYT: Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
- <p class="updated_time"> 07:50 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59531442?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Macron reveals plans for joint European mission</a> BBC: The French president says a number of European nations are working on a joint diplomatic mission. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1061483664/goodbye-ceremony-for-germanys-chancellor-merkel-featured-some-telling-music-choi">Goodbye ceremony for Germany's Chancellor Merkel featured some telling music choices</a> NPR: Departing German Chancellor Angela Merkel chose three songs for her farewell ceremony this week. One of them, an East German hit from the '70s, caused some surprise in Berlin. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -99,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
- <p class="updated_time"> 08:03 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59528857?at_medium=RSS&at_campaign=KARANGA">Bolsonaro: Brazilian Supreme Court opens investigation into vaccine comments</a> BBC: Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids. 
  <p class="updated_time"> 06:47 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516156?at_medium=RSS&at_campaign=KARANGA">Ready for power: Team Scholz promises a new Germany</a> BBC: Next week will see a handover of power from the Merkel era and this is what to expect. 
  <p class="updated_time"> 06:43 PM CT, Dec. 03 </p> 
@@ -149,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 11:47 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061219965/a-top-chinese-tech-company-delists-from-the-nyse-just-months-after-its-ipo">A top Chinese ride-hailing company delists from the NYSE just months after its IPO</a> NPR: The announcement reflects the rapid reversal in Didi Chuxing's fortunes as China goes on a regulatory blitz targeting some of the country's biggest private technology firms. 
- <p class="updated_time"> 11:40 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59524527?at_medium=RSS&at_campaign=KARANGA">Italian man tries to dodge Covid jab using fake arm</a> BBC: The man is so keen to get a vaccine pass he turns up with a plastic arm, but doctors aren't fooled. 
  <p class="updated_time"> 11:34 AM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-59526252?at_medium=RSS&at_campaign=KARANGA">Covid: Don't panic about Omicron variant, WHO says</a> BBC: The World Health Organization urges people to be cautious and prepare for the Omicron variant. 
  <p class="updated_time"> 11:28 AM CT, Dec. 03 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061176667/south-korea-omicron-cases-restrictions">South Korea tightens restrictions after omicron is detected and cases surge</a> NPR: These are the first adjustments to social measures since the country began a long-awaited transition to a new phase in pandemic response in early November and lifted most of the restrictions. 
  <p class="updated_time"> 08:35 AM CT, Dec. 03 </p> 
  <a href="https://www.wsj.com/articles/omicron-cases-at-norway-christmas-party-provide-clues-on-new-variants-spread-11638554033">Omicron Cases at Norway Christmas Party Provide Clues on New Variant's Spread</a> WSJ: The event at an upscale Oslo restaurant included about 120 people, several of whom had just returned from South Africa. 
- <p class="updated_time"> 07:43 AM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59517496?at_medium=RSS&at_campaign=KARANGA">South Africa battles Omicron fear and vaccine myths</a> BBC: The new variant threatens to overshadow the holiday season as campaigners fight vaccine fears. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
  <p class="updated_time"> 04:50 AM CT, Dec. 03 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/world/europe/angela-merkel-farewell-germany.html">Angela Merkel Bids Farewell as Germany’s Chancellor</a> NYT: With a parade of torch-bearing soldiers and a 1970s hit from the Communist East, Germany’s Angela Merkel bid farewell as chancellor. She leaves office next week. 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
- <p class="updated_time"> 11:35 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-59504516?at_medium=RSS&at_campaign=KARANGA">The 'kind heart' who gave an Afghan family a new home</a> BBC: An interpreter who had to flee Afghanistan is given a new home by a woman who was moved by his plight. 
  <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 10:23 PM CT, Dec. 02 </p> 
@@ -193,20 +193,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/02/1061053897/elle-magazine-ban-fur-from-publications">Elle magazine says it will ban fur from its publications worldwide</a> NPR: So far, 13 editions globally have implemented the ban, with 20 more set to do so by January 1. The magazine says the decision reflects changing tastes in fashion. 
  <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
- <p class="updated_time"> 06:12 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59397897?at_medium=RSS&at_campaign=KARANGA">Broome: Diving the remnants of a WW2 attack on Australia</a> BBC: A WW2 air raid on Broome killed scores of people - historians say it should be better remembered. 
- <p class="updated_time"> 06:11 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59409084?at_medium=RSS&at_campaign=KARANGA">Boxing Day: Festive film debut for Little Mix's Leigh-Anne Pinnock</a> BBC: Boxing Day, the first British Christmas rom-com led by an all-black cast, is released Friday 3 December. 
  <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
- <p class="updated_time"> 05:07 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59514304?at_medium=RSS&at_campaign=KARANGA">Germany: Angela Merkel's military farewell features punk singer's hit</a> BBC: A ceremony has been held for the German chancellor, who is due to step down after 16 years in office. 
  <p class="updated_time"> 04:38 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/americas/marci-submarine-espionage.html">Mauricio Macri Is Charged With Illegal Surveillance </a> NYT: The former leader has called the case politically motivated and denies that his government spied on relatives of sailors who died in a submarine accident in 2017. 
  <p class="updated_time"> 03:23 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/germany-unvaccinated-restrictions.html">Germany Requires Vaccines for Store and Restaurant Customers</a> NYT: Facing a huge coronavirus surge, Chancellor Angela Merkel, her successor, Olaf Scholz, and state governors agreed on tough new restrictions on people who have not been inoculated. 
- <p class="updated_time"> 02:43 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/world/europe/austria-kurz-successor-resignation.html">Double Resignation Shakes Austrian Politics in Aftermath of Scandal</a> NYT: Sebastian Kurz, a former chancellor under investigation for influence-buying and corruption, said he was quitting politics. Within hours, his successor and ally also resigned, after only two months on the job. 
  <p class="updated_time"> 02:04 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/europe/french-election-immigration.html">As French Election Looms, Candidates Stake Out Tough Positions on Migrants</a> NYT: With a presidential election looming, French presidential hopefuls are hardening their positions against immigration even as other countries compete for migrant workers. 
 
@@ -216,10 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” he said in a statement. 
- <p class="updated_time"> 05:11 PM CT, Dec. 04 </p> 
+ <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
+ <p class="updated_time"> 06:20 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The cable news network said it had “terminated him, effective immediately,” a move that came four months after Andrew Cuomo resigned as governor of New York. 
+ <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” the anchor said in a statement. 
  <p class="updated_time"> 04:10 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
@@ -258,7 +252,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/us-intelligence-finds-russia-planning-ukraine-offensive-523760">U.S. intelligence finds Russia planning Ukraine offensive</a> Politico: There are signs that the White House and Kremlin are close to arranging a conversation next week between Biden and Putin. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Releases a Doctor’s Note: It’s Just a Cold</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
+ <a href="https://www.nytimes.com/2021/12/03/us/politics/biden-sick-cold.html">Biden Catches a Cold and Blames His Grandson</a> NYT: President Biden’s voice sounded noticeably hoarse during the remarks about a Labor Department jobs report, and he coughed at times. He blamed it on his grandson. 
  <p class="updated_time"> 08:39 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/biden-ukraine-russia-putin/index.html">Biden says he's preparing to act if Putin does 'what people are worried he may do'</a> CNN: President Joe Biden said Friday he is preparing a "set of initiatives" to make it more difficult for Russian President Vladimir Putin to "do what people are worried he may do" -- namely, having Russia invade Ukraine. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
@@ -351,8 +345,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/afghan-ambassador-adela-raz.html">With No Resources, Authority or Country, Afghan Ambassador Presses On</a> NYT: Adela Raz arrived in Washington just before her country fell and has struggled to keep her embassy going. A dinner with U.S. veterans was a priority. 
  <p class="updated_time"> 10:49 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/joe-manchin-biden-build-back-better/index.html">Manchin skeptical Build Back Better can pass this year, as doubts grow it'll get done by Christmas</a> CNN: Democratic Sen. Joe Manchin is casting skepticism in conversations with senators that the Build Back Better bill can pass the Senate this year, potentially delivering a blow to Senate Majority Leader Chuck Schumer's push to get the bill approved by Christmas, according to two sources familiar with the West Virginia senator's remarks. 
- <p class="updated_time"> 10:10 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/gateway-pundit-defamation-lawsuit.html">Two Election Workers Targeted by Pro-Trump Media Sue for Defamation</a> NYT: The two Georgia workers were falsely accused of manipulating ballots by Trump allies and right-wing news sites. Election officials said the workers did nothing wrong. 
  <p class="updated_time"> 09:24 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html">Government Shutdown Averted as Congress Passes Spending Bill</a> NYT: The vote to fund the government through mid-February came after lawmakers staved off a Republican threat to force a shutdown over vaccine mandates. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
@@ -441,6 +433,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/omicron-covid-testing-labs-523542">Testing labs brace for first U.S. cases of Omicron</a> Politico: The U.S. surveillance system is in a far stronger position than when the Covid-19 Alpha variant emerged last year. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
+ <p class="updated_time"> 12:44 PM CT, Nov. 30 </p> 
+ <a href="https://www.nytimes.com/2021/11/30/us/politics/colombia-farc-us-terrorist-list.html">U.S. Removes Colombia’s FARC Rebel Group From Terrorist List</a> NYT: The move is a Biden administration effort to support the country’s fragile 2016 peace agreement. 
  <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Nov. 30 </p> 
