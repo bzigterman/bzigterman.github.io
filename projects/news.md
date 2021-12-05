@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:24 PM CT, Dec. 05 </p> 
@@ -27,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Veteran Republican leader Bob Dole dies</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
  <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
+ <p class="updated_time"> 11:05 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59538590?at_medium=RSS&at_campaign=KARANGA">Trump social media firm says it has raised $1bn</a> BBC: The former US president is working to launch a social media app called Truth Social early next year. 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
  <p class="updated_time"> 10:23 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
- <p class="updated_time"> 10:04 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59517501?at_medium=RSS&at_campaign=KARANGA">Why France faces so much anger in West Africa</a> BBC: Despite engaging better with the African continent recently, the ex-colonial power faces a backlash. 
  <p class="updated_time"> 06:48 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59506339?at_medium=RSS&at_campaign=KARANGA">Mandatory vaccinations: Three reasons for and against</a> BBC: Blanket vaccination mandates are on the agenda but do they work and what are their costs? 
- <p class="updated_time"> 06:36 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59533689?at_medium=RSS&at_campaign=KARANGA">Biden and Putin to talk amid Ukraine invasion fears</a> BBC: On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine. 
  <p class="updated_time"> 06:26 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59536519?at_medium=RSS&at_campaign=KARANGA">Chris Cuomo: CNN fires presenter over help he gave politician brother</a> BBC: The star TV host is sacked over efforts to help his brother defend himself against sexual harassment claims. 
  <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
