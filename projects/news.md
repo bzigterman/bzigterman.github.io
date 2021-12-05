@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 10:55 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Dozens injured as residents flee huge ash cloud from Mt Semeru</a> BBC: Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Rescuers race to find survivors of Indonesia eruption</a> BBC: At least 13 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 09:12 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
@@ -287,8 +289,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/iran-talks-us-europe-pessimistic/index.html">US, European allies sound a pessimistic note as Iran nuclear talks break in Vienna</a> CNN: US and European officials sounded a pessimistic note Friday as the latest round of talks to revive the Iran nuclear deal concluded, saying that Tehran's maximalist demands and push to unwind previously agreed upon points are leaving them disappointed and concerned. 
  <p class="updated_time"> 02:45 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/top-national-guard-officer-tests-positive-for-covid-523722">Top National Guard officer tests positive for Covid</a> Politico: In addition, the Space Force chief canceled a public appearance for Saturday after being exposed to multiple people with Covid. 
- <p class="updated_time"> 02:12 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/appeals-court-suit-trump-rape-denial-523717">Appeals court mulls suit against Trump over rape denial</a> Politico: The Biden administration Justice Department deplores the former president's language, but backs his effort to shut down E. Jean Carroll's lawsuit. 
  <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Dec. 03 </p> 
@@ -425,8 +425,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
- <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:52 PM CT, Nov. 30 </p> 
