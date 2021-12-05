@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Latest News: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 09:37 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 09:04 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
- <p class="updated_time"> 08:56 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece: Francis Chastises West on Visit to Lesbos Migrant Camp</a> NYT: He said that because of Europe’s migrant policies, the Mediterranean, “cradle of so many civilizations, now looks like a mirror of death.” Here’s the latest. 
  <p class="updated_time"> 08:54 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
@@ -43,8 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 04:48 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538540?at_medium=RSS&at_campaign=KARANGA">French climber handed Mont Blanc gems after 2013 find</a> BBC: The stones are believed to be from an Air India plane which crashed into the mountain in 1966. 
- <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
+ <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
  <p class="updated_time"> 12:41 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-calls-on-europe-to-welcome-migrants-during-refugee-camp-visit-11638704461">Pope Francis Calls On Europe to Welcome Migrants</a> WSJ: The pope met with asylum seekers on the Greek island of Lesbos, on the fourth day of a five-day visit to Greece and Cyprus that has highlighted migration, one of the signature issues of the current pontificate. 
- <p class="updated_time"> 11:33 PM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
  <p class="updated_time"> 09:55 PM CT, Dec. 04 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
  <p class="updated_time"> 09:51 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/fauci-south-african-travel-ban-523766">Fauci: U.S. reviewing its South African travel ban and hopes to lift it soon</a> Politico: “When the ban was put on, it was put to give us time to figure out just what is going on," Biden's chief medical adviser told CNN. 
- <p class="updated_time"> 09:11 AM CT, Dec. 05 </p> 
+ <p class="updated_time"> 09:25 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Rep. Omar 'very confident' Pelosi will take action on Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
