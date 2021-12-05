@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:04 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 08:56 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece: Francis Chastises West on Visit to Lesbos Migrant Camp</a> NYT: He said that because of Europe’s migrant policies, the Mediterranean, “cradle of so many civilizations, now looks like a mirror of death.” Here’s the latest. 
  <p class="updated_time"> 08:54 AM CT, Dec. 05 </p> 
@@ -99,12 +101,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 11:05 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59531173?at_medium=RSS&at_campaign=KARANGA">Bus carrying choir members plunges into Kenya river</a> BBC: At least 23 die as a bus taking a church choir group to a wedding plunges into a flooded river. 
- <p class="updated_time"> 11:04 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59520232?at_medium=RSS&at_campaign=KARANGA">Rare turtle washes up 4,000 miles from home</a> BBC: Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico. 
  <p class="updated_time"> 10:40 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/blinken-lavrov-russia-ukraine.html">Blinken Trades Warnings With Russia’s Lavrov Over Ukraine, NATO</a> NYT: The secretary of state said that President Biden is ‘likely’ to speak soon with Russian President Vladimir V. Putin. 
- <p class="updated_time"> 09:57 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59532845?at_medium=RSS&at_campaign=KARANGA">Michigan school shooting: Suspect's parents deny involuntary manslaughter</a> BBC: Bail is set at $1m for the couple arrested in Detroit after failing to attend court on Friday. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 09:53 AM CT, Dec. 04 </p> 
@@ -212,8 +210,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
+ <p class="updated_time"> 10:10 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
  <p class="updated_time"> 09:51 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/fauci-south-african-travel-ban-523766">Fauci: U.S. reviewing its South African travel ban and hopes to lift it soon</a> Politico: “When the ban was put on, it was put to give us time to figure out just what is going on," Biden's chief medical adviser told CNN. 
+ <p class="updated_time"> 09:11 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Rep. Omar 'very confident' Pelosi will take action on Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:25 AM CT, Dec. 05 </p> 
@@ -309,12 +313,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
- <p class="updated_time"> 12:48 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/virginia-gop-election-sweep-523714">Virginia GOP completes sweep of elections with state House win</a> Politico: A three-judge panel overseeing a recount in a close Virginia Beach state House race upheld the Republican candidate’s victory on Friday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb">Congress avoids a government shutdown — but a long to-do list looms</a> NPR: Lawmakers are juggling must-pass items, like addressing the nation's borrowing authority and an annual defense authorization package, along with major political priorities for Democrats. 
- <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061214253/bob-inglis-how-i-changed-my-mind-about-climate-change">Bob Inglis: How I changed my mind about climate change</a> NPR: Former GOP congressman Bob Inglis used to believe climate change wasn't real. But after a candid conversation with his children and a hard look at the evidence, he began to change his mind. 
  <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
@@ -371,8 +371,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/02/us/politics/asylum-seekers-immigration-mexico-usa.html">Mexico to Allow U.S. ‘Remain in Mexico’ Asylum Policy to Resume</a> NYT: A judge had ordered the Biden administration to restart the Trump-era program, but doing so required cooperation from Mexico, which had been reluctant. 
  <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/us/politics/immigration-public-health-rule-mexico.html">Many Migrants Are Quickly Expelled, but Others Can Stay. Here’s Why.</a> NYT: The Biden administration is fighting to preserve Title 42, a public health rule that turns back families at the border during the pandemic. But some have been allowed to stay in the United States, despite the rule. 
- <p class="updated_time"> 05:54 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/dhs-security-directives-rail-aviation-industries/index.html">TSA will force train and plane operators to tell the feds when they've been hacked</a> CNN: US airlines and railroads will have to report cyber breaches to the federal government, the Biden administration said Thursday, as officials warn of increasing danger from attempted hacks. 
  <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:18 PM CT, Dec. 02 </p> 
