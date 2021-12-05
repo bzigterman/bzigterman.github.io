@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:45 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">Pope in Greece Latest News: Francis Chastises West on Visit to Migrant Camp</a> NYT: On the island of Lesbos, he said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 10:08 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/05/world/pope-francis-greece-migrants">What Happened on the Pope’s Trip to Greece</a> NYT: Visiting a camp on the island of Lesbos, Francis said that because of Europe’s moves to deter and block migrants, “the Mediterranean Sea, cradle of so many civilizations, now looks like a mirror of death.” 
+ <p class="updated_time"> 10:04 AM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 09:37 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 09:04 AM CT, Dec. 05 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061607883/pope-francis-lesbos-greece-refugee-crisis">Pope Francis returns to Lesbos, Greece and pleads for action on migrant crisis</a> NPR: Francis returned to Lesbos, an island that has been at the heart of a massive wave of migration to Europe, and called on nations to end "this shipwreck of civilization." 
- <p class="updated_time"> 07:29 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59532251?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volcano rescuers face ash as high as rooftops</a> BBC: At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island. 
  <p class="updated_time"> 07:13 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
@@ -210,10 +210,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/space-force-china-military-523769">U.S. Space Force general warns of China's growing military space potential</a> Politico: “I don't think it's a foregone conclusion they will be the leader in space at the end of the decade, but they are on an incredible pace,” he said. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 10:10 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
+ <p class="updated_time"> 09:57 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 09:51 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/fauci-south-african-travel-ban-523766">Fauci: U.S. reviewing its South African travel ban and hopes to lift it soon</a> Politico: “When the ban was put on, it was put to give us time to figure out just what is going on," Biden's chief medical adviser told CNN. 
  <p class="updated_time"> 09:25 AM CT, Dec. 05 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate">Pro-Trump counties now have far higher COVID death rates. Misinformation is to blame</a> NPR: An analysis by NPR shows that since the vaccine rollout, counties that voted heavily for Donald Trump have had more than twice the COVID mortality rates of those that voted for Joe Biden. 
  <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
- <p class="updated_time"> 12:18 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">CNN Fires Chris Cuomo Over Role in Andrew Cuomo's Scandal</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 10:22 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/edward-shames-easy-company-world-war-ii-band-of-brothers/index.html">Army Col. Edward Shames, the last remaining member of World War II's 'Band of Brothers,' dies at 99</a> CNN: Col. Edward Shames, the last surviving officer of the historic World War II parachute infantry regiment of the US Army known as Easy Company, died Friday at the age of 99. 
  <p class="updated_time"> 09:36 PM CT, Dec. 04 </p> 
@@ -407,8 +409,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 03:52 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-wave-travel-restrictions-523614">Omicron wave: How to do travel restrictions right this time</a> Politico: The American public loves bans on foreigners, but public health experts say they’re often a blunt and ineffective tool. 
- <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
