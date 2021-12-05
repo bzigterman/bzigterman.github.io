@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 08:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/in-one-week-omicron-plunged-the-world-into-collective-uncertainty.html">Omicron Plunged World Into Uncertainty</a> NYT: The global pandemic has been transformed at dizzying speed in the days since scientists in South Africa announced the detection of the new, highly mutated variant. 
- <p class="updated_time"> 07:23 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: It is uncertain if any of the other cases involve the Omicron variant. 
  <p class="updated_time"> 06:56 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59521211?at_medium=RSS&at_campaign=KARANGA">Pacific Ocean garbage patch is immense plastic habitat</a> BBC: Researchers discover coastal species living on debris miles from their natural surroundings. 
  <p class="updated_time"> 06:50 PM CT, Dec. 04 </p> 
