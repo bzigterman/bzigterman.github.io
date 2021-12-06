@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
+ <p class="updated_time"> 09:46 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
@@ -16,9 +20,9 @@ permalink: /projects/news/
  <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 09:28 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 09:28 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 09:20 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
  <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
  <p class="updated_time"> 09:02 AM CT, Dec. 06 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
- <p class="updated_time"> 04:33 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59546478?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell and Bette Midler pick up Kennedy Center Honors</a> BBC: The legendary Canadian singer makes a rare public appearance at a ceremony hosted by Joe Biden. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 01:40 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/supply-chains-in-southeast-asia-are-less-vulnerable-after-delta-driven-disruptions-11638794416">Supply Chains Are Now Less Vulnerable in Southeast Asia</a> WSJ: Countries like Vietnam and Malaysia have learned from recent experience and are better prepared for fresh waves of the Covid-19 virus, economists and factory operators say. 
- <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 01:23 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China's Central Bank Cuts Reserve Requirement Ratio for Banks</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
@@ -69,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/citing-omicron-south-korea-tells-unvaccinated-teens-to-get-covid-19-shots-or-face-restrictions-11638786318">Citing Omicron, South Korea Tells Unvaccinated Teens to Get Covid-19 Shots or Face Restrictions</a> WSJ: The Omicron variant has prompted South Korea to accelerate efforts to vaccinate schoolchildren, and penalize those who don’t comply. 
  <p class="updated_time"> 10:41 PM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
- <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Ray Dalio: US billionaire says China comments misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
@@ -210,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday. 
  <p class="updated_time"> 09:06 AM CT, Dec. 06 </p> 
@@ -242,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-perdue-seeks-to-unseat-georgias-republican-governor">Trump ally Perdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1057344561/anti-vaccine-activists-political-conference-trump-republicans">Inside the growing alliance between anti-vaccine activists and pro-Trump Republicans</a> NPR: As the U.S. heads into midterm elections next year, the political right and the anti-vaccine movement are drawing ever-closer together — potentially at the cost of thousands of American lives. 
- <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 03:42 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
