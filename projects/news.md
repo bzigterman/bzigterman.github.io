@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896242/afghanistan-is-struggling-without-aid-but-unfreezing-funds-to-the-country-is-tri">Afghanistan is struggling without aid, but unfreezing funds to the country is tricky</a> NPR: Afghanistan faces a humanitarian crisis. It had been relying on foreign aid, much of which has been cut since the Taliban took over in August. There are now shortages of money, food and health care. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896214/biden-is-set-to-have-a-video-call-with-putin-on-tuesday-heres-whats-at-stake">Biden is set to have a video call with Putin on Tuesday. Here's what's at stake</a> NPR: President Biden is having a video call on Tuesday with Russian President Vladimir Putin amid growing concern about Russian troops amassed on the Ukraine border. 
  <p class="updated_time"> 03:07 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 02:48 PM CT, Dec. 06 </p> 
@@ -105,6 +111,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
+ <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
@@ -183,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483629/omicron-covid-19-cases-spreading-at-alarming-rate-in-south-africa">Omicron COVID-19 cases spreading at alarming rate in South Africa</a> NPR: South Africa's major cities are seeing a dramatic rise in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1061483601/greece-and-austria-are-mandating-covid-19-vaccinations-and-fining-people-who-ref">Greece and Austria are mandating COVID-19 vaccinations and fining people who refuse</a> NPR: Greece, where 62 percent of people are fully vaccinated, has started collecting monthly fines from those who refuse the shots. Austria is also taking similar measures. 
- <p class="updated_time"> 06:44 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
- <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -199,10 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/italy-vaccine-fake-arm.html">Man in Italy Tries to Get Vaccinated in a Fake Arm</a> NYT: The stratagem was the latest and perhaps most original episode of vaccine evasion in the struggle between Italy’s government and the country’s anti-vaccine faction. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/iran-nuclear-negotiations-europeans.html">Iran Nuclear Talks Head for Collapse Unless Tehran Shifts, Europeans Say</a> NYT: In Vienna talks, the new hard-line Iranian government has staked out positions that are incompatible with the 2015 deal, European negotiators say. 
- <p class="updated_time"> 12:56 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
- <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
 
 
 </details>
@@ -212,12 +212,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
+ <p class="updated_time"> 03:28 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
+ <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896235/doj-is-suing-texas-saying-its-redistricting-plans-put-some-voters-at-a-disadvant">DOJ is suing Texas, saying its redistricting plans put some voters at a disadvantage</a> NPR: The Justice Department is suing Texas over its redistricting plans, saying the state is disadvantaging the Latino and Black voters responsible for most growth in the population over the last decade. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896228/new-york-york-will-have-the-nations-1st-vaccine-mandate-for-private-sector-emplo">New York York will have the nation's 1st vaccine mandate for private sector employers</a> NPR: New York City Mayor Bill deBlasio has announced what he called a "pre-emptive strike" before the winter — a vaccine mandate for private sector employers. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896214/biden-is-set-to-have-a-video-call-with-putin-on-tuesday-heres-whats-at-stake">Biden is set to have a video call with Putin on Tuesday. Here's what's at stake</a> NPR: President Biden is having a video call on Tuesday with Russian President Vladimir Putin amid growing concern about Russian troops amassed on the Ukraine border. 
+ <p class="updated_time"> 03:10 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061873285/build-back-better-biden-congress-lower-prescription-drug-costs">Biden calls on Congress to pass his Build Back Better bill to lower drug costs</a> NPR: The roughly $2 trillion House-passed measure awaits Senate action. The Senate Majority Leader says he'd like to try to finish by Christmas. 
  <p class="updated_time"> 03:06 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
+ <p class="updated_time"> 03:00 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/microsoft-china-hacking-court-order/index.html">Court order seizes websites used by China-based hacking group, Microsoft says</a> CNN: Microsoft used a court order to seize dozens of websites that a China-based hacking group was using for a cyber-espionage campaign against organizations in the US and 28 other countries, the tech giant said Monday. 
  <p class="updated_time"> 02:24 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
- <p class="updated_time"> 02:10 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
  <p class="updated_time"> 02:07 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state Thursday at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
@@ -242,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/justice-department-texas-voting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 01:24 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/combat-drones-air-force-kendall-523812">Two new secret combat drones are in the works, Air Force secretary says</a> Politico: The disclosure is the strongest indication yet that the service is banking on autonomous weapon systems to give it an edge in the increasingly fierce military competition with China. 
- <p class="updated_time"> 01:18 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
@@ -315,9 +325,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">Six Memorable Quotes From Bob Dole, Known for Sarcastic Wit</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
  <p class="updated_time"> 06:02 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Witty and to the Point, Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
- <p class="updated_time"> 04:34 PM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/bob-dole-dies/index.html">Bob Dole, giant of the Senate and 1996 Republican presidential nominee, dies </a> CNN: Former Republican Senator and presidential candidate Bob Dole died Sunday morning, according to a statement released by his family. 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Bob Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
@@ -348,18 +356,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600376/communities-of-color-face-disproportionate-exposure-to-pollution">Communities of color face disproportionate exposure to pollution</a> NPR: Ayesha Rascoe speaks with Michael S. Regan, the Environmental Protection Agency Administrator, about the Biden administration's approach to environmental justice. 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061600362/house-expects-to-hear-from-roger-stone-alex-jones-and-michael-flynn-about-jan-6">House expects to hear from Roger Stone, Alex Jones and Michael Flynn about Jan. 6</a> NPR: NPR's Ayesha Rascoe asks journalist Marcy Wheeler about developments in the investigation into the January 6 attack on the Capitol, and the different types of information coming out. 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061600327/cnn-fires-chris-cuomo-for-involvement-in-his-brothers-sexual-misconduct-allegati">CNN fires Chris Cuomo for involvement in his brother's sexual misconduct allegations</a> NPR: CNN has fired anchor Chris Cuomo over his involvement in Gov. Andrew Cuomo's attempts to overcome allegations of sexual misconduct. 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061600320/politics-chat-biden-faces-handling-another-winter-of-the-pandemic">Politics chat: Biden faces handling another winter of the pandemic</a> NPR: The pandemic and its economic effects are a political weight on President Biden. 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
- <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate">Pro-Trump counties now have far higher COVID death rates. Misinformation is to blame</a> NPR: An analysis by NPR shows that since the vaccine rollout, counties that voted heavily for Donald Trump have had more than twice the COVID mortality rates of those that voted for Joe Biden. 
  <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
