@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:14 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 05:21 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
@@ -208,14 +208,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
  <p class="updated_time"> 05:48 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/ndaa-women-draft-dropped-523829">Lawmakers drop proposal to add women to the draft</a> Politico: The provision had been part of the defense policy bill. 
+ <p class="updated_time"> 05:28 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes to Quit House, Take Over Trump's Media Company</a> NYT: The California Republican, who emerged as one of Donald J. Trump’s most pugnacious defenders, chose a Trump media firm over a potentially powerful new post in Congress. 
+ <p class="updated_time"> 05:28 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">CNN Exclusive: Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 05:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-drug-prices.html">Biden Focuses on How Spending Bill Would Lower Drug Costs</a> NYT: President Biden emphasized how the bill would lower prescription drug costs, an issue his administration hopes will build support for the broader package. 
  <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
  <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/max-rose-running-again-congress-new-york/index.html">Former Rep. Max Rose to run again for the House seat in New York he lost in 2020</a> CNN: Former Democratic Rep. Max Rose announced he will run again for the US House seat he lost in 2020 after a single term to Republican Rep. Nicole Malliotakis, who serves the New York district that includes Staten Island and some of Brooklyn. 
- <p class="updated_time"> 04:59 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">CNN Exclusive: Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
  <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896249/trump-has-backed-former-sen-david-perdue-for-georgia-governor">Trump has backed former Sen. David Perdue for Georgia governor</a> NPR: Former Georgia Sen. David Perdue has launched a bid for governor, challenging sitting Gov. Brian Kemp in the GOP primary with the ultimate aim of defeating Democrat Stacey Abrams. 
- <p class="updated_time"> 03:39 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/emmett-till-case-closed/index.html">Justice Department closes investigation into Emmett Till killing after failing to prove key witness lied</a> CNN: The Justice Department has officially closed its investigation into the infamous of killing Emmett Till for a second time, two sources familiar with the investigation said, leaving only more questions after a potentially significant claim from one of the last living witnesses led investigators on a fresh hunt for evidence. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/arts/music/kennedy-center-honors.html">A Kennedy Center Honors With the Presidential Box Used as Intended</a> NYT: Former President Donald J. Trump did not attend the tribute, but President Biden was on hand as Bette Midler, Joni Mitchell, Berry Gordy, Justino Díaz and Lorne Michaels were honored. 
  <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump shell company faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
- <p class="updated_time"> 10:48 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/chuck-schumer-build-back-better/index.html">Schumer details plan to pass Biden bill by Christmas amid growing skepticism about timeline</a> CNN: Senate Majority Leader Chuck Schumer is still insisting that President Joe Biden's Build Back Better bill can pass his chamber by Christmas -- even as doubts grow that such a timeline is achievable given the procedures of the Senate and the lingering differences among Democrats. 
  <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Never tweet: Social media posts haunt Biden’s FCC and FTC hopefuls</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and former President Donald Trump — posing yet another obstacle to Democrats' policy agenda. 
  <p class="updated_time"> 10:29 AM CT, Dec. 06 </p> 
@@ -334,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
- <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/us-cyber-command-disrupt-ransomware-operations/index.html">US military's hacking unit publicly acknowledges taking offensive action to disrupt ransomware operations</a> CNN: Cyber Command, the US military's hacking unit, has taken offensive action to disrupt cybercriminal groups that have launched ransomware attacks on US companies, a spokesperson for the command confirmed to CNN Sunday. 
  <p class="updated_time"> 06:38 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
  <p class="updated_time"> 06:05 PM CT, Dec. 05 </p> 
@@ -362,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
  <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
+ <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
@@ -370,10 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
- <p class="updated_time"> 02:32 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Analysis: Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
- <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If SCOTUS curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
@@ -388,12 +382,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 07:47 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
- <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
- <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
+ <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
+ <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
@@ -412,6 +404,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
+ <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
@@ -426,6 +422,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
+ <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
+ <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
