@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:29 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 12:23 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
+ <p class="updated_time"> 12:21 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
@@ -16,15 +22,11 @@ permalink: /projects/news/
  <p class="updated_time"> 12:02 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 12:01 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 12:01 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 12:00 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 11:56 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/59548572?at_medium=RSS&at_campaign=KARANGA">Omicron: Why is Nigeria on the travel red list?</a> BBC: The UK has placed travel restrictions on arrivals from Nigeria and several other African countries - are they fair? 
- <p class="updated_time"> 11:54 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 11:35 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
  <p class="updated_time"> 11:32 AM CT, Dec. 06 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/travel/svalbard-climate-change-tourism.html">Bearing Witness to Svalbard’s Fragile Splendor</a> NYT: To visitors, the Norwegian archipelago can seem both ethereal and eternal. But climate change all but guarantees an eventual collapse of its vulnerable ecosystem. 
- <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
  <p class="updated_time"> 03:46 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander was notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 03:33 AM CT, Dec. 06 </p> 
@@ -214,14 +214,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/pentagon-congress-officials-budget-gridlock-523805">‘I need a budget’: Pentagon officials thrash Congress over gridlock</a> Politico: Putting federal spending on autopilot until at least February locks in funding at the previous year’s level. 
+ <p class="updated_time"> 01:03 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/ioc-diplomatic-boycott-beijing-olympics-523801">IOC member says diplomatic boycott of Olympics won't sway Beijing</a> Politico: Dick Pound: 'There are the games within games that go into any international relationships.' 
  <p class="updated_time"> 01:00 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/us-and-europe-ready-significant-and-severe-sanctions-if-russia-invades-ukraine-523790">U.S. and Europe ready 'significant and severe' sanctions if Russia invades Ukraine</a> Politico: U.S. officials have escalated their warnings that Washington will retaliate if Moscow moves its forces across the border into Ukraine. 
- <p class="updated_time"> 11:38 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/us-and-europe-ready-significant-and-severe-sanctions-if-russia-invades-ukraine-523790">U.S. and Europe ready ‘significant and severe’ sanctions if Russia invades Ukraine</a> Politico: The preparations come ahead of Biden and Putin’s call on Tuesday. 
+ <p class="updated_time"> 12:30 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061788411/kentucky-congressman-thomas-massie-holiday-photo-guns">Congressman shares photo celebrating guns at Christmas, days after a school shooting</a> NPR: "Santa, please bring ammo," Rep. Thomas Massie wrote as he posted the image of him and his family posing with guns in front of a Christmas tree. 
+ <p class="updated_time"> 12:23 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/music/kennedy-center-honors.html">A Kennedy Center Honors With the Presidential Box Used as Intended</a> NYT: Former President Donald J. Trump did not attend the tribute, but President Biden was on hand as Bette Midler, Joni Mitchell, Berry Gordy, Justino Díaz and Lorne Michaels were honored. 
+ <p class="updated_time"> 12:22 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 11:35 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump SPAC faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
+ <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump shell company faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
  <p class="updated_time"> 10:57 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/max-rose-running-again-congress-new-york/index.html">Former Rep. Max Rose to run again for the House seat in New York he lost in 2020</a> CNN: Former Democratic Rep. Max Rose announced he will run again for the US House seat he lost in 2020 after a single term to Republican Rep. Nicole Malliotakis, who serves the New York district that includes Staten Island and some of Brooklyn. 
  <p class="updated_time"> 10:48 AM CT, Dec. 06 </p> 
@@ -232,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden to push Build Back Better Act, focusing on its prescription drug provisions</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
  <p class="updated_time"> 10:29 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
- <p class="updated_time"> 10:09 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 10:07 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
@@ -316,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Omar 'very confident' Pelosi will take action against Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
- <p class="updated_time"> 10:10 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
  <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061600320/politics-chat-biden-faces-handling-another-winter-of-the-pandemic">Politics chat: Biden faces handling another winter of the pandemic</a> NPR: The pandemic and its economic effects are a political weight on President Biden. 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
- <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
  <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden embraces his one-time foe: Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
- <p class="updated_time"> 04:05 AM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061150251/harris-and-buttigieg-go-to-north-carolina-to-promote-bidens-infrastructure-plan">Harris and Buttigieg go to North Carolina to promote Biden's infrastructure plan</a> NPR: The one-time presidential rivals went to Charlotte to promote the infrastructure act. They also fended off increased chatter about how the president's low approval ratings could affect their futures. 
  <p class="updated_time"> 09:21 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-republicans-quietly-buck-trump-in-alabama-race-523701">Senate Republicans quietly buck Trump in Alabama race</a> Politico: Despite Trump’s strong support for Rep. Mo Brooks, GOP senators have donated to Katie Britt and appeared with her at events. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
