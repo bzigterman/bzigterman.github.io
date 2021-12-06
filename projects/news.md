@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:17 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 04:40 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
+ <p class="updated_time"> 04:33 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59546478?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell and Bette Midler pick up Kennedy Center Honors</a> BBC: The legendary Canadian singer makes a rare public appearance at a ceremony hosted by Joe Biden. 
  <p class="updated_time"> 04:15 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 04:13 AM CT, Dec. 06 </p> 
@@ -222,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 03:42 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
+ <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
@@ -254,6 +258,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-partisanship-analysis/index.html">Biden ran on bringing people together. He's failed so far</a> CNN: President Joe Biden ran on a campaign of bringing people together. 
+ <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:42 AM CT, Dec. 05 </p> 
@@ -296,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
  <p class="updated_time"> 07:00 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/roe-v-wade-democrats-2022-elections-523759">Why the threat to Roe may not save Democrats in 2022</a> Politico: “I wish we lived in a world where outrage mattered. But I think we live in a post-outrage world,” said one party strategist. 
- <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 04:00 AM CT, Dec. 05 </p> 
@@ -308,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/edward-shames-easy-company-world-war-ii-band-of-brothers/index.html">Army Col. Edward Shames, the last remaining member of World War II's 'Band of Brothers,' dies at 99</a> CNN: Col. Edward Shames, the last surviving officer of the historic World War II parachute infantry regiment of the US Army known as Easy Company, died Friday at the age of 99. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
- <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/chris-cuomo-fired-cnn-523764">CNN fires Chris Cuomo</a> Politico: “This is not how I want my time at CNN to end but I have already told you why and how I helped my brother,” the anchor said in a statement. 
  <p class="updated_time"> 04:55 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/russia-ukraine-troops-border-us-intelligence-reports/index.html">US intelligence estimates Russian troop levels on Ukraine border could reach 175,000</a> CNN: New US intelligence findings estimate Russia could begin a military offensive in Ukraine in a matter of months as it amasses up to 175,000 troops along the border, a startling escalation that President Joe Biden has warned could lead to severe consequences. 
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
@@ -321,12 +323,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744">Biden and businesses agree on one thing: U.S. needs immigrant workers</a> Politico: Foreign nationals already in the U.S. have been waiting for months — and in some cases, for over a year — to have their employment authorization approved or extended. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -417,6 +415,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
+ <p class="updated_time"> 03:48 PM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/stacey-abrams-georgia-governor-campaign-launch-523617">Stacey Abrams launches long-anticipated Georgia rematch bid</a> Politico: Abrams will seek a rematch against GOP Gov. Brian Kemp, though Kemp still faces a Republican primary challenge. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
