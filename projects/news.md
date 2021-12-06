@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:42 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 05:35 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 05:52 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
+ <p class="updated_time"> 05:50 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 05:24 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59557297?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett testifies at trial: 'There was no hoax'</a> BBC: Jussie Smollett says a "massive" man in a ski mask attacked him after shouting slurs in Chicago. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
@@ -21,12 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 04:08 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
- <p class="updated_time"> 04:04 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/vaccine-mandate-private-employers-nyc.html">N.Y.C.'s Workplace Vaccine Mandate Goes Beyond Those in U.S.</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups like health care workers or teachers. 
  <p class="updated_time"> 04:01 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
- <p class="updated_time"> 04:00 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -187,6 +183,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
  <p class="updated_time"> 11:36 AM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell trial: Key moments from the first week</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
+ <p class="updated_time"> 11:17 AM CT, Dec. 04 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/americas/rio-de-janeiro-bars.html">Samba, Cachaça and Pickled Eggs: ‘Dirty Feet’ Bars Are ‘Essence of Rio’</a> NYT: A cross between a dive bar and a greasy spoon, Rio de Janeiro’s beloved (and proudly filthy) hole-in-the wall joints are some of the most democratic spaces in a deeply unequal city. 
  <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
@@ -206,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
+ <p class="updated_time"> 05:52 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/texas-voting-rights-redistricting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 05:48 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/ndaa-women-draft-dropped-523829">Lawmakers drop proposal to add women to the draft</a> Politico: The provision had been part of the defense policy bill. 
  <p class="updated_time"> 05:34 PM CT, Dec. 06 </p> 
@@ -272,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/white-house-boycott-beijing-olympics-523817">White House announces diplomatic boycott of Beijing Olympics</a> Politico: American athletes still will be able to compete in the games. 
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
- <p class="updated_time"> 01:26 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/texas-voting-rights-redistricting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 01:24 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/combat-drones-air-force-kendall-523812">2 new secret combat drones are in the works, Air Force secretary says</a> Politico: The disclosure is the strongest indication yet that the service is banking on autonomous weapon systems to give it an edge in the increasingly fierce military competition with China. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
