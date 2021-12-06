@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896256/a-small-lineage-of-artisans-is-reviving-the-ancient-art-of-pigeon-whistles-in-be">A small lineage of artisans is reviving the ancient art of pigeon whistles in Beijing</a> NPR: For centuries, owners tied lightweight whistles to their pet pigeons in China. The art of making pigeon whistles almost faded away in Beijing, but a small group of artisans is bringing it back. 
  <p class="updated_time"> 03:37 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 03:37 PM CT, Dec. 06 </p> 
@@ -20,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:48 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59554201?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release three more missionaries after abduction</a> BBC: Three people among a group of 17 North American missionaries abducted in October are freed. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: 'The volcano destroyed our houses - we need help'</a> BBC: Watch this video to see how two survivors' lives have been impacted by Mt Semeru's eruption in Indonesia. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
  <p class="updated_time"> 02:44 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483650/china-has-a-record-of-human-rights-abuses-and-u-s-businesses-make-billions-there">China has a record of human rights' abuses, and U.S. businesses make billions there</a> NPR: Scott Simon speaks with Robert Daly, director of the Kissinger Institute on China and the United States, about why businesses aren't pulling out of China over its record of human rights abuses. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1061483629/omicron-covid-19-cases-spreading-at-alarming-rate-in-south-africa">Omicron COVID-19 cases spreading at alarming rate in South Africa</a> NPR: South Africa's major cities are seeing a dramatic rise in COVID-19 cases driven by the omicron variant. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1061483601/greece-and-austria-are-mandating-covid-19-vaccinations-and-fining-people-who-ref">Greece and Austria are mandating COVID-19 vaccinations and fining people who refuse</a> NPR: Greece, where 62 percent of people are fully vaccinated, has started collecting monthly fines from those who refuse the shots. Austria is also taking similar measures. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -210,6 +210,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
+ <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896249/trump-has-backed-former-sen-david-perdue-for-georgia-governor">Trump has backed former Sen. David Perdue for Georgia governor</a> NPR: Former Georgia Sen. David Perdue has launched a bid for governor, challenging sitting Gov. Brian Kemp in the GOP primary with the ultimate aim of defeating Democrat Stacey Abrams. 
+ <p class="updated_time"> 03:39 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/emmett-till-case-closed/index.html">Justice Department closes investigation into Emmett Till killing after failing to prove key witness lied</a> CNN: The Justice Department has officially closed its investigation into the infamous of killing Emmett Till for a second time, two sources familiar with the investigation said, leaving only more questions after a potentially significant claim from one of the last living witnesses led investigators on a fresh hunt for evidence. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:28 PM CT, Dec. 06 </p> 
@@ -234,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state Thursday at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/texas-doj-redistricting-lawsuit-latino-minority/index.html">DOJ sues Texas, saying GOP-approved redistricting maps discriminate against Latinos and Blacks</a> CNN: The Justice Department filed a lawsuit Monday challenging legislative maps adopted by Texas Republicans in recent weeks. 
- <p class="updated_time"> 02:00 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/emmett-till-case-closed/index.html">Justice Department closes investigation into Emmett Till killing after failing to prove key witness lied</a> CNN: The Justice Department has officially closed its investigation into the infamous of killing Emmett Till for a second time, two sources familiar with the investigation said, leaving only more questions after a potentially significant claim from one of the last living witnesses led investigators on a fresh hunt for evidence. 
  <p class="updated_time"> 01:58 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061861305/the-justice-department-is-suing-texas-over-the-states-redistricting-plans">The Justice Department is suing Texas over the state's redistricting plans</a> NPR: The lawsuit says the redistricting disadvantages Black and Latino voters and does not reflect the outsize effect minorities played in the state's recent population growth. 
  <p class="updated_time"> 01:57 PM CT, Dec. 06 </p> 
@@ -310,16 +314,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-perdue-seeks-to-unseat-georgias-republican-governor">Trump ally Perdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1057344561/anti-vaccine-activists-political-conference-trump-republicans">Inside the growing alliance between anti-vaccine activists and pro-Trump Republicans</a> NPR: As the U.S. heads into midterm elections next year, the political right and the anti-vaccine movement are drawing ever-closer together — potentially at the cost of thousands of American lives. 
- <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/us-cyber-command-disrupt-ransomware-operations/index.html">US military's hacking unit publicly acknowledges taking offensive action to disrupt ransomware operations</a> CNN: Cyber Command, the US military's hacking unit, has taken offensive action to disrupt cybercriminal groups that have launched ransomware attacks on US companies, a spokesperson for the command confirmed to CNN Sunday. 
  <p class="updated_time"> 06:38 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
- <p class="updated_time"> 06:30 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/biden-kennedy-center-honors-523775">Kennedy Center ceremony returns to White House</a> Politico: “Our nation is stronger, more dynamic and more vibrant because of you,” President Joe Biden told the honorees. 
  <p class="updated_time"> 06:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">Biden, Obama and Other Leaders React to Bob Dole's Death</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
  <p class="updated_time"> 06:04 PM CT, Dec. 05 </p> 
@@ -330,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669055/bob-dole-a-republican-politician-shaped-by-his-kansas-roots">Bob Dole, a Republican politician shaped by his Kansas roots</a> NPR: Former Senate Majority leader, and GOP presidential candidate Bob Dole, of Kansas, has died. He was 98. 
- <p class="updated_time"> 02:39 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/virginia-robert-lee-statue-pedestal-523773">Virginia’s governor to remove Lee statue pedestal, transfer land to city</a> Politico: The Lee statue, a one-of-a-kind bronze equestrian piece installed in 1890, was hauled away earlier this year. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
@@ -354,10 +352,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061600376/communities-of-color-face-disproportionate-exposure-to-pollution">Communities of color face disproportionate exposure to pollution</a> NPR: Ayesha Rascoe speaks with Michael S. Regan, the Environmental Protection Agency Administrator, about the Biden administration's approach to environmental justice. 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
+ <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
@@ -442,6 +440,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
