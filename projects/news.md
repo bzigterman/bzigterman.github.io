@@ -211,10 +211,10 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Devin Nunes will leave Congress</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
+ <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
- <p class="updated_time"> 04:35 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/devin-nunes-retiring/index.html">Devin Nunes says he's leaving Congress by the end of the year</a> CNN: Republican Rep. Devin Nunes of California announced Monday he'll leave the House in the coming weeks, in order to follow an undisclosed "new opportunity to fight for the most important issues I believe in." 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
@@ -269,7 +269,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:26 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/texas-voting-rights-redistricting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 01:24 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/combat-drones-air-force-kendall-523812">Two new secret combat drones are in the works, Air Force secretary says</a> Politico: The disclosure is the strongest indication yet that the service is banking on autonomous weapon systems to give it an edge in the increasingly fierce military competition with China. 
+ <a href="https://www.politico.com/news/2021/12/06/combat-drones-air-force-kendall-523812">2 new secret combat drones are in the works, Air Force secretary says</a> Politico: The disclosure is the strongest indication yet that the service is banking on autonomous weapon systems to give it an edge in the increasingly fierce military competition with China. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
