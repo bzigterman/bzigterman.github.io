@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 04:29 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59557022?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell 'gave schoolgirl outfit to Epstein victim'</a> BBC: An accuser says the socialite suggested she dress up to serve tea to paedophile Jeffrey Epstein. 
+ <p class="updated_time"> 04:27 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 04:08 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
- <p class="updated_time"> 04:04 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 04:04 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/vaccine-mandate-private-employers-nyc.html">N.Y.C.'s Workplace Vaccine Mandate Goes Beyond Those in U.S.</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups like health care workers or teachers. 
  <p class="updated_time"> 04:01 PM CT, Dec. 06 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
- <p class="updated_time"> 03:55 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 09:51 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
- <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
  <p class="updated_time"> 09:08 AM CT, Dec. 06 </p> 
@@ -214,7 +214,7 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Devin Nunes will leave Congress</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
- <p class="updated_time"> 04:10 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 04:35 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/devin-nunes-retiring/index.html">Devin Nunes says he's leaving Congress by the end of the year</a> CNN: Republican Rep. Devin Nunes of California announced Monday he'll leave the House in the coming weeks, in order to follow an undisclosed "new opportunity to fight for the most important issues I believe in." 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
@@ -267,7 +267,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
  <p class="updated_time"> 01:26 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/justice-department-texas-voting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/texas-voting-rights-redistricting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 01:24 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/combat-drones-air-force-kendall-523812">Two new secret combat drones are in the works, Air Force secretary says</a> Politico: The disclosure is the strongest indication yet that the service is banking on autonomous weapon systems to give it an edge in the increasingly fierce military competition with China. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
