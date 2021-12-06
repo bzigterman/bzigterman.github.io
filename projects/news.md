@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 04:32 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 04:29 PM CT, Dec. 06 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
- <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
  <p class="updated_time"> 02:07 PM CT, Dec. 03 </p> 
@@ -210,12 +210,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:48 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/ndaa-women-draft-dropped-523829">Lawmakers drop proposal to add women to the draft</a> Politico: The provision had been part of the defense policy bill. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
+ <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
+ <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
- <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 04:45 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/devin-nunes-retiring/index.html">Devin Nunes says he's leaving Congress by the end of the year</a> CNN: Republican Rep. Devin Nunes of California announced Monday he'll leave the House in the coming weeks, in order to follow an undisclosed "new opportunity to fight for the most important issues I believe in." 
+ <p class="updated_time"> 04:41 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
+ <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-remain-in-mexico/index.html">'Remain in Mexico' program restarts, fueling frustration among immigration advocates</a> CNN: The Biden administration relaunched the Trump-era border policy known as "Remain in Mexico" on Monday, kicking back into gear the program allowing officials to send non-Mexican migrants to Mexico to await their US immigration court hearings. 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
@@ -246,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 03:00 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/microsoft-china-hacking-court-order/index.html">Court order seizes websites used by China-based hacking group, Microsoft says</a> CNN: Microsoft used a court order to seize dozens of websites that a China-based hacking group was using for a cyber-espionage campaign against organizations in the US and 28 other countries, the tech giant said Monday. 
- <p class="updated_time"> 02:24 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 02:07 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
@@ -256,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061861305/the-justice-department-is-suing-texas-over-the-states-redistricting-plans">The Justice Department is suing Texas over the state's redistricting plans</a> NPR: The lawsuit says the redistricting disadvantages Black and Latino voters and does not reflect the outsize effect minorities played in the state's recent population growth. 
  <p class="updated_time"> 01:57 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061821936/trump-social-media-spac-truth-social">Trump's social media deal is being investigated by regulators</a> NPR: Regulators including the SEC are investigating a planned merger between a shell company and former President Donald Trump's social media startup. 
- <p class="updated_time"> 01:55 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 01:51 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/doj-sues-to-block-texas-congressional-map-523819">Biden administration sues to block Texas redistricting maps</a> Politico: The suit, filed in federal court, alleges that the state of Texas is “refusing to recognize the State’s growing minority electorate.” 
  <p class="updated_time"> 01:47 PM CT, Dec. 06 </p> 
@@ -424,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/omicron-variant-detected-in-california-523613">CDC looks for more Omicron cases after variant is detected in California</a> Politico: White House chief medical adviser Anthony Fauci told reporters  the individual was fully vaccinated, but added it is believed they did not receive a booster shot. 
  <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
