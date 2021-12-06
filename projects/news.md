@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/29/world/asia/myanmar-president-mayor-convicted.html">Myanmar Ex-President and Former Mayor Are Convicted</a> NYT: The court also sentenced U Win Myint, the former president, and U Myo Aung, the ousted mayor of Naypyidaw. 
+ <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 01:07 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader, who faces a total of 11 charges. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-movement-in-danger-of-breaking-up-11638739849">Venezuela's U.S.-Backed Opposition at Risk of Breaking Up</a> WSJ: A major faction in a coalition led by Juan Guaidó has withdrawn and is calling for new leadership after the failure to unseat strongman Nicolás Maduro. 
  <p class="updated_time"> 01:09 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59542940?at_medium=RSS&at_campaign=KARANGA">Tennis governing body to keep playing in China</a> BBC: The ITF says it has not followed the WTA in suspending tournaments in China because it "does not want to punish a billion people". 
- <p class="updated_time"> 01:08 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
  <p class="updated_time"> 04:19 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/michigan-shooting-parents-arrested.html">Parents of Michigan Shooting Suspect Plead Not Guilty to Charges</a> NYT: The couple were taken into custody early Saturday in Detroit, after the police received a tip. They pleaded not guilty to involuntary manslaughter charges. 
- <p class="updated_time"> 04:02 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59507543?at_medium=RSS&at_campaign=KARANGA">Why Ugandan troops have entered DR Congo - again</a> BBC: Previous incursions have led to accusations of looting and abuse, so will it be different this time? 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
@@ -161,14 +161,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
  <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
- <p class="updated_time"> 06:43 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59220247?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia Grand Prix: A race for equal rights</a> BBC: As F1 races in Saudi Arabia, can it be a positive thing for female and LGBT rights? 
- <p class="updated_time"> 06:32 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
- <p class="updated_time"> 04:34 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59517821?at_medium=RSS&at_campaign=KARANGA">MH370: Could missing Malaysian Airlines plane finally be found?</a> BBC: A British engineer believes he may help solve one of the world's greatest aviation mysteries. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -205,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
  <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
- <p class="updated_time"> 11:13 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
 
 
 </details>
