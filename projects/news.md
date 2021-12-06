@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
+ <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin in India: What Russian president's visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
  <p class="updated_time"> 07:33 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507542?at_medium=RSS&at_campaign=KARANGA">Covid in Uganda: The man whose children may never return to school</a> BBC: The 20-month school closure in Uganda could have a long-term impact on many lives there. 
- <p class="updated_time"> 07:19 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Putin in India: What Russian president's visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
  <p class="updated_time"> 07:11 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59525480?at_medium=RSS&at_campaign=KARANGA">Climate change: Is ‘blue hydrogen’ Japan’s answer to coal?</a> BBC: The Fukushima disaster turned Japan away from nuclear. A new energy source may help it quit coal. 
  <p class="updated_time"> 06:42 PM CT, Dec. 05 </p> 
