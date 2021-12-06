@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:40 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 01:07 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader, who faces a total of 11 charges. 
+ <p class="updated_time"> 01:04 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 12:40 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
@@ -20,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Ray Dalio: Comments on China's human rights misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
+ <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Ray Dalio: US billionaire says China comments misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
- <p class="updated_time"> 11:52 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Obituary: Bob Dole, WWII veteran and Republican stalwart</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
