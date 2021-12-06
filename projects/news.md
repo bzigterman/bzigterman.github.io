@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:00 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 08:15 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
+ <p class="updated_time"> 08:14 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 07:54 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">New York City Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
- <p class="updated_time"> 06:18 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 05:19 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
@@ -43,12 +43,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
+ <p class="updated_time"> 01:40 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/supply-chains-in-southeast-asia-are-less-vulnerable-after-delta-driven-disruptions-11638794416">Supply Chains Now Less Vulnerable in Southeast Asia</a> WSJ: Countries like Vietnam and Malaysia have learned from recent experience and are better prepared for fresh waves of the Covid-19 virus, economists and factory operators say. 
  <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
+ <p class="updated_time"> 01:23 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China's Central Bank Cuts Reserve Requirement Ratio for Banks</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
+ <p class="updated_time"> 12:35 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/u-s-hope-for-iran-nuclear-talks-now-rests-on-china-russia-11638790536">U.S. Hope for Iran Nuclear Talks Rests on China, Russia</a> WSJ: With talks on restoring the 2015 nuclear deal at risk of collapse, the Biden administration faces the prospect of having to rely on two of its biggest international rivals, Russia and China, to end the nuclear standoff with Iran. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
+ <p class="updated_time"> 11:25 PM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/citing-omicron-south-korea-tells-unvaccinated-teens-to-get-covid-19-shots-or-face-restrictions-11638786318">Citing Omicron, South Korea Tells Unvaccinated Teens to Get Covid-19 Shots or Face Restrictions</a> WSJ: The Omicron variant has prompted South Korea to accelerate efforts to vaccinate schoolchildren, and penalize those who don’t comply. 
  <p class="updated_time"> 10:41 PM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
@@ -79,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
- <p class="updated_time"> 01:42 PM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-movement-in-danger-of-breaking-up-11638739849">Venezuela's U.S.-Backed Opposition at Risk of Breaking Up</a> WSJ: A major faction in a coalition led by Juan Guaidó has withdrawn and is calling for new leadership after the failure to unseat strongman Nicolás Maduro. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
@@ -95,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/merkel-germany-vaccination.html">Angela Merkel Makes Final Plea for Germans to Get Vaccinated</a> NYT: ‘Every shot helps,’ the chancellor said, days before she leaves office. 
  <p class="updated_time"> 10:23 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
- <p class="updated_time"> 10:18 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/china-seeks-first-military-base-on-africas-atlantic-coast-u-s-intelligence-finds-11638726327">China Seeks First Military Base on Africa's Atlantic Coast</a> WSJ: Classified American intelligence reports suggest China intends to establish a military installation in Equatorial Guinea, a move that would give Beijing its first permanent naval presence on the Atlantic Ocean, according to U.S. officials. 
  <p class="updated_time"> 08:47 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/us-states-omicron-cases.html">How Many States Is Omicron in Now? </a> NYT: Most of the infected had traveled to southern Africa recently, but health officials are bracing for the inevitable community spread. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
@@ -117,10 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
- <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/us-china-taiwan-trade-11638663970">Chinese Tariffs Fuel Boom in U.S. Trade With Taiwan</a> WSJ: The partnership expands as the island and the U.S. move toward formally strengthening their ties despite objections from Beijing. 
- <p class="updated_time"> 03:03 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/omicrons-spread-exposes-south-africas-vaccination-struggles-public-distrust-11638712983">Omicron's Spread Exposes South Africa's Vaccination Struggles</a> WSJ: South Africa’s struggles to vaccinate more than a quarter of its population have left many of its 60 million people potentially exposed as the new Omicron variant spreads across the country. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
