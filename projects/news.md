@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:07 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
+ <p class="updated_time"> 10:06 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
+ <p class="updated_time"> 09:55 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 09:51 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
- <p class="updated_time"> 09:46 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released from a group of 17 that had been kidnapped by a gang in Haiti. Two had been released last month. 
  <p class="updated_time"> 09:33 AM CT, Dec. 06 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 09:28 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 09:20 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
  <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
  <p class="updated_time"> 09:02 AM CT, Dec. 06 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
  <p class="updated_time"> 07:31 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59547353?at_medium=RSS&at_campaign=KARANGA">Far-right target critics with Twitter's new media policy</a> BBC: Far-right activists are using Twitter's new media policy to target anti-extremism researchers. 
- <p class="updated_time"> 07:25 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59547054?at_medium=RSS&at_campaign=KARANGA">Brexit: Ireland to receive €920m for Brexit impact</a> BBC: The country is the first to receive money from the European Commission's Brexit Adjustment Reserve. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
@@ -43,6 +43,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
+ <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230">China Increasingly Obscures True State of Its Economy to Outsiders</a> WSJ: New data restrictions have made it harder for foreigners to get details on what’s happening inside China, including about port activity, supplies and political dissent cases. Companies and governments are left trying to figure out how to engage. 
+ <p class="updated_time"> 04:50 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -64,9 +68,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:35 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/u-s-hope-for-iran-nuclear-talks-now-rests-on-china-russia-11638790536">U.S. Hope for Iran Nuclear Talks Rests on China, Russia</a> WSJ: With talks on restoring the 2015 nuclear deal at risk of collapse, the Biden administration faces the prospect of having to rely on two of its biggest international rivals, Russia and China, to end the nuclear standoff with Iran. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
- <p class="updated_time"> 11:25 PM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/citing-omicron-south-korea-tells-unvaccinated-teens-to-get-covid-19-shots-or-face-restrictions-11638786318">Citing Omicron, South Korea Tells Unvaccinated Teens to Get Covid-19 Shots or Face Restrictions</a> WSJ: The Omicron variant has prompted South Korea to accelerate efforts to vaccinate schoolchildren, and penalize those who don’t comply. 
+ <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Aung San Suu Kyi's conviction is a further blow to democracy in Myanmar</a> NPR: The ruling is the first in a series of cases brought against Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 10:41 PM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
@@ -89,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
+ <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
  <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
- <p class="updated_time"> 08:13 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-india-to-reinforce-defense-ties-as-u-s-considers-sanctions-11638731615">Russia, India to Reinforce Defense Ties as U.S. Considers Sanctions</a> WSJ: A meeting in India this week between Russian President Vladimir Putin and Indian Prime Minister Narendra Modi comes as Washington has urged New Delhi to cancel its purchase of a Russian missile system. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061607883/pope-francis-lesbos-greece-refugee-crisis">Pope Francis returns to Lesbos, Greece and pleads for action on migrant crisis</a> NPR: Francis returned to Lesbos, an island that has been at the heart of a massive wave of migration to Europe, and called on nations to end "this shipwreck of civilization." 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/04/1060167105/a-mass-covid-grave-in-peru-has-left-families-bereft-and-fighting-for-reburial">A mass COVID grave in Peru has left families bereft — and fighting for reburial</a> NPR: More than 400 people who died of COVID were secretly interred in a mass grave on the outskirts of the city of Iquitos. Families are demanding a proper burial for their loved ones. 
  <p class="updated_time"> 06:00 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1058834216/a-discomfort-with-western-liberalism-is-growing-in-eastern-europe">A discomfort with Western liberalism is growing in Eastern Europe</a> NPR: People of the former Soviet bloc rejoiced when the Iron Curtain fell and embraced membership in the European Union. Hungary is an example of a growing culture clash in the conservative East. 
- <p class="updated_time"> 05:39 AM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-59509225?at_medium=RSS&at_campaign=KARANGA">ICYMI: Jumping into an active volcano, and other ways to spend the festive season</a> BBC: Jumping into an active volcano is just one way to spend the festive season, in news you may have missed this week. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -208,14 +208,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:07 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday. 
  <p class="updated_time"> 09:06 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
- <p class="updated_time"> 09:03 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House in Likely Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative district that includes Staten Island. 
  <p class="updated_time"> 08:28 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/michael-flynn-deposition-postponed/index.html">January 6 committee postpones depositions with Michael Flynn and Trump's personal assistant</a> CNN: One-time Trump national security adviser Michael Flynn and the former President's personal assistant, who were scheduled to be deposed by a congressional committee Monday, have been granted short postponements, a committee aide tells CNN. 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
@@ -298,6 +298,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/michigan-oxford-school-shooting-523768">Third party to probe Oxford High’s actions ahead of school shooting</a> Politico: “It’s critically important to the victims, our staff and our entire community that a full and transparent accounting be made,” the superintendent said. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
+ <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
  <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-christmas-tree-lighting/index.html">Biden tells Americans 'we have so much ahead of us' during National Christmas Tree lighting</a> CNN: The first family and the second family are set to attend the National Christmas Tree lighting outside the White House Thursday afternoon. 
- <p class="updated_time"> 06:05 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/immigration-public-health-rule-mexico.html">Many Migrants Are Quickly Expelled, but Others Can Stay. Here’s Why.</a> NYT: The Biden administration is fighting to preserve Title 42, a public health rule that turns back families at the border during the pandemic. But some have been allowed to stay in the United States, despite the rule. 
  <p class="updated_time"> 05:28 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
