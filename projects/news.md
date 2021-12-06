@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: Restrictions Keep Chinese Tourists at Home, Crippling Industry</a> NYT: Even before the new variant, China was discouraging foreign travel to maintain a zero-Covid approach. That has had a huge impact on tourism worldwide. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59547353?at_medium=RSS&at_campaign=KARANGA">Far-right target critics with Twitter's new media policy</a> BBC: Far-right activists are using Twitter's new media policy to target anti-extremism researchers. 
  <p class="updated_time"> 07:25 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
- <p class="updated_time"> 07:22 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: Restrictions Keep Chinese Tourists at Home, Crippling Industry</a> NYT: Even before the new variant, China was discouraging foreign travel to maintain a zero-Covid approach. That has had a huge impact on tourism worldwide. 
  <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 06:18 AM CT, Dec. 06 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
  <p class="updated_time"> 01:42 PM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-movement-in-danger-of-breaking-up-11638739849">Venezuela's U.S.-Backed Opposition at Risk of Breaking Up</a> WSJ: A major faction in a coalition led by Juan Guaidó has withdrawn and is calling for new leadership after the failure to unseat strongman Nicolás Maduro. 
- <p class="updated_time"> 01:09 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59542940?at_medium=RSS&at_campaign=KARANGA">Tennis governing body to keep playing in China</a> BBC: The ITF says it has not followed the WTA in suspending tournaments in China because it "does not want to punish a billion people". 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
  <p class="updated_time"> 11:56 AM CT, Dec. 05 </p> 
@@ -446,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
  <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
- <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
