@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
  <p class="updated_time"> 07:31 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59547353?at_medium=RSS&at_campaign=KARANGA">Far-right target critics with Twitter's new media policy</a> BBC: Far-right activists are using Twitter's new media policy to target anti-extremism researchers. 
+ <p class="updated_time"> 07:27 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Won't Send Officials to Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59547054?at_medium=RSS&at_campaign=KARANGA">Brexit: Ireland to receive €920m for Brexit impact</a> BBC: The country is the first to get money from the European Commission's Brexit Adjustment Reserve. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 06:40 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
+ <p class="updated_time"> 05:48 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Two Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 05:33 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China Moves to Boost Slowing Economy</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
  <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/travel/svalbard-climate-change-tourism.html">Bearing Witness to Svalbard’s Fragile Splendor</a> NYT: To visitors, the Norwegian archipelago can seem both ethereal and eternal. But climate change all but guarantees an eventual collapse of its vulnerable ecosystem. 
  <p class="updated_time"> 03:46 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander was notorious for his bloody guerrilla attacks and kidnappings. 
- <p class="updated_time"> 03:33 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/saudi-crown-prince-tours-gulf-as-iran-nuclear-talks-stall-11638801218">Saudi Crown Prince Tours Gulf as Iran Nuclear Talks Stall</a> WSJ: Mohammed bin Salman embarked on a rare tour of the Persian Gulf region in a bid to shore up his position with neighboring allies and build consensus on the threat posed by rival Iran. 
  <p class="updated_time"> 03:04 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
@@ -83,6 +85,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-hope-for-iran-nuclear-talks-now-rests-on-china-russia-11638790536">U.S. Hope for Iran Nuclear Talks Rests on China, Russia</a> WSJ: With talks on restoring the 2015 nuclear deal at risk of collapse, the Biden administration faces the prospect of having to rely on two of its biggest international rivals, Russia and China, to end the nuclear standoff with Iran. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Aung San Suu Kyi's conviction is a further blow to democracy in Myanmar</a> NPR: The ruling is the first in a series of cases brought against Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
+ <p class="updated_time"> 11:25 PM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/citing-omicron-south-korea-tells-unvaccinated-teens-to-get-covid-19-shots-or-face-restrictions-11638786318">Citing Omicron, South Korea Tells Unvaccinated Teens to Get Covid-19 Shots or Face Restrictions</a> WSJ: The Omicron variant has prompted South Korea to accelerate efforts to vaccinate schoolchildren, and penalize those who don’t comply. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
@@ -220,8 +224,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/ioc-diplomatic-boycott-beijing-olympics-523801">IOC member says diplomatic boycott of Olympics won't sway Beijing</a> Politico: Dick Pound: 'There are the games within games that go into any international relationships.' 
  <p class="updated_time"> 01:00 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/us-and-europe-ready-significant-and-severe-sanctions-if-russia-invades-ukraine-523790">U.S. and Europe ready ‘significant and severe’ sanctions if Russia invades Ukraine</a> Politico: The preparations come ahead of Biden and Putin’s call on Tuesday. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
  <p class="updated_time"> 12:30 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061788411/kentucky-congressman-thomas-massie-holiday-photo-guns">Congressman shares photo celebrating guns at Christmas, days after a school shooting</a> NPR: "Santa, please bring ammo," Rep. Thomas Massie wrote as he posted the image of him and his family posing with guns in front of a Christmas tree. 
+ <p class="updated_time"> 12:29 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/malala-yousafzai-antony-blinken-meeting/index.html">Malala Yousafzai meets with Blinken, calls on US to take action for Afghan women and girls</a> CNN: Nobel Peace Prize laureate Malala Yousafzai met Monday with US Secretary of State Antony Blinken and called on the United States to take action to ensure that Afghan girls and women are able to return to the classroom and the workplace in the wake of the Taliban's takeover of Afghanistan. 
+ <p class="updated_time"> 12:29 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/texas-doj-redistricting-lawsuit-latino-minority/index.html">Justice Department sues Texas over Republican-approved redistricting maps</a> CNN: The Justice Department filed a lawsuit Monday challenging legislative maps adopted by Texas Republicans in recent weeks. 
  <p class="updated_time"> 12:23 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/music/kennedy-center-honors.html">A Kennedy Center Honors With the Presidential Box Used as Intended</a> NYT: Former President Donald J. Trump did not attend the tribute, but President Biden was on hand as Bette Midler, Joni Mitchell, Berry Gordy, Justino Díaz and Lorne Michaels were honored. 
  <p class="updated_time"> 12:22 PM CT, Dec. 06 </p> 
@@ -270,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-perdue-seeks-to-unseat-georgias-republican-governor">Trump ally Perdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1057344561/anti-vaccine-activists-political-conference-trump-republicans">Inside the growing alliance between anti-vaccine activists and pro-Trump Republicans</a> NPR: As the U.S. heads into midterm elections next year, the political right and the anti-vaccine movement are drawing ever-closer together — potentially at the cost of thousands of American lives. 
- <p class="updated_time"> 03:42 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
@@ -384,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061214253/bob-inglis-how-i-changed-my-mind-about-climate-change">Bob Inglis: How I changed my mind about climate change</a> NPR: Former GOP congressman Bob Inglis used to believe climate change wasn't real. But after a candid conversation with his children and a hard look at the evidence, he began to change his mind. 
  <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/arts/design/jerrell-gibbs-elijah-cummings-portrait.html">Painter of Elijah Cummings Portrait Finds It’s a Career-Changer</a> NYT: The Baltimore artist Jerrell Gibbs was commissioned to paint Maryland’s late Representative. The official portrait will be installed at the U.S. Capitol. 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
@@ -406,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
