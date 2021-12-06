@@ -9,12 +9,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:30 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 11:29 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">FARC: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
- <p class="updated_time"> 10:19 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Dalio: Comments on China's human rights misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
