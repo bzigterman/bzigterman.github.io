@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:17 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
+ <p class="updated_time"> 04:15 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 04:13 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -15,14 +23,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
  <p class="updated_time"> 03:46 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander was notorious for his bloody guerrilla attacks and kidnappings. 
- <p class="updated_time"> 03:15 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 03:04 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
- <p class="updated_time"> 02:25 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:00 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
@@ -171,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
- <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061333587/why-orcas-have-been-lingering-longer-in-the-arctic">Why Orcas have been lingering longer in the Arctic</a> NPR: Orcas are lingering longer in the Arctic Ocean, as sea ice there shrinks. The whales often travel to access varieties of prey, but it's likely there are now more hunting opportunities in the Arctic. 
  <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 11:58 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/asia/new-zealand-auckland-lockdown.html">Auckland, New Zealand, Exits 107-Day Lockdown</a> NYT: Auckland entered severe restrictions in mid-August as it began fighting a Delta outbreak. Some bars reopened a minute before midnight, the moment they could. 
  <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
@@ -206,8 +206,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden's plan for a 'no drama' December</a> Politico: It's a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
  <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/jan-6-generals-lied-ex-dc-guard-official-523777">'Absolute liars': Ex-D.C. Guard official says generals lied to Congress about Jan. 6</a> Politico: In a 36-page memo to the Capitol riot committee, Col. Earl Matthews also slams the Pentagon's inspector general for what he calls an error-ridden report. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Hispanic voters: Latinx term isn’t helping</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party's own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -216,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 03:42 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
- <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-partisanship-analysis/index.html">Biden ran on bringing people together. He's failed so far</a> CNN: President Joe Biden ran on a campaign of bringing people together. 
- <p class="updated_time"> 12:42 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/perdue-georgia-governor-kemp-primary-523772">Trump-backed former Sen. David Perdue will announce primary bid against Georgia governor this week</a> Politico: He’ll take on incumbent Brian Kemp, who has been repeatedly attacked by the former president. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:42 AM CT, Dec. 05 </p> 
@@ -447,8 +449,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
- <p class="updated_time"> 04:30 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/elise-stefanik-number-three-house-gop-523402">The House GOP musical chairs that could keep Stefanik as No. 3</a> Politico: The 37-year-old had privately pledged to serve only through 2022 when she successfully replaced the ousted Rep. Liz Cheney. But things can change. 
 
 
 </details>
