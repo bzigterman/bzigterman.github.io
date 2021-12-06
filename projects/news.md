@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:36 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 02:48 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59554201?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release three more missionaries after abduction</a> BBC: Three people among a group of 17 North American missionaries abducted in October are freed. 
+ <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: 'The volcano destroyed our houses - we need help'</a> BBC: Watch this video to see how two survivors' lives have been impacted by Mt Semeru's eruption in Indonesia. 
+ <p class="updated_time"> 02:44 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
+ <p class="updated_time"> 02:44 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">On Ukrainian Front, Grinding War and Weary Anticipation of Invasion</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 02:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/vaccine-mandate-private-employers-nyc.html">N.Y.C.'s Workplace Vaccine Mandate Goes Beyond Those in U.S.</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups like health care workers or teachers. 
- <p class="updated_time"> 02:02 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 01:46 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 01:40 PM CT, Dec. 06 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59551124?at_medium=RSS&at_campaign=KARANGA">Sylvester Oromoni: Nigerians demand justice over Dowen College death</a> BBC: The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”. 
  <p class="updated_time"> 10:12 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
- <p class="updated_time"> 10:10 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59554201?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release three more missionaries after abduction</a> BBC: Three people among a group of 17 North American missionaries abducted in October are freed. 
  <p class="updated_time"> 09:51 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
- <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 02:24 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 02:10 PM CT, Dec. 06 </p> 
@@ -440,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
- <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
