@@ -28,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:11 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59525480?at_medium=RSS&at_campaign=KARANGA">Climate change: Is ‘blue hydrogen’ Japan’s answer to coal?</a> BBC: The Fukushima disaster turned Japan away from nuclear. A new energy source may help it quit coal. 
  <p class="updated_time"> 06:42 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59543735?at_medium=RSS&at_campaign=KARANGA">Thomas Massie: US Congressman condemned for Christmas guns photo</a> BBC: The photo of Thomas Massie's family posing with firearms was posted days after a deadly school shooting. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59543735?at_medium=RSS&at_campaign=KARANGA">Thomas Massie: US congressman condemned for Christmas guns photo</a> BBC: The photo of Thomas Massie's family posing with firearms was posted days after a deadly school shooting. 
  <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 06:12 PM CT, Dec. 05 </p> 
