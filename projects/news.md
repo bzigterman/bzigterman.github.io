@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:46 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 02:02 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
+ <p class="updated_time"> 01:48 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 01:48 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 01:46 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
- <p class="updated_time"> 01:43 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 01:40 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 01:37 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
- <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 12:59 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061841778/citing-humanitarian-abuses-u-s-will-stage-a-diplomatic-boycott-of-beijing-olympi">Citing humanitarian abuses, U.S. will stage a diplomatic boycott of Beijing Olympics</a> NPR: The White House cited the "ongoing genocide and crimes against humanity" in the Xinjiang region of China. U.S. athletes will compete in the Olympics. 
  <p class="updated_time"> 12:50 PM CT, Dec. 06 </p> 
@@ -53,12 +53,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
+ <p class="updated_time"> 09:02 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-india-cement-military-ties-despite-u-s-pressure-11638817730">Russia, India Cement Military Ties Despite U.S. Pressure</a> WSJ: The two countries said delivery of a Russian missile system to India is proceeding despite U.S. sanctions threats. 
  <p class="updated_time"> 08:30 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
- <p class="updated_time"> 08:08 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-india-cement-military-ties-despite-u-s-pressure-11638817730">Russia, India Cement Military Ties Despite U.S. Pressure</a> WSJ: The two countries said delivery of a Russian missile system to India is proceeding despite U.S. sanctions threats. 
  <p class="updated_time"> 07:55 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Won't Send Officials to Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
+ <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Plans Diplomatic Boycott of Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59547054?at_medium=RSS&at_campaign=KARANGA">Brexit: Ireland to receive €920m for Brexit impact</a> BBC: The country is the first to get money from the European Commission's Brexit Adjustment Reserve. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
@@ -203,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
 
 
 </details>
@@ -212,12 +210,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061861305/the-justice-department-is-suing-texas-over-the-states-redistricting-plans">The Justice Department is suing Texas over the state's redistricting plans</a> NPR: In its lawsuit, the Justice Department alleges that Texas' redistricting plans put minority voters at a disadvantage. 
+ <p class="updated_time"> 01:57 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061821936/trump-social-media-spac-truth-social">Trump's social media deal is being investigated by regulators</a> NPR: Regulators including the SEC are investigating a planned merger between a shell company and former President Trump's social media startup. 
+ <p class="updated_time"> 01:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 01:51 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/doj-sues-to-block-texas-congressional-map-523819">DOJ sues to block Texas congressional map</a> Politico: The suit, filed in federal court, alleges that the state of Texas is “refusing to recognize the State’s growing minority electorate.” 
  <p class="updated_time"> 01:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-foreign-policy-picks-523731">The dramatic irony of Biden's foreign-policy picks</a> Politico: The president veers progressive on his domestic nominees but embraces the establishment for global affairs. The latter cast is the one facing a Senate GOP blockade for unrelated reasons. 
- <p class="updated_time"> 01:40 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 01:39 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/white-house-boycott-beijing-olympics-523817">White House announces diplomatic boycott of Beijing Olympics</a> Politico: American athletes still will be able to compete in the games. 
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/immigration-system-labor-squeeze-523744">Biden and businesses agree on one thing: U.S. needs immigrant workers</a> Politico: Foreign nationals already in the U.S. have been waiting for months — and in some cases, for over a year — to have their employment authorization approved or extended. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1061483566/week-in-politics-congress-passes-temporary-funding-bill-to-avoid-shutdown">Week in politics: Congress passes temporary funding bill to avoid shutdown</a> NPR: Congress narrowly avoids a government shutdown by passing a temporary funding bill. We look at what's next in Congress as well as the House committee investigation of the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 10:34 PM CT, Dec. 03 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
- <p class="updated_time"> 03:15 PM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
  <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
