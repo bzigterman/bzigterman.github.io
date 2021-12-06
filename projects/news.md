@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:02 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
+ <p class="updated_time"> 12:01 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 12:01 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 11:54 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 11:35 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
  <p class="updated_time"> 11:32 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59551124?at_medium=RSS&at_campaign=KARANGA">Sylvester Oromoni: Nigerians demand justice over Dowen College death</a> BBC: The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”. 
- <p class="updated_time"> 11:30 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 11:17 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">On Ukrainian Front, Grinding War and Weary Anticipation of Invasion</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 11:13 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/india-russia-missile-defense-deal.html">India and Russia Expand Defense Ties, Despite Prospect of U.S. Sanctions</a> NYT: India’s purchase of a missile defense system signaled that it was more worried about an emboldened China at its borders than about angering the United States. 
- <p class="updated_time"> 11:02 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 10:46 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 10:12 AM CT, Dec. 06 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
- <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released from a group of 17 that had been kidnapped by a gang in Haiti. Two had been released last month. 
  <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
@@ -51,12 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 06:40 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
- <p class="updated_time"> 05:48 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Two Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 05:33 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China Moves to Boost Slowing Economy</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
- <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230">China Increasingly Obscures True State of Its Economy to Outsiders</a> WSJ: New data restrictions have made it harder for foreigners to get details on what’s happening inside China, including about port activity, supplies and political dissent cases. Companies and governments are left trying to figure out how to engage. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
@@ -67,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
  <p class="updated_time"> 03:46 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander was notorious for his bloody guerrilla attacks and kidnappings. 
+ <p class="updated_time"> 03:33 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/saudi-crown-prince-tours-gulf-as-iran-nuclear-talks-stall-11638801218">Saudi Crown Prince Tours Gulf as Iran Nuclear Talks Stall</a> WSJ: Mohammed bin Salman embarked on a rare tour of the Persian Gulf region in a bid to shore up his position with neighboring allies and build consensus on the threat posed by rival Iran. 
  <p class="updated_time"> 03:04 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/middleeast/lebanon-george-kordahi-resign-saudi.html">George Kordahi Resigns Under Saudi Pressure</a> NYT: Comments by the information minister, before he joined the government, prompted a diplomatic rift between Lebanon and powerful Gulf States. It was unclear if his resignation would end the crisis. 
  <p class="updated_time"> 12:46 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/taliban-women-marriage.html">Taliban Decree an End to Forced Marriages in Afghanistan</a> NYT: The decree, attributed to the group’s religious leader, calls for more rights for women under Islamic law, but does not say whether women will regain easier access to education or jobs. 
- <p class="updated_time"> 11:55 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
 
@@ -218,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump SPAC faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
+ <p class="updated_time"> 10:57 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/max-rose-running-again-congress-new-york/index.html">Former Rep. Max Rose to run again for the House seat in New York he lost in 2020</a> CNN: Former Democratic Rep. Max Rose announced he will run again for the US House seat he lost in 2020 after a single term to Republican Rep. Nicole Malliotakis, who serves the New York district that includes Staten Island and some of Brooklyn. 
  <p class="updated_time"> 10:48 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/chuck-schumer-build-back-better/index.html">Schumer details plan to pass Biden bill by Christmas amid growing skepticism about timeline</a> CNN: Senate Majority Leader Chuck Schumer is still insisting that President Joe Biden's Build Back Better bill can pass his chamber by Christmas -- even as doubts grow that such a timeline is achievable given the procedures of the Senate and the lingering differences among Democrats. 
  <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061333477/hhs-secretary-xavier-becerra-on-the-administration-s-response-to-the-omicron-var">HHS Secretary Xavier Becerra on the administration's response to the Omicron variant</a> NPR: NPR's Mary Louise Kelly speaks with Health and Human Services Secretary Xavier Becerra on the Biden administration's ongoing response to the Omicron variant. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
- <p class="updated_time"> 01:37 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/state-department-nso-spyware/index.html">US State Department phones were hacked with NSO Group spyware</a> CNN: The iPhones of about a dozen US State Department employees serving in Africa were hacked with spyware developed by Israeli technology firm NSO Group in recent months, according to a senior US official familiar with the investigation and another source familiar with the matter. 
  <p class="updated_time"> 12:54 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
