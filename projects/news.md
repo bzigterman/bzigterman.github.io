@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">FARC: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
+ <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 10:19 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
@@ -14,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin in India: What Russian president's visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: What Russian president's India visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
  <p class="updated_time"> 07:33 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
- <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 03:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59542811?at_medium=RSS&at_campaign=KARANGA">Bob Dole: Biden leads tributes to a 'dear friend'</a> BBC: Tributes have been paid across the US political divide to the late Republican leader Bob Dole. 
  <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/in-one-week-omicron-plunged-the-world-into-collective-uncertainty.html">Omicron Plunged World Into Uncertainty</a> NYT: The global pandemic has been transformed at dizzying speed in the days since scientists in South Africa announced the detection of the new, highly mutated variant. 
- <p class="updated_time"> 06:50 PM CT, Dec. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59517501?at_medium=RSS&at_campaign=KARANGA">Why France faces so much anger in West Africa</a> BBC: Despite engaging better with the African continent recently, the ex-colonial power faces a backlash. 
  <p class="updated_time"> 06:48 PM CT, Dec. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59506339?at_medium=RSS&at_campaign=KARANGA">Mandatory vaccinations: Three reasons for and against</a> BBC: Blanket vaccination mandates are on the agenda but do they work and what are their costs? 
  <p class="updated_time"> 06:11 PM CT, Dec. 04 </p> 
@@ -218,10 +218,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
+ <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 08:52 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
- <p class="updated_time"> 08:02 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/us-cyber-command-disrupt-ransomware-operations/index.html">US military's hacking unit publicly acknowledges taking offensive action to disrupt ransomware operations</a> CNN: Cyber Command, the US military's hacking unit, has taken offensive action to disrupt cybercriminal groups that have launched ransomware attacks on US companies, a spokesperson for the command confirmed to CNN Sunday. 
  <p class="updated_time"> 06:50 PM CT, Dec. 05 </p> 
