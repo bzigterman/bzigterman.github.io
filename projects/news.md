@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Dalio: Comments on China's human rights misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Obituary: Bob Dole, WWII veteran and Republican stalwart</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
  <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
- <p class="updated_time"> 11:05 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59538590?at_medium=RSS&at_campaign=KARANGA">Trump social media firm says it has raised $1bn</a> BBC: The former US president is working to launch a social media app called Truth Social early next year. 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
