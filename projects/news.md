@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:43 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 05:19 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
- <p class="updated_time"> 03:03 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59542811?at_medium=RSS&at_campaign=KARANGA">Bob Dole: Biden leads tributes to a 'dear friend'</a> BBC: Tributes have been paid across the US political divide to the late Republican leader Bob Dole. 
  <p class="updated_time"> 02:46 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:39 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/myanmar-court-leader-suu-kyi-523780">Myanmar court sentences ousted leader Suu Kyi to 4 years</a> Politico: The sentencing for incitement and violating coronavirus restrictions was the first in a series of cases to prosecute the 76-year-old Nobel laureate since the army seized power on Feb. 1. 
+ <p class="updated_time"> 05:38 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/pleading-the-fifth/index.html">Here's what pleading the Fifth is and what it means for the January 6 committee </a> CNN: The January 6 committee is facing a new challenge as multiple people it has subpoenaed signal their intentions to invoke Fifth Amendment protections ahead of their testimony. 
  <p class="updated_time"> 05:01 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden's plan for a 'no drama' December</a> Politico: It's a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
  <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Hispanic voters: Latinx term isn’t helping</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party's own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 04:25 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/pleading-the-fifth/index.html">Here's what pleading the Fifth is and what it means for the January 6 committee </a> CNN: The January 6 committee is facing a new challenge as multiple people it has subpoenaed signal their intentions to invoke Fifth Amendment protections ahead of their testimony. 
  <p class="updated_time"> 04:08 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
