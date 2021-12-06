@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
+ <p class="updated_time"> 04:00 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 04:00 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
+ <p class="updated_time"> 03:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896263/russia-is-gathering-more-than-94-000-troops-near-ukraine-as-fears-of-an-invasion">Russia is gathering more than 94,000 troops near Ukraine as fears of an invasion rise</a> NPR: Russia is amassing more than 94,000 troops at the Ukrainian border in what officials in Ukraine call a "large-scale escalation" from Russia that is expected to take place in January. 
+ <p class="updated_time"> 03:51 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896256/a-small-lineage-of-artisans-is-reviving-the-ancient-art-of-pigeon-whistles-in-be">A small lineage of artisans is reviving the ancient art of pigeon whistles in Beijing</a> NPR: For centuries, owners tied lightweight whistles to their pet pigeons in China. The art of making pigeon whistles almost faded away in Beijing, but a small group of artisans is bringing it back. 
- <p class="updated_time"> 03:37 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 03:37 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 03:28 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
  <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896242/afghanistan-is-struggling-without-aid-but-unfreezing-funds-to-the-country-is-tri">Afghanistan is struggling without aid, but unfreezing funds to the country is tricky</a> NPR: Afghanistan faces a humanitarian crisis. It had been relying on foreign aid, much of which has been cut since the Taliban took over in August. There are now shortages of money, food and health care. 
  <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59554201?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release three more missionaries after abduction</a> BBC: Three people among a group of 17 North American missionaries abducted in October are freed. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
- <p class="updated_time"> 02:44 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 02:26 PM CT, Dec. 06 </p> 
@@ -45,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 12:18 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59555141?at_medium=RSS&at_campaign=KARANGA">Amid shortage, Canada taps into emergency maple syrup reserves</a> BBC: The Canadian province of Quebec produces 70% of the world's maple syrup supply. 
- <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/austria-chancellor-nehammer-kurz.html">Karl Nehammer Becomes Scandal-Shaken Austria's 3rd Chancellor This Year </a> NYT: Karl Nehammer, the former interior minister, becomes the country’s leader two months after the resignation of Sebastian Kurz, amid an investigation into corruption and influence-peddling. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
@@ -172,8 +178,6 @@ permalink: /projects/news/
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
- <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
  <p class="updated_time"> 11:55 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html">Congo Ousts Mining Leader in a Cloud of Corruption Claims</a> NYT: The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution. 
@@ -187,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.npr.org/2021/12/04/1061483664/goodbye-ceremony-for-germanys-chancellor-merkel-featured-some-telling-music-choi">Goodbye ceremony for Germany's Chancellor Merkel featured some telling music choices</a> NPR: Departing German Chancellor Angela Merkel chose three songs for her farewell ceremony this week. One of them, an East German hit from the '70s, caused some surprise in Berlin. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1061483650/china-has-a-record-of-human-rights-abuses-and-u-s-businesses-make-billions-there">China has a record of human rights' abuses, and U.S. businesses make billions there</a> NPR: Scott Simon speaks with Robert Daly, director of the Kissinger Institute on China and the United States, about why businesses aren't pulling out of China over its record of human rights abuses. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1061483629/omicron-covid-19-cases-spreading-at-alarming-rate-in-south-africa">Omicron COVID-19 cases spreading at alarming rate in South Africa</a> NPR: South Africa's major cities are seeing a dramatic rise in COVID-19 cases driven by the omicron variant. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
  <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
@@ -210,16 +210,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Devin Nunes will leave Congress</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
+ <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896284/the-lasting-consequences-of-americas-shift-to-using-more-contractors-to-fight-wa">The lasting consequences of America's shift to using more contractors to fight wars</a> NPR: Many people who fought and died on behalf of the U.S. during 20 years of war in Afghanistan were contractors, not troops. It's part of a change in how America fights wars, and it has consequences. 
+ <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
  <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896249/trump-has-backed-former-sen-david-perdue-for-georgia-governor">Trump has backed former Sen. David Perdue for Georgia governor</a> NPR: Former Georgia Sen. David Perdue has launched a bid for governor, challenging sitting Gov. Brian Kemp in the GOP primary with the ultimate aim of defeating Democrat Stacey Abrams. 
  <p class="updated_time"> 03:39 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/emmett-till-case-closed/index.html">Justice Department closes investigation into Emmett Till killing after failing to prove key witness lied</a> CNN: The Justice Department has officially closed its investigation into the infamous of killing Emmett Till for a second time, two sources familiar with the investigation said, leaving only more questions after a potentially significant claim from one of the last living witnesses led investigators on a fresh hunt for evidence. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
- <p class="updated_time"> 03:28 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
  <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Bob Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
- <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061669055/bob-dole-a-republican-politician-shaped-by-his-kansas-roots">Bob Dole, a Republican politician shaped by his Kansas roots</a> NPR: Former Senate Majority leader, and GOP presidential candidate Bob Dole, of Kansas, has died. He was 98. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
- <p class="updated_time"> 11:08 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/123981928/bob-dole-dies-at-98">Bob Dole, longtime GOP senator and 1996 presidential nominee, dies</a> NPR: After recovering from wounds suffered in World War II, Dole went on to represent Kansas in Congress for more than 30 years. 
  <p class="updated_time"> 10:37 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/tate-reeves-abortion-oral-arguments-supreme-court-cnntv/index.html">Mississippi governor calls Supreme Court oral arguments on state's restrictive abortion law 'a watershed moment in American history'</a> CNN: Mississippi Gov. Tate Reeves called recent Supreme Court oral arguments on a restrictive abortion law in his state "a watershed moment in American history," saying he's cautiously optimistic the court will overturn two seminal decisions that secured abortion rights for women nationwide. 
  <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
@@ -452,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/30/how-the-continuing-resolution-stole-christmas-495256">POLITICO Playbook: How the continuing resolution stole Christmas</a> Politico: And Chris Cuomo lands in hot water. 
  <p class="updated_time"> 07:02 PM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/news/2021/11/29/democrats-year-end-crush-523485">Democrats' December dread builds after defense stumble</a> Politico: The Senate majority wants to pass bills on social spending, government funding, the debt limit and Pentagon policy — all before Christmas. 
- <p class="updated_time"> 03:58 PM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
 
 
 </details>
