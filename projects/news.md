@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:08 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/vaccine-mandate-private-employers-nyc.html">N.Y.C.'s Workplace Vaccine Mandate Goes Beyond Those in U.S.</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups like health care workers or teachers. 
  <p class="updated_time"> 04:01 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/04/health/covid-variant-south-africa-hiv.html">The Variant Hunters: Inside South Africa’s Effort to Stanch Dangerous Mutations</a> NYT: Scientists in a cutting-edge laboratory do part of the work. Local health workers on foot do the rest. 
- <p class="updated_time"> 04:00 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 04:00 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 02:26 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">On Ukrainian Front, Grinding War and Weary Anticipation of Invasion</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
- <p class="updated_time"> 02:13 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/vaccine-mandate-private-employers-nyc.html">N.Y.C.'s Workplace Vaccine Mandate Goes Beyond Those in U.S.</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups like health care workers or teachers. 
  <p class="updated_time"> 01:46 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-hope-for-iran-nuclear-talks-now-rests-on-china-russia-11638790536">U.S. Hope for Iran Nuclear Talks Rests on China, Russia</a> WSJ: With talks on restoring the 2015 nuclear deal at risk of collapse, the Biden administration faces the prospect of having to rely on two of its biggest international rivals, Russia and China, to end the nuclear standoff with Iran. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Aung San Suu Kyi's conviction is a further blow to democracy in Myanmar</a> NPR: The ruling is the first in a series of cases brought against Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
- <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: What Russian president's India visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
@@ -214,6 +214,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Devin Nunes will leave Congress</a> Politico: Nunes, who was first elected in 2002, ascended to chair the House Intelligence Committee in 2015. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
+ <p class="updated_time"> 04:10 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/devin-nunes-retiring/index.html">Devin Nunes says he's leaving Congress by the end of the year</a> CNN: Republican Rep. Devin Nunes of California announced Monday he'll leave the House in the coming weeks, in order to follow an undisclosed "new opportunity to fight for the most important issues I believe in." 
+ <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
+ <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/trump-allies-local-elections/index.html">Trump allies are angling for election jobs up and down the ballot. That could have consequences in 2024</a> CNN: As former President Donald Trump prepares for a potential comeback bid in 2024, his allies are flocking to election jobs all the way down to the local level in key battleground states, raising new concerns that the election officials who blocked Trump's efforts to overturn the 2020 election won't be there the next time around. 
  <p class="updated_time"> 03:56 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">United States Will Not Send Government Officials to Beijing Olympics</a> NYT: Athletes will still be able to compete in the Winter Games in Beijing, but the diplomatic boycott is a response to human rights abuses in Xinjiang. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -243,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:24 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: President Biden will hold a high-stakes video call with Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 02:07 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state Thursday at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
+ <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/texas-doj-redistricting-lawsuit-latino-minority/index.html">DOJ sues Texas, saying GOP-approved redistricting maps discriminate against Latinos and Blacks</a> CNN: The Justice Department filed a lawsuit Monday challenging legislative maps adopted by Texas Republicans in recent weeks. 
  <p class="updated_time"> 01:58 PM CT, Dec. 06 </p> 
@@ -332,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">Six Memorable Quotes From Bob Dole, Known for Sarcastic Wit</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
  <p class="updated_time"> 06:02 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Bob Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
- <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061669062/russia-tests-biden-administration-as-fears-of-ukraine-invasion">Russia tests Biden administration as fears of Ukraine invasion</a> NPR: NPR's David Folkenflik speaks with Heather Conley of the Center for Strategic and International Studies about U.S.-Russia relations amid Russian troop build up on the Ukrainian border. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
- <p class="updated_time"> 06:39 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/supreme-court-justices-abortion-comments-523763">Supreme Court justices on abortion, during confirmation and from the bench</a> Politico: Here are some excerpts of the nine sitting justices from their Senate confirmation hearings and Wednesday’s oral arguments. 
  <p class="updated_time"> 05:00 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/russia-ukraine-biden.html">U.S. Intelligence Sees Russian Plan for Possible Ukraine Invasion</a> NYT: An invasion force could include 175,000 troops, but U.S. officials stress that President Vladimir V. Putin’s intentions remain unclear. 
  <p class="updated_time"> 02:00 AM CT, Dec. 05 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
  <p class="updated_time"> 03:14 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/us/politics/stu-rasmussen-dead.html">Stu Rasmussen, 73, First Openly Transgender Mayor in America, Dies</a> NYT: The mayor, who served two terms in Silverton, Ore., defied many conventions, gender being just one of them. 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
@@ -424,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
@@ -442,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
- <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
