@@ -7,10 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:42 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59543735?at_medium=RSS&at_campaign=KARANGA">Thomas Massie: US Congressman condemned for Christmas guns photo</a> BBC: The image shows Thomas Massie and his family holding firearms days after a deadly school shooting. 
+ <p class="updated_time"> 06:22 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
+ <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
+ <p class="updated_time"> 06:07 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59525740?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope scientist: 'It's the future of astrophysics'</a> BBC: The James Webb Space Telescope is expected to be 100 times more powerful than the Hubble. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59528113?at_medium=RSS&at_campaign=KARANGA">How Lebanon's economic problems could leave Sara blind</a> BBC: Lebanon stopped has stopped subsidising many medical expenses, which leaves poorer patients in danger. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
  <p class="updated_time"> 04:35 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
- <p class="updated_time"> 04:09 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 04:08 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 03:03 PM CT, Dec. 05 </p> 
@@ -19,10 +29,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59543120?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Villages buried under hot ash</a> BBC: Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
- <p class="updated_time"> 02:24 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis sought to restore compassion for asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
+ <p class="updated_time"> 01:42 PM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-movement-in-danger-of-breaking-up-11638739849">Venezuela's U.S.-Backed Opposition at Risk of Breaking Up</a> WSJ: A major faction in a coalition led by Juan Guaidó has withdrawn and is calling for new leadership after the failure to unseat strongman Nicolás Maduro. 
  <p class="updated_time"> 01:08 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59540695?at_medium=RSS&at_campaign=KARANGA">Military truck rams into group of Myanmar protesters in Yangon</a> BBC: Several people have been injured during a demonstration against the country's military rulers. 
  <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
@@ -37,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 11:05 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59538590?at_medium=RSS&at_campaign=KARANGA">Trump social media firm says it has raised $1bn</a> BBC: The former US president is working to launch a social media app called Truth Social early next year. 
- <p class="updated_time"> 10:30 AM CT, Dec. 05 </p> 
- <a href="https://www.wsj.com/articles/venezuelas-u-s-backed-opposition-movement-in-danger-of-breaking-up-11638739849">Venezuela's U.S.-Backed Opposition at Risk of Breaking Up</a> WSJ: A major faction in a coalition led by Juan Guaidó has withdrawn and is calling for new leadership after the failure to unseat strongman Nicolás Maduro. 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
@@ -71,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
- <p class="updated_time"> 06:08 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59536522?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban warned against targeting former security forces</a> BBC: US and allies "deeply concerned" about human rights abuses against former Afghan security forces. 
  <p class="updated_time"> 04:48 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59538540?at_medium=RSS&at_campaign=KARANGA">French climber handed Mont Blanc gems after 2013 find</a> BBC: The stones are believed to be from an Air India plane which crashed into the mountain in 1966. 
  <p class="updated_time"> 04:29 AM CT, Dec. 05 </p> 
@@ -151,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59457015?at_medium=RSS&at_campaign=KARANGA">Parag Agrawal: Why Indian-born CEOs dominate Silicon Valley</a> BBC: Parag Agrawal, Twitter's new CEO, is the latest of several Indian-Americans leading global tech firms. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
- <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59519863?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… America’s abortion divide</a> BBC: How abortion rights in the US look likely to be changed by a conservative majority Supreme Court. 
  <p class="updated_time"> 04:34 PM CT, Dec. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59517821?at_medium=RSS&at_campaign=KARANGA">MH370: Could missing Malaysian Airlines plane finally be found?</a> BBC: A British engineer believes he may help solve one of the world's greatest aviation mysteries. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -199,10 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/arts/television/december-netflix-australia-streaming-movies-tv-stan-amazon.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in December</a> NYT: Our picks for December, Including ‘The Power of the Dog,’ ‘Don’t Look Up’ and ‘The Lost Daughter’ 
  <p class="updated_time"> 07:49 PM CT, Dec. 02 </p> 
  <a href="https://www.nytimes.com/2021/12/02/world/africa/virus-omicron-variant-reinfection.html">Omicron Variant Reinfects People Who Have Had the Coronavirus</a> NYT: Evidence from South Africa, where the Omicron variant already dominates, shows a high rate of reinfection of people who have already had the coronavirus. 
- <p class="updated_time"> 06:31 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59513118?at_medium=RSS&at_campaign=KARANGA">The drought ravaging East African wildlife and livestock</a> BBC: At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia. 
- <p class="updated_time"> 06:03 PM CT, Dec. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59513177?at_medium=RSS&at_campaign=KARANGA">NunTok: How religion is booming on TikTok and Instagram</a> BBC: Nuns, imams and Buddhist monks are among those sharing successful - and often fun - short-form videos on social media. 
 
 
 </details>
@@ -210,14 +210,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:50 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/iran-us-hostages-talks-shargi/index.html">For this American family, the Iran nuclear talks are personal</a> CNN: Emad Shargi's daughter says her dad has always been stoic during his ordeal as an American citizen unjustly held in an Iranian prison. But recently, she heard something different. 
+ <p class="updated_time"> 06:50 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
+ <p class="updated_time"> 06:38 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
  <p class="updated_time"> 06:30 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/biden-kennedy-center-honors-523775">Kennedy Center ceremony returns to White House</a> Politico: “Our nation is stronger, more dynamic and more vibrant because of you,” President Joe Biden told the honorees. 
- <p class="updated_time"> 05:48 PM CT, Dec. 05 </p> 
+ <p class="updated_time"> 06:18 PM CT, Dec. 05 </p> 
+ <a href="https://www.cnn.com/2021/12/04/politics/american-experts-us-china-space-race/index.html">Top Space Force official: China is developing space capabilities at 'twice the rate' of US</a> CNN: Gen. David Thompson, vice chief of space operations for the US Space Force, said Saturday China is developing its space capabilities at "twice the rate" of the US. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">‘A War Hero and Patriot’: Leaders React to the Death of Bob Dole</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
- <p class="updated_time"> 05:40 PM CT, Dec. 05 </p> 
+ <p class="updated_time"> 06:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">A Chicken-Fried McGovern, Newt’s Good Ideas and the Senate Zoo: A Dole One-Liner Sampler</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
- <p class="updated_time"> 05:31 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Bob Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
  <p class="updated_time"> 04:56 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/david-perdue-georgia-governor-run/index.html">David Perdue plans to challenge Brian Kemp in GOP primary for Georgia governor, reports say</a> CNN: Former GOP Sen. David Perdue plans to announce Monday that he's mounting a primary challenge against Georgia Gov. Brian Kemp, a move that will pit the ally of former President Donald Trump against the incumbent Republican governor and set up an intra-party fight in one of the nation's closely watched political battlegrounds, according to multiple reports. 
  <p class="updated_time"> 04:34 PM CT, Dec. 05 </p> 
@@ -288,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/us/politics/stephanie-murphy-democrats-biden.html">How Stephanie Murphy, a Holdout on Biden’s Agenda, Helped Salvage It</a> NYT: The centrist Democrat from Florida put the brakes on President Biden’s social safety net legislation because of concerns about cost. Then she brokered a deal to steer it through the House. 
  <p class="updated_time"> 10:22 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/edward-shames-easy-company-world-war-ii-band-of-brothers/index.html">Army Col. Edward Shames, the last remaining member of World War II's 'Band of Brothers,' dies at 99</a> CNN: Col. Edward Shames, the last surviving officer of the historic World War II parachute infantry regiment of the US Army known as Easy Company, died Friday at the age of 99. 
- <p class="updated_time"> 09:36 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/american-experts-us-china-space-race/index.html">Top Space Force official: China is developing space capabilities at 'twice the rate' of US</a> CNN: Gen. David Thompson, vice chief of space operations for the US Space Force, said Saturday China is developing its space capabilities at "twice the rate" of the US. 
  <p class="updated_time"> 06:45 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 05:51 PM CT, Dec. 04 </p> 
@@ -299,16 +305,12 @@ permalink: /projects/news/
  <p class="updated_time"> 03:33 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/justice-department-proud-boys-capitol-riot/index.html">Justice Department charges 2 men alleged to have marched with Proud Boys on January 6 and led charge at US Capitol 
 </a> CNN: Federal prosecutors have accused two men of having ties to a Proud Boys leader and being among the first to breach the police line near the US Capitol on January 6. 
- <p class="updated_time"> 03:13 PM CT, Dec. 04 </p> 
- <a href="https://www.cnn.com/2021/12/04/politics/iran-us-hostages-talks-shargi/index.html">For this American family, the Iran nuclear talks are personal</a> CNN: Emad Shargi's daughter says her dad has always been stoic during his ordeal as an American citizen unjustly held in an Iranian prison. But recently, she heard something different. 
  <p class="updated_time"> 02:32 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/economy-jobs-report-what-matters/index.html">Nobody seems to know what's going on with the economy</a> CNN: If you're confused by the US economy, which simultaneously shows signs of strength and cause for concern, you're not alone. 
  <p class="updated_time"> 12:39 PM CT, Dec. 04 </p> 
  <a href="https://www.cnn.com/2021/12/04/politics/supreme-court-abortion-decision-2022-elections/index.html">If the Supreme Court curtails abortion rights it could flip the script on the 2022 midterm elections</a> CNN: With the looming possibility of the Supreme Court gutting Roe v. Wade, the future of reproductive rights in America is poised to become a central and potentially defining issue in the upcoming midterm elections. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 08:59 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/gop-voting-rights-democrats.html">Voting Battles of 2022 Take Shape as G.O.P. Crafts New Election Bills</a> NYT: Republicans plan to carry their push to reshape the nation’s electoral system into next year, with Democrats vowing to oppose them but holding few options in G.O.P.-led states. 
  <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -399,8 +401,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/meadows-book-executive-privilege-jan-6-523687">Meadows’ book possible ‘waiver’ of executive privilege, Jan. 6 investigators say</a> Politico: "It'd be very difficult for him to maintain ‘I can't speak about events to you, but I can speak about them in my book,’” said Rep. Adam Schiff. 
  <p class="updated_time"> 05:02 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
- <p class="updated_time"> 05:01 PM CT, Dec. 02 </p> 
- <a href="https://www.nytimes.com/2021/12/02/us/politics/abortion-arguments-post-roe.html">How the Politics of Abortion Are Poised to Intensify</a> NYT: The anti-abortion and abortion rights movements are already beginning to mobilize for a new, deeply unsettled post-Roe political reality. 
  <p class="updated_time"> 04:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kyrsten-sinema-interview-build-back-better/index.html">Sinema won't commit to voting for Biden's sweeping social safety net expansion</a> CNN: Kyrsten Sinema, the influential moderate Democratic senator from Arizona, did not commit to voting for President Joe Biden's sweeping social safety net legislation in a sit-down interview with CNN on Thursday, the latest sign that Senate Democrats do not yet have the votes to pass one of the party's top legislative priorities even as leadership hopes to approve the measure before Christmas. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
