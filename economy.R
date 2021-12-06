@@ -821,6 +821,47 @@ ggplot(data = data,
 
 ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
+## population ----
+data <-fredr(series_id = "ILPOP")
+recent_data <- data %>%
+  filter(date > past_ten_years) %>%
+  mutate(short_date = paste(year(date))) 
+
+il_population <- ggplot(data = data,
+                                  aes(x = date,
+                                      y = value)) +
+  geom_line() +
+  labs(title = "Population",
+       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                       tail(recent_data$short_date,1))) +
+  xlab(NULL) +
+  ylab(NULL) +
+  #expand_limits(y=0) +
+  scale_y_continuous(position = "right",
+                     labels = label_comma(suffix = "K",
+                                          accuracy = 1)) +
+  scale_x_date(expand = expansion(mult = c(0, 0))) +
+  facet_zoom(x = date > past_ten_years,
+             zoom.size = 4,
+             ylim = c(min(recent_data$value),
+                      max(recent_data$value)),
+             #show.area = FALSE,
+             horizontal = FALSE) +
+  theme_bw() +
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        # panel.grid.minor = element_blank(),
+        # panel.background = element_blank(),
+        # panel.grid.major.x = element_line(colour = "grey93"),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        # #strip.text = element_text(size = 11),
+        #strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+il_population
+ggsave("plots/il_population.png", plot = il_population,
+       width = 8, height = 8*(628/1200), dpi = 320)
+
+
 # make web page ----
 ## image references ----
 
@@ -848,6 +889,8 @@ permalink: /projects/economy/
 ![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
 
 Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
+
+![Population]({{ site.baseurl }}/plots/il_population.png)
 
 ## United States
 
