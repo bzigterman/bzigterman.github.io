@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:19 PM CT, Dec. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59543875?at_medium=RSS&at_campaign=KARANGA">Dalio: Comments on China's human rights misunderstood</a> BBC: Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party. 
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
  <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
- <p class="updated_time"> 08:27 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59531445?at_medium=RSS&at_campaign=KARANGA">India Nagaland: Security forces kill 13 civilians amid ambush blunder</a> BBC: Home Minister Amit Shah expresses "anguish" after troops fire on miners in the country's north-east. 
  <p class="updated_time"> 08:13 AM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-india-to-reinforce-defense-ties-as-u-s-considers-sanctions-11638731615">Russia, India to Reinforce Defense Ties as U.S. Considers Sanctions</a> WSJ: A meeting in India this week between Russian President Vladimir Putin and Indian Prime Minister Narendra Modi comes as Washington has urged New Delhi to cancel its purchase of a Russian missile system. 
  <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 08:52 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 08:02 PM CT, Dec. 05 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061669055/bob-dole-a-republican-politician-shaped-by-his-kansas-roots">Bob Dole, a Republican politician shaped by his Kansas roots</a> NPR: Former Senate Majority leader, and GOP presidential candidate Bob Dole, of Kansas, has died. He was 98. 
  <p class="updated_time"> 02:39 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/virginia-robert-lee-statue-pedestal-523773">Virginia’s governor to remove Lee statue pedestal, transfer land to city</a> Politico: The Lee statue, a one-of-a-kind bronze equestrian piece installed in 1890, was hauled away earlier this year. 
- <p class="updated_time"> 02:02 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/gallery/2021/12/05/bob-dole-a-life-in-photos-003034">A life in photos: Bob Dole (1923-2021)</a> Politico: Born in rural Russell, Kansas, and raised during the Great Depression, Bob Dole became one of the singular figures of the Greatest Generation through his heroism in WWII. He returned home severely injured and covered in a body cast, but he willed himself to recover and embarked on, first, a legal and, then, a political career, becoming, at the time, the longest-serving Republican Senate leader in history. 
  <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 01:05 PM CT, Dec. 05 </p> 
@@ -435,6 +435,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/01/congress-sexual-misconduct-reform-me-too-523569">Congress closes in on sexual misconduct reform, 4 years after its #MeToo moment</a> Politico: It’s a rare collaboration between conservatives and liberals that would end the forced use of arbitration for on-the-job harassment. 
  <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/news/2021/12/01/democrats-paid-leave-push-523574">Dems' paid leave push faces last stand</a> Politico: The majority party wants the benefit included in their party-line spending plan. Sen. Joe Manchin wants to go a different route. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 01 </p> 
+ <a href="https://www.politico.com/news/2021/12/01/alabama-prisons-humanitarian-crisis-523548">‘A humanitarian crisis’: Why Alabama could lose control of its dangerous prisons</a> Politico: Alabama sends so many people to prison that the state can no longer safely house its inmates, consequences of a tough-on-crime mentality among politicians and the public that keeps aggressive sentencing laws on the books. 
  <p class="updated_time"> 10:49 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
