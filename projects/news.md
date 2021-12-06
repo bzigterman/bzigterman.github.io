@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:43 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 06:18 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 05:19 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
@@ -206,12 +206,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
+ <p class="updated_time"> 05:58 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/pleading-the-fifth/index.html">Here's what pleading the Fifth is and what it means for the January 6 committee </a> CNN: The January 6 committee is facing a new challenge as multiple people it has subpoenaed signal their intentions to invoke Fifth Amendment protections ahead of their testimony. 
  <p class="updated_time"> 05:39 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/myanmar-court-leader-suu-kyi-523780">Myanmar court sentences ousted leader Suu Kyi to 4 years</a> Politico: The sentencing for incitement and violating coronavirus restrictions was the first in a series of cases to prosecute the 76-year-old Nobel laureate since the army seized power on Feb. 1. 
- <p class="updated_time"> 05:38 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/pleading-the-fifth/index.html">Here's what pleading the Fifth is and what it means for the January 6 committee </a> CNN: The January 6 committee is facing a new challenge as multiple people it has subpoenaed signal their intentions to invoke Fifth Amendment protections ahead of their testimony. 
  <p class="updated_time"> 05:01 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden's plan for a 'no drama' December</a> Politico: It's a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
  <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
@@ -394,6 +396,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
  <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
+ <p class="updated_time"> 01:58 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/republican-attacks-biden-coronavirus/index.html">GOP attacks Biden over pandemic response while fighting key tools to curb the virus</a> CNN: Republicans are cranking up their crusade against federal vaccine mandates, making their resistance to the Biden administration's pandemic response efforts a prominent rallying cry in the GOP — even as they simultaneously criticize the President for failing to get the virus under control. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
@@ -412,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
  <p class="updated_time"> 07:26 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/omicron-variant-biden-white-house/index.html">Inside the Biden White House's thorny response to the Omicron variant</a> CNN: President Joe Biden has spent hours over the last week peppering his medical team with questions about the quickly spreading Omicron variant of the coronavirus, pressing them for more data and asking when his team would know more. 
- <p class="updated_time"> 06:19 PM CT, Dec. 01 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/biden-white-house-hanukkah/index.html">White House holds Hanukkah menorah lighting ceremony</a> CNN: The first and second families held a menorah lighting ceremony to celebrate Hanukkah at the White House on Wednesday evening, marking the first time the holiday has been celebrated at 1600 Pennsylvania Avenue with the Jewish spouse of a president or vice president. 
  <p class="updated_time"> 02:28 PM CT, Dec. 01 </p> 
  <a href="https://www.cnn.com/2021/12/01/politics/trump-covid-joe-biden-reaction/index.html">Biden on report Trump tested positive for Covid-19 ahead of 2020 debate: 'I don't think about the former President'</a> CNN: President Joe Biden on Wednesday had a sharp response to a reporter's question on a report that suggested then-President Donald Trump tested positive for Covid-19 last year earlier than previously disclosed. 
  <p class="updated_time"> 01:56 PM CT, Dec. 01 </p> 
@@ -446,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/29/islamophobia-controversy-boebert-calls-omar-523457">Islamophobia controversy worsens after Boebert calls Omar</a> Politico: The Minnesota progressive ended her phone conversation with the Colorado conservative after both demanded public apologies — exacerbating already rock-bottom relations in the House. 
  <p class="updated_time"> 07:33 AM CT, Nov. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/29/congress-launches-year-end-sprint-495243">Congress launches year-end sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:12 AM CT, Nov. 29 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/29/dems-dicey-decision-punish-boebert-or-not-495239">POLITICO Playbook: Dems’ dicey decision: Punish Boebert or not?</a> Politico: And the Senate stares down a December pileup. 
 
 
 </details>
