@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:32 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 10:24 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/asia/india-russia-missile-defense-deal.html">India and Russia Expand Defense Ties, Despite Prospect of U.S. Sanctions</a> NYT: India’s purchase of a missile defense system signaled that it was more worried about an emboldened China at its borders than about angering the United States. 
+ <p class="updated_time"> 10:14 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
+ <p class="updated_time"> 10:10 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59554201?at_medium=RSS&at_campaign=KARANGA">Haiti kidnappers release three more missionaries after abduction</a> BBC: Three people among a group of 17 North American missionaries abducted in October are freed. 
  <p class="updated_time"> 10:07 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-59552524?at_medium=RSS&at_campaign=KARANGA">New York's workers must all have vaccine by 27 December</a> BBC: The city's mayor is introducing a vaccine mandate for all private sector employees from 27 December. 
- <p class="updated_time"> 10:06 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
- <p class="updated_time"> 09:55 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
  <p class="updated_time"> 09:51 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:49 AM CT, Dec. 06 </p> 
@@ -41,12 +47,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
+ <p class="updated_time"> 05:33 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China Moves to Boost Slowing Economy</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
  <p class="updated_time"> 05:13 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
+ <p class="updated_time"> 05:11 AM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
  <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230">China Increasingly Obscures True State of Its Economy to Outsiders</a> WSJ: New data restrictions have made it harder for foreigners to get details on what’s happening inside China, including about port activity, supplies and political dissent cases. Companies and governments are left trying to figure out how to engage. 
- <p class="updated_time"> 04:50 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -61,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 01:40 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/supply-chains-in-southeast-asia-are-less-vulnerable-after-delta-driven-disruptions-11638794416">Supply Chains Are Now Less Vulnerable in Southeast Asia</a> WSJ: Countries like Vietnam and Malaysia have learned from recent experience and are better prepared for fresh waves of the Covid-19 virus, economists and factory operators say. 
- <p class="updated_time"> 01:23 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/chinas-central-bank-cuts-reserve-requirement-ratio-for-banks-11638786385">China's Central Bank Cuts Reserve Requirement Ratio for Banks</a> WSJ: China’s central bank said it would reduce the amount of money banks are required to set aside as it moved to stimulate a slowing economy that has been weighed down by a slump in the property market. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 12:35 AM CT, Dec. 06 </p> 
@@ -181,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
  <p class="updated_time"> 10:30 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/pope-francis-cyprus-migrants.html">In Cyprus, Pope Francis Laments Indifference Toward Migrants</a> NYT: In a visit to Cyprus, Francis said it was his “responsibility to help open eyes” to migrants’ plight but acknowledged that the small island “can’t do everything” to accommodate so many people. 
- <p class="updated_time"> 09:01 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/eitan-biran-israel-italy.html">Eitan Biran Returns to Italy From Israel in Custody Dispute</a> NYT: Eitan Biran, who lost his parents in a cable car crash in Italy this year, had been taken to Israel by his grandfather, who is under investigation for abduction. 
  <p class="updated_time"> 06:20 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
@@ -208,20 +212,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump SPAC faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Republicans play the tweet card against Biden’s tech and telecom nominees</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and former President Donald Trump — posing yet another obstacle to Democrats' policy agenda. 
+ <p class="updated_time"> 10:33 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden to push Build Back Better Act, focusing on its prescription drug provisions</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
+ <p class="updated_time"> 10:29 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 10:07 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
- <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday. 
- <p class="updated_time"> 09:06 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
  <p class="updated_time"> 08:28 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/michael-flynn-deposition-postponed/index.html">January 6 committee postpones depositions with Michael Flynn and Trump's personal assistant</a> CNN: One-time Trump national security adviser Michael Flynn and the former President's personal assistant, who were scheduled to be deposed by a congressional committee Monday, have been granted short postponements, a committee aide tells CNN. 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:06 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
+ <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Analysis: Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:58 AM CT, Dec. 06 </p> 
@@ -362,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/climate/climate-change-infrastructure-bill.html">Billions for Climate Protection Fuel New Debate: Who Deserves It Most</a> NYT: The $1 trillion infrastructure law funds programs that tend to favor wealthy, white communities — a test for Biden’s pledge to defend the most vulnerable against climate change. 
  <p class="updated_time"> 12:40 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb">Congress avoids a government shutdown — but a long to-do list looms</a> NPR: Lawmakers are juggling must-pass items, like addressing the nation's borrowing authority and an annual defense authorization package, along with major political priorities for Democrats. 
- <p class="updated_time"> 12:06 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/eastman-takes-the-fifth-with-jan-6-committee-523712">Eastman takes the Fifth with Jan. 6 committee</a> Politico: The attorney, who helped former President Donald Trump contest the 2020 election, asserted his right against self-incrimination in a Dec. 1 letter to the Capitol riot panel. 
  <p class="updated_time"> 10:57 AM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061214253/bob-inglis-how-i-changed-my-mind-about-climate-change">Bob Inglis: How I changed my mind about climate change</a> NPR: Former GOP congressman Bob Inglis used to believe climate change wasn't real. But after a candid conversation with his children and a hard look at the evidence, he began to change his mind. 
  <p class="updated_time"> 10:34 AM CT, Dec. 03 </p> 
@@ -396,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
