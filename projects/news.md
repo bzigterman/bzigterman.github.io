@@ -7,20 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:10 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
+ <p class="updated_time"> 09:34 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: The U.S. Christian aid group said three more people were released from a group of 17 that had been kidnapped by a gang in Haiti. Two had been released last month. 
+ <p class="updated_time"> 09:33 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59551124?at_medium=RSS&at_campaign=KARANGA">Sylvester Oromoni: Nigerians demand justice over Dowen College death</a> BBC: The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”. 
+ <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
+ <p class="updated_time"> 09:28 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: New York City Announces Vaccine Mandate for Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” meant to curb another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
- <p class="updated_time"> 09:03 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">New York City Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 09:28 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/nyregion/nyc-vaccine-mandate-deblasio.html">N.Y.C. Sets Sweeping Vaccine Mandate for All Private Employers</a> NYT: Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant. 
+ <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
  <p class="updated_time"> 09:02 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
- <p class="updated_time"> 08:58 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 08:54 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/austria-chancellor-nehammer-kurz.html">Karl Nehammer Becomes Scandal-Shaken Austria's 3rd Chancellor This Year </a> NYT: Karl Nehammer, the former interior minister, becomes the country’s leader two months after the resignation of Sebastian Kurz, amid an investigation into corruption and influence-peddling. 
  <p class="updated_time"> 08:30 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
- <p class="updated_time"> 07:57 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59551124?at_medium=RSS&at_campaign=KARANGA">Sylvester Oromoni: Nigerians demand justice over Dowen College death</a> BBC: The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”. 
  <p class="updated_time"> 07:31 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59547353?at_medium=RSS&at_campaign=KARANGA">Far-right target critics with Twitter's new media policy</a> BBC: Far-right activists are using Twitter's new media policy to target anti-extremism researchers. 
  <p class="updated_time"> 07:25 AM CT, Dec. 06 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 04:33 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59546478?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell and Bette Midler pick up Kennedy Center Honors</a> BBC: The legendary Canadian singer makes a rare public appearance at a ceremony hosted by Joe Biden. 
- <p class="updated_time"> 04:13 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1060173548/carbon-trading-gets-a-green-light-from-the-u-n-and-brazil-hopes-to-earn-billions">Carbon trading gets a green light from the U.N., and Brazil hopes to earn billions</a> NPR: Carbon offsets got a big boost from November's U.N. climate summit. New rules could make it easier for companies to pay for carbon-cutting projects in other countries, rather than doing it themselves. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -185,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-variant-us-cases-vaccines.html">U.S. Health Officials Project Resolve Against Omicron Variant</a> NYT: After the first case of an Omicron infection was detected in the U.S., the country saw the highest daily total of vaccine shots since May, though the reporting could be skewed by holiday reporting lags. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
- <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
  <p class="updated_time"> 02:07 PM CT, Dec. 03 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
- <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
 
 
 </details>
@@ -210,7 +210,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:15 AM CT, Dec. 06 </p> 
+ <p class="updated_time"> 09:31 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday. 
  <p class="updated_time"> 09:06 AM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-putin-call-ukraine-sanctions/index.html">Biden considers sanctions against Putin's inner circle ahead of this week's key call</a> CNN: US officials are currently weighing a wide set of sanctions on Russia meant to deter Russian President Vladimir Putin from launching an invasion into Ukraine, according to people familiar with the discussions. 
@@ -229,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:39 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/myanmar-court-leader-suu-kyi-523780">Myanmar court sentences ousted leader Suu Kyi to 4 years</a> Politico: The sentencing for incitement and violating coronavirus restrictions was the first in a series of cases to prosecute the 76-year-old Nobel laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 05:01 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden's plan for a 'no drama' December</a> Politico: It's a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
+ <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden’s plan for a ‘no drama’ December</a> Politico: It’s a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
  <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
@@ -237,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Democrats fall flat with ‘Latinx’ language</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party's own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
+ <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-perdue-seeks-to-unseat-georgias-republican-governor">Trump ally Perdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
@@ -346,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/us/politics/phone-hack-nso-group-israel-uganda.html">Israeli Company’s Spyware Is Used to Target U.S. Embassy Employees in Africa</a> NYT: The hack is the first known case of the spyware, known as Pegasus, being used against American officials. 
  <p class="updated_time"> 06:26 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
- <p class="updated_time"> 06:10 PM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/syria-drone-strike-investigation-central-command/index.html">US military launches investigation after possible civilian casualties in Syria strike targeting al Qaeda leader</a> CNN: US Central Command has launched an investigation after a drone strike against a senior al Qaeda leader in northwest Syria on Friday may have killed civilians, according to a spokesman for Central Command. 
  <p class="updated_time"> 05:49 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/business/economy/debt-ceiling-xdate.html">Debt Ceiling Window Is Narrowing, Bipartisan Policy Center Warns</a> NYT: The United States could default as soon as Dec. 21 if Democrats and Republicans fail to extend the Treasury Department’s borrowing authority. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
@@ -400,6 +398,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
+ <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
  <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
