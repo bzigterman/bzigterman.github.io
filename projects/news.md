@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:20 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader, who faces a total of 11 charges. 
+ <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 11:30 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 11:29 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">FARC: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-45667690?at_medium=RSS&at_campaign=KARANGA">Obituary: Bob Dole, WWII veteran and Republican stalwart</a> BBC: Long-serving senator, who recovered from terrible injuries to run for president, dies at 98 
- <p class="updated_time"> 11:14 AM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59538413?at_medium=RSS&at_campaign=KARANGA">Pope condemns treatment of migrants in Europe</a> BBC: Visiting a camp in Greece, Francis calls the neglect of migrants the "shipwreck of civilisation". 
  <p class="updated_time"> 10:25 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/switzerland-quarantine-travel-omicron.html">Switzerland Backtracks on Mandatory Quarantines for Some Foreign Visitors</a> NYT: Reservations for the Christmas vacation season had plummeted over the Covid restrictions. 
  <p class="updated_time"> 10:24 AM CT, Dec. 05 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/03/1061333594/paolo-sorrentinos-new-film-the-hand-of-god-is-based-on-his-adolescence-in-naples">Paolo Sorrentino's new film 'The Hand of God' is based on his adolescence in Naples</a> NPR: Italian film director Paolo Sorrentino discusses his new film The Hand of God, which opens in U.S. theaters Dec. 3. It's about the tragedy he experienced as a teen and the escape he found in cinema. 
  <p class="updated_time"> 04:10 PM CT, Dec. 03 </p> 
  <a href="https://www.npr.org/2021/12/03/1061333587/why-orcas-have-been-lingering-longer-in-the-arctic">Why Orcas have been lingering longer in the Arctic</a> NPR: Orcas are lingering longer in the Arctic Ocean, as sea ice there shrinks. The whales often travel to access varieties of prey, but it's likely there are now more hunting opportunities in the Arctic. 
- <p class="updated_time"> 03:52 PM CT, Dec. 03 </p> 
- <a href="https://www.npr.org/2021/12/03/1061333559/south-africa-is-seeing-a-4th-surge-of-covid-19-thats-being-driven-by-omicron">South Africa is seeing a 4th surge of COVID-19 that's being driven by omicron</a> NPR: South Africa's health ministry says the rate of infection is the highest since the beginning of the COVID-19 pandemic. 
  <p class="updated_time"> 03:35 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
