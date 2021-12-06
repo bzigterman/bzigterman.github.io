@@ -214,7 +214,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:27 PM CT, Dec. 05 </p> 
+ <p class="updated_time"> 08:52 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 08:02 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
