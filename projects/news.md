@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 02:25 AM CT, Dec. 06 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
- <p class="updated_time"> 01:07 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
@@ -206,12 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:52 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
- <p class="updated_time"> 08:52 PM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/biden-beijing-olympics-boycott/index.html">Biden administration expected to announce diplomatic boycott of Beijing Olympics this week</a> CNN: The Biden administration is expected to announce this week that no US government officials will attend the 2022 Beijing Olympics, implementing a diplomatic boycott of the games, according to several sources. 
  <p class="updated_time"> 06:54 PM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/us-cyber-command-disrupt-ransomware-operations/index.html">US military's hacking unit publicly acknowledges taking offensive action to disrupt ransomware operations</a> CNN: Cyber Command, the US military's hacking unit, has taken offensive action to disrupt cybercriminal groups that have launched ransomware attacks on US companies, a spokesperson for the command confirmed to CNN Sunday. 
  <p class="updated_time"> 06:50 PM CT, Dec. 05 </p> 
