@@ -55,7 +55,7 @@ recent_data <- data %>%
   mutate(change = value - lag(value))
 
 employment <- ggplot(data, aes(x = date,
-                                      y = value/1000)) +
+                               y = value/1000)) +
   geom_line() +
   labs(title = "Total Nonfarm Payroll") +
   xlab(NULL) +
@@ -72,14 +72,14 @@ employment <- ggplot(data, aes(x = date,
              horizontal = FALSE) +
   theme_bw() +
   theme(#axis.text.y = element_text(size = 10),
-        #axis.text.x = element_text(size = 8),
-        # panel.grid.minor = element_blank(),
-        # panel.background = element_blank(),
-        # panel.grid.major.x = element_line(colour = "grey93"),
-        #panel.grid.major.y = element_line(colour = "grey93"),
-        # #strip.text = element_text(size = 11),
-        #strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+    #axis.text.x = element_text(size = 8),
+    # panel.grid.minor = element_blank(),
+    # panel.background = element_blank(),
+    # panel.grid.major.x = element_line(colour = "grey93"),
+    #panel.grid.major.y = element_line(colour = "grey93"),
+    # #strip.text = element_text(size = 11),
+    #strip.background = element_blank(),
+    plot.caption = element_text(colour = "grey40"))
 employment
 ### employment change ----
 employment_change <- ggplot(recent_data, aes(x = date,
@@ -97,13 +97,13 @@ employment_change <- ggplot(recent_data, aes(x = date,
   scale_y_continuous(position = "right",
                      labels = label_comma(suffix = "M")) +
   theme(#axis.text.y = element_text(size = 10),
-        #axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+    #axis.text.x = element_text(size = 8),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    strip.text = element_text(size = 11),
+    strip.background = element_blank(),
+    plot.caption = element_text(colour = "grey40"))
 
 plot_grid(employment, employment_change,
           ncol = 1,
@@ -221,13 +221,13 @@ gdp_change <- ggplot(recent_data, aes(x = date,
   scale_y_continuous(position = "right",
                      labels = label_percent()) +
   theme(#axis.text.y = element_text(size = 10),
-        #axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+    #axis.text.x = element_text(size = 8),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    strip.text = element_text(size = 11),
+    strip.background = element_blank(),
+    plot.caption = element_text(colour = "grey40"))
 
 plot_grid(gdp, gdp_change,
           ncol = 1,
@@ -308,7 +308,7 @@ recent_data <- data %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
 ggplot(data, aes(x = date,
-                        y = value/1000)) +
+                 y = value/1000)) +
   geom_line() +
   labs(title = "Durable Goods Orders",
        caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -475,8 +475,8 @@ ggplot(recent_data, aes(x = date,
         plot.caption = element_text(colour = "grey40"))
 
 cpi <- ggplot(data = data,
-                    aes(x = date,
-                        y = change)) +
+              aes(x = date,
+                  y = change)) +
   geom_line() +
   labs(title = "Inflation: Consumer Price Index",
        caption = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
@@ -607,8 +607,8 @@ recent_data <- data %>%
   mutate(short_date = paste(year(date))) 
 
 champaign_population <- ggplot(data = data,
-                                  aes(x = date,
-                                      y = value)) +
+                               aes(x = date,
+                                   y = value)) +
   geom_line() +
   labs(title = "Population",
        caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -801,7 +801,7 @@ ggplot(data = data,
   scale_y_continuous(position = "right") +
   scale_x_date(expand = expansion(mult = c(0, 0))) +
   scale_color_manual(guide = "none",
-                    values = c("#b32704","#199fa8")) +
+                     values = c("#b32704","#199fa8")) +
   facet_zoom(x = date > recent_years,
              zoom.size = 4,
              ylim = c(min(recent_data$value),
@@ -828,8 +828,8 @@ recent_data <- data %>%
   mutate(short_date = paste(year(date))) 
 
 il_population <- ggplot(data = data,
-                                  aes(x = date,
-                                      y = value)) +
+                        aes(x = date,
+                            y = value)) +
   geom_line() +
   labs(title = "Population",
        caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -838,8 +838,9 @@ il_population <- ggplot(data = data,
   ylab(NULL) +
   #expand_limits(y=0) +
   scale_y_continuous(position = "right",
-                     labels = label_comma(suffix = "K",
-                                          accuracy = 1)) +
+                     labels = label_comma(suffix = "M",
+                                          scale = .001,
+                                          accuracy = .1)) +
   scale_x_date(expand = expansion(mult = c(0, 0))) +
   facet_zoom(x = date > past_ten_years,
              zoom.size = 4,
