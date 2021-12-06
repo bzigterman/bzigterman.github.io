@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander was notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 03:15 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 03:04 AM CT, Dec. 06 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
- <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 10:41 PM CT, Dec. 05 </p> 
