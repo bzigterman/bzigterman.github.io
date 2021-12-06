@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 02:25 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 02:00 AM CT, Dec. 06 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
- <p class="updated_time"> 01:04 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 11:29 PM CT, Dec. 05 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Putin in India: What Russian president's Delhi visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
+ <p class="updated_time"> 07:51 PM CT, Dec. 05 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 07:33 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
  <p class="updated_time"> 10:59 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html">France's Éric Zemmour Tries Channeling De Gaulle to Win Votes</a> NYT: Éric Zemmour has adopted imagery reminiscent of Charles de Gaulle, the wartime leader. But his call for reborn glory for France is sharply at odds with the realities of the country today. 
- <p class="updated_time"> 09:55 PM CT, Dec. 04 </p> 
- <a href="https://www.wsj.com/articles/indonesian-volcano-erupts-killing-more-than-a-dozen-11638694504">Indonesian Volcano Erupts, Killing More Than a Dozen</a> WSJ: Mount Semeru, on the Indonesian island of Java, sent billowing hot clouds and volcanic ash toward nearby villages. 
  <p class="updated_time"> 08:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
