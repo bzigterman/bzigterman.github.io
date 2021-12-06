@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 01:43 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/29/world/asia/myanmar-president-mayor-convicted.html">Myanmar Ex-President and Former Mayor Are Convicted</a> NYT: The court also sentenced U Win Myint, the former president, and U Myo Aung, the ousted mayor of Naypyidaw. 
+ <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-president-mayor-convicted.html">Myanmar Ex-President and Former Mayor Are Convicted</a> NYT: The court also sentenced U Win Myint, the former president, and U Myo Aung, the ousted mayor of Naypyidaw. 
  <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 01:07 AM CT, Dec. 06 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 11:29 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Brutal mob killing of Sri Lankan sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
+ <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59543742?at_medium=RSS&at_campaign=KARANGA">Farc: Colombian rebel commander 'El Paisa' killed in Venezuela</a> BBC: The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings. 
  <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
@@ -32,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:34 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: What Russian president's India visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Putin in India: What Russian president's Delhi visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
  <p class="updated_time"> 07:33 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/asia/maria-ressa-nobel-peace-prize.html">Philippine Court Allows Maria Ressa to Attend Nobel Peace Prize Ceremony</a> NYT: The decision came after days of growing international pressure on the government to allow the journalist to attend the ceremony in Norway. 
  <p class="updated_time"> 03:01 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/australia/how-long-can-students-wait-for-australia-to-reopen.html">How Long Can Students Wait for Australia to Reopen?</a> NYT: As the Omicron variant heralds more uncertainty, international students weigh up their options. 
- <p class="updated_time"> 02:00 AM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/americas/brazil-climate-change-barren-land.html">A Slow-Motion Climate Disaster: The Spread of Barren Land</a> NYT: Brazil’s northeast, long a victim of droughts, is now effectively turning into a desert. The cause? Climate change and the landowners who are most affected. 
 
 
 </details>
