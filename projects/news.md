@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
+ <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
+ <p class="updated_time"> 07:22 AM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: Restrictions Keep Chinese Tourists at Home, Crippling Industry</a> NYT: Even before the new variant, China was discouraging foreign travel to maintain a zero-Covid approach. That has had a huge impact on tourism worldwide. 
+ <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 06:18 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59545457?at_medium=RSS&at_campaign=KARANGA">Covid: UK red list criticised as 'travel apartheid' by Nigeria</a> BBC: Nigeria - which was added to the red list on Monday - describes the restrictions as "selective". 
  <p class="updated_time"> 05:19 AM CT, Dec. 06 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 04:33 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59546478?at_medium=RSS&at_campaign=KARANGA">Joni Mitchell and Bette Midler pick up Kennedy Center Honors</a> BBC: The legendary Canadian singer makes a rare public appearance at a ceremony hosted by Joe Biden. 
- <p class="updated_time"> 04:15 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/03/world/omicron-variant-covid">Covid Updates: F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Fauci and top U.S. officials project strength in fighting Omicron, which has been found in at least 11 states. New research in South Africa indicates that the variant can spread more easily than Delta. 
  <p class="updated_time"> 04:13 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader to four years jail</a> BBC: This is the first verdict delivered for the ex-leader of Myanmar, who faces a total of 11 charges. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
@@ -33,16 +39,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59501368?at_medium=RSS&at_campaign=KARANGA">Pakistan: Killing of Sri Lankan accused of blasphemy sparks protests</a> BBC: More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
- <p class="updated_time"> 02:00 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 01:34 AM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59545455?at_medium=RSS&at_campaign=KARANGA">Eric Zemmour: Far-right French presidential candidate grabbed at rally</a> BBC: A man grabs Eric Zemmour by the neck at the far-right presidential candidate's first rally. 
  <p class="updated_time"> 01:06 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/asia/afghanistan-land-ownership-taliban.html">In Afghanistan, ‘Who Has the Guns Gets the Land’</a> NYT: A decades-long fight over land has been reinvigorated as Taliban leaders look to reward their fighters with property, even if that means evicting others. 
  <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Myanmar court sentences ousted leader Aung San Suu Kyi to 4 years</a> NPR: The ruling is the first in a series of cases brought against the Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
- <p class="updated_time"> 10:57 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 10:41 PM CT, Dec. 05 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-four-years-in-prison-11638773465">Myanmar's Aung San Suu Kyi Sentenced to Four Years in Prison</a> WSJ: The guilty verdicts for incitement and breaching pandemic rules are the first in a raft of charges brought against the ousted leader by the military. 
  <p class="updated_time"> 09:44 PM CT, Dec. 05 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 09:21 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59515741?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: What Russian president's India visit means for world politics</a> BBC: Russia and India ties are facing challenges from fast-changing geopolitics in Asia and beyond. 
- <p class="updated_time"> 07:33 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59542813?at_medium=RSS&at_campaign=KARANGA">Gambia elections: Adama Barrow declared presidential election winner</a> BBC: The electoral commission names Adama Barrow the winner despite his opponents questioning the vote. 
  <p class="updated_time"> 07:22 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59507542?at_medium=RSS&at_campaign=KARANGA">Covid in Uganda: The man whose children may never return to school</a> BBC: The 20-month school closure in Uganda could have a long-term impact on many lives there. 
  <p class="updated_time"> 07:11 PM CT, Dec. 05 </p> 
@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/omicron-norway-christmas-party.html">Possible Omicron Cases Emerge from Christmas Party in Oslo, Norway</a> NYT: All those infected were fully vaccinated and tested before entering a restaurant in central Oslo, where one traveler from South Africa carried the new variant. 
  <p class="updated_time"> 03:09 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/canada/parliament-conversion-therapy-ban.html">Canada is One Step Closer to Banning Conversion Therapy</a> NYT: After bitterly opposing an earlier attempt to ban conversion therapy, the Conservatives whisked a new bill through the House of Commons. 
- <p class="updated_time"> 02:14 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/middleeast/israel-shira-isakov-domestic-violence.html">Stabbed 20 Times by Her Husband, She Now Fights Laws Favoring Abusers</a> NYT: Shira Isakov, once a little-known Israeli working in advertising, has become a national force in the struggle to combat domestic violence and change the legal landscape on parental rights. 
  <p class="updated_time"> 02:07 PM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/italy-vaccine-fake-arm.html">Man in Italy Tries to Get Vaccinated in a Fake Arm</a> NYT: The stratagem was the latest and perhaps most original episode of vaccine evasion in the struggle between Italy’s government and the country’s anti-vaccine faction. 
  <p class="updated_time"> 01:24 PM CT, Dec. 03 </p> 
@@ -197,6 +195,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/botswana-diplomats-omicron-europe.html">Botswana’s President Says Diplomats With Omicron 'Had Been to Europe'</a> NYT: Botswana and South Africa were the first countries to identify cases involving the Omicron variant, and an official in Botswana asserted that most of the initial 19 were “imported.” 
  <p class="updated_time"> 10:37 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html">Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Therapy</a> NYT: Samantha Lewis is relearning some basic aspects of her daily life after struggling with brain fog and other lingering symptoms for more than a year since being infected by the virus. 
+ <p class="updated_time"> 09:55 AM CT, Dec. 03 </p> 
+ <a href="https://www.nytimes.com/2021/12/03/world/south-korea-covid.html">South Korea Temporarily Re-Tightens Covid Restrictions</a> NYT: The country also confirmed its first cluster of the Omicron variant, in a church where two locally transmitted cases were found and 800 were being tested. 
  <p class="updated_time"> 06:41 AM CT, Dec. 03 </p> 
  <a href="https://www.nytimes.com/2021/12/03/world/europe/metal-detector-axe.html">English Teenager Finds Bronze Age Ax Using a Metal Detector</a> NYT: On her third day out with a metal detector, Milly Hardwick, 13, found a hoard of items from more than 3,000 years ago. “We were just laughing our heads off,” she said. 
 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:06 AM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
  <p class="updated_time"> 05:58 AM CT, Dec. 06 </p> 
@@ -221,13 +223,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/jan-6-generals-lied-ex-dc-guard-official-523777">'Absolute liars': Ex-D.C. Guard official says generals lied to Congress about Jan. 6</a> Politico: In a 36-page memo to the Capitol riot committee, Col. Earl Matthews also slams the Pentagon's inspector general for what he calls an error-ridden report. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Hispanic voters: Latinx term isn’t helping</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
+ <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Democrats fall flat with ‘Latinx’ language</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party's own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-seeks-to-unseat-georgias-republican-governor">Trump ally Purdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
- <p class="updated_time"> 04:08 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
+ <a href="https://www.npr.org/2021/12/06/1061727147/trump-ally-perdue-seeks-to-unseat-georgias-republican-governor">Trump ally Perdue seeks to unseat Georgia's Republican governor</a> NPR: Donald Trump has asked former U.S. Sen. David Perdue, a Republican, to run against Georgia's incumbent Republican Gov. Brian Kemp. What does it mean for Republicans and for Democrats? 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1057344561/anti-vaccine-activists-political-conference-trump-republicans">Inside the growing alliance between anti-vaccine activists and pro-Trump Republicans</a> NPR: As the U.S. heads into midterm elections next year, the political right and the anti-vaccine movement are drawing ever-closer together — potentially at the cost of thousands of American lives. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
