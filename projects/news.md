@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
+ <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178480/as-turkeys-currency-drops-some-worry-the-government-cant-turn-things-around">As Turkey's currency drops, some worry the government can't turn things around</a> NPR: Turkey's currency has recently hit record lows in value, driving up prices in the country. But the president's recipe for fixing the problem is the opposite of what economists generally recommend. 
+ <p class="updated_time"> 03:31 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
+ <p class="updated_time"> 03:30 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59571857?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sees never-before-seen photos of Epstein and defendant</a> BBC: FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
- <p class="updated_time"> 03:14 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/health/teens-mental-health-murthy.html">The U.S. surgeon general warns of a mental health crisis among young people, worsened by the pandemic.</a> NYT: The message came as part of a rare public advisory from the nation’s top physician, Dr. Vivek H. Murthy. 
  <p class="updated_time"> 02:10 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59571277?at_medium=RSS&at_campaign=KARANGA">Bitcoin 'founder' to keep 1m Bitcoin cache</a> BBC: A jury decided Craig Wright, who says he created the cryptocurrency, can retain bitcoin worth billions of dollars. 
- <p class="updated_time"> 01:55 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
  <p class="updated_time"> 01:49 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59561881?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Suspect in murder of journalist arrested in Paris</a> BBC: French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday. 
  <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-russian-president-putin-start-call-11638894107">Biden Warns Putin Invasion of Ukraine to Be Met With Economic Response and More</a> WSJ: President Biden warned Russian President Vladimir Putin that the U.S. and its allies would meet a military escalation in Ukraine with strong economic and other measures, the White House said. 
  <p class="updated_time"> 09:00 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59554585?at_medium=RSS&at_campaign=KARANGA">Vishal Garg: US boss fires 900 employees over Zoom</a> BBC: "Last time I did this I cried," said the head of the online mortgage lender laying off 15% of his staff. 
- <p class="updated_time"> 08:20 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 38 people died and scores more were injured. 
  <p class="updated_time"> 08:06 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59565690?at_medium=RSS&at_campaign=KARANGA">Super-rich increase their share of world's income</a> BBC: A major report on wealth and inequality says 2020 saw the steepest rise in billionaires' wealth on record. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 05:51 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59561876?at_medium=RSS&at_campaign=KARANGA">Nearly 70 Spanish medics Covid positive after Christmas party</a> BBC: The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week. 
- <p class="updated_time"> 05:49 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/britain-omicron-cases-restrictions.html">Britain Counts Around 160 Omicron Cases and Tightens Restrictions</a> NYT: An additional testing requirement for travelers is being imposed, as well as a ban on visitors from Nigeria, where the variant was detected this week. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
- <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/biden-bank-cop-nominee-withdraws-523907">Biden bank cop nominee withdraws after pushback from moderate Dems</a> Politico: Saule Omarova’s confirmation process became increasingly unpleasant, with some GOP lawmakers suggesting that the Soviet-born academic had communist sympathies, an allegation she has vigorously denied. 
+ <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178456/republican-elections-lawyer-calls-for-reform-to-the-electoral-count-act">Republican elections lawyer calls for reform to the Electoral Count Act</a> NPR: NPR's Ari Shapiro talks with election lawyer Ben Ginsberg on his National Review article calling to reform the Electoral Count Act, which spells out how Congress calculates the electoral college vote. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
@@ -247,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:09 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-book-trump-kavanaugh-523877">Meadows: Trump considered yanking Kavanaugh over ‘I like beer’ comments and apologetic tone</a> Politico: The president’s one-time chief of staff also says he’s currently “finding secretaries and undersecretaries” to staff a future Trump administration. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell closes in on support for new debt ceiling strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
+ <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 12:02 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 11:20 AM CT, Dec. 07 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
- <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896235/doj-is-suing-texas-saying-its-redistricting-plans-put-some-voters-at-a-disadvant">DOJ is suing Texas, saying its redistricting plans put some voters at a disadvantage</a> NPR: The Justice Department is suing Texas over its redistricting plans, saying the state is disadvantaging the Latino and Black voters responsible for most growth in the population over the last decade. 
  <p class="updated_time"> 03:06 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
- <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
