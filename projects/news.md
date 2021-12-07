@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59544221?at_medium=RSS&at_campaign=KARANGA">Peter Foster: Australian conman caught after six-month manhunt</a> BBC: Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges. 
  <p class="updated_time"> 12:22 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
  <p class="updated_time"> 07:55 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Plans Diplomatic Boycott of Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
- <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59547054?at_medium=RSS&at_campaign=KARANGA">Brexit: Ireland to receive €920m for Brexit impact</a> BBC: The country is the first to get money from the European Commission's Brexit Adjustment Reserve. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
