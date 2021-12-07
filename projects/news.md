@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:02 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
  <p class="updated_time"> 08:31 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061611299/indonesia-volcano-eruption-java-mount-semeru">At least 13 people are dead after volcano erupts on the Indonesian island of Java</a> NPR: Mount Semeru, located on Indonesia's most densely populated island, spewed thick columns of ash more than 40,000 feet into the sky, and sent searing gas and lava flowing down its slopes. 
- <p class="updated_time"> 08:11 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1061607883/pope-francis-lesbos-greece-refugee-crisis">Pope Francis returns to Lesbos, Greece and pleads for action on migrant crisis</a> NPR: Francis returned to Lesbos, an island that has been at the heart of a massive wave of migration to Europe, and called on nations to end "this shipwreck of civilization." 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
@@ -198,8 +198,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin hold high-stakes two-hour call over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
+ <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178456/republican-elections-lawyer-calls-for-reform-to-the-electoral-count-act">Republican elections lawyer calls for reform to the Electoral Count Act</a> NPR: NPR's Ari Shapiro talks with election lawyer Ben Ginsberg on his National Review article calling to reform the Electoral Count Act, which spells out how Congress calculates the electoral college vote. 
+ <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Publisher pulls Chris Cuomo’s upcoming book.</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
+ <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
+ <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
+ <p class="updated_time"> 03:04 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden told Putin that 'things we did not do in 2014, we are prepared to do now' if Russia invades Ukraine, top adviser says</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 02:54 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 02:44 PM CT, Dec. 07 </p> 
@@ -210,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">McConnell cuts deal with Democrats on new plan to avoid default</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 02:35 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-border-wall/index.html">Border land returned to Texas family after it was seized for wall</a> CNN: The Biden administration will return the land of a Texas family after seizing the property earlier this year for border wall construction, according to a Tuesday court filing. 
- <p class="updated_time"> 02:32 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Publisher pulls Chris Cuomo’s upcoming book.</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
  <p class="updated_time"> 02:12 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-texas/index.html">Texas could test one of Biden's core political bets</a> CNN: No state may benefit more than Texas from the social programs included in President Joe Biden's Build Back Better agenda, an array of recent analyses show -- despite the fierce opposition to the bill from the state's Republican leadership. And over time that dynamic could make the state a crucial proving ground for one of the White House's core political bets. 
  <p class="updated_time"> 02:12 PM CT, Dec. 07 </p> 
@@ -255,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s ‘zero Covid strategy’ chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Meadows pulls out of tentative cooperation deal with Jan. 6 investigators</a> Politico: The move comes as he takes heat from Donald Trump allies for writing a book that addresses the former president's vulnerability while battling Covid. 
+ <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 09:33 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/trump-covid-diagnosis-mark-meadows-book/index.html">Trump's blood oxygen levels were at a 'dangerously low level' during 2020 Covid-19 diagnosis, ex-chief of staff says</a> CNN: Then-President Donald Trump's blood oxygen level dipped down to a "dangerously low level" hours after he announced back in October 2020 that he tested positive for Covid-19, according to his former chief of staff Mark Meadows. 
  <p class="updated_time"> 08:26 AM CT, Dec. 07 </p> 
@@ -334,10 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
  <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896235/doj-is-suing-texas-saying-its-redistricting-plans-put-some-voters-at-a-disadvant">DOJ is suing Texas, saying its redistricting plans put some voters at a disadvantage</a> NPR: The Justice Department is suing Texas over its redistricting plans, saying the state is disadvantaging the Latino and Black voters responsible for most growth in the population over the last decade. 
- <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896228/new-york-will-have-the-nations-1st-vaccine-mandate-for-private-sector-emplo">New York City will have the nation's 1st vaccine mandate for private sector employers</a> NPR: New York City Mayor Bill deBlasio has announced what he called a "pre-emptive strike" before the winter — a vaccine mandate for private sector employers. 
- <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896214/biden-is-set-to-have-a-video-call-with-putin-on-tuesday-heres-whats-at-stake">Biden is set to have a video call with Putin on Tuesday. Here's what's at stake</a> NPR: President Biden is having a video call on Tuesday with Russian President Vladimir Putin amid growing concern about Russian troops amassed on the Ukraine border. 
  <p class="updated_time"> 03:06 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/nyregion/max-rose-congress-malliotakis.html">Max Rose to Run for House, Seeking a Rematch Against Malliotakis</a> NYT: Mr. Rose, a moderate Democrat, lost to Representative Nicole Malliotakis, a Republican, by six percentage points last year in a conservative New York City district that includes Staten Island. 
  <p class="updated_time"> 02:06 PM CT, Dec. 06 </p> 
@@ -366,14 +370,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 06:05 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-obama-biden-reactions.html">Biden, Obama and Other Leaders React to Bob Dole's Death</a> NYT: Former presidents and political leaders recalled Mr. Dole’s dignity, sense of humor and lifetime commitment to public service. 
  <p class="updated_time"> 06:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-humor.html">Six Memorable Quotes From Bob Dole, Known for Sarcastic Wit</a> NYT: Bob Dole, who died on Sunday at age 98, was generous with his sarcastic wit, using it against Democrats, Republicans and often himself. 
  <p class="updated_time"> 06:02 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-senate.html">Bob Dole Embodied ‘Shared Values’ in Washington</a> NYT: Bob Dole, a Kansas Republican, brought his no-nonsense manner to Washington, cutting deals during a bygone era. “He was in a sense Mr. America,” the historian Robert Dallek said. 
- <p class="updated_time"> 01:07 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/us-military-ransomware-cyber-command.html">U.S. Military Has Acted Against Ransomware Groups, General Acknowledges</a> NYT: Gen. Paul M. Nakasone, the head of Cyber Command, said a new cross-functional effort has been gathering intelligence to combat criminal groups targeting U.S. infrastructure. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
