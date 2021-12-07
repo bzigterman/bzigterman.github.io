@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:50 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 08:20 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
- <p class="updated_time"> 07:47 PM CT, Dec. 06 </p> 
+ <p class="updated_time"> 08:16 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for £150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
+ <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
+ <p class="updated_time"> 08:12 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
+ <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
+ <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
- <p class="updated_time"> 06:47 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
  <p class="updated_time"> 06:44 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 06:39 PM CT, Dec. 06 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 02:26 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">On Ukrainian Front, Grinding War and Weary Anticipation of Invasion</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
- <p class="updated_time"> 01:46 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 01:37 PM CT, Dec. 06 </p> 
@@ -198,16 +202,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:32 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/04/us/politics/mississippi-supreme-court-abortion-roe-v-wade.html">Critical Moment for Roe, and the Supreme Court’s Legitimacy</a> NYT: As justices consider Mississippi’s restrictive abortion law, scholars debate what a reversal of Roe v. Wade would mean for the court’s credibility. 
+ <p class="updated_time"> 09:23 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/justice-department-bannon-strategy-523863">DOJ aims to block key Bannon defense strategy</a> Politico: Prosecutors did not explain in a court filing why they don’t think relying on his attorney’s advice is a defense for the former Trump adviser, who is charged with contempt of Congress. 
+ <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/jussie-smollett-hoax-trial-523861">Jussie Smollett testifies at his trial: ‘There was no hoax’</a> Politico: The actor faces charges that he lied to Chicago police about the January 2019 attack. 
+ <p class="updated_time"> 08:25 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
+ <p class="updated_time"> 08:08 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-supreme-court-commission.html">Biden’s Supreme Court Commission Prepares to Vote on Final Report</a> NYT: A draft version of the document flagged deep disputes over court expansion while exploring how phasing in term limits might work. 
+ <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
  <p class="updated_time"> 07:07 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
- <p class="updated_time"> 07:01 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
- <p class="updated_time"> 06:47 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
  <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">CNN Exclusive: Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 06:31 PM CT, Dec. 06 </p> 
@@ -330,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/hispanic-voters-latinx-term-523776">Democrats fall flat with ‘Latinx’ language</a> Politico: “Why are we using a word that is preferred by only 2 percent, but offends as many as 40 percent of those voters we want to win?” said one pollster. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:04 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html">Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98</a> NYT: Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders. 
  <p class="updated_time"> 06:05 PM CT, Dec. 05 </p> 
@@ -368,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
