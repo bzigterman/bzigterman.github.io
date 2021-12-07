@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
+ <p class="updated_time"> 05:39 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 03:30 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59554585?at_medium=RSS&at_campaign=KARANGA">Vishal Garg: US boss fires 900 employees over Zoom</a> BBC: "Last time I did this I cried," said the head of the online mortgage lender laying off 15% of his staff. 
- <p class="updated_time"> 03:16 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Aung San Suu Kyi's conviction is a further blow to democracy in Myanmar</a> NPR: The ruling is the first in a series of cases brought against Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
- <p class="updated_time"> 06:07 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59525740?at_medium=RSS&at_campaign=KARANGA">James Webb Space Telescope scientist: 'It's the future of astrophysics'</a> BBC: The James Webb Space Telescope is expected to be 100 times more powerful than the Hubble. 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
