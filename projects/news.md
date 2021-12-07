@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Boycott of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott or not. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 04:24 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 04:19 AM CT, Dec. 07 </p> 
@@ -185,14 +189,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 07:36 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/in-one-week-omicron-plunged-the-world-into-collective-uncertainty.html">Omicron Plunged World Into Uncertainty</a> NYT: The global pandemic has been transformed at dizzying speed in the days since scientists in South Africa announced the detection of the new, highly mutated variant. 
- <p class="updated_time"> 05:34 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/science/sherif-r-zaki-dead.html">Dr. Sherif R. Zaki, Acclaimed Disease Detective, Dies at 65</a> NYT: He helped identify numerous viruses, including Covid-19, as well as the bioterrorism attack that spread anthrax in 2001. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
- <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
 
 
 </details>
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/debt-ceiling-negotiations-congress/index.html">Mitch McConnell moves to cut deal on debt ceiling but faces GOP resistance</a> CNN: Senate Minority Leader Mitch McConnell is quietly moving to concoct a plan that would allow the nation's borrowing limit to be raised and force Democrats to ultimately cast the decisive and politically toxic vote — but he'll first have to sell it to Republicans. 
  <p class="updated_time"> 09:12 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Right vs. Right vs. Left: Governor’s Race Puts Georgia at Center of 2022 Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
