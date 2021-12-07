@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
- <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 07:03 AM CT, Dec. 07 </p> 
