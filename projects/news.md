@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59558121?at_medium=RSS&at_campaign=KARANGA">Emmett Till: US closes investigation without charges</a> BBC: The justice department says there is "insufficient evidence" to back a writer's claim a witness lied. 
+ <p class="updated_time"> 10:01 PM CT, Dec. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 09:33 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
- <p class="updated_time"> 06:44 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 06:39 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516157?at_medium=RSS&at_campaign=KARANGA">Amalia: The heir to the Dutch throne keeps it normal at 18</a> BBC: Princess Amalia had an ordinary childhood and wants her life to continue that way. 
  <p class="updated_time"> 06:34 PM CT, Dec. 06 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 09:51 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
- <p class="updated_time"> 09:19 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59544484?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar court sentences ousted leader in widely criticised trial</a> BBC: The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison. 
  <p class="updated_time"> 09:08 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/three-more-kidnapped-missionaries-in-haiti-are-released-11638805842">Three More Kidnapped Missionaries in Haiti Are Released</a> WSJ: A total of five of the 17 U.S. and Canadian missionaries who were kidnapped in October have now been freed. 
  <p class="updated_time"> 09:02 AM CT, Dec. 06 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes Will Quit the House to Take Over Trump’s Media Company</a> NYT: The California Republican, who had pugnaciously defended Donald J. Trump, chose the media company role over a potentially powerful new post in Congress. 
  <p class="updated_time"> 09:23 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/justice-department-bannon-strategy-523863">DOJ aims to block key Bannon defense strategy</a> Politico: Prosecutors did not explain in a court filing why they don’t think relying on his attorney’s advice is a defense for the former Trump adviser, who is charged with contempt of Congress. 
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
  <p class="updated_time"> 06:09 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061959400/bidens-supreme-court-commission-releases-draft-report">Biden's Supreme Court commission steers clear of controversial issues in draft report</a> NPR: The panel, which will vote on the report Tuesday, steers clear of taking a position on many of the most controversial suggestions for changing the court. 
- <p class="updated_time"> 06:04 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes Will Quit the House to Take Over Trump’s Media Company</a> NYT: The California Republican, who had pugnaciously defended Donald J. Trump, chose the media company role over a potentially powerful new post in Congress. 
  <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061945602/devin-nunes-california-trump-media-truth-social">Rep. Devin Nunes is resigning from Congress to be CEO of Trump's new media company</a> NPR: The California Republican and Trump ally will take the helm of the Trump Media & Technology Group next month, giving up his seat in the middle of his 10th term. 
  <p class="updated_time"> 05:49 PM CT, Dec. 06 </p> 
