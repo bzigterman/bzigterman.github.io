@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden and Putin Talk Amid Fears of Ukraine Invasion Plan</a> NYT: With signs of a substantial Russian military buildup, Western leaders hope the summit can avert a crisis. But in the trenches along the Ukrainian front line, as machine-gun fire echoes in the distance, there is little hope that diplomacy will end the grinding conflict. 
+ <p class="updated_time"> 09:47 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59561881?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Suspect in murder of journalist arrested</a> BBC: French media say Khaled Aedh Al-Otaibi was arrested at Charles-de-Gaulle airport on Tuesday. 
  <p class="updated_time"> 09:35 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden and Putin hold talks amid Russia-Ukraine tensions</a> BBC: The US and Russian leaders speak by video link, as Moscow warns tensions in Europe are "off the scale". 
- <p class="updated_time"> 09:32 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden and Putin Talk Amid Fears of Ukraine Invasion Plan</a> NYT: With signs of a substantial Russian military buildup, Western leaders hope the summit can avert a crisis. But in the trenches along the Ukrainian front line, as machine-gun fire echoes in the distance, there is little hope that diplomacy will end the grinding conflict. 
  <p class="updated_time"> 09:07 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59543021?at_medium=RSS&at_campaign=KARANGA">Michael Steinhardt: US billionaire hands over antiquities worth $70m</a> BBC: Michael Steinhardt is banned for life from buying such treasures following an investigation. 
  <p class="updated_time"> 09:00 AM CT, Dec. 07 </p> 
@@ -194,14 +196,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s 'zero Covid strategy' chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Meadows pulls out of tentative cooperation deal with Jan. 6 investigators</a> Politico: The move comes as he takes heat from Donald Trump allies for writing a book that addresses the former president's vulnerability while battling Covid. 
+ <p class="updated_time"> 09:35 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin speak at a critical moment for Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 09:34 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 09:33 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/trump-covid-diagnosis-mark-meadows-book/index.html">Trump's blood oxygen levels were at a 'dangerously low level' during 2020 Covid-19 diagnosis, ex-chief of staff says</a> CNN: Then-President Donald Trump's blood oxygen level dipped down to a "dangerously low level" hours after he announced back in October 2020 that he tested positive for Covid-19, according to his former chief of staff Mark Meadows. 
- <p class="updated_time"> 09:15 AM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin speak at a critical moment for Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 08:41 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
  <p class="updated_time"> 08:27 AM CT, Dec. 07 </p> 
@@ -312,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/texas-doj-redistricting-lawsuit-latino-minority/index.html">DOJ sues Texas, saying GOP-approved redistricting maps discriminate against Latinos and Blacks</a> CNN: The Justice Department filed a lawsuit Monday challenging legislative maps adopted by Texas Republicans in recent weeks. 
  <p class="updated_time"> 01:58 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061861305/the-justice-department-is-suing-texas-over-the-states-redistricting-plans">The Justice Department is suing Texas over the state's redistricting plans</a> NPR: The lawsuit says the redistricting disadvantages Black and Latino voters and does not reflect the outsize effect minorities played in the state's recent population growth. 
- <p class="updated_time"> 01:51 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/doj-sues-to-block-texas-congressional-map-523819">Biden administration sues to block Texas redistricting maps</a> Politico: The suit, filed in federal court, alleges that the state of Texas is “refusing to recognize the State’s growing minority electorate.” 
  <p class="updated_time"> 01:47 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-foreign-policy-picks-523731">The dramatic irony of Biden's foreign-policy picks</a> Politico: The president veers progressive on his domestic nominees but embraces the establishment for global affairs. The latter cast is the one facing a Senate GOP blockade for unrelated reasons. 
  <p class="updated_time"> 01:39 PM CT, Dec. 06 </p> 
