@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/debt-ceiling-negotiations-congress/index.html">Mitch McConnell moves to cut deal on debt ceiling but faces GOP resistance</a> CNN: Senate Minority Leader Mitch McConnell is quietly moving to concoct a plan that would allow the nation's borrowing limit to be raised and force Democrats to ultimately cast the decisive and politically toxic vote — but he'll first have to sell it to Republicans. 
  <p class="updated_time"> 09:12 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Right vs. Right vs. Left: Governor’s Race Puts Georgia at Center of 2022 Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
