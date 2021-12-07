@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:16 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
+ <p class="updated_time"> 03:16 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
  <p class="updated_time"> 02:36 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
- <p class="updated_time"> 02:24 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
  <p class="updated_time"> 02:18 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/ahead-of-bidens-democracy-summit-china-says-were-also-a-democracy.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
- <p class="updated_time"> 02:06 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
