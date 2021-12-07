@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:39 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59516157?at_medium=RSS&at_campaign=KARANGA">Amalia: The heir to the Dutch throne keeps it normal at 18</a> BBC: Princess Amalia had an ordinary childhood and wants her life to continue that way. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59516157?at_medium=RSS&at_campaign=KARANGA">Amalia: Heir to the Dutch throne keeps it normal at 18</a> BBC: Princess Amalia had an ordinary childhood and wants her life to continue that way. 
  <p class="updated_time"> 06:34 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/disability-59404429?at_medium=RSS&at_campaign=KARANGA">'I had to move across America when I became allergic to the sun'</a> BBC: After experiencing an unusual allergic reaction, Carrie moves across America to escape the sun. 
  <p class="updated_time"> 06:09 PM CT, Dec. 06 </p> 
@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/debt-ceiling-negotiations-congress/index.html">Mitch McConnell moves to cut deal on debt ceiling but faces GOP resistance</a> CNN: Senate Minority Leader Mitch McConnell is quietly moving to concoct a plan that would allow the nation's borrowing limit to be raised and force Democrats to ultimately cast the decisive and politically toxic vote — but he'll first have to sell it to Republicans. 
  <p class="updated_time"> 09:12 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Right vs. Right vs. Left: Governor’s Race Puts Georgia at Center of 2022 Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
