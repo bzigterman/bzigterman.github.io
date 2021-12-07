@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:31 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden to Talk With Putin Amid Fears of Ukraine Invasion Plan</a> NYT: With signs of a substantial Russian military buildup, Western leaders hope the summit can avert a crisis. But in the trenches along the Ukrainian front line, as machine-gun fire echoes in the distance, there is little hope that diplomacy will end the grinding conflict. 
  <p class="updated_time"> 08:20 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 69 more people are being treated for injuries. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 38 people died and scores more were injured. 
  <p class="updated_time"> 08:12 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 06:17 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">U.S. Enforces Stricter Covid Testing Rules for Travelers</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 06:08 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59554585?at_medium=RSS&at_campaign=KARANGA">Vishal Garg: US boss fires 900 employees over Zoom</a> BBC: "Last time I did this I cried," said the head of the online mortgage lender laying off 15% of his staff. 
  <p class="updated_time"> 06:04 AM CT, Dec. 07 </p> 
@@ -91,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
  <p class="updated_time"> 06:00 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/disability-sport/59524921?at_medium=RSS&at_campaign=KARANGA">Juan Jose Florian: Colombia's Para-cycling 'superhero' and his dramatic life story</a> BBC: Juan Jose Florian was forced into armed conflict on the opposite side to family. When a bomb nearly killed him, sport helped heal. 
- <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/biden-to-warn-putin-off-invasion-of-ukraine-11638811774">Biden to Warn Putin Off Invasion of Ukraine</a> WSJ: President Biden spoke Monday with European allies ahead of a call with Vladimir Putin in which he will warn the Russian president not to invade Ukraine, officials said. 
  <p class="updated_time"> 04:08 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -131,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html">Spike in Omicron Variant Cases Puts Europe on Edge</a> NYT: With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy. 
  <p class="updated_time"> 08:30 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html">Companies Linked to Russian Ransomware Hide in Plain Sight</a> NYT: Cybersecurity experts tracing money paid by American businesses to Russian ransomware gangs found it led to one of Moscow’s most prestigious addresses. 
- <p class="updated_time"> 07:55 AM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Plans Diplomatic Boycott of Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
@@ -198,10 +194,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:26 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/pearl-harbor-wwii-memorial-bidens/index.html">Bidens visit WWII memorial on 80th anniversary of Pearl Harbor</a> CNN: President Joe Biden and first lady Jill Biden visited to the World War II Memorial in Washington, DC, early Tuesday morning to pay their respects on the 80th anniversary of the attack on Pearl Harbor. 
  <p class="updated_time"> 08:18 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes Will Quit the House to Take Over Trump’s Media Company</a> NYT: The California Republican, who had pugnaciously defended Donald J. Trump, chose the media company role over a potentially powerful new post in Congress. 
- <p class="updated_time"> 08:16 AM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/pearl-harbor-wwii-memorial-bidens/index.html">Bidens visit WWII memorial on 80th anniversary of Pearl Harbor</a> CNN: President Joe Biden and first lady Jill Biden visited to the World War II Memorial in Washington, DC, early Tuesday morning to pay their respects on the 80th anniversary of the attack on Pearl Harbor. 
+ <p class="updated_time"> 08:03 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/trump-covid-diagnosis-mark-meadows-book/index.html">Trump's blood oxygen levels were at a 'dangerously low level' during 2020 Covid-19 diagnosis, ex-chief of staff says</a> CNN: Then-President Donald Trump's blood oxygen level dipped down to a "dangerously low level" hours after he announced back in October 2020 that he tested positive for Covid-19, according to his former chief of staff Mark Meadows. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
@@ -280,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/emmett-till-investigation-closed-justice-department-523825">No new charges as Emmett Till investigation closed by Justice Department</a> Politico: DOJ reopened an investigation after a 2017 book quoted Carolyn Bryant Donham saying she lied in claiming the 14-year-old made sexual advances. 
  <p class="updated_time"> 04:45 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/devin-nunes-retiring/index.html">Devin Nunes says he's leaving Congress by the end of the year</a> CNN: Republican Rep. Devin Nunes of California announced Monday he'll leave the House in the coming weeks, in order to follow an undisclosed "new opportunity to fight for the most important issues I believe in." 
- <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-remain-in-mexico/index.html">'Remain in Mexico' program restarts, fueling frustration among immigration advocates</a> CNN: The Biden administration relaunched the Trump-era border policy known as "Remain in Mexico" on Monday, kicking back into gear the program allowing officials to send non-Mexican migrants to Mexico to await their US immigration court hearings. 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
