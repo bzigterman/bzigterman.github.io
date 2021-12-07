@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:27 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
+ <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">U.S. Enforces Stricter Covid Testing Rules for Travelers</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
+ <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59558099?at_medium=RSS&at_campaign=KARANGA">Western leaders urge Russia to lower Ukraine tensions</a> BBC: The US and its European allies urge Russia to de-escalate, amid fears it could invade Ukraine. 
+ <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 05:08 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Boycott of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott or not. 
- <p class="updated_time"> 05:05 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 05:03 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
  <p class="updated_time"> 04:54 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in ATP Cup, Organizers Say</a> NYT: The announcement came after weeks of speculation about whether Djokovic would travel to Australia. It’s still uncertain if he’ll play in the Australian Open. 
  <p class="updated_time"> 04:41 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59550776?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Drake has nominations removed</a> BBC: The decision has reportedly been made at the request of Drake and his management. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59550776?at_medium=RSS&at_campaign=KARANGA">Grammy Awards: Drake withdraws nominations</a> BBC: The decision has reportedly been made at the request of Drake and his management. 
  <p class="updated_time"> 04:19 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 11:24 PM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said Bilet Alamrew, a university librarian who joined a pro-government militia. 
- <p class="updated_time"> 10:50 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59558099?at_medium=RSS&at_campaign=KARANGA">Western leaders urge Russia to lower Ukraine tensions</a> BBC: The US and its European allies urge Moscow to de-escalate, amid fears it could invade Ukraine. 
  <p class="updated_time"> 10:33 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:39 PM CT, Dec. 06 </p> 
@@ -200,6 +200,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
+ <p class="updated_time"> 06:01 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/roe-v-wade-abortion-rights-poll-523856">Most voters back abortion rights but are not swayed by threat to Roe, poll finds</a> Politico: Justices are expected to decide whether to scrap the half-century-old decision underpinning abortion rights and let states chose if they want to ban the procedure early in pregnancy. 
+ <p class="updated_time"> 05:04 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris to mark Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
+ <p class="updated_time"> 04:37 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin set to hold call at critical moment of escalating tensions over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-democracy-summit-523850">Biden’s Summit for Democracy gets under autocrats’ skins</a> Politico: The run-up to the president’s long-promised event shows both promise and peril. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
@@ -207,11 +215,15 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Senate primary tests what it means to be a loyal Democrat</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Being Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
+ <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 02:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
+ <p class="updated_time"> 01:15 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-texas/index.html">Texas could test one of Biden's core political bets</a> CNN: No state may benefit more than Texas from the social programs included in President Joe Biden's Build Back Better agenda, an array of recent analyses show -- despite the fierce opposition to the bill from the state's Republican leadership. And over time that dynamic could make the state a crucial proving ground for one of the White House's core political bets. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
+ <p class="updated_time"> 11:35 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/trump-republicans-2022-biden-putin/index.html">Trump's anti-democratic 2022 playbook takes shape as Biden faces off with Putin</a> CNN: Former President Donald Trump's grip on the Republican Party is tightening as the 2022 midterm elections approach and GOP candidates launch campaigns at every level of governance -- from school boards to the US Senate -- with hopes of attracting his endorsement and strengthening the anti-democratic movement fueled by his lies about last year's presidential contest. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
  <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
@@ -221,13 +233,11 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/debt-ceiling-negotiations-congress/index.html">Mitch McConnell moves to cut deal on debt ceiling but faces GOP resistance</a> CNN: Senate Minority Leader Mitch McConnell is quietly moving to concoct a plan that would allow the nation's borrowing limit to be raised and force Democrats to ultimately cast the decisive and politically toxic vote — but he'll first have to sell it to Republicans. 
  <p class="updated_time"> 09:12 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Right vs. Right vs. Left: Governor’s Race Puts Georgia at Center of 2022 Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/jussie-smollett-hoax-trial-523861">Jussie Smollett testifies at his trial: ‘There was no hoax’</a> Politico: The actor faces charges that he lied to Chicago police about the January 2019 attack. 
- <p class="updated_time"> 08:47 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
  <p class="updated_time"> 08:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
  <p class="updated_time"> 08:08 PM CT, Dec. 06 </p> 
@@ -237,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">CNN Exclusive: Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
+ <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 06:31 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/texas-voting-rights-redistricting.html">Justice Dept. Files Voting Rights Suit Against Texas Over New Map</a> NYT: The department said the state’s redistricting plan would violate the Voting Rights Act by discriminating against minority voters. 
  <p class="updated_time"> 06:29 PM CT, Dec. 06 </p> 
@@ -300,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061821936/trump-social-media-spac-truth-social">Trump's social media deal is being investigated by regulators</a> NPR: Regulators including the SEC are investigating a planned merger between a shell company and former President Donald Trump's social media startup. 
  <p class="updated_time"> 01:51 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/doj-sues-to-block-texas-congressional-map-523819">Biden administration sues to block Texas redistricting maps</a> Politico: The suit, filed in federal court, alleges that the state of Texas is “refusing to recognize the State’s growing minority electorate.” 
+ <p class="updated_time"> 01:47 PM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/biden-foreign-policy-picks-523731">The dramatic irony of Biden's foreign-policy picks</a> Politico: The president veers progressive on his domestic nominees but embraces the establishment for global affairs. The latter cast is the one facing a Senate GOP blockade for unrelated reasons. 
  <p class="updated_time"> 01:39 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/white-house-boycott-beijing-olympics-523817">White House announces diplomatic boycott of Beijing Olympics</a> Politico: American athletes still will be able to compete in the games. 
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
@@ -318,8 +330,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/malala-yousafzai-antony-blinken-meeting/index.html">Malala Yousafzai meets with Blinken, calls on US to take action for Afghan women and girls</a> CNN: Nobel Peace Prize laureate Malala Yousafzai met Monday with US Secretary of State Antony Blinken and called on the United States to take action to ensure that Afghan girls and women are able to return to the classroom and the workplace in the wake of the Taliban's takeover of Afghanistan. 
  <p class="updated_time"> 12:23 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/music/kennedy-center-honors.html">A Kennedy Center Honors With the Presidential Box Used as Intended</a> NYT: Former President Donald J. Trump did not attend the tribute, but President Biden was on hand as Bette Midler, Joni Mitchell, Berry Gordy, Justino Díaz and Lorne Michaels were honored. 
- <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump shell company faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
+ <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
+ <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Never tweet: Social media posts haunt Biden’s FCC and FTC hopefuls</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and Donald Trump — posing yet another obstacle to Dems’ policy agenda. 
  <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 08:28 AM CT, Dec. 06 </p> 
@@ -330,16 +342,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-republicans-trump-debt-ceiling/index.html">Analysis: Dole's death prompts nostalgia for a bygone era sullied by Trump's GOP</a> CNN: The bipartisan outpouring of praise following the death on Sunday of Republican Bob Dole, the longtime Senate leader and former presidential nominee, mourned both a man and a more outwardly collegial era as Republicans drive the country toward another debt ceiling deadline crisis and party leadership downplays dangerous radicalism in its ranks. 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
- <p class="updated_time"> 05:58 AM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/pleading-the-fifth/index.html">Here's what pleading the Fifth is and what it means for the January 6 committee </a> CNN: The January 6 committee is facing a new challenge as multiple people it has subpoenaed signal their intentions to invoke Fifth Amendment protections ahead of their testimony. 
  <p class="updated_time"> 05:39 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/myanmar-court-leader-suu-kyi-523780">Myanmar’s Suu Kyi convicted in further blow to democracy</a> Politico: The sentencing for incitement and violating coronavirus restrictions was the first in a series of cases to prosecute the 76-year-old Nobel laureate since the army seized power on Feb. 1. 
  <p class="updated_time"> 05:01 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/bidens-plan-no-drama-december-523778">Biden’s plan for a ‘no drama’ December</a> Politico: It’s a long December and Biden wants reason to believe that maybe this month will have less drama than the last. 
  <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
- <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/jan-6-generals-lied-ex-dc-guard-official-523777">'Absolute liars': Ex-D.C. Guard official says generals lied to Congress about Jan. 6</a> Politico: In a 36-page memo to the Capitol riot committee, Col. Earl Matthews also slams the Pentagon's inspector general for what he calls an error-ridden report. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
  <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
@@ -358,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 10:37 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/tate-reeves-abortion-oral-arguments-supreme-court-cnntv/index.html">Mississippi governor calls Supreme Court oral arguments on state's restrictive abortion law 'a watershed moment in American history'</a> CNN: Mississippi Gov. Tate Reeves called recent Supreme Court oral arguments on a restrictive abortion law in his state "a watershed moment in American history," saying he's cautiously optimistic the court will overturn two seminal decisions that secured abortion rights for women nationwide. 
  <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Omar 'very confident' Pelosi will take action against Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
@@ -388,16 +394,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/03/mary-miller-illinois-redistricting-523739">'She's going to lose': Dems brag redistricting dooms conservative Illinois freshman</a> Politico: First-term Rep. Mary Miller says she's running for reelection, even though Democrats in the state legislature gutted her district and forced her to consider challenging two of her GOP colleagues. 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/03/crisis-averted-after-conservatives-cave-495309">POLITICO Playbook: Crisis averted after conservatives cave</a> Politico: And Nikki Haley kisses Donald Trump’s ring. 
  <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
- <p class="updated_time"> 04:31 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/biden-walmart-doug-mcmillon-523702">Biden embraces his one-time foe: Walmart</a> Politico: Not so long ago, it would have been unimaginable for a Democratic president to ally himself with the retail giant. But that’s what this one has done. 
  <p class="updated_time"> 08:55 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/kamala-harris-pete-buttigieg/index.html">Harris and Buttigieg put on a united front amid rivalry reports</a> CNN: "It's 2021." 
  <p class="updated_time"> 07:07 PM CT, Dec. 02 </p> 
