@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">CN.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
+ <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
- <p class="updated_time"> 08:45 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 08:20 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 08:16 PM CT, Dec. 06 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.npr.org/2021/12/04/1061483664/goodbye-ceremony-for-germanys-chancellor-merkel-featured-some-telling-music-choi">Goodbye ceremony for Germany's Chancellor Merkel featured some telling music choices</a> NPR: Departing German Chancellor Angela Merkel chose three songs for her farewell ceremony this week. One of them, an East German hit from the '70s, caused some surprise in Berlin. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
 
@@ -204,14 +204,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:23 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/justice-department-bannon-strategy-523863">DOJ aims to block key Bannon defense strategy</a> Politico: Prosecutors did not explain in a court filing why they don’t think relying on his attorney’s advice is a defense for the former Trump adviser, who is charged with contempt of Congress. 
+ <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/debt-ceiling-negotiations-congress/index.html">Mitch McConnell moves to cut deal on debt ceiling but faces GOP resistance</a> CNN: Senate Minority Leader Mitch McConnell is quietly moving to concoct a plan that would allow the nation's borrowing limit to be raised and force Democrats to ultimately cast the decisive and politically toxic vote — but he'll first have to sell it to Republicans. 
+ <p class="updated_time"> 09:12 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
+ <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
+ <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/jussie-smollett-hoax-trial-523861">Jussie Smollett testifies at his trial: ‘There was no hoax’</a> Politico: The actor faces charges that he lied to Chicago police about the January 2019 attack. 
  <p class="updated_time"> 08:47 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
  <p class="updated_time"> 08:34 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
- <p class="updated_time"> 08:31 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 08:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
  <p class="updated_time"> 08:08 PM CT, Dec. 06 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/us-and-europe-ready-significant-and-severe-sanctions-if-russia-invades-ukraine-523790">U.S. and Europe ready ‘significant and severe’ sanctions if Russia invades Ukraine</a> Politico: The preparations come ahead of Biden and Putin’s call on Tuesday. 
  <p class="updated_time"> 12:59 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061841778/citing-humanitarian-abuses-u-s-will-stage-a-diplomatic-boycott-of-beijing-olympi">Citing humanitarian abuses, U.S. will stage a diplomatic boycott of Beijing Olympics</a> NPR: The White House cited the "ongoing genocide and crimes against humanity" in the Xinjiang region of China. U.S. athletes will compete in the Olympics. 
- <p class="updated_time"> 12:30 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061788411/kentucky-congressman-thomas-massie-holiday-photo-guns">Congressman shares photo celebrating guns at Christmas, days after a school shooting</a> NPR: "Santa, please bring ammo," Rep. Thomas Massie wrote as he posted the image of him and his family posing with guns in front of a Christmas tree. 
  <p class="updated_time"> 12:29 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/malala-yousafzai-antony-blinken-meeting/index.html">Malala Yousafzai meets with Blinken, calls on US to take action for Afghan women and girls</a> CNN: Nobel Peace Prize laureate Malala Yousafzai met Monday with US Secretary of State Antony Blinken and called on the United States to take action to ensure that Afghan girls and women are able to return to the classroom and the workplace in the wake of the Taliban's takeover of Afghanistan. 
  <p class="updated_time"> 12:23 PM CT, Dec. 06 </p> 
@@ -315,7 +317,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:58 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/trump-spac-sec-investigation-523795">Trump shell company faces SEC investigation</a> Politico: Digital World said it received “preliminary, fact-finding inquiries” in late October and early November. 
  <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Never tweet: Social media posts haunt Biden’s FCC and FTC hopefuls</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and former President Donald Trump — posing yet another obstacle to Democrats' policy agenda. 
+ <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Never tweet: Social media posts haunt Biden’s FCC and FTC hopefuls</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and Donald Trump — posing yet another obstacle to Dems’ policy agenda. 
  <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 08:28 AM CT, Dec. 06 </p> 
@@ -374,6 +376,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/us/politics/lloyd-austin-china-ukraine.html">To Counter China, Austin Vows to Shore Up Alliances With Others in Region</a> NYT: “America is a Pacific power,” the defense secretary said as he laid out a strategy to block efforts by China to dominate the region. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
+ <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
@@ -404,12 +408,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/senators-propose-ban-on-ftc-zombie-votes-523685">Senators propose ban on FTC ‘zombie votes’</a> Politico: The Republicans' legislation would require the FTC to issue a rule that bars a commissioner’s votes from having an effect after he or she leaves the agency. 
  <p class="updated_time"> 02:55 PM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/senate-deteriorates-december-523674">Senate sinks deeper into quagmire of dysfunction</a> Politico: The upper chamber's always had a flair for the dramatic. But as Democrats push deadlines to their limits, Republicans have exploited the chance to obstruct. 
- <p class="updated_time"> 02:21 PM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/02/politics/biden-covid-omicron-delta-winter-plan/index.html">Biden outlines new steps to combat Covid through winter months</a> CNN: The White House is set to announce a slew of new actions Thursday aimed at fighting the Covid-19 pandemic and protecting Americans from the Delta and newly discovered Omicron variants. 
  <p class="updated_time"> 01:19 PM CT, Dec. 02 </p> 
  <a href="https://www.cnn.com/2021/12/02/politics/epa-water-infrastructure-money-climate/index.html">EPA urges states to target billions in new water infrastructure funding to historically underserved communities</a> CNN: The Environmental Protection Agency unveiled billions of dollars in new water infrastructure funding on Thursday and urged states to use it to address environmental impacts faced by historically underserved communities. 
- <p class="updated_time"> 01:00 PM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/biden-virus-wall-street-523670">Biden is looking at blowout growth even as Covid clouds the outlook again</a> Politico: Republicans are seeking to capitalize on the anxiety over higher prices, saying that they're largely driven by Biden's big-spending plans. 
  <p class="updated_time"> 09:13 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
