@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:27 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
+ <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
+ <p class="updated_time"> 05:28 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">U.S. Enforces Stricter Covid Testing Rules for Travelers</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59544221?at_medium=RSS&at_campaign=KARANGA">Peter Foster: Australian conman caught after six-month manhunt</a> BBC: Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges. 
- <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 11:24 PM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said Bilet Alamrew, a university librarian who joined a pro-government militia. 
  <p class="updated_time"> 10:33 PM CT, Dec. 06 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/05/1061600334/its-been-tense-between-france-and-the-u-k-since-brexit-or-maybe-since-waterloo">It's been tense between France and the U.K. since Brexit. Or maybe since Waterloo</a> NPR: Relations between the U.K. and France have taken a dive. Their leaders have had troubles getting beyond personal friction which has now become public. 
  <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
  <a href="https://www.npr.org/2021/12/05/1061600313/africa-is-struggling-with-low-vaccination-rate">Africa is struggling with low vaccination rate</a> NPR: Ayesha Rascoe asks epidemiologist Saad Omer of the Yale Institute for Global Health about the challenges many poorer nations still face in their vaccination efforts. 
- <p class="updated_time"> 07:09 AM CT, Dec. 05 </p> 
- <a href="https://www.npr.org/2021/12/05/1059603081/guatemalas-rural-and-indigenous-communities-are-hit-hardest-by-covid-19">Guatemala's rural and indigenous communities are hit hardest by COVID-19</a> NPR: The Mayan communities of Guatemala are among the world's most vulnerable when it comes to COVID-19 due to many factors, including their centuries-long marginalization by the country's ruling elite. 
  <p class="updated_time"> 06:31 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/indonesia-mount-semeru-eruption.html">At Least 13 Dead as Indonesia's Mount Semeru Erupts</a> NYT: Dozens more suffered burns as lava flowed from the eruption of Mount Semeru, on the island of Java. 
  <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
- <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
 
 
 </details>
@@ -204,6 +202,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 06:01 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/roe-v-wade-abortion-rights-poll-523856">Most voters back abortion rights but are not swayed by threat to Roe, poll finds</a> Politico: Justices are expected to decide whether to scrap the half-century-old decision underpinning abortion rights and let states chose if they want to ban the procedure early in pregnancy. 
+ <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
+ <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 05:04 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris to mark Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
  <p class="updated_time"> 04:37 AM CT, Dec. 07 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 01:15 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-texas/index.html">Texas could test one of Biden's core political bets</a> CNN: No state may benefit more than Texas from the social programs included in President Joe Biden's Build Back Better agenda, an array of recent analyses show -- despite the fierce opposition to the bill from the state's Republican leadership. And over time that dynamic could make the state a crucial proving ground for one of the White House's core political bets. 
- <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 11:35 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/trump-republicans-2022-biden-putin/index.html">Trump's anti-democratic 2022 playbook takes shape as Biden faces off with Putin</a> CNN: Former President Donald Trump's grip on the Republican Party is tightening as the 2022 midterm elections approach and GOP candidates launch campaigns at every level of governance -- from school boards to the US Senate -- with hopes of attracting his endorsement and strengthening the anti-democratic movement fueled by his lies about last year's presidential contest. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
@@ -320,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/pentagon-congress-officials-budget-gridlock-523805">‘I need a budget’: Pentagon officials thrash Congress over gridlock</a> Politico: Putting federal spending on autopilot until at least February locks in funding at the previous year’s level. 
- <p class="updated_time"> 01:04 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061827853/biden-putin-video-call-u-s-response-if-russia-invade-ukraine">Biden will lay out in a call with Putin the U.S. response if Russia invades Ukraine</a> NPR: In a scheduled video call Tuesday with the Russian president, Biden will outline economic sanctions and stepped-up support for NATO allies if Russia invades, a senior administration official says. 
  <p class="updated_time"> 01:03 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/ioc-diplomatic-boycott-beijing-olympics-523801">IOC member says diplomatic boycott of Olympics won't sway Beijing</a> Politico: Dick Pound: 'There are the games within games that go into any international relationships.' 
  <p class="updated_time"> 01:00 PM CT, Dec. 06 </p> 
