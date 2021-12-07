@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
+ <p class="updated_time"> 08:45 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 08:20 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 08:16 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for £150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
- <p class="updated_time"> 08:12 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">Covid Live Updates: N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/04/1061483664/goodbye-ceremony-for-germanys-chancellor-merkel-featured-some-telling-music-choi">Goodbye ceremony for Germany's Chancellor Merkel featured some telling music choices</a> NPR: Departing German Chancellor Angela Merkel chose three songs for her farewell ceremony this week. One of them, an East German hit from the '70s, caused some surprise in Berlin. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/belgium-antwerp-cocaine.html">Belgian Port City Grapples With a Flood of Cocaine</a> NYT: Antwerp has become the main port of entry into Europe for the drug, which is being blamed for a surge of violence that has prompted some Belgian officials to call for a war on drugs. 
- <p class="updated_time"> 11:42 PM CT, Dec. 03 </p> 
- <a href="https://www.nytimes.com/2021/12/03/health/coronavirus-omicron-vaccines-contagiousness.html">Omicron Variant Spreading Twice as Quickly as Delta in South Africa</a> NYT: A new mathematical analysis strengthens concerns about the effects of the new variant on the pandemic’s course. 
 
 
 </details>
@@ -206,14 +206,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/justice-department-bannon-strategy-523863">DOJ aims to block key Bannon defense strategy</a> Politico: Prosecutors did not explain in a court filing why they don’t think relying on his attorney’s advice is a defense for the former Trump adviser, who is charged with contempt of Congress. 
  <p class="updated_time"> 08:53 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/jussie-smollett-hoax-trial-523861">Jussie Smollett testifies at his trial: ‘There was no hoax’</a> Politico: The actor faces charges that he lied to Chicago police about the January 2019 attack. 
+ <p class="updated_time"> 08:47 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
+ <p class="updated_time"> 08:34 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
+ <p class="updated_time"> 08:31 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 08:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/david-perdue-georgia-governor-announcement/index.html">David Perdue officially announces run for governor in Georgia, setting up primary challenge to Brian Kemp</a> CNN: Former US Sen. David Perdue officially announced his run for governor of Georgia on Monday, launching a primary challenge to sitting Republican Gov. Brian Kemp in a state that has been trending away from the GOP for years. 
  <p class="updated_time"> 08:08 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-supreme-court-commission.html">Biden’s Supreme Court Commission Prepares to Vote on Final Report</a> NYT: A draft version of the document flagged deep disputes over court expansion while exploring how phasing in term limits might work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 07:07 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/georgia-abrams-perdue-kemp.html">Georgia Governor's Race Puts State at Center of 2022 Political Drama</a> NYT: Former Senator David Perdue, encouraged by Donald Trump, is challenging Gov. Brian Kemp, a fellow Republican who defied the former president. 
  <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/ndaa-women-draft-dropped-523829">Lawmakers drop proposal to add women to the draft as defense bill headaches mount</a> Politico: The bill also won't include repeals of past war authorizations. 
  <p class="updated_time"> 05:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-drug-prices.html">Biden Focuses on How Spending Bill Would Lower Drug Costs</a> NYT: President Biden emphasized how the bill would lower prescription drug costs, an issue his administration hopes will build support for the broader package. 
- <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html">Biden faces high-stakes test in call with Putin over Ukraine</a> CNN: President Joe Biden is set for one of the most critical calls of his presidency on Tuesday with Russian President Vladimir Putin, as he gets stark warnings from the US intelligence community that Russia is preparing to invade Ukraine as soon as next month. 
  <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/max-rose-running-again-congress-new-york/index.html">Former Rep. Max Rose to run again for the House seat in New York he lost in 2020</a> CNN: Former Democratic Rep. Max Rose announced he will run again for the US House seat he lost in 2020 after a single term to Republican Rep. Nicole Malliotakis, who serves the New York district that includes Staten Island and some of Brooklyn. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 11:18 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html">Chris Cuomo Faced Sexual Misconduct Accusation Before CNN Fired Him</a> NYT: The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct. 
  <p class="updated_time"> 10:37 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/tate-reeves-abortion-oral-arguments-supreme-court-cnntv/index.html">Mississippi governor calls Supreme Court oral arguments on state's restrictive abortion law 'a watershed moment in American history'</a> CNN: Mississippi Gov. Tate Reeves called recent Supreme Court oral arguments on a restrictive abortion law in his state "a watershed moment in American history," saying he's cautiously optimistic the court will overturn two seminal decisions that secured abortion rights for women nationwide. 
  <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
