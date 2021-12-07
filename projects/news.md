@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 69 more people are being treated for injuries. 
+ <p class="updated_time"> 08:12 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
- <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 07:03 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Boycott of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott or not. 
  <p class="updated_time"> 06:57 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
- <p class="updated_time"> 06:56 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 69 more people are being treated for injuries. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
  <p class="updated_time"> 06:17 AM CT, Dec. 07 </p> 
@@ -57,7 +57,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
  <p class="updated_time"> 03:57 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59560133?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Toll rises after Mount Semeru buries villages</a> BBC: Mount Semeru has continued to be active since the major eruption on the island of Java on Sunday. 
- <p class="updated_time"> 02:40 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 02:52 AM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia. 
  <p class="updated_time"> 02:37 AM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-shifts-working-week-to-mirror-west-11638872682">U.A.E. Shifts Working Week to Mirror West</a> WSJ: The country is planning its latest cultural change aimed at marking out the Gulf state as the Middle East’s premier hub for foreign talent and global investment. 
@@ -198,14 +198,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:45 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 08:18 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes Will Quit the House to Take Over Trump’s Media Company</a> NYT: The California Republican, who had pugnaciously defended Donald J. Trump, chose the media company role over a potentially powerful new post in Congress. 
+ <p class="updated_time"> 08:16 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/pearl-harbor-wwii-memorial-bidens/index.html">Bidens visit WWII memorial on 80th anniversary of Pearl Harbor</a> CNN: President Joe Biden and first lady Jill Biden visited to the World War II Memorial in Washington, DC, early Tuesday morning to pay their respects on the 80th anniversary of the attack on Pearl Harbor. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 07:01 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-cyber-officials-technology-cybersecurity-523866">Exclusive: Biden’s cyber leaders go to Silicon Valley for more help fighting hackers</a> Politico: As cyber threats from countries like Russia multiply, officials met with corporate executives to pitch their vision for “operational collaboration.” 
+ <a href="https://www.politico.com/news/2021/12/07/biden-cyber-officials-technology-cybersecurity-523866">Biden’s cyber leaders go to Silicon Valley for more help fighting hackers</a> Politico: As cyber threats from countries like Russia multiply, officials met with corporate executives to pitch their vision for “operational collaboration.” 
  <p class="updated_time"> 06:25 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-lawyer-david-schoen-civil-rights-background/index.html">How a Bannon lawyer with civil rights creds became a Trump world go-to</a> CNN: David Schoen has stepped forward to represent conservative firebrand Steve Bannon in his contempt of Congress case after two previous stints defending self-proclaimed "dirty trickster" Roger Stone, and even former President Donald Trump. But Schoen insists politics is not playing into his decision. 
  <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/trump-republicans-2022-biden-putin/index.html">Analysis: Trump's anti-democratic 2022 playbook takes shape as Biden faces off with Putin</a> CNN: Former President Donald Trump's grip on the Republican Party is tightening as the 2022 midterm elections approach and GOP candidates launch campaigns at every level of governance -- from school boards to the US Senate -- with hopes of attracting his endorsement and strengthening the anti-democratic movement fueled by his lies about last year's presidential contest. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
- <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/devin-nunes-trump.html">Devin Nunes Will Quit the House to Take Over Trump’s Media Company</a> NYT: The California Republican, who had pugnaciously defended Donald J. Trump, chose the media company role over a potentially powerful new post in Congress. 
  <p class="updated_time"> 09:23 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/justice-department-bannon-strategy-523863">DOJ aims to block key Bannon defense strategy</a> Politico: Prosecutors did not explain in a court filing why they don’t think relying on his attorney’s advice is a defense for the former Trump adviser, who is charged with contempt of Congress. 
  <p class="updated_time"> 09:14 PM CT, Dec. 06 </p> 
