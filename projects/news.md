@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:32 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">CN.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
+ <p class="updated_time"> 09:33 PM CT, Dec. 06 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
