@@ -16,17 +16,19 @@ permalink: /projects/news/
  <p class="updated_time"> 02:36 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 02:18 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/ahead-of-bidens-democracy-summit-china-says-were-also-a-democracy.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59544221?at_medium=RSS&at_campaign=KARANGA">Peter Foster: Australian conman caught after six-month manhunt</a> BBC: Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Germany’s New Chancellor Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
+ <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 10:50 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59558099?at_medium=RSS&at_campaign=KARANGA">Western leaders urge Russia to lower Ukraine tensions</a> BBC: The US and its European allies urge Moscow to de-escalate, amid fears it could invade Ukraine. 
  <p class="updated_time"> 10:33 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
+ <p class="updated_time"> 10:33 PM CT, Dec. 06 </p> 
+ <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Bitter Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said Bilet Alamrew, a university librarian who joined a pro-government militia. 
  <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59558121?at_medium=RSS&at_campaign=KARANGA">Emmett Till: US closes investigation without charges</a> BBC: The justice department says there is "insufficient evidence" to back a writer's claim a witness lied. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
@@ -86,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 02:26 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">On Ukrainian Front, Grinding War and Weary Anticipation of Invasion</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
+ <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">In Ukraine, Grinding War and Weary Anticipation of Invasion by Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 01:37 PM CT, Dec. 06 </p> 
@@ -205,7 +207,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Germany’s New Chancellor Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
+ <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
  <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
