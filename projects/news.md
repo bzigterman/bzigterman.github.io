@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:24 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
+ <p class="updated_time"> 02:18 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/ahead-of-bidens-democracy-summit-china-says-were-also-a-democracy.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 01:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59544221?at_medium=RSS&at_campaign=KARANGA">Peter Foster: Australian conman caught after six-month manhunt</a> BBC: Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges. 
- <p class="updated_time"> 12:22 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59556613?at_medium=RSS&at_campaign=KARANGA">US diplomats to boycott 2022 Beijing Winter Olympics</a> BBC: The White House says no US diplomats will attend the games in China, over human rights concerns. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Germany’s New Chancellor Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 10:50 PM CT, Dec. 06 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
  <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
- <p class="updated_time"> 09:56 AM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/03/world/fda-authorizes-eli-lilly-antibody-treatment-for-young-children.html">F.D.A. Authorizes Eli Lilly Antibody Treatment for Youngest Covid Patients</a> NYT: Doctors have a new option for the youngest patients who are vulnerable to the worst outcomes from Covid. 
  <p class="updated_time"> 08:00 AM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/europe/canary-islands-volcano-honeybees.html">Honeybees Survived for Weeks Under Volcano Ash After Canary Islands Eruption</a> NYT: For roughly 50 days, thousands of honeybees sealed themselves in their hives, away from deadly gas, and feasted on honey. “It is a very empowering story,” one entomologist said. 
  <p class="updated_time"> 04:16 AM CT, Dec. 04 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 11:50 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Germany’s New Chancellor Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
- <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
