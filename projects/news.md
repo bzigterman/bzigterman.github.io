@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
  <p class="updated_time"> 02:24 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59559703?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: China criticises US diplomatic boycott</a> BBC: China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing. 
  <p class="updated_time"> 02:18 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/ahead-of-bidens-democracy-summit-china-says-were-also-a-democracy.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
- <p class="updated_time"> 01:46 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">N.Y.C. Breaks New Ground With Vaccine Mandate for All Private Employers</a> NYT: Most local vaccine mandates in the U.S. have been limited to public-sector workers and certain other groups, like health care workers or teachers. 
+ <p class="updated_time"> 02:06 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-wont-send-officials-to-beijing-winter-olympics-11638801009">U.S. Plans Diplomatic Boycott of Beijing Winter Olympics</a> WSJ: The Biden administration’s boycott, which drew criticism from China, will keep U.S. officials from attending the Games but allow participation by American athletes. 
  <p class="updated_time"> 07:23 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
- <p class="updated_time"> 06:45 AM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59548210?at_medium=RSS&at_campaign=KARANGA">Covid-19: Italy tightens restrictions for unvaccinated</a> BBC: A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants. 
  <p class="updated_time"> 04:56 AM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/china-data-security-law-ships-ports-court-cases-universities-11638803230">China Increasingly Obscures True State of Its Economy to Outsiders</a> WSJ: New data restrictions have made it harder for foreigners to get details on what’s happening inside China, including about port activity, supplies and political dissent cases. Companies and governments are left trying to figure out how to engage. 
  <p class="updated_time"> 04:10 AM CT, Dec. 06 </p> 
