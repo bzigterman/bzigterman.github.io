@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
+ <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
+ <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
+ <p class="updated_time"> 07:03 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Boycott of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott or not. 
+ <p class="updated_time"> 06:57 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 69 more people are being treated for injuries. 
+ <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
  <p class="updated_time"> 06:17 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid">U.S. Enforces Stricter Covid Testing Rules for Travelers</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 06:08 AM CT, Dec. 07 </p> 
@@ -35,10 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59558099?at_medium=RSS&at_campaign=KARANGA">Western leaders urge Russia to lower Ukraine tensions</a> BBC: The US and its European allies urge Russia to de-escalate, amid fears it could invade Ukraine. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
- <p class="updated_time"> 05:08 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Boycott of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott or not. 
- <p class="updated_time"> 05:03 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
  <p class="updated_time"> 04:54 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in ATP Cup, Organizers Say</a> NYT: The announcement came after weeks of speculation about whether Djokovic would travel to Australia. It’s still uncertain if he’ll play in the Australian Open. 
  <p class="updated_time"> 04:41 AM CT, Dec. 07 </p> 
@@ -47,18 +55,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
- <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
  <p class="updated_time"> 03:57 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59560133?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Toll rises after Mount Semeru buries villages</a> BBC: Mount Semeru has continued to be active since the major eruption on the island of Java on Sunday. 
- <p class="updated_time"> 03:50 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 01:28 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59558090?at_medium=RSS&at_campaign=KARANGA">Rohingya sue Facebook for $150bn over Myanmar hate speech</a> BBC: The social media giant is accused of fuelling violence against the persecuted minority in Myanmar. 
  <p class="updated_time"> 12:25 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59544221?at_medium=RSS&at_campaign=KARANGA">Peter Foster: Australian conman caught after six-month manhunt</a> BBC: Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges. 
  <p class="updated_time"> 11:24 PM CT, Dec. 06 </p> 
- <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said Bilet Alamrew, a university librarian who joined a pro-government militia. 
+ <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia. 
  <p class="updated_time"> 11:24 PM CT, Dec. 06 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-shifts-working-week-to-mirror-west-11638872682">U.A.E. Shifts Working Week to Mirror West</a> WSJ: The country is planning its latest cultural change aimed at marking out the Gulf state as the Middle East’s premier hub for foreign talent and global investment. 
  <p class="updated_time"> 11:00 PM CT, Dec. 06 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:39 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59516157?at_medium=RSS&at_campaign=KARANGA">Amalia: Heir to the Dutch throne keeps it normal at 18</a> BBC: Princess Amalia had an ordinary childhood and wants her life to continue that way. 
  <p class="updated_time"> 06:34 PM CT, Dec. 06 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59454871?at_medium=RSS&at_campaign=KARANGA">Helping trans people escape death in their home countries</a> BBC: Iman Le Caire made it her mission to help other trans people flee persecution in hostile countries. 
  <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
- <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-59370672?at_medium=RSS&at_campaign=KARANGA">Hong Kong Covid: The Cathay pilots stuck in 'perpetual quarantine'</a> BBC: One Cathay Pacific pilot said he had spent almost 150 days in quarantine this year alone. 
  <p class="updated_time"> 06:00 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/disability-sport/59524921?at_medium=RSS&at_campaign=KARANGA">Juan Jose Florian: Colombia's Para-cycling 'superhero' and his dramatic life story</a> BBC: Juan Jose Florian was forced into armed conflict on the opposite side to family. When a bomb nearly killed him, sport helped heal. 
  <p class="updated_time"> 04:36 PM CT, Dec. 06 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
+ <p class="updated_time"> 07:15 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/pearl-harbor-wwii-memorial-bidens/index.html">Bidens visit WWII memorial on 80th anniversary of Pearl Harbor</a> CNN: President Joe Biden and first lady Jill Biden visited to the World War II Memorial in Washington, DC, early Tuesday morning to pay their respects on the 80th anniversary of the attack on Pearl Harbor. 
  <p class="updated_time"> 07:01 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-cyber-officials-technology-cybersecurity-523866">Exclusive: Biden’s cyber leaders go to Silicon Valley for more help fighting hackers</a> Politico: As cyber threats from countries like Russia multiply, officials met with corporate executives to pitch their vision for “operational collaboration.” 
  <p class="updated_time"> 06:25 AM CT, Dec. 07 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 06:01 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/roe-v-wade-abortion-rights-poll-523856">Most voters back abortion rights but are not swayed by threat to Roe, poll finds</a> Politico: Justices are expected to decide whether to scrap the half-century-old decision underpinning abortion rights and let states chose if they want to ban the procedure early in pregnancy. 
- <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 05:04 AM CT, Dec. 07 </p> 
@@ -231,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:15 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-texas/index.html">Texas could test one of Biden's core political bets</a> CNN: No state may benefit more than Texas from the social programs included in President Joe Biden's Build Back Better agenda, an array of recent analyses show -- despite the fierce opposition to the bill from the state's Republican leadership. And over time that dynamic could make the state a crucial proving ground for one of the White House's core political bets. 
  <p class="updated_time"> 11:35 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/trump-republicans-2022-biden-putin/index.html">Trump's anti-democratic 2022 playbook takes shape as Biden faces off with Putin</a> CNN: Former President Donald Trump's grip on the Republican Party is tightening as the 2022 midterm elections approach and GOP candidates launch campaigns at every level of governance -- from school boards to the US Senate -- with hopes of attracting his endorsement and strengthening the anti-democratic movement fueled by his lies about last year's presidential contest. 
+ <a href="https://www.cnn.com/2021/12/07/politics/trump-republicans-2022-biden-putin/index.html">Analysis: Trump's anti-democratic 2022 playbook takes shape as Biden faces off with Putin</a> CNN: Former President Donald Trump's grip on the Republican Party is tightening as the 2022 midterm elections approach and GOP candidates launch campaigns at every level of governance -- from school boards to the US Senate -- with hopes of attracting his endorsement and strengthening the anti-democratic movement fueled by his lies about last year's presidential contest. 
  <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
  <p class="updated_time"> 10:17 PM CT, Dec. 06 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-supreme-court-commission.html">Biden’s Supreme Court Commission Prepares to Vote on Final Report</a> NYT: A draft version of the document flagged deep disputes over court expansion while exploring how phasing in term limits might work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 06:51 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 06:31 PM CT, Dec. 06 </p> 
@@ -366,12 +366,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 10:26 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/ilhan-omar-nancy-pelosi-lauren-boebert-cnntv/index.html">Omar 'very confident' Pelosi will take action against Boebert this week after anti-Muslim remarks</a> CNN: Rep. Ilhan Omar said Sunday she is "very confident" House Speaker Nancy Pelosi will take "decisive action" on Rep. Lauren Boebert over the Colorado Republican's anti-Muslim remarks. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
+ <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
+ <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/fact-check-biden-meir-israel-war-liaison/index.html">Fact check: Biden tells inaccurate story about his 1973 meeting with Israeli prime minister</a> CNN: President Joe Biden has a favorite story about his long relationship with Israel. For decades, he has been publicly recounting his 1973 meeting with then-Israeli Prime Minister Golda Meir -- which he described in 2015 as "one of the most consequential meetings I've ever had in my life." 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
@@ -442,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/30/mace-greene-feud-mccarthy-523587">Mace and Greene keep feuding, despite McCarthy’s effort to intervene</a> Politico: The two first-term House Republicans have been attacking each other. 
  <p class="updated_time"> 02:10 PM CT, Nov. 30 </p> 
  <a href="https://www.politico.com/news/2021/11/30/congress-funding-shutdown-deadline-523536">House Democrats grow antsy to pass shutdown fix ahead of Friday cliff</a> Politico: Majority Leader Steny Hoyer argued during a closed-door meeting that Democrats need to bring a funding patch to the floor Wednesday, with or without the bipartisan blessing of their Senate counterparts. 
- <p class="updated_time"> 07:15 AM CT, Nov. 30 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/30/gop-hands-dems-a-december-reality-check-495258">GOP hands Dems a December reality check</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
