@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:43 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns from Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
- <p class="updated_time"> 08:31 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 09:17 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden to Talk With Putin Amid Fears of Ukraine Invasion Plan</a> NYT: With signs of a substantial Russian military buildup, Western leaders hope the summit can avert a crisis. But in the trenches along the Ukrainian front line, as machine-gun fire echoes in the distance, there is little hope that diplomacy will end the grinding conflict. 
+ <p class="updated_time"> 09:13 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden and Putin hold talks amid Russia-Ukraine tensions</a> BBC: The US and Russian leaders speak by video link, as Moscow warns tensions in Europe are "off the scale". 
+ <p class="updated_time"> 09:07 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59543021?at_medium=RSS&at_campaign=KARANGA">Michael Steinhardt: US billionaire hands over antiquities worth $70m</a> BBC: Michael Steinhardt is banned for life from buying such treasures following an investigation. 
+ <p class="updated_time"> 09:00 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59554585?at_medium=RSS&at_campaign=KARANGA">Vishal Garg: US boss fires 900 employees over Zoom</a> BBC: "Last time I did this I cried," said the head of the online mortgage lender laying off 15% of his staff. 
+ <p class="updated_time"> 08:58 AM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
  <p class="updated_time"> 08:20 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59560444?at_medium=RSS&at_campaign=KARANGA">Burundi prison fire kills at least 38 in Gitega</a> BBC: Vice-President Prosper Bazombanza says at least 38 people died and scores more were injured. 
- <p class="updated_time"> 08:12 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59549868?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Foreign Office chaotic during Kabul evacuation - whistleblower</a> BBC: Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
@@ -25,12 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59560578?at_medium=RSS&at_campaign=KARANGA">Kenyan policeman shoots dead six people including wife</a> BBC: Authorities are calling the incident a "shooting spree", in which the killer also took his own life. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 06:08 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59554585?at_medium=RSS&at_campaign=KARANGA">Vishal Garg: US boss fires 900 employees over Zoom</a> BBC: "Last time I did this I cried," said the head of the online mortgage lender laying off 15% of his staff. 
  <p class="updated_time"> 06:04 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
- <p class="updated_time"> 06:01 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59543021?at_medium=RSS&at_campaign=KARANGA">Michael Steinhardt: US billionaire hands over antiquities worth $70m</a> BBC: Michael Steinhardt is banned for life from buying such treasures following an investigation. 
  <p class="updated_time"> 05:49 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 05:17 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59561148?at_medium=RSS&at_campaign=KARANGA">Syria blames Israel for rare air strike on main port of Latakia</a> BBC: An Iranian weapons shipment was reportedly the target of the attack on Latakia's container yard. 
- <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59558099?at_medium=RSS&at_campaign=KARANGA">Western leaders urge Russia to lower Ukraine tensions</a> BBC: The US and its European allies urge Russia to de-escalate, amid fears it could invade Ukraine. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 04:54 AM CT, Dec. 07 </p> 
@@ -194,8 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:44 AM CT, Dec. 07 </p> 
+ <p class="updated_time"> 09:15 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin set to hold call at critical moment of escalating tensions over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
+ <p class="updated_time"> 09:10 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 08:41 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
  <p class="updated_time"> 08:27 AM CT, Dec. 07 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/ndaa-women-draft-dropped-523829">Lawmakers drop proposal to add women to the draft as defense bill headaches mount</a> Politico: The bill also won't include repeals of past war authorizations. 
  <p class="updated_time"> 05:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-drug-prices.html">Biden Focuses on How Spending Bill Would Lower Drug Costs</a> NYT: President Biden emphasized how the bill would lower prescription drug costs, an issue his administration hopes will build support for the broader package. 
- <p class="updated_time"> 05:07 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/max-rose-running-again-congress-new-york/index.html">Former Rep. Max Rose to run again for the House seat in New York he lost in 2020</a> CNN: Former Democratic Rep. Max Rose announced he will run again for the US House seat he lost in 2020 after a single term to Republican Rep. Nicole Malliotakis, who serves the New York district that includes Staten Island and some of Brooklyn. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 04:47 PM CT, Dec. 06 </p> 
@@ -320,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/white-house-boycott-beijing-olympics-523817">White House announces diplomatic boycott of Beijing Olympics</a> Politico: American athletes still will be able to compete in the games. 
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
+ <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
+ <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/pentagon-congress-officials-budget-gridlock-523805">‘I need a budget’: Pentagon officials thrash Congress over gridlock</a> Politico: Putting federal spending on autopilot until at least February locks in funding at the previous year’s level. 
  <p class="updated_time"> 01:03 PM CT, Dec. 06 </p> 
@@ -412,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/02/short-term-funding-deal-shutdown-523663">Congress thwarts shutdown after vaccine mandate clash</a> Politico: The Senate passed an 11-week stopgap spending bill Thursday night, sending it to President Joe Biden's desk. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:34 AM CT, Dec. 02 </p> 
- <a href="https://www.cnn.com/2021/12/01/politics/symone-sanders-leaving-white-house-harris/index.html">Symone Sanders to leave White House</a> CNN: Vice President Kamala Harris' chief spokesperson and senior adviser Symone Sanders is leaving the Biden administration at the end of the year, according to a source familiar with the decision. 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
