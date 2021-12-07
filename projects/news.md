@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:43 AM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns from Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
  <p class="updated_time"> 08:31 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden to Talk With Putin Amid Fears of Ukraine Invasion Plan</a> NYT: With signs of a substantial Russian military buildup, Western leaders hope the summit can avert a crisis. But in the trenches along the Ukrainian front line, as machine-gun fire echoes in the distance, there is little hope that diplomacy will end the grinding conflict. 
  <p class="updated_time"> 08:20 AM CT, Dec. 07 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/04/world/omicron-anime-convention-nyc.html">Man Who Had Omicron Says Friends Also Got Sick After NYC Anime Convention</a> NYT: Another case is reported in Connecticut that may be tied to the convention. 
  <p class="updated_time"> 01:44 PM CT, Dec. 04 </p> 
  <a href="https://www.nytimes.com/2021/12/04/world/africa/uganda-hack-pegasus-spyware.html">Spy Tool Was Deployed in State-Sponsored Hack of Ugandans</a> NYT: Two journalists and one politician said they received alerts warning them of “state-sponsored” attacks on their iPhones. At least one of those attacks was linked to the powerful Israeli cyberespionage tool, Pegasus. 
- <p class="updated_time"> 12:53 PM CT, Dec. 04 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html">Facing Economic Collapse, Afghanistan Is Gripped by Starvation</a> NYT: An estimated 22.8 million people — more than half the country’s population — are expected to face potentially life-threatening food insecurity this winter. Many are already on the brink of catastrophe. 
 
 
 </details>
@@ -194,6 +194,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin set to hold call at critical moment of escalating tensions over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
+ <p class="updated_time"> 08:41 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
+ <p class="updated_time"> 08:27 AM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 08:26 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/pearl-harbor-wwii-memorial-bidens/index.html">Bidens visit WWII memorial on 80th anniversary of Pearl Harbor</a> CNN: President Joe Biden and first lady Jill Biden visited to the World War II Memorial in Washington, DC, early Tuesday morning to pay their respects on the 80th anniversary of the attack on Pearl Harbor. 
  <p class="updated_time"> 08:18 AM CT, Dec. 07 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 05:04 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris to mark Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
- <p class="updated_time"> 04:37 AM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin set to hold call at critical moment of escalating tensions over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-democracy-summit-523850">Biden’s Summit for Democracy gets under autocrats’ skins</a> Politico: The run-up to the president’s long-promised event shows both promise and peril. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
@@ -316,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/white-house-boycott-beijing-olympics-523817">White House announces diplomatic boycott of Beijing Olympics</a> Politico: American athletes still will be able to compete in the games. 
  <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
- <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 01:13 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/pentagon-congress-officials-budget-gridlock-523805">‘I need a budget’: Pentagon officials thrash Congress over gridlock</a> Politico: Putting federal spending on autopilot until at least February locks in funding at the previous year’s level. 
  <p class="updated_time"> 01:03 PM CT, Dec. 06 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
- <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
  <p class="updated_time"> 08:28 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/us/politics/biden-judges-senate-confirmation.html">After Success in Seating Federal Judges, Biden Hits Resistance</a> NYT: Senate Democrats vow to keep pressing forward with nominees, but they may face obstacles in states represented by Republicans. 
  <p class="updated_time"> 07:33 AM CT, Dec. 05 </p> 
