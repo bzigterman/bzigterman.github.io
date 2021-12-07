@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:45 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 03:02 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
- <p class="updated_time"> 02:45 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
+ <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Several have signaled that they will find ways to protest China’s human rights abuses, whether they declare a diplomatic boycott as the Biden administration has done or not. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden voices deep concern to Putin over Russian military build up near Ukraine</a> NPR: The two leaders met in a video chat Tuesday for some two hours. 
+ <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden voices deep concern to Putin over Russian military build up near Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. may levy economic sanctions and provide weapons and troops to NATO's eastern flank, said National Security Adviser Jake Sullivan. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
  <p class="updated_time"> 12:51 PM CT, Dec. 07 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59571417?at_medium=RSS&at_campaign=KARANGA">Google sues alleged Russian cyber criminals</a> BBC: Hackers behind a malicious "botnet" may have used their network to infect over a million computers. 
  <p class="updated_time"> 12:30 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/americas/chile-gay-marriage.html">Chile Legalizes Same-Sex Marriage at Fraught Political Moment</a> NYT: The legalization of same-sex marriage in Chile comes as the country grapples with sweeping demands for social change. 
- <p class="updated_time"> 12:23 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
  <p class="updated_time"> 12:21 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 12:12 PM CT, Dec. 07 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin hold high-stakes two-hour call over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
+ <p class="updated_time"> 02:54 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 02:44 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
  <p class="updated_time"> 02:37 PM CT, Dec. 07 </p> 
@@ -221,15 +225,13 @@ permalink: /projects/news/
  <p class="updated_time"> 01:21 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/july-18-bannon-contempt-of-congress-trial-523885">Judge sets July 18 for Bannon ‘contempt of Congress’ trial</a> Politico: Former Trump aide's lawyers plan a slew of legal challenges to unusual criminal case for defying House subpoena. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden voices deep concern to Putin over Russian military build up near Ukraine</a> NPR: The two leaders met in a video chat Tuesday for some two hours. 
+ <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden voices deep concern to Putin over Russian military build up near Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. may levy economic sanctions and provide weapons and troops to NATO's eastern flank, said National Security Adviser Jake Sullivan. 
  <p class="updated_time"> 01:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-administration-covid-response-milestones/index.html">Biden administration touts vaccine milestone amid rising cases</a> CNN: The White House will tout a series of positive milestones for the administration's pandemic response Tuesday as the nation experiences rising Covid-19 cases and concerns about the new Omicron variant. 
  <p class="updated_time"> 12:54 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 12:53 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/capitol-police/index.html">US Capitol Police has made a fraction of recommended changes since January 6, internal watchdog says</a> CNN: Only about one-quarter of recommended changes to US Capitol Police following the January 6 riot have been implemented, department Inspector General Michael Bolton told a Senate committee Tuesday. 
- <p class="updated_time"> 12:53 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden and Putin hold high-stakes two-hour call over Ukraine</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 12:40 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
  <p class="updated_time"> 12:35 PM CT, Dec. 07 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell closes in on support for new debt ceiling strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 12:02 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
- <p class="updated_time"> 11:24 AM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 11:20 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/nevada-senate-race-2022-republican-hopes/index.html">Biden backlash in Nevada raises Republicans' hopes of taking back Senate in 2022</a> CNN: Senate Minority Leader Mitch McConnell didn't get the candidate he wanted in New Hampshire. He's seen states like Pennsylvania and Arizona turn into brutal primary fights. And he's had to deal with the constant barrage of attacks from former President Donald Trump over his leadership. 
  <p class="updated_time"> 11:04 AM CT, Dec. 07 </p> 
