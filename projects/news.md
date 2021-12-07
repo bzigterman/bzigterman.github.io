@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">Sundays Off: U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
+ <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
+ <p class="updated_time"> 05:05 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/health/teens-mental-health-murthy.html">The pandemic worsened young people’s mental health crisis.</a> NYT: The message came as part of a rare public advisory from the nation’s top physician, Dr. Vivek H. Murthy. 
+ <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
  <p class="updated_time"> 04:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in ATP Cup, Organizers Say</a> NYT: The announcement came after weeks of speculation about whether Djokovic would travel to Australia. It’s still uncertain if he’ll play in the Australian Open. 
- <p class="updated_time"> 04:27 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
- <p class="updated_time"> 04:25 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/health/teens-mental-health-murthy.html">The pandemic worsened young people’s mental health crisis.</a> NYT: The message came as part of a rare public advisory from the nation’s top physician, Dr. Vivek H. Murthy. 
  <p class="updated_time"> 04:21 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/07/1061896560/opinion-im-shocked-by-the-racist-cartoons-and-travel-bans-sparked-by-omicron">Opinion: I'm shocked by the racist cartoons and travel bans sparked by omicron</a> NPR: The variant is bringing out the worst in some Western governments and global media outlets, says Dr. Ifeanyi Nsofor, a global health advocate in Nigeria. 
  <p class="updated_time"> 04:13 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59571857?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sees never-before-seen photos of Epstein and defendant</a> BBC: FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial. 
- <p class="updated_time"> 04:04 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">In a Nod to Global Business, U.A.E. Changes Its Workweek</a> NYT: Sunday will become a day off and Friday will be a partial work day — a departure from most of the Arab world, aligning with international workers and markets. 
  <p class="updated_time"> 04:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
- <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
 
 
 </details>
@@ -198,10 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:12 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/bank-3-6-million-windfall-manafort-loans-523905">Bank predicts $3.6 million windfall from Manafort loans</a> Politico: Surplus cash expected from foreclosure on lending that led to federal prosecutions of former Trump campaign chair and Chicago banker. 
- <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting Monday: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 04:45 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 05:08 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin 
+ <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
+ <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/meadows-cooperate-jan-6.html">In a Reversal, Meadows Refuses an Interview for the Jan. 6 Inquiry</a> NYT: The former White House chief of staff told the House panel scrutinizing the Capitol attack that he was no longer willing to be deposed, reversing a commitment he made last week. 
  <p class="updated_time"> 04:27 PM CT, Dec. 07 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/matthew-dowd-ends-campaign-lieutenant-governor-texas/index.html">Matthew Dowd, former Bush strategist, ends campaign for lieutenant governor in Texas</a> CNN: Matthew Dowd, a former George W. Bush strategist and Democratic candidate for lieutenant governor in Texas, announced on Tuesday he was ending his campaign. 
  <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Prepares to Pass $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
- <p class="updated_time"> 03:44 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 03:38 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden told Putin that 'things we did not do in 2014, we are prepared to do now' if Russia escalates in Ukraine, top adviser says</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
