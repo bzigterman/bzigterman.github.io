@@ -7,20 +7,26 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59571857?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sees never-before-seen photos of Epstein and defendant</a> BBC: FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial. 
+ <p class="updated_time"> 04:04 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">In a Nod to Global Business, U.A.E. Changes Its Workweek</a> NYT: Sunday will become a day off and Friday will be a partial work day — a departure from most of the Arab world, aligning with international workers and markets. 
+ <p class="updated_time"> 04:03 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
  <p class="updated_time"> 03:52 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178644/riots-haven-broken-out-after-soldiers-in-india-killed-members-of-an-indigenous-t">Riots haven broken out after soldiers in India killed members of an indigenous tribe</a> NPR: The killings of more than a dozen tribal people by Indian forces threaten a shaky ceasefire in one of the world's longest-running struggles for self-determination by indigenous people. 
- <p class="updated_time"> 03:48 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178480/as-turkeys-currency-drops-some-worry-the-government-cant-turn-things-around">As Turkey's currency drops, some worry the government can't turn things around</a> NPR: Turkey's currency has recently hit record lows in value, driving up prices in the country. But the president's recipe for fixing the problem is the opposite of what economists generally recommend. 
  <p class="updated_time"> 03:30 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
- <p class="updated_time"> 03:20 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59571857?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sees never-before-seen photos of Epstein and defendant</a> BBC: FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
- <p class="updated_time"> 08:20 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
  <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
- <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59524001?at_medium=RSS&at_campaign=KARANGA">The Palestinian jailbreak that rocked Israel</a> BBC: The search for six Palestinian fugitives from an Israeli prison unearths a story of dispossession, violence and bitter division in a fractured region. 
  <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
  <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/05/world/asia/myanmar-car-protesters-killed.html">Fatalities Reported After Military Truck Rams Protesters in Myanmar</a> NYT: Witnesses said soldiers also fired into the crowd and kicked wounded demonstrators, the latest in a series of confrontations in which the military’s behavior has infuriated citizens. 
  <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
- <p class="updated_time"> 02:41 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/04/world/middleeast/palestinian-israeli-stabbing-jerusalem.html">Palestinian Who Stabbed Israeli in Jerusalem Is Killed by Police</a> NYT: The incident, captured in videos, was at least the fifth such knife attack in Jerusalem since September. 
  <p class="updated_time"> 01:01 AM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-francis-migrants-lesbos-rome.html">Refugees Who Left Lesbos With Pope in 2016 Settle Into Rome Life</a> NYT: Three Syrian families who traveled on the papal plane after the pope’s last visit to the Greek island have made new lives for themselves in Italy’s capital. 
 
@@ -196,8 +196,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting on Monday: town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-bank-cop-nominee-withdraws-523907">Biden bank cop nominee withdraws after pushback from moderate Dems</a> Politico: Saule Omarova’s confirmation process became increasingly unpleasant, with some GOP lawmakers suggesting that the Soviet-born academic had communist sympathies, an allegation she has vigorously denied. 
+ <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/bob-dole-hometown-russell-kansas.html">In Bob Dole’s Hometown, Kansans Grieve for the Man and His Political Style</a> NYT: Residents of Russell, the town in Kansas where Mr. Dole grew up, spoke longingly of a bygone era of bipartisanship. 
+ <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
+ <p class="updated_time"> 04:05 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">Congressional Leaders Reach Deal to Allow Debt Ceiling Increase</a> NYT: The legislation would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
+ <p class="updated_time"> 03:57 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">McConnell cuts deal with Democrats on new plan to avoid default</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
@@ -206,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/matthew-dowd-ends-campaign-lieutenant-governor-texas/index.html">Matthew Dowd, former Bush strategist, ends campaign for lieutenant governor in Texas</a> CNN: Matthew Dowd, a former George W. Bush strategist and Democratic candidate for lieutenant governor in Texas, announced on Tuesday he was ending his campaign. 
  <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Prepares to Pass $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
- <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">Congressional Leaders Reach Deal to Allow Debt Ceiling Increase</a> NYT: The legislation would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
  <p class="updated_time"> 03:44 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 03:38 PM CT, Dec. 07 </p> 
@@ -224,14 +232,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Publisher pulls Chris Cuomo’s upcoming book.</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
  <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
- <p class="updated_time"> 02:54 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 02:44 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
  <p class="updated_time"> 02:37 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/nuland-sfrc-us-russia-ukraine/index.html">Russian military capacity on Ukraine's border is on a 'more lethal scale' than 2014 Crimea invasion, US official says</a> CNN: Russian President Vladimir Putin has built military capacity on the border of Ukraine that is "much larger and on a much more lethal scale" than preceded Russia's 2014 invasion of Crimea, Under Secretary of State Toria Nuland said Tuesday, warning of severe risks to Moscow if it invades Ukraine. 
- <p class="updated_time"> 02:37 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">McConnell cuts deal with Democrats on new plan to avoid default</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 02:35 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-border-wall/index.html">Border land returned to Texas family after it was seized for wall</a> CNN: The Biden administration will return the land of a Texas family after seizing the property earlier this year for border wall construction, according to a Tuesday court filing. 
  <p class="updated_time"> 02:12 PM CT, Dec. 07 </p> 
@@ -269,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:55 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/republican-postal-reform-dejoy-523833">Senior Republican warns postal reform at risk if DeJoy's job is threatened</a> Politico: Alienating the lawmaker likely to chair the House oversight panel in 2023 would start a GOP majority on a rough note for the Biden administration. 
  <p class="updated_time"> 10:39 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062098646/mark-meadows-stop-cooperating-jan-6-panel-capitol">Mark Meadows to stop cooperating with the Jan. 6 panel </a> NPR: The decision comes a week after Meadows' attorney said the former White House chief of staff would voluntarily speak with the committee. 
+ <a href="https://www.npr.org/2021/12/07/1062098646/mark-meadows-stop-cooperating-jan-6-panel-capitol">Mark Meadows will stop cooperating with the Jan. 6 panel</a> NPR: The decision comes a week after Meadows' attorney said the former White House chief of staff would voluntarily speak with the committee. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris marks Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
  <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
@@ -294,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/roe-v-wade-abortion-rights-poll-523856">Most voters back abortion rights but are not swayed by threat to Roe, poll finds</a> Politico: Justices are expected to decide whether to scrap the half-century-old decision underpinning abortion rights and let states chose if they want to ban the procedure early in pregnancy. 
  <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
- <p class="updated_time"> 04:31 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-democracy-summit-523850">Biden’s Summit for Democracy gets under autocrats’ skins</a> Politico: The run-up to the president’s long-promised event shows both promise and peril. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/arts/music/kennedy-center-honors.html">A Kennedy Center Honors With the Presidential Box Used as Intended</a> NYT: Former President Donald J. Trump did not attend the tribute, but President Biden was on hand as Bette Midler, Joni Mitchell, Berry Gordy, Justino Díaz and Lorne Michaels were honored. 
  <p class="updated_time"> 10:47 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-fcc-ftc-nominees-republicans-tweets-523783">Never tweet: Social media posts haunt Biden’s FCC and FTC hopefuls</a> Politico: FCC pick Gigi Sohn and FTC hopeful Alvaro Bedoya are facing blowback for past slams at targets like Fox News, ICE and Donald Trump — posing yet another obstacle to Dems’ policy agenda. 
- <p class="updated_time"> 09:52 AM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/family-separations-immigrants-payments.html">What Does the U.S. Owe Separated Families? A Political Quandary Deepens</a> NYT: Seizing on premature news of potential $450,000 payments, conservatives have added new complications to an effort to compensate migrant families separated by the Trump administration. 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
