@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 03:52 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178644/riots-haven-broken-out-after-soldiers-in-india-killed-members-of-an-indigenous-t">Riots haven broken out after soldiers in India killed members of an indigenous tribe</a> NPR: The killings of more than a dozen tribal people by Indian forces threaten a shaky ceasefire in one of the world's longest-running struggles for self-determination by indigenous people. 
+ <p class="updated_time"> 03:48 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Live Updates: Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden voices deep concern to Putin over Russian military build up near Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. may levy economic sanctions and provide weapons and troops to NATO's eastern flank, said National Security Adviser Jake Sullivan. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
- <p class="updated_time"> 12:51 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden and Putin hold talks amid Russia-Ukraine tensions</a> BBC: The US and Russian leaders speak by video link, as Moscow warns tensions in Europe are "off the scale". 
  <p class="updated_time"> 12:30 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59571417?at_medium=RSS&at_campaign=KARANGA">Google sues alleged Russian cyber criminals</a> BBC: Hackers behind a malicious "botnet" may have used their network to infect over a million computers. 
  <p class="updated_time"> 12:30 PM CT, Dec. 07 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/travel/svalbard-climate-change-tourism.html">Bearing Witness to Svalbard’s Fragile Splendor</a> NYT: To visitors, the Norwegian archipelago can seem both ethereal and eternal. But climate change all but guarantees an eventual collapse of its vulnerable ecosystem. 
  <p class="updated_time"> 02:45 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/middleeast/syria-drugs-captagon-assad.html">On Syria’s Ruins, a Drug Empire Flourishes</a> NYT: Powerful associates of Syria’s president, Bashar al-Assad, are making and selling captagon, an illegal amphetamine, creating a new narcostate on the Mediterranean. 
- <p class="updated_time"> 12:19 AM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061710435/myanmar-court-sentences-ousted-leader-aung-san-suu-kyi-to-4-years">Aung San Suu Kyi's conviction is a further blow to democracy in Myanmar</a> NPR: The ruling is the first in a series of cases brought against Suu Kyi since the army seized power on Feb. 1, blocking her National League for Democracy party from starting a second term in office. 
  <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
  <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
  <p class="updated_time"> 06:03 PM CT, Dec. 05 </p> 
@@ -198,6 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-bank-cop-nominee-withdraws-523907">Biden bank cop nominee withdraws after pushback from moderate Dems</a> Politico: Saule Omarova’s confirmation process became increasingly unpleasant, with some GOP lawmakers suggesting that the Soviet-born academic had communist sympathies, an allegation she has vigorously denied. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
+ <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
+ <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/matthew-dowd-ends-campaign-lieutenant-governor-texas/index.html">Matthew Dowd, former Bush strategist, ends campaign for lieutenant governor in Texas</a> CNN: Matthew Dowd, a former George W. Bush strategist and Democratic candidate for lieutenant governor in Texas, announced on Tuesday he was ending his campaign. 
  <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Prepares to Pass $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
@@ -216,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Publisher pulls Chris Cuomo’s upcoming book.</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
- <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
  <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
  <p class="updated_time"> 02:54 PM CT, Dec. 07 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061896284/the-lasting-consequences-of-americas-shift-to-using-more-contractors-to-fight-wa">The lasting consequences of America's shift to using more contractors to fight wars</a> NPR: Many people who fought and died on behalf of the U.S. during 20 years of war in Afghanistan were contractors, not troops. It's part of a change in how America fights wars, and it has consequences. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
- <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896249/trump-has-backed-former-sen-david-perdue-for-georgia-governor">Trump has backed former Sen. David Perdue for Georgia governor</a> NPR: Former Georgia Sen. David Perdue has launched a bid for governor, challenging sitting Gov. Brian Kemp in the GOP primary with the ultimate aim of defeating Democrat Stacey Abrams. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
@@ -392,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
  <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
