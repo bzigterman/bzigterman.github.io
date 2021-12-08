@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:59 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 07:26 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: Olaf Scholz received his official certificate of office and his cabinet was also sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
+ <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
+ <p class="updated_time"> 07:14 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
+ <p class="updated_time"> 07:13 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 06:56 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 06:55 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India. 
  <p class="updated_time"> 06:40 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">Helicopter Crashes With India’s Top Military General Aboard</a> NYT: The fate of Gen. Bipin Rawat, the chief of the country’s defense staff, wasn’t immediately clear. 
- <p class="updated_time"> 06:33 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
- <p class="updated_time"> 04:02 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 03:57 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544223?at_medium=RSS&at_campaign=KARANGA">Japanese billionaire blasts off to International Space Station</a> BBC: Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
@@ -88,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
  <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">Sundays Off: U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
+ <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
  <p class="updated_time"> 05:06 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/australia-to-stage-diplomatic-boycott-of-2022-winter-olympics-in-beijing-11638920014">Australia to Stage Diplomatic Boycott of 2022 Winter Olympics in Beijing</a> WSJ: The U.S. ally’s decision comes after the White House said it wouldn’t send officials to the Games. 
  <p class="updated_time"> 05:05 PM CT, Dec. 07 </p> 
@@ -124,7 +124,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:29 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/biden-russian-president-putin-start-call-11638894107">Biden Warns Putin Invasion of Ukraine to Be Met With Economic Response and More</a> WSJ: President Biden warned Russian President Vladimir Putin that the U.S. and its allies would meet a military invasion of Ukraine with strong economic penalties, moves to bolster Ukrainian defenses and fortify support for Eastern European nations. 
  <p class="updated_time"> 11:47 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1061290155/maduros-grip-on-power-in-venezuela-only-gets-stronger">Maduro's grip on power in Venezuela only gets stronger</a> NPR: Venezuelan opponents and U.S. officials were predicting his demise years ago. But Nicolás Maduro and his Socialist Party remain firmly in power. 
+ <a href="https://www.npr.org/2021/12/07/1061290155/maduros-grip-on-power-in-venezuela-only-gets-stronger">The U.S. predicted his downfall but Maduro strengthens his grip on power in Venezuela</a> NPR: Venezuelan opponents and U.S. officials were predicting his demise years ago. But Nicolás Maduro and his Socialist Party remain firmly in power. 
  <p class="updated_time"> 11:30 AM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781">Early Lab Test Shows Omicron Weakening Vaccine Effectiveness</a> WSJ: Shots should still help against severe disease with the variant on its way to dominate in Europe, scientists say. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
@@ -198,12 +198,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:46 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
+ <p class="updated_time"> 07:15 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 06:40 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Instagram's Adam Mosseri Takes Hot Seat Before Senate Committee</a> NYT: Lawmakers are expected to grill Mr. Mosseri over leaked internal research that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 06:21 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html">Meadows became the latest Trump acolyte to bow to the former President's ire</a> CNN: Former White House chief of staff Mark Meadows on Tuesday became the latest Donald Trump acolyte to bow to the former President's ire, begging out of his scheduled deposition with the House committee investigating the January 6 riot -- despite having given over key documents that will help build their case. 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html">Analysis: Meadows became the latest Trump acolyte to bow to the former President's ire</a> CNN: Former White House chief of staff Mark Meadows on Tuesday became the latest Donald Trump acolyte to bow to the former President's ire, begging out of his scheduled deposition with the House committee investigating the January 6 riot -- despite having given over key documents that will help build their case. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
- <p class="updated_time"> 10:00 AM CT, Dec. 05 </p> 
- <a href="https://www.cnn.com/2021/12/05/politics/universal-pre-k-biden-hiring-teachers-build-back-better/index.html">Biden's universal pre-K plan could mean a need for at least 40,000 new teachers</a> CNN: The nation's public education system could be transformed under President Joe Biden's plan to create free, universal pre-K, which would make preschool available and affordable for 6 million more children. 
  <p class="updated_time"> 07:02 AM CT, Dec. 05 </p> 
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
@@ -428,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
- <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
