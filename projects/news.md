@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:44 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: The country’s president gave Olaf Scholz his official certificate of office, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
  <p class="updated_time"> 05:28 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
- <p class="updated_time"> 05:21 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: The country’s president gave Olaf Scholz his official certificate of office, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
  <p class="updated_time"> 05:11 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 04:19 AM CT, Dec. 08 </p> 
