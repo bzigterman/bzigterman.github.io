@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 01:19 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 01:11 PM CT, Dec. 08 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 11:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
- <p class="updated_time"> 11:43 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 11:26 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:38 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' Zoom firing of 900 staff</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
  <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and in Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
  <p class="updated_time"> 09:55 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59580631?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: France releases Saudi man held over journalist's murder</a> BBC: A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday. 
  <p class="updated_time"> 09:39 AM CT, Dec. 08 </p> 
@@ -206,16 +206,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:18 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 01:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Instagram's Adam Mosseri Takes Hot Seat Before Senate Committee</a> NYT: Lawmakers are expected to grill Mr. Mosseri over leaked internal research that said the app had a toxic effect on some teenagers. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
+ <p class="updated_time"> 01:26 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/supreme-court-maine-religious-schools/index.html">Supreme Court hears appeal of Maine parents seeking to have state pay for religious schools</a> CNN: The Supreme Court will return to the issue of religious liberty Wednesday and consider a Maine school tuition assistance program that parents say violates their religious rights under the First Amendment. 
  <p class="updated_time"> 01:14 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
  <p class="updated_time"> 01:01 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062407301/san-antonio-school-district-reviewing-library-books-after-krause-inquiry">A Texas school district is reviewing 400 library books after a GOP lawmaker's inquiry</a> NPR: State Rep. Matt Krause launched an inquiry into school library books on topics like race and gender earlier this fall. A San Antonio district says it's reviewing some 400 titles that were on his list. 
- <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 12:43 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
- <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/supreme-court-maine-religious-schools/index.html">Supreme Court hears appeal of Maine parents seeking to have state pay for religious schools</a> CNN: The Supreme Court will return to the issue of religious liberty Wednesday and consider a Maine school tuition assistance program that parents say violates their religious rights under the First Amendment. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 11:34 AM CT, Dec. 08 </p> 
