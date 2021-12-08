@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 03:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: Angela Merkel received a standing ovation in Germany’s Parliament as the vote to approve her successor, Olaf Scholz, got underway. His inauguration begins a new chapter for Europe’s largest democracy. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 02:27 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
+ <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
  <p class="updated_time"> 02:10 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz to take over from Merkel as chancellor</a> BBC: Olaf Scholz will be sworn in, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 02:01 AM CT, Dec. 08 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
- <p class="updated_time"> 01:49 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59561881?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Suspect in murder of journalist arrested in Paris</a> BBC: French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden warns Putin he'll face tough sanctions if Russia invades Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. and allies would apply painful economic sanctions, said Jake Sullivan, Biden's national security adviser. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
