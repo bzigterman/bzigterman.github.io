@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: In response, Mark Meadows sued the 6 January committee members, alleging a civil rights violation. 
  <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of accuser corroborates account</a> BBC: The accuser, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 12:08 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582013?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Sending US troops not on table - Biden</a> BBC: The US president says a Western response to a Russian invasion would not include boots on the ground. 
- <p class="updated_time"> 11:26 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
@@ -212,10 +212,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 04:36 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
+ <p class="updated_time"> 04:35 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
- <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -278,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How Returning to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
- <p class="updated_time"> 10:58 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
  <p class="updated_time"> 10:57 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
