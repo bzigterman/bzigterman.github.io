@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of accuser corroborates account</a> BBC: The accuser, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/not-vaccinated-in-singapore-youll-pay-for-your-own-covid-19-treatment-11638965343">Not Vaccinated? In Singapore, You'll Pay for Your Own Covid-19 Treatment</a> WSJ: People who haven’t received shots account for a disproportionate amount of the strain on Singapore’s healthcare resources, authorities say, so the city-state is going to stop fully covering their Covid-19 medical bills. 
  <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
- <p class="updated_time"> 12:45 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
  <p class="updated_time"> 12:33 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/italy-recovering-under-draghi-debates-his-premiership-11638959401">Italy, Recovering Under Draghi, Debates Premiership</a> WSJ: Italy faces a dilemma at a critical moment for its economy: Should Mario Draghi remain prime minister for another year or become the country’s largely ceremonial president for the next seven? 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
@@ -206,14 +206,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
+ <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/supreme-court-religious-schools-maine.html">Supreme Court Seems Wary of Ban on State Aid to Religious Schools</a> NYT: The case, concerning a tuition program in Maine, seemed likely to extend a winning streak at the court for parents seeking public funds for religious education. 
- <p class="updated_time"> 04:13 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 04:05 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 04:01 PM CT, Dec. 08 </p> 
@@ -262,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
- <p class="updated_time"> 12:21 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
@@ -372,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
- <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/congress-aumf-war-powers-repeal-scrapped-523888">Push to repeal Iraq war powers snags in overloaded Senate</a> Politico: As the NDAA goes down to the wire, the congressional attempt to reclaim AUMFs is a casualty of war. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
- <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
