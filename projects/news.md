@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
+ <p class="updated_time"> 05:26 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
  <p class="updated_time"> 05:12 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
- <p class="updated_time"> 04:56 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/health/coronavirus-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
- <p class="updated_time"> 04:55 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: In response, Mark Meadows sued the 6 January committee members, alleging a civil rights violation. 
  <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of accuser corroborates account</a> BBC: The accuser, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of Maxwell accuser backs up statement</a> BBC: The accuser, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 01:54 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
@@ -204,16 +204,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: The Californian's departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where "anybody who says they're not interested is lying." 
+ <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 05:13 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Lawmakers Urge Instagram's Adam Mosseri to Better Protect Children</a> NYT: Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 05:06 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
- <p class="updated_time"> 05:04 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee investigating the Capitol riot said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
@@ -278,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 11:34 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/nyc-noncitizens-voting/index.html">New York City set to approve measure allowing 800,000 noncitizens to vote in local elections </a> CNN: The New York City Council on Thursday is set to approve a measure that will allow for noncitizens who are legal residents to vote in local elections. 
- <p class="updated_time"> 11:32 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How Returning to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
  <p class="updated_time"> 10:57 AM CT, Dec. 08 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 03:54 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-putin-call-ukraine/index.html">Biden told Putin that 'things we did not do in 2014, we are prepared to do now' if Russia escalates in Ukraine, top adviser says</a> CNN: President Joe Biden will hold a call with Russian President Vladimir Putin on Tuesday in what is expected to be a highly consequential meeting for the two leaders amid escalating tensions between Russia and Ukraine. 
- <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
- <p class="updated_time"> 04:18 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Chris Cuomo Book Pulled by Harper Collins</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
