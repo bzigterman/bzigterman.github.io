@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 06:29 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: The country’s president gave Olaf Scholz his official certificate of office, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
- <p class="updated_time"> 05:28 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
- <p class="updated_time"> 05:11 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 04:19 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
+ <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
+ <p class="updated_time"> 06:04 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">Helicopter Crashes With India’s Top Military General Aboard</a> NYT: The fate of Gen. Bipin Rawat, the chief of the country’s defense staff, wasn’t immediately clear. 
+ <p class="updated_time"> 06:03 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
+ <p class="updated_time"> 05:55 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
+ <p class="updated_time"> 05:48 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 04:13 AM CT, Dec. 08 </p> 
@@ -49,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz will take over from center-right Angela Merkel as chancellor and will lead a coalition of three different parties in government. 
- <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59573797?at_medium=RSS&at_campaign=KARANGA">Eilish, cheugy and Omicron among 2021's most mispronounced words</a> BBC: Billie Eilish, cheugy and Glasgow also feature on a list of the words people find trickiest to say. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/americas/chile-gay-marriage.html">Chile Legalizes Same-Sex Marriage at Fraught Political Moment</a> NYT: The legalization of same-sex marriage in Chile comes as the country grapples with sweeping demands for social change. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
- <p class="updated_time"> 05:17 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">Sundays Off: U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
  <p class="updated_time"> 05:06 PM CT, Dec. 07 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59565590?at_medium=RSS&at_campaign=KARANGA">Putin-Biden talks: What next for Ukraine?</a> BBC: Russia's president will want to register some kind of victory before his troops return, writes Jonathan Marcus. 
  <p class="updated_time"> 04:21 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/07/1061896560/opinion-im-shocked-by-the-racist-cartoons-and-travel-bans-sparked-by-omicron">Opinion: I'm shocked by the racist cartoons and travel bans sparked by omicron</a> NPR: The variant is bringing out the worst in some Western governments and global media outlets, says Dr. Ifeanyi Nsofor, a global health advocate in Nigeria. 
- <p class="updated_time"> 04:13 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59571857?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sees never-before-seen photos of Epstein and defendant</a> BBC: FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial. 
  <p class="updated_time"> 04:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
@@ -190,14 +190,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html">Meadows became the latest Trump acolyte to bow to the former President's ire</a> CNN: Former White House chief of staff Mark Meadows on Tuesday became the latest Donald Trump acolyte to bow to the former President's ire, begging out of his scheduled deposition with the House committee investigating the January 6 riot -- despite having given over key documents that will help build their case. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
+ <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062319956/instagram-ceo-to-testify-at-senate-hearing-on-potential-dangers-for-young-users">Instagram CEO to testify at Senate hearing on potential dangers for young users</a> NPR: NPR's Steve Inskeep speaks to Democratic Sen. Richard Blumenthal of Connecticut and Republican Sen. Marsha Blackburn of Tennessee — ahead of Wednesday's hearing on the impact of Instagram on kids. 
+ <p class="updated_time"> 06:15 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: The chief executives of six cryptocurrency companies will face questions from the House Financial Services Committee about risk and regulation. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot for a lot of people’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
+ <p class="updated_time"> 04:10 AM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062319949/morning-news-brief">News brief: Biden-Putin call, Instagram hearing, Glenn Foster dies in custody</a> NPR: The U.S. warns Russia it will face tough sanctions if it invades Ukraine. What is Instagram doing to keep its youngest users safe? A former NFL player died in police custody Monday in Alabama. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 03:54 AM CT, Dec. 08 </p> 
@@ -208,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
- <p class="updated_time"> 11:11 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html">Meadows became the latest Trump acolyte to bow to the former President's ire</a> CNN: Former White House chief of staff Mark Meadows on Tuesday became the latest Donald Trump acolyte to bow to the former President's ire, begging out of his scheduled deposition with the House committee investigating the January 6 riot -- despite having given over key documents that will help build their case. 
  <p class="updated_time"> 11:01 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/supreme-court-maine-religious-schools/index.html">Supreme Court hears appeal of Maine parents seeking to have state pay for religious schools</a> CNN: The Supreme Court will return to the issue of religious liberty Wednesday and consider a Maine school tuition assistance program that parents say violates their religious rights under the First Amendment. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
@@ -258,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
  <p class="updated_time"> 06:30 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
- <p class="updated_time"> 06:18 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/jussie-smollett-defense-rests-523911">Defense rests at Jussie Smollett’s trial</a> Politico: The actor again denied staging a politically charged hoax. 
  <p class="updated_time"> 05:46 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062210606/bidens-pick-to-become-a-key-banking-regulator-withdraws-after-ugly-nomination-fi">Biden's pick to become a key banking regulator withdraws after ugly nomination fight</a> NPR: Saule Omarova has withdrawn her nomination to head the Office of the Comptroller of the Currency after an ugly, and at times, incredibly personal, fight to be confirmed. 
  <p class="updated_time"> 05:30 PM CT, Dec. 07 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/biden-border-wall/index.html">Border land returned to Texas family after it was seized for wall</a> CNN: The Biden administration will return the land of a Texas family after seizing the property earlier this year for border wall construction, according to a Tuesday court filing. 
  <p class="updated_time"> 02:12 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-federal-contractor-vaccine-nationwide-blocked/index.html">Biden federal contractor vaccine mandate blocked nationwide by federal judge in Georgia</a> CNN: A federal judge in Georgia blocked the Biden administration's enforcement of a vaccine requirement for certain federal contractors nationwide. 
- <p class="updated_time"> 02:01 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/lawmakers-avert-medicare-cuts-523893">Lawmakers rush to avert looming Medicare cuts</a> Politico: “A pandemic is not the time to be cutting access to doctors for patients on Medicare,” Kim Schrier, (D-Wash.) who introduced the bill along with Steven Horsford (D-Nev.), said in a statement. 
  <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/biden-putin-call-ukraine-invasion-523884">Biden warns Putin on call against Ukraine invasion</a> Politico: The highly anticipated conversation between the American president and his Russian counterpart lasted just over two hours. 
  <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
@@ -336,6 +338,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
@@ -348,16 +352,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:08 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-supreme-court-commission.html">Biden’s Supreme Court Commission Prepares to Vote on Final Report</a> NYT: A draft version of the document flagged deep disputes over court expansion while exploring how phasing in term limits might work. 
- <p class="updated_time"> 06:29 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/trump-covid-blood-oxygen.html">Trump’s Blood Oxygen Level in Covid Bout Was Dangerously Low, Former Aide Says</a> NYT: Mark Meadows, Mr. Trump’s former chief of staff, said in his new book that the weakened president’s blood oxygen level reached 86 during a harrowing fight against the coronavirus. 
  <p class="updated_time"> 06:19 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
- <p class="updated_time"> 06:09 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061959400/bidens-supreme-court-commission-releases-draft-report">Biden's Supreme Court commission steers clear of controversial issues in draft report</a> NPR: The panel, which will vote on the report Tuesday, steers clear of taking a position on many of the most controversial suggestions for changing the court. 
- <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061945602/devin-nunes-california-trump-media-truth-social">Rep. Devin Nunes is resigning from Congress to be CEO of Trump's new media company</a> NPR: The California Republican and Trump ally will take the helm of the Trump Media & Technology Group next month, giving up his seat in the middle of his 10th term. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
@@ -380,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
+ <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
