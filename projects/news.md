@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59573797?at_medium=RSS&at_campaign=KARANGA">Eilish, cheugy and Omicron among 2021's most mispronounced words</a> BBC: Billie Eilish, cheugy and Glasgow also feature on a list of the words people find trickiest to say. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 09:12 PM CT, Dec. 07 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-pleads-for-missile-defense-resupply-as-its-arsenal-runs-low-11638878400">Saudi Arabia Pleads for Missile-Defense Resupply as Its Arsenal Runs Low</a> WSJ: Saudi Arabia’s defense against the Houthi rebels’ drones pits $1 million missiles against $10,000 “flying lawn mowers.” And the Saudis’ arsenal is fast depleting, prompting urgent appeals to the U.S. and Gulf and European allies for a resupply. 
- <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
@@ -188,6 +188,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
+ <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
+ <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
  <p class="updated_time"> 10:04 PM CT, Dec. 07 </p> 
@@ -200,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/defense-department-afghanistan-review-begins/index.html">Pentagon's review of Afghanistan drawdown begins 3 months after withdrawal</a> CNN: Three months after the withdrawal of US forces from Afghanistan, the team picked by the Defense Department to review the drawdown and the final months of America's longest war has begun its work. 
  <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
- <p class="updated_time"> 09:10 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
  <p class="updated_time"> 06:30 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
- <p class="updated_time"> 06:24 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 06:18 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/jussie-smollett-defense-rests-523911">Defense rests at Jussie Smollett’s trial</a> Politico: The actor again denied staging a politically charged hoax. 
  <p class="updated_time"> 05:46 PM CT, Dec. 07 </p> 
