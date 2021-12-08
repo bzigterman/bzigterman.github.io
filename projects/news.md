@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:08 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
+ <p class="updated_time"> 08:08 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: Olaf Scholz received his official certificate of office and his cabinet was also sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
+ <p class="updated_time"> 07:58 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a video showing Prime Minister Boris Johnson’s staff joking about  breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 07:34 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: Olaf Scholz received his official certificate of office and his cabinet was also sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
  <p class="updated_time"> 07:31 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Will Not Send Top Officials to the Beijing Olympics</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human-rights abuses in China. 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human-rights abuses in China. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
- <p class="updated_time"> 07:14 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
- <p class="updated_time"> 07:13 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 06:56 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
@@ -198,16 +198,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935">Pfizer says its booster shot can protect against Omicron</a> Politico: The companies said a third dose appears to provide a similar number of antibodies as a two-dose series against the original virus and other variants. 
  <p class="updated_time"> 08:45 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/suspect-charged-fox-news-christmas-tree-fire-523932">‘It’s beginning to look a lot like arson’: Suspect charged in Fox News Christmas tree fire</a> Politico: Craig Tamanaha was observed by Fox security around 12:14 a.m. early Wednesday scaling the tree at “Fox Square.” 
+ <p class="updated_time"> 07:58 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:28 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
- <p class="updated_time"> 07:15 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 06:40 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Instagram's Adam Mosseri Takes Hot Seat Before Senate Committee</a> NYT: Lawmakers are expected to grill Mr. Mosseri over leaked internal research that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 06:21 AM CT, Dec. 08 </p> 
@@ -394,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
