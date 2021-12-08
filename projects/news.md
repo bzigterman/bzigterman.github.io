@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma over Ukraine</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 01:40 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Covid-19 Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 01:19 PM CT, Dec. 08 </p> 
@@ -193,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
- <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/austria-chancellor-nehammer-kurz.html">Karl Nehammer Becomes Scandal-Shaken Austria's 3rd Chancellor This Year </a> NYT: Karl Nehammer, the former interior minister, becomes the country’s leader two months after the resignation of Sebastian Kurz, amid an investigation into corruption and influence-peddling. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
