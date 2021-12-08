@@ -63,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' Zoom firing of 900 staff</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
  <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and in Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
+ <p class="updated_time"> 10:00 AM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-k-imposes-new-covid-19-restrictions-as-omicron-cases-double-every-few-days-11638993182">U.K. Imposes New Restrictions as Omicron Cases Double Every Few Days</a> WSJ: British authorities say the Omicron variant could result in over a million total infections by the end of the month. 
  <p class="updated_time"> 09:55 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59580631?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: France releases Saudi man held over journalist's murder</a> BBC: A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday. 
  <p class="updated_time"> 09:39 AM CT, Dec. 08 </p> 
@@ -81,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59577720?at_medium=RSS&at_campaign=KARANGA">Robert E Lee: Confederate general statue to be turned into art</a> BBC: The statue was at the centre of a white nationalist rally in 2017, which led to the death of a woman. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
+ <p class="updated_time"> 05:31 AM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/beijing-reins-in-chinas-central-bank-11638981078">Beijing Reins In China's Central Bank</a> WSJ: The People’s Bank of China has never been politically independent like a Western central bank, but it has nonetheless enjoyed a special status in the nation’s economic hierarchy. Now, President Xi Jinping’s shake-up of China’s financial sector is stripping that away. 
  <p class="updated_time"> 04:36 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/bipin-rawat-indias-top-military-official-dies-in-helicopter-crash-11638970855">India's Top Military Official Dies in Helicopter Crash</a> WSJ: Bipin Rawat, the country’s chief of defense staff and a top aide to Prime Minister Narendra Modi, died with 12 others, including his wife, in the crash in Tamil Nadu. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
  <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
- <p class="updated_time"> 05:06 PM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/australia-to-stage-diplomatic-boycott-of-2022-winter-olympics-in-beijing-11638920014">Australia to Stage Diplomatic Boycott of 2022 Winter Olympics in Beijing</a> WSJ: The U.S. ally’s decision comes after the White House said it wouldn’t send officials to the Games. 
  <p class="updated_time"> 05:05 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/teens-mental-health-murthy.html">The pandemic worsened young people’s mental health crisis.</a> NYT: The message came as part of a rare public advisory from the nation’s top physician, Dr. Vivek H. Murthy. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
@@ -165,10 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
- <p class="updated_time"> 12:29 PM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/biden-russian-president-putin-start-call-11638894107">Biden Warns Putin Invasion of Ukraine to Be Met With Economic Response and More</a> WSJ: President Biden warned Russian President Vladimir Putin that the U.S. and its allies would meet a military invasion of Ukraine with strong economic penalties, moves to bolster Ukrainian defenses and fortify support for Eastern European nations. 
- <p class="updated_time"> 11:30 AM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781">Early Lab Test Shows Omicron Weakening Vaccine Effectiveness</a> WSJ: Shots should still help against severe disease with the variant on its way to dominate in Europe, scientists say. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
@@ -208,9 +206,13 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows files suit against Pelosi as Jan. 6 select panel moves against him</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
- <p class="updated_time"> 03:50 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 03:52 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Jan. 6 Committee to Cite Mark Meadows for Criminal Contempt</a> NYT: The select committee investigating the Capitol riot said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
+ <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:44 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
- <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/meadows-cooperate-jan-6.html">In a Reversal, Meadows Refuses an Interview for the Jan. 6 Inquiry</a> NYT: The former White House chief of staff told the House panel scrutinizing the Capitol attack that he was no longer willing to be deposed, reversing a commitment he made last week. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/chris-magnus-cbp-biden.html">Chris Magnus Confirmed to Lead Customs and Border Protection</a> NYT: Mr. Magnus, the police chief in Tucson, Ariz., will seek to win the trust of the U.S. Border Patrol, an agency championed by former President Donald J. Trump. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
