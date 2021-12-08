@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:59 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 02:22 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: The inauguration of Olaf Scholz begins a new chapter for Europe’s largest democracy and the broader continent. One notable move so far: a new cabinet with an equal number of women and men. 
- <p class="updated_time"> 01:45 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59574878?at_medium=RSS&at_campaign=KARANGA">Covishield: India vaccine maker halves production</a> BBC: The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said. 
- <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: The Appeals Court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
- <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 02:10 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz to take over from Merkel as chancellor</a> BBC: Olaf Scholz will be sworn in, leading a three-party coalition after 16 years of Merkel rule. 
+ <p class="updated_time"> 02:01 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544223?at_medium=RSS&at_campaign=KARANGA">Japanese billionaire blasts off to International Space Station</a> BBC: Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth. 
+ <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59574878?at_medium=RSS&at_campaign=KARANGA">Covishield: India vaccine maker halves production</a> BBC: The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said. 
+ <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
+ <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
  <p class="updated_time"> 01:21 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 01:19 AM CT, Dec. 08 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz will take over from center-right Angela Merkel as chancellor and will lead a coalition of three different parties in government. 
- <p class="updated_time"> 10:50 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59573797?at_medium=RSS&at_campaign=KARANGA">Eilish, cheugy and Omicron among 2021's most mispronounced words</a> BBC: Billie Eilish, cheugy and Glasgow also feature on a list of the words people find trickiest to say. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden warns Putin he'll face tough sanctions if Russia invades Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. and allies would apply painful economic sanctions, said Jake Sullivan, Biden's national security adviser. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
- <p class="updated_time"> 12:30 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59571417?at_medium=RSS&at_campaign=KARANGA">Google sues alleged Russian cyber criminals</a> BBC: Hackers behind a malicious "botnet" may have used their network to infect over a million computers. 
  <p class="updated_time"> 12:29 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/biden-russian-president-putin-start-call-11638894107">Biden Warns Putin Invasion of Ukraine to Be Met With Economic Response and More</a> WSJ: President Biden warned Russian President Vladimir Putin that the U.S. and its allies would meet a military invasion of Ukraine with strong economic penalties, moves to bolster Ukrainian defenses and fortify support for Eastern European nations. 
  <p class="updated_time"> 11:47 AM CT, Dec. 07 </p> 
