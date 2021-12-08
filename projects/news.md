@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:52 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 02:10 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 02:07 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
+ <p class="updated_time"> 02:03 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
- <p class="updated_time"> 01:43 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma over Ukraine</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 01:57 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 01:19 PM CT, Dec. 08 </p> 
@@ -21,14 +25,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: Under the so-called Plan B, people in England will be urged to work from home and will be required to show proof of vaccination to enter some venues. 
  <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' wellbeing and boost the country's economic competitiveness. 
- <p class="updated_time"> 12:38 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 12:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
- <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 11:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 11:26 AM CT, Dec. 08 </p> 
@@ -210,8 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:38 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950">Crypto CEOs to Congress: We want regulation, our way</a> Politico: Crypto leaders appeared at a House Financial Services Committee hearing that revealed an emerging ideological divide between the left and the right over how the government should oversee the industry. 
- <p class="updated_time"> 01:35 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Lawmakers are expected to grill Mr. Mosseri over leaked internal research that said the app had a toxic effect on some teenagers. 
+ <p class="updated_time"> 02:09 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 01:26 PM CT, Dec. 08 </p> 
