@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:22 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 12:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
+ <p class="updated_time"> 12:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: Under the so-called Plan B, people in England will be urged to work from home and will be required to show proof of vaccination to enter some venues. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
- <p class="updated_time"> 12:14 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 11:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 11:43 AM CT, Dec. 08 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
- <p class="updated_time"> 01:17 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 01:09 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/not-vaccinated-in-singapore-youll-pay-for-your-own-covid-19-treatment-11638965343">Not Vaccinated? In Singapore, You'll Pay for Your Own Covid-19 Treatment</a> WSJ: People who haven’t received shots account for a disproportionate amount of the strain on Singapore’s healthcare resources, authorities say, so the city-state is going to stop fully covering their Covid-19 medical bills. 
  <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 06:04 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
@@ -210,10 +210,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
+ <p class="updated_time"> 12:43 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
+ <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
+ <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 12:21 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
- <p class="updated_time"> 12:18 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 10:26 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
- <p class="updated_time"> 10:08 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
  <p class="updated_time"> 09:27 AM CT, Dec. 08 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062146576/after-senate-leaders-broker-a-deal-the-house-takes-a-first-step-to-avoid-default">After Senate leaders broker a deal, the House takes a first step to avoid default</a> NPR: Congress is setting up a complicated process that could avoid a potential federal default. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
- <p class="updated_time"> 08:20 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
@@ -408,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
