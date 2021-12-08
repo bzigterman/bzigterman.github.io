@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 PM CT, Dec. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
+ <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
+ <p class="updated_time"> 07:53 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062261334/chile-same-sex-marriage">Chile's Congress approves same-sex marriage by an overwhelming majority</a> NPR: The vote on Tuesday makes Chile the eighth Latin American country to extend equal rights to same sex couples, and marks a reversal for the country's conservative leadership. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59547337?at_medium=RSS&at_campaign=KARANGA">Colombia gangs: 'Surrender or we'll hunt you down' warns minister</a> BBC: Following the capture of its most wanted drug lord, Colombia is going after his criminal network. 
  <p class="updated_time"> 07:31 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59569649?at_medium=RSS&at_campaign=KARANGA">The ‘gals’ behind Samoa’s first woman PM</a> BBC: Samoa's first woman prime minister has been supported throughout her career by a group of powerful female friends. 
- <p class="updated_time"> 07:24 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
  <p class="updated_time"> 06:57 PM CT, Dec. 07 </p> 
@@ -69,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
+ <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pleads-for-missile-defense-resupply-as-its-arsenal-runs-low-11638878400">Saudi Arabia Pleads for Missile-Defense Resupply as Its Arsenal Runs Low</a> WSJ: Saudi Arabia’s defense against the Houthi rebels’ drones pits $1 million missiles against $10,000 “flying lawn mowers.” And the Saudis’ arsenal is fast depleting, prompting urgent appeals to the U.S. and Gulf and European allies for a resupply. 
  <p class="updated_time"> 02:55 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59568858?at_medium=RSS&at_campaign=KARANGA">Amazon services down for thousands of users</a> BBC: Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
  <p class="updated_time"> 10:25 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062092373/why-russia-ukraine-tensions-have-again-reached-a-boiling-point">Why Russia-Ukraine tensions have again reached a boiling point</a> NPR: More than 14,000 people have died in fighting since Russian annexed Ukraine's Crimean Peninsula in 2014. Huge military maneuvers have Western leaders worried another invasion is imminent. 
- <p class="updated_time"> 09:07 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59543021?at_medium=RSS&at_campaign=KARANGA">Michael Steinhardt: US billionaire hands over antiquities worth $70m</a> BBC: Michael Steinhardt is banned for life from buying such treasures following an investigation. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
  <p class="updated_time"> 02:52 AM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia. 
- <p class="updated_time"> 01:00 AM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pleads-for-missile-defense-resupply-as-its-arsenal-runs-low-11638878400">Saudi Arabia Pleads for Missile-Defense Resupply as Its Arsenal Runs Low</a> WSJ: Saudi Arabia’s defense against the Houthi rebels’ drones pits $1 million missiles against $10,000 “flying lawn mowers.” And the Saudis’ arsenal is fast depleting, prompting urgent appeals to the U.S. and Gulf and European allies for a resupply. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
  <p class="updated_time"> 01:37 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
- <p class="updated_time"> 12:59 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061841778/citing-humanitarian-abuses-u-s-will-stage-a-diplomatic-boycott-of-beijing-olympi">Citing humanitarian abuses, U.S. will stage a diplomatic boycott of Beijing Olympics</a> NPR: The White House cited the "ongoing genocide and crimes against humanity" in the Xinjiang region of China. U.S. athletes will compete in the Olympics. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/austria-chancellor-nehammer-kurz.html">Karl Nehammer Becomes Scandal-Shaken Austria's 3rd Chancellor This Year </a> NYT: Karl Nehammer, the former interior minister, becomes the country’s leader two months after the resignation of Sebastian Kurz, amid an investigation into corruption and influence-peddling. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
@@ -200,10 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
+ <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 08:03 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/vaccine-mandates-federal-contractors-523916">Judge blocks Biden’s vaccine mandate for federal contractors</a> Politico: The ruling came in response to a lawsuit from several contractors and seven states. 
- <p class="updated_time"> 07:47 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/meadows-cooperate-jan-6.html">In a Reversal, Meadows Refuses an Interview for the Jan. 6 Inquiry</a> NYT: The former White House chief of staff told the House panel scrutinizing the Capitol attack that he was no longer willing to be deposed, reversing a commitment he made last week. 
  <p class="updated_time"> 07:15 PM CT, Dec. 07 </p> 
