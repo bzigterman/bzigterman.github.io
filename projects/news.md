@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: Angela Merkel received a standing ovation in Germany’s Parliament as the vote to approve her successor, Olaf Scholz, got underway. His inauguration begins a new chapter for Europe’s largest democracy. 
+ <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 02:27 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
  <p class="updated_time"> 02:10 AM CT, Dec. 08 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
- <p class="updated_time"> 01:21 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 01:19 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
  <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
