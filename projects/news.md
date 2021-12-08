@@ -7,26 +7,30 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:18 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 09:37 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
+ <p class="updated_time"> 09:20 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 09:16 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
  <p class="updated_time"> 09:15 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 09:04 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' mass Zoom firing</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
- <p class="updated_time"> 09:02 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
+ <p class="updated_time"> 08:48 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
- <p class="updated_time"> 08:15 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
  <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59574878?at_medium=RSS&at_campaign=KARANGA">Covishield: India vaccine maker halves production</a> BBC: The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said. 
- <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
  <p class="updated_time"> 01:54 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 06:05 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59555481?at_medium=RSS&at_campaign=KARANGA">Mahbouba Seraj: Afghanistan is a country in trouble</a> BBC: Mahbouba Seraj is a prominent Afghan women’s rights activist. She has a personal message for the Taliban. 
  <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -206,8 +206,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Jan. 6 Rally Planner to Tell House Panel He Played No Role in Violence</a> NYT: Ali Alexander, a right-wing activist who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, is cooperating with the committee investigating the riot. 
+ <p class="updated_time"> 09:27 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-spending-bill/index.html">10 things you didn't know are in the Democrats' Build Back Better bill</a> CNN: A sweeping $1.9 trillion spending plan, known as the Build Back Better bill, is making its way through Congress and could make a key part of President Joe Biden's economic agenda a reality. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/roger-stone-plead-the-fifth-january-6-committee/index.html">Roger Stone becomes the latest to say he'd plead the Fifth to January 6 committee</a> CNN: Roger Stone, an ally of former President Donald Trump, has become the latest individual subpoenaed by the House select committee investigating January 6 to indicate he would plead the Fifth Amendment as a way to try and get out of cooperating with the panel. 
  <p class="updated_time"> 09:18 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-rally-planner-to-tell-house-panel-he-played-no-role-in-violence.html">Jan. 6 Rally Planner to Tell House Panel He Played No Role in Violence</a> NYT: Ali Alexander, a right-wing activist who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, is cooperating with the committee investigating the riot. 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
@@ -256,16 +262,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
- <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 09:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/defense-department-afghanistan-review-begins/index.html">Pentagon's review of Afghanistan drawdown begins 3 months after withdrawal</a> CNN: Three months after the withdrawal of US forces from Afghanistan, the team picked by the Defense Department to review the drawdown and the final months of America's longest war has begun its work. 
  <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
- <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 05:00 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-spending-bill/index.html">10 things you didn't know are in the Democrats' Build Back Better bill</a> CNN: A sweeping $1.9 trillion spending plan, known as the Build Back Better bill, is making its way through Congress and could make a key part of President Joe Biden's economic agenda a reality. 
  <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
  <p class="updated_time"> 04:27 PM CT, Dec. 07 </p> 
@@ -320,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
- <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/matthew-dowd-ends-campaign-lieutenant-governor-texas/index.html">Matthew Dowd, former Bush strategist, ends campaign for lieutenant governor in Texas</a> CNN: Matthew Dowd, a former George W. Bush strategist and Democratic candidate for lieutenant governor in Texas, announced on Tuesday he was ending his campaign. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
@@ -404,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
+ <p class="updated_time"> 11:31 PM CT, Dec. 05 </p> 
+ <a href="https://www.politico.com/news/2021/12/05/donald-trump-ted-budd-north-carolina-523779">Trump brokers deal to remake the field in N.C. Senate race</a> Politico: The deal benefits Trump-endorsed Rep. Ted Budd, who has struggled to take command of the GOP primary in one of the nation’s key Senate contests. 
  <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
@@ -414,6 +414,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/05/politics/abortion-supreme-court-what-comes-next/index.html">What comes next after the Supreme Court's signal on abortion rights</a> CNN: At stake in the Mississippi abortion case heard by the Supreme Court December 1 is access to the procedure for millions of people across the country. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
+ <p class="updated_time"> 08:29 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/massachusetts-gop-523730">‘A real fight for our existence’: Massachusetts GOP spirals in Baker exit</a> Politico: Both Gov. Charlie Baker and Lt. Gov. Karyn Polito have opted to sit out the 2022 gubernatorial campaign, kicking off fresh questions about the future of the party. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
