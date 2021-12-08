@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:07 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: Angela Merkel received a standing ovation in Germany’s Parliament as the vote to approve her successor, Olaf Scholz, got underway. His inauguration begins a new chapter for Europe’s largest democracy. 
+ <p class="updated_time"> 03:29 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz to Take Over as Chancellor, Ending Merkel Era</a> NYT: Lawmakers voted to approve Olaf Scholz as the country’s next leader, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
+ <p class="updated_time"> 03:17 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India topmost military official's helicopter crashes</a> BBC: Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
- <p class="updated_time"> 02:27 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
  <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
  <p class="updated_time"> 02:10 AM CT, Dec. 08 </p> 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz will take over from center-right Angela Merkel as chancellor and will lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59573797?at_medium=RSS&at_campaign=KARANGA">Eilish, cheugy and Omicron among 2021's most mispronounced words</a> BBC: Billie Eilish, cheugy and Glasgow also feature on a list of the words people find trickiest to say. 
+ <p class="updated_time"> 10:19 PM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062261334/chile-same-sex-marriage">Chile's Congress approves same-sex marriage by an overwhelming majority</a> NPR: The vote on Tuesday makes Chile the eighth Latin American country to extend equal rights to same sex couples, and marks a reversal for the country's conservative leadership. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59547337?at_medium=RSS&at_campaign=KARANGA">Colombia gangs: 'Surrender or we'll hunt you down' warns minister</a> BBC: Following the capture of its most wanted drug lord, Colombia is going after his criminal network. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/former-malaysian-prime-minister-loses-appeal-of-1mdb-conviction-11638945640">Former Malaysian Prime Minister Loses Appeal of 1MDB Conviction</a> WSJ: Najib Razak is to remain free on bail pending an appeal to Malaysia’s highest court on charges related to his role in one of the world’s largest financial scandals. 
  <p class="updated_time"> 07:31 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59569649?at_medium=RSS&at_campaign=KARANGA">The ‘gals’ behind Samoa’s first woman PM</a> BBC: Samoa's first woman prime minister has been supported throughout her career by a group of powerful female friends. 
  <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
@@ -73,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">Sundays Off: U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
+ <p class="updated_time"> 05:06 PM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/australia-to-stage-diplomatic-boycott-of-2022-winter-olympics-in-beijing-11638920014">Australia to Stage Diplomatic Boycott of 2022 Winter Olympics in Beijing</a> WSJ: The U.S. ally’s decision comes after the White House said it wouldn’t send officials to the Games. 
  <p class="updated_time"> 05:05 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/teens-mental-health-murthy.html">The pandemic worsened young people’s mental health crisis.</a> NYT: The message came as part of a rare public advisory from the nation’s top physician, Dr. Vivek H. Murthy. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
- <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pleads-for-missile-defense-resupply-as-its-arsenal-runs-low-11638878400">Saudi Arabia Pleads for Missile-Defense Resupply as Its Arsenal Runs Low</a> WSJ: Saudi Arabia’s defense against the Houthi rebels’ drones pits $1 million missiles against $10,000 “flying lawn mowers.” And the Saudis’ arsenal is fast depleting, prompting urgent appeals to the U.S. and Gulf and European allies for a resupply. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
@@ -117,16 +121,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
  <p class="updated_time"> 10:25 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062092373/why-russia-ukraine-tensions-have-again-reached-a-boiling-point">Why Russia-Ukraine tensions have again reached a boiling point</a> NPR: More than 14,000 people have died in fighting since Russian annexed Ukraine's Crimean Peninsula in 2014. Huge military maneuvers have Western leaders worried another invasion is imminent. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-s-new-western-workweek-upsets-friday-brunch-11638912105">U.A.E.'s New Western Workweek Upsets Friday Brunch</a> WSJ: Gulf state switches to Monday through Friday schedule, changing weekend plans; ‘Monday mornings are now the bad mornings’ 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
- <p class="updated_time"> 06:51 AM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-shifts-workweek-to-monday-friday-to-mirror-west-11638892999">U.A.E. Shifts Working Week to Mirror West</a> WSJ: The country is planning its latest cultural change aimed at marking out the Gulf state as the Middle East’s premier hub for foreign talent and global investment. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 06:29 AM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/egypt-court-orders-release-of-rights-activist-patrick-george-zaki-after-trial-postponed-11638898145">Egypt Court Orders Release of Rights Activist After Trial Postponed</a> WSJ: Patrick George Zaki, an Egyptian graduate studying in Italy, has been imprisoned for nearly two years in a case that has intensified international scrutiny of the country’s human-rights record. 
  <p class="updated_time"> 06:04 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
  <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
@@ -137,10 +139,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 07 </p> 
+ <a href="https://www.wsj.com/articles/shooting-in-moscow-kills-two-people-injures-four-11638892815">Shooting in Moscow Kills Two People, Injures Four</a> WSJ: Two people were killed and four others injured, including a 10-year-old girl, after a man opened fire at a customer-service center in the southeast of the Russian capital. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
- <p class="updated_time"> 02:52 AM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/volunteer-fighters-raise-stakes-in-ethiopias-bitter-conflict-11638869586">Volunteer Fighters Raise Stakes in Ethiopia's Conflict</a> WSJ: Thousands of Ethiopian men and women are quitting their jobs to enlist with the armed forces, as rebels advance toward the capital. “Saving my country is my highest priority right now,” said a university librarian who joined a pro-government militia. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
@@ -188,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 11:32 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
@@ -414,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
- <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
