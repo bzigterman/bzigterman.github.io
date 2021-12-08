@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:08 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
+ <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
  <p class="updated_time"> 04:36 PM CT, Dec. 08 </p> 
