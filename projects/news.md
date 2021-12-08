@@ -206,6 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:01 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
+ <p class="updated_time"> 10:00 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses as soon as Wednesday</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
+ <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
  <p class="updated_time"> 09:43 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 09:33 AM CT, Dec. 08 </p> 
@@ -214,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-spending-bill/index.html">10 things you didn't know are in the Democrats' Build Back Better bill</a> CNN: A sweeping $1.9 trillion spending plan, known as the Build Back Better bill, is making its way through Congress and could make a key part of President Joe Biden's economic agenda a reality. 
  <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/roger-stone-plead-the-fifth-january-6-committee/index.html">Roger Stone becomes the latest to say he'd plead the Fifth to January 6 committee</a> CNN: Roger Stone, an ally of former President Donald Trump, has become the latest individual subpoenaed by the House select committee investigating January 6 to indicate he would plead the Fifth Amendment as a way to try and get out of cooperating with the panel. 
- <p class="updated_time"> 09:18 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
@@ -340,10 +344,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/congress-aumf-war-powers-repeal-scrapped-523888">Push to repeal Iraq war powers snags in overloaded Senate</a> Politico: As the NDAA goes down to the wire, the congressional attempt to reclaim AUMFs is a casualty of war. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden warns Putin he'll face tough sanctions if Russia invades Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. and allies would apply painful economic sanctions, said Jake Sullivan, Biden's national security adviser. 
- <p class="updated_time"> 01:15 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-administration-covid-response-milestones/index.html">Biden administration touts vaccine milestone amid rising cases</a> CNN: The White House will tout a series of positive milestones for the administration's pandemic response Tuesday as the nation experiences rising Covid-19 cases and concerns about the new Omicron variant. 
  <p class="updated_time"> 12:54 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
+ <p class="updated_time"> 12:53 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/capitol-police/index.html">US Capitol Police has made a fraction of recommended changes since January 6, internal watchdog says</a> CNN: Only about one-quarter of recommended changes to US Capitol Police following the January 6 riot have been implemented, department Inspector General Michael Bolton told a Senate committee Tuesday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Steve Bannon's contempt of Congress trial set for July 18</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
@@ -374,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062016879/morning-news-brief">News brief: U.S.-Russia meeting, diplomatic boycott of Olympics, DOJ sues Texas </a> NPR: President Biden and Russian President Putin hold a video summit. The U.S. won't send any government officials to the Olympics in Beijing. The DOJ is suing Texas over the state's redistricting plans. 
- <p class="updated_time"> 10:51 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/michael-sussmann-john-durham.html">Defendant in Case Brought by Durham Says New Evidence Undercuts Charge</a> NYT: Lawyers for Michael Sussmann, accused by the Trump-era special counsel of lying to the F.B.I., asked for a quick trial after receiving what they said was helpful material from prosecutors. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-prescription-drugs-build-back-better/index.html">Biden says he wants his social safety net bill passed 'as early as we can get it' as negotiations drag on</a> CNN: President Joe Biden on Monday will highlight provisions to lower the prices of prescription drugs in the Build Back Better Act as his signature legislation awaits Senate action. 
- <p class="updated_time"> 01:27 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
