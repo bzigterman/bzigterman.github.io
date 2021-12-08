@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: The inauguration of Olaf Scholz begins a new chapter for Europe’s largest democracy and the broader continent. One notable move so far: a new cabinet with an equal number of women and men. 
+ <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
+ <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:45 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
- <p class="updated_time"> 12:42 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:37 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59544226?at_medium=RSS&at_campaign=KARANGA">China is 'biggest captor of journalists', says report</a> BBC: Advocacy group Reporters Without Borders said at least 127 journalists are currently detained. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59544226?at_medium=RSS&at_campaign=KARANGA">China is biggest captor of journalists, says report</a> BBC: Advocacy group Reporters Without Borders said at least 127 journalists are currently detained. 
  <p class="updated_time"> 12:28 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 12:24 AM CT, Dec. 08 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59573797?at_medium=RSS&at_campaign=KARANGA">Eilish, cheugy and Omicron among 2021's most mispronounced words</a> BBC: Billie Eilish, cheugy and Glasgow also feature on a list of the words people find trickiest to say. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
- <p class="updated_time"> 09:12 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 08:15 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
