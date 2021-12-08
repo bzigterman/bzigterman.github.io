@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:26 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
+ <p class="updated_time"> 07:34 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Is Sworn In as Chancellor, Ending Merkel Era</a> NYT: Olaf Scholz received his official certificate of office and his cabinet was also sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
+ <p class="updated_time"> 07:31 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Will Not Send Top Officials to the Beijing Olympics</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human-rights abuses in China. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 07:14 AM CT, Dec. 08 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 06:56 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 06:40 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">Helicopter Crashes With India’s Top Military General Aboard</a> NYT: The fate of Gen. Bipin Rawat, the chief of the country’s defense staff, wasn’t immediately clear. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
@@ -56,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:33 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/italy-recovering-under-draghi-debates-his-premiership-11638959401">Italy, Recovering Under Draghi, Debates Premiership</a> WSJ: Italy faces a dilemma at a critical moment for its economy: Should Mario Draghi remain prime minister for another year or become the country’s largely ceremonial president for the next seven? 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz will take over from center-right Angela Merkel as chancellor and will lead a coalition of three different parties in government. 
+ <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz takes over from center-right Angela Merkel as chancellor to lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:28 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 07:15 AM CT, Dec. 08 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
  <p class="updated_time"> 05:46 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062210606/bidens-pick-to-become-a-key-banking-regulator-withdraws-after-ugly-nomination-fi">Biden's pick to become a key banking regulator withdraws after ugly nomination fight</a> NPR: Saule Omarova has withdrawn her nomination to head the Office of the Comptroller of the Currency after an ugly, and at times, incredibly personal, fight to be confirmed. 
- <p class="updated_time"> 05:30 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
  <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
