@@ -7,18 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 08:56 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 08:54 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' mass Zoom firing</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
+ <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
+ <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 08:15 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
+ <p class="updated_time"> 08:15 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 08:08 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
- <p class="updated_time"> 07:58 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a video showing Prime Minister Boris Johnson’s staff joking about  breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
- <p class="updated_time"> 05:48 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 03:57 AM CT, Dec. 08 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
+ <p class="updated_time"> 02:40 AM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/bipin-rawat-indias-top-military-official-dies-in-helicopter-crash-11638970855">India's Top Military Official Dies in Helicopter Crash</a> WSJ: Bipin Rawat died Wednesday in a helicopter crash in the southern state of Tamil Nadu, the country’s air force said. 
  <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
  <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
@@ -51,12 +57,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
  <p class="updated_time"> 01:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <p class="updated_time"> 01:09 AM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/not-vaccinated-in-singapore-youll-pay-for-your-own-covid-19-treatment-11638965343">Not Vaccinated? In Singapore, You'll Pay for Your Own Covid-19 Treatment</a> WSJ: People who haven’t received shots account for a disproportionate amount of the strain on Singapore’s healthcare resources, authorities say, so the city-state is going to stop fully covering their Covid-19 medical bills. 
  <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:45 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
- <p class="updated_time"> 12:37 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59544226?at_medium=RSS&at_campaign=KARANGA">China is biggest captor of journalists, says report</a> BBC: Advocacy group Reporters Without Borders said at least 127 journalists are currently detained. 
  <p class="updated_time"> 12:33 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/italy-recovering-under-draghi-debates-his-premiership-11638959401">Italy, Recovering Under Draghi, Debates Premiership</a> WSJ: Italy faces a dilemma at a critical moment for its economy: Should Mario Draghi remain prime minister for another year or become the country’s largely ceremonial president for the next seven? 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
@@ -200,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935">Pfizer says its booster shot can protect against Omicron</a> Politico: The companies said a third dose appears to provide a similar number of antibodies as a two-dose series against the original virus and other variants. 
+ <p class="updated_time"> 08:49 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 08:45 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/suspect-charged-fox-news-christmas-tree-fire-523932">‘It’s beginning to look a lot like arson’: Suspect charged in Fox News Christmas tree fire</a> Politico: “We’re going to rebuild it, and we’re going to build it back better,” vowed “Fox & Friends” co-host Ainsley Earhardt. 
  <p class="updated_time"> 07:58 AM CT, Dec. 08 </p> 
@@ -208,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:28 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
- <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 06:40 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Instagram's Adam Mosseri Takes Hot Seat Before Senate Committee</a> NYT: Lawmakers are expected to grill Mr. Mosseri over leaked internal research that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 06:21 AM CT, Dec. 08 </p> 
