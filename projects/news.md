@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
@@ -23,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
+ <p class="updated_time"> 02:57 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59588109?at_medium=RSS&at_campaign=KARANGA">Netherlands to buy Rembrandt Standard Bearer self-portrait</a> BBC: The Dutch government puts aside €150m for the 1636 work, currently owned by the Rothschild family. 
  <p class="updated_time"> 02:55 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 02:47 PM CT, Dec. 08 </p> 
@@ -39,10 +45,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 01:11 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
+ <p class="updated_time"> 01:10 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59582137?at_medium=RSS&at_campaign=KARANGA">UK and Canada join diplomatic boycott of China Winter Olympics</a> BBC: The two nations say their diplomats will not attend the games, citing Chinese human rights abuses. 
  <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
+ <p class="updated_time"> 12:08 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59582013?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Sending US troops not on table - Biden</a> BBC: The US president says a Western response to a Russian invasion would not include boots on the ground. 
  <p class="updated_time"> 11:26 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
@@ -59,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
  <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
  <p class="updated_time"> 09:15 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
@@ -71,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 06:25 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59577720?at_medium=RSS&at_campaign=KARANGA">Robert E Lee: Confederate general statue to be turned into art</a> BBC: The statue was at the centre of a white nationalist rally in 2017, which led to the death of a woman. 
- <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 04:36 AM CT, Dec. 08 </p> 
@@ -83,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
- <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
  <p class="updated_time"> 01:54 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
@@ -155,14 +159,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178480/as-turkeys-currency-drops-some-worry-the-government-cant-turn-things-around">As Turkey's currency drops, some worry the government can't turn things around</a> NPR: Turkey's currency has recently hit record lows in value, driving up prices in the country. But the president's recipe for fixing the problem is the opposite of what economists generally recommend. 
  <p class="updated_time"> 03:30 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
- <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
- <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden warns Putin he'll face tough sanctions if Russia invades Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. and allies would apply painful economic sanctions, said Jake Sullivan, Biden's national security adviser. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
  <p class="updated_time"> 12:29 PM CT, Dec. 07 </p> 
@@ -208,6 +208,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 03:50 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
+ <p class="updated_time"> 03:44 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
+ <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478274/what-to-know-about-the-768-billion-defense-policy-bill-thats-heading-to-the-sena">What to know about the $768 billion defense policy bill that's heading to the Senate</a> NPR: NPR's Audie Cornish speaks with Politico defense reporter Connor O'Brien about the House passing a $768 billion defense policy bill. 
  <p class="updated_time"> 03:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
@@ -242,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
  <p class="updated_time"> 01:01 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062407301/san-antonio-school-district-reviewing-library-books-after-krause-inquiry">A Texas school district is reviewing 400 library books after a GOP lawmaker's inquiry</a> NPR: State Rep. Matt Krause launched an inquiry into school library books on topics like race and gender earlier this fall. A San Antonio district says it's reviewing some 400 titles that were on his list. 
- <p class="updated_time"> 12:43 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
@@ -308,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
- <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
  <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
@@ -326,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/meadows-cooperate-jan-6.html">In a Reversal, Meadows Refuses an Interview for the Jan. 6 Inquiry</a> NYT: The former White House chief of staff told the House panel scrutinizing the Capitol attack that he was no longer willing to be deposed, reversing a commitment he made last week. 
- <p class="updated_time"> 07:15 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/chris-magnus-cbp-biden.html">Chris Magnus Confirmed to Lead Customs and Border Protection</a> NYT: Mr. Magnus, the police chief in Tucson, Ariz., will seek to win the trust of the U.S. Border Patrol, an agency championed by former President Donald J. Trump. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
@@ -364,10 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
- <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178456/republican-elections-lawyer-calls-for-reform-to-the-electoral-count-act">Republican elections lawyer calls for reform to the Electoral Count Act</a> NPR: NPR's Ari Shapiro talks with election lawyer Ben Ginsberg on his National Review article calling to reform the Electoral Count Act, which spells out how Congress calculates the electoral college vote. 
- <p class="updated_time"> 03:18 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
  <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
