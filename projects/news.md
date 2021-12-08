@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: The Appeals Court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
  <p class="updated_time"> 01:31 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: The inauguration of Olaf Scholz begins a new chapter for Europe’s largest democracy and the broader continent. One notable move so far: a new cabinet with an equal number of women and men. 
  <p class="updated_time"> 01:21 AM CT, Dec. 08 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896256/a-small-lineage-of-artisans-is-reviving-the-ancient-art-of-pigeon-whistles-in-be">A small lineage of artisans is reviving the ancient art of pigeon whistles in Beijing</a> NPR: For centuries, owners tied lightweight whistles to their pet pigeons in China. The art of making pigeon whistles almost faded away in Beijing, but a small group of artisans is bringing it back. 
- <p class="updated_time"> 03:20 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896242/afghanistan-is-struggling-without-aid-but-unfreezing-funds-to-the-country-is-tri">Afghanistan is struggling without aid, but unfreezing funds to the country is tricky</a> NPR: Afghanistan faces a humanitarian crisis. It had been relying on foreign aid, much of which has been cut since the Taliban took over in August. There are now shortages of money, food and health care. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
