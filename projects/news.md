@@ -7,32 +7,36 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
+ <p class="updated_time"> 10:38 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
+ <p class="updated_time"> 10:38 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' Zoom firing of 900 staff</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
+ <p class="updated_time"> 10:32 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 10:27 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
+ <p class="updated_time"> 10:20 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">Merkel Departs, Opening a New Chapter for Germany and Europe</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
+ <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection v. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
  <p class="updated_time"> 09:39 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
- <p class="updated_time"> 09:37 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59567377?at_medium=RSS&at_campaign=KARANGA">Biden warns Putin of 'strong measures' amid Ukraine invasion fears</a> BBC: In a call with President Biden, Russia's Vladimir Putin seeks guarantees against eastward Nato expansion. 
- <p class="updated_time"> 09:20 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 09:16 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
  <p class="updated_time"> 09:15 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
- <p class="updated_time"> 09:04 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-59573146?at_medium=RSS&at_campaign=KARANGA">Boss says sorry for 'blundered' mass Zoom firing</a> BBC: Vishal Garg says he "is deeply sorry" for sacking 900 staff in an online meeting. 
- <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
- <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
@@ -181,16 +185,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061896263/russia-is-gathering-more-than-94-000-troops-near-ukraine-as-fears-of-an-invasion">Russia is gathering more than 94,000 troops near Ukraine as fears of an invasion rise</a> NPR: Russia is amassing more than 94,000 troops at the Ukrainian border in what officials in Ukraine call a "large-scale escalation" from Russia that is expected to take place in January. 
  <p class="updated_time"> 03:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
- <p class="updated_time"> 03:43 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896256/a-small-lineage-of-artisans-is-reviving-the-ancient-art-of-pigeon-whistles-in-be">A small lineage of artisans is reviving the ancient art of pigeon whistles in Beijing</a> NPR: For centuries, owners tied lightweight whistles to their pet pigeons in China. The art of making pigeon whistles almost faded away in Beijing, but a small group of artisans is bringing it back. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
  <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 01:38 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/thailand-omicron-covid.html">Thailand Reports First Case of Omicron Variant</a> NYT: A U.S. citizen who entered the country nearly a week ago received his first positive test result on Dec. 1. Thailand has pushed to reopen to tourists, aiming to revive its economy. 
- <p class="updated_time"> 01:37 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/health/covid-blood-pressure.html">The Pandemic Has Your Blood Pressure Rising? You’re Not Alone.</a> NYT: Average blood pressure readings increased as the coronavirus spread, new research suggests. The finding portends medical repercussions far beyond Covid-19. 
  <p class="updated_time"> 12:16 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/austria-chancellor-nehammer-kurz.html">Karl Nehammer Becomes Scandal-Shaken Austria's 3rd Chancellor This Year </a> NYT: Karl Nehammer, the former interior minister, becomes the country’s leader two months after the resignation of Sebastian Kurz, amid an investigation into corruption and influence-peddling. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
@@ -206,16 +206,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:01 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How Returning to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
+ <p class="updated_time"> 10:48 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine are off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
+ <p class="updated_time"> 10:35 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
+ <p class="updated_time"> 10:33 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
+ <p class="updated_time"> 10:26 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
+ <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Jan. 6 Rally Planner to Tell House Panel He Played No Role in Violence</a> NYT: Ali Alexander, a right-wing activist who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, is cooperating with the committee investigating the riot. 
+ <p class="updated_time"> 10:08 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 10:00 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses as soon as Wednesday</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
- <p class="updated_time"> 09:43 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
- <p class="updated_time"> 09:33 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Jan. 6 Rally Planner to Tell House Panel He Played No Role in Violence</a> NYT: Ali Alexander, a right-wing activist who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, is cooperating with the committee investigating the riot. 
  <p class="updated_time"> 09:27 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-spending-bill/index.html">10 things you didn't know are in the Democrats' Build Back Better bill</a> CNN: A sweeping $1.9 trillion spending plan, known as the Build Back Better bill, is making its way through Congress and could make a key part of President Joe Biden's economic agenda a reality. 
  <p class="updated_time"> 09:21 AM CT, Dec. 08 </p> 
@@ -224,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935">Pfizer says its booster shot can protect against Omicron</a> Politico: The companies said a third dose appears to provide a similar number of antibodies as a two-dose series against the original virus and other variants. 
- <p class="updated_time"> 08:49 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 08:45 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/suspect-charged-fox-news-christmas-tree-fire-523932">‘It’s beginning to look a lot like arson’: Suspect charged in Fox News Christmas tree fire</a> Politico: “We’re going to rebuild it, and we’re going to build it back better,” vowed “Fox & Friends” co-host Ainsley Earhardt. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
@@ -334,20 +342,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178442/biden-warns-russian-president-putin-against-military-escalation-on-ukraine-borde">Biden warns Russian President Putin against military escalation on Ukraine border</a> NPR: President Biden is talking to Russian President Vladimir Putin about Russia's military build-up on the Ukraine border — and the consequences for Moscow if it invades Ukraine. 
  <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
- <p class="updated_time"> 02:35 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-border-wall/index.html">Border land returned to Texas family after it was seized for wall</a> CNN: The Biden administration will return the land of a Texas family after seizing the property earlier this year for border wall construction, according to a Tuesday court filing. 
  <p class="updated_time"> 02:12 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/biden-federal-contractor-vaccine-nationwide-blocked/index.html">Biden federal contractor vaccine mandate blocked nationwide by federal judge in Georgia</a> CNN: A federal judge in Georgia blocked the Biden administration's enforcement of a vaccine requirement for certain federal contractors nationwide. 
- <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-putin-call-ukraine-invasion-523884">Biden warns Putin on call against Ukraine invasion</a> Politico: The highly anticipated conversation between the American president and his Russian counterpart lasted just over two hours. 
  <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/congress-aumf-war-powers-repeal-scrapped-523888">Push to repeal Iraq war powers snags in overloaded Senate</a> Politico: As the NDAA goes down to the wire, the congressional attempt to reclaim AUMFs is a casualty of war. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062131727/biden-putin-call-russia-military-build-up-ukraine">Biden warns Putin he'll face tough sanctions if Russia invades Ukraine</a> NPR: Biden told Putin in a call that if Russia invades Ukraine, the U.S. and allies would apply painful economic sanctions, said Jake Sullivan, Biden's national security adviser. 
  <p class="updated_time"> 12:54 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
- <p class="updated_time"> 12:53 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/capitol-police/index.html">US Capitol Police has made a fraction of recommended changes since January 6, internal watchdog says</a> CNN: Only about one-quarter of recommended changes to US Capitol Police following the January 6 riot have been implemented, department Inspector General Michael Bolton told a Senate committee Tuesday. 
  <p class="updated_time"> 12:40 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Steve Bannon's contempt of Congress trial set for July 18</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062016879/morning-news-brief">News brief: U.S.-Russia meeting, diplomatic boycott of Olympics, DOJ sues Texas </a> NPR: President Biden and Russian President Putin hold a video summit. The U.S. won't send any government officials to the Olympics in Beijing. The DOJ is suing Texas over the state's redistricting plans. 
  <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
- <p class="updated_time"> 06:35 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html">Top Pence aide cooperating with January 6 committee</a> CNN: Marc Short, the former chief of staff to Vice President Mike Pence, is cooperating with the January 6 committee, a significant development that will give investigators insight from one of the highest-ranking Trump officials, according to three sources with knowledge of the committee's activities. 
  <p class="updated_time"> 06:19 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
