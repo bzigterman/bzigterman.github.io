@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
  <p class="updated_time"> 02:10 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 02:07 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59572664?at_medium=RSS&at_campaign=KARANGA">Daunte Wright: Manslaughter trial of ex-police officer begins</a> BBC: The former officer said she meant to use a Taser when she shot dead black motorist Daunte Wright. 
  <p class="updated_time"> 02:03 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
- <p class="updated_time"> 01:57 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
  <p class="updated_time"> 01:19 PM CT, Dec. 08 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' wellbeing and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
- <p class="updated_time"> 12:35 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
  <p class="updated_time"> 11:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 11:26 AM CT, Dec. 08 </p> 
@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
+ <p class="updated_time"> 06:25 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59577720?at_medium=RSS&at_campaign=KARANGA">Robert E Lee: Confederate general statue to be turned into art</a> BBC: The statue was at the centre of a white nationalist rally in 2017, which led to the death of a woman. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578218?at_medium=RSS&at_campaign=KARANGA">Morocco sex for grades: Hassan I University lecturers in court</a> BBC: They are charged with incitement to debauchery, gender discrimination and violence against women. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/bipin-rawat-indias-top-military-official-dies-in-helicopter-crash-11638970855">India's Top Military Official Dies in Helicopter Crash</a> WSJ: Bipin Rawat, the country’s chief of defense staff and a top aide to Prime Minister Narendra Modi, died with 12 others, including his wife, in the crash in Tamil Nadu on Wednesday. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
- <p class="updated_time"> 03:57 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59544223?at_medium=RSS&at_campaign=KARANGA">Japanese billionaire blasts off to International Space Station</a> BBC: Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
@@ -208,9 +208,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 02:38 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950">Crypto CEOs to Congress: We want regulation, our way</a> Politico: Crypto leaders appeared at a House Financial Services Committee hearing that revealed an emerging ideological divide between the left and the right over how the government should oversee the industry. 
- <p class="updated_time"> 02:09 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 02:22 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
@@ -432,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/03/crisis-averted-after-conservatives-cave-495309">POLITICO Playbook: Crisis averted after conservatives cave</a> Politico: And Nikki Haley kisses Donald Trump’s ring. 
- <p class="updated_time"> 05:01 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/townhouses-hill-lobbying-523700">Houses on the Hill aren't for living. They're for lobbying.</a> Politico: On this episode of Playbook Deep Dive, Playbook co-author Tara Palmeri talks to lobbyists about how they leverage their townhouses next to Congress for access and power. 
  <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Dec. 02 </p> 
