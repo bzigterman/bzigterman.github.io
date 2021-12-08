@@ -207,9 +207,17 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows files suit against Pelosi as Jan. 6 select panel moves against him</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
+ <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/supreme-court-religious-schools-maine.html">Supreme Court Seems Wary of Ban on State Aid to Religious Schools</a> NYT: The case, concerning a tuition program in Maine, seemed likely to extend a winning streak at the court for parents seeking public funds for religious education. 
+ <p class="updated_time"> 04:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 04:05 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
  <p class="updated_time"> 03:52 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Jan. 6 Committee to Cite Mark Meadows for Criminal Contempt</a> NYT: The select committee investigating the Capitol riot said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
@@ -230,10 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 03:18 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/hillary-clinton-2016-victory-speech/index.html">Hillary Clinton shares what she prepared for her 2016 presidential victory speech</a> CNN: Hillary Clinton has shared for the first time what would have been her 2016 presidential victory speech. 
- <p class="updated_time"> 03:15 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
- <p class="updated_time"> 03:14 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478204/rep-schiff-on-the-protecting-our-democracy-act">Rep. Schiff on the Protecting Our Democracy Act</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Adam Schiff, D-Calif., on the Protecting Our Democracy Act and the investigation into the Jan. 6 Capitol riots. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:28 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
- <p class="updated_time"> 06:21 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html">Analysis: Meadows became the latest Trump acolyte to bow to the former President's ire</a> CNN: Former White House chief of staff Mark Meadows on Tuesday became the latest Donald Trump acolyte to bow to the former President's ire, begging out of his scheduled deposition with the House committee investigating the January 6 riot -- despite having given over key documents that will help build their case. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
@@ -306,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 04:10 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062319949/morning-news-brief">News brief: Biden-Putin call, Instagram hearing, Glenn Foster dies in custody</a> NPR: The U.S. warns Russia it will face tough sanctions if it invades Ukraine. What is Instagram doing to keep its youngest users safe? A former NFL player died in police custody Monday in Alabama. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
@@ -322,6 +326,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
+ <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
@@ -344,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
- <p class="updated_time"> 06:30 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
  <p class="updated_time"> 05:46 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062210606/bidens-pick-to-become-a-key-banking-regulator-withdraws-after-ugly-nomination-fi">Biden's pick to become a key banking regulator withdraws after ugly nomination fight</a> NPR: Saule Omarova has withdrawn her nomination to head the Office of the Comptroller of the Currency after an ugly, and at times, incredibly personal, fight to be confirmed. 
  <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
  <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
- <p class="updated_time"> 03:07 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/business/economy/federal-reserve-inflation-omicron.html">As Omicron Threat Looms, Inflation Limits Fed’s Room to Maneuver</a> NYT: The central bank has spent years guarding against economic blows. Now it is in inflation-fighting mode, even as a potential risk emerges. 
  <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/congress-aumf-war-powers-repeal-scrapped-523888">Push to repeal Iraq war powers snags in overloaded Senate</a> Politico: As the NDAA goes down to the wire, the congressional attempt to reclaim AUMFs is a casualty of war. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 06:19 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
@@ -426,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
- <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
