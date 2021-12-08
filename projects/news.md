@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:45 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 03:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Parliament Approves Scholz as Chancellor, Ending Merkel Era</a> NYT: Lawmakers voted to approve Olaf Scholz as the country’s next leader, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
@@ -199,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">‘Court Packing’ Issue Divides Commission Appointed by Biden</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
