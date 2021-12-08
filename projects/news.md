@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478232/afghan-artists-in-californias-bay-area-step-up-to-help-artists-still-in-afghanis">Afghan artists in California's Bay Area step up to help artists still in Afghanistan</a> NPR: One of the biggest Afghan expat communities in the U.S. is in California's Bay Area. With the Taliban's return threatening artists in their homeland, Afghans in America are embracing activism. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478225/new-research-says-baboon-breakups-are-mutual">New research says baboon breakups are mutual</a> NPR: Just like humans, baboons sometimes end relationships with each other. Scientists have studied the dynamics of such breakups and say both baboons generally seem to share the burden of severing ties. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478197/the-white-house-is-growing-more-worried-about-migration-being-used-as-a-weapon">The White House is growing more worried about migration being used as a weapon</a> NPR: The Biden administration has become increasingly concerned about migration being used as a weapon. Belarus has provided a poignant example. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478190/germanys-new-chancellor-has-some-huge-tasks-ahead-of-him">Germany's new chancellor has some huge tasks ahead of him</a> NPR: Germany's new chancellor, Olaf Scholz, took office on Wednesday, replacing Angela Merkel. Little known outside his homeland, Scholz has some huge tasks ahead of him. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
@@ -163,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-expected-to-be-dominant-strain-in-parts-of-europe-within-weeks-11638889781">Early Lab Test Shows Omicron Weakening Vaccine Effectiveness</a> WSJ: Shots should still help against severe disease with the variant on its way to dominate in Europe, scientists say. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
- <p class="updated_time"> 10:25 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062092373/why-russia-ukraine-tensions-have-again-reached-a-boiling-point">Why Russia-Ukraine tensions have again reached a boiling point</a> NPR: More than 14,000 people have died in fighting since Russian annexed Ukraine's Crimean Peninsula in 2014. Huge military maneuvers have Western leaders worried another invasion is imminent. 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
@@ -175,14 +181,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
- <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
- <p class="updated_time"> 09:04 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061956487/uyghur-organizations-diplomatic-boycott-beijing-olympics">Uyghur organizations applaud the U.S. diplomatic boycott of the Beijing Olympics</a> NPR: U.S. athletes are still expected to compete in the 2022 Winter Olympics, despite the diplomatic boycott from the Biden administration. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
  <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
  <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
- <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
  <p class="updated_time"> 03:51 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
@@ -210,14 +210,22 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
+ <p class="updated_time"> 03:15 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
+ <p class="updated_time"> 03:14 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478204/rep-schiff-on-the-protecting-our-democracy-act">Rep. Schiff on the Protecting Our Democracy Act</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Adam Schiff, D-Calif., on the Protecting Our Democracy Act and the investigation into the Jan. 6 Capitol riots. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478197/the-white-house-is-growing-more-worried-about-migration-being-used-as-a-weapon">The White House is growing more worried about migration being used as a weapon</a> NPR: The Biden administration has become increasingly concerned about migration being used as a weapon. Belarus has provided a poignant example. 
+ <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062478190/germanys-new-chancellor-has-some-huge-tasks-ahead-of-him">Germany's new chancellor has some huge tasks ahead of him</a> NPR: Germany's new chancellor, Olaf Scholz, took office on Wednesday, replacing Angela Merkel. Little known outside his homeland, Scholz has some huge tasks ahead of him. 
  <p class="updated_time"> 02:57 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/iranian-missiles-and-petroleum-seized-forfeited/index.html">US Navy seized Iranian petroleum products and hundreds of missiles from vessels in Arabian Sea</a> CNN: The US Navy seized hundreds of Iranian missiles and 1.1 million barrels of Iranian petroleum products from vessels in the Arabian Sea in what became the US government's "largest-ever forfeiture of fuel and weapons shipments from Iran," according to a release from the Justice Department. 
  <p class="updated_time"> 02:42 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening:' Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 02:38 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950">Crypto CEOs to Congress: We want regulation, our way</a> Politico: Crypto leaders appeared at a House Financial Services Committee hearing that revealed an emerging ideological divide between the left and the right over how the government should oversee the industry. 
- <p class="updated_time"> 02:22 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 01:26 PM CT, Dec. 08 </p> 
@@ -280,14 +288,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062319956/instagram-ceo-to-testify-at-senate-hearing-on-potential-dangers-for-young-users">Instagram CEO to testify at Senate hearing on potential dangers for young users</a> NPR: NPR's Steve Inskeep speaks to Democratic Sen. Richard Blumenthal of Connecticut and Republican Sen. Marsha Blackburn of Tennessee — ahead of Wednesday's hearing on the impact of Instagram on kids. 
- <p class="updated_time"> 06:15 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: The chief executives of six cryptocurrency companies are facing questions from the House Financial Services Committee about risk and regulation. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
- <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 04:10 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062319949/morning-news-brief">News brief: Biden-Putin call, Instagram hearing, Glenn Foster dies in custody</a> NPR: The U.S. warns Russia it will face tough sanctions if it invades Ukraine. What is Instagram doing to keep its youngest users safe? A former NFL player died in police custody Monday in Alabama. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
@@ -384,14 +388,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/biden-cyber-officials-technology-cybersecurity-523866">Biden’s cyber leaders go to Silicon Valley for more help fighting hackers</a> Politico: As cyber threats from countries like Russia multiply, officials met with corporate executives to pitch their vision for “operational collaboration.” 
  <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
- <p class="updated_time"> 05:30 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
- <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062016879/morning-news-brief">News brief: U.S.-Russia meeting, diplomatic boycott of Olympics, DOJ sues Texas </a> NPR: President Biden and Russian President Putin hold a video summit. The U.S. won't send any government officials to the Olympics in Beijing. The DOJ is suing Texas over the state's redistricting plans. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 06:19 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/bob-dole-lie-in-state-capitol/index.html">Bob Dole to lie in state at the US Capitol </a> CNN: Former Senate majority leader and 1996 Republican presidential nominee Bob Dole will lie in state in the US Capitol Rotunda on Thursday, congressional leaders said in an announcement. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
