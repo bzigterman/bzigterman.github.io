@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
  <p class="updated_time"> 12:42 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:37 AM CT, Dec. 08 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59569649?at_medium=RSS&at_campaign=KARANGA">The ‘gals’ behind Samoa’s first woman PM</a> BBC: Samoa's first woman prime minister has been supported throughout her career by a group of powerful female friends. 
  <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
- <p class="updated_time"> 06:57 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
  <p class="updated_time"> 06:40 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59528818?at_medium=RSS&at_campaign=KARANGA">How Bangladeshis are lured into slavery in Libya</a> BBC: A 19-year-old tells of his harrowing ordeal at the hands of traffickers who tricked him and his parents. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:22 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59530706?at_medium=RSS&at_campaign=KARANGA">What the data tells us about love and marriage in India</a> BBC: A data journalist looks at numbers to offer a remarkably rich view of love in India and its many trials. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59565558?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls' despair as Taliban confirms secondary school ban</a> BBC: The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59565558?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls' despair as Taliban confirm secondary school ban</a> BBC: The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces. 
  <p class="updated_time"> 06:09 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59556016?at_medium=RSS&at_campaign=KARANGA">FIA boss: Electric F1 racing is 'simply not possible'</a> BBC: With Formula One race distance at 200 miles, switching to electric vehicles remains a long way off. 
  <p class="updated_time"> 06:02 PM CT, Dec. 07 </p> 
