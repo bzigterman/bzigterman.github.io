@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:32 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/defense-department-afghanistan-review-begins/index.html">Pentagon's review of Afghanistan drawdown begins 3 months after withdrawal</a> CNN: Three months after the withdrawal of US forces from Afghanistan, the team picked by the Defense Department to review the drawdown and the final months of America's longest war has begun its work. 
  <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
- <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
