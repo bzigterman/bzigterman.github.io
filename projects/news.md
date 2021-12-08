@@ -198,8 +198,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
+ <p class="updated_time"> 08:37 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
+ <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">House Passes Legislation to Pave Way for Debt Ceiling Increase</a> NYT: The bill would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
+ <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062146576/after-senate-leaders-broker-a-deal-the-house-takes-a-first-step-to-avoid-default">After Senate leaders broker a deal, the House takes a first step to avoid default</a> NPR: Congress is setting up a complicated process that could avoid a potential federal default. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
+ <p class="updated_time"> 08:20 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 08:03 PM CT, Dec. 07 </p> 
@@ -216,16 +226,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/manchin-warning-inflation-social-spending-523913">Manchin issues warning about rising inflation, as clock ticks on social spending bill</a> Politico: “We’ve got to make sure we get this right,” the West Virginia Democrat said. 
  <p class="updated_time"> 06:57 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
- <p class="updated_time"> 06:51 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 06:41 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
  <p class="updated_time"> 06:30 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
- <p class="updated_time"> 06:27 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">Congressional Leaders Reach Deal to Allow Debt Ceiling Increase</a> NYT: The legislation would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
  <p class="updated_time"> 06:24 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 06:24 PM CT, Dec. 07 </p> 
@@ -262,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/bob-dole-hometown-russell-kansas.html">In Bob Dole’s Hometown, Kansans Grieve for the Man and His Political Style</a> NYT: Residents of Russell, the town in Kansas where Mr. Dole grew up, spoke longingly of a bygone era of bipartisanship. 
  <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
- <p class="updated_time"> 03:57 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">McConnell cuts deal with Democrats on new plan to avoid default</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Amid Push to Vaccinate Children, Other Challenges Deluge Pediatricians</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
- <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896284/the-lasting-consequences-of-americas-shift-to-using-more-contractors-to-fight-wa">The lasting consequences of America's shift to using more contractors to fight wars</a> NPR: Many people who fought and died on behalf of the U.S. during 20 years of war in Afghanistan were contractors, not troops. It's part of a change in how America fights wars, and it has consequences. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/02/symone-says-goodbye-495292">POLITICO Playbook: Symone says goodbye</a> Politico: And the Senate is still at a standstill on this week’s big priorities. 
  <p class="updated_time"> 04:30 AM CT, Dec. 02 </p> 
  <a href="https://www.politico.com/news/2021/12/02/democrats-running-for-exits-house-retirements-523626">Majority blues: House Dems not done limping for the exit</a> Politico: “This place is a slog,” said Rep. Scott Peters (D-Calif.), who added that some may have thought control of Congress "would solve all the problems." 
- <p class="updated_time"> 01:48 PM CT, Dec. 01 </p> 
- <a href="https://www.politico.com/news/2021/12/01/republicans-vaccine-shutdown-fight-523612">McConnell's latest challenge: Stopping a shutdown over vaccine mandates</a> Politico: A small group of conservatives wants to force a funding showdown over Covid inoculation mandates. But most in the GOP leader's conference aren't convinced. 
  <p class="updated_time"> 07:24 AM CT, Dec. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/01/congress-stuck-in-will-they-or-wont-they-495276">Congress stuck in 'will they or won't they?'</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:55 AM CT, Dec. 01 </p> 
