@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:29 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz to Take Over as Chancellor, Ending Merkel Era</a> NYT: Lawmakers voted to approve Olaf Scholz as the country’s next leader, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
- <p class="updated_time"> 03:17 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 03:45 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Parliament Approves Scholz as Chancellor, Ending Merkel Era</a> NYT: Lawmakers voted to approve Olaf Scholz as the country’s next leader, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
+ <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
+ <p class="updated_time"> 03:34 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is confirmed as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
+ <p class="updated_time"> 03:33 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India topmost military official's helicopter crashes</a> BBC: Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574528?at_medium=RSS&at_campaign=KARANGA">Myanmar: Soldiers accused of shooting, burning 13 villagers</a> BBC: Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy. 
- <p class="updated_time"> 02:10 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz to take over from Merkel as chancellor</a> BBC: Olaf Scholz will be sworn in, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 02:01 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59544223?at_medium=RSS&at_campaign=KARANGA">Japanese billionaire blasts off to International Space Station</a> BBC: Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth. 
  <p class="updated_time"> 01:56 AM CT, Dec. 08 </p> 
@@ -197,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:27 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/judge-records-project-veritas-founder-523930">Judge declines to unseal records about raid on Project Veritas founder</a> Politico: Magistrate cites privacy interests of Biden’s daughter Ashley in probe about alleged theft of her diary. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">‘Court Packing’ Issue Divides Commission Appointed by Biden</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
