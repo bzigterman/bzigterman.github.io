@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is confirmed as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 04:27 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Becomes Chancellor, Ending Merkel Era</a> NYT: The country’s president gave Olaf Scholz his official certificate of office, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
  <p class="updated_time"> 04:27 AM CT, Dec. 08 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59544223?at_medium=RSS&at_campaign=KARANGA">Japanese billionaire blasts off to International Space Station</a> BBC: Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 03:34 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is confirmed as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 02:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 02:23 AM CT, Dec. 08 </p> 
@@ -197,6 +197,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot for a lot of people’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
@@ -212,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
+ <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 09:15 PM CT, Dec. 07 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062210606/bidens-pick-to-become-a-key-banking-regulator-withdraws-after-ugly-nomination-fi">Biden's pick to become a key banking regulator withdraws after ugly nomination fight</a> NPR: Saule Omarova has withdrawn her nomination to head the Office of the Comptroller of the Currency after an ugly, and at times, incredibly personal, fight to be confirmed. 
  <p class="updated_time"> 05:30 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
- <p class="updated_time"> 05:12 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/bank-3-6-million-windfall-manafort-loans-523905">Bank predicts $3.6 million windfall from Manafort loans</a> Politico: Surplus cash expected from foreclosure on lending that led to federal prosecutions of former Trump campaign chair and Chicago banker. 
  <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
  <p class="updated_time"> 04:27 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/january-6-committee-phone-records/index.html">January 6 committee casts a wide net with over 100 subpoenas for phone records</a> CNN: The House select committee investigating the January 6 riot has formally subpoenaed the phone records of more than 100 people, a substantial number that includes former Trump officials and associates of the ex-President such as his one-time chief of staff Mark Meadows, according to multiple sources familiar with the matter. 
- <p class="updated_time"> 04:25 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-bank-cop-nominee-withdraws-523907">Biden bank cop nominee withdraws after pushback from moderate Dems</a> Politico: Saule Omarova’s confirmation process became increasingly unpleasant, with some GOP lawmakers suggesting that the Soviet-born academic had communist sympathies. 
  <p class="updated_time"> 04:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Chris Cuomo Book Pulled by Harper Collins</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
@@ -298,6 +298,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/biden-federal-contractor-vaccine-nationwide-blocked/index.html">Biden federal contractor vaccine mandate blocked nationwide by federal judge in Georgia</a> CNN: A federal judge in Georgia blocked the Biden administration's enforcement of a vaccine requirement for certain federal contractors nationwide. 
  <p class="updated_time"> 02:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/lawmakers-avert-medicare-cuts-523893">Lawmakers rush to avert looming Medicare cuts</a> Politico: “A pandemic is not the time to be cutting access to doctors for patients on Medicare,” Kim Schrier, (D-Wash.) who introduced the bill along with Steven Horsford (D-Nev.), said in a statement. 
+ <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/biden-putin-call-ukraine-invasion-523884">Biden warns Putin on call against Ukraine invasion</a> Politico: The highly anticipated conversation between the American president and his Russian counterpart lasted just over two hours. 
  <p class="updated_time"> 01:21 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/july-18-bannon-contempt-of-congress-trial-523885">Judge sets July 18 for Bannon ‘contempt of Congress’ trial</a> Politico: Former Trump aide's lawyers plan a slew of legal challenges to unusual criminal case for defying House subpoena. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 12:40 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
- <p class="updated_time"> 12:09 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/mark-meadows-book-trump-kavanaugh-523877">Meadows: Trump considered yanking Kavanaugh over ‘I like beer’ comments and apologetic tone</a> Politico: The president’s one-time chief of staff also says he’s currently “finding secretaries and undersecretaries” to staff a future Trump administration. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 11:20 AM CT, Dec. 07 </p> 
@@ -340,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
