@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
+ <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
+ <p class="updated_time"> 04:56 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/coronavirus-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
+ <p class="updated_time"> 04:55 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: In response, Mark Meadows sued the 6 January committee members, alleging a civil rights violation. 
  <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
@@ -15,14 +23,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
- <p class="updated_time"> 03:39 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
  <p class="updated_time"> 03:20 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478232/afghan-artists-in-californias-bay-area-step-up-to-help-artists-still-in-afghanis">Afghan artists in California's Bay Area step up to help artists still in Afghanistan</a> NPR: One of the biggest Afghan expat communities in the U.S. is in California's Bay Area. With the Taliban's return threatening artists in their homeland, Afghans in America are embracing activism. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478225/new-research-says-baboon-breakups-are-mutual">New research says baboon breakups are mutual</a> NPR: Just like humans, baboons sometimes end relationships with each other. Scientists have studied the dynamics of such breakups and say both baboons generally seem to share the burden of severing ties. 
+ <a href="https://www.npr.org/2021/12/08/1062478225/new-research-says-baboon-breakups-are-mutual">New research says baboon breakups are mutual</a> NPR: Just like humans, groups of baboons sometimes break off relations. Scientists have studied the dynamics of such breakups and say baboons tend to split up in a cooperative, egalitarian way. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478197/the-white-house-is-growing-more-worried-about-migration-being-used-as-a-weapon">The White House is growing more worried about migration being used as a weapon</a> NPR: The Biden administration has become increasingly concerned about migration being used as a weapon. Belarus has provided a poignant example. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 01:19 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 01:11 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 01:10 PM CT, Dec. 08 </p> 
@@ -55,8 +59,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
- <p class="updated_time"> 12:08 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59582013?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Sending US troops not on table - Biden</a> BBC: The US president says a Western response to a Russian invasion would not include boots on the ground. 
+ <p class="updated_time"> 11:45 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/sport/golf/59585790?at_medium=RSS&at_campaign=KARANGA">Tiger Woods will make his return at PNC Championship alongside son Charlie</a> BBC: Tiger Woods will make his comeback playing alongside son Charlie at the PNC Championship in Florida next week. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
  <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 09:15 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's top general dies in helicopter crash</a> BBC: General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu. 
  <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178644/riots-haven-broken-out-after-soldiers-in-india-killed-members-of-an-indigenous-t">Riots haven broken out after soldiers in India killed members of an indigenous tribe</a> NPR: The killings of more than a dozen tribal people by Indian forces threaten a shaky ceasefire in one of the world's longest-running struggles for self-determination by indigenous people. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
- <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178480/as-turkeys-currency-drops-some-worry-the-government-cant-turn-things-around">As Turkey's currency drops, some worry the government can't turn things around</a> NPR: Turkey's currency has recently hit record lows in value, driving up prices in the country. But the president's recipe for fixing the problem is the opposite of what economists generally recommend. 
  <p class="updated_time"> 03:30 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
  <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
- <p class="updated_time"> 02:29 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/hostages-haiti.html">Three of a Group of Missionaries Kidnapped in Haiti Have Been Released</a> NYT: A U.S. Christian aid group said three more people were released of the 17 who had been kidnapped by a gang in Haiti. Two were released last month. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/india-russia-missile-defense-deal.html">India and Russia Expand Defense Ties, Despite Prospect of U.S. Sanctions</a> NYT: India’s purchase of a missile defense system signaled that it was more worried about an emboldened China at its borders than about angering the United States. 
 
@@ -206,28 +204,32 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: The Californian's departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where "anybody who says they're not interested is lying." 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
+ <p class="updated_time"> 05:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Lawmakers Urge Instagram's Adam Mosseri to Better Protect Children</a> NYT: Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
+ <p class="updated_time"> 05:06 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 05:04 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee investigating the Capitol riot said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel members</a> Politico: Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 04:42 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
  <p class="updated_time"> 04:36 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
- <p class="updated_time"> 04:35 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/supreme-court-religious-schools-maine.html">Supreme Court Seems Wary of Ban on State Aid to Religious Schools</a> NYT: The case, concerning a tuition program in Maine, seemed likely to extend a winning streak at the court for parents seeking public funds for religious education. 
- <p class="updated_time"> 04:05 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Live Video: Instagram's Adam Mosseri Testifies Before Congress</a> NYT: Adam Mosseri was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 04:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
- <p class="updated_time"> 03:52 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Jan. 6 Committee to Cite Mark Meadows for Criminal Contempt</a> NYT: The select committee investigating the Capitol riot said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:44 PM CT, Dec. 08 </p> 
@@ -287,7 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:48 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 10:26 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Trump freezes 2024 Republican primary before it even begins</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
+ <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
  <p class="updated_time"> 09:27 AM CT, Dec. 08 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
- <p class="updated_time"> 04:27 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/january-6-committee-phone-records/index.html">January 6 committee casts a wide net with over 100 subpoenas for phone records</a> CNN: The House select committee investigating the January 6 riot has formally subpoenaed the phone records of more than 100 people, a substantial number that includes former Trump officials and associates of the ex-President such as his one-time chief of staff Mark Meadows, according to multiple sources familiar with the matter. 
  <p class="updated_time"> 04:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/business/media/chris-cuomo-book.html">Chris Cuomo Book Pulled by Harper Collins</a> NYT: The decision by HarperCollins comes after the anchor was fired by CNN and exited his daily satellite radio talk show. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
