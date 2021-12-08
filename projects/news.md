@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:12 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 08:15 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59558150?at_medium=RSS&at_campaign=KARANGA">Chinese social media giant Weibo's shares fall in Hong Kong debut</a> BBC: Last week, Chinese ride-hailing giant Didi said it will move its listing to Hong Kong from the US. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/59387191?at_medium=RSS&at_campaign=KARANGA">Indonesia's biodiesel drive is leading to deforestation</a> BBC: Indonesia aims to use biofuels to cut greenhouse gas emissions, but it may damage its forests in the process. 
- <p class="updated_time"> 06:34 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 06:22 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59530706?at_medium=RSS&at_campaign=KARANGA">What the data tells us about love and marriage in India</a> BBC: A data journalist looks at numbers to offer a remarkably rich view of love in India and its many trials. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
@@ -181,16 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/business/china-covid-vaccine-children.html">China Calls on ‘Little Inoculated Warriors’ in Its War on Covid-19</a> NYT: The country regards children as crucial in its quest for herd immunity, but some parents, worried about the vaccines’ safety, are pushing back. 
  <p class="updated_time"> 04:00 AM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/travel/svalbard-climate-change-tourism.html">Bearing Witness to Svalbard’s Fragile Splendor</a> NYT: To visitors, the Norwegian archipelago can seem both ethereal and eternal. But climate change all but guarantees an eventual collapse of its vulnerable ecosystem. 
- <p class="updated_time"> 06:15 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/pope-greece-migrants-lesbos.html">Pope Francis Laments That for Migrants, ‘Little Has Changed’</a> NYT: At a Greek refugee camp, Francis lamented the hardening of hearts against asylum seekers, whose plight he called a “shipwreck of civilization.” 
- <p class="updated_time"> 02:28 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/britain-denmark-omicron-cases.html">Britain and Denmark Report Rise in Known Omicron Cases</a> NYT: The nations are widely perceived as leaders in genomic sequencing and testing, giving them an edge over tracking the spread of the virus and its mutations. 
- <p class="updated_time"> 02:01 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html">Why Is Russia Massing Troops on Its Ukraine Border?</a> NYT: There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice. 
- <p class="updated_time"> 12:05 PM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/china-tourism-omicron-covid.html">Chinese Tourists Aren't Coming Back Any Time Soon</a> NYT: Even before Omicron’s arrival, China was discouraging its citizens from traveling abroad. That has had a huge impact on global tourism. 
- <p class="updated_time"> 08:46 AM CT, Dec. 05 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/india-northeast-nagaland-civilians.html">Anger Spreads in Northeastern India After Security Forces Kill 14 Civilians</a> NYT: Eight mine workers were shot in a mistaken ambush by soldiers seeking insurgents, and six protesters died later in clashes with government forces, stoking fears of further violence in the restive region. 
 
 
 </details>
@@ -198,10 +188,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
+ <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
- <p class="updated_time"> 08:37 PM CT, Dec. 07 </p> 
+ <p class="updated_time"> 09:15 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/defense-department-afghanistan-review-begins/index.html">Pentagon's review of Afghanistan drawdown begins 3 months after withdrawal</a> CNN: Three months after the withdrawal of US forces from Afghanistan, the team picked by the Defense Department to review the drawdown and the final months of America's longest war has begun its work. 
+ <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
+ <p class="updated_time"> 09:10 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
+ <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">House passes bill authorizing $770 billion in Pentagon funding and setting Defense policy</a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
+ <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
+ <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
+ <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">House Passes Legislation to Pave Way for Debt Ceiling Increase</a> NYT: The bill would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
  <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/putin-xi-biden-what-matters/index.html">Analysis: Biden confronts 2 rivals in 24 hours</a> CNN: Since 1999, as either the full or putative leader of his country, Russian President Vladimir Putin has watched US presidents come and go. 
  <p class="updated_time"> 06:24 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
- <p class="updated_time"> 06:24 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Prepares to Pass $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 06:18 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/jussie-smollett-defense-rests-523911">Defense rests at Jussie Smollett’s trial</a> Politico: The actor again denied staging a politically charged hoax. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
  <p class="updated_time"> 05:12 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/bank-3-6-million-windfall-manafort-loans-523905">Bank predicts $3.6 million windfall from Manafort loans</a> Politico: Surplus cash expected from foreclosure on lending that led to federal prosecutions of former Trump campaign chair and Chicago banker. 
- <p class="updated_time"> 05:08 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html">Bill authorizing $770 billion in Pentagon funding and setting Defense policy set to pass the House </a> CNN: The National Defense Authorization Act, the annual must-pass piece of legislation that sets the policy agenda and authorizes almost $770 billion in funding for the Department of Defense, is set for final passage in the House of Representatives. 
  <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
@@ -266,10 +266,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/bob-dole-hometown-russell-kansas.html">In Bob Dole’s Hometown, Kansans Grieve for the Man and His Political Style</a> NYT: Residents of Russell, the town in Kansas where Mr. Dole grew up, spoke longingly of a bygone era of bipartisanship. 
- <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Amid Push to Vaccinate Children, Other Challenges Deluge Pediatricians</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
  <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
  <p class="updated_time"> 03:46 PM CT, Dec. 07 </p> 
@@ -302,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html">Instagram Parental Controls Are Set Arrive in March</a> NYT: Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children. 
  <p class="updated_time"> 12:40 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/bannon-status-conference-contempt-charge/index.html">Bannon seeks to delay contempt of Congress trial until October</a> CNN: The Justice Department and Steve Bannon, ex-adviser to former President Donald Trump, are heading into court Tuesday to discuss Bannon's desires to make evidence public and not to schedule a trial until October. 
- <p class="updated_time"> 12:35 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/ndaa-defense-funding-shake-up-523880">Final defense bill shakes up military prosecutions, boosts Indo-Pacific fund</a> Politico: The details of the final legislation were included in summaries from House Armed Services Democrats and the committee's Republican minority. 
  <p class="updated_time"> 12:09 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-book-trump-kavanaugh-523877">Meadows: Trump considered yanking Kavanaugh over ‘I like beer’ comments and apologetic tone</a> Politico: The president’s one-time chief of staff also says he’s currently “finding secretaries and undersecretaries” to staff a future Trump administration. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
@@ -316,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062098646/mark-meadows-stop-cooperating-jan-6-panel-capitol">Mark Meadows will stop cooperating with the Jan. 6 panel</a> NPR: The decision comes a week after Meadows' attorney said the former White House chief of staff would voluntarily speak with the committee. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris marks Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
- <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s ‘zero Covid strategy’ chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 09:33 AM CT, Dec. 07 </p> 
@@ -364,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/06/1061945602/devin-nunes-california-trump-media-truth-social">Rep. Devin Nunes is resigning from Congress to be CEO of Trump's new media company</a> NPR: The California Republican and Trump ally will take the helm of the Trump Media & Technology Group next month, giving up his seat in the middle of his 10th term. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
- <p class="updated_time"> 04:06 PM CT, Dec. 06 </p> 
- <a href="https://www.npr.org/2021/12/06/1061896298/former-sen-bob-dole-who-fought-for-disability-rights-has-died">Former Sen. Bob Dole, who fought for disability rights, has died</a> NPR: Bob Dole was a hero for disability rights advocates, especially those who remember the days before the Americans with Disabilities Act, and his role in getting that landmark legislation passed. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 03:25 PM CT, Dec. 06 </p> 
@@ -400,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
- <p class="updated_time"> 08:39 AM CT, Dec. 03 </p> 
- <a href="https://www.cnn.com/2021/12/03/politics/biden-administration-vaccine-doses-global-shipments/index.html">Biden administration shipping 9 million vaccine doses to Africa and another 2 million worldwide</a> CNN: White House coronavirus response coordinator Jeffrey Zients is set to announce the Biden administration is shipping 11 million vaccines doses abroad on Friday, with 9 million going to Africa and another 2 million to other countries around the world, according to remarks obtained by CNN. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
