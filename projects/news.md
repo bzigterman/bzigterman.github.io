@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:11 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 04:27 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Scholz Becomes Chancellor, Ending Merkel Era</a> NYT: The country’s president gave Olaf Scholz his official certificate of office, beginning a new chapter for Europe’s largest democracy. Angela Merkel received a standing ovation in Parliament. 
- <p class="updated_time"> 04:02 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India topmost military official's helicopter crashes</a> BBC: Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India. 
+ <p class="updated_time"> 04:27 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
+ <p class="updated_time"> 04:19 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">Helicopter Crashes With India’s Top Military General Aboard</a> NYT: The fate of Gen. Bipin Rawat, the chief of the country’s defense staff, wasn’t immediately clear. 
+ <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
+ <p class="updated_time"> 04:13 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India's topmost general's helicopter crashes</a> BBC: Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India. 
  <p class="updated_time"> 04:02 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 03:57 AM CT, Dec. 08 </p> 
@@ -31,16 +37,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
  <p class="updated_time"> 01:19 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
- <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:45 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
  <p class="updated_time"> 12:37 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59544226?at_medium=RSS&at_campaign=KARANGA">China is biggest captor of journalists, says report</a> BBC: Advocacy group Reporters Without Borders said at least 127 journalists are currently detained. 
- <p class="updated_time"> 12:24 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz will take over from center-right Angela Merkel as chancellor and will lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
@@ -194,6 +196,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot for a lot of people’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 03:54 AM CT, Dec. 08 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:06 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/elizabeth-holmes-cross-examination-523924">Theranos founder Elizabeth Holmes struggles during cross-examination</a> Politico: She worked to recall key events that triggered the fraud charges facing her. 
- <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 09:15 PM CT, Dec. 07 </p> 
@@ -296,10 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/biden-federal-contractor-vaccine-nationwide-blocked/index.html">Biden federal contractor vaccine mandate blocked nationwide by federal judge in Georgia</a> CNN: A federal judge in Georgia blocked the Biden administration's enforcement of a vaccine requirement for certain federal contractors nationwide. 
  <p class="updated_time"> 02:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/lawmakers-avert-medicare-cuts-523893">Lawmakers rush to avert looming Medicare cuts</a> Politico: “A pandemic is not the time to be cutting access to doctors for patients on Medicare,” Kim Schrier, (D-Wash.) who introduced the bill along with Steven Horsford (D-Nev.), said in a statement. 
- <p class="updated_time"> 01:46 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-putin-call-ukraine-invasion-523884">Biden warns Putin on call against Ukraine invasion</a> Politico: The highly anticipated conversation between the American president and his Russian counterpart lasted just over two hours. 
- <p class="updated_time"> 01:28 PM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/congress-aumf-war-powers-repeal-scrapped-523888">Push to repeal Iraq war powers snags in overloaded Senate</a> Politico: As the NDAA goes down to the wire, the congressional attempt to reclaim AUMFs is a casualty of war. 
  <p class="updated_time"> 01:21 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/july-18-bannon-contempt-of-congress-trial-523885">Judge sets July 18 for Bannon ‘contempt of Congress’ trial</a> Politico: Former Trump aide's lawyers plan a slew of legal challenges to unusual criminal case for defying House subpoena. 
  <p class="updated_time"> 01:19 PM CT, Dec. 07 </p> 
@@ -342,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/money/2021/12/07/1061329725/why-is-the-biden-administration-increasing-the-cost-of-building-houses">Why is the Biden administration increasing the cost of building houses?</a> NPR: The Biden administration has doubled duties on lumber imported from Canada. Critics argue it hurts the goal of affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062016949/president-biden-announces-a-diplomatic-boycott-of-the-being-winter-olympics">President Biden announces a diplomatic boycott of the Beijing Winter Olympics</a> NPR: NPR's Debbie Elliott talks to Mike Mazza of the American Enterprise Institute about whether the U.S. diplomatic boycott of the Winter Olympics in Beijing will have a tangible effect. 
  <p class="updated_time"> 04:07 AM CT, Dec. 07 </p> 
@@ -401,7 +401,13 @@ permalink: /projects/news/
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/kamala-harris-staff-523732">Harris allies want her to take the reins as a staff shakeup looms</a> Politico: The vice president has had staff shake-ups before and she’s come back stronger. Can she do it again? 
+ <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
+ <p class="updated_time"> 05:02 PM CT, Dec. 03 </p> 
+ <a href="https://www.politico.com/news/2021/12/03/biden-free-at-home-covid-test-523727">Biden’s free at-home test promise could come with added costs</a> Politico: "We should not think for a minute that this is some sort of magic bullet that is going to get us to universally free and accessible testing," said a Georgetown health policy expert. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
