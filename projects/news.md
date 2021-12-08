@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:34 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 08:49 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
+ <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
+ <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 08:15 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 08:08 AM CT, Dec. 08 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a video showing Prime Minister Boris Johnson’s staff joking about  breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 07:44 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 07:31 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human-rights abuses in China. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 06:09 AM CT, Dec. 08 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59555481?at_medium=RSS&at_campaign=KARANGA">Mahbouba Seraj: Afghanistan is a country in trouble</a> BBC: Mahbouba Seraj is a prominent Afghan women’s rights activist. She has a personal message for the Taliban. 
  <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
- <p class="updated_time"> 04:08 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/05/world/asia/prince-norodom-ranariddh-dead.html">Norodom Ranariddh, Royal Player in Cambodian Politics, Dies at 77</a> NYT: He rode a wave of royalist sentiment to win a United Nations-sponsored election in 1993, but was later ousted in a power struggle with his co-prime minister. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
  <a href="https://www.npr.org/2021/12/06/1061896277/u-s-has-announced-a-diplomatic-boycott-of-the-2022-beijing-winter-olympics">U.S. has announced a diplomatic boycott of the 2022 Beijing Winter Olympics</a> NPR: The Biden administration will not send any diplomatic or official representatives to Beijing for the winter Olympics given the "ongoing genocide and crimes against humanity" in the Xinjiang region. 
  <p class="updated_time"> 03:52 PM CT, Dec. 06 </p> 
@@ -252,6 +252,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 09:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/defense-department-afghanistan-review-begins/index.html">Pentagon's review of Afghanistan drawdown begins 3 months after withdrawal</a> CNN: Three months after the withdrawal of US forces from Afghanistan, the team picked by the Defense Department to review the drawdown and the final months of America's longest war has begun its work. 
+ <p class="updated_time"> 09:11 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/debt-limit-deal-mcconnell-schumer/index.html">House passes new debt ceiling plan after McConnell cuts deal with Democrats</a> CNN: Senate Majority Leader Chuck Schumer and Senate Minority Leader Mitch McConnell have reached an agreement to create a one-time process that would let Democrats raise the debt ceiling on their votes alone, a deal that underscores the lengths the GOP leader will go to avoid a damaging default without Republican support to increase the national borrowing limit. 
  <p class="updated_time"> 09:05 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/mark-meadows-not-cooperating-january-6/index.html">Mark Meadows to halt cooperation with January 6 committee</a> CNN: Former White House Chief of Staff Mark Meadows will cease cooperation with the House select committee investigating January 6, according to a letter from his attorney to the panel, which was obtained by CNN on Tuesday. 
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/06/politics/us-diplomatic-boycott-winter-olympics/index.html">White House announces US diplomatic boycott of 2022 Winter Olympics in Beijing</a> CNN: The Biden administration will not send any diplomatic representatives to the 2022 Winter Olympics in Beijing as a protest against Chinese human rights abuses in Xinjiang, White House press secretary Jen Psaki announced Monday. 
  <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
  <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
- <p class="updated_time"> 12:29 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/malala-yousafzai-antony-blinken-meeting/index.html">Malala Yousafzai meets with Blinken, calls on US to take action for Afghan women and girls</a> CNN: Nobel Peace Prize laureate Malala Yousafzai met Monday with US Secretary of State Antony Blinken and called on the United States to take action to ensure that Afghan girls and women are able to return to the classroom and the workplace in the wake of the Taliban's takeover of Afghanistan. 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
