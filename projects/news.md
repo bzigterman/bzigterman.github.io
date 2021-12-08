@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
+ <p class="updated_time"> 01:26 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany Live Updates: New Chancellor to Take Over as Merkel Era Ends</a> NYT: The inauguration of Olaf Scholz begins a new chapter for Europe’s largest democracy and the broader continent. One notable move so far: a new cabinet with an equal number of women and men. 
+ <p class="updated_time"> 01:21 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
+ <p class="updated_time"> 01:20 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59574878?at_medium=RSS&at_campaign=KARANGA">Covishield: India vaccine maker halves production</a> BBC: The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said. 
+ <p class="updated_time"> 01:19 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
  <p class="updated_time"> 01:12 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/07/world/biden-putin">Biden Delivers a Warning to Putin Over Ukraine</a> NYT: In a high-stakes video call, President Biden warned President Vladimir V. Putin of Russia of “strong economic and other measures” from the U.S. and European allies if military tensions with Ukraine escalated. 
  <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59573037?at_medium=RSS&at_campaign=KARANGA">Covid: Vaccines should work against Omicron variant, WHO says</a> BBC: A small study in South Africa suggests the new variant could partially evade the Pfizer jab. 
  <p class="updated_time"> 12:37 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59544226?at_medium=RSS&at_campaign=KARANGA">China is biggest captor of journalists, says report</a> BBC: Advocacy group Reporters Without Borders said at least 127 journalists are currently detained. 
- <p class="updated_time"> 12:28 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/germany-olaf-scholz-cabinet-women.html">8 Women and 8 Men: Germany Gets Its First Gender-Equal Cabinet</a> NYT: Angela Merkel is handing over the chancellery to a man. But in a watershed moment for the country, women will run all security and diplomacy-related ministries in the new government. 
  <p class="updated_time"> 12:24 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
  <p class="updated_time"> 06:40 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59528818?at_medium=RSS&at_campaign=KARANGA">How Bangladeshis are lured into slavery in Libya</a> BBC: A 19-year-old tells of his harrowing ordeal at the hands of traffickers who tricked him and his parents. 
- <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59573500?at_medium=RSS&at_campaign=KARANGA">2022 Beijing Winter Olympics: Australia joins US diplomatic boycott</a> BBC: The US is leading the diplomatic boycott of the 2022 Winter Olympics, over human rights concerns. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/59387191?at_medium=RSS&at_campaign=KARANGA">Indonesia's biodiesel drive is leading to deforestation</a> BBC: Indonesia aims to use biofuels to cut greenhouse gas emissions, but it may damage its forests in the process. 
  <p class="updated_time"> 06:22 PM CT, Dec. 07 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59571417?at_medium=RSS&at_campaign=KARANGA">Google sues alleged Russian cyber criminals</a> BBC: Hackers behind a malicious "botnet" may have used their network to infect over a million computers. 
  <p class="updated_time"> 12:29 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/biden-russian-president-putin-start-call-11638894107">Biden Warns Putin Invasion of Ukraine to Be Met With Economic Response and More</a> WSJ: President Biden warned Russian President Vladimir Putin that the U.S. and its allies would meet a military invasion of Ukraine with strong economic penalties, moves to bolster Ukrainian defenses and fortify support for Eastern European nations. 
- <p class="updated_time"> 12:12 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59570576?at_medium=RSS&at_campaign=KARANGA">Chile same-sex marriage: Law overwhelmingly approved by parliament</a> BBC: A law allowing same-sex marriage is approved in the historically Catholic Latin American country. 
  <p class="updated_time"> 11:47 AM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1061290155/maduros-grip-on-power-in-venezuela-only-gets-stronger">Maduro's grip on power in Venezuela only gets stronger</a> NPR: Venezuelan opponents and U.S. officials were predicting his demise years ago. But Nicolás Maduro and his Socialist Party remain firmly in power. 
  <p class="updated_time"> 11:30 AM CT, Dec. 07 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/egypt-court-orders-release-of-rights-activist-patrick-george-zaki-after-trial-postponed-11638898145">Egypt Court Orders Release of Rights Activist After Trial Postponed</a> WSJ: Patrick George Zaki, an Egyptian graduate studying in Italy, has been imprisoned for nearly two years in a case that has intensified international scrutiny of the country’s human-rights record. 
  <p class="updated_time"> 06:04 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/myanmar-aung-san-suu-kyi.html">Aung San Suu Kyi Falls, but Myanmar’s Democratic Hopes Move On</a> NYT: The ousted civilian leader faces years in custody after being sentenced on the first of several charges. In her absence, a new generation of younger, more progressive politicians is emerging. 
- <p class="updated_time"> 05:51 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59561876?at_medium=RSS&at_campaign=KARANGA">Nearly 70 Spanish medics Covid positive after Christmas party</a> BBC: The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week. 
  <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
