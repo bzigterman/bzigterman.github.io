@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:22 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 01:35 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
