@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
+ <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
+ <p class="updated_time"> 06:46 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce met with UK cabinet ministers in London and is now isolating in the US. 
  <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
  <p class="updated_time"> 06:18 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59578618?at_medium=RSS&at_campaign=KARANGA">Afghan women: Secret diaries of changing lives</a> BBC: Five women's secret diary posts, sent to the BBC, reveal how deeply the Taliban takeover has affected them. 
- <p class="updated_time"> 06:17 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
  <p class="updated_time"> 06:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59462503?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The women abused and tortured in detention</a> BBC: Women held for protesting against a military takeover say they were sexually assaulted and tortured. 
  <p class="updated_time"> 06:09 PM CT, Dec. 08 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59568638?at_medium=RSS&at_campaign=KARANGA">Chimamanda Ngozi Adichie: ‘I want to say what I think’</a> BBC: The Nigerian writer shares her experience of grief and her thoughts on "cancel culture" and trans rights. 
  <p class="updated_time"> 06:02 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59553662?at_medium=RSS&at_campaign=KARANGA">Growing up in Iran: Every morning we had to chant ‘Death to America’</a> BBC: Iranian Rana Rahimpour moved to the UK as a young journalist and is now unable to return home for fear of arrest. 
- <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 05:26 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
  <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
- <p class="updated_time"> 08:50 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59577371?at_medium=RSS&at_campaign=KARANGA">Sanna Marin: Finland's PM sorry for clubbing after Covid contact</a> BBC: Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -204,12 +204,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:41 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/us-russia-ukraine-energy-sanctions/index.html">US likely to hold off for now on energy sanctions for Russia, fearing impact on global prices</a> CNN: The Biden administration is drafting options for multiple rounds of harsh sanctions on Russia if it moves to invade Ukraine, but energy sanctions are likely a last resort given the impact they could have on the global economy and domestic gasoline prices, three US officials tell CNN. 
+ <p class="updated_time"> 07:40 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate votes to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
+ <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
+ <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
+ <p class="updated_time"> 07:23 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062391085/in-a-largely-symbolic-move-the-senate-votes-to-block-bidens-vaccine-or-test-mand">In a largely symbolic move, the Senate votes to block Biden's vaccine-or-test mandate</a> NPR: The White House says the president will veto the bill if it reaches his desk. But GOP lawmakers pushed the measure as the political fight over vaccine mandates deepens. 
  <p class="updated_time"> 07:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
+ <p class="updated_time"> 07:00 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Lawmakers Urge Instagram's Adam Mosseri to Better Protect Children</a> NYT: Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 06:40 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Impose Forced Labor Ban on Goods Made in Xinjiang</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
  <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:32 PM CT, Dec. 08 </p> 
@@ -230,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 05:52 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/fact-check-perdue-kemp-abrams/index.html">Fact check: David Perdue falsely claims Brian Kemp turned over control of Georgia elections to Stacey Abrams</a> CNN: Former Sen. David Perdue of Georgia launched his campaign for governor on Monday with a false claim about his chief opponent in the Republican primary, incumbent Gov. Brian Kemp. 
- <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 05:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ilhan-omar-bill-islamophobia/index.html">House to advance legislation to combat Islamophobia as pressure mounts to punish Boebert for anti-Muslim comments</a> CNN: The House is planning to advance Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia on Thursday, marking the first step members are taking since Republican Rep. Lauren Boebert's anti-Muslim comments calling Omar a terrorist. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
@@ -240,18 +250,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
- <p class="updated_time"> 05:14 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/us-russia-ukraine-energy-sanctions/index.html">US likely to hold off for now on energy sanctions for Russia, fearing impact on global prices</a> CNN: The Biden administration is drafting options for multiple rounds of harsh sanctions on Russia if it moves to invade Ukraine, but energy sanctions are likely a last resort given the impact they could have on the global economy and domestic gasoline prices, three US officials tell CNN. 
- <p class="updated_time"> 05:13 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Lawmakers Urge Instagram's Adam Mosseri to Better Protect Children</a> NYT: Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
  <p class="updated_time"> 05:08 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
- <p class="updated_time"> 04:36 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -281,7 +285,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:57 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/iranian-missiles-and-petroleum-seized-forfeited/index.html">US Navy seized Iranian petroleum products and hundreds of missiles from vessels in Arabian Sea</a> CNN: The US Navy seized hundreds of Iranian missiles and 1.1 million barrels of Iranian petroleum products from vessels in the Arabian Sea in what became the US government's "largest-ever forfeiture of fuel and weapons shipments from Iran," according to a release from the Justice Department. 
  <p class="updated_time"> 02:42 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening:' Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
+ <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 02:38 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950">Crypto CEOs to Congress: We want regulation, our way</a> Politico: Crypto leaders appeared at a House Financial Services Committee hearing that revealed an emerging ideological divide between the left and the right over how the government should oversee the industry. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
@@ -351,8 +355,6 @@ permalink: /projects/news/
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/debt-ceiling-deal-congress.html">House Passes Legislation to Pave Way for Debt Ceiling Increase</a> NYT: The bill would provide a one-time pathway for the Senate to raise the debt ceiling on a simple majority vote, skirting Republican obstruction. 
- <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062146576/after-senate-leaders-broker-a-deal-the-house-takes-a-first-step-to-avoid-default">After Senate leaders broker a deal, the House takes a first step to avoid default</a> NPR: Congress is setting up a complicated process that could avoid a potential federal default. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
- <p class="updated_time"> 05:46 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062210606/bidens-pick-to-become-a-key-banking-regulator-withdraws-after-ugly-nomination-fi">Biden's pick to become a key banking regulator withdraws after ugly nomination fight</a> NPR: Saule Omarova has withdrawn her nomination to head the Office of the Comptroller of the Currency after an ugly, and at times, incredibly personal, fight to be confirmed. 
  <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
