@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791731/u-k-s-boris-johnson-on-blast-for-holding-a-christmas-party-during-lockdown-in-20">U.K.'s Boris Johnson on blast for holding a Christmas party during lockdown in 2020 </a> NPR: U.K. Prime Minister Boris Johnson is under fire after it emerged that Christmas parties were held in his official residence in 2020, in violation of COVID restrictions. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791710/new-sounds-show-how-life-is-back-in-recovered-corals-reefs">New sounds show how life is back in recovered corals reefs</a> NPR: A new study shows that restoring coral reefs can bring ecosystems back to life — and with them, their sounds. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:59 PM CT, Dec. 09 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 02:48 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599063?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics boycott is insignificant, says Macron</a> BBC: The French president says some Western countries' refusal to send officials has no useful outcome. 
- <p class="updated_time"> 02:47 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
@@ -133,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478225/new-research-says-baboon-breakups-are-mutual">New research says baboon breakups are mutual</a> NPR: Just like humans, groups of baboons sometimes break off relations. Scientists have studied the dynamics of such breakups and say baboons tend to split up in a cooperative, egalitarian way. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478197/the-white-house-is-growing-more-worried-about-migration-being-used-as-a-weapon">The White House is growing more worried about migration being used as a weapon</a> NPR: The Biden administration has become increasingly concerned about migration being used as a weapon. Belarus has provided a poignant example. 
- <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478190/germanys-new-chancellor-has-some-huge-tasks-ahead-of-him">Germany's new chancellor has some huge tasks ahead of him</a> NPR: Germany's new chancellor, Olaf Scholz, took office on Wednesday, replacing Angela Merkel. Little known outside his homeland, Scholz has some huge tasks ahead of him. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -143,16 +147,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
- <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and in Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -191,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
- <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
  <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
@@ -208,6 +206,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
+ <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
+ <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
  <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5th at the age of 98. 
  <p class="updated_time"> 02:40 PM CT, Dec. 09 </p> 
@@ -340,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
  <p class="updated_time"> 07:00 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/technology/adam-mosseri-instagram-senate.html">Lawmakers Urge Instagram's Adam Mosseri to Better Protect Children</a> NYT: Adam Mosseri, the company’s leader, was asked to appear before a Senate panel after internal research leaked that said the app had a toxic effect on some teenagers. 
- <p class="updated_time"> 06:40 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
  <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
@@ -350,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
- <p class="updated_time"> 06:11 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062479381/house-approves-a-bill-barring-imports-of-goods-produced-by-uighurs-in-china">House OKs a bill barring imports of goods produced by forced labor of Uyghurs in China</a> NPR: The bipartisan vote shows support for ramping up economic sanctions against the Chinese government. It bars any goods manufactured by Uyghurs in internment camps in Xinjiang. 
  <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
