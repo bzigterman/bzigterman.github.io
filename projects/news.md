@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:29 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: W.H.O. Warns of Vaccine Inequity as Wealthy Nations Push Boosters</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. said the priority should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 09:40 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:50 AM CT, Dec. 09 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
- <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 03:37 AM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/india-helicopter-crash-flight-data-recorder-is-recovered-11639060677">India Helicopter Crash Flight Data Recorder Is Recovered</a> WSJ: The investigation is proceeding into the crash that killed the country’s highest-ranking military official, his wife and 11 military personnel. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
@@ -206,10 +206,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up debt ceiling workaround</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-summit-for-democracy-524006">Biden calls summit ‘inflection point’ for democracies</a> Politico: The president also said he would “keep fighting to pass” voting rights legislation. 
+ <p class="updated_time"> 09:44 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/capitol-hill-gun-arrest/index.html">Aide arrested after bringing gun to US Capitol complex</a> CNN: The Longworth House Office Building of the US Capitol complex was put on a shelter-in-place order after a Capitol staffer brought a gun into the building, multiple sources told CNN. 
  <p class="updated_time"> 09:37 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jobless-unemployment-claims-drop-524007">U.S. jobless claims drop 52-year low amid seasonal volatility</a> Politico: Unemployment claims dropped by 43,000 to 184,000 last week, the lowest since September 1969, the Labor Department said. 
- <p class="updated_time"> 09:31 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/capitol-hill-gun-arrest/index.html">Aide arrested after bringing gun to US Capitol complex</a> CNN: The Longworth House Office Building of the US Capitol complex was put on a shelter-in-place order after a Capitol staffer brought a gun into the building, multiple sources told CNN. 
+ <p class="updated_time"> 09:35 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 09:28 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
  <p class="updated_time"> 09:27 AM CT, Dec. 09 </p> 
@@ -350,8 +352,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
- <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
+ <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How the Return to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
