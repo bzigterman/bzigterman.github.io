@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:18 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566158?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Indoor air worse than outside, says study</a> BBC: India's capital routinely tops the list of the world's most polluted cities. 
  <p class="updated_time"> 09:06 PM CT, Dec. 08 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-k-imposes-new-covid-19-restrictions-as-omicron-cases-double-every-few-days-11638993182">U.K. Imposes New Restrictions as Omicron Cases Double Every Few Days</a> WSJ: British authorities say the Omicron variant could result in over a million total infections by the end of the month. 
  <p class="updated_time"> 09:39 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
- <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59575773?at_medium=RSS&at_campaign=KARANGA">Germany's Olaf Scholz takes over from Merkel as chancellor</a> BBC: Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -206,12 +206,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
+ <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 09:57 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 09:38 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
- <p class="updated_time"> 09:37 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:19 PM CT, Dec. 08 </p> 
