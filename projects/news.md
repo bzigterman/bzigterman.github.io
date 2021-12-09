@@ -7,6 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
+ <p class="updated_time"> 06:18 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59578618?at_medium=RSS&at_campaign=KARANGA">Afghan women: Secret diaries of changing lives</a> BBC: Five women's secret diary posts, sent to the BBC, reveal how deeply the Taliban takeover has affected them. 
+ <p class="updated_time"> 06:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
+ <p class="updated_time"> 06:15 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59462503?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The women abused and tortured in detention</a> BBC: Women held for protesting against a military takeover say they were sexually assaulted and tortured. 
+ <p class="updated_time"> 06:09 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59585597?at_medium=RSS&at_campaign=KARANGA">China's detention camps: Held in chains for using WhatsApp</a> BBC: Erbakit Otarbay, an ethnic Kazakh, was imprisoned as part of a mass incarceration programme in China. 
+ <p class="updated_time"> 06:07 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59586873?at_medium=RSS&at_campaign=KARANGA">Goallball player Sevda Altunoluk: 'I am the world's best'</a> BBC: Sevda Altunoluk believes in empowering visually impaired people by encouraging them to compete in sport. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59568638?at_medium=RSS&at_campaign=KARANGA">Chimamanda Ngozi Adichie: ‘I want to say what I think’</a> BBC: The Nigerian writer shares her experience of grief and her thoughts on "cancel culture" and trans rights. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59553662?at_medium=RSS&at_campaign=KARANGA">Growing up in Iran: Every morning we had to chant ‘Death to America’</a> BBC: Iranian Rana Rahimpour moved to the UK as a young journalist and is now unable to return home for fear of arrest. 
  <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 05:26 PM CT, Dec. 08 </p> 
@@ -17,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
- <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: In response, Mark Meadows sued the 6 January committee members, alleging a civil rights violation. 
  <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of Maxwell accuser backs up statement</a> BBC: The accuser, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -61,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
+ <p class="updated_time"> 11:53 AM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 11:45 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/sport/golf/59585790?at_medium=RSS&at_campaign=KARANGA">Tiger Woods will make his return at PNC Championship alongside son Charlie</a> BBC: Tiger Woods will make his comeback playing alongside son Charlie at the PNC Championship in Florida next week. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
@@ -121,16 +137,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59547337?at_medium=RSS&at_campaign=KARANGA">Colombia gangs: 'Surrender or we'll hunt you down' warns minister</a> BBC: Following the capture of its most wanted drug lord, Colombia is going after his criminal network. 
  <p class="updated_time"> 07:40 PM CT, Dec. 07 </p> 
  <a href="https://www.wsj.com/articles/former-malaysian-prime-minister-loses-appeal-of-1mdb-conviction-11638945640">Former Malaysian Prime Minister Loses Appeal of 1MDB Conviction</a> WSJ: Najib Razak is to remain free on bail pending an appeal to Malaysia’s highest court on charges related to his role in one of the world’s largest financial scandals. 
- <p class="updated_time"> 07:31 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59569649?at_medium=RSS&at_campaign=KARANGA">The ‘gals’ behind Samoa’s first woman PM</a> BBC: Samoa's first woman prime minister has been supported throughout her career by a group of powerful female friends. 
  <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
- <p class="updated_time"> 06:40 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59528818?at_medium=RSS&at_campaign=KARANGA">How Bangladeshis are lured into slavery in Libya</a> BBC: A 19-year-old tells of his harrowing ordeal at the hands of traffickers who tricked him and his parents. 
- <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/59387191?at_medium=RSS&at_campaign=KARANGA">Indonesia's biodiesel drive is leading to deforestation</a> BBC: Indonesia aims to use biofuels to cut greenhouse gas emissions, but it may damage its forests in the process. 
- <p class="updated_time"> 06:22 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59530706?at_medium=RSS&at_campaign=KARANGA">What the data tells us about love and marriage in India</a> BBC: A data journalist looks at numbers to offer a remarkably rich view of love in India and its many trials. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59565558?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls' despair as Taliban confirm secondary school ban</a> BBC: The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces. 
  <p class="updated_time"> 06:09 PM CT, Dec. 07 </p> 
@@ -175,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 05:41 AM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-59560809?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: BBC reporter surrounded by houses buried in ash</a> BBC: Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
@@ -189,12 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 06:02 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59519160?at_medium=RSS&at_campaign=KARANGA">Rebel Wilson on weight loss: I know what it’s like to be invisible</a> BBC: The actress, producer and director opens up about her weight loss, in an exclusive BBC interview. 
- <p class="updated_time"> 03:51 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/pope-russian-orthodox-church.html">Pope Exploring a 2nd Meeting With Russian Orthodox Church</a> NYT: Speaking after his trip to Cyprus and Greece, Francis also said he had no choice but to accept the resignation of the archbishop of Paris because of the harmful gossip surrounding him. 
- <p class="updated_time"> 02:45 PM CT, Dec. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59553764?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: How I escaped the deadly Mt Semeru eruption</a> BBC: Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia. 
  <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/world/asia/india-russia-missile-defense-deal.html">India and Russia Expand Defense Ties, Despite Prospect of U.S. Sanctions</a> NYT: India’s purchase of a missile defense system signaled that it was more worried about an emboldened China at its borders than about angering the United States. 
 
@@ -204,16 +204,32 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:13 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
+ <p class="updated_time"> 06:40 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
+ <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Impose Forced Labor Ban on Goods Made in Xinjiang</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
  <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
+ <p class="updated_time"> 06:32 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/north-carolina-primaries-2022-redistricting/index.html">North Carolina Supreme Court delays primaries over redistricting lawsuits</a> CNN: The North Carolina Supreme Court issued an order Wednesday that moves the state's primary elections from March 2022 to May 2022, due to lawsuits over redistricting maps for congressional and state legislative districts. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: The Californian's departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where "anybody who says they're not interested is lying." 
- <p class="updated_time"> 05:44 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
- <p class="updated_time"> 05:38 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 06:12 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
+ <p class="updated_time"> 06:11 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/08/1062479381/house-approves-a-bill-barring-imports-of-goods-produced-by-uighurs-in-china">House OKs a bill barring imports of goods produced by forced labor of Uyghurs in China</a> NPR: The bipartisan vote shows support for ramping up economic sanctions against the Chinese government. It bars any goods manufactured by Uyghurs in internment camps in Xinjiang. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
+ <p class="updated_time"> 06:01 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/hillary-clinton-2016-victory-speech/index.html">Hillary Clinton shares what she prepared for her 2016 presidential victory speech</a> CNN: Hillary Clinton has shared for the first time what would have been her 2016 presidential victory speech. 
+ <p class="updated_time"> 05:53 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
+ <p class="updated_time"> 05:52 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/fact-check-perdue-kemp-abrams/index.html">Fact check: David Perdue falsely claims Brian Kemp turned over control of Georgia elections to Stacey Abrams</a> CNN: Former Sen. David Perdue of Georgia launched his campaign for governor on Monday with a false claim about his chief opponent in the Republican primary, incumbent Gov. Brian Kemp. 
  <p class="updated_time"> 05:30 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 05:29 PM CT, Dec. 08 </p> 
@@ -236,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
  <p class="updated_time"> 04:36 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate expected to vote to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
- <p class="updated_time"> 04:30 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/ndaa-criticism-senate-sexual-assault-judicial-reform/index.html">Bipartisan senators criticize defense bill, saying it does not go far enough to reform military justice for sexual assault survivors</a> CNN: A bipartisan group of Senators criticized the final version of the National Defense Authorization Act which passed the House late Tuesday night, saying the bill does not go far enough to reform the military justice system for survivors of sexual assault. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -246,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
  <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
- <p class="updated_time"> 03:44 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/california-redistricting-midterms.html">Redistricting Makes California a Top House Battlefield for 2022</a> NYT: As legislators across the country draw House maps to protect incumbents, a nonpartisan commission of California citizens is drafting one that will scramble political fortunes for both parties. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -260,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478260/biden-signs-executive-order-to-make-the-federal-government-carbon-neutral-by-205">Biden signs executive order to make the federal government carbon-neutral by 2050</a> NPR: In a sweeping executive order, President Biden aims to cut all climate warming emissions from federal government operations. The push dates to the Obama-era, and faces a lot of challenges. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
- <p class="updated_time"> 03:18 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/hillary-clinton-2016-victory-speech/index.html">Hillary Clinton shares what she prepared for her 2016 presidential victory speech</a> CNN: Hillary Clinton has shared for the first time what would have been her 2016 presidential victory speech. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478204/rep-schiff-on-the-protecting-our-democracy-act">Rep. Schiff on the Protecting Our Democracy Act</a> NPR: NPR's Mary Louise Kelly speaks with Rep. Adam Schiff, D-Calif., on the Protecting Our Democracy Act and the investigation into the Jan. 6 Capitol riots. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
@@ -372,12 +382,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 04:14 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/bob-dole-hometown-russell-kansas.html">In Bob Dole’s Hometown, Kansans Grieve for the Man and His Political Style</a> NYT: Residents of Russell, the town in Kansas where Mr. Dole grew up, spoke longingly of a bygone era of bipartisanship. 
- <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/children-vaccine-pediatricians.html">Pediatricians Find Children Need Much More Than Vaccines</a> NYT: At one clinic serving low-income children, treatment for health problems that have gone unchecked during the pandemic is more in demand than coronavirus shots. 
- <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178628/far-right-is-using-twitters-new-policy-against-extremism-researchers-and-activis">Far right is using Twitter's new policy against extremism researchers and activists</a> NPR: Twitter recently launched a new policy in the U.S. to limit the sharing of photos and videos of people without their consent. Activists on the left say it limits public interest reporting. 
- <p class="updated_time"> 03:32 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178569/houstons-third-ward-braces-for-state-redistricting-plans">Houston's Third Ward braces for state redistricting plans</a> NPR: NPR's Ari Shapiro speaks with Reverend Don Odom Jr., the social justice ministry leader at Houston's Wheeler Avenue Baptist Church, about how Texas' redistricting plan will impact his community. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
@@ -402,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
  <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
- <p class="updated_time"> 01:15 PM CT, Dec. 06 </p> 
- <a href="https://www.cnn.com/2021/12/06/politics/biden-strategy-counter-corruption/index.html">Biden administration unveils new strategy to counter corruption</a> CNN: The Biden administration on Monday announced a new strategy to counter corruption and illicit finance, as well as new steps from the Treasury Department to tackle how illegal actors abuse the real estate market in the United States to hide their wealth.  
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 07:01 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/pharmacy-lobbyists-social-spending-bill-523749">Ire over pharmacy middlemen fuels lobbying blitz</a> Politico: The effort to paint pharmacy benefit managers as villains has sparked a multimillion-dollar campaign to influence Democrats. 
  <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
