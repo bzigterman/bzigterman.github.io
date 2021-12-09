@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:09 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59585597?at_medium=RSS&at_campaign=KARANGA">China's detention camps: Held in chains for using WhatsApp</a> BBC: Erbakit Otarbay, an ethnic Kazakh, was imprisoned as part of a mass incarceration programme in China. 
  <p class="updated_time"> 06:07 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59586873?at_medium=RSS&at_campaign=KARANGA">Goallball player Sevda Altunoluk: 'I am the world's best'</a> BBC: Sevda Altunoluk believes in empowering visually impaired people by encouraging them to compete in sport. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59586873?at_medium=RSS&at_campaign=KARANGA">Goalball player Sevda Altunoluk: 'I am the world's best'</a> BBC: Sevda Altunoluk believes in empowering visually impaired people by encouraging them to compete in sport. 
  <p class="updated_time"> 06:05 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59568638?at_medium=RSS&at_campaign=KARANGA">Chimamanda Ngozi Adichie: ‘I want to say what I think’</a> BBC: The Nigerian writer shares her experience of grief and her thoughts on "cancel culture" and trans rights. 
  <p class="updated_time"> 06:02 PM CT, Dec. 08 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
  <p class="updated_time"> 01:09 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/not-vaccinated-in-singapore-youll-pay-for-your-own-covid-19-treatment-11638965343">Not Vaccinated? In Singapore, You'll Pay for Your Own Covid-19 Treatment</a> WSJ: People who haven’t received shots account for a disproportionate amount of the strain on Singapore’s healthcare resources, authorities say, so the city-state is going to stop fully covering their Covid-19 medical bills. 
- <p class="updated_time"> 12:56 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 12:33 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/italy-recovering-under-draghi-debates-his-premiership-11638959401">Italy, Recovering Under Draghi, Debates Premiership</a> WSJ: Italy faces a dilemma at a critical moment for its economy: Should Mario Draghi remain prime minister for another year or become the country’s largely ceremonial president for the next seven? 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as ‘ridiculous’ and ‘anti-science,’ and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 07:41 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/us-russia-ukraine-energy-sanctions/index.html">US likely to hold off for now on energy sanctions for Russia, fearing impact on global prices</a> CNN: The Biden administration is drafting options for multiple rounds of harsh sanctions on Russia if it moves to invade Ukraine, but energy sanctions are likely a last resort given the impact they could have on the global economy and domestic gasoline prices, three US officials tell CNN. 
  <p class="updated_time"> 07:40 PM CT, Dec. 08 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: The Californian's departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where "anybody who says they're not interested is lying." 
+ <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 06:12 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
  <p class="updated_time"> 06:11 PM CT, Dec. 08 </p> 
@@ -424,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
- <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
