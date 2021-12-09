@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:14 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 11:34 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. said the priority should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 11:31 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
+ <p class="updated_time"> 11:25 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59601083?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sent home for day after lawyer falls sick</a> BBC: The lawyer - who has a non-Covid-related illness - is needed for questioning of an upcoming witness. 
+ <p class="updated_time"> 11:15 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59599270?at_medium=RSS&at_campaign=KARANGA">Lina Wertmüller: Groundbreaking Italian film director dies aged 93</a> BBC: Wertmüller became the first woman ever to be nominated for an Oscar for best director in the 1970s. 
  <p class="updated_time"> 11:07 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
- <p class="updated_time"> 08:37 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 08:27 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582145?at_medium=RSS&at_campaign=KARANGA">Woman fined €1,200 for causing Tour de France pile-up</a> BBC: The woman's cardboard sign brought down dozens of cyclists during a stage of the elite race in June. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
  <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566157?at_medium=RSS&at_campaign=KARANGA">Farm laws: India farmers end protest after government accepts demands</a> BBC: The announcement was made after hectic negotiations between farmer groups and the government. 
- <p class="updated_time"> 05:56 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59592901?at_medium=RSS&at_campaign=KARANGA">Sauti Sol singer Chimano hailed in Kenya for coming out as gay</a> BBC: Kenyan gay rights activists welcome Sauti Sol star Chimano's decision to "no longer live a lie". 
  <p class="updated_time"> 05:15 AM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/india-helicopter-crash-flight-data-recorder-is-recovered-11639060677">India Helicopter Crash Flight Data Recorder Is Recovered</a> WSJ: The investigation is proceeding into the crash that killed the country’s highest-ranking military official, his wife and 11 military personnel. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
- <p class="updated_time"> 02:01 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
  <p class="updated_time"> 01:36 AM CT, Dec. 09 </p> 
@@ -202,8 +202,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">'One side or the other is lying': ex-D.C. National Guard leaders clash with Army over internal Jan. 6 report</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
+ <p class="updated_time"> 11:21 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
+ <p class="updated_time"> 11:20 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1061182786/house-retirement-tracker-2022-congress-republicans-democrats">House retirement tracker: Senior Democrats exit as the GOP is confident of a takeover</a> NPR: A growing number of House lawmakers have opted not to run again in 2022, but so far more Democrats than Republicans are choosing to end their service. 
+ <p class="updated_time"> 11:13 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 11:07 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 11:02 AM CT, Dec. 09 </p> 
@@ -250,14 +258,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062614933/worlds-democracies-meet-to-show-solidarity-against-a-rising-tide-of-authoritaria">World's democracies meet to show solidarity against a rising tide of authoritarianism</a> NPR: President Biden has invited more than 100 countries to a virtual summit on democracy. But some of the names on the list are drawing questions over their own democratic practices. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 06:02 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/affordable-care-act-open-enrollment/index.html">Affordable Care Act exchanges seeing record interest in heavily subsidized 2022 coverage</a> CNN: Americans are flocking to the Affordable Care Act exchanges to sign up for coverage for 2022. 
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/defense-pentagon-policy-progressives-523964">Progressives get rolled on Pentagon policy</a> Politico: Liberal Democrats' losses show the limits of their party's slim majorities in Congress. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators' new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
  <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
- <p class="updated_time"> 09:38 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:19 PM CT, Dec. 08 </p> 
@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
  <p class="updated_time"> 07:23 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062391085/in-a-largely-symbolic-move-the-senate-votes-to-block-bidens-vaccine-or-test-mand">In a largely symbolic move, the Senate votes to block Biden's vaccine-or-test mandate</a> NPR: The White House says the president will veto the bill if it reaches his desk. But GOP lawmakers pushed the measure as the political fight over vaccine mandates deepens. 
- <p class="updated_time"> 07:21 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/house-bill-forced-labor-uyghurs-china/index.html">House passes bill blocking imports of products produced by forced labor in China's Xinjiang region</a> CNN: A bill that will prevent the US from importing goods produced using forced labor by Uyghurs and other minority Muslim populations in the Xinjiang Autonomous Region of China passed the House on Wednesday evening. 
  <p class="updated_time"> 07:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
  <p class="updated_time"> 07:00 PM CT, Dec. 08 </p> 
@@ -328,10 +326,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/ilhan-omar-bill-islamophobia/index.html">House to advance legislation to combat Islamophobia as pressure mounts to punish Boebert for anti-Muslim comments</a> CNN: The House is planning to advance Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia on Thursday, marking the first step members are taking since Republican Rep. Lauren Boebert's anti-Muslim comments calling Omar a terrorist. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
- <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
- <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -346,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478274/what-to-know-about-the-768-billion-defense-policy-bill-thats-heading-to-the-sena">What to know about the $768 billion defense policy bill that's heading to the Senate</a> NPR: NPR's Audie Cornish speaks with Politico defense reporter Connor O'Brien about the House passing a $768 billion defense policy bill. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
- <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478260/biden-signs-executive-order-to-make-the-federal-government-carbon-neutral-by-205">Biden signs executive order to make the federal government carbon-neutral by 2050</a> NPR: In a sweeping executive order, President Biden aims to cut all climate warming emissions from federal government operations. The push dates to the Obama-era, and faces a lot of challenges. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
@@ -362,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How the Return to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
- <p class="updated_time"> 09:27 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/biden-build-back-better-spending-bill/index.html">10 things you didn't know are in the Democrats' Build Back Better bill</a> CNN: A sweeping $1.9 trillion spending plan, known as the Build Back Better bill, is making its way through Congress and could make a key part of President Joe Biden's economic agenda a reality. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
@@ -394,6 +386,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
+ <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
+ <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
