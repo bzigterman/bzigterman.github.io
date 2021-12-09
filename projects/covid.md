@@ -1143,9 +1143,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">95.6K</td>
+<td class="gt_row gt_right">95.8K</td>
 <td class="gt_row gt_right">121.0K</td>
-<td class="gt_row gt_right">+27&percnt;</td></tr>
+<td class="gt_row gt_right">+26&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">47.5K</td>
 <td class="gt_row gt_right gt_striped">58.5K</td>
@@ -1538,7 +1538,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">570.0K</td>
-<td class="gt_row gt_right">617.0K</td>
+<td class="gt_row gt_right">616.0K</td>
 <td class="gt_row gt_right">+8&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">7.2K</td>
@@ -1572,7 +1572,7 @@ As of Wednesday, the 14-day percent change in average new cases was:
   
 - 70% in Champaign County
 - 54% in Illinois
-- 27% in the United States
+- 26% in the United States
 - 8% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
