@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
+ <p class="updated_time"> 04:16 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
  <p class="updated_time"> 04:00 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062475770/as-the-omicron-covid-variant-spreads-experts-sound-warning-on-vaccine-access">Fix the global vaccine rollout or face even worse COVID variants, experts warn</a> NPR: The world has "lost the plot" on equitable vaccine access and is falling far short of targets to vaccinate the global south, according to scathing assessments from experts. 
- <p class="updated_time"> 03:56 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 03:56 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
@@ -55,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59599270?at_medium=RSS&at_campaign=KARANGA">Lina Wertmüller: Groundbreaking Italian film director dies aged 93</a> BBC: Wertmüller became the first woman ever to be nominated for an Oscar for best director in the 1970s. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
- <p class="updated_time"> 11:00 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
  <p class="updated_time"> 10:17 AM CT, Dec. 09 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
- <p class="updated_time"> 03:20 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478232/afghan-artists-in-californias-bay-area-step-up-to-help-artists-still-in-afghanis">Afghan artists in California's Bay Area step up to help artists still in Afghanistan</a> NPR: One of the biggest Afghan expat communities in the U.S. is in California's Bay Area. With the Taliban's return threatening artists in their homeland, Afghans in America are embracing activism. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59547337?at_medium=RSS&at_campaign=KARANGA">Colombia gangs: 'Surrender or we'll hunt you down' warns minister</a> BBC: Following the capture of its most wanted drug lord, Colombia is going after his criminal network. 
- <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59565558?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls' despair as Taliban confirm secondary school ban</a> BBC: The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces. 
  <p class="updated_time"> 06:09 PM CT, Dec. 07 </p> 
@@ -205,11 +205,17 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave Trump two weeks to seek an appeal before the order takes effect. 
+ <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
+ <p class="updated_time"> 04:06 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep January 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
+ <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/house-vote-protect-our-democracy-act/index.html">House passes 'Protect Our Democracy' Act to curb presidential abuses of power</a> CNN: The House voted 220-208 on Friday to pass the "Protect Our Democracy" Act, which addresses presidential abuses of power and reinforces the checks and balances between the branches of government. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
- <p class="updated_time"> 03:50 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep January 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
  <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
- <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/house-vote-protect-our-democracy-act/index.html">House passes 'Protect Our Democracy' Act to curb presidential abuses of power</a> CNN: The House voted 220-208 on Friday to pass the "Protect Our Democracy" Act, which addresses presidential abuses of power and reinforces the checks and balances between the branches of government. 
  <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5th at the age of 98. 
  <p class="updated_time"> 02:40 PM CT, Dec. 09 </p> 
@@ -322,12 +326,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062614961/instagram-ceo-tells-senate-panel-it-takes-the-mental-health-of-children-seriousl">Instagram CEO tells Senate panel it takes the mental health of children seriously</a> NPR: Adam Mosseri pushed back on research showing social media is harmful for mental health during testimony before the Senate Subcommittee on Consumer Protection, Product Safety and Data Security. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062614926/morning-news-brief">News brief: democracy summit, NPR political poll, Mosseri defends Instagram</a> NPR: President Biden will virtually host a summit for countries to talk about democracy. A new poll indicates the president has low approval ratings. Instagram's CEO defends the platform before Congress. 
- <p class="updated_time"> 04:01 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062453165/npr-marist-poll-biden-democrats-infrastructure-build-back-better">A new poll finds major warning signs for Biden and fellow Democrats</a> NPR: The NPR/Marist survey has President Biden with a 42% approval rating. Americans also don't feel the direct payments or expanded child tax credits Democrats doled out helped them much. 
  <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
- <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/09/1062516250/researchers-explain-why-they-believe-facebook-mishandles-political-ads">Researchers explain why they believe Facebook mishandles political ads</a> NPR: "We can do a lot better," said Laura Edelson, lead author of a new study on Facebook's ad program. "This is not the state of the art of content moderation, or detection of problematic content." 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
  <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
