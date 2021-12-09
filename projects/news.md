@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 03:55 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce is now isolating in the US while two UK ministers are also isolating in London. 
  <p class="updated_time"> 03:52 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
@@ -47,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
  <p class="updated_time"> 07:04 PM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/chinas-factory-gate-inflation-softens-in-november-11639029858">China's Factory-Gate Inflation Softens in November</a> WSJ: China’s factory-gate inflation ebbed in November after hitting a 26-year high, which economists say will give policy makers more room for easing to bolster a slowing economy. 
- <p class="updated_time"> 06:46 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce had a meeting with UK cabinet ministers in London and is now isolating in the US. 
  <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
  <p class="updated_time"> 06:23 PM CT, Dec. 08 </p> 
@@ -161,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59565590?at_medium=RSS&at_campaign=KARANGA">Putin-Biden talks: What next for Ukraine?</a> BBC: Russia's president will want to register some kind of victory before his troops return, writes Jonathan Marcus. 
  <p class="updated_time"> 04:21 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/07/1061896560/opinion-im-shocked-by-the-racist-cartoons-and-travel-bans-sparked-by-omicron">Opinion: I'm shocked by the racist cartoons and travel bans sparked by omicron</a> NPR: The variant is bringing out the worst in some Western governments and global media outlets, says Dr. Ifeanyi Nsofor, a global health advocate in Nigeria. 
- <p class="updated_time"> 04:03 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
@@ -183,10 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
- <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
- <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
 
 
 </details>
@@ -196,6 +198,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators' new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
+ <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
+ <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062614961/instagram-ceo-tells-senate-panel-it-takes-the-mental-health-of-children-seriousl">Instagram CEO tells Senate panel it takes the mental health of children seriously</a> NPR: Adam Mosseri pushed back on research showing social media is harmful for mental health during testimony before the Senate Subcommittee on Consumer Protection, Product Safety and Data Security. 
+ <p class="updated_time"> 04:01 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062453165/npr-marist-poll-biden-democrats-infrastructure-build-back-better">A new poll finds major warning signs for Biden and fellow Democrats</a> NPR: The NPR/Marist survey has President Biden with a 42% approval rating. Americans also don't feel the direct payments or expanded child tax credits Democrats doled out helped them much. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -336,18 +348,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/suspect-charged-fox-news-christmas-tree-fire-523932">‘It’s beginning to look a lot like arson’: Suspect charged in Fox News Christmas tree fire</a> Politico: “We’re going to rebuild it, and we’re going to build it back better,” vowed “Fox & Friends” co-host Ainsley Earhardt. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:28 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-democrats-agenda.html">Joe Biden and the Political Limits of Competence</a> NYT: Amid sinking poll numbers and a stalled agenda, the president has made a subtle shift in his political strategy. 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
- <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062319956/instagram-ceo-to-testify-at-senate-hearing-on-potential-dangers-for-young-users">Instagram CEO to testify at Senate hearing on potential dangers for young users</a> NPR: NPR's Steve Inskeep speaks to Democratic Sen. Richard Blumenthal of Connecticut and Republican Sen. Marsha Blackburn of Tennessee — ahead of Wednesday's hearing on the impact of Instagram on kids. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
- <p class="updated_time"> 04:10 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062319949/morning-news-brief">News brief: Biden-Putin call, Instagram hearing, Glenn Foster dies in custody</a> NPR: The U.S. warns Russia it will face tough sanctions if it invades Ukraine. What is Instagram doing to keep its youngest users safe? A former NFL player died in police custody Monday in Alabama. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
@@ -356,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
- <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
@@ -370,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
  <p class="updated_time"> 06:41 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
- <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
