@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:19 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced "extreme intimidation" and were held at gunpoint by looters, the UN says. 
- <p class="updated_time"> 11:16 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 11:51 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
+ <p class="updated_time"> 11:19 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:51 PM CT, Dec. 08 </p> 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 10:32 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2009 will be able to buy tobacco under proposed new health laws. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 10:30 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59588943?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Lego to build $1bn factory in Vietnam</a> BBC: It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
  <p class="updated_time"> 06:46 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce met with UK cabinet ministers in London and is now isolating in the US. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce had a meeting with UK cabinet ministers in London and is now isolating in the US. 
  <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
  <p class="updated_time"> 06:18 PM CT, Dec. 08 </p> 
