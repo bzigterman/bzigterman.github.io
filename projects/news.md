@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/09/1062185381/opinion-i-want-my-mom-to-see-her-grandkids-for-christmas-travel-bans-make-it-tou">Opinion: I want my mom to see her grandkids for Christmas. Travel bans make it tough</a> NPR: Jacqueline Muna Musiitwa was planning for her mom to fly from Zambia to the U.S. for Christmas. Ever-changing travel bans are making it seem like a holiday dream that won't come true. 
  <p class="updated_time"> 02:01 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
+ <p class="updated_time"> 01:45 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59599271?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott says he was unaware fans were hurt</a> BBC: The US rapper says he only discovered the impact of a deadly crowd surge after the festival in Texas. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments were invited, and 89 came, to the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 07:51 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59595952?at_medium=RSS&at_campaign=KARANGA">China committed genocide against Uyghurs, independent tribunal rules</a> BBC: A London-based unofficial tribunal says China is deliberately preventing births among Uyghurs. 
- <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59566157?at_medium=RSS&at_campaign=KARANGA">Farm laws: India farmers end protest after government accepts demands</a> BBC: The announcement was made after hectic negotiations between farmer groups and the government. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 04:43 AM CT, Dec. 09 </p> 
@@ -204,6 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
+ <p class="updated_time"> 02:40 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
+ <p class="updated_time"> 02:35 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/ali-alexander-january-6-deposition/index.html">'Stop the Steal' rally organizer appears for deposition with January 6 committee and pledges to cooperate</a> CNN: "Stop the Steal" leader Ali Alexander, who helped organize the rally that preceded the Capitol attack, on Thursday appeared in front of the House select committee investigating January 6 and told reporters he will cooperate. 
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
@@ -214,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
- <p class="updated_time"> 02:09 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize. 
  <p class="updated_time"> 01:52 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
  <p class="updated_time"> 12:59 PM CT, Dec. 09 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/bob-dole-body-capitol.html">Dole is lying in state at the Capitol, returning to the building where he served for decades.</a> NYT: President Biden spoke at the tribute, but there will be no public viewing because of the pandemic. 
- <p class="updated_time"> 10:50 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/ali-alexander-january-6-deposition/index.html">'Stop the Steal' rally organizer appears for deposition with January 6 committee and pledges to cooperate</a> CNN: "Stop the Steal" leader Ali Alexander, who helped organize the rally that preceded the Capitol attack, on Thursday appeared in front of the House select committee investigating January 6 and told reporters he will cooperate. 
  <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/inflation-price-gains.html">Here's Why Inflation Is Worrying Washington</a> NYT: Price gains have moved up sharply for months, but the fact that the trend is lasting and broadening has newly put policymakers on red alert. 
  <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
