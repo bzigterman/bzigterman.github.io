@@ -204,14 +204,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis' budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">System failure: How China won WTO entry and beat the global trading system</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
+ <p class="updated_time"> 05:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
+ <p class="updated_time"> 05:11 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-dole-capitol.html">President Biden Praises Bob Dole in Ceremony at the Capitol</a> NYT: As Bob Dole lay in state in the Capitol, the president and Democratic leaders recalled his appeals for unity, in an unmistakable message to the Republican Party. 
+ <p class="updated_time"> 05:11 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 05:02 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/nyc-noncitizens-local-elections-voting-rights/index.html">New York City gives noncitizens right to vote in local elections </a> CNN: New York City on Thursday became the largest municipality in the US to allow noncitizens to vote in local elections 
  <p class="updated_time"> 04:52 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
- <p class="updated_time"> 04:51 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
  <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
@@ -254,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/kash-patel-january-6-committee/index.html">Former Trump admin official Kash Patel meets with January 6 committee</a> CNN: Kash Patel, a former chief of staff to then-acting Secretary of Defense Christopher Miller, is meeting with the House committee investigating January 6, according to a source familiar. 
  <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
- <p class="updated_time"> 12:54 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/republicans-broke-debt-ceiling-filibuster/index.html">14 GOP senators broke a filibuster to advance debt limit fast-track process</a> CNN: The Senate voted on Thursday to advance a bill to create a fast-track process allowing Democrats to raise the federal debt limit, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
@@ -284,12 +290,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/bob-dole-body-capitol.html">Dole is lying in state at the Capitol, returning to the building where he served for decades.</a> NYT: President Biden spoke at the tribute, but there will be no public viewing because of the pandemic. 
  <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/inflation-price-gains.html">Here's Why Inflation Is Worrying Washington</a> NYT: Price gains have moved up sharply for months, but the fact that the trend is lasting and broadening has newly put policymakers on red alert. 
- <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate to pass Schumer-McConnell debt limit pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
- <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-summit-for-democracy-524006">Biden calls summit ‘inflection point’ for democracies</a> Politico: The president also said he would “keep fighting to pass” voting rights legislation. 
  <p class="updated_time"> 09:44 AM CT, Dec. 09 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062615010/revisiting-a-2005-conversation-with-bob-dole">Revisiting Steve Inskeep's 2005 conversation with Bob Dole</a> NPR: Bob Dole, who died Sunday, will lie in state Thursday at the U.S. Capitol — acknowledging decades of service as a GOP senator, vice presidential candidate and presidential nominee. 
- <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062614961/instagram-ceo-tells-senate-panel-it-takes-the-mental-health-of-children-seriousl">Instagram CEO tells Senate panel it takes the mental health of children seriously</a> NPR: Adam Mosseri pushed back on research showing social media is harmful for mental health during testimony before the Senate Subcommittee on Consumer Protection, Product Safety and Data Security. 
  <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
@@ -342,12 +342,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
- <p class="updated_time"> 07:13 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
- <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
+ <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
@@ -372,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How the Return to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
+ <p class="updated_time"> 10:48 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/jan-6-riot-police-brutality-defense.html">Some Jan. 6 Rioters May Use Police Brutality as a Defense</a> NYT: Half a dozen defendants in the assault on the Capitol are using video to try to make a case that they were simply protecting themselves and others. They face skepticism and an uphill legal battle. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
@@ -384,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
