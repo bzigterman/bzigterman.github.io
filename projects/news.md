@@ -206,7 +206,9 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
- <p class="updated_time"> 09:34 PM CT, Dec. 08 </p> 
+ <p class="updated_time"> 09:38 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
+ <p class="updated_time"> 09:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/iranian-missiles-and-petroleum-seized-forfeited/index.html">US Navy seized Iranian petroleum products and hundreds of missiles from vessels in Arabian Sea</a> CNN: The US Navy seized hundreds of Iranian missiles and 1.1 million barrels of Iranian petroleum products from vessels in the Arabian Sea in what became the US government's "largest-ever forfeiture of fuel and weapons shipments from Iran," according to a release from the Justice Department. 
  <p class="updated_time"> 02:42 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
- <p class="updated_time"> 02:38 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/cryptocurrency-ceos-congress-regulation-523950">Crypto CEOs to Congress: We want regulation, our way</a> Politico: Crypto leaders appeared at a House Financial Services Committee hearing that revealed an emerging ideological divide between the left and the right over how the government should oversee the industry. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 01:14 PM CT, Dec. 08 </p> 
@@ -322,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/nyc-noncitizens-voting/index.html">New York City set to approve measure allowing 800,000 noncitizens to vote in local elections </a> CNN: The New York City Council on Thursday is set to approve a measure that will allow for noncitizens who are legal residents to vote in local elections. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How Returning to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
- <p class="updated_time"> 10:57 AM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 10:48 AM CT, Dec. 08 </p> 
@@ -390,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris marks Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
+ <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s ‘zero Covid strategy’ chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 08:26 AM CT, Dec. 07 </p> 
