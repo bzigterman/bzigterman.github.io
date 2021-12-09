@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
+ <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 07:58 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
  <p class="updated_time"> 07:56 AM CT, Dec. 09 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
- <p class="updated_time"> 02:38 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 02:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478197/the-white-house-is-growing-more-worried-about-migration-being-used-as-a-weapon">The White House is growing more worried about migration being used as a weapon</a> NPR: The Biden administration has become increasingly concerned about migration being used as a weapon. Belarus has provided a poignant example. 
  <p class="updated_time"> 03:13 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478190/germanys-new-chancellor-has-some-huge-tasks-ahead-of-him">Germany's new chancellor has some huge tasks ahead of him</a> NPR: Germany's new chancellor, Olaf Scholz, took office on Wednesday, replacing Angela Merkel. Little known outside his homeland, Scholz has some huge tasks ahead of him. 
- <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -194,14 +194,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:15 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 07:52 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:29 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:28 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/mitch-mcconnell-kevin-mccarthy-donald-trump-gop/index.html">McConnell-McCarthy divide grows as Trump aims to keep his grip on GOP</a> CNN: Senate Minority Leader Mitch McConnell and Rep. James Comer were sitting near each other at Cardinal Stadium late last month, watching Kentucky and Louisville's home-state football rivalry turn into a one-sided affair. 
  <p class="updated_time"> 07:22 AM CT, Dec. 09 </p> 
