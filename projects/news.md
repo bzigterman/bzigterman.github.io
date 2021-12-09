@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
+ <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
+ <p class="updated_time"> 10:32 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
+ <p class="updated_time"> 10:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59588943?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Lego to build $1bn factory in Vietnam</a> BBC: It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016. 
  <p class="updated_time"> 10:18 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
@@ -67,10 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:57 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59588109?at_medium=RSS&at_campaign=KARANGA">Netherlands to buy Rembrandt Standard Bearer self-portrait</a> BBC: The Dutch government puts aside €150m for the 1636 work, currently owned by the Rothschild family. 
- <p class="updated_time"> 02:55 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
- <p class="updated_time"> 02:47 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59587919?at_medium=RSS&at_campaign=KARANGA">Elizabeth Holmes testifies she 'never' misled investors</a> BBC: Holmes' defence team rested their case after seven days of testimony from the Theranos founder. 
  <p class="updated_time"> 02:34 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 01:11 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 01:10 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59582137?at_medium=RSS&at_campaign=KARANGA">UK and Canada join diplomatic boycott of China Winter Olympics</a> BBC: The two nations say their diplomats will not attend the games, citing Chinese human rights abuses. 
  <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
- <p class="updated_time"> 06:25 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59577720?at_medium=RSS&at_campaign=KARANGA">Robert E Lee: Confederate general statue to be turned into art</a> BBC: The statue was at the centre of a white nationalist rally in 2017, which led to the death of a woman. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 05:31 AM CT, Dec. 08 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
  <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062146576/after-senate-leaders-broker-a-deal-the-house-takes-a-first-step-to-avoid-default">After Senate leaders broker a deal, the House takes a first step to avoid default</a> NPR: Congress is setting up a complicated process that could avoid a potential federal default. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
- <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/chris-magnus-cbp-biden.html">Chris Magnus Confirmed to Lead Customs and Border Protection</a> NYT: Mr. Magnus, the police chief in Tucson, Ariz., will seek to win the trust of the U.S. Border Patrol, an agency championed by former President Donald J. Trump. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
