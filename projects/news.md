@@ -205,7 +205,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">'One side or the other is lying': ex-D.C. National Guard leaders clash with Army over internal Jan. 6 report</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
+ <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">This call never happened': ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
+ <p class="updated_time"> 12:02 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
+ <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062713684/mark-meadows-jan-6-committee-lawsuit-nancy-pelosi">Mark Meadows is suing the Jan. 6 committee as it moves to hold him in contempt</a> NPR: Mark Meadows is suing House Speaker Nancy Pelosi and the House Jan. 6 committee, asking a judge to block enforcement of two subpoenas it had issued for himself and Verizon. 
+ <p class="updated_time"> 11:50 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/migrants-dying-crossing-us-mexico-border/index.html">At least 650 migrants died crossing the US-Mexico border, the most since 2014, international agency says</a> CNN: At least 650 people died attempting to cross the US-Mexico border this year, more than any other year since an international agency began documenting deaths in 2014. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
  <p class="updated_time"> 11:40 AM CT, Dec. 09 </p> 
@@ -250,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
  <p class="updated_time"> 09:25 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/mitch-mcconnell-kevin-mccarthy-donald-trump-gop/index.html">McConnell-McCarthy divide grows as Trump aims to keep his grip on GOP</a> CNN: Senate Minority Leader Mitch McConnell and Rep. James Comer were sitting near each other at Cardinal Stadium late last month, watching Kentucky and Louisville's home-state football rivalry turn into a one-sided affair. 
- <p class="updated_time"> 09:21 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 09:12 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
  <p class="updated_time"> 08:15 AM CT, Dec. 09 </p> 
@@ -268,6 +272,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/defense-pentagon-policy-progressives-523964">Progressives get rolled on Pentagon policy</a> Politico: Liberal Democrats' losses show the limits of their party's slim majorities in Congress. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators' new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -328,12 +334,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062479381/house-approves-a-bill-barring-imports-of-goods-produced-by-uighurs-in-china">House OKs a bill barring imports of goods produced by forced labor of Uyghurs in China</a> NPR: The bipartisan vote shows support for ramping up economic sanctions against the Chinese government. It bars any goods manufactured by Uyghurs in internment camps in Xinjiang. 
  <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
- <p class="updated_time"> 05:53 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
- <p class="updated_time"> 05:29 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/ilhan-omar-bill-islamophobia/index.html">House to advance legislation to combat Islamophobia as pressure mounts to punish Boebert for anti-Muslim comments</a> CNN: The House is planning to advance Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia on Thursday, marking the first step members are taking since Republican Rep. Lauren Boebert's anti-Muslim comments calling Omar a terrorist. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -346,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478274/what-to-know-about-the-768-billion-defense-policy-bill-thats-heading-to-the-sena">What to know about the $768 billion defense policy bill that's heading to the Senate</a> NPR: NPR's Audie Cornish speaks with Politico defense reporter Connor O'Brien about the House passing a $768 billion defense policy bill. 
- <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
