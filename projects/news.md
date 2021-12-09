@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
+ <p class="updated_time"> 08:37 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
- <p class="updated_time"> 07:58 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
  <p class="updated_time"> 07:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 07:51 AM CT, Dec. 09 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Though Prime Minister Modi had unexpectedly conceded to their main demand weeks ago, the farmers had vowed to remain until the formal repeal. 
  <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566157?at_medium=RSS&at_campaign=KARANGA">Farm laws: India farmers end protest after government accepts demands</a> BBC: The announcement was made after hectic negotiations between farmer groups and the government. 
- <p class="updated_time"> 06:44 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
  <p class="updated_time"> 05:56 AM CT, Dec. 09 </p> 
