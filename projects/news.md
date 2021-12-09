@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
+ <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062501249/why-biden-is-hosting-more-than-100-countries-to-talk-about-democracy">Why Biden is hosting more than 100 countries to talk about democracy</a> NPR: The White House wants to boost global commitments to human rights and fighting corruption. But as the summit convenes, American democracy itself is under pressure. 
  <p class="updated_time"> 04:05 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 11:59 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/brazils-central-bank-raises-lending-rate-sees-increase-at-next-meeting-11639004353">Brazil's Central Bank Raises Lending Rate, Sees Increase at Next Meeting</a> WSJ: Brazil’s central bank raised its benchmark lending rate by 1.5 percentage points to 9.25% and signaled another increase of the same size at its next meeting in February as consumer prices continue their rapid rise. 
- <p class="updated_time"> 11:53 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
  <p class="updated_time"> 04:33 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59565590?at_medium=RSS&at_campaign=KARANGA">Putin-Biden talks: What next for Ukraine?</a> BBC: Russia's president will want to register some kind of victory before his troops return, writes Jonathan Marcus. 
- <p class="updated_time"> 04:21 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/07/1061896560/opinion-im-shocked-by-the-racist-cartoons-and-travel-bans-sparked-by-omicron">Opinion: I'm shocked by the racist cartoons and travel bans sparked by omicron</a> NPR: The variant is bringing out the worst in some Western governments and global media outlets, says Dr. Ifeanyi Nsofor, a global health advocate in Nigeria. 
  <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
@@ -197,7 +197,15 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/defense-pentagon-policy-progressives-523964">Progressives get rolled on Pentagon policy</a> Politico: Liberal Democrats' losses show the limits of their party's slim majorities in Congress. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators' new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/biden-inflation-next-year-523984">Another eye-popping inflation reading is ahead. Next year could look very different.</a> Politico: The prices felt most acutely by voters could be telling a better story for Democrats heading into the midterms. 
+ <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062501249/why-biden-is-hosting-more-than-100-countries-to-talk-about-democracy">Why Biden is hosting more than 100 countries to talk about democracy</a> NPR: The White House wants to boost global commitments to human rights and fighting corruption. But as the summit convenes, American democracy itself is under pressure. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
@@ -278,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
- <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
@@ -318,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
- <p class="updated_time"> 01:01 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062407301/san-antonio-school-district-reviewing-library-books-after-krause-inquiry">A Texas school district is reviewing 400 library books after a GOP lawmaker's inquiry</a> NPR: State Rep. Matt Krause launched an inquiry into school library books on topics like race and gender earlier this fall. A San Antonio district says it's reviewing some 400 titles that were on his list. 
  <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
