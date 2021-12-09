@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 05:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
  <p class="updated_time"> 05:26 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-apologizes-nightclub.html">Prime Minister of Finland Apologizes for Clubbing Maskless After Contact with an Infected Official</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
