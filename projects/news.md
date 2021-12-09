@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
+ <p class="updated_time"> 09:57 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 09:38 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 09:37 PM CT, Dec. 08 </p> 
@@ -266,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
- <p class="updated_time"> 05:08 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
