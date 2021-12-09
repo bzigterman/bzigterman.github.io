@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:28 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -42,9 +44,9 @@ permalink: /projects/news/
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59572668?at_medium=RSS&at_campaign=KARANGA">New York’s Met museum to remove Sackler name from exhibits</a> BBC: The Sackler family founded Purdue Pharma, which manufactured opioids linked to the deaths of thousands. 
+ <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/09/1062185381/opinion-i-want-my-mom-to-see-her-grandkids-for-christmas-travel-bans-make-it-tou">Opinion: I want my mom to see her grandkids for Christmas. Travel bans make it tough</a> NPR: Jacqueline Muna Musiitwa was planning for her mom to fly from Zambia to the U.S. for Christmas. Ever-changing travel bans are making it seem like a holiday dream that won't come true. 
- <p class="updated_time"> 02:01 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 01:45 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599271?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott says he was unaware fans were hurt</a> BBC: The US rapper says he only discovered the impact of a deadly crowd surge after the festival in Texas. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59599058?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO concerned rich countries could hoard vaccines</a> BBC: There are concerns that booster rollouts in wealthy nations could threaten supply to poorer countries. 
  <p class="updated_time"> 09:59 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571712?at_medium=RSS&at_campaign=KARANGA">In pictures: Israel hands seized relics to Egypt</a> BBC: The haul includes figurines of ancient queens, hieroglyphic inscriptions and burial offerings. 
- <p class="updated_time"> 09:51 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:27 AM CT, Dec. 09 </p> 
@@ -204,10 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">System failure: How China won WTO entry and beat the global trading system</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
+ <p class="updated_time"> 04:44 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
- <p class="updated_time"> 04:33 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 04:24 PM CT, Dec. 09 </p> 
@@ -281,7 +283,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate moves forward on Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
+ <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate to pass Schumer-McConnell debt limit pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/elizabeth-holmes-fraud-trial-defense-523981">Defense team rests in Elizabeth Holmes fraud trial</a> Politico: The entrepreneur was the final defense witness. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
- <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
