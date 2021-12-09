@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:08 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: Federal Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iaq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
- <p class="updated_time"> 02:06 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/09/1062185381/opinion-i-want-my-mom-to-see-her-grandkids-for-christmas-travel-bans-make-it-tou">Opinion: I want my mom to see her grandkids for Christmas. Travel bans make it tough</a> NPR: Jacqueline Muna Musiitwa was planning for her mom to fly from Zambia to the U.S. for Christmas. Ever-changing travel bans are making it seem like a holiday dream that won't come true. 
  <p class="updated_time"> 02:01 PM CT, Dec. 09 </p> 
@@ -206,6 +206,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/infrastructure-law-race-deconstructed-newsletter/index.html">'We've often been viewed as expendable:' Failed infrastructure is to blame for Honolulu's water crisis</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
+ <p class="updated_time"> 02:21 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
+ <p class="updated_time"> 02:14 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 02:09 PM CT, Dec. 09 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:54 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
- <p class="updated_time"> 12:52 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/republicans-broke-debt-ceiling-filibuster/index.html">14 GOP senators broke a filibuster to advance debt limit fast-track process</a> CNN: The Senate voted on Thursday to advance a bill to create a fast-track process allowing Democrats to raise the federal debt limit, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/migrants-dying-crossing-us-mexico-border/index.html">At least 650 migrants died crossing the US-Mexico border, the most since 2014, international agency says</a> CNN: At least 650 people died attempting to cross the US-Mexico border this year, more than any other year since an international agency began documenting deaths in 2014. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
- <p class="updated_time"> 11:21 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 11:20 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1061182786/house-retirement-tracker-2022-congress-republicans-democrats">House retirement tracker: Senior Democrats exit as the GOP is confident of a takeover</a> NPR: A growing number of House lawmakers have opted not to run again in 2022, but so far more Democrats than Republicans are choosing to end their service. 
  <p class="updated_time"> 11:02 AM CT, Dec. 09 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/bob-dole-body-capitol.html">Dole is lying in state at the Capitol, returning to the building where he served for decades.</a> NYT: President Biden spoke at the tribute, but there will be no public viewing because of the pandemic. 
- <p class="updated_time"> 10:51 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/infrastructure-law-race-deconstructed-newsletter/index.html">'We've often been viewed as expendable:' Failed infrastructure is to blame for Honolulu's water crisis</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 10:50 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/ali-alexander-january-6-deposition/index.html">'Stop the Steal' rally organizer appears for deposition with January 6 committee and pledges to cooperate</a> CNN: "Stop the Steal" leader Ali Alexander, who helped organize the rally that preceded the Capitol attack, on Thursday appeared in front of the House select committee investigating January 6 and told reporters he will cooperate. 
  <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
