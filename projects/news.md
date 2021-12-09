@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce had a meeting with UK cabinet ministers in London and is now isolating in the US. 
  <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
+ <p class="updated_time"> 06:23 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59531176?at_medium=RSS&at_campaign=KARANGA">Africa needs China and the US to work together</a> BBC: The US promotes democracy and China builds infrastructure but people in Africa want both. 
  <p class="updated_time"> 06:18 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59578618?at_medium=RSS&at_campaign=KARANGA">Afghan women: Secret diaries of changing lives</a> BBC: Five women's secret diary posts, sent to the BBC, reveal how deeply the Taliban takeover has affected them. 
  <p class="updated_time"> 06:15 PM CT, Dec. 08 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 01:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/asia/helicopter-crash-india-top-general.html">India’s Top Military General, Bipin Rawat, Dies in Helicopter Crash</a> NYT: Gen. Bipin Rawat, who was killed along with his wife and 11 others on board, was in charge of overhauling a military that has struggled to modernize. 
- <p class="updated_time"> 01:10 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59582137?at_medium=RSS&at_campaign=KARANGA">UK and Canada join diplomatic boycott of China Winter Olympics</a> BBC: The two nations say their diplomats will not attend the games, citing Chinese human rights abuses. 
  <p class="updated_time"> 12:57 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators' new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
- <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/chris-magnus-cbp-biden.html">Chris Magnus Confirmed to Lead Customs and Border Protection</a> NYT: Mr. Magnus, the police chief in Tucson, Ariz., will seek to win the trust of the U.S. Border Patrol, an agency championed by former President Donald J. Trump. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
