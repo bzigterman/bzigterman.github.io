@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 12:31 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
- <p class="updated_time"> 12:29 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 12:29 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
@@ -204,16 +204,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:48 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Starbucks workers at a Buffalo store form union in a contentious vote.</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. 
+ <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Hurdle to Raising Debt Ceiling</a> NYT: Fourteen Republicans joined Democrats in voting to take up legislation that would pave the way for Congress to raise the debt ceiling by a simple majority vote, skirting a filibuster. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
+ <p class="updated_time"> 12:34 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:30 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 12:29 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
- <p class="updated_time"> 12:20 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Hurdle to Raising Debt Ceiling</a> NYT: Fourteen Republicans joined Democrats in voting to take up legislation that would pave the way for Congress to raise the debt ceiling by a simple majority vote, skirting a filibuster. 
- <p class="updated_time"> 12:18 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:02 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
@@ -249,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/us-iran-sanctions-tighten/index.html">US looks to tighten sanctions enforcement on Iran as nuclear talks restart in Vienna</a> CNN: The Biden administration is looking to tighten enforcement of Iran-related sanctions as nuclear talks in Vienna falter and US officials continue to warn that the window for a return to the agreement is narrowing. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
+ <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate moves forward on Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
@@ -340,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
- <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
- <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478274/what-to-know-about-the-768-billion-defense-policy-bill-thats-heading-to-the-sena">What to know about the $768 billion defense policy bill that's heading to the Senate</a> NPR: NPR's Audie Cornish speaks with Politico defense reporter Connor O'Brien about the House passing a $768 billion defense policy bill. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
@@ -378,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
- <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
