@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:08 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iaq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
+ <p class="updated_time"> 02:06 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/12/09/1062185381/opinion-i-want-my-mom-to-see-her-grandkids-for-christmas-travel-bans-make-it-tou">Opinion: I want my mom to see her grandkids for Christmas. Travel bans make it tough</a> NPR: Jacqueline Muna Musiitwa was planning for her mom to fly from Zambia to the U.S. for Christmas. Ever-changing travel bans are making it seem like a holiday dream that won't come true. 
+ <p class="updated_time"> 02:01 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
- <p class="updated_time"> 01:35 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
  <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:48 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59598455?at_medium=RSS&at_campaign=KARANGA">Kenya police recruits brag: 'We are the bad ones'</a> BBC: A video of Kenyan police recruits acting in an intimidating fashion is widely condemned. 
- <p class="updated_time"> 11:31 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 11:25 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59601083?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sent home for day after lawyer falls sick</a> BBC: The lawyer - who has a non-Covid-related illness - is needed for questioning of an upcoming witness. 
  <p class="updated_time"> 11:15 AM CT, Dec. 09 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
- <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
 
@@ -206,12 +206,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
+ <p class="updated_time"> 02:09 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize. 
  <p class="updated_time"> 01:52 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
- <p class="updated_time"> 01:39 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Buffalo Starbucks Workers Vote for Union at 1 Store, Against at Another</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize. 
- <p class="updated_time"> 01:00 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 12:59 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/kash-patel-january-6-committee/index.html">Former Trump admin official Kash Patel meets with January 6 committee</a> CNN: Kash Patel, a former chief of staff to then-acting Secretary of Defense Christopher Miller, is meeting with the House committee investigating January 6, according to a source familiar. 
  <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
