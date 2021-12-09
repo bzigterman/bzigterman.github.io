@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:41 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 11:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. said the priority should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 11:07 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
+ <p class="updated_time"> 11:00 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
@@ -19,12 +25,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571712?at_medium=RSS&at_campaign=KARANGA">In pictures: Israel hands seized relics to Egypt</a> BBC: The haul includes figurines of ancient queens, hieroglyphic inscriptions and burial offerings. 
  <p class="updated_time"> 09:51 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
- <p class="updated_time"> 09:40 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
- <p class="updated_time"> 08:50 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 08:37 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 08:27 AM CT, Dec. 09 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59565558?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls' despair as Taliban confirm secondary school ban</a> BBC: The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces. 
  <p class="updated_time"> 06:09 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59556016?at_medium=RSS&at_campaign=KARANGA">FIA boss: Electric F1 racing is 'simply not possible'</a> BBC: With Formula One race distance at 200 miles, switching to electric vehicles remains a long way off. 
- <p class="updated_time"> 06:02 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59544669?at_medium=RSS&at_campaign=KARANGA">Reverse advent calendar: A simple idea helping Australians at Christmas</a> BBC: After starting her own reverse advent calendar to help others, Heather Luttrell took the idea nationwide. 
  <p class="updated_time"> 05:33 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/americas/chile-gay-marriage.html">Chile Legalizes Same-Sex Marriage at Fraught Political Moment</a> NYT: The legalization of same-sex marriage in Chile comes as the country grapples with sweeping demands for social change. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
@@ -202,12 +202,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
+ <p class="updated_time"> 11:07 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 11:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/navy-seal-commander-dies-training-accident/index.html">Commander of Navy SEAL Team 8 dies in training accident</a> CNN: The commander of the US Navy's SEAL Team 8 died Tuesday from injuries sustained in a training accident in Virginia Beach over the weekend, the Navy said. 
+ <p class="updated_time"> 10:58 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
+ <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
+ <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/bob-dole-body-capitol.html">Dole is lying in state at the Capitol, returning to the building where he served for decades.</a> NYT: President Biden spoke at the tribute, but there will be no public viewing because of the pandemic. 
+ <p class="updated_time"> 10:51 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/infrastructure-law-race-deconstructed-newsletter/index.html">'We've often been viewed as expendable:' Failed infrastructure is to blame for Honolulu's water crisis</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
+ <p class="updated_time"> 10:50 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/ali-alexander-january-6-deposition/index.html">'Stop the Steal' rally organizer appears for deposition with January 6 committee and pledges to cooperate</a> CNN: "Stop the Steal" leader Ali Alexander, who helped organize the rally that preceded the Capitol attack, on Thursday appeared in front of the House select committee investigating January 6 and told reporters he will cooperate. 
  <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
  <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/us-iran-sanctions-tighten/index.html">US looks to tighten sanctions enforcement on Iran as nuclear talks restart in Vienna</a> CNN: The Biden administration is looking to tighten enforcement of Iran-related sanctions as nuclear talks in Vienna falter and US officials continue to warn that the window for a return to the agreement is narrowing. 
- <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
@@ -220,16 +234,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/jobless-unemployment-claims-drop-524007">U.S. jobless claims drop 52-year low amid seasonal volatility</a> Politico: Unemployment claims dropped by 43,000 to 184,000 last week, the lowest since September 1969, the Labor Department said. 
  <p class="updated_time"> 09:28 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
- <p class="updated_time"> 09:27 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/navy-seal-commander-dies-training-accident/index.html">Commander of Navy SEAL Team 8 dies in training accident</a> CNN: The commander of the US Navy's SEAL Team 8 died Tuesday from injuries sustained in a training accident in Virginia Beach over the weekend, the Navy said. 
  <p class="updated_time"> 09:25 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/mitch-mcconnell-kevin-mccarthy-donald-trump-gop/index.html">McConnell-McCarthy divide grows as Trump aims to keep his grip on GOP</a> CNN: Senate Minority Leader Mitch McConnell and Rep. James Comer were sitting near each other at Cardinal Stadium late last month, watching Kentucky and Louisville's home-state football rivalry turn into a one-sided affair. 
  <p class="updated_time"> 09:21 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 09:12 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
- <p class="updated_time"> 08:50 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 08:15 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
@@ -242,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
  <p class="updated_time"> 06:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/affordable-care-act-open-enrollment/index.html">Affordable Care Act exchanges seeing record interest in heavily subsidized 2022 coverage</a> CNN: Americans are flocking to the Affordable Care Act exchanges to sign up for coverage for 2022. 
- <p class="updated_time"> 05:31 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -264,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062614961/instagram-ceo-tells-senate-panel-it-takes-the-mental-health-of-children-seriousl">Instagram CEO tells Senate panel it takes the mental health of children seriously</a> NPR: Adam Mosseri pushed back on research showing social media is harmful for mental health during testimony before the Senate Subcommittee on Consumer Protection, Product Safety and Data Security. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062614926/morning-news-brief">News brief: democracy summit, NPR political poll, Mosseri defends Instagram</a> NPR: President Biden will virtually host a summit for countries to talk about democracy. A new poll indicates the president has low approval ratings. Instagram's CEO defends the platform before Congress. 
- <p class="updated_time"> 04:07 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/affirmative-action-supreme-court-conservatives-harvard/index.html">Supreme Court conservatives may have their chance to end affirmative action at universities </a> CNN: The conservative Supreme Court led by Chief Justice John Roberts has long wanted to diminish racial remedies in American life and may now be headed toward a far-reaching decision on university affirmative action. 
  <p class="updated_time"> 04:06 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate to take up debt limit fast-track plan</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 04:01 AM CT, Dec. 09 </p> 
@@ -280,16 +286,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
  <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
- <p class="updated_time"> 09:57 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/deborah-lipstadt-envoy-nomination-anti-semitism/index.html">Senate Democrats say Republicans are holding up nomination for anti-Semitism post</a> CNN: Democrats in Congress told CNN that GOP senators are continuing to hold up the nomination of the woman President Joe Biden tapped to become the next US Envoy to Combat and Monitor Anti-Semitism, five months after she was nominated. 
  <p class="updated_time"> 09:38 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-contempt-congress/index.html">January 6 committee says it is moving forward with criminal contempt for Mark Meadows</a> CNN: The House select committee investigating the January 6 riot informed Mark Meadows that they have "no choice" but to advance criminal contempt proceedings against him given that former President Donald Trump's former chief of staff has decided to no longer cooperate with the panel, according to a new letter. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:19 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/obama-redistricting-democracy-voting/index.html">Obama says GOP gerrymandering is 'not how democracy is supposed to work'</a> CNN: Former President Barack Obama on Wednesday said "the stakes could not be higher" for democracy as he skewered Republican redistricting efforts and attempts to codify voting restrictions in state laws. 
- <p class="updated_time"> 09:10 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 08:54 PM CT, Dec. 08 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
- <p class="updated_time"> 06:32 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/north-carolina-primaries-2022-redistricting/index.html">North Carolina Supreme Court delays primaries over redistricting lawsuits</a> CNN: The North Carolina Supreme Court issued an order Wednesday that moves the state's primary elections from March 2022 to May 2022, due to lawsuits over redistricting maps for congressional and state legislative districts. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
@@ -350,10 +350,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478260/biden-signs-executive-order-to-make-the-federal-government-carbon-neutral-by-205">Biden signs executive order to make the federal government carbon-neutral by 2050</a> NPR: In a sweeping executive order, President Biden aims to cut all climate warming emissions from federal government operations. The push dates to the Obama-era, and faces a lot of challenges. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
+ <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How the Return to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
@@ -374,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 04:00 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
- <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
