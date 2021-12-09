@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 01:22 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 08:08 AM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
+ <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments were invited, and 89 came, to the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 07:51 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59595952?at_medium=RSS&at_campaign=KARANGA">China committed genocide against Uyghurs, independent tribunal rules</a> BBC: A London-based unofficial tribunal says China is deliberately preventing births among Uyghurs. 
  <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
