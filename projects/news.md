@@ -58,7 +58,9 @@ permalink: /projects/news/
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59557493?at_medium=RSS&at_campaign=KARANGA">British waste dumped in Romania</a> BBC: A BBC investigation has uncovered British waste being illegally shipped to Romania and dumped. 
  <p class="updated_time"> 11:30 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, But Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
+ <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
+ <p class="updated_time"> 11:09 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/uber-amazon-backed-deliveroo-workers-would-be-classed-as-employees-under-eu-proposal-11639044561">Uber Workers Would Be Classed as Employees Under EU Proposal</a> WSJ: Companies in what is known as the gig economy could be forced to give more benefits to their drivers and delivery personnel under a European Union proposal that would reclassify many of their jobs as employment. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
- <p class="updated_time"> 04:02 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/olympics-boycott-expands-to-include-diplomatic-officials-from-u-k-canada-11639005347">U.K. and Canada Join Olympics Boycott</a> WSJ: Countries deciding not to send official delegates to the 2022 Winter Games in Beijing also include the U.S., Australia, New Zealand, and Lithuania. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
