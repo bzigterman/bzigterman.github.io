@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
+ <p class="updated_time"> 10:51 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
+ <p class="updated_time"> 10:48 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59574530?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Jimmy Lai convicted for taking part in Tiananmen vigil</a> BBC: Jimmy Lai and other prominent activists were convicted for taking part in the unauthorised event. 
  <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 10:32 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2009 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 10:30 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59588943?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Lego to build $1bn factory in Vietnam</a> BBC: It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016. 
- <p class="updated_time"> 10:18 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566158?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Indoor air worse than outside, says study</a> BBC: India's capital routinely tops the list of the world's most polluted cities. 
- <p class="updated_time"> 09:06 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59574530?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Jimmy Lai convicted for taking part in Tiananmen vigil</a> BBC: Jimmy Lai and other prominent activists were convicted for taking part in the unauthorised event. 
  <p class="updated_time"> 08:23 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59588953?at_medium=RSS&at_campaign=KARANGA">Robbie Shakespeare, influential Sly and Robbie bassist, dies aged 68</a> BBC: The acclaimed Sly and Robbie bassist is credited with revolutionising the sound of reggae and dancehall. 
  <p class="updated_time"> 07:51 PM CT, Dec. 08 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
  <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
- <p class="updated_time"> 12:10 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/asia/india-russia-missile-defense-deal.html">India and Russia Expand Defense Ties, Despite Prospect of U.S. Sanctions</a> NYT: India’s purchase of a missile defense system signaled that it was more worried about an emboldened China at its borders than about angering the United States. 
 
 
 </details>
@@ -249,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:32 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/north-carolina-primaries-2022-redistricting/index.html">North Carolina Supreme Court delays primaries over redistricting lawsuits</a> CNN: The North Carolina Supreme Court issued an order Wednesday that moves the state's primary elections from March 2022 to May 2022, due to lawsuits over redistricting maps for congressional and state legislative districts. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
+ <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 06:12 PM CT, Dec. 08 </p> 
