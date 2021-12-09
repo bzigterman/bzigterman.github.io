@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
+ <p class="updated_time"> 03:37 AM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/india-helicopter-crash-flight-data-recorder-is-recovered-11639060677">India Helicopter Crash Flight Data Recorder Is Recovered</a> WSJ: The investigation is proceeding into the crash that killed the country’s highest-ranking military official, his wife and 11 military personnel. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 02:01 AM CT, Dec. 09 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
  <p class="updated_time"> 10:16 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and in Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
- <p class="updated_time"> 10:00 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/u-k-imposes-new-covid-19-restrictions-as-omicron-cases-double-every-few-days-11638993182">U.K. Imposes New Restrictions as Omicron Cases Double Every Few Days</a> WSJ: British authorities say the Omicron variant could result in over a million total infections by the end of the month. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
@@ -202,14 +202,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up debt ceiling workaround</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
+ <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/biden-summit-for-democracy-524006">Biden calls summit ‘inflection point’ for democracies</a> Politico: The president also said he would “keep fighting to pass” voting rights legislation. 
  <p class="updated_time"> 09:37 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jobless-unemployment-claims-drop-524007">U.S. jobless claims drop 52-year low amid seasonal volatility</a> Politico: Unemployment claims dropped by 43,000 to 184,000 last week, the lowest since September 1969, the Labor Department said. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
+ <p class="updated_time"> 09:15 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/capitol-hill-gun-arrest/index.html">Aide arrested after bringing gun to US Capitol complex</a> CNN: The Longworth House Office Building of the US Capitol complex was put on a shelter-in-place order after a Capitol staffer brought a gun into the building, multiple sources told CNN. 
+ <p class="updated_time"> 09:12 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
  <p class="updated_time"> 08:50 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 08:15 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
- <p class="updated_time"> 07:52 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:28 AM CT, Dec. 09 </p> 
@@ -302,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
- <p class="updated_time"> 06:12 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/omicron-gas-prices-inflation-what-matters/index.html">Reasons for optimism: Omicron, gas prices and inflation</a> CNN: How about a look on the bright side? 
  <p class="updated_time"> 06:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062479381/house-approves-a-bill-barring-imports-of-goods-produced-by-uighurs-in-china">House OKs a bill barring imports of goods produced by forced labor of Uyghurs in China</a> NPR: The bipartisan vote shows support for ramping up economic sanctions against the Chinese government. It bars any goods manufactured by Uyghurs in internment camps in Xinjiang. 
  <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
@@ -340,10 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 02:42 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
- <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
- <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
