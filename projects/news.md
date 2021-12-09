@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:19 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Looters held aid workers at gunpoint and stole essential food supplies from warehouses, the UN says. 
+ <p class="updated_time"> 11:16 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:51 PM CT, Dec. 08 </p> 
@@ -75,10 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
- <p class="updated_time"> 02:57 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59588109?at_medium=RSS&at_campaign=KARANGA">Netherlands to buy Rembrandt Standard Bearer self-portrait</a> BBC: The Dutch government puts aside €150m for the 1636 work, currently owned by the Rothschild family. 
- <p class="updated_time"> 02:34 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/live/2021/12/08/world/germany-scholz-merkel">Germany’s Merkel Hands Over Chancellor’s Office to Scholz</a> NYT: Chancellor Olaf Scholz and his new cabinet were sworn in, beginning a new chapter for Europe’s largest democracy. Angela Merkel wished him well and called the chancellorship “one of the most beautiful duties there are.” 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
  <p class="updated_time"> 02:03 PM CT, Dec. 08 </p> 
@@ -129,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz takes over from center-right Angela Merkel as chancellor to lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
- <p class="updated_time"> 09:21 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/arts/design/santa-barbara-ges-2-moscow-ragnar-kjartansson.html">From Soap Opera to Art: Why a Moscow Museum Is Re-Enacting ‘Santa Barbara’</a> NYT: A new contemporary art space is probing how Russia engages with the West by reviving an unlikely 1990s TV hit. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:53 PM CT, Dec. 07 </p> 
@@ -169,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062178644/riots-haven-broken-out-after-soldiers-in-india-killed-members-of-an-indigenous-t">Riots haven broken out after soldiers in India killed members of an indigenous tribe</a> NPR: The killings of more than a dozen tribal people by Indian forces threaten a shaky ceasefire in one of the world's longest-running struggles for self-determination by indigenous people. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
- <p class="updated_time"> 03:30 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/europe/ukraine-russia-war-front.html">For Ukraine's Soldiers, Anticipation of Invasion by Putin's Russia</a> NYT: After eight years in the trenches, Ukrainian soldiers are resigned to the possibility that the Russian military, which dwarfs their own in power and wealth, will come sooner or later. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html">On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition</a> NYT: As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
@@ -181,22 +177,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
  <p class="updated_time"> 07:46 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
- <p class="updated_time"> 07:23 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/biden-putin-call-ukraine.html">Biden Expected to Offer Warnings and Alternatives in Call With Putin</a> NYT: The conflict in Ukraine will be a major topic during a high-stakes video call between President Biden and Vladimir V. Putin of Russia on Tuesday. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
  <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
- <p class="updated_time"> 05:13 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/06/world/americas/us-travel-covid-testing-rules.html">Travelers to U.S. Now Must Test Negative for Covid a Day Before Flying</a> NYT: Inbound travelers must now show a negative result from a test taken no more than a day before departure, a requirement some say may be hard to satisfy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
  <p class="updated_time"> 08:54 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/arts/design/steinhardt-billionaire-stolen-antiquities.html">Michael Steinhardt, Billionaire, Surrenders $70 Million in Stolen Relics</a> NYT: The hedge fund pioneer is barred for life from buying more antiquities. He turned over 180 stolen objects that had decorated his homes and office. 
  <p class="updated_time"> 08:13 PM CT, Dec. 06 </p> 
  <a href="https://www.nytimes.com/2021/12/06/theater/selling-kabul-review.html">‘Selling Kabul’ Review: Trapped in a War, and an Apartment</a> NYT: In Sylvia Khoury’s suspenseful new play, the characters sometimes feel too much like wheels in a machine, but it’s a tense thrill to watch it work. 
- <p class="updated_time"> 07:55 PM CT, Dec. 06 </p> 
- <a href="https://www.nytimes.com/2021/12/06/us/politics/olympics-boycott-us.html">U.S. Will Not Send Government Officials to Beijing Olympics</a> NYT: American athletes will still be able to compete in the Winter Games, but the diplomatic boycott is a slap at China for human rights abuses in Xinjiang. 
 
 
 </details>
@@ -204,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062516250/researchers-explain-why-they-believe-facebook-mishandles-political-ads">Researchers explain why they believe Facebook mishandles political ads</a> NPR: "We can do a lot better," said Laura Edelson, lead author of a new study on Facebook's ad program. "This is not the state of the art of content moderation, or detection of problematic content." 
  <p class="updated_time"> 10:33 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
@@ -364,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 08:55 PM CT, Dec. 07 </p> 
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
- <p class="updated_time"> 08:36 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062146576/after-senate-leaders-broker-a-deal-the-house-takes-a-first-step-to-avoid-default">After Senate leaders broker a deal, the House takes a first step to avoid default</a> NPR: Congress is setting up a complicated process that could avoid a potential federal default. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
