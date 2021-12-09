@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
+ <p class="updated_time"> 02:59 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59593007?at_medium=RSS&at_campaign=KARANGA">US-led coalition against IS ends combat mission in Iraq</a> BBC: Troops will remain to "advise, assist and enable" Iraqi security forces to stop a resurgence of IS. 
+ <p class="updated_time"> 02:56 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 02:48 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599063?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics boycott is insignificant, says Macron</a> BBC: The French president says some Western countries' refusal to send officials has no useful outcome. 
  <p class="updated_time"> 02:47 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iaq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
+ <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/09/1062185381/opinion-i-want-my-mom-to-see-her-grandkids-for-christmas-travel-bans-make-it-tou">Opinion: I want my mom to see her grandkids for Christmas. Travel bans make it tough</a> NPR: Jacqueline Muna Musiitwa was planning for her mom to fly from Zambia to the U.S. for Christmas. Ever-changing travel bans are making it seem like a holiday dream that won't come true. 
  <p class="updated_time"> 02:01 PM CT, Dec. 09 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:48 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59598455?at_medium=RSS&at_campaign=KARANGA">Kenya police recruits brag: 'We are the bad ones'</a> BBC: A video of Kenyan police recruits acting in an intimidating fashion is widely condemned. 
- <p class="updated_time"> 11:25 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59601083?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Jury sent home for day after lawyer falls sick</a> BBC: The lawyer - who has a non-Covid-related illness - is needed for questioning of an upcoming witness. 
  <p class="updated_time"> 11:15 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599270?at_medium=RSS&at_campaign=KARANGA">Lina Wertmüller: Groundbreaking Italian film director dies aged 93</a> BBC: Wertmüller became the first woman ever to be nominated for an Oscar for best director in the 1970s. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
- <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
 
 
 </details>
@@ -206,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
+ <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5th at the age of 98. 
  <p class="updated_time"> 02:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 02:35 PM CT, Dec. 09 </p> 
@@ -360,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/house-financial-services-crypto.html">Cryptocurrency Chiefs Go to Congress for Landmark Hearing</a> NYT: For the first time, the chief executives of cryptocurrency companies faced questions from lawmakers about risk and regulation. 
  <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
- <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
