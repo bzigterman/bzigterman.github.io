@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 11:19 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Looters held aid workers at gunpoint and stole essential food supplies from warehouses, the UN says. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced "extreme intimidation" and were held at gunpoint by looters, the UN says. 
  <p class="updated_time"> 11:16 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/09/1062516250/researchers-explain-why-they-believe-facebook-mishandles-political-ads">Researchers explain why they believe Facebook mishandles political ads</a> NPR: "We can do a lot better," said Laura Edelson, lead author of a new study on Facebook's ad program. "This is not the state of the art of content moderation, or detection of problematic content." 
  <p class="updated_time"> 10:33 PM CT, Dec. 08 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/nyc-noncitizens-voting/index.html">New York City set to approve measure allowing 800,000 noncitizens to vote in local elections </a> CNN: The New York City Council on Thursday is set to approve a measure that will allow for noncitizens who are legal residents to vote in local elections. 
  <p class="updated_time"> 11:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/agenda/2021/12/08/returning-to-office-middle-class-523937">Opinion | How Returning to Office Work Is Impoverishing the Middle Class</a> Politico: The middle class is facing serious economic hardship with little of the workplace flexibility now afforded to the well-off. Here’s how employers — and government — can help. 
- <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 10:48 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ayanna-pressley-lauren-boebert-committee-resolution/index.html">Pressley introducing resolution to strip Boebert of committee assignments</a> CNN: Progressive Democratic Rep. Ayanna Pressley of Massachusetts is introducing a resolution, cosigned by other progressives, that would strip Colorado Republican Rep. Lauren Boebert of her committee assignments for her anti-Muslim and racist comments toward Democratic Rep. Ilhan Omar of Minnesota. 
  <p class="updated_time"> 09:58 AM CT, Dec. 08 </p> 
