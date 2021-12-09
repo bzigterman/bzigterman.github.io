@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as ‘ridiculous’ and ‘anti-science,’ and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
+ <p class="updated_time"> 08:54 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-supreme-court-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 07:41 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/us-russia-ukraine-energy-sanctions/index.html">US likely to hold off for now on energy sanctions for Russia, fearing impact on global prices</a> CNN: The Biden administration is drafting options for multiple rounds of harsh sanctions on Russia if it moves to invade Ukraine, but energy sanctions are likely a last resort given the impact they could have on the global economy and domestic gasoline prices, three US officials tell CNN. 
  <p class="updated_time"> 07:40 PM CT, Dec. 08 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/coal-miners-unions-climate.html">The Achilles’ Heel of Biden’s Climate Plan? Coal Miners.</a> NYT: Unions representing other workers affected by climate legislation have struck deals, but opposition from coal miners has persisted, complicating the path to enactment. 
  <p class="updated_time"> 10:44 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/supreme-court-packing-expansion.html">Debate Over ‘Packing’ Supreme Court Divides Biden Panel</a> NYT: The bipartisan group voted 34 to 0 to send the president a report analyzing ideas like Supreme Court expansion, but it declined to take a stand. 
- <p class="updated_time"> 10:38 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/defense-budget-democrats-biden.html">House Passes $768 Billion Defense Policy Bill</a> NYT: Lawmakers tossed out some bipartisan provisions as they rushed to advance the bill, which would increase the Pentagon’s budget by more than what President Biden had requested. 
  <p class="updated_time"> 10:02 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-defense-bill-budget-boost-523927">House passes compromise defense bill, backing Pentagon budget boost</a> Politico: Lawmakers approved the legislation 363-70, which saw 169 Democrats join 194 Republicans in a blowout vote. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
