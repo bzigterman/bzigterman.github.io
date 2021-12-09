@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
+ <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
  <p class="updated_time"> 01:35 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:48 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59598455?at_medium=RSS&at_campaign=KARANGA">Kenya police recruits brag: 'We are the bad ones'</a> BBC: A video of Kenyan police recruits acting in an intimidating fashion is widely condemned. 
- <p class="updated_time"> 11:46 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 11:31 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 11:25 AM CT, Dec. 09 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
- <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz takes over from center-right Angela Merkel as chancellor to lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
@@ -204,8 +204,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:05 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Starbucks Workers at a Buffalo Store Vote In Favor of a Union</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. 
+ <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 01:39 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Buffalo Starbucks Workers Vote for Union at 1 Store, Against at Another</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize. 
  <p class="updated_time"> 01:00 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 12:59 PM CT, Dec. 09 </p> 
