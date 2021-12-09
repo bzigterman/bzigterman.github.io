@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
  <p class="updated_time"> 01:29 AM CT, Dec. 09 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
+ <p class="updated_time"> 07:04 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/chinas-factory-gate-inflation-softens-in-november-11639029858">China's Factory-Gate Inflation Softens in November</a> WSJ: China’s factory-gate inflation ebbed in November after hitting a 26-year high, which economists say will give policy makers more room for easing to bolster a slowing economy. 
  <p class="updated_time"> 06:46 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59589043?at_medium=RSS&at_campaign=KARANGA">Barnaby Joyce: Australia deputy PM tests positive for Covid after UK visit</a> BBC: Barnaby Joyce had a meeting with UK cabinet ministers in London and is now isolating in the US. 
  <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
@@ -57,14 +61,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59553662?at_medium=RSS&at_campaign=KARANGA">Growing up in Iran: Every morning we had to chant ‘Death to America’</a> BBC: Iranian Rana Rahimpour moved to the UK as a young journalist and is now unable to return home for fear of arrest. 
  <p class="updated_time"> 05:26 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 05:25 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-accuses-el-salvadors-government-of-cutting-a-deal-with-gangs-11639023940">U.S. Accuses El Salvador's Government of Cutting a Deal With Gangs</a> WSJ: El Salvador’s government secretly negotiated a truce with the imprisoned leaders of the country’s top criminal gangs in exchange for financial and prison benefits, the U.S. Treasury said. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
  <p class="updated_time"> 05:12 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
- <p class="updated_time"> 04:21 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59585506?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Ex-boyfriend of Maxwell accuser backs up statement</a> BBC: The woman, known in court as Carolyn, alleged she had sex with Jeffrey Epstein from age 14 to 18. 
+ <p class="updated_time"> 04:02 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/olympics-boycott-expands-to-include-diplomatic-officials-from-u-k-canada-11639005347">U.K. and Canada Join Olympics Boycott</a> WSJ: Countries deciding not to send official delegates to the 2022 Winter Games in Beijing also include the U.S., Australia, New Zealand, and Lithuania. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
@@ -95,6 +101,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
+ <p class="updated_time"> 11:59 AM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/brazils-central-bank-raises-lending-rate-sees-increase-at-next-meeting-11639004353">Brazil's Central Bank Raises Lending Rate, Sees Increase at Next Meeting</a> WSJ: Brazil’s central bank raised its benchmark lending rate by 1.5 percentage points to 9.25% and signaled another increase of the same size at its next meeting in February as consumer prices continue their rapid rise. 
  <p class="updated_time"> 11:53 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
@@ -113,20 +121,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 05:31 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/beijing-reins-in-chinas-central-bank-11638981078">Beijing Reins In China's Central Bank</a> WSJ: The People’s Bank of China has never been politically independent like a Western central bank, but it has nonetheless enjoyed a special status in the nation’s economic hierarchy. Now, President Xi Jinping’s shake-up of China’s financial sector is stripping that away. 
- <p class="updated_time"> 04:36 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/bipin-rawat-indias-top-military-official-dies-in-helicopter-crash-11638970855">India's Top Military Official Dies in Helicopter Crash</a> WSJ: Bipin Rawat, the country’s chief of defense staff and a top aide to Prime Minister Narendra Modi, died with 12 others, including his wife, in the crash in Tamil Nadu. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 01:54 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/germanys-scholz-takes-power-after-merkels-16-year-rule-11638955183">Germany's Scholz Takes Power After Merkel's 16-Year Rule</a> WSJ: Olaf Scholz inherits longstanding challenges from his predecessor, Angela Merkel, and faces a cluster of short-term crises that could complicate his plans to modernize the German state and its economy. 
  <p class="updated_time"> 01:43 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062315189/malaysian-court-upholds-ex-premier-najibs-graft-conviction">Malaysian court upholds ex-premier Najib's graft conviction</a> NPR: An appellate court upheld the conviction and 12-year sentence for ex-Prime Minister Najib Razak for abuse of power and criminal breach of trust in connection with the IMDB state investment fund. 
- <p class="updated_time"> 01:09 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/not-vaccinated-in-singapore-youll-pay-for-your-own-covid-19-treatment-11638965343">Not Vaccinated? In Singapore, You'll Pay for Your Own Covid-19 Treatment</a> WSJ: People who haven’t received shots account for a disproportionate amount of the strain on Singapore’s healthcare resources, authorities say, so the city-state is going to stop fully covering their Covid-19 medical bills. 
- <p class="updated_time"> 12:33 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/italy-recovering-under-draghi-debates-his-premiership-11638959401">Italy, Recovering Under Draghi, Debates Premiership</a> WSJ: Italy faces a dilemma at a critical moment for its economy: Should Mario Draghi remain prime minister for another year or become the country’s largely ceremonial president for the next seven? 
  <p class="updated_time"> 12:00 AM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062130622/germany-new-chancellor-olaf-scholz-coalition-government">What you need to know about Germany's new chancellor and coalition government</a> NPR: Social Democratic politician Olaf Scholz takes over from center-right Angela Merkel as chancellor to lead a coalition of three different parties in government. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
@@ -137,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062261334/chile-same-sex-marriage">Chile's Congress approves same-sex marriage by an overwhelming majority</a> NPR: The vote on Tuesday makes Chile the eighth Latin American country to extend equal rights to same sex couples, and marks a reversal for the country's conservative leadership. 
  <p class="updated_time"> 07:41 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59547337?at_medium=RSS&at_campaign=KARANGA">Colombia gangs: 'Surrender or we'll hunt you down' warns minister</a> BBC: Following the capture of its most wanted drug lord, Colombia is going after his criminal network. 
- <p class="updated_time"> 07:40 PM CT, Dec. 07 </p> 
- <a href="https://www.wsj.com/articles/former-malaysian-prime-minister-loses-appeal-of-1mdb-conviction-11638945640">Former Malaysian Prime Minister Loses Appeal of 1MDB Conviction</a> WSJ: Najib Razak is to remain free on bail pending an appeal to Malaysia’s highest court on charges related to his role in one of the world’s largest financial scandals. 
  <p class="updated_time"> 07:03 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/us-boycott-beijing-olympics-reaction.html">How Many Countries Will Follow the U.S. Official Snub of Beijing’s Olympics?</a> NYT: Australia said it would join the diplomatic boycott. Several others have signaled that they would find ways to protest China’s human rights abuses. 
  <p class="updated_time"> 06:17 PM CT, Dec. 07 </p> 
