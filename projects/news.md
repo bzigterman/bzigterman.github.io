@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59592347?at_medium=RSS&at_campaign=KARANGA">China warns nations will 'pay price' for Olympic boycott</a> BBC: The US, UK, Australia and Canada won't be sending government representatives to the Winter Olympics. 
  <p class="updated_time"> 04:26 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59574530?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Jimmy Lai convicted for taking part in Tiananmen vigil</a> BBC: Jimmy Lai and other prominent activists were convicted for taking part in the unauthorised event. 
  <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
- <p class="updated_time"> 10:30 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-59588943?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Lego to build $1bn factory in Vietnam</a> BBC: It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016. 
  <p class="updated_time"> 09:46 PM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-moves-to-tighten-iran-sanctions-enforcement-as-nuclear-talks-stall-11639039567">U.S. Moves to Tighten Iran Sanctions Enforcement as Nuclear Talks Stall</a> WSJ: The U.S. will send a top-level delegation to the United Arab Emirates next week, the first sign of Washington increasing economic pressure on Tehran as diplomatic efforts to restore the 2015 nuclear deal falter. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
@@ -260,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
- <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:32 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/north-carolina-primaries-2022-redistricting/index.html">North Carolina Supreme Court delays primaries over redistricting lawsuits</a> CNN: The North Carolina Supreme Court issued an order Wednesday that moves the state's primary elections from March 2022 to May 2022, due to lawsuits over redistricting maps for congressional and state legislative districts. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
@@ -286,6 +284,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
+ <p class="updated_time"> 04:53 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/meadows-sues-pelosi-jan-6-select-panel-523968">Meadows sues Pelosi, Jan. 6 panel and its members</a> Politico: Donald Trump's former chief of staff has claimed he can’t discuss matters that could be covered by executive privilege. 
  <p class="updated_time"> 04:43 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-nominates-whitman-kenya-523965">Biden nominates Meg Whitman as ambassador to Kenya</a> Politico: The former business executive and California gubernatorial candidate endorsed Biden at the Democratic National Convention in August 2020. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
@@ -320,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
- <p class="updated_time"> 01:14 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
  <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
@@ -424,6 +422,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 04 </p> 
+ <a href="https://www.politico.com/news/2021/12/04/who-should-get-the-experimental-covid-pill-523757">Omicron complicates puzzle over at-home Covid pill</a> Politico: Independent advisers to the FDA endorsed the pill, molnupiravir, in an unusually tight 13-10 vote this week after airing concerns about its low efficacy rate and potential safety risks to pregnant people. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
