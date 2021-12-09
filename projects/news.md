@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
+ <p class="updated_time"> 02:38 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 02:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
- <p class="updated_time"> 01:29 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 12:37 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59568638?at_medium=RSS&at_campaign=KARANGA">Chimamanda Ngozi Adichie: ‘I want to say what I think’</a> BBC: The Nigerian writer shares her experience of grief and her thoughts on "cancel culture" and trans rights. 
  <p class="updated_time"> 06:02 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59553662?at_medium=RSS&at_campaign=KARANGA">Growing up in Iran: Every morning we had to chant ‘Death to America’</a> BBC: Iranian Rana Rahimpour moved to the UK as a young journalist and is now unable to return home for fear of arrest. 
- <p class="updated_time"> 05:26 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 05:25 PM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-accuses-el-salvadors-government-of-cutting-a-deal-with-gangs-11639023940">U.S. Accuses El Salvador's Government of Cutting a Deal With Gangs</a> WSJ: El Salvador’s government secretly negotiated a truce with the imprisoned leaders of the country’s top criminal gangs in exchange for financial and prison benefits, the U.S. Treasury said. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
