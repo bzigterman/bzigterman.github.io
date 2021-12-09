@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 PM CT, Dec. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59588953?at_medium=RSS&at_campaign=KARANGA">Robbie Shakespeare, influential Sly and Robbie bassist, dies aged 68</a> BBC: The acclaimed Sly and Robbie bassist is credited with revolutionising the sound of reggae and dancehall. 
  <p class="updated_time"> 07:51 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/australia/novak-djokovic-atp-cup.html">Novak Djokovic to Play in Australian Open, Organizers Say</a> NYT: The announcement came amid speculation about whether Djokovic would travel to Australia because of the vaccination rules. He was also listed as a player in the ATP Cup. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/08/1062352212/studies-suggest-sharp-drop-in-vaccine-protection-v-omicron-yet-cause-for-optimis">Studies suggest sharp drop in vaccine protection vs. omicron — yet cause for optimism</a> NPR: In small studies in South Africa and in Germany, the results indicate a marked decrease in the ability of vaccines to neutralize this variant. But there are other findings that are encouraging. 
  <p class="updated_time"> 10:00 AM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/u-k-imposes-new-covid-19-restrictions-as-omicron-cases-double-every-few-days-11638993182">U.K. Imposes New Restrictions as Omicron Cases Double Every Few Days</a> WSJ: British authorities say the Omicron variant could result in over a million total infections by the end of the month. 
- <p class="updated_time"> 09:55 AM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59580631?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: France releases Saudi man held over journalist's murder</a> BBC: A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday. 
  <p class="updated_time"> 09:39 AM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-59582006?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says booster shot promising against Omicron</a> BBC: The company says a third dose of its vaccine could improve protection against the new variant. 
  <p class="updated_time"> 09:31 AM CT, Dec. 08 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate votes to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
+ <p class="updated_time"> 07:28 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/us-ukraine-security-assistance-military-training/index.html">US small arms and ammo set to arrive in Ukraine as Pentagon details troops to train country's military</a> CNN: The final elements of a $60 million security assistance package will arrive in Ukraine this week, Pentagon spokesman John Kirby said Wednesday, including small arms and ammunition. 
  <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
  <p class="updated_time"> 07:23 PM CT, Dec. 08 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 06:37 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/health/omicron-variant-pfizer-vaccine.html">Pfizer’s vaccine provides some protection against Omicron, a lab study suggests.</a> NYT: A South African study found that Omicron may dull the power of coronavirus vaccines, but hinted that booster shots might help. 
- <p class="updated_time"> 05:07 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/us-citizens-evacuation-ukraine/index.html">Biden administration considering options for possibly evacuating US citizens from Ukraine if Russia invades</a> CNN: The Biden administration is exploring options for a potential evacuation of US citizens from Ukraine if Russia were to invade the country and create a dire security situation, half a dozen sources tell CNN. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
