@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:03 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: W.H.O. Warns of Vaccine Inequity as Wealthy Nations Push Boosters</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. said the priority should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 10:41 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. said the priority should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
+ <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
+ <p class="updated_time"> 10:17 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59599058?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO concerned rich countries could hoard vaccines</a> BBC: There are concerns that booster rollouts in wealthy nations could threaten supply to poorer countries. 
  <p class="updated_time"> 09:59 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571712?at_medium=RSS&at_campaign=KARANGA">In pictures: Israel hands seized relics to Egypt</a> BBC: The haul includes figurines of ancient queens, hieroglyphic inscriptions and burial offerings. 
  <p class="updated_time"> 09:51 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
- <p class="updated_time"> 09:49 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-59599058?at_medium=RSS&at_campaign=KARANGA">Omicron: WHO concerned rich countries could hoard vaccines</a> BBC: There are concerns that booster rollouts in wealthy nations could threaten supply to poorer countries. 
  <p class="updated_time"> 09:40 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
@@ -32,15 +36,13 @@ permalink: /projects/news/
  <p class="updated_time"> 07:51 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59595952?at_medium=RSS&at_campaign=KARANGA">China committed genocide against Uyghurs, independent tribunal rules</a> BBC: A London-based unofficial tribunal says China is deliberately preventing births among Uyghurs. 
  <p class="updated_time"> 07:44 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings firm’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
- <p class="updated_time"> 07:12 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Though Prime Minister Modi had unexpectedly conceded to their main demand weeks ago, the farmers had vowed to remain until the formal repeal. 
+ <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
  <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566157?at_medium=RSS&at_campaign=KARANGA">Farm laws: India farmers end protest after government accepts demands</a> BBC: The announcement was made after hectic negotiations between farmer groups and the government. 
- <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
  <p class="updated_time"> 05:56 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59592901?at_medium=RSS&at_campaign=KARANGA">Sauti Sol singer Chimano hailed in Kenya for coming out as gay</a> BBC: Kenyan gay rights activists welcome Sauti Sol star Chimano's decision to "no longer live a lie". 
+ <p class="updated_time"> 05:15 AM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 04:43 AM CT, Dec. 09 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/chinas-latest-challenge-is-engineering-a-soft-landing-for-a-sputtering-economy-11639053362">China's Challenge Is Engineering Soft Landing for a Sputtering Economy</a> WSJ: Leaders in China are trying to reverse a sharp growth slowdown without abandoning policies that triggered much of the weakness to begin with—a tricky task that could test their ability to engineer a soft landing. 
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59557493?at_medium=RSS&at_campaign=KARANGA">British waste dumped in Romania</a> BBC: A BBC investigation has uncovered British waste being illegally shipped to Romania and dumped. 
- <p class="updated_time"> 11:30 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, but Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 11:09 PM CT, Dec. 08 </p> 
  <a href="https://www.wsj.com/articles/uber-amazon-backed-deliveroo-workers-would-be-classed-as-employees-under-eu-proposal-11639044561">Uber Workers Would Be Classed as Employees Under EU Proposal</a> WSJ: Companies in what is known as the gig economy could be forced to give more benefits to their drivers and delivery personnel under a European Union proposal that would reclassify many of their jobs as employment. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up debt ceiling workaround</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
- <p class="updated_time"> 10:05 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/us-iran-sanctions-tighten/index.html">US looks to tighten sanctions enforcement on Iran as nuclear talks restart in Vienna</a> CNN: The Biden administration is looking to tighten enforcement of Iran-related sanctions as nuclear talks in Vienna falter and US officials continue to warn that the window for a return to the agreement is narrowing. 
+ <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
+ <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate takes up Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/redistricting-black-political-power/index.html">'No one with power is listening': Activists warn redistricting moves in the South threaten Black political power</a> CNN: Nicole Love Hendrickson made Georgia history last year, becoming the first Black woman elected chair of the Gwinnett County Board of Commissioners. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/navy-seal-commander-dies-training-accident/index.html">Commander of Navy SEAL Team 8 dies in training accident</a> CNN: The commander of the US Navy's SEAL Team 8 died Tuesday from injuries sustained in a training accident in Virginia Beach over the weekend, the Navy said. 
  <p class="updated_time"> 09:25 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/mitch-mcconnell-kevin-mccarthy-donald-trump-gop/index.html">McConnell-McCarthy divide grows as Trump aims to keep his grip on GOP</a> CNN: Senate Minority Leader Mitch McConnell and Rep. James Comer were sitting near each other at Cardinal Stadium late last month, watching Kentucky and Louisville's home-state football rivalry turn into a one-sided affair. 
- <p class="updated_time"> 09:24 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/us-russia-ukraine-energy-sanctions/index.html">US likely to hold off for now on energy sanctions for Russia, fearing impact on global prices</a> CNN: The Biden administration is drafting options for multiple rounds of harsh sanctions on Russia if it moves to invade Ukraine, but energy sanctions are likely a last resort given the impact they could have on the global economy and domestic gasoline prices, three US officials tell CNN. 
  <p class="updated_time"> 09:21 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 09:12 AM CT, Dec. 09 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478274/what-to-know-about-the-768-billion-defense-policy-bill-thats-heading-to-the-sena">What to know about the $768 billion defense policy bill that's heading to the Senate</a> NPR: NPR's Audie Cornish speaks with Politico defense reporter Connor O'Brien about the House passing a $768 billion defense policy bill. 
- <p class="updated_time"> 03:39 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
  <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
