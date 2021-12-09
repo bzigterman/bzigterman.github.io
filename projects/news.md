@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 12:56 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: F.D.A. Authorizes Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 12:31 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
- <p class="updated_time"> 12:29 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:48 AM CT, Dec. 09 </p> 
@@ -204,6 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
+ <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
  <p class="updated_time"> 12:48 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Starbucks workers at a Buffalo store form union in a contentious vote.</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
@@ -211,15 +217,13 @@ permalink: /projects/news/
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
  <p class="updated_time"> 12:34 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate advances debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
- <p class="updated_time"> 12:30 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
+ <a href="https://www.cnn.com/2021/12/09/politics/fact-check-missouri-schmitt-biden-travel/index.html">Fact check: Missouri attorney general's scathing letter to Biden begins with false claim </a> CNN: President Joe Biden visited Missouri on Wednesday to promote the infrastructure law he signed in November. And Missouri Attorney General Eric Schmitt, a Republican who is also a US Senate candidate in the 2022 election, greeted Biden with a scathing letter -- one which began with a false claim. 
  <p class="updated_time"> 12:29 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
+ <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 12:02 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
  <p class="updated_time"> 11:33 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/kash-patel-january-6-committee/index.html">Former Trump admin official Kash Patel meets with January 6 committee</a> CNN: Kash Patel, a former chief of staff to then-acting Secretary of Defense Christopher Miller, is meeting with the House committee investigating January 6, according to a source familiar. 
- <p class="updated_time"> 11:29 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
  <p class="updated_time"> 11:21 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 11:20 AM CT, Dec. 09 </p> 
@@ -252,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/business/economy/inflation-price-gains.html">Here's Why Inflation Is Worrying Washington</a> NYT: Price gains have moved up sharply for months, but the fact that the trend is lasting and broadening has newly put policymakers on red alert. 
  <p class="updated_time"> 10:24 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/ali-alexander-jan-6-house-testimony.html">Rally Planner With Ties to G.O.P. Is Cooperating in Jan. 6 Inquiry</a> NYT: Ali Alexander, who helped organize the gathering that drew Trump supporters to Washington on Jan. 6, could shed light on efforts by the former president and his allies to overturn the election. 
- <p class="updated_time"> 10:21 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/us-iran-sanctions-tighten/index.html">US looks to tighten sanctions enforcement on Iran as nuclear talks restart in Vienna</a> CNN: The Biden administration is looking to tighten enforcement of Iran-related sanctions as nuclear talks in Vienna falter and US officials continue to warn that the window for a return to the agreement is narrowing. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Senate moves forward on Schumer-McConnell debt pact</a> Politico: The loophole would allow Democrats to raise the debt ceiling with a simple Senate majority on a one-time basis, circumventing the need for GOP support. 
  <p class="updated_time"> 09:53 AM CT, Dec. 09 </p> 
@@ -314,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
- <p class="updated_time"> 09:19 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/obama-redistricting-democracy-voting/index.html">Obama says GOP gerrymandering is 'not how democracy is supposed to work'</a> CNN: Former President Barack Obama on Wednesday said "the stakes could not be higher" for democracy as he skewered Republican redistricting efforts and attempts to codify voting restrictions in state laws. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 08:54 PM CT, Dec. 08 </p> 
@@ -346,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
  <p class="updated_time"> 04:22 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/bob-dole-biden-tribute/index.html">Biden pays tribute to 'American giant' Bob Dole as 'a man of extraordinary courage'</a> CNN: President Joe Biden on Wednesday paid tribute to the late Sen. Bob Dole, hailing the Kansas Republican as an "American giant" in remarks from Kansas City, Missouri. 
  <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
