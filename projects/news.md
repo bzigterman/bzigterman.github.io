@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
- <p class="updated_time"> 04:44 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -206,10 +206,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">System failure: How China won WTO entry and beat the global trading system</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
+ <p class="updated_time"> 05:02 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/nyc-noncitizens-local-elections-voting-rights/index.html">New York City gives noncitizens right to vote in local elections </a> CNN: New York City on Thursday became the largest municipality in the US to allow noncitizens to vote in local elections 
  <p class="updated_time"> 04:52 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
  <p class="updated_time"> 04:51 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
+ <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/police-use-of-force-database/index.html">FBI may have to shut down federal use-of-force database due to low participation from law enforcement</a> CNN: The FBI has one more year to figure out how to collect use-of-force statistics from thousands of law enforcement agencies across the country before their efforts to publicize and reform police practices will get shutdown, according to a report by the US Government Accountability Office. 
  <p class="updated_time"> 04:44 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
@@ -241,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 02:21 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
+ <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York attorney general subpoenas Trump for testimony in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 12:59 PM CT, Dec. 09 </p> 
@@ -268,14 +274,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062713684/mark-meadows-jan-6-committee-lawsuit-nancy-pelosi">Mark Meadows is suing the Jan. 6 committee as it moves to hold him in contempt</a> NPR: Mark Meadows is suing House Speaker Nancy Pelosi and the House Jan. 6 committee, asking a judge to block enforcement of two subpoenas it had issued for himself and Verizon. 
- <p class="updated_time"> 11:50 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/migrants-dying-crossing-us-mexico-border/index.html">At least 650 migrants died crossing the US-Mexico border, the most since 2014, international agency says</a> CNN: At least 650 people died attempting to cross the US-Mexico border this year, more than any other year since an international agency began documenting deaths in 2014. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
  <p class="updated_time"> 11:20 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1061182786/house-retirement-tracker-2022-congress-republicans-democrats">House retirement tracker: Senior Democrats exit as the GOP is confident of a takeover</a> NPR: A growing number of House lawmakers have opted not to run again in 2022, but so far more Democrats than Republicans are choosing to end their service. 
- <p class="updated_time"> 10:58 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/trump-2024-republican-presidential-candidates/index.html">Won't-run-if-Trump-runs question leads to waiting game for likely 2024 candidates</a> CNN: Donald Trump's wait-and-see approach to the 2024 election has frozen the next Republican presidential primary before it's even begun. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
- <p class="updated_time"> 07:40 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/senate-resolution-opposing-biden-vaccine-mandate/index.html">Senate votes to overturn Biden vaccine mandate for businesses</a> CNN: Republicans in the Senate are expected to win a vote -- as soon as Wednesday -- to overturn President Joe Biden's Covid-19 vaccine mandate for private businesses with 100 or more employees. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
@@ -366,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
- <p class="updated_time"> 01:14 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
@@ -386,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
- <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
