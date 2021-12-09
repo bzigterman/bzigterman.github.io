@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:44 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
+ <p class="updated_time"> 06:44 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Prime Minister of Finland Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
- <p class="updated_time"> 06:06 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
  <p class="updated_time"> 05:56 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59592901?at_medium=RSS&at_campaign=KARANGA">Sauti Sol singer Chimano hailed in Kenya for coming out as gay</a> BBC: Kenyan gay rights activists welcome Sauti Sol star Chimano's decision to "no longer live a lie". 
- <p class="updated_time"> 05:26 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-apologizes-nightclub.html">Prime Minister of Finland Apologizes for Clubbing Maskless After Contact with an Infected Official</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 05:21 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59592571?at_medium=RSS&at_campaign=KARANGA">Human remains found in car linked to 45-year-old cold case</a> BBC: Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:22 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/texas-florida-uptick-obamacare-enrollment-524005">Texas, Florida see uptick in Obamacare enrollment</a> Politico: Enrollment is up 20 percent in Texas and 9 percent in Florida compared to this time last year. 
  <p class="updated_time"> 06:18 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062614933/worlds-democracies-meet-to-show-solidarity-against-a-rising-tide-of-authoritaria">World's democracies meet to show solidarity against a rising tide of authoritarianism</a> NPR: President Biden has invited more than 100 countries to a virtual summit on democracy. But some of the names on the list are drawing questions over their own democratic practices. 
  <p class="updated_time"> 06:15 AM CT, Dec. 09 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
  <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935">Pfizer says its booster shot can protect against Omicron</a> Politico: The companies said a third dose appears to provide a similar number of antibodies as a two-dose series against the original virus and other variants. 
- <p class="updated_time"> 08:45 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/suspect-charged-fox-news-christmas-tree-fire-523932">‘It’s beginning to look a lot like arson’: Suspect charged in Fox News Christmas tree fire</a> Politico: “We’re going to rebuild it, and we’re going to build it back better,” vowed “Fox & Friends” co-host Ainsley Earhardt. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
