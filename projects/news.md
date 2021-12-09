@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 07:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
- <p class="updated_time"> 07:13 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 07:12 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Though Prime Minister Modi had unexpectedly conceded to their main demand weeks ago, the farmers had vowed to remain until the formal repeal. 
  <p class="updated_time"> 07:04 AM CT, Dec. 09 </p> 
@@ -196,16 +196,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:29 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">Biden set to speak at long-promised virtual 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
+ <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:28 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/mitch-mcconnell-kevin-mccarthy-donald-trump-gop/index.html">McConnell-McCarthy divide grows as Trump aims to keep his grip on GOP</a> CNN: Senate Minority Leader Mitch McConnell and Rep. James Comer were sitting near each other at Cardinal Stadium late last month, watching Kentucky and Louisville's home-state football rivalry turn into a one-sided affair. 
  <p class="updated_time"> 07:22 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/texas-florida-uptick-obamacare-enrollment-524005">Texas, Florida see uptick in Obamacare enrollment</a> Politico: Enrollment is up 20 percent in Texas and 9 percent in Florida compared to this time last year. 
- <p class="updated_time"> 07:13 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 06:18 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062614933/worlds-democracies-meet-to-show-solidarity-against-a-rising-tide-of-authoritaria">World's democracies meet to show solidarity against a rising tide of authoritarianism</a> NPR: President Biden has invited more than 100 countries to a virtual summit on democracy. But some of the names on the list are drawing questions over their own democratic practices. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
@@ -430,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Dec. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/03/crisis-averted-after-conservatives-cave-495309">POLITICO Playbook: Crisis averted after conservatives cave</a> Politico: And Nikki Haley kisses Donald Trump’s ring. 
- <p class="updated_time"> 07:31 AM CT, Dec. 02 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/02/shutdown-countdown-495294">Shutdown countdown</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
