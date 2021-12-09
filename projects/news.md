@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:38 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 07:58 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
+ <p class="updated_time"> 07:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 07:51 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59595952?at_medium=RSS&at_campaign=KARANGA">China committed genocide against Uyghurs, independent tribunal rules</a> BBC: A London-based unofficial tribunal says China is deliberately preventing births among Uyghurs. 
  <p class="updated_time"> 07:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 07:12 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Though Prime Minister Modi had unexpectedly conceded to their main demand weeks ago, the farmers had vowed to remain until the formal repeal. 
- <p class="updated_time"> 07:04 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Hospitals Feel Strained as Virus Cases Surge Again</a> NYT: As Delta continues to drive hospitalizations, health care workers said their situations had been worsened by staff shortages, illnesses and resistance to vaccine mandates. 
  <p class="updated_time"> 07:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566157?at_medium=RSS&at_campaign=KARANGA">Farm laws: India farmers end protest after government accepts demands</a> BBC: The announcement was made after hectic negotiations between farmer groups and the government. 
  <p class="updated_time"> 06:44 AM CT, Dec. 09 </p> 
@@ -49,8 +51,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
+ <p class="updated_time"> 01:36 AM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/chinas-latest-challenge-is-engineering-a-soft-landing-for-a-sputtering-economy-11639053362">China's Challenge Is Engineering Soft Landing for a Sputtering Economy</a> WSJ: Leaders in China are trying to reverse a sharp growth slowdown without abandoning policies that triggered much of the weakness to begin with—a tricky task that could test their ability to engineer a soft landing. 
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59557493?at_medium=RSS&at_campaign=KARANGA">British waste dumped in Romania</a> BBC: A BBC investigation has uncovered British waste being illegally shipped to Romania and dumped. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/biden-hosts-summit-for-democracy-but-whos-invited-and-not-draws-questions-11639045806">Biden Hosts Summit for Democracy, But Invitation List Draws Questions</a> WSJ: More than 100 democratic governments are attending the virtual gathering intended to showcase democracy’s advantages. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
@@ -67,10 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
- <p class="updated_time"> 07:04 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/chinas-factory-gate-inflation-softens-in-november-11639029858">China's Factory-Gate Inflation Softens in November</a> WSJ: China’s factory-gate inflation ebbed in November after hitting a 26-year high, which economists say will give policy makers more room for easing to bolster a slowing economy. 
- <p class="updated_time"> 06:38 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59584975?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Lawmakers to hold ex-Trump chief of staff in contempt</a> BBC: Former chief of staff Mark Meadows has also sued the 6 January committee members. 
  <p class="updated_time"> 06:23 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59531176?at_medium=RSS&at_campaign=KARANGA">Africa needs China and the US to work together</a> BBC: The US promotes democracy and China builds infrastructure but people in Africa want both. 
  <p class="updated_time"> 06:18 PM CT, Dec. 08 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062435944/uae-work-week-change-saturday-sunday-weekends-global-markets">The UAE is adopting a 4.5-day workweek and a Saturday-Sunday weekend</a> NPR: The change will apply to federal government entities starting in January. UAE officials hope it will enhance workers' well-being and boost the country's economic competitiveness. 
  <p class="updated_time"> 12:37 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
- <p class="updated_time"> 11:59 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/brazils-central-bank-raises-lending-rate-sees-increase-at-next-meeting-11639004353">Brazil's Central Bank Raises Lending Rate, Sees Increase at Next Meeting</a> WSJ: Brazil’s central bank raised its benchmark lending rate by 1.5 percentage points to 9.25% and signaled another increase of the same size at its next meeting in February as consumer prices continue their rapid rise. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
  <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
- <p class="updated_time"> 05:31 AM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/beijing-reins-in-chinas-central-bank-11638981078">Beijing Reins In China's Central Bank</a> WSJ: The People’s Bank of China has never been politically independent like a Western central bank, but it has nonetheless enjoyed a special status in the nation’s economic hierarchy. Now, President Xi Jinping’s shake-up of China’s financial sector is stripping that away. 
  <p class="updated_time"> 04:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/indonesia-volcano-eruption.html">Photos From Indonesia Volcano: Death Toll Rises </a> NYT: About 17 people were still missing as rescuers searched for survivors buried under volcanic ash. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
@@ -196,8 +194,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:38 AM CT, Dec. 09 </p> 
+ <p class="updated_time"> 07:56 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
+ <p class="updated_time"> 07:52 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:29 AM CT, Dec. 09 </p> 
@@ -240,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate to take up debt limit fast-track plan</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 04:01 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062453165/npr-marist-poll-biden-democrats-infrastructure-build-back-better">A new poll finds major warning signs for Biden and fellow Democrats</a> NPR: The NPR/Marist survey has President Biden with a 42% approval rating. Americans also don't feel the direct payments or expanded child tax credits Democrats doled out helped them much. 
- <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-pandemic.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 11:24 PM CT, Dec. 08 </p> 
