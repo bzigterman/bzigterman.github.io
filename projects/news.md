@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: Federal Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 02:48 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59599063?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics boycott is insignificant, says Macron</a> BBC: The French president says some Western countries' refusal to send officials has no useful outcome. 
+ <p class="updated_time"> 02:47 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer-BioNTech Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iaq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59595952?at_medium=RSS&at_campaign=KARANGA">China committed genocide against Uyghurs, independent tribunal rules</a> BBC: A London-based unofficial tribunal says China is deliberately preventing births among Uyghurs. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
- <p class="updated_time"> 04:43 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59592347?at_medium=RSS&at_campaign=KARANGA">China warns nations will 'pay price' for Olympic boycott</a> BBC: The US, UK, Australia and Canada won't be sending government representatives to the Winter Olympics. 
  <p class="updated_time"> 04:26 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
@@ -293,9 +293,9 @@ permalink: /projects/news/
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/defense-pentagon-policy-progressives-523964">Progressives get rolled on Pentagon policy</a> Politico: Liberal Democrats' losses show the limits of their party's slim majorities in Congress. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -340,6 +340,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062542865/north-carolina-delays-2022-primaries-to-give-redistricting-challenges-more-time">North Carolina delays 2022 primaries to give redistricting challenges more time</a> NPR: The midterm primaries for North Carolina's U.S. Senate seat, 14 U.S. House seats and 170 legislative seats have been moved from March until May by the state Supreme Court due to voting map lawsuits. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
+ <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:22 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/jussie-smollett-jury-deliberations-523973">Jury completes deliberations for day in Jussie Smollett trial</a> Politico: At issue is whether the actor fabricated a hate crime against himself. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
@@ -364,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
  <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
+ <p class="updated_time"> 01:14 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/tish-james-new-york-governor-523946">Tish James is running for New York governor. Mostly from her office.</a> Politico: “It’s almost as though she’s taking a Rose Garden strategy," said consultant Bill O'Reilly. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/sending-us-combat-troops-to-ukraine-not-in-the-cards-right-now-biden-says-523938">Sending U.S. combat troops to Ukraine ‘not in the cards right now,’ Biden says</a> Politico: Biden’s remarks come one day after his call with Russian President Vladimir Putin. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
@@ -382,6 +386,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
@@ -404,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 10:36 AM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/kamala-harris-maternal-health-day-of-action/index.html">Harris marks Maternal Health Day of Action at White House summit</a> CNN: Vice President Kamala Harris will mark the White House's first ever Maternal Health Day of Action on Tuesday when she hosts a summit with lawmakers, Cabinet secretaries and celebrities, a White House official said 
+ <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s ‘zero Covid strategy’ chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
@@ -414,12 +422,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/devin-nunes-will-leave-congress-523826">Nunes quits Congress for Trump Media job</a> Politico: The lawmaker is a prolific fundraiser whose war chest contained nearly $12 million as of the end of September. 
- <p class="updated_time"> 03:32 PM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/biden-drug-pricing-social-spending-523820">Biden touts drug pricing plan in push for social spending bill</a> Politico: The president nudged Democratic senators to push through his Build Back Better plan, which includes several measures designed to alleviate burdens on consumers. 
  <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
