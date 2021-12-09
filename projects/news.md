@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
  <p class="updated_time"> 01:29 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 12:37 AM CT, Dec. 09 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html">Early Omicron Reports Say Illness May Be Less Severe</a> NYT: Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true. 
  <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
- <p class="updated_time"> 03:49 PM CT, Dec. 07 </p> 
- <a href="https://www.npr.org/2021/12/07/1062178644/riots-haven-broken-out-after-soldiers-in-india-killed-members-of-an-indigenous-t">Riots haven broken out after soldiers in India killed members of an indigenous tribe</a> NPR: The killings of more than a dozen tribal people by Indian forces threaten a shaky ceasefire in one of the world's longest-running struggles for self-determination by indigenous people. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
  <p class="updated_time"> 02:51 PM CT, Dec. 07 </p> 
