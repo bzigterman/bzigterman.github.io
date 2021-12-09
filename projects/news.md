@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
- <p class="updated_time"> 05:31 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 05:48 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599142?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor found guilty of lying about attack</a> BBC: A jury convicted the former Empire actor of five of six counts of felony disorderly conduct. 
+ <p class="updated_time"> 05:47 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
+ <p class="updated_time"> 05:40 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59599279?at_medium=RSS&at_campaign=KARANGA">Capitol riot: US appeals court rejects Trump's request to block files</a> BBC: A panel investigating the Capitol riot wants to see the ex-president's White House records. 
  <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:48 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59598455?at_medium=RSS&at_campaign=KARANGA">Kenya police recruits brag: 'We are the bad ones'</a> BBC: A video of Kenyan police recruits acting in an intimidating fashion is widely condemned. 
- <p class="updated_time"> 11:15 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59599270?at_medium=RSS&at_campaign=KARANGA">Lina Wertmüller: Groundbreaking Italian film director dies aged 93</a> BBC: Wertmüller became the first woman ever to be nominated for an Oscar for best director in the 1970s. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
  <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
