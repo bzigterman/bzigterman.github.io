@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-apologizes-nightclub.html">Prime Minister of Finland Apologizes for Clubbing Maskless After Contact with an Infected Official</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
+ <p class="updated_time"> 05:21 AM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59592571?at_medium=RSS&at_campaign=KARANGA">Human remains found in car linked to 45-year-old cold case</a> BBC: Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales. 
  <p class="updated_time"> 04:52 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 04:50 AM CT, Dec. 09 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59590576?at_medium=RSS&at_campaign=KARANGA">Epstein and Maxwell pictured at Queen's residence at Balmoral</a> BBC: The image of the couple at Balmoral was shown to a US court on Wednesday. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
- <p class="updated_time"> 12:37 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59557493?at_medium=RSS&at_campaign=KARANGA">British waste dumped in Romania</a> BBC: A BBC investigation has uncovered British waste being illegally shipped to Romania and dumped. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/asia/china-biden-democracy-summit.html">Ahead of Biden’s Democracy Summit, China Says: We’re Also a Democracy</a> NYT: Beijing argues that its system represents a distinctive form of democracy, one that has dealt better than the West with challenges like the pandemic. 
  <p class="updated_time"> 06:41 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/prison-college-graduate-devon-simmons.html">It’s Never Too Late to Go to College and Rewrite Your Story</a> NYT: Devon Simmons served 15 years in prison for crimes he committed as a teenager. Since then, he’s been on a mission to remake not just his own life, but the legal system itself. 
- <p class="updated_time"> 05:32 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/germany-olaf-scholz-chancellor.html">Can Olaf Scholz, Germany’s New Chancellor, Revive the Left in Europe?</a> NYT: Olaf Scholz wants to win back workers who defected to the populist far right. Success could make him a model for Social Democrats everywhere. 
  <p class="updated_time"> 04:00 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/asia/sri-lanka-organic-farming-fertilizer.html">Sri Lanka’s Plunge Into Organic Farming Brings Disaster</a> NYT: The economically troubled country banned chemical fertilizers without preparing farmers, prompting a surge in food prices and worries about shortages. 
 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:31 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -289,7 +291,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:53 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html">Mark Meadows sues House January 6 committee</a> CNN: Former Trump White House chief of Staff Mark Meadows is suing the House special committee investigating January 6 and House Speaker Nancy Pelosi. 
  <p class="updated_time"> 05:52 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/fact-check-perdue-kemp-abrams/index.html">Fact check: David Perdue falsely claims Brian Kemp turned over control of Georgia elections to Stacey Abrams</a> CNN: Former Sen. David Perdue of Georgia launched his campaign for governor on Monday with a false claim about his chief opponent in the Republican primary, incumbent Gov. Brian Kemp. 
+ <a href="https://www.cnn.com/2021/12/08/politics/fact-check-perdue-kemp-abrams/index.html">Fact check: Perdue falsely claims Kemp turned over control of Georgia elections to Abrams</a> CNN: Former Sen. David Perdue of Georgia launched his campaign for governor on Monday with a false claim about his chief opponent in the Republican primary, incumbent Gov. Brian Kemp. 
  <p class="updated_time"> 05:29 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/ilhan-omar-bill-islamophobia/index.html">House to advance legislation to combat Islamophobia as pressure mounts to punish Boebert for anti-Muslim comments</a> CNN: The House is planning to advance Democratic Rep. Ilhan Omar's legislation to create a special envoy to combat Islamophobia on Thursday, marking the first step members are taking since Republican Rep. Lauren Boebert's anti-Muslim comments calling Omar a terrorist. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 01:08 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/canada-diplomatic-boycott-olympics-523942">Canada joins diplomatic boycott of Beijing Olympics</a> Politico: Trudeau: "We have been very clear over the past many years of our deep concerns around human rights violations." 
- <p class="updated_time"> 12:40 PM CT, Dec. 08 </p> 
- <a href="https://www.cnn.com/2021/12/08/politics/china-russia-biden-us-democracy-summit/index.html">China and Russia attack Biden's 'so-called' Summit of Democracy </a> CNN: Chinese and Russian state media are working in overdrive to denigrate the Biden administration's Summit for Democracy taking place this week, calling the project hypocritical. 
  <p class="updated_time"> 12:31 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/military-sexual-assault-congress.html">Lawmakers Reach Deal to Overhaul How Military Handles Sexual Assault Cases</a> NYT: Under the agreement, commanders’ powers would be clipped after years of complaints about unfairness and retaliation. 
  <p class="updated_time"> 12:15 PM CT, Dec. 08 </p> 
