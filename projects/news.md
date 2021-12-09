@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59589775?at_medium=RSS&at_campaign=KARANGA">New Zealand to ban cigarettes for future generations</a> BBC: No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws. 
  <p class="updated_time"> 10:30 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59588943?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Lego to build $1bn factory in Vietnam</a> BBC: It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016. 
+ <p class="updated_time"> 09:46 PM CT, Dec. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-moves-to-tighten-iran-sanctions-enforcement-as-nuclear-talks-stall-11639039567">U.S. Moves to Tighten Iran Sanctions Enforcement as Nuclear Talks Stall</a> WSJ: The U.S. will send a top-level delegation to the United Arab Emirates next week, the first sign of Washington increasing economic pressure on Tehran as diplomatic efforts to restore the 2015 nuclear deal falter. 
  <p class="updated_time"> 09:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59566158?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Indoor air worse than outside, says study</a> BBC: India's capital routinely tops the list of the world's most polluted cities. 
  <p class="updated_time"> 08:23 PM CT, Dec. 08 </p> 
