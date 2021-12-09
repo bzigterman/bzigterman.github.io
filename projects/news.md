@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 01:52 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
  <p class="updated_time"> 01:39 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/starbucks-buffalo-union-vote.html">Buffalo Starbucks Workers Vote for Union at 1 Store, Against at Another</a> NYT: The coffee chain’s executives sought to convince workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize. 
  <p class="updated_time"> 01:00 PM CT, Dec. 09 </p> 
@@ -220,12 +222,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York Attorney General wants to depose Trump in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/republicans-broke-debt-ceiling-filibuster/index.html">14 GOP senators broke a filibuster to advance debt limit fast-track process</a> CNN: The Senate voted on Thursday to advance a bill to create a fast-track process allowing Democrats to raise the federal debt limit, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
- <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/letitia-james-ends-governor-campaign/index.html">New York Attorney General Letitia James ends bid for governor and will instead run for reelection</a> CNN: New York Attorney General Letitia James announced Thursday that she is ending her bid for governor of the state and instead running for reelection. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dole-foundation-cut-ties-january-6-organizer/index.html">Dole foundation cuts ties with organizer helping with funeral for alleged role in January 6</a> CNN: The Elizabeth Dole Foundation confirms it has cut ties with event organizer Tim Unes who was working on late Senate Majority Leader Bob Dole's funeral arrangements because of Unes' alleged role in helping to organize the January 6 "Stop the Steal" rally, which ultimately led to the storming of the US Capitol. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Hurdle to Raising Debt Ceiling</a> NYT: Fourteen Republicans joined Democrats in voting to take up legislation that would pave the way for Congress to raise the debt ceiling by a simple majority vote, skirting a filibuster. 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Major Hurdle to Raising Debt Ceiling</a> NYT: Fourteen Republicans joined Democrats in voting to take up legislation that would pave the way for Congress to raise the debt ceiling by a simple majority vote, skirting a filibuster. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
  <p class="updated_time"> 12:34 PM CT, Dec. 09 </p> 
