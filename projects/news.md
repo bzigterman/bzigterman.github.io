@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 12:37 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59576082?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: Tributes for India's top general who died in helicopter crash</a> BBC: The US, Russia and Pakistan express shock over General Bipin Rawat's death in a helicopter crash. 
  <p class="updated_time"> 12:01 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59557493?at_medium=RSS&at_campaign=KARANGA">British waste dumped in Romania</a> BBC: A BBC investigation has uncovered British waste being illegally shipped to Romania and dumped. 
- <p class="updated_time"> 11:51 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 11:19 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59588956?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: UN halts food aid in two towns after warehouses looted</a> BBC: Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
@@ -358,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/07/1062192097/house-passes-ndaa-national-defense-authorization-act">The House OKs a bipartisan defense policy bill that includes servicemember pay boost</a> NPR: The National Defense Authorization Act would also overhaul the military justice system. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/senate-biden-saudi-arabia-523915">Senate backs Biden admin weapons sale to Saudi Arabia</a> Politico: At issue was whether to punish the kingdom for its human rights abuses and its involvement in Yemen’s civil war. 
+ <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">‘Greetings, Mr. President’: Biden and Putin Hold 2-Hour Virtual Summit</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 07:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/chris-magnus-cbp-biden.html">Chris Magnus Confirmed to Lead Customs and Border Protection</a> NYT: Mr. Magnus, the police chief in Tucson, Ariz., will seek to win the trust of the U.S. Border Patrol, an agency championed by former President Donald J. Trump. 
  <p class="updated_time"> 07:07 PM CT, Dec. 07 </p> 
