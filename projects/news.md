@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59606655?at_medium=RSS&at_campaign=KARANGA">Taylor Swift to face trial in Shake It Off copyright case</a> BBC: The phrase "haters gonna hate" is at the centre of the case, which had previously been dismissed. 
  <p class="updated_time"> 02:26 AM CT, Dec. 10 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
  <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
- <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
- <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
 
 
 </details>
@@ -200,6 +200,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy faces make or break moment with proxy voting case</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">He had to raise menu prices 3 times this year to survive, as prices kept climbing</a> NPR: More businesses are passing their own higher costs on to consumers as inflation hits a multi-decade high. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats' struggles to sell Biden's agenda mirror past messaging woes</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
@@ -328,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:22 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/texas-florida-uptick-obamacare-enrollment-524005">Texas, Florida see uptick in Obamacare enrollment</a> Politico: Enrollment is up 20 percent in Texas and 9 percent in Florida compared to this time last year. 
- <p class="updated_time"> 06:18 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062614933/worlds-democracies-meet-to-show-solidarity-against-a-rising-tide-of-authoritaria">World's democracies meet to show solidarity against a rising tide of authoritarianism</a> NPR: President Biden has invited more than 100 countries to a virtual summit on democracy. But some of the names on the list are drawing questions over their own democratic practices. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
@@ -340,18 +350,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
- <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062501249/why-biden-is-hosting-more-than-100-countries-to-talk-about-democracy">Why Biden is hosting more than 100 countries to talk about democracy</a> NPR: The White House wants to boost global commitments to human rights and fighting corruption. But as the summit convenes, American democracy itself is under pressure. 
- <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
- <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062615010/revisiting-a-2005-conversation-with-bob-dole">Revisiting Steve Inskeep's 2005 conversation with Bob Dole</a> NPR: Bob Dole, who died Sunday, will lie in state Thursday at the U.S. Capitol — acknowledging decades of service as a GOP senator, vice presidential candidate and presidential nominee. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
- <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
- <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/project-veritas-special-master.html">Judge Appoints Special Master to Review Material Seized From Project Veritas</a> NYT: The group had sought the action to protect material covered by attorney-client privilege and what it said were its First Amendment rights. 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
