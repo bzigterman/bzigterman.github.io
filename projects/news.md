@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:06 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves 49 Dead</a> NYT: Dozens more were reported injured in the crash in southern Chiapas state, where many migrants regularly cross into Mexico from Central America. 
- <p class="updated_time"> 07:59 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 08:35 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
+ <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
+ <p class="updated_time"> 08:22 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves 53 Dead</a> NYT: Dozens more were reported injured in the crash in southern Chiapas state, where many migrants regularly cross into Mexico from Central America. 
+ <p class="updated_time"> 08:20 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59604011?at_medium=RSS&at_campaign=KARANGA">Mothers reborn: The surprising benefits of lifelike dolls</a> BBC: Reborn dolls are hyper-realistic dummies, treated like real children, given a birthing ceremony and even a heartbeat. 
+ <p class="updated_time"> 08:10 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59604211?at_medium=RSS&at_campaign=KARANGA">Margaret River bushfires: Blazes force evacuations in Australia tourist region</a> BBC: The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
  <p class="updated_time"> 07:51 PM CT, Dec. 09 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062475770/as-the-omicron-covid-variant-spreads-experts-sound-warning-on-vaccine-access">Fix the global vaccine rollout or face even worse COVID variants, experts warn</a> NPR: The world has "lost the plot" on equitable vaccine access and is falling far short of targets to vaccinate the global south, according to scathing assessments from experts. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
- <p class="updated_time"> 03:56 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
  <p class="updated_time"> 03:36 PM CT, Dec. 09 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:59 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59593007?at_medium=RSS&at_campaign=KARANGA">US-led coalition against IS ends combat mission in Iraq</a> BBC: Troops will remain to "advise, assist and enable" Iraqi security forces to stop a resurgence of IS. 
- <p class="updated_time"> 02:48 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59599063?at_medium=RSS&at_campaign=KARANGA">Beijing Winter Olympics boycott is insignificant, says Macron</a> BBC: The French president says some Western countries' refusal to send officials has no useful outcome. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 02:03 PM CT, Dec. 09 </p> 
