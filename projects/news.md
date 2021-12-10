@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:15 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 01:28 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
@@ -239,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jussie-smollett-convicted-staging-attack-524057">Jussie Smollett convicted of staging attack, lying to police</a> Politico: He was acquitted on one count. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
@@ -344,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062615010/revisiting-a-2005-conversation-with-bob-dole">Revisiting Steve Inskeep's 2005 conversation with Bob Dole</a> NPR: Bob Dole, who died Sunday, will lie in state Thursday at the U.S. Capitol — acknowledging decades of service as a GOP senator, vice presidential candidate and presidential nominee. 
+ <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
