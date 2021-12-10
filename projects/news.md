@@ -208,6 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
+ <p class="updated_time"> 08:52 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/us-mexico-border-migrant-children/index.html">Key officials raised alarm about care of migrant children in government custody, memo says</a> CNN: As the Biden administration scrambled to deal with thousands of migrant children at the US-Mexico border this spring, officials were raising concerns that they were ditching "even the most basic safety procedures" and setting up facilities "run like disaster camps." 
+ <p class="updated_time"> 08:47 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/state-department-review-afghanistan-withdrawal/index.html">State Department launches review of its role in the US withdrawal from Afghanistan </a> CNN: The State Department has begun a 90-day review of its role in the withdrawal from Afghanistan that will focus on its actions during the last year of the Trump administration and the first nine months of the Biden administration, Secretary of State Antony Blinken announced in a message to the department's workforce Friday. 
  <p class="updated_time"> 08:25 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
- <p class="updated_time"> 05:52 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/us-mexico-border-migrant-children/index.html">Key officials raised alarm about care of migrant children in government custody, memo says</a> CNN: As the Biden administration scrambled to deal with thousands of migrant children at the US-Mexico border this spring, officials were raising concerns that they were ditching "even the most basic safety procedures" and setting up facilities "run like disaster camps." 
  <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
- <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/police-use-of-force-database/index.html">FBI may have to shut down federal use-of-force database due to low participation from law enforcement</a> CNN: The FBI has one more year to figure out how to collect use-of-force statistics from thousands of law enforcement agencies across the country before their efforts to publicize and reform police practices will get shutdown, according to a report by the US Government Accountability Office. 
  <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
