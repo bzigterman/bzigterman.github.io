@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:23 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59588905?at_medium=RSS&at_campaign=KARANGA">Starbucks to get its first unionised US store since 1980s</a> BBC: Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s. 
+ <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 09:42 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 53 people killed as trailer overturns</a> BBC: Dozens are injured when a trailer crammed with Central American migrants overturned, officials say. 
  <p class="updated_time"> 09:01 PM CT, Dec. 09 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
- <p class="updated_time"> 03:36 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59588905?at_medium=RSS&at_campaign=KARANGA">Starbucks to get its first unionised US store since 1980s</a> BBC: Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791731/u-k-s-boris-johnson-on-blast-for-holding-a-christmas-party-during-lockdown-in-20">U.K.'s Boris Johnson on blast for holding a Christmas party during lockdown in 2020 </a> NPR: U.K. Prime Minister Boris Johnson is under fire after it emerged that Christmas parties were held in his official residence in 2020, in violation of COVID restrictions. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
@@ -169,16 +171,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
- <p class="updated_time"> 06:08 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html">This Robot Looks Like a Pancake and Jumps Like a Maggot</a> NYT: Researchers designed a soft, legless robot that can hop and navigate obstacle courses. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
  <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
- <p class="updated_time"> 05:33 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/americas/chile-gay-marriage.html">Chile Legalizes Same-Sex Marriage at Fraught Political Moment</a> NYT: The legalization of same-sex marriage in Chile comes as the country grapples with sweeping demands for social change. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
  <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
@@ -264,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
  <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
- <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
@@ -274,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
  <p class="updated_time"> 02:35 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/ali-alexander-january-6-deposition/index.html">'Stop the Steal' rally organizer appears for deposition with January 6 committee and pledges to cooperate</a> CNN: "Stop the Steal" leader Ali Alexander, who helped organize the rally that preceded the Capitol attack, on Thursday appeared in front of the House select committee investigating January 6 and told reporters he will cooperate. 
- <p class="updated_time"> 02:27 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/national-archives-meadows-trump-524043">National Archives: Meadows may not have stored all Trump-era records 'properly'</a> Politico: The acknowledgment comes amid his clash with the committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 02:21 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York attorney general subpoenas Trump for testimony in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
@@ -336,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/biden-inflation-next-year-523984">Another eye-popping inflation reading is ahead. Next year could look very different.</a> Politico: The prices felt most acutely by voters could be telling a better story for Democrats heading into the midterms. 
  <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062501249/why-biden-is-hosting-more-than-100-countries-to-talk-about-democracy">Why Biden is hosting more than 100 countries to talk about democracy</a> NPR: The White House wants to boost global commitments to human rights and fighting corruption. But as the summit convenes, American democracy itself is under pressure. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
@@ -354,6 +346,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
  <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
+ <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 06:08 PM CT, Dec. 08 </p> 
@@ -384,6 +378,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
