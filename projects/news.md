@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:35 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 09:01 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
@@ -73,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
- <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
  <p class="updated_time"> 12:31 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
@@ -191,10 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
- <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/africa/ethiopia-tigray-civil-war.html">Ethiopia Says It Recaptured 2 Strategic Towns From Tigray Rebels</a> NYT: The government said it took back the towns of Dessie and Kombolcha, the latest in a string of wins Prime Minister Abiy Ahmed has claimed in recent days. 
- <p class="updated_time"> 01:18 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/biden-putin-ukraine-call-agenda.html"> Biden and Putin Have Very Different Agendas for the Ukraine Call </a> NYT: Vladimir V. Putin wants Russia to retain sway over western-leaning Ukraine. President Biden aims to secure a more stable and predictable relationship with Russia. 
  <p class="updated_time"> 11:13 AM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/ukraine-russia-putin-biden.html">Skirmishes Break Out Between Ukrainian and Russian Soldiers</a> NYT: The exchange of fire on the “line of contact” in Ukraine was not unusual, but offered a reminder that, for those on the front line, the grinding war is part of daily life., 
 
