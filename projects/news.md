@@ -27,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
+ <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/sky-high-vaccination-rates-and-zero-taxes-make-dubai-a-pandemic-boomtown-11639126877">Sky-High Vaccination Rates, Zero Taxes Create a Boomtown</a> WSJ: Dubai, a city-state of skyscrapers and Persian Gulf beaches, is drawing in the ultrarich, entrepreneurs and tourists with open-border policies, high levels of vaccination and low Covid-19 infection rates. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 08:22 PM CT, Dec. 09 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
- <p class="updated_time"> 09:46 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-moves-to-tighten-iran-sanctions-enforcement-as-nuclear-talks-stall-11639039567">U.S. Moves to Tighten Iran Sanctions Enforcement as Nuclear Talks Stall</a> WSJ: The U.S. will send a top-level delegation to the United Arab Emirates next week, the first sign of Washington increasing economic pressure on Tehran as diplomatic efforts to restore the 2015 nuclear deal falter. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
