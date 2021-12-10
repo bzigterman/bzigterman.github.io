@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 08:14 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Unvaccinated Ghanaians have two weeks to return home - and will be given a jab at the airport. 
  <p class="updated_time"> 07:54 AM CT, Dec. 10 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
+ <p class="updated_time"> 03:25 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/at-least-49-migrants-killed-in-truck-crash-in-southern-mexico-11639101003">At Least 53 Migrants Killed in Crash in Mexico</a> WSJ: A trailer truck jammed full of Central American migrants crashed into a pedestrian bridge, killing at least 53 people and injuring more than 50 others in southern Mexico, authorities said. 
  <p class="updated_time"> 03:09 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
@@ -91,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59596267?at_medium=RSS&at_campaign=KARANGA">Football fans spending millions on club crypto-tokens</a> BBC: Supporters have spent at least £260m on controversial fan tokens from major clubs, data suggests. 
  <p class="updated_time"> 06:01 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">How this country became Europe's cargo bike hub</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
- <p class="updated_time"> 05:15 PM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/at-least-49-migrants-killed-in-truck-crash-in-southern-mexico-11639101003">At Least 53 Migrants Killed in Crash in Mexico</a> WSJ: A trailer truck jammed full of Central American migrants crashed into a pedestrian bridge, killing at least 53 people and injuring more than 50 others in southern Mexico, authorities said. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
- <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
+ <p class="updated_time"> 08:25 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 08:04 AM CT, Dec. 10 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 10:50 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
- <p class="updated_time"> 08:45 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:07 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep Jan. 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
  <p class="updated_time"> 08:04 PM CT, Dec. 09 </p> 
