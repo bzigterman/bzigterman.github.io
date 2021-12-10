@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:54 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 05:04 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
+ <p class="updated_time"> 04:58 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder can still appeal the verdict, which would leave him facing espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
@@ -31,18 +33,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
+ <p class="updated_time"> 12:13 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal against a U.K. court’s decision to bar the extradition of the WikiLeaks founder, clearing a big hurdle in its pursuit of him on espionage charges. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:48 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
- <p class="updated_time"> 11:37 PM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal Against Decision to Refuse Extradition of Julian Assange</a> WSJ: The government won an appeal against a U.K. court’s decision to bar the extradition of Julian Assange, clearing a big hurdle in Washington’s pursuit of the WikiLeaks founder on espionage charges. 
  <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
  <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/sky-high-vaccination-rates-and-zero-taxes-make-dubai-a-pandemic-boomtown-11639126877">Sky-High Vaccination Rates, Zero Taxes Create a Boomtown</a> WSJ: Dubai, a city-state of skyscrapers and Persian Gulf beaches, is drawing in the ultrarich, entrepreneurs and tourists with open-border policies, high levels of vaccination and low Covid-19 infection rates. 
+ <a href="https://www.wsj.com/articles/sky-high-vaccination-rates-and-zero-taxes-make-dubai-a-pandemic-boomtown-11639126877">Sky-High Vaccination Rates, Zero Taxes Create Boomtown</a> WSJ: Dubai, a city-state of skyscrapers and Persian Gulf beaches, is drawing in the ultrarich, entrepreneurs and tourists with open-border policies, high levels of vaccination and low Covid-19 infection rates. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 08:22 PM CT, Dec. 09 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 10:18 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/middleeast/khashoggi-arrest-france-alotaiba.html">French Police Arrest Man in Connection With Khashoggi Killing</a> NYT: A man with the same name, Khalid Alotaibi, is wanted in connection with the murder of the Saudi journalist Jamal Khashoggi. A Saudi official says France arrested the wrong man. 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
+ <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden's megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
@@ -209,15 +213,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">He had to raise menu prices 3 times this year to survive, as prices kept climbing</a> NPR: More businesses are passing their own higher costs on to consumers as inflation hits a multi-decade high. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats' struggles to sell Biden's agenda mirror past messaging woes</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
+ <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">He had to raise menu prices 3 times this year to survive, as prices kept climbing</a> NPR: More businesses are passing their own higher costs on to consumers as inflation hits a multi-decade high. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
