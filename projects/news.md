@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
+ <p class="updated_time"> 01:52 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 01:49 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 01:42 PM CT, Dec. 10 </p> 
@@ -25,10 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
- <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
- <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59608785?at_medium=RSS&at_campaign=KARANGA">Spanish floods claim first victim as towns are engulfed</a> BBC: At least one person died when rivers burst their banks in northern Spain. 
  <p class="updated_time"> 11:10 AM CT, Dec. 10 </p> 
@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 07:03 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">For Clues to How Omicron Plays Out, Look to the U.K.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
+ <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">U.K. Provides Clues on How Omicron Could Play Out in the U.S.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:45 AM CT, Dec. 10 </p> 
@@ -206,8 +206,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">Jan. 6 committee issues six new subpoenas, including two Trump associates</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump 
+ <p class="updated_time"> 01:54 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
+ <p class="updated_time"> 01:50 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/january-6-subpoenas-max-miller-/index.html">January 6 committee subpoenas Trump-backed House candidate involved in planning rally</a> CNN: The House select committee investigating the January 6 riot at the US Capitol issued six additional subpoenas Friday, including one to former aide to former President Donald Trump and current Ohio congressional candidate Max Miller. 
  <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
+ <p class="updated_time"> 01:41 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 01:37 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
@@ -378,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
- <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
