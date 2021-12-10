@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 06:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599142?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor found guilty of lying about attack</a> BBC: A jury convicted the former Empire actor of five of six counts of felony disorderly conduct. 
+ <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
+ <p class="updated_time"> 06:03 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/digihub/magazine-59543495?at_medium=RSS&at_campaign=KARANGA">Mothers reborn: The surprising benefits of lifelike dolls</a> BBC: Reborn dolls are hyper-realistic dummies, and for some women, they serve a deeper purpose. 
  <p class="updated_time"> 05:47 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/live/2021/12/09/world/omicron-variant-covid">Covid Live Updates: U.S. Regulators Clear Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: Even as the emergence of the Omicron variant has added urgency to booster campaigns, the W.H.O. again said the priority in general should remain getting first shots to hundreds of millions of unvaccinated people. 
  <p class="updated_time"> 05:40 PM CT, Dec. 09 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
  <p class="updated_time"> 01:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/china-evergrande-default.html">China Evergrande Has Defaulted on Its Debt, Fitch Says</a> NYT: A ratings agency’s declaration confirmed what investors had already suspected, but they now must wait on a restructuring plan overseen by the firm hand of Beijing. 
- <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:31 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
  <p class="updated_time"> 04:33 PM CT, Dec. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59565590?at_medium=RSS&at_campaign=KARANGA">Putin-Biden talks: What next for Ukraine?</a> BBC: Russia's president will want to register some kind of victory before his troops return, writes Jonathan Marcus. 
- <p class="updated_time"> 04:01 PM CT, Dec. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59573075?at_medium=RSS&at_campaign=KARANGA">US father fired on Zoom describes 'callous' call</a> BBC: Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas. 
  <p class="updated_time"> 03:36 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/books/marie-claire-blais-dead.html">Marie-Claire Blais, Acclaimed French Canadian Novelist, Dies at 82</a> NYT: Though largely unknown outside Canada, she was often ranked alongside Margaret Atwood and Alice Munro as one of the country’s greatest living writers. 
  <p class="updated_time"> 02:15 PM CT, Dec. 07 </p> 
@@ -204,10 +204,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen tries to preempt inflation data, GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
+ <p class="updated_time"> 06:46 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/biden-zelensky-ukraine-524056">Biden reassures Zelenskyy of U.S. support for Ukraine’s sovereignty</a> Politico: The White House said the president, in a phone call with his Ukrainian counterpart, expressed “deep concerns” for the U.S. and European ally about Russian aggression. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/f/?id=0000017d-a190-dca7-a1fd-b19949d40000">Build Back Better Act Fiscal Responsibility Memo</a> Politico: This memo from Treasury Secretary Janet Yellen addresses the fiscal impact of the Build Back Better Act. 
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jussie-smollett-convicted-staging-attack-524057">Jussie Smollett convicted of staging attack, lying to police</a> Politico: He was acquitted on one count. 
+ <p class="updated_time"> 06:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
+ <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Debt Limit Split Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep Jan. 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
+ <p class="updated_time"> 06:08 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis' budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:42 PM CT, Dec. 09 </p> 
@@ -219,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">System failure: How China won WTO entry and beat the global trading system</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
+ <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">China joined rules-based trading system — then broke the rules</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
  <p class="updated_time"> 05:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
@@ -236,14 +250,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
  <p class="updated_time"> 04:45 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/police-use-of-force-database/index.html">FBI may have to shut down federal use-of-force database due to low participation from law enforcement</a> CNN: The FBI has one more year to figure out how to collect use-of-force statistics from thousands of law enforcement agencies across the country before their efforts to publicize and reform police practices will get shutdown, according to a report by the US Government Accountability Office. 
- <p class="updated_time"> 04:44 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
- <p class="updated_time"> 04:06 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep Jan. 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
@@ -270,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York attorney general subpoenas Trump for testimony in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
- <p class="updated_time"> 12:58 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The White House’s Summit for Democracy has drawn harsh criticism of domestic issues and questions about the guest list. 
  <p class="updated_time"> 12:51 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/republicans-broke-debt-ceiling-filibuster/index.html">14 GOP senators broke a filibuster to advance debt limit fast-track process</a> CNN: The Senate voted on Thursday to advance a bill to create a fast-track process allowing Democrats to raise the federal debt limit, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
  <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
@@ -338,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062615010/revisiting-a-2005-conversation-with-bob-dole">Revisiting Steve Inskeep's 2005 conversation with Bob Dole</a> NPR: Bob Dole, who died Sunday, will lie in state Thursday at the U.S. Capitol — acknowledging decades of service as a GOP senator, vice presidential candidate and presidential nominee. 
  <p class="updated_time"> 10:13 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/virginia-congressional-map-spanberger-524000">Spanberger stranded as Virginia nears new congressional map</a> Politico: Democrats are still favored in most districts under a draft map released Wednesday, but one of the party's star young members is left without a seat. 
- <p class="updated_time"> 10:00 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/mark-meadows-contempt-jan-6-committee.html">Meadows Sues Pelosi in Bid to Block Jan. 6 Committee Subpoena</a> NYT: The suit came hours after the committee said it would prepare a criminal contempt of Congress referral against Mark Meadows, who was President Donald J. Trump’s chief of staff on Jan. 6. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
@@ -360,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/schumer-mcconnell-debt-deal-523963">How Schumer and McConnell got the debt deal done</a> Politico: The agreement to raise the debt ceiling between the two Senate leaders might mark a high point for their relationship. Don't expect it to last. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/blinken-summit-democracy-journalism/index.html">US announces funds to support independent journalism and reporters targeted for their work</a> CNN: The US will provide new funding to protect reporters targeted because of their work and support independent international journalism, Secretary of State Antony Blinken said Monday at the opening of the virtual Summit for Democracy. 
- <p class="updated_time"> 04:15 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/supreme-court-religious-schools-maine.html">Supreme Court Seems Wary of Ban on State Aid to Religious Schools</a> NYT: The case, concerning a tuition program in Maine, seemed likely to extend a winning streak at the court for parents seeking public funds for religious education. 
  <p class="updated_time"> 03:51 PM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
@@ -386,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
- <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/linda-gorton-kentucky-politics-523875">It’s Kentucky straight in Lexington City Hall</a> Politico: Mayor Linda Gorton is a registered Republican — and nurse. She keeps her politics quiet and treats the city like a patient. 
  <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
@@ -442,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
- <p class="updated_time"> 10:19 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/ilhan-omar-boebert-pelosi-523767">Omar says she's 'confident' Pelosi will take action in Islamophobia controversy</a> Politico: Rep. Lauren Boebert’s remarks came to light in a video on social media, and tensions increased after a phone call between Boebert and Omar last week. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
  <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
