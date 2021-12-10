@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 08:45 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, 4-Time Winner of Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 08:27 AM CT, Dec. 10 </p> 
@@ -20,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:40 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59592355?at_medium=RSS&at_campaign=KARANGA">Singapore: Man feared for life during otter attack</a> BBC: Graham George Spencer was left with more than 20 wounds after he was bitten by the animals. 
  <p class="updated_time"> 07:24 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange, WikiLeaks Founder, Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 03:08 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/caught-in-a-political-crossfire-u-s-trained-somali-commandos-suspend-fight-against-islamic-state-11639145293">U.S.-Trained Somali Commandos Suspend Islamic State Fight Amid Political Turmoil</a> WSJ: An elite group has pulled back from the front lines and become so entangled in local power struggles that it has ceased operations against the Islamist militants it was created to fight. 
- <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
  <p class="updated_time"> 01:47 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">For Clues to How Omicron Plays Out, Look to the U.K.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
@@ -208,8 +208,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">Foreign governments desperate for Covid vaccines turn to K Street for help</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
- <p class="updated_time"> 09:09 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 09:27 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
+ <p class="updated_time"> 09:26 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 08:52 AM CT, Dec. 10 </p> 
@@ -219,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:26 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
+ <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">A relatively obscure shift at the CIA could have a significant impact on the lives of spies</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 08:04 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 08:01 AM CT, Dec. 10 </p> 
@@ -277,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 11:41 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html">Supreme Court endgame looms over Trump's January 6 tango with Congress</a> CNN: Former President Donald Trump's efforts to block the release of potentially damning White House records hit a new snag in court -- but his promise to appeal all but guarantees the final call will land with the Supreme Court. 
+ <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html">Analysis: Supreme Court endgame looms over Trump's January 6 tango with Congress</a> CNN: Former President Donald Trump's efforts to block the release of potentially damning White House records hit a new snag in court -- but his promise to appeal all but guarantees the final call will land with the Supreme Court. 
  <p class="updated_time"> 11:09 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
- <p class="updated_time"> 05:44 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-what-matters/index.html">Analysis: The Jan. 6 committee projects confidence. What does it know?</a> CNN: While Trump true-believers like former White House chief of staff Mark Meadows are loudly not cooperating with the House committee investigating the January 6 insurrection, a flurry of activity behind the scenes suggests progress for the inquiry. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
@@ -332,16 +332,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/house-vote-protect-our-democracy-act/index.html">House passes Protect Our Democracy Act to curb presidential abuses of power</a> CNN: The House voted 220-208 on Friday to pass the "Protect Our Democracy" Act, which addresses presidential abuses of power and reinforces the checks and balances between the branches of government. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
- <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
  <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
- <p class="updated_time"> 02:21 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York attorney general subpoenas Trump for testimony in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
@@ -376,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/texas-florida-uptick-obamacare-enrollment-524005">Texas, Florida see uptick in Obamacare enrollment</a> Politico: Enrollment is up 20 percent in Texas and 9 percent in Florida compared to this time last year. 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -386,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 07:25 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/biden-vaccine-mandate-senate.html">Senate Votes to Scrap Biden Vaccine Mandate as Republicans Eye 2022</a> NYT: The action was largely symbolic, but it allowed Republicans to press an attack on Democrats that is likely to be central to their midterm election campaigns. 
- <p class="updated_time"> 06:39 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/china-xinjiang-labor-ban-uyghurs.html">House Votes to Crack Down on Goods Made in Xinjiang Over Abuse of Uyghurs</a> NYT: The lopsided margin reflected growing bipartisan anger at China’s human rights abuses against Uyghurs in the northwestern region. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
