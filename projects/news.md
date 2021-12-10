@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 53 people killed as trailer overturns</a> BBC: Dozens are injured when a trailer crammed with Central American migrants overturned, officials say. 
  <p class="updated_time"> 09:01 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59604211?at_medium=RSS&at_campaign=KARANGA">Margaret River bushfires: Blazes force evacuations in Australia tourist region</a> BBC: The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
- <p class="updated_time"> 07:51 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 53 people killed as trailer overturns</a> BBC: Dozens are injured when a trailer crammed with Central American migrants overturned, officials say. 
  <p class="updated_time"> 06:50 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599142?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor found guilty of lying about attack</a> BBC: A lawyer for the actor has said his client plans '100%' to appeal the verdict. 
  <p class="updated_time"> 06:44 PM CT, Dec. 09 </p> 
