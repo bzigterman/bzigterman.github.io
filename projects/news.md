@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 11:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump uses expletive to attack ex-ally Benjamin Netanyahu</a> BBC: The former president rails against the ex-Israeli leader, saying he saved Israel from destruction. 
- <p class="updated_time"> 11:09 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 10:59 AM CT, Dec. 10 </p> 
@@ -47,10 +47,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59592355?at_medium=RSS&at_campaign=KARANGA">Singapore: Man feared for life during otter attack</a> BBC: Graham George Spencer was left with more than 20 wounds after he was bitten by the animals. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
+ <p class="updated_time"> 06:38 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 05:53 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59605233?at_medium=RSS&at_campaign=KARANGA">Swedish artist Anna von Hausswolff gives secret gig after Satanic slur</a> BBC: Two of Anna von Hausswolff's French gigs were cancelled under pressure from fundamentalist Catholics. 
+ <p class="updated_time"> 05:50 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
  <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/britain-covid-business.html">New Virus Restrictions in Britain Worry Businesses</a> NYT: “None of it’s going to be good,” an economist warns as people are likely to retreat from some aspects of social life as Covid measures tighten. 
- <p class="updated_time"> 04:40 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-china-frictions-undercut-efforts-to-settle-global-trade-disputes-11639150828">U.S.-China Frictions Undercut Efforts to Settle Global Trade Disputes</a> WSJ: Washington and Beijing accuse each other of failing to abide by commitments at the World Trade Organization, hindering the body's ability to enforce rules. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’ 
  <p class="updated_time"> 03:34 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/iran-bets-its-economy-will-hold-as-it-takes-tough-stance-on-nuclear-program-11639146842">Iran Bets Its Economy Will Hold as It Takes Tough Stance on Nuclear Program</a> WSJ: Negotiators are in Vienna this week to find a breakthrough in stalled talks to revive the 2015 nuclear deal. 
- <p class="updated_time"> 03:09 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 01:47 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">For Clues to How Omicron Plays Out, Look to the U.K.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
@@ -204,16 +204,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/state-department-review-afghanistan-withdrawal/index.html">State Department launches review of its role in the US withdrawal from Afghanistan </a> CNN: The State Department has begun a 90-day review of its role in the withdrawal from Afghanistan that will focus on its actions during the last year of the Trump administration and the first nine months of the Biden administration, Secretary of State Antony Blinken announced in a message to the department's workforce Friday. 
+ <p class="updated_time"> 11:29 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
+ <p class="updated_time"> 11:23 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
  <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Sen. Bob Dole's funeral service at Washington National Cathedral begins</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
+ <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">Supreme Court allows clinics’ challenge to Texas’ abortion ban to proceed, but rebuffs Biden admin</a> Politico: The Supreme Court again declined to block an unusual, privately enforced Texas state law severely limiting abortions in a Friday ruling, though the high court’s majority said some challenges brought by clinics against the law could proceed. 
- <p class="updated_time"> 10:17 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
  <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
@@ -226,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 08:52 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/us-mexico-border-migrant-children/index.html">Key officials raised alarm about care of migrant children in government custody, memo says</a> CNN: As the Biden administration scrambled to deal with thousands of migrant children at the US-Mexico border this spring, officials were raising concerns that they were ditching "even the most basic safety procedures" and setting up facilities "run like disaster camps." 
- <p class="updated_time"> 08:47 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/state-department-review-afghanistan-withdrawal/index.html">State Department launches review of its role in the US withdrawal from Afghanistan </a> CNN: The State Department has begun a 90-day review of its role in the withdrawal from Afghanistan that will focus on its actions during the last year of the Trump administration and the first nine months of the Biden administration, Secretary of State Antony Blinken announced in a message to the department's workforce Friday. 
  <p class="updated_time"> 08:26 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
