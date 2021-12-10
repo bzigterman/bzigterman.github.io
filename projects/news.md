@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:26 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
+ <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
+ <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 05:13 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59606655?at_medium=RSS&at_campaign=KARANGA">Taylor Swift to face trial in Shake It Off copyright case</a> BBC: The phrase "haters gonna hate" is at the centre of the case, which had previously been dismissed. 
- <p class="updated_time"> 02:26 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59459910?at_medium=RSS&at_campaign=KARANGA">The Nepalese children made to work in bars and clubs</a> BBC: Nepalese children, some as young as 11, are trapped in the worst forms of child labour. 
  <p class="updated_time"> 06:38 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59595276?at_medium=RSS&at_campaign=KARANGA">Madagascar food crisis: How a woman helped save her village from starvation</a> BBC: Loharano has avoided the fate of many in southern Madagascar through the use of new farming methods. 
- <p class="updated_time"> 06:32 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's missing women MPs</a> BBC: Sixty of Afghanistan's 69 women MPs are scattered across the globe, but many aim to continue fighting for women's rights. 
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59590518?at_medium=RSS&at_campaign=KARANGA">Valérie Pécresse: Part-Thatcher, part-Merkel and wants to run France</a> BBC: Valérie Pécresse has given the Republicans a lift, and a poll suggests she could be president. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
@@ -225,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats' struggles to sell Biden's agenda mirror past messaging woes</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">He had to raise menu prices 3 times this year to survive, as prices kept climbing</a> NPR: More businesses are passing their own higher costs on to consumers as inflation hits a multi-decade high. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
