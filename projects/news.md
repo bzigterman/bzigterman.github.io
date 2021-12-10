@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1063171447/new-caledonia-goes-to-the-polls-on-self-determination">New Caledonia goes to the polls on self-determination</a> NPR: The French territory of New Caledonia holds its final referendum on independence on Sunday. The outcome could have implications for all the major powers jostling for influence in the vast Pacific. 
  <p class="updated_time"> 03:33 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors have said Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
  <p class="updated_time"> 03:30 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791731/u-k-s-boris-johnson-on-blast-for-holding-a-christmas-party-during-lockdown-in-20">U.K.'s Boris Johnson on blast for holding a Christmas party during lockdown in 2020 </a> NPR: U.K. Prime Minister Boris Johnson is under fire after it emerged that Christmas parties were held in his official residence in 2020, in violation of COVID restrictions. 
- <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791710/new-sounds-show-how-life-is-back-in-recovered-corals-reefs">New sounds show how life is back in recovered corals reefs</a> NPR: A new study shows that restoring coral reefs can bring ecosystems back to life — and with them, their sounds. 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 03:32 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
@@ -250,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
  <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/astronaut-wings-bezos-branson-shatner/index.html">US gives Bezos, Branson and Shatner their astronaut wings </a> CNN: The US government is making it official -- Jeff Bezos, Richard Branson, and William Shatner have earned the title of "astronaut" after their flights to the edge of space. 
- <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
@@ -282,6 +282,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
+ <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/january-6-committee-witness-cooperation-trump-allies-stonewall/index.html">January 6 committee touts cooperation among witnesses as key Trump allies stonewall panel</a> CNN: Two parallel realities are emerging as the House select committee investigating the January 6 attack on the US Capitol continues to build its investigation. While a growing list of individuals are cooperating, a small but key group of former President Donald Trump's allies continue to stonewall the panel. Information serves as the committee's most valuable currency on both fronts, while the clock is becoming its worst enemy. 
  <p class="updated_time"> 05:00 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/twitter-warped-politics-524059">Has Twitter warped politics?</a> Politico: On this episode of Playbook Deep Dive, we discuss the role of social media in political campaigns and the blindspots of digital campaigns. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 10:50 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
- <p class="updated_time"> 08:07 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep Jan. 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
  <p class="updated_time"> 08:04 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/federal-appeals-court-south-carolina-mask-mandate-provision-524060">Federal appeals court hears arguments over South Carolina mask mandate provision</a> Politico: State officials, including Gov. Henry McMaster, asked the 4th Circuit to step in after a lower-court judge blocked an order passed by the Legislature. 
  <p class="updated_time"> 07:43 PM CT, Dec. 09 </p> 
@@ -362,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
+ <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
@@ -424,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 04:58 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/environmental-protection-agency-biofuels/index.html">EPA proposes changes to its biofuels program, notching a win for the industry and farmers</a> CNN: The Environmental Protection Agency announced proposed changes to its biofuels program Tuesday to spur more biofuel use and crack down on waivers issued to refineries by the Trump administration, notching a win for the biofuels industry and farmers and a blow to oil refineries. 
  <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
