@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59577054?at_medium=RSS&at_campaign=KARANGA">Larry Hoover: Kanye and Drake set aside feud for prisoner concert</a> BBC: The former friends stage a concert in a bid to free Larry Hoover, who's been in jail for decades. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:48 PM CT, Dec. 09 </p> 
