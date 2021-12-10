@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors have said Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
+ <p class="updated_time"> 03:30 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171426/truck-crash-kills-more-than-50-migrants-in-southern-mexico">Truck crash kills more than 50 migrants in southern Mexico</a> NPR: A truck believed to be carrying migrants crashed near Mexico's southen border with Guatemala, killing more than 50 people. 
  <p class="updated_time"> 03:19 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171405/olympic-officials-avoided-direct-answers-when-asked-about-chinas-human-rights-is">Olympic officials avoided direct answers when asked about China's human rights issue</a> NPR: Four countries have announced diplomatic boycotts of the Beijing Winter Olympics because of China's human rights violations. The International Olympic Committee claimed neutrality around the issue. 
- <p class="updated_time"> 03:19 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors have said Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
  <p class="updated_time"> 03:19 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171398/masayuki-uemura-nintendo-engineer-who-created-nes-and-snes-game-consoles-dies-at">Masayuki Uemura, Nintendo engineer who created NES and SNES game consoles, dies at 78</a> NPR: Masayuki Uemurao helped revolutionize the home video game industry with the Nintendo NES, and will forever be remembered for games like Duck Hunt. The Japanese engineer died Monday at the age of 78. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
  <p class="updated_time"> 08:47 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
- <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
 
 
 </details>
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/how-bank-regulators-are-trying-to-oust-a-trump-holdover.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 03:23 PM CT, Dec. 10 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
- <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/january-6-committee-witness-cooperation-trump-allies-stonewall/index.html">January 6 committee touts cooperation among witnesses as key Trump allies stonewall panel</a> CNN: Two parallel realities are emerging as the House select committee investigating the January 6 attack on the US Capitol continues to build its investigation. While a growing list of individuals are cooperating, a small but key group of former President Donald Trump's allies continue to stonewall the panel. Information serves as the committee's most valuable currency on both fronts, while the clock is becoming its worst enemy. 
  <p class="updated_time"> 05:00 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/twitter-warped-politics-524059">Has Twitter warped politics?</a> Politico: On this episode of Playbook Deep Dive, we discuss the role of social media in political campaigns and the blindspots of digital campaigns. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
