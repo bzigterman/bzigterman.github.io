@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:54 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
  <p class="updated_time"> 07:40 AM CT, Dec. 10 </p> 
@@ -19,10 +21,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:48 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Unvaccinated Ghanaians have two weeks to return home - and will be given a jab at the airport. 
- <p class="updated_time"> 06:43 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
+ <p class="updated_time"> 05:53 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59605233?at_medium=RSS&at_campaign=KARANGA">Swedish artist Anna von Hausswolff gives secret gig after Satanic slur</a> BBC: Two of Anna von Hausswolff's French gigs were cancelled under pressure from fundamentalist Catholics. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
- <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59606655?at_medium=RSS&at_campaign=KARANGA">Taylor Swift to face trial in Shake It Off copyright case</a> BBC: The phrase "haters gonna hate" is at the centre of the case, which had previously been dismissed. 
  <p class="updated_time"> 02:16 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
@@ -57,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
- <p class="updated_time"> 11:48 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
  <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
@@ -189,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
- <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
 
@@ -200,6 +196,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
+ <p class="updated_time"> 08:04 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
+ <p class="updated_time"> 08:01 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:02 AM CT, Dec. 10 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/congress-flood-risk-infrastructure-climate/index.html">These lawmakers' districts are at highest risk of flooding. Here's where they stand on the climate crisis.</a> CNN: UN scientists were unequivocal in a landmark report published this summer: Human-caused climate change is intensifying extreme weather events. No region is spared from extreme weather, but America's coasts are overwhelmingly at risk to flooding caused by rising seas, stronger hurricanes and torrential rain. 
  <p class="updated_time"> 06:37 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House 'red line' policy gives agencies 24 hours to assess major cyberattacks</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
- <p class="updated_time"> 06:37 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 06:07 AM CT, Dec. 10 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest level since 1982</a> NPR: Consumer prices in November were 6.8% higher than a year ago. That's the highest rate of inflation in nearly four decades. 
+ <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest level since 1982</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
@@ -278,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen tries to preempt inflation data, GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
- <p class="updated_time"> 07:01 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/state-department-mark-lenzi-lawsuit-havana-syndrome/index.html">State Department officer struck by Havana syndrome sues Blinken and agency for alleged disability discrimination</a> CNN: A State Department officer who says he was struck by the strange constellation of symptoms now known as "Havana syndrome" in 2017 is suing Secretary of State Antony Blinken and the State Department for disability discrimination, according to court filings. 
  <p class="updated_time"> 06:58 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Major Hurdle to Raising Debt Ceiling</a> NYT: Ending a monthslong impasse, lawmakers from both parties approved legislation that would let Congress raise the debt ceiling by a simple majority vote. 
  <p class="updated_time"> 06:48 PM CT, Dec. 09 </p> 
@@ -298,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:44 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-what-matters/index.html">Analysis: The Jan. 6 committee projects confidence. What does it know?</a> CNN: While Trump true-believers like former White House chief of staff Mark Meadows are loudly not cooperating with the House committee investigating the January 6 insurrection, a flurry of activity behind the scenes suggests progress for the inquiry. 
- <p class="updated_time"> 05:30 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
@@ -388,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
