@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
+ <p class="updated_time"> 10:59 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
+ <p class="updated_time"> 10:57 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
+ <p class="updated_time"> 10:35 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
  <p class="updated_time"> 10:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
- <p class="updated_time"> 10:25 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 10:22 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 10:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59606395?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa and Dmitry Muratov share joy over win</a> BBC: Maria Ressa and Dmitry Muratov published investigations that angered the leaders of their countries. 
  <p class="updated_time"> 09:53 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
- <p class="updated_time"> 09:39 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
  <p class="updated_time"> 09:37 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 09:36 AM CT, Dec. 10 </p> 
@@ -42,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump swears in criticism of Benjamin Netanyahu’s loyalty</a> BBC: The former president rails against his once-close ally, and says he saved Israel from destruction. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump uses expletive to attack ex-ally Benjamin Netanyahu</a> BBC: The former president rails against the ex-Israeli leader, saying he saved Israel from destruction. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59604649?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India holds funerals for top general and his wife after crash</a> BBC: Gen Bipin Rawat, who died in a helicopter crash, was cremated with full military honours. 
  <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062501249/why-biden-is-hosting-more-than-100-countries-to-talk-about-democracy">Why Biden is hosting more than 100 countries to talk about democracy</a> NPR: The White House wants to boost global commitments to human rights and fighting corruption. But as the summit convenes, American democracy itself is under pressure. 
- <p class="updated_time"> 04:05 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
  <p class="updated_time"> 02:50 AM CT, Dec. 09 </p> 
@@ -191,12 +193,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
- <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
- <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
- <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
 
 
 </details>
@@ -204,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">Supreme Court allows clinics’ challenge to Texas’ abortion ban to proceed, but rebuffs Biden admin</a> Politico: The Supreme Court again declined to block an unusual, privately enforced Texas state law severely limiting abortions in a Friday ruling, though the high court’s majority said some challenges brought by clinics against the law could proceed. 
  <p class="updated_time"> 10:17 AM CT, Dec. 10 </p> 
@@ -211,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">Foreign governments desperate for Covid vaccines turn to K Street for help</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
+ <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 09:37 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 09:36 AM CT, Dec. 10 </p> 
@@ -297,7 +297,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen tries to preempt inflation data, GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
+ <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:58 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Major Hurdle to Raising Debt Ceiling</a> NYT: Ending a monthslong impasse, lawmakers from both parties approved legislation that would let Congress raise the debt ceiling by a simple majority vote. 
  <p class="updated_time"> 06:48 PM CT, Dec. 09 </p> 
@@ -350,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062713684/mark-meadows-jan-6-committee-lawsuit-nancy-pelosi">Mark Meadows is suing the Jan. 6 committee as it moves to hold him in contempt</a> NPR: Mark Meadows is suing House Speaker Nancy Pelosi and the House Jan. 6 committee, asking a judge to block enforcement of two subpoenas it had issued for himself and Verizon. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
- <p class="updated_time"> 11:20 AM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1061182786/house-retirement-tracker-2022-congress-republicans-democrats">House retirement tracker: Senior Democrats exit as the GOP is confident of a takeover</a> NPR: A growing number of House lawmakers have opted not to run again in 2022, but so far more Democrats than Republicans are choosing to end their service. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/bob-dole-lies-in-state-us-capitol/index.html">Biden and congressional leaders honor the late Sen. Bob Dole at US Capitol</a> CNN: President Joe Biden on Thursday honored the late Republican Sen. Bob Dole of Kansas at a congressional tribute ceremony as Dole lied in state at the United States Capitol. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
