@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Julian Assange closer to being extradited from UK to US, after US government wins extradition case in London. 
+ <p class="updated_time"> 04:39 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: The risk of the Wikileaks founder killing himself is excluded by assurances from the US, judges find. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
@@ -35,6 +35,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:48 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
+ <p class="updated_time"> 11:37 PM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal Against Decision to Refuse Extradition of Julian Assange</a> WSJ: The government won an appeal against a U.K. court’s decision to bar the extradition of Julian Assange, clearing a big hurdle in Washington’s pursuit of the WikiLeaks founder on espionage charges. 
+ <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
  <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
- <p class="updated_time"> 06:28 AM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-confirms-it-halted-work-on-secret-chinese-port-project-after-pressure-from-u-s-11639070894">U.A.E. Shut Down China Facility Under U.S. Pressure, Emirates Says</a> WSJ: The discovery of the project rattled relations between the Biden administration and one of Washington’s top Gulf allies over concerns Beijing was building a military facility. 
  <p class="updated_time"> 06:06 AM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-treatment-of-uyghurs-amounts-to-genocide-u-k-based-panel-finds-11639068852">China's Treatment of Uyghurs Amounts to Genocide, Panel Finds</a> WSJ: An independent panel wrapped up its yearlong examination of China’s treatment of Uyghurs and other ethnic minorities in Xinjiang, concluding that China’s policies in the region amounted to a form of genocide. 
  <p class="updated_time"> 04:26 AM CT, Dec. 09 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 01:50 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
- <p class="updated_time"> 01:36 AM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/chinas-latest-challenge-is-engineering-a-soft-landing-for-a-sputtering-economy-11639053362">China's Challenge Is Engineering Soft Landing for a Sputtering Economy</a> WSJ: Leaders in China are trying to reverse a sharp growth slowdown without abandoning policies that triggered much of the weakness to begin with—a tricky task that could test their ability to engineer a soft landing. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
  <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
- <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
@@ -424,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
