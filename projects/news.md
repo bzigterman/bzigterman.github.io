@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-interior-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
+ <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">The Monkees star Michael Nesmith dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
  <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
- <p class="updated_time"> 05:53 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59605233?at_medium=RSS&at_campaign=KARANGA">Swedish artist Anna von Hausswolff gives secret gig after Satanic slur</a> BBC: Two of Anna von Hausswolff's French gigs were cancelled under pressure from fundamentalist Catholics. 
  <p class="updated_time"> 05:50 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
@@ -84,7 +86,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
+ <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th-century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
@@ -204,14 +206,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored two memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
+ <p class="updated_time"> 12:15 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
+ <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
+ <p class="updated_time"> 12:11 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
+ <p class="updated_time"> 12:09 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
+ <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/astronaut-wings-bezos-branson-shatner/index.html">US gives Bezos, Branson and Shatner their astronaut wings </a> CNN: The US government is making it official -- Jeff Bezos, Richard Branson, and William Shatner have earned the title of "astronaut" after their flights to the edge of space. 
+ <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 11:35 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/state-department-review-afghanistan-withdrawal/index.html">State Department launches review of its role in the US withdrawal from Afghanistan </a> CNN: The State Department has begun a 90-day review of its role in the withdrawal from Afghanistan that will focus on its actions during the last year of the Trump administration and the first nine months of the Biden administration, Secretary of State Antony Blinken announced in a message to the department's workforce Friday. 
- <p class="updated_time"> 11:29 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
  <p class="updated_time"> 11:23 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
- <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
@@ -224,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 09:37 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
- <p class="updated_time"> 09:36 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 08:52 AM CT, Dec. 10 </p> 
@@ -240,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:02 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/republicans-fraud-turnout-analysis/index.html">Analysis: Voters who think Trump won are the most enthusiastic to vote in 2022</a> CNN: The Democrats only have a US Senate majority because they were able to win two Senate runoffs in Georgia in January. Those Democratic wins were made possible by lower turnout among Republican-leaning voters, who may have been deterred from voting after then-President Donald Trump falsely claimed that the November 2020 election was fraudulent and that the runoffs were "illegal and invalid." 
  <p class="updated_time"> 06:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/uk-court-extradition-us-spying-524073">U.K. court permits Assange extradition to U.S. on spying charges</a> Politico: A British appellate court opened the door Friday for Julian Assange to be extradited to the United States by overturning a lower court ruling that found the WikiLeaks founder’s mental health was too fragile to withstand the American criminal justice system. 
  <p class="updated_time"> 06:52 AM CT, Dec. 10 </p> 
@@ -342,12 +350,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
  <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
- <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
- <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
@@ -420,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
- <p class="updated_time"> 10:26 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/us-china-covid-strategy-523843">China’s ‘zero Covid strategy’ chokes U.S.-China ties</a> Politico: New “fast track” for U.S. business travelers are likely too little, too late. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
