@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
+ <p class="updated_time"> 01:42 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59616117?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'There are so many dead'</a> BBC: At least 54 people have been killed, and scores more injured, after a truck rolled in southern Mexico. 
+ <p class="updated_time"> 01:38 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
+ <p class="updated_time"> 01:36 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59616114?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volunteers struggle to recover the dead, metres deep in ash and mud</a> BBC: The effort to recover bodies is continuing in Indonesia, after the eruption of Mount Semeru last week. 
  <p class="updated_time"> 01:35 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
- <p class="updated_time"> 12:58 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/migrant-truck-crash-in-mexico-they-were-all-cadavers.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
- <p class="updated_time"> 12:55 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
  <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-interior-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
+ <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 11:22 AM CT, Dec. 10 </p> 
@@ -173,10 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59578618?at_medium=RSS&at_campaign=KARANGA">Afghan women: Secret diaries of changing lives</a> BBC: Five women's secret diary posts, sent to the BBC, reveal how deeply the Taliban takeover has affected them. 
  <p class="updated_time"> 06:15 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59462503?at_medium=RSS&at_campaign=KARANGA">Myanmar coup: The women abused and tortured in detention</a> BBC: Women held for protesting against a military takeover say they were sexually assaulted and tortured. 
- <p class="updated_time"> 06:09 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59585597?at_medium=RSS&at_campaign=KARANGA">China's detention camps: Held in chains for using WhatsApp</a> BBC: Erbakit Otarbay, an ethnic Kazakh, was imprisoned as part of a mass incarceration programme in China. 
- <p class="updated_time"> 06:07 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59586873?at_medium=RSS&at_campaign=KARANGA">Goalball player Sevda Altunoluk: 'I am the world's best'</a> BBC: Sevda Altunoluk believes in empowering visually impaired people by encouraging them to compete in sport. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
  <p class="updated_time"> 05:12 PM CT, Dec. 08 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">Jan. 6 committee issues six new subpoenas, including two Trump associates</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump 
  <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
  <p class="updated_time"> 01:37 PM CT, Dec. 10 </p> 
@@ -221,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
  <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">What Happened When Philadelphia Mandated Covid Vaccines for Health Workers</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
+ <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">Here's How Philadelphia's Covid Mandate for Health Workers Worked</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
- <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
