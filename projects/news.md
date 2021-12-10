@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in Literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
+ <p class="updated_time"> 11:48 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
  <p class="updated_time"> 10:51 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 53 people killed as trailer overturns</a> BBC: Dozens are injured when a trailer crammed with Central American migrants overturned, officials say. 
- <p class="updated_time"> 10:23 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59588905?at_medium=RSS&at_campaign=KARANGA">Starbucks to get its first unionised US store since 1980s</a> BBC: Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
  <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/08/1062478302/encore-paul-mccartney-on-the-life-and-death-of-john-lennon-41-years-after-his-de">Encore: Paul McCartney on the life and death of John Lennon, 41 years after his death</a> NPR: NPR's Mary Louise Kelly talks with Paul McCartney about the life and death of the Beatles' John Lennon, who was killed 41 years ago this week. 
  <p class="updated_time"> 03:41 PM CT, Dec. 08 </p> 
  <a href="https://www.npr.org/2021/12/08/1062478295/democrats-and-republicans-agree-to-push-back-against-human-rights-violations-in-">Democrats and Republicans agree to push back against human rights violations in China</a> NPR: U.S. lawmakers from both parties agree that China must face retaliation for human rights violations and took action Wednesday to go on the record against slave labor. 
- <p class="updated_time"> 03:30 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062478267/100-world-leaders-will-attend-bidens-virtual-summit-on-supporting-democratic-val">100 world leaders will attend Biden's virtual summit on supporting democratic values</a> NPR: The White House is holding a Summit of Democracy on Thursday and Friday to counter a rising tide of authoritarianism. Over a 100 countries will be attending. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
