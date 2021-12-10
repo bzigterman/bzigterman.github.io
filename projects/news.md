@@ -37,10 +37,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59604211?at_medium=RSS&at_campaign=KARANGA">Margaret River bushfires: Blazes force evacuations in Australia tourist region</a> BBC: The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
+ <p class="updated_time"> 07:18 PM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/nicaragua-breaks-off-ties-with-taiwan-switching-allegiance-to-beijing-11639117114">Nicaragua Breaks Off Ties With Taiwan in Favor of Beijing</a> WSJ: The Central American country’s decision to cut ties whittles Taiwan’s diplomatic partners to 14 as the island pushes to boost its global stature. 
  <p class="updated_time"> 06:50 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599142?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett: Actor found guilty of lying about attack</a> BBC: A lawyer for the actor has said his client plans "100%" to appeal the verdict. 
  <p class="updated_time"> 06:44 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59459910?at_medium=RSS&at_campaign=KARANGA">The Nepalese children made to work in bars and clubs</a> BBC: Nepalese children, some as young as 11, are trapped in the worst forms of child labour. 
+ <p class="updated_time"> 06:38 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59595276?at_medium=RSS&at_campaign=KARANGA">Madagascar food crisis: How a woman helped save her village from starvation</a> BBC: Loharano has avoided the fate of many in southern Madagascar through the use of new farming methods. 
  <p class="updated_time"> 06:32 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Where are Afghanistan's women MPs now?</a> BBC: Sixty of Afghanistan's 69 women MPs are scattered across the globe, but many aim to continue fighting for women's rights. 
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
@@ -51,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">The country that is Europe's hub for cargo bikes</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
  <p class="updated_time"> 05:40 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599279?at_medium=RSS&at_campaign=KARANGA">Capitol riot: US appeals court rejects Trump's request to block files</a> BBC: A panel investigating the Capitol riot wants to see the ex-president's White House records. 
+ <p class="updated_time"> 05:15 PM CT, Dec. 09 </p> 
+ <a href="https://www.wsj.com/articles/at-least-49-migrants-killed-in-truck-crash-in-southern-mexico-11639101003">At Least 53 Migrants Killed in Crash in Mexico</a> WSJ: A trailer truck jammed full of Central American migrants crashed into a pedestrian bridge, killing at least 53 people and injuring more than 50 others in southern Mexico, authorities said. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-a-e-confirms-it-halted-work-on-secret-chinese-port-project-after-pressure-from-u-s-11639070894">U.A.E. Shut Down China Facility Under U.S. Pressure, Emirates Says</a> WSJ: The discovery of the project rattled relations between the Biden administration and one of Washington’s top Gulf allies over concerns Beijing was building a military facility. 
  <p class="updated_time"> 06:06 AM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-treatment-of-uyghurs-amounts-to-genocide-u-k-based-panel-finds-11639068852">China's Treatment of Uyghurs Amounts to Genocide, Panel Finds</a> WSJ: An independent panel wrapped up its yearlong examination of China’s treatment of Uyghurs and other ethnic minorities in Xinjiang, concluding that China’s policies in the region amounted to a form of genocide. 
- <p class="updated_time"> 05:50 AM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/indian-farmers-end-yearlong-protest-after-government-retreat-11639068646">Indian Farmers End Yearlong Protest</a> WSJ: India’s farmers said they would call off protests that have endured for more than a year, after the government acceded to their demands and completed a major retreat for Prime Minister Narendra Modi. 
  <p class="updated_time"> 04:26 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/59580982?at_medium=RSS&at_campaign=KARANGA">Covid vaccines: Why is Nigeria unable to use its supply?</a> BBC: It's reported that up to one million doses of Covid vaccine in Nigeria have expired and are to be destroyed. 
  <p class="updated_time"> 04:19 AM CT, Dec. 09 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062610621/new-zealands-plan-to-end-smoking-a-lifetime-ban-for-youth">New Zealand's plan to end smoking: A lifetime ban for youth</a> NPR: Under a new law the government plans to implement next year, the minimum age to buy cigarettes would keep rising every year. In 65 years, that could mean only those 80 or older could still buy. 
  <p class="updated_time"> 01:36 AM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-latest-challenge-is-engineering-a-soft-landing-for-a-sputtering-economy-11639053362">China's Challenge Is Engineering Soft Landing for a Sputtering Economy</a> WSJ: Leaders in China are trying to reverse a sharp growth slowdown without abandoning policies that triggered much of the weakness to begin with—a tricky task that could test their ability to engineer a soft landing. 
- <p class="updated_time"> 11:09 PM CT, Dec. 08 </p> 
- <a href="https://www.wsj.com/articles/uber-amazon-backed-deliveroo-workers-would-be-classed-as-employees-under-eu-proposal-11639044561">Uber Workers Would Be Classed as Employees Under EU Proposal</a> WSJ: Companies in what is known as the gig economy could be forced to give more benefits to their drivers and delivery personnel under a European Union proposal that would reclassify many of their jobs as employment. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
  <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59585597?at_medium=RSS&at_campaign=KARANGA">China's detention camps: Held in chains for using WhatsApp</a> BBC: Erbakit Otarbay, an ethnic Kazakh, was imprisoned as part of a mass incarceration programme in China. 
  <p class="updated_time"> 06:07 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59586873?at_medium=RSS&at_campaign=KARANGA">Goalball player Sevda Altunoluk: 'I am the world's best'</a> BBC: Sevda Altunoluk believes in empowering visually impaired people by encouraging them to compete in sport. 
- <p class="updated_time"> 06:05 PM CT, Dec. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59568638?at_medium=RSS&at_campaign=KARANGA">Chimamanda Ngozi Adichie: ‘I want to say what I think’</a> BBC: The Nigerian writer shares her experience of grief and her thoughts on "cancel culture" and trans rights. 
  <p class="updated_time"> 06:02 PM CT, Dec. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59553662?at_medium=RSS&at_campaign=KARANGA">Growing up in Iran: Every morning we had to chant ‘Death to America’</a> BBC: Iranian Rana Rahimpour moved to the UK as a young journalist and is now unable to return home for fear of arrest. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
