@@ -47,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59592355?at_medium=RSS&at_campaign=KARANGA">Singapore: Man feared for life during otter attack</a> BBC: Graham George Spencer was left with more than 20 wounds after he was bitten by the animals. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
+ <p class="updated_time"> 06:45 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/at-least-49-migrants-killed-in-truck-crash-in-southern-mexico-11639101003">At Least 55 Migrants Killed in Crash in Mexico</a> WSJ: A trailer truck jammed full of Central American migrants crashed into a bridge, killing at least 55 people and injuring more than 104 others in southern Mexico. 
  <p class="updated_time"> 06:38 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’ 
  <p class="updated_time"> 03:34 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/iran-bets-its-economy-will-hold-as-it-takes-tough-stance-on-nuclear-program-11639146842">Iran Bets Its Economy Will Hold as It Takes Tough Stance on Nuclear Program</a> WSJ: Negotiators are in Vienna this week to find a breakthrough in stalled talks to revive the 2015 nuclear deal. 
- <p class="updated_time"> 01:47 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">For Clues to How Omicron Plays Out, Look to the U.K.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
@@ -318,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
- <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
