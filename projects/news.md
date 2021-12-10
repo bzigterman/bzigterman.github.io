@@ -196,6 +196,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:09 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
+ <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 10:50 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 08:45 PM CT, Dec. 09 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Major Hurdle to Raising Debt Ceiling</a> NYT: Ending a monthslong impasse, lawmakers from both parties approved legislation that would let Congress raise the debt ceiling by a simple majority vote. 
  <p class="updated_time"> 06:56 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
- <p class="updated_time"> 06:54 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 06:48 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 06:46 PM CT, Dec. 09 </p> 
@@ -252,7 +254,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
- <p class="updated_time"> 05:11 PM CT, Dec. 09 </p> 
+ <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-dole-capitol.html">President Biden Praises Bob Dole in Ceremony at the Capitol</a> NYT: As Bob Dole lay in state in the Capitol, the president and Democratic leaders recalled his appeals for unity, in an unmistakable message to the Republican Party. 
  <p class="updated_time"> 04:52 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
- <p class="updated_time"> 12:02 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062713684/mark-meadows-jan-6-committee-lawsuit-nancy-pelosi">Mark Meadows is suing the Jan. 6 committee as it moves to hold him in contempt</a> NPR: Mark Meadows is suing House Speaker Nancy Pelosi and the House Jan. 6 committee, asking a judge to block enforcement of two subpoenas it had issued for himself and Verizon. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
