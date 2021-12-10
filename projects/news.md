@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:24 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange, WikiLeaks Founder, Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
+ <p class="updated_time"> 07:11 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, 4-Time Winner of Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
- <p class="updated_time"> 06:44 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, 4-Time Winner of Indy 500, Dies at 82</a> NYT: Mr. Unser was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
+ <p class="updated_time"> 06:48 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Unvaccinated Ghanaians have two weeks to return home - and will be given a jab at the airport. 
  <p class="updated_time"> 06:43 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
  <p class="updated_time"> 05:13 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
- <p class="updated_time"> 04:58 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange, WikiLeaks Founder, Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder can still appeal the verdict, which would leave him facing espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
@@ -39,14 +41,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59606655?at_medium=RSS&at_campaign=KARANGA">Taylor Swift to face trial in Shake It Off copyright case</a> BBC: The phrase "haters gonna hate" is at the centre of the case, which had previously been dismissed. 
+ <p class="updated_time"> 02:16 AM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
  <p class="updated_time"> 01:47 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">For Clues to How Omicron Plays Out, Look to the U.K.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
- <p class="updated_time"> 12:58 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:02 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/republicans-fraud-turnout-analysis/index.html">Analysis: Voters who think Trump won are the most enthusiastic to vote in 2022</a> CNN: The Democrats only have a US Senate majority because they were able to win two Senate runoffs in Georgia in January. Those Democratic wins were made possible by lower turnout among Republican-leaning voters, who may have been deterred from voting after then-President Donald Trump falsely claimed that the November 2020 election was fraudulent and that the runoffs were "illegal and invalid." 
  <p class="updated_time"> 06:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/uk-court-extradition-us-spying-524073">U.K. court permits Assange extradition to U.S. on spying charges</a> Politico: A British appellate court opened the door Friday for Julian Assange to be extradited to the United States by overturning a lower court ruling that found the WikiLeaks founder’s mental health was too fragile to withstand the American criminal justice system. 
  <p class="updated_time"> 06:52 AM CT, Dec. 10 </p> 
@@ -228,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/north-carolina-senate-fight-524071">‘Trump-hater’ vs. ‘Washington insider’: N.C. Republicans squabble over Senate seat</a> Politico: The GOP Senate primary in North Carolina is heating up this week with a slew of negative ads. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/cartoons/2021/12/10/the-nations-cartoonists-on-the-week-in-politics-000271">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/recovery-lab-capstone-editors-note-523957">Welcome to Recovery Lab: The Capstone Issue</a> Politico: We’ve spent a year reporting on how America is recovering from the Covid-19 pandemic. Here’s what we’ve learned. 
  <p class="updated_time"> 04:14 AM CT, Dec. 10 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/dole-foundation-cut-ties-january-6-organizer/index.html">Dole foundation cuts ties with organizer helping with funeral for alleged role in January 6</a> CNN: The Elizabeth Dole Foundation confirms it has cut ties with event organizer Tim Unes who was working on late Senate Majority Leader Bob Dole's funeral arrangements because of Unes' alleged role in helping to organize the January 6 "Stop the Steal" rally, which ultimately led to the storming of the US Capitol. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
- <p class="updated_time"> 12:34 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/fact-check-missouri-schmitt-biden-travel/index.html">Fact check: Missouri attorney general's scathing letter to Biden begins with false claim </a> CNN: President Joe Biden visited Missouri on Wednesday to promote the infrastructure law he signed in November. And Missouri Attorney General Eric Schmitt, a Republican who is also a US Senate candidate in the 2022 election, greeted Biden with a scathing letter -- one which began with a false claim. 
  <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
@@ -444,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/04/just-dont-call-it-a-reset-495324">POLITICO Playbook: Just don’t call it a ‘reset’</a> Politico: And U.S. intelligence assesses Russia is planning a major Ukraine offensive. 
- <p class="updated_time"> 07:05 AM CT, Dec. 03 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/03/on-to-the-rest-of-congress-end-of-year-to-do-list-495311">On to the rest of Congress’ end-of-year to-do list</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
