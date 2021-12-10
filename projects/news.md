@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
  <p class="updated_time"> 04:23 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062946434/the-united-nations-says-afghanistans-economy-is-collapsing-before-our-eyes">The United Nations says Afghanistan's economy is collapsing `before our eyes'</a> NPR: U.N. humanitarian chief warned that Afghanistan's economic collapse "is happening before our eyes" and urged the international community to act to stop "the freefall" before it leads to more deaths. 
+ <a href="https://www.npr.org/2021/12/10/1062946434/the-united-nations-says-afghanistans-economy-is-collapsing-before-our-eyes">The United Nations says Afghanistan's economy is collapsing 'before our eyes'</a> NPR: The U.N. humanitarian chief urged the international community to act to stop Afghanistan's economic freefall before it leads to more deaths. 
  <p class="updated_time"> 04:06 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
@@ -249,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">He had to raise menu prices 3 times this year to survive, as prices kept climbing</a> NPR: More businesses are passing their own higher costs on to consumers as inflation hits a multi-decade high. 
+ <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation soars to 6.8% in November, the highest level since 1982</a> NPR: Consumer prices in November were 6.8% higher than a year ago. That's the highest rate of inflation in nearly four decades. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
