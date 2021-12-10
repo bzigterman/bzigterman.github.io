@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Unvaccinated Ghanaians have two weeks to return home - and will be given a jab at the airport. 
  <p class="updated_time"> 07:54 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, 4-Time Winner of Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
- <p class="updated_time"> 06:48 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Unvaccinated Ghanaians have two weeks to return home - and will be given a jab at the airport. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 05:53 AM CT, Dec. 10 </p> 
@@ -35,6 +35,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
  <p class="updated_time"> 05:13 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
+ <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
+ <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/business/britain-covid-business.html">New Virus Restrictions in Britain Worry Businesses</a> NYT: “None of it’s going to be good,” an economist warns as people are likely to retreat from some aspects of social life as Covid measures tighten. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
@@ -45,7 +49,7 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
- <p class="updated_time"> 02:16 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 03:09 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
@@ -117,6 +121,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
+ <p class="updated_time"> 01:32 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/movies/a-son-un-fils-review.html">‘A Son (Un Fils)’ Review: The Pain of Others</a> NYT: In this Tunisian drama, a terrorist attack sends a husband and wife into a spiraling crisis, opening a world of hurt and understanding. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
@@ -183,10 +189,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
  <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
+ <p class="updated_time"> 01:17 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 08:11 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/us/politics/biden-putin-ukraine-summit.html">Biden and Putin Hold Virtual Summit Over Ukraine</a> NYT: President Biden said a Russian invasion of Ukraine would result in heavy economic penalties for Mr. Putin, in a tense meeting. 
  <p class="updated_time"> 05:28 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/science/pandemic-adolescents-depression-anxiety.html">Surgeon General Warns of Youth Mental Health Crisis</a> NYT: The coronavirus pandemic intensified a rise in adolescent depression, anxiety and mental health distress that was underway before the spring of 2020. 
+ <p class="updated_time"> 05:09 PM CT, Dec. 07 </p> 
+ <a href="https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html">U.A.E. Changes Its Weekend to Align With West</a> NYT: The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.nytimes.com/2021/12/07/world/europe/here-are-five-takeaways-from-the-biden-putin-call.html">Here are five takeaways from the Biden-Putin call.</a> NYT: The meeting was a big foreign policy test for President Biden, with consequences for the stability of Europe, the credibility of American threats and the future of Ukraine. 
 
@@ -198,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
+ <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 08:04 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 08:01 AM CT, Dec. 10 </p> 
@@ -229,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden’s megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy faces make or break moment with proxy voting case</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy's proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/north-carolina-senate-fight-524071">‘Trump-hater’ vs. ‘Washington insider’: N.C. Republicans squabble over Senate seat</a> Politico: The GOP Senate primary in North Carolina is heating up this week with a slew of negative ads. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
@@ -251,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest level since 1982</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
+ <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest in nearly four decades</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
@@ -328,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/new-york-attorney-general-depose-donald-trump/index.html">New York attorney general subpoenas Trump for testimony in civil fraud investigation</a> CNN: The New York attorney general is seeking to depose former President Donald Trump as part of a civil fraud investigation into the Trump Organization, according to a source familiar with the matter. 
  <p class="updated_time"> 02:11 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/north-carolina-primary-elections-redistricting.html">North Carolina Supreme Court Delays 2022 Primary Elections</a> NYT: In response to lawsuits over North Carolina’s political maps, the justices issued an order on Wednesday pushing back the state’s primaries from March to May. 
- <p class="updated_time"> 12:37 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/dole-foundation-cut-ties-january-6-organizer/index.html">Dole foundation cuts ties with organizer helping with funeral for alleged role in January 6</a> CNN: The Elizabeth Dole Foundation confirms it has cut ties with event organizer Tim Unes who was working on late Senate Majority Leader Bob Dole's funeral arrangements because of Unes' alleged role in helping to organize the January 6 "Stop the Steal" rally, which ultimately led to the storming of the US Capitol. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
  <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
