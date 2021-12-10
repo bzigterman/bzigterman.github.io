@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
  <p class="updated_time"> 04:31 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062475770/as-the-omicron-covid-variant-spreads-experts-sound-warning-on-vaccine-access">Fix the global vaccine rollout or face even worse COVID variants, experts warn</a> NPR: The world has "lost the plot" on equitable vaccine access and is falling far short of targets to vaccinate the global south, according to scathing assessments from experts. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
- <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/canada-threats-retaliatory-tariffs-electric-vehicles-524104">Canada threatens U.S. with retaliatory tariffs in EV tax credit dispute</a> Politico: 'Canada will defend its national interests,' letter to U.S. lawmakers says. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 04:26 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/presidents-late-night-shows-television-524089">7 memorable presidential appearances on late-night television</a> Politico: Take a walk down memory lane as Biden makes his appearance on The Tonight Show. 
  <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
@@ -368,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
- <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/bob-dole-body-capitol.html">Dole is lying in state at the Capitol, returning to the building where he served for decades.</a> NYT: President Biden spoke at the tribute, but there will be no public viewing because of the pandemic. 
  <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/inflation-price-gains.html">Here's Why Inflation Is Worrying Washington</a> NYT: Price gains have moved up sharply for months, but the fact that the trend is lasting and broadening has newly put policymakers on red alert. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
