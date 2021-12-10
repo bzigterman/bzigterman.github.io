@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy faces make or break moment with proxy voting case</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jussie-smollett-convicted-staging-attack-524057">Jussie Smollett convicted of staging attack, lying to police</a> Politico: He was acquitted on one count. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden Rallies Global Democracies as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 04:30 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/democrats-biden-polling-woes-523719">Dems plot escape from Biden’s poll woes</a> Politico: The party’s own polling has the president in the red. Lawmakers know they need to get better at selling his agenda to avert midterm disaster. 
- <p class="updated_time"> 11:58 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/news/2021/12/05/bob-dole-republican-presidential-nominee-advance-obit-033611">Bob Dole, longtime Senate leader and 1996 GOP presidential nominee, dies at 98</a> Politico: Dole’s life stretched from its beginnings in rural Kansas to the Italian battlefields during World War II to Congress. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
  <p class="updated_time"> 09:40 AM CT, Dec. 04 </p> 
