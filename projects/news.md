@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
+ <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/truck-in-fatal-mexican-crash-was-packed-with-over-160-migrants-11639176078">Truck in Fatal Crash Was Packed With Over 160 Migrants</a> WSJ: Smugglers have been cramming people into tractor-trailers to avoid increased inspections of passenger buses on their way to the U.S., human-rights workers said. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/for-clues-to-how-omicron-plays-out-in-the-u-s-look-to-the-u-k-11639135145">U.K. Provides Clues on How Omicron Could Play Out in the U.S.</a> WSJ: Britain is emerging as a testing ground in the battle for dominance between the new Omicron variant of the coronavirus and Delta, the earlier strain that is currently driving most infections in the U.S. and Europe. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
- <p class="updated_time"> 06:45 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/at-least-49-migrants-killed-in-truck-crash-in-southern-mexico-11639101003">At Least 55 Migrants Killed in Crash in Mexico</a> WSJ: A trailer truck jammed full of Central American migrants crashed into a bridge, killing at least 55 people and injuring more than 104 others in southern Mexico. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 06:18 AM CT, Dec. 10 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/trump-bank-regulator-uprising-democrats-524115">Biden, Warren back uprising against Trump bank regulator</a> Politico: The partisan battle erupted after the Democrats who make up the majority of the FDIC’s board voted to take public feedback on potential changes to the agency’s bank merger approval process. 
+ <p class="updated_time"> 05:21 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/canada-threats-retaliatory-tariffs-electric-vehicles-524104">Canada threatens U.S. with retaliatory tariffs in EV tax credit dispute</a> Politico: 'Canada will defend its national interests,' letter to U.S. lawmakers says. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
  <p class="updated_time"> 04:09 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/abortion-rights-supporters-reaction-texas/index.html">Abortion rights supporters see little to cheer in new Supreme Court opinion</a> CNN: One hundred days after allowing a Texas law that bars abortion after the first six weeks of pregnancy to go into effect -- sending women scrambling to neighboring states to obtain a procedure protected by the Constitution -- the Supreme Court on Friday gave supporters of abortion rights little to celebrate. 
- <p class="updated_time"> 03:55 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 03:32 PM CT, Dec. 10 </p> 
@@ -343,7 +345,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/jussie-smollett-convicted-staging-attack-524057">Jussie Smollett convicted of staging attack, lying to police</a> Politico: He was acquitted on one count. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
+ <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Debt Limit Split Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
- <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
