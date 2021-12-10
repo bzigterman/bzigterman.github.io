@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 05:54 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
+ <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump swears in criticism of Benjamin Netanyahu’s loyalty</a> BBC: The former president rails against his once-close ally, and says he saved Israel from destruction. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59604649?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India holds funerals for top general and his wife after crash</a> BBC: Gen Bipin Rawat, who died in a helicopter crash, was cremated with full military honours. 
  <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
- <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
+ <p class="updated_time"> 05:52 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/us-mexico-border-migrant-children/index.html">Key officials raised alarm about care of migrant children in government custody, new memo reveals </a> CNN: As the Biden administration scrambled to deal with thousands of migrant children at the US-Mexico border this spring, officials were raising concerns that they were ditching "even the most basic safety procedures" and setting up facilities "run like disaster camps." 
  <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
@@ -254,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen tries to preempt inflation data, GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
- <p class="updated_time"> 07:18 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/wisconsin-2020-election-review/index.html">'It's the same story': Wisconsin Republicans' secretive review of 2020 election takes lessons from Arizona's conspiracy-laden process</a> CNN: Wisconsin's partisan review of the 2020 election results has turned into an Arizona-style circus, with the Republicans behind it targeting local officials and casting doubt on the election's outcome -- without offering any evidence of wrongdoing. 
  <p class="updated_time"> 07:01 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/state-department-mark-lenzi-lawsuit-havana-syndrome/index.html">State Department officer struck by Havana syndrome sues Blinken and agency for alleged disability discrimination</a> CNN: A State Department officer who says he was struck by the strange constellation of symptoms now known as "Havana syndrome" in 2017 is suing Secretary of State Antony Blinken and the State Department for disability discrimination, according to court filings. 
  <p class="updated_time"> 06:58 PM CT, Dec. 09 </p> 
