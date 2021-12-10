@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 12:58 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/migrant-truck-crash-in-mexico-they-were-all-cadavers.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 12:55 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
- <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
@@ -197,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
- <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
 
 
 </details>
@@ -208,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
+ <p class="updated_time"> 01:37 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
@@ -224,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">What Happened When Philadelphia Mandated Covid Vaccines for Health Workers</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
- <p class="updated_time"> 12:17 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
  <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
  <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
@@ -261,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/uk-court-extradition-us-spying-524073">U.K. court permits Assange extradition to U.S. on spying charges</a> Politico: A British appellate court opened the door Friday for Julian Assange to be extradited to the United States by overturning a lower court ruling that found the WikiLeaks founder’s mental health was too fragile to withstand the American criminal justice system. 
  <p class="updated_time"> 06:52 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/congress-flood-risk-infrastructure-climate/index.html">These lawmakers' districts are at highest risk of flooding. Here's where they stand on the climate crisis.</a> CNN: UN scientists were unequivocal in a landmark report published this summer: Human-caused climate change is intensifying extreme weather events. No region is spared from extreme weather, but America's coasts are overwhelmingly at risk to flooding caused by rising seas, stronger hurricanes and torrential rain. 
+ <a href="https://www.cnn.com/2021/12/10/politics/congress-flood-risk-infrastructure-climate/index.html">These lawmakers' districts are at highest risk of flooding. See how they voted on two critical climate bills.</a> CNN: UN scientists were unequivocal in a landmark report published this summer: Human-caused climate change is intensifying extreme weather events. No region is spared from extreme weather, but America's coasts are overwhelmingly at risk to flooding caused by rising seas, stronger hurricanes and torrential rain. 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 06:07 AM CT, Dec. 10 </p> 
