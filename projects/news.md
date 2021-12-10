@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 12:58 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/migrant-truck-crash-in-mexico-they-were-all-cadavers.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 12:55 PM CT, Dec. 10 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
- <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-interior-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
@@ -27,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59608785?at_medium=RSS&at_campaign=KARANGA">Spanish floods claim first victim as towns are engulfed</a> BBC: At least one person died when rivers burst their banks in northern Spain. 
- <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 11:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump uses expletive to attack ex-ally Benjamin Netanyahu</a> BBC: The former president rails against the ex-Israeli leader, saying he saved Israel from destruction. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
@@ -199,6 +197,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
+ <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
 
 
 </details>
@@ -210,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
+ <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 01:14 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/appeals-court-suit-trump-muslim-ban-524090">Appeals court revives suit over Trump ‘Muslim ban’ documents</a> Politico: D.C. Circuit ruling could open more draft documents to public disclosure 
  <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
  <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
- <p class="updated_time"> 12:11 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/astronaut-wings-bezos-branson-shatner/index.html">US gives Bezos, Branson and Shatner their astronaut wings </a> CNN: The US government is making it official -- Jeff Bezos, Richard Branson, and William Shatner have earned the title of "astronaut" after their flights to the edge of space. 
  <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
@@ -236,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/state-department-review-afghanistan-withdrawal/index.html">State Department launches review of its role in the US withdrawal from Afghanistan </a> CNN: The State Department has begun a 90-day review of its role in the withdrawal from Afghanistan that will focus on its actions during the last year of the Trump administration and the first nine months of the Biden administration, Secretary of State Antony Blinken announced in a message to the department's workforce Friday. 
  <p class="updated_time"> 11:23 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
- <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
@@ -382,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
+ <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
