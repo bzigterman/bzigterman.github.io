@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:26 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 09:43 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
+ <p class="updated_time"> 09:42 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
+ <p class="updated_time"> 09:39 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
+ <p class="updated_time"> 09:37 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
+ <p class="updated_time"> 09:36 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
  <p class="updated_time"> 08:45 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, 4-Time Winner of Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 08:27 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
- <p class="updated_time"> 08:14 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: All adult arrivals must be vaccinated</a> BBC: Ghanaians who have not been jabbed have two weeks to go home - and will be vaccinated at the airport. 
  <p class="updated_time"> 07:54 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
@@ -37,10 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59604649?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India holds funerals for top general and his wife after crash</a> BBC: Gen Bipin Rawat, who died in a helicopter crash, was cremated with full military honours. 
  <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
- <p class="updated_time"> 05:13 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
- <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/britain-covid-business.html">New Virus Restrictions in Britain Worry Businesses</a> NYT: “None of it’s going to be good,” an economist warns as people are likely to retreat from some aspects of social life as Covid measures tighten. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Dysfunction Plagues Global Shipping</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’ 
+ <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’ 
  <p class="updated_time"> 03:34 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/iran-bets-its-economy-will-hold-as-it-takes-tough-stance-on-nuclear-program-11639146842">Iran Bets Its Economy Will Hold as It Takes Tough Stance on Nuclear Program</a> WSJ: Negotiators are in Vienna this week to find a breakthrough in stalled talks to revive the 2015 nuclear deal. 
  <p class="updated_time"> 03:09 AM CT, Dec. 10 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 01:40 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062530356/china-biden-democracy-summit">Not invited to Biden's democracy summit, China launches a propaganda blitz</a> NPR: President Biden's Summit for Democracy has kicked off. China is not invited — but it's still trying to project its own narratives about democracy. 
- <p class="updated_time"> 01:32 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/movies/a-son-un-fils-review.html">‘A Son (Un Fils)’ Review: The Pain of Others</a> NYT: In this Tunisian drama, a terrorist attack sends a husband and wife into a spiraling crisis, opening a world of hurt and understanding. 
  <p class="updated_time"> 12:10 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062720266/canada-bans-conversion-therapy">After two failed attempts, Canada bans conversion therapy</a> NPR: The new law, which bans the widely discredited practice aimed at changing a person's sexual orientation or gender identity takes, effect on Jan. 7. 
  <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
@@ -208,9 +208,11 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">Foreign governments desperate for Covid vaccines turn to K Street for help</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
- <p class="updated_time"> 09:27 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 09:41 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
- <p class="updated_time"> 09:26 AM CT, Dec. 10 </p> 
+ <p class="updated_time"> 09:37 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
+ <p class="updated_time"> 09:36 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Consumer prices surge at blistering pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
- <p class="updated_time"> 05:11 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/january-6-committee-witness-cooperation-trump-allies-stonewall/index.html">January 6 committee touts cooperation among witnesses as key Trump allies stonewall panel</a> CNN: Two parallel realities are emerging as the House select committee investigating the January 6 attack on the US Capitol continues to build its investigation. While a growing list of individuals are cooperating, a small but key group of former President Donald Trump's allies continue to stonewall the panel. Information serves as the committee's most valuable currency on both fronts, while the clock is becoming its worst enemy. 
  <p class="updated_time"> 05:00 AM CT, Dec. 10 </p> 
@@ -279,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 11:41 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html">Analysis: Supreme Court endgame looms over Trump's January 6 tango with Congress</a> CNN: Former President Donald Trump's efforts to block the release of potentially damning White House records hit a new snag in court -- but his promise to appeal all but guarantees the final call will land with the Supreme Court. 
+ <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html">Supreme Court endgame looms over Trump's January 6 tango with Congress</a> CNN: Former President Donald Trump's efforts to block the release of potentially damning White House records hit a new snag in court -- but his promise to appeal all but guarantees the final call will land with the Supreme Court. 
  <p class="updated_time"> 11:09 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/children-lost-parents-caregivers-covid-grief.html">Children, Coping With Loss, Are Pandemic’s ‘Forgotten Grievers’</a> NYT: A bipartisan group led by two former governors is urging President Biden to help an estimated 167,000 children who have lost parents or caregivers. 
  <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
