@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:38 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59595276?at_medium=RSS&at_campaign=KARANGA">Madagascar food crisis: How a woman helped save her village from starvation</a> BBC: Loharano has avoided the fate of many in southern Madagascar through the use of new farming methods. 
  <p class="updated_time"> 06:32 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Where are Afghanistan's women MPs now?</a> BBC: Sixty of Afghanistan's 69 women MPs are scattered across the globe, but many aim to continue fighting for women's rights. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's missing women MPs</a> BBC: Sixty of Afghanistan's 69 women MPs are scattered across the globe, but many aim to continue fighting for women's rights. 
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59590518?at_medium=RSS&at_campaign=KARANGA">Valérie Pécresse: Part-Thatcher, part-Merkel and wants to run France</a> BBC: Valérie Pécresse has given the Republicans a lift, and a poll suggests she could be president. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:05 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59596267?at_medium=RSS&at_campaign=KARANGA">Football fans spending millions on club crypto-tokens</a> BBC: Supporters have spent at least £260m on controversial fan tokens from major clubs, data suggests. 
  <p class="updated_time"> 06:01 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">The country that is Europe's hub for cargo bikes</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
+ <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">How this country became Europe's cargo bike hub</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
  <p class="updated_time"> 05:40 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59599279?at_medium=RSS&at_campaign=KARANGA">Capitol riot: US appeals court rejects Trump's request to block files</a> BBC: A panel investigating the Capitol riot wants to see the ex-president's White House records. 
  <p class="updated_time"> 05:15 PM CT, Dec. 09 </p> 
