@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59606655?at_medium=RSS&at_campaign=KARANGA">Taylor Swift to face trial in Shake It Off copyright case</a> BBC: The phrase "haters gonna hate" is at the centre of the case, which had previously been dismissed. 
  <p class="updated_time"> 02:26 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59590518?at_medium=RSS&at_campaign=KARANGA">Valérie Pécresse: Part-Thatcher, part-Merkel and wants to run France</a> BBC: Valérie Pécresse has given the Republicans a lift, and a poll suggests she could be president. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59596267?at_medium=RSS&at_campaign=KARANGA">Football fans spending millions on club crypto-tokens</a> BBC: Supporters have spent at least £260m on controversial fan tokens from major clubs, data suggests. 
  <p class="updated_time"> 06:01 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">The country that is Europe's hub for cargo bikes</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
  <p class="updated_time"> 05:40 PM CT, Dec. 09 </p> 
@@ -99,12 +103,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
  <p class="updated_time"> 10:34 AM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59593001?at_medium=RSS&at_campaign=KARANGA">Saudi camel beauty pageant cracks down on cosmetic enhancements</a> BBC: More than 40 camels are disqualified for receiving injections and other cosmetic enhancements. 
- <p class="updated_time"> 09:59 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59571712?at_medium=RSS&at_campaign=KARANGA">In pictures: Israel hands seized relics to Egypt</a> BBC: The haul includes figurines of ancient queens, hieroglyphic inscriptions and burial offerings. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
- <p class="updated_time"> 08:27 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59582145?at_medium=RSS&at_campaign=KARANGA">Woman fined €1,200 for causing Tour de France pile-up</a> BBC: The woman's cardboard sign brought down dozens of cyclists during a stage of the elite race in June. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
