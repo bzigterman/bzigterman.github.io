@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Julian Assange closer to being extradited from UK to US, after US government wins extradition case in London. 
+ <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
+ <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
+ <p class="updated_time"> 04:23 AM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1062946434/the-united-nations-says-afghanistans-economy-is-collapsing-before-our-eyes">The United Nations says Afghanistan's economy is collapsing `before our eyes'</a> NPR: U.N. humanitarian chief warned that Afghanistan's economic collapse "is happening before our eyes" and urged the international community to act to stop "the freefall" before it leads to more deaths. 
  <p class="updated_time"> 04:06 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
+ <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 03:33 AM CT, Dec. 10 </p> 
@@ -17,14 +25,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
- <p class="updated_time"> 02:04 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59577054?at_medium=RSS&at_campaign=KARANGA">Larry Hoover: Kanye and Drake set aside feud for prisoner concert</a> BBC: The former friends stage a concert in a bid to free Larry Hoover, who's been in jail for decades. 
  <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
- <p class="updated_time"> 01:28 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
- <p class="updated_time"> 04:18 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
  <p class="updated_time"> 04:00 PM CT, Dec. 09 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
  <p class="updated_time"> 05:12 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/boris-johnson-christmas-coronavirus.html">Video About Christmas Party Drops Boris Johnson Into Another Mess</a> NYT: Critics have condemned a recording showing the prime minister’s staff joking about breaches of coronavirus restrictions last year, when Britain was in lockdown. 
- <p class="updated_time"> 05:11 PM CT, Dec. 08 </p> 
- <a href="https://www.npr.org/2021/12/08/1062469781/dc-council-renames-street-saudi-embassy-jamal-khashoggi">D.C. council renames the street in front of the Saudi embassy after Jamal Khashoggi</a> NPR: The decision marks a rebuke to Saudi Crown Prince Mohammed bin Salman, who according to U.S. intelligence approved the killing of the former Washington Post journalist and critic of Saudi policy. 
  <p class="updated_time"> 03:06 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-covid-johnson.html">Britain Introduces 'Plan B' Covid Measures to Tackle Omicron</a> NYT: People in England will be urged to work from home and have to show proof of vaccination. Critics say the prime minister is trying to deflect attention from a growing outcry over reports his staff flouted Covid rules. 
  <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
@@ -199,7 +199,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden's megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
+ <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy faces make or break moment with proxy voting case</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/north-carolina-senate-fight-524071">‘Trump-hater’ vs. ‘Washington insider’: N.C. Republicans squabble over Senate seat</a> Politico: The GOP Senate primary in North Carolina is heating up this week with a slew of negative ads. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 ways Covid hit fast forward on the future</a> Politico: The pandemic forced Americans to innovate, from restaurant kitchens to the halls of Congress. Here are the pandemic innovations that are likely to stick. 
  <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
@@ -264,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/kash-patel-january-6-committee/index.html">Former Trump admin official Kash Patel meets with January 6 committee</a> CNN: Kash Patel, a former chief of staff to then-acting Secretary of Defense Christopher Miller, is meeting with the House committee investigating January 6, according to a source familiar. 
  <p class="updated_time"> 05:37 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/senate-debt-limit-plan-thursday-vote/index.html">Senate passes debt limit fast-track plan as lawmakers race to prevent default</a> CNN: The Senate will begin considering a bill on Thursday that would create a fast-track process allowing Democrats to raise the federal debt limit without votes from Republicans, a crucial next step as lawmakers race the clock to avert a catastrophic debt default. 
- <p class="updated_time"> 05:34 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/china-wto-20-years-524050">China joined rules-based trading system — then broke the rules</a> Politico: Four U.S. trade officials who helped plan and negotiate U.S. normalization of trade ties with China reflect what the 20 years of China's entry into WTO have meant. 
  <p class="updated_time"> 05:30 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-hispanic-voters-democrats-problem/index.html">Analysis: Democrats have a major problem with Hispanic voters</a> CNN: Lost amid Donald Trump's lies about the 2020 election was this important fact: The then-President did surprisingly well among Hispanic voters in several major states. 
  <p class="updated_time"> 05:30 PM CT, Dec. 09 </p> 
@@ -292,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
  <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
+ <p class="updated_time"> 03:26 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/capitol-police-whistleblowers-face-retaliation-524044">Lawyer: Capitol Police whistleblowers face retaliation</a> Politico: A letter to Congress says Capitol Police intelligence analysts warned leadership of the impending Jan. 6 attack. They were ignored then and are now being targeted for speaking out. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
@@ -344,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
  <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
- <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/defense-pentagon-policy-progressives-523964">Progressives get rolled on Pentagon policy</a> Politico: Liberal Democrats' losses show the limits of their party's slim majorities in Congress. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -420,6 +424,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
+ <a href="https://www.politico.com/news/2021/12/07/pennsylvania-senate-primary-test-loyal-democrat-523862">Manchin and Sinema get star billing in Pa. Senate race</a> Politico: The Pennsylvania contest could determine the party’s new swing state playbook. 
  <p class="updated_time"> 06:15 PM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/news/2021/12/06/senate-gop-debt-limit-defense-bill-523831">Senate GOP rejects debt limit fix on must-pass defense bill</a> Politico: It's a strategy that Democratic leaders have floated to rescue Congress from a borrowing-limit box canyon. But many upper-chamber Republicans are not impressed. 
  <p class="updated_time"> 04:55 PM CT, Dec. 06 </p> 
