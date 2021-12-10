@@ -215,7 +215,7 @@ permalink: /projects/news/
 
 </details>
 
-<details>
+<details open>
 <summary>Politics</summary>
 
 ",politics_news_lines,"
