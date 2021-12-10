@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:45 PM CT, Dec. 10 </p> 
+ <p class="updated_time"> 12:58 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/migrant-truck-crash-in-mexico-they-were-all-cadavers.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
+ <p class="updated_time"> 12:55 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
+ <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
- <p class="updated_time"> 12:18 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">The Monkees star Michael Nesmith dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-interior-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:37 AM CT, Dec. 10 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 10:35 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
- <p class="updated_time"> 10:34 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 10:22 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 10:10 AM CT, Dec. 10 </p> 
@@ -82,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; ‘an urgent solution is needed before it’s too late’ 
+ <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
  <p class="updated_time"> 03:34 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/iran-bets-its-economy-will-hold-as-it-takes-tough-stance-on-nuclear-program-11639146842">Iran Bets Its Economy Will Hold as It Takes Tough Stance on Nuclear Program</a> WSJ: Negotiators are in Vienna this week to find a breakthrough in stalled talks to revive the 2015 nuclear deal. 
  <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
@@ -206,20 +206,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 01:14 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/appeals-court-suit-trump-muslim-ban-524090">Appeals court revives suit over Trump ‘Muslim ban’ documents</a> Politico: D.C. Circuit ruling could open more draft documents to public disclosure 
  <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored two memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
+ <p class="updated_time"> 12:50 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
  <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">What Happened When Philadelphia Mandated Covid Vaccines for Health Workers</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
- <p class="updated_time"> 12:23 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 12:17 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
  <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
@@ -310,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/trump-documents/index.html">Appeals court rejects Trump's bid to keep Jan. 6 documents from House committee</a> CNN: A federal appeals court Thursday ruled against former President Donald Trump in his effort to block his White House records from being released to the House select committee investigating January 6. 
  <p class="updated_time"> 08:04 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/federal-appeals-court-south-carolina-mask-mandate-provision-524060">Federal appeals court hears arguments over South Carolina mask mandate provision</a> Politico: State officials, including Gov. Henry McMaster, asked the 4th Circuit to step in after a lower-court judge blocked an order passed by the Legislature. 
- <p class="updated_time"> 07:46 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/judge-texas-abortion-enforcement-not-valid-524067">Judge: Texas abortion law’s enforcement mechanism not valid</a> Politico: Planned Parenthood celebrated the ruling but said abortion services still remain “virtually inaccessible" in Texas. 
  <p class="updated_time"> 07:43 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/cruz-block-biden-ambassador-nominees-gop-senators-manchin/index.html">GOP senators and Manchin in talks to work around Cruz's ambassador blockade</a> CNN: A growing number of Senate Republicans are expressing deep concerns about the impact that Sen. Ted Cruz's blockade on President Joe Biden's ambassador nominees is having around the world -- and some are in discussions with Democratic Sen. Joe Manchin to work around the Texas conservative. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
@@ -332,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Divide Over Debt Limit Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
+ <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Congress clears Schumer-McConnell debt pact</a> Politico: Once President Joe Biden signs the bill, Senate Democrats will get a one-time free pass to raise the U.S. borrowing limit in a simple-majority vote. 
  <p class="updated_time"> 09:48 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-summit-for-democracy-524006">Biden calls summit ‘inflection point’ for democracies</a> Politico: The president also said he would “keep fighting to pass” voting rights legislation. 
- <p class="updated_time"> 09:37 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/jobless-unemployment-claims-drop-524007">U.S. jobless claims drop 52-year low amid seasonal volatility</a> Politico: Unemployment claims dropped by 43,000 to 184,000 last week, the lowest since September 1969, the Labor Department said. 
  <p class="updated_time"> 09:28 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/politics/dole-funeral-planner-capitol-riot.html">Event Planner Working on Bob Dole’s Funeral Is Let Go for Jan. 6 Ties</a> NYT: Tim Unes was helping to plan memorial events for Mr. Dole when it came to light that he had been subpoenaed by the committee investigating the Capitol riot. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
