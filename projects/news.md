@@ -33,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171426/truck-crash-kills-more-than-50-migrants-in-southern-mexico">Truck crash kills more than 50 migrants in southern Mexico</a> NPR: A truck believed to be carrying migrants crashed near Mexico's southen border with Guatemala, killing more than 50 people. 
  <p class="updated_time"> 03:19 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171405/olympic-officials-avoided-direct-answers-when-asked-about-chinas-human-rights-is">Olympic officials avoided direct answers when asked about China's human rights issue</a> NPR: Four countries have announced diplomatic boycotts of the Beijing Winter Olympics because of China's human rights violations. The International Olympic Committee claimed neutrality around the issue. 
- <p class="updated_time"> 03:19 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171398/masayuki-uemura-nintendo-engineer-who-created-nes-and-snes-game-consoles-dies-at">Masayuki Uemura, Nintendo engineer who created NES and SNES game consoles, dies at 78</a> NPR: Masayuki Uemurao helped revolutionize the home video game industry with the Nintendo NES, and will forever be remembered for games like Duck Hunt. The Japanese engineer died Monday at the age of 78. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 02:51 PM CT, Dec. 10 </p> 
@@ -147,6 +145,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062475770/as-the-omicron-covid-variant-spreads-experts-sound-warning-on-vaccine-access">Fix the global vaccine rollout or face even worse COVID variants, experts warn</a> NPR: The world has "lost the plot" on equitable vaccine access and is falling far short of targets to vaccinate the global south, according to scathing assessments from experts. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
+ <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
+ <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/canada-threats-retaliatory-tariffs-electric-vehicles-524104">Canada threatens U.S. with retaliatory tariffs in EV tax credit dispute</a> Politico: 'Canada will defend its national interests,' letter to U.S. lawmakers says. 
+ <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Who Can Be Called an Astronaut? The F.A.A. Will No Longer Say.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 04:26 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/presidents-late-night-shows-television-524089">7 memorable presidential appearances on late-night television</a> Politico: Take a walk down memory lane as Biden makes his appearance on The Tonight Show. 
+ <p class="updated_time"> 04:21 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-manchin-vote/index.html">Biden not sure whether Manchin will back 'Build Back Better' bill ahead of call next week</a> CNN: President Joe Biden said Friday he doesn't know if he can get West Virginia Democratic Sen. Joe Manchin on board to support his social safety net bill, but is expected to speak with him about the legislation next week as the Senate moves closer to its holiday recess. 
  <p class="updated_time"> 04:14 PM CT, Dec. 10 </p> 
@@ -266,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 08:26 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
- <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">A relatively obscure shift at the CIA could have a significant impact on the lives of spies</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 08:04 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 08:01 AM CT, Dec. 10 </p> 
@@ -314,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
- <p class="updated_time"> 11:41 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html">Supreme Court endgame looms over Trump's January 6 tango with Congress</a> CNN: Former President Donald Trump's efforts to block the release of potentially damning White House records hit a new snag in court -- but his promise to appeal all but guarantees the final call will land with the Supreme Court. 
  <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 10:50 PM CT, Dec. 09 </p> 
@@ -358,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/house-vote-protect-our-democracy-act/index.html">House passes Protect Our Democracy Act to curb presidential abuses of power</a> CNN: The House voted 220-208 on Friday to pass the "Protect Our Democracy" Act, which addresses presidential abuses of power and reinforces the checks and balances between the branches of government. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
+ <p class="updated_time"> 03:39 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-texts/index.html">January 6 committee gets Meadows texts, emails with 'wide range' of people while attack was underway</a> CNN: Former White House chief of staff Mark Meadows provided the House select committee investigating the January 6 riot with text messages and emails that show he was "exchanging with a wide range of individuals while the attack was underway," according to a source with knowledge of the communications. 
  <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
  <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
@@ -366,12 +368,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
+ <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
- <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
- <p class="updated_time"> 10:40 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/inflation-price-gains.html">Here's Why Inflation Is Worrying Washington</a> NYT: Price gains have moved up sharply for months, but the fact that the trend is lasting and broadening has newly put policymakers on red alert. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/senate-debt-ceiling-workaround-524015">Congress clears Schumer-McConnell debt pact</a> Politico: Once President Joe Biden signs the bill, Senate Democrats will get a one-time free pass to raise the U.S. borrowing limit in a simple-majority vote. 
  <p class="updated_time"> 07:32 AM CT, Dec. 09 </p> 
@@ -386,6 +386,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
+ <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
