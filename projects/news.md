@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/migrant-truck-crash-in-mexico-they-were-all-cadavers.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
+ <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th-century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
- <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 08:20 PM CT, Dec. 09 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/france-khashoggi-arrest-mistaken-identity.html">Wrong Man Arrested Over Khashoggi Killing, France Says</a> NYT: The French authorities released a Saudi man who shared the name and age of a suspect in the murder of the dissident writer, saying it was a case of mistaken identity. 
  <p class="updated_time"> 07:17 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/t-rex-christmas-jumper-natural-history-museum.html">It’s a Christmas Sweater on a T. Rex: You Sure You Want to Call It Ugly?</a> NYT: The Natural History Museum in London outfitted its animatronic Tyrannosaurus rex in a colorful Christmas sweater. 
- <p class="updated_time"> 03:36 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-russia-china.html">Germany's New Government Vows Tough Approach on China and Russia</a> NYT: Though its plans are aspirational for the moment, its commitments to Europe, NATO and the trans-Atlantic relationship are solid. 
 
 
 </details>
@@ -212,6 +212,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/appeals-court-suit-trump-muslim-ban-524090">Appeals court revives suit over Trump ‘Muslim ban’ documents</a> Politico: D.C. Circuit ruling could open more draft documents to public disclosure 
  <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored two memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
+ <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
+ <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">What Happened When Philadelphia Mandated Covid Vaccines for Health Workers</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 12:23 PM CT, Dec. 10 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
- <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
@@ -356,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
- <p class="updated_time"> 12:00 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062713684/mark-meadows-jan-6-committee-lawsuit-nancy-pelosi">Mark Meadows is suing the Jan. 6 committee as it moves to hold him in contempt</a> NPR: Mark Meadows is suing House Speaker Nancy Pelosi and the House Jan. 6 committee, asking a judge to block enforcement of two subpoenas it had issued for himself and Verizon. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/fda-authorizes-pfizer-covid-booster-teens-524040">FDA authorizes Pfizer Covid booster for 16-, 17-year-olds</a> Politico: Eligible teens will be able to get the shot once they are at least six months past their second dose. 
  <p class="updated_time"> 10:56 AM CT, Dec. 09 </p> 
@@ -382,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
- <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
