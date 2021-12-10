@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:54 PM CT, Dec. 10 </p> 
+ <p class="updated_time"> 04:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
+ <p class="updated_time"> 04:18 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Officials working to identify over 50 victims</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in the crash. 
+ <p class="updated_time"> 04:08 PM CT, Dec. 10 </p> 
+ <a href="https://www.npr.org/2021/12/10/1063171454/decades-long-dispute-between-mikmaq-community-and-commercial-lobstermen-escalate">Decades-long dispute between Mi'kmaq community and commercial lobstermen escalates</a> NPR: The waters of Nova Scotia, Canada, hold one of the world's most lucrative lobster fisheries. A conflict over how to balance native treaty rights with commercial fishing rules is coming to a head. 
+ <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 03:50 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171398/masayuki-uemura-nintendo-engineer-who-created-nes-and-snes-game-consoles-dies-at">Masayuki Uemura, Nintendo engineer who created NES and SNES game consoles, dies at 78</a> NPR: Masayuki Uemurao helped revolutionize the home video game industry with the Nintendo NES, and will forever be remembered for games like Duck Hunt. The Japanese engineer died Monday at the age of 78. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
- <p class="updated_time"> 03:01 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59603801?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: At least 54 people killed as trailer overturns</a> BBC: More than 100 were injured when a trailer carrying Central American migrants overturned. 
  <p class="updated_time"> 02:51 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
- <p class="updated_time"> 12:27 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791752/what-omicrons-alarming-spread-means-for-the-u-s">What omicron's alarming spread means for the U.S.</a> NPR: The omicron variant is gaining a foothold in Europe. Scientists say it is spreading faster than delta and can do so even in places where many people are vaccinated. What could this mean for the U.S.? 
- <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791731/u-k-s-boris-johnson-on-blast-for-holding-a-christmas-party-during-lockdown-in-20">U.K.'s Boris Johnson on blast for holding a Christmas party during lockdown in 2020 </a> NPR: U.K. Prime Minister Boris Johnson is under fire after it emerged that Christmas parties were held in his official residence in 2020, in violation of COVID restrictions. 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
@@ -208,6 +208,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:26 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/presidents-late-night-shows-television-524089">Seven memorable presidential appearances on late-night television</a> Politico: Take a walk down memory lane as Biden makes his appearance on The Tonight Show. 
+ <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/biden-manchin-vote/index.html">Biden not sure whether Manchin will back 'Build Back Better' bill ahead of call next week</a> CNN: President Joe Biden said Friday he doesn't know if he can get West Virginia Democratic Sen. Joe Manchin on board to support his social safety net bill, but is expected to speak with him about the legislation next week as the Senate moves closer to its holiday recess. 
+ <p class="updated_time"> 04:14 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
+ <p class="updated_time"> 04:09 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/abortion-rights-supporters-reaction-texas/index.html">Abortion rights supporters see little to cheer in new Supreme Court opinion</a> CNN: One hundred days after allowing a Texas law that bars abortion after the first six weeks of pregnancy to go into effect -- sending women scrambling to neighboring states to obtain a procedure protected by the Constitution -- the Supreme Court on Friday gave supporters of abortion rights little to celebrate. 
  <p class="updated_time"> 03:55 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
@@ -215,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:32 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/how-bank-regulators-are-trying-to-oust-a-trump-holdover.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
+ <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 03:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 03:08 PM CT, Dec. 10 </p> 
@@ -225,9 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">Jan. 6 committee issues six new subpoenas, including two Trump associates</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump 
- <p class="updated_time"> 02:30 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
+ <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 02:14 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/january-6-subpoenas-max-miller-/index.html">January 6 committee subpoenas Trump-backed House candidate involved in planning rally</a> CNN: The House select committee investigating the January 6 riot at the US Capitol issued six additional subpoenas Friday, including one to former aide to former President Donald Trump and current Ohio congressional candidate Max Miller. 
  <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
  <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
- <p class="updated_time"> 12:27 PM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html">5 people who are stonewalling the House January 6 committee</a> CNN: A growing number of key allies of former President Donald Trump are refusing to cooperate with the House select committee investigating the January 6 Capitol riot, using various tactics to skirt the panel's subpoenas and stonewall the sweeping probe. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 11:47 AM CT, Dec. 09 </p> 
@@ -428,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 04:15 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/saule-omarova-withdraws-comptroller-of-the-currency/index.html">Biden nominee for key comptroller of the currency post withdraws</a> CNN: President Joe Biden's nominee to be comptroller of the currency, Saule Omarova, has withdrawn her name from consideration after facing resistance from the banking industry, Republicans and some moderate Democrats. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/mcconnell-gop-raise-debt-limit-523878">McConnell secures GOP support for new debt strategy</a> Politico: Senate leaders seem to have found a path forward to avoid a debt cliff without Republican votes. 
  <p class="updated_time"> 10:20 AM CT, Dec. 07 </p> 
