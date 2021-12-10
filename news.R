@@ -102,6 +102,7 @@ politics_news <- full_join(politico_politics, nyt_politics) %>%
   #full_join(bloomberg_politics) %>%
   #full_join(wapo_politics) %>%
   filter(!is.na(item_description)) %>%
+  filter(!grepl("Opinion",item_title)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
   distinct(item_link, .keep_all = TRUE) %>%
@@ -173,6 +174,7 @@ world_news <- full_join(nyt, wsj) %>%
   full_join(bbc) %>%
   full_join(npr_world) %>%
   filter(!is.na(item_description)) %>%
+  filter(!grepl("Opinion",item_title)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
   distinct(item_link, .keep_all = TRUE) %>%
