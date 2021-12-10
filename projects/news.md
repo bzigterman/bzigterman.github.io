@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:26 AM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 02:05 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59599066?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Putin compares Donbas war zone to genocide</a> BBC: Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions. 
  <p class="updated_time"> 02:04 AM CT, Dec. 10 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59604779?at_medium=RSS&at_campaign=KARANGA">Matthew Hunt: Killer of New Zealand policeman sentenced to life in jail</a> BBC: Eli Epiha is sentenced to life in jail for gunning down a policeman who tried to help him. 
  <p class="updated_time"> 10:22 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59574532?at_medium=RSS&at_campaign=KARANGA">Nicaragua cuts ties with Taiwan in favour of Beijing</a> BBC: It comes as the US State Department called for democracies to "expand engagement with Taiwan". 
- <p class="updated_time"> 10:01 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 08:22 PM CT, Dec. 09 </p> 
@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062615024/biden-gives-the-federal-government-3-decades-to-reach-an-ambitious-climate-goal">Biden gives the federal government 3 decades to reach an ambitious climate goal</a> NPR: NPR's Noel King speaks to Gina McCarthy, White House National Climate Adviser, about President Biden's order to make federal vehicles and buildings carbon neutral by 2050. 
  <p class="updated_time"> 04:12 AM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062615010/revisiting-a-2005-conversation-with-bob-dole">Revisiting Steve Inskeep's 2005 conversation with Bob Dole</a> NPR: Bob Dole, who died Sunday, will lie in state Thursday at the U.S. Capitol — acknowledging decades of service as a GOP senator, vice presidential candidate and presidential nominee. 
- <p class="updated_time"> 11:25 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/us/politics/safety-net-apps-tech.html">How Tech Is Helping Poor People Get Government Aid</a> NYT: Even as the government expanded aid programs, many people faced barriers to using them. That problem is now being addressed with apps and streamlined websites. 
  <p class="updated_time"> 09:32 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/us/elections/hillary-clinton-speech-election.html">Hillary Clinton Reads Discarded Victory Speech From 2016 Election</a> NYT: Mrs. Clinton read the long-shelved speech aloud for her offering on MasterClass, a site featuring lessons from prominent figures in the arts, business and other fields. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
