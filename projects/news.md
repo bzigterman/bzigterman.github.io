@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:46 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: Governor Andy Beshear said that the number of victims in the US state could rise to 100. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 04:30 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
