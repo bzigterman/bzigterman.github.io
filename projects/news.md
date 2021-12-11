@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos space company sends first US astronaut's daughter to space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
- <p class="updated_time"> 01:38 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
  <p class="updated_time"> 01:36 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59616114?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volunteers struggle to recover the dead, metres deep in ash and mud</a> BBC: The effort to recover bodies is continuing in Indonesia, after the eruption of Mount Semeru last week. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
