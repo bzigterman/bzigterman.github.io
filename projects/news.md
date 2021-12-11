@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos space company sends first US astronaut's daughter to space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
- <p class="updated_time"> 11:14 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 70 killed in Kentucky's worst ever tornadoes</a> BBC: The governor says the number of victims could rise above 100, in the deadliest event in state history. 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
