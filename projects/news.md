@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 11:14 AM CT, Dec. 11 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59623841?at_medium=RSS&at_campaign=KARANGA">'Deadliest tornado system to ever run through Kentucky'</a> BBC: The governor of the US state of Kentucky says Friday's tornadoes were the worst the state has seen. 
- <p class="updated_time"> 10:03 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 09:10 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
