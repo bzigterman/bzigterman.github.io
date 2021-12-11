@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows Amazon warehouse collapse</a> BBC: Tornadoes have ripped through several states killing more than 50 people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 05:27 AM CT, Dec. 11 </p> 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 11:42 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Crackdown on people smugglers launched</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in a truck crash. 
+ <p class="updated_time"> 11:33 PM CT, Dec. 10 </p> 
+ <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas Aims to Fix Roads, Collect Trash to Stay Popular</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 10:35 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
- <p class="updated_time"> 10:10 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59606395?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa and Dmitry Muratov share joy over win</a> BBC: Maria Ressa and Dmitry Muratov published investigations that angered the leaders of their countries. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
  <p class="updated_time"> 07:31 AM CT, Dec. 10 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
- <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
- <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
+ <a href="https://www.politico.com/news/2021/12/11/malinowski-suporters-redistricting-524098">Malinowski supporters flood the zone, fearing he’ll be ‘sacrificed’ in redistricting</a> Politico: It’s an aggressive approach that’s alienated some in his party. But Malinowski, one of the nation’s most endangered incumbents, doesn’t have much choice. 
+ <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
+ <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/jenna-ellis-trump-lawyer-memos-pence-biden/index.html">Memos from Trump campaign lawyer outline her theories for how Pence could reject Electoral College votes</a> CNN: In the weeks leading up to January 6, one of Donald Trump's campaign lawyers wrote memos outlining how she believed then-Vice President Mike Pence could reject electoral college votes and overturn the 2020 election, including one theory that he could ignore a federal law. 
  <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
- <p class="updated_time"> 06:23 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/trump-bank-regulator-uprising-democrats-524115">Biden, Warren back uprising against Trump bank regulator</a> Politico: The partisan battle erupted after the Democrats who make up the majority of the FDIC’s board voted to take public feedback on potential changes to the agency’s bank merger approval process. 
  <p class="updated_time"> 06:12 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-jimmy-fallon-appearance/index.html">Analysis: Joe Biden heads to late-night to fix what ails him</a> CNN: For the first time as president, Joe Biden is set to appear on late-night TV, with a guest appearance on Jimmy Fallon's "The Tonight Show." 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
- <p class="updated_time"> 04:26 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/presidents-late-night-shows-television-524089">7 memorable presidential appearances on late-night television</a> Politico: Take a walk down memory lane as Biden makes his appearance on The Tonight Show. 
  <p class="updated_time"> 04:21 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
@@ -268,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 02:14 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/january-6-subpoenas-max-miller-/index.html">January 6 committee subpoenas Trump-backed House candidate involved in planning rally</a> CNN: The House select committee investigating the January 6 riot at the US Capitol issued six additional subpoenas Friday, including one to former aide to former President Donald Trump and current Ohio congressional candidate Max Miller. 
- <p class="updated_time"> 01:43 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/prosecutors-jan-6-sentence-524092">Prosecutors seek longest Jan. 6 sentence yet for rioter who assaulted police in Capitol tunnel</a> Politico: Robert Palmer hurled wooden boards and a fire extinguisher at police officers guarding the Lower West Terrace tunnel of the Capitol. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
@@ -320,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden’s megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/north-carolina-senate-fight-524071">‘Trump-hater’ vs. ‘Washington insider’: N.C. Republicans squabble over Senate seat</a> Politico: The GOP Senate primary in North Carolina is heating up this week with a slew of negative ads. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
