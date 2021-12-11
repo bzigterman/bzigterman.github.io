@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
+ <p class="updated_time"> 08:10 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
+ <p class="updated_time"> 08:06 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 07:39 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
  <p class="updated_time"> 07:10 AM CT, Dec. 11 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows Amazon warehouse collapse</a> BBC: Tornadoes have ripped through several states killing more than 50 people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
- <p class="updated_time"> 05:27 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 04:30 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
- <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">Hesitancy, Apathy and Unused Doses: Zambia’s Vaccination Challenges</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only obstacle countries face. 
  <p class="updated_time"> 03:06 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 02:53 AM CT, Dec. 11 </p> 
@@ -38,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:42 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Crackdown on people smugglers launched</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in a truck crash. 
  <p class="updated_time"> 11:33 PM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas Aims to Fix Roads, Collect Trash to Stay Popular</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
+ <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas's Popularity Rests on Hopes It Can Collect the West Bank's Trash</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
- <p class="updated_time"> 06:18 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062937692/philippines-supreme-court-rules-parts-of-the-countrys-terrorism-law-unconstituti">Philippines' high court upholds most of a terrorism law, but strikes down a key point</a> NPR: The law has spawned rancorous court challenges. The court's rejection of one provision represents a win for petitioners, who feared the measure's sweeping definition of terrorism. 
  <p class="updated_time"> 05:50 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
@@ -362,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
- <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
