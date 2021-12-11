@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
+ <p class="updated_time"> 11:14 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 70 killed in Kentucky's worst ever tornadoes</a> BBC: The governor says the number of victims could rise above 100, in the deadliest event in state history. 
+ <p class="updated_time"> 11:02 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
- <p class="updated_time"> 10:53 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 70 killed in Kentucky's worst ever tornadoes</a> BBC: The governor says the number of victims could rise above 100, in the deadliest event in state history. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59623841?at_medium=RSS&at_campaign=KARANGA">'Deadliest tornado system to ever run through Kentucky'</a> BBC: The governor of the US state of Kentucky says Friday's tornadoes were the worst the state has seen. 
  <p class="updated_time"> 10:03 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 09:10 AM CT, Dec. 11 </p> 
@@ -28,11 +34,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows collapsed Amazon warehouse</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
- <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -105,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
- <p class="updated_time"> 01:42 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59616117?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'There are so many dead'</a> BBC: At least 54 people have been killed, and scores more injured, after a truck rolled in southern Mexico. 
  <p class="updated_time"> 01:38 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59606993?at_medium=RSS&at_campaign=KARANGA">Michael Nesmith: The Monkees star dies at 78</a> BBC: With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s. 
  <p class="updated_time"> 01:36 PM CT, Dec. 10 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
  <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
- <p class="updated_time"> 02:18 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
  <p class="updated_time"> 02:03 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
 
