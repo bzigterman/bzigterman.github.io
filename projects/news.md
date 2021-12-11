@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
+ <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59617508?at_medium=RSS&at_campaign=KARANGA">Brazil nightclub fire: Four convicted over blaze that killed 242</a> BBC: The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
+ <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59609452?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Compulsory Covid vaccinations</a> BBC: Ros Atkins examines the ethical arguments surrounding vaccine mandates. 
  <p class="updated_time"> 05:46 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
@@ -73,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 10:35 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
- <p class="updated_time"> 10:22 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 10:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59606395?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa and Dmitry Muratov share joy over win</a> BBC: Maria Ressa and Dmitry Muratov published investigations that angered the leaders of their countries. 
  <p class="updated_time"> 08:27 AM CT, Dec. 10 </p> 
@@ -127,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
- <p class="updated_time"> 08:20 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59604011?at_medium=RSS&at_campaign=KARANGA">Mothers reborn: The surprising benefits of lifelike dolls</a> BBC: Reborn dolls are hyper-realistic dummies, treated like real children, given a birthing ceremony and even a heartbeat. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
  <p class="updated_time"> 06:44 PM CT, Dec. 09 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 06:05 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59596267?at_medium=RSS&at_campaign=KARANGA">Football fans spending millions on club crypto-tokens</a> BBC: Supporters have spent at least £260m on controversial fan tokens from major clubs, data suggests. 
- <p class="updated_time"> 06:01 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59430501?at_medium=RSS&at_campaign=KARANGA">How this country became Europe's cargo bike hub</a> BBC: In Germany, generous subsidies are leading to more sophisticated cargo bikes. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:23 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/trump-bank-regulator-uprising-democrats-524115">Biden, Warren back uprising against Trump bank regulator</a> Politico: The partisan battle erupted after the Democrats who make up the majority of the FDIC’s board voted to take public feedback on potential changes to the agency’s bank merger approval process. 
+ <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 05:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 05:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
- <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Who Can Be Called an Astronaut? The F.A.A. Will No Longer Say.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 04:26 PM CT, Dec. 10 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
- <p class="updated_time"> 06:58 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-ceiling-congress.html">Senate Clears Last Major Hurdle to Raising Debt Ceiling</a> NYT: Ending a monthslong impasse, lawmakers from both parties approved legislation that would let Congress raise the debt ceiling by a simple majority vote. 
  <p class="updated_time"> 06:48 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 06:46 PM CT, Dec. 09 </p> 
