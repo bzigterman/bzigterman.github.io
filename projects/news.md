@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/austrias-restrictions-on-the-unvaccinated-appear-to-be-working-11639234806">Austria's Restrictions on the Unvaccinated Appear to Be Working</a> WSJ: One of the worst-hit countries in Europe’s latest Covid-19 surge, Austria has seen infections plummet and vaccination rates soar after imposing a lockdown and saying it would make the shots mandatory next year. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.wsj.com/articles/brazil-grapples-with-old-nemesis-inflation-amid-pandemic-11639234804">Brazil Grapples With Old Nemesis Inflation</a> WSJ: Latin America’s biggest economy is seen remaining stuck in recession during 2022 as it confronts double-digit price increases for items including food in the wake of Covid-19. 
- <p class="updated_time"> 03:06 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 11:42 PM CT, Dec. 10 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:07 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats are struggling to sell Biden's agenda. It isn't the first time, either</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest in nearly four decades</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
