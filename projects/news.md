@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first in the EU to make vaccinations mandatory, from February. 
+ <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59625362?at_medium=RSS&at_campaign=KARANGA">Biden: US will do whatever is needed to help Tornado victims</a> BBC: US president Joe Biden speaks to the country after states have been hit by deadly tornadoes. 
  <p class="updated_time"> 04:28 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
- <p class="updated_time"> 04:21 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos space company sends first US astronaut's daughter to space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
- <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
