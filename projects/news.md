@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59617510?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Donors to release frozen funds for food and health aid</a> BBC: The money will be used to fund nutrition and health services amid a growing humanitarian crisis. 
+ <p class="updated_time"> 07:30 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59616743?at_medium=RSS&at_campaign=KARANGA">UK warns Russia of consequences if Ukraine invaded</a> BBC: The foreign secretary says G7 ministers will warn Moscow such action would be a "strategic mistake". 
  <p class="updated_time"> 07:00 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59587051?at_medium=RSS&at_campaign=KARANGA">The woman who digs for the truth in mass graves</a> BBC: Mercedes Doretti has dedicated her life to searching for victims of war and state violence, as part of the Argentine Forensic Anthropology Team. 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
- <p class="updated_time"> 07:40 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59592355?at_medium=RSS&at_campaign=KARANGA">Singapore: Man feared for life during otter attack</a> BBC: Graham George Spencer was left with more than 20 wounds after he was bitten by the animals. 
  <p class="updated_time"> 07:31 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/u-s-wins-appeal-against-decision-to-refuse-extradition-of-julian-assange-11639132640">U.S. Wins Appeal in Assange Case, Bringing His Extradition Closer</a> WSJ: The government won an appeal in its bid to extradite the WikiLeaks founder, clearing an important hurdle in Washington’s yearslong battle to put him on trial on spying charges. 
  <p class="updated_time"> 07:03 AM CT, Dec. 10 </p> 
