@@ -350,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
- <p class="updated_time"> 06:46 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/biden-zelensky-ukraine-524056">Biden reassures Ukraine’s Zelensky amid fears of Russian invasion</a> Politico: The American president, in a call with his Ukrainian counterpart, expressed the “deep concerns” of the United States and European Allies. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/f/?id=0000017d-a190-dca7-a1fd-b19949d40000">Build Back Better Act Fiscal Responsibility Memo</a> Politico: This memo from Treasury Secretary Janet Yellen addresses the fiscal impact of the Build Back Better Act. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
