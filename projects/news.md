@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:42 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors say Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
- <p class="updated_time"> 06:32 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
  <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
- <p class="updated_time"> 10:49 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/uk-china-olympics-diplomatic-boycott.html">Britain Joins U.S. in Diplomatic Boycott of Beijing Olympic Games</a> NYT: “There will be effectively a diplomatic boycott,” Prime Minister Boris Johnson said of the decision to join the United States and others in registering discontent over human rights abuses in China. 
  <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
@@ -202,14 +200,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/islamic-state-figure-pleads-guilty-524119">Islamic State figure pleads guilty to aiding terrorist group</a> Politico: Prosecutors said Khalifa narrated two notorious Islamic State propaganda videos. 
  <p class="updated_time"> 07:54 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
- <p class="updated_time"> 07:49 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 07:34 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
  <p class="updated_time"> 07:08 PM CT, Dec. 10 </p> 
