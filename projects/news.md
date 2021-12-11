@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/eu-sanctions-economic-retaliation.html">Proposal Would Allow E.U. to Retaliate Against Economic Pressure</a> NYT: The European Commission is considering sweeping powers to impose punitive sanctions on those seeking to influence its political policies through economic pressure. 
  <p class="updated_time"> 02:03 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
- <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
 
 
 </details>
