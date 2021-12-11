@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">Hesitancy, Apathy and Unused Doses: Zambia’s Vaccination Challenges</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only obstacle countries face. 
  <p class="updated_time"> 03:41 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">Tornadoes causing chaos across several US states</a> BBC: People are reported to be trapped after a roof collapsed at an Amazon warehouse. 
  <p class="updated_time"> 03:06 AM CT, Dec. 11 </p> 
@@ -151,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
- <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/nato-ukraine-russia-dilemma.html">Ally, Member or Partner? NATO’s Long Dilemma Over Ukraine.</a> NYT: NATO promised Ukraine full membership in 2008, but without explaining how or when. Putin sees that promise as an ongoing threat to Russia. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/jailed-journalists-worldwide.html">Jailed Journalists Reach Record High for Sixth Year in 2021</a> NYT: The Committee to Protect Journalists, a press freedom monitoring group, said 293 journalists were behind bars this year, more than a quarter of them in China. 
- <p class="updated_time"> 10:35 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/germany-merkel-scholz-chancellor-government.html">With Olaf Scholz at the Helm in Germany, a  New, Uncertain Chapter</a> NYT: After 16 years, Angela Merkel handed over the German chancellery to Olaf Scholz, leaving behind a changed country and a polarizing legacy. 
  <p class="updated_time"> 07:38 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/africa/coronavirus-south-africa-children.html">Coronavirus Cases Are Rising Among Children in South African Hospitals</a> NYT: The increase, observed in children’s wards at two major hospitals in South Africa, points to increased community transmission, doctors say. 
  <p class="updated_time"> 11:07 AM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/world/europe/belarus-poland-ryanair-plane-dissident.html">Defector Helps Build Case Against Belarus Over Ryanair Flight It Forced Down</a> NYT: A former air traffic controller has been telling Polish investigators what he knows about the diversion of the plane carrying a Belarus dissident in May. 
- <p class="updated_time"> 10:55 AM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/merkel-career-pictures.html">Angela Merkel’s Political Life in Pictures: The End of an Era</a> NYT: Images from the former chancellor’s 16 years leading Germany, and from her life before. 
 
 
 </details>
@@ -200,6 +200,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 02:36 AM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 12:00 AM CT, Dec. 11 </p> 
@@ -296,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
- <p class="updated_time"> 08:01 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/pennsylvania-senate-oz-arkoosh.html">The Pennsylvania Senate Candidate Running as the Anti-Dr. Oz</a> NYT: In the closely watched Pennsylvania Senate race, Val Arkoosh, a doctor in the Democratic primary, sees openings to raise her profile. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:55 AM CT, Dec. 10 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest in nearly four decades</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
- <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
  <p class="updated_time"> 08:04 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/federal-appeals-court-south-carolina-mask-mandate-provision-524060">Federal appeals court hears arguments over South Carolina mask mandate provision</a> Politico: State officials, including Gov. Henry McMaster, asked the 4th Circuit to step in after a lower-court judge blocked an order passed by the Legislature. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
  <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
- <p class="updated_time"> 12:35 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062683521/journalist-says-republicans-now-have-more-reliable-ways-to-overturn-election-res">Journalist says Republicans now have more reliable ways to overturn election results</a> NPR: Atlantic journalist Bart Gellman says the Republican party is increasingly unwilling to accept defeat and, in fact, is "prepared to win by sacrificing the essential elements of democracy." 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
