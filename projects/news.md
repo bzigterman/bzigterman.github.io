@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 05:27 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 04:30 AM CT, Dec. 11 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
- <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1055752471/refugees-migrants-afghanistan-india-tagore">This 19th-century short story might help combat racism against refugees today</a> NPR: India's Rabindranath Tagore was the first nonwhite writer to win the Nobel Prize in literature. His 1892 story, "The Kabuliwala," fostered empathy for migrants and refugees. It still resonates today. 
  <p class="updated_time"> 11:30 PM CT, Dec. 09 </p> 
  <a href="https://www.wsj.com/articles/omicron-disrupts-government-plans-to-lure-migrant-workers-as-labor-shortages-bite-11639132203">Omicron Disrupts Government Plans to Lure Migrant Workers as Labor Shortages Bite</a> WSJ: The variant has triggered travel bans and tighter restrictions on new arrivals in dozens of countries, slamming the brakes on a reopening that had been gathering pace as vaccination coverage increased and economic growth accelerated. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
