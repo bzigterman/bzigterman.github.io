@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 05:21 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
- <p class="updated_time"> 05:12 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-dole-capitol.html">President Biden Praises Bob Dole in Ceremony at the Capitol</a> NYT: As Bob Dole lay in state in the Capitol, the president and Democratic leaders recalled his appeals for unity, in an unmistakable message to the Republican Party. 
  <p class="updated_time"> 04:52 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062811908/appeals-court-rules-against-trump-effort-to-block-document-release-to-jan-6-pane">Appeals court rules against Trump effort to block document release to Jan. 6 panel</a> NPR: The unanimous ruling from the panel upholds a lower court's decision that a tranche of Trump White House records can be provided to the Democratic-led Jan. 6 select committee. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
