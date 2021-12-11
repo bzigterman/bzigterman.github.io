@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 08:18 AM CT, Dec. 11 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows Amazon warehouse collapse</a> BBC: Tornadoes have ripped through several states killing more than 50 people, authorities say. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows collapsed Amazon warehouse</a> BBC: Tornadoes have ripped through several states killing more than 50 people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas's Popularity Rests on Hopes It Can Collect the West Bank's Trash</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
- <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
