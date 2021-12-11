@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
- <p class="updated_time"> 01:40 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 12:00 AM CT, Dec. 10 </p> 
