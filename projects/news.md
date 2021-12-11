@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 07:04 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337627/what-russell-kansas-meant-to-late-senator-bob-dole">What Russell, Kansas, meant to late Senator Bob Dole</a> NPR: Senator Bob Dole's remains lie in repose in his hometown of Russell, Kansas, where residents once raised funds for his recovery from war wounds, and later, helped launch his long political career. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
