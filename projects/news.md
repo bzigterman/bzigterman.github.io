@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/health-59609452?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Compulsory Covid vaccinations</a> BBC: Ros Atkins examines the ethical arguments surrounding vaccine mandates. 
+ <a href="https://www.bbc.co.uk/news/health-59609452?at_medium=RSS&at_campaign=KARANGA">Watch: Ros Atkins on… Compulsory Covid vaccinations</a> BBC: Ros Atkins examines the ethical arguments surrounding vaccine mandates. 
  <p class="updated_time"> 05:46 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
