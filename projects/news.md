@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:00 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59587051?at_medium=RSS&at_campaign=KARANGA">The woman who digs for the truth in mass graves</a> BBC: Mercedes Doretti has dedicated her life to searching for victims of war and state violence, as part of the Argentine Forensic Anthropology Team. 
+ <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 06:42 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors say Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
+ <p class="updated_time"> 06:32 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
  <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
@@ -25,22 +33,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59604645?at_medium=RSS&at_campaign=KARANGA">Kashmir killings: The families still waiting for bodies of loved ones</a> BBC: Relatives of people killed by security forces during encounters say they have little hope of justice. 
  <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
- <p class="updated_time"> 04:31 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 04:18 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Officials working to identify over 50 victims</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in the crash. 
  <p class="updated_time"> 04:08 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171454/decades-long-dispute-between-mikmaq-community-and-commercial-lobstermen-escalate">Decades-long dispute between Mi'kmaq community and commercial lobstermen escalates</a> NPR: The waters of Nova Scotia, Canada, hold one of the world's most lucrative lobster fisheries. A conflict over how to balance native treaty rights with commercial fishing rules is coming to a head. 
+ <p class="updated_time"> 04:06 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the trial so far</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 03:50 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171447/new-caledonia-goes-to-the-polls-on-self-determination">New Caledonia goes to the polls on self-determination</a> NPR: The French territory of New Caledonia holds its final referendum on independence on Sunday. The outcome could have implications for all the major powers jostling for influence in the vast Pacific. 
- <p class="updated_time"> 03:33 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors have said Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
- <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59604649?at_medium=RSS&at_campaign=KARANGA">Bipin Rawat: India holds funerals for top general and his wife after crash</a> BBC: Gen Bipin Rawat, who died in a helicopter crash, was cremated with full military honours. 
  <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
  <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
@@ -135,16 +139,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
- <p class="updated_time"> 06:44 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59459910?at_medium=RSS&at_campaign=KARANGA">The Nepalese children made to work in bars and clubs</a> BBC: Nepalese children, some as young as 11, are trapped in the worst forms of child labour. 
  <p class="updated_time"> 06:38 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59595276?at_medium=RSS&at_campaign=KARANGA">Madagascar food crisis: How a woman helped save her village from starvation</a> BBC: Loharano has avoided the fate of many in southern Madagascar through the use of new farming methods. 
  <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59590518?at_medium=RSS&at_campaign=KARANGA">Valérie Pécresse: Part-Thatcher, part-Merkel and wants to run France</a> BBC: Valérie Pécresse has given the Republicans a lift, and a poll suggests she could be president. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
- <p class="updated_time"> 06:05 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59596267?at_medium=RSS&at_campaign=KARANGA">Football fans spending millions on club crypto-tokens</a> BBC: Supporters have spent at least £260m on controversial fan tokens from major clubs, data suggests. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
@@ -202,6 +202,18 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/islamic-state-figure-pleads-guilty-524119">Islamic State figure pleads guilty to aiding terrorist group</a> Politico: Prosecutors said Khalifa narrated two notorious Islamic State propaganda videos. 
+ <p class="updated_time"> 07:34 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
+ <p class="updated_time"> 07:08 PM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
+ <p class="updated_time"> 07:07 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
+ <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
+ <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
  <p class="updated_time"> 06:23 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/trump-bank-regulator-uprising-democrats-524115">Biden, Warren back uprising against Trump bank regulator</a> Politico: The partisan battle erupted after the Democrats who make up the majority of the FDIC’s board voted to take public feedback on potential changes to the agency’s bank merger approval process. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
@@ -222,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-manchin-vote/index.html">Biden not sure whether Manchin will back 'Build Back Better' bill ahead of call next week</a> CNN: President Joe Biden said Friday he doesn't know if he can get West Virginia Democratic Sen. Joe Manchin on board to support his social safety net bill, but is expected to speak with him about the legislation next week as the Senate moves closer to its holiday recess. 
- <p class="updated_time"> 04:14 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
  <p class="updated_time"> 04:09 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/abortion-rights-supporters-reaction-texas/index.html">Abortion rights supporters see little to cheer in new Supreme Court opinion</a> CNN: One hundred days after allowing a Texas law that bars abortion after the first six weeks of pregnancy to go into effect -- sending women scrambling to neighboring states to obtain a procedure protected by the Constitution -- the Supreme Court on Friday gave supporters of abortion rights little to celebrate. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
@@ -234,10 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 03:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
- <p class="updated_time"> 03:08 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Lauds Dole at Funeral, Says He ‘Lived by a Code of Honor’</a> NYT: “Bob was a man who always did his duty,” President Biden said of the former senator during a funeral service in Washington. 
- <p class="updated_time"> 02:45 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest in nearly four decades</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
- <p class="updated_time"> 01:51 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/william-hartmann-dead.html">William Hartmann, 63, Michigan Official Who Disputed Election, Dies</a> NYT: He refused to certify Joseph Biden’s victory over Donald Trump in Detroit but later relented. A foe of Covid vaccines, he was hospitalized with the virus. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
@@ -336,14 +340,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/biden-free-at-home-covid-tests-524064">Biden health team ruled out free Covid tests for all over cost, logistics</a> Politico: “It’s like they want to appear like they’re doing something, but aren’t as concerned about actual impact," said Celine Gounder, an infectious disease specialist. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
- <p class="updated_time"> 06:48 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/business/economy/buffalo-starbucks-union.html">Buffalo Starbucks Workers Vote for Union at 1 Store</a> NYT: The coffee chain’s executives sought to persuade workers to reject the union in an election campaign that began in late August. Workers at a second store voted not to unionize and the result at a third outlet was not clear. 
  <p class="updated_time"> 06:46 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-zelensky-ukraine-524056">Biden reassures Ukraine’s Zelensky amid fears of Russian invasion</a> Politico: The American president, in a call with his Ukrainian counterpart, expressed the “deep concerns” of the United States and European Allies. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/f/?id=0000017d-a190-dca7-a1fd-b19949d40000">Build Back Better Act Fiscal Responsibility Memo</a> Politico: This memo from Treasury Secretary Janet Yellen addresses the fiscal impact of the Build Back Better Act. 
- <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/jussie-smollett-convicted-staging-attack-524057">Jussie Smollett convicted of staging attack, lying to police</a> Politico: He was acquitted on one count. 
  <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Debt Limit Split Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
