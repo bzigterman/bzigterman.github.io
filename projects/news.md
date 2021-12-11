@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Dec. 11 </p> 
+ <p class="updated_time"> 09:46 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
+ <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 09:10 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
  <p class="updated_time"> 08:18 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
- <p class="updated_time"> 08:06 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 50 feared dead in Kentucky's worst ever tornadoes</a> BBC: The governor of the US state says that the number of victims could rise to 100. 
  <p class="updated_time"> 07:39 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
  <p class="updated_time"> 07:10 AM CT, Dec. 11 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
@@ -272,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/abortion-rights-supporters-reaction-texas/index.html">Abortion rights supporters see little to cheer in new Supreme Court opinion</a> CNN: One hundred days after allowing a Texas law that bars abortion after the first six weeks of pregnancy to go into effect -- sending women scrambling to neighboring states to obtain a procedure protected by the Constitution -- the Supreme Court on Friday gave supporters of abortion rights little to celebrate. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
- <p class="updated_time"> 03:32 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
