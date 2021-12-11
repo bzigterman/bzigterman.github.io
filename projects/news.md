@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:20 PM CT, Dec. 11 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59609452?at_medium=RSS&at_campaign=KARANGA">Watch: Ros Atkins on… Compulsory Covid vaccinations</a> BBC: Ros Atkins examines the ethical arguments surrounding vaccine mandates. 
  <p class="updated_time"> 05:46 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
- <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism">Nobel Peace laureates blast tech giants and warn against rising authoritarianism</a> NPR: "If you're working in tech, I'm talking to you," Rappler CEO Maria Ressa said. She later added, "What happens on social media doesn't stay on social media." 
  <p class="updated_time"> 04:55 PM CT, Dec. 10 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Kentucky Gov. Andy Beshear said the death toll could exceed 100 across 10 or more counties. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/canada-threats-retaliatory-tariffs-electric-vehicles-524104">Canada threatens U.S. with retaliatory tariffs in EV tax credit dispute</a> Politico: 'Canada will defend its national interests,' letter to U.S. lawmakers says. 
- <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 05:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
