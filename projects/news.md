@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:39 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
  <p class="updated_time"> 07:10 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
@@ -135,14 +137,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
- <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/britain-covid-business.html">New Virus Restrictions in Britain Worry Businesses</a> NYT: “None of it’s going to be good,” an economist warns as people are likely to retreat from some aspects of social life as Covid measures tighten. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/russian-dimitri-muratov-nobel.html">As Muratov Accepts Nobel, Legacy of His Russian Predecessors Recedes</a> NYT: Dmitri A. Muratov is only the third Russian to win the Nobel Peace Prize, after Andrei D. Sakharov and Mikhail S. Gorbachev. The openness they championed is under assault. 
  <p class="updated_time"> 04:27 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
- <p class="updated_time"> 04:23 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062946434/the-united-nations-says-afghanistans-economy-is-collapsing-before-our-eyes">The United Nations says Afghanistan's economy is collapsing 'before our eyes'</a> NPR: The U.N. humanitarian chief urged the international community to act to stop Afghanistan's economic freefall before it leads to more deaths. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
@@ -209,9 +207,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337585/the-us-is-seeing-the-worst-monthly-inflation-numbers-in-40-years">The US is seeing the worst monthly inflation numbers in 40 years </a> NPR: Inflation is at its highest level since President Ronald Reagan was in office, and that's a big political problem for President Biden and the Democratic party. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
- <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063112721/as-the-2022-campaign-kicks-off-in-georgia-2020-casts-a-long-shadow">As the 2022 campaign kicks off in Georgia, 2020 casts a long shadow</a> NPR: The tight relationship between Georgia Gov. Brian Kemp and former President Trump crumbed after Kemp upheld the 2020 election results. Now, Trump has his staunch supporter challenging Kemp in 2022. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337543/week-in-politics-biden-holds-that-inflation-will-be-a-short-term-issue">Week in politics: Biden holds that inflation will be a short-term issue</a> NPR: November's Consumer Price Index spells trouble for President Biden, though he emphasizes inflation is a short-term problem. Also, the latest in the January 6th investigation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
