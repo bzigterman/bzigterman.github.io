@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
@@ -141,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
  <p class="updated_time"> 04:23 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062946434/the-united-nations-says-afghanistans-economy-is-collapsing-before-our-eyes">The United Nations says Afghanistan's economy is collapsing 'before our eyes'</a> NPR: The U.N. humanitarian chief urged the international community to act to stop Afghanistan's economic freefall before it leads to more deaths. 
- <p class="updated_time"> 04:06 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062938902/ukrainian-military-long-on-morale-but-short-on-weaponry">Ukrainian military is long on morale but short on weaponry</a> NPR: Military experts say Russia would face stronger resistance from Ukraine than it did when it annexed the Crimean Peninsula seven years ago 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337627/what-russell-kansas-meant-to-late-senator-bob-dole">What Russell, Kansas, meant to late Senator Bob Dole</a> NPR: Senator Bob Dole's remains lie in repose in his hometown of Russell, Kansas, where residents once raised funds for his recovery from war wounds, and later, helped launch his long political career. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/malinowski-suporters-redistricting-524098">Malinowski supporters flood the zone, fearing he’ll be ‘sacrificed’ in redistricting</a> Politico: It’s an aggressive approach that’s alienated some in his party. But Malinowski, one of the nation’s most endangered incumbents, doesn’t have much choice. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
@@ -209,9 +211,9 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337543/week-in-politics-biden-holds-that-inflation-will-be-a-short-term-issue">Week in politics: Biden holds that inflation will be a short-term issue</a> NPR: November's Consumer Price Index spells trouble for President Biden, though he emphasizes inflation is a short-term problem. Also, the latest in the January 6th investigation. 
- <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063112721/as-the-2022-campaign-kicks-off-in-georgia-2020-casts-a-long-shadow">As the 2022 campaign kicks off in Georgia, 2020 casts a long shadow</a> NPR: The tight relationship between Georgia Gov. Brian Kemp and former President Trump crumbed after Kemp upheld the 2020 election results. Now, Trump has his staunch supporter challenging Kemp in 2022. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337543/week-in-politics-biden-holds-that-inflation-will-be-a-short-term-issue">Week in politics: Biden holds that inflation will be a short-term issue</a> NPR: November's Consumer Price Index spells trouble for President Biden, though he emphasizes inflation is a short-term problem. Also, the latest in the January 6th investigation. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
- <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
