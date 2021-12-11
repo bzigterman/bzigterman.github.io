@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
+ <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59617510?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Donors to release frozen funds for food and health aid</a> BBC: The money will be used to fund nutrition and health services amid a growing humanitarian crisis. 
  <p class="updated_time"> 07:00 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59587051?at_medium=RSS&at_campaign=KARANGA">The woman who digs for the truth in mass graves</a> BBC: Mercedes Doretti has dedicated her life to searching for victims of war and state violence, as part of the Argentine Forensic Anthropology Team. 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
  <p class="updated_time"> 10:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59606395?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa and Dmitry Muratov share joy over win</a> BBC: Maria Ressa and Dmitry Muratov published investigations that angered the leaders of their countries. 
- <p class="updated_time"> 08:27 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 07:54 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59608641?at_medium=RSS&at_campaign=KARANGA">Julian Assange can be extradited to the US, court rules</a> BBC: Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
@@ -106,13 +108,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 06:18 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062937692/philippines-supreme-court-rules-parts-of-the-countrys-terrorism-law-unconstituti">Philippines Supreme Court rules parts of the country's terrorism law unconstitutional</a> NPR: The court largely upheld the law that spawned rancorous challenges. One provision that was struck down represented a win for petitioners who feared the measure's sweeping definition of terrorism. 
+ <a href="https://www.npr.org/2021/12/10/1062937692/philippines-supreme-court-rules-parts-of-the-countrys-terrorism-law-unconstituti">Philippines' high court upholds most of a terrorism law, but strikes down a key point</a> NPR: The law has spawned rancorous court challenges. The court's rejection of one provision represents a win for petitioners, who feared the measure's sweeping definition of terrorism. 
  <p class="updated_time"> 05:50 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
- <p class="updated_time"> 05:32 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59598535?at_medium=RSS&at_campaign=KARANGA">Finding Afghanistan's exiled women MPs</a> BBC: Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights. 
  <p class="updated_time"> 04:49 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/britain-covid-business.html">New Virus Restrictions in Britain Worry Businesses</a> NYT: “None of it’s going to be good,” an economist warns as people are likely to retreat from some aspects of social life as Covid measures tighten. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
@@ -204,12 +204,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/islamic-state-figure-pleads-guilty-524119">Islamic State figure pleads guilty to aiding terrorist group</a> Politico: Prosecutors said Khalifa narrated two notorious Islamic State propaganda videos. 
+ <p class="updated_time"> 07:54 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
+ <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
+ <p class="updated_time"> 07:49 PM CT, Dec. 10 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 07:34 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
  <p class="updated_time"> 07:08 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
- <p class="updated_time"> 07:07 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
  <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
- <p class="updated_time"> 03:23 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 11:08 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/pfizer-boosters-16-17-year-olds.html">F.D.A. Authorizes Pfizer Boosters for 16- and 17-Year-Olds</a> NYT: The move clears the way for millions of teenagers to receive an additional shot, with a top regulator citing evidence that the effectiveness of two doses is waning in the age group. 
- <p class="updated_time"> 10:50 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/trump-jan-6-documents.html">Appeals Court Rejects Trump’s Bid to Shield Material From Jan. 6 Inquiry</a> NYT: A three-judge panel held that Congress’s oversight powers, backed by President Biden’s decision not to invoke executive privilege over the material, outweighed Mr. Trump’s residual secrecy powers. 
  <p class="updated_time"> 08:04 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/federal-appeals-court-south-carolina-mask-mandate-provision-524060">Federal appeals court hears arguments over South Carolina mask mandate provision</a> Politico: State officials, including Gov. Henry McMaster, asked the 4th Circuit to step in after a lower-court judge blocked an order passed by the Legislature. 
  <p class="updated_time"> 07:43 PM CT, Dec. 09 </p> 
@@ -390,6 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
+ <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
+ <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
