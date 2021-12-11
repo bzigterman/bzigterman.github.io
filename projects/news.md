@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
+ <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
  <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
@@ -230,12 +234,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 02:36 AM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
- <p class="updated_time"> 12:00 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
  <p class="updated_time"> 11:03 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/john-roberts-supreme-court-abortion-texas/index.html">What John Roberts' role in Texas' abortion case could signal for the future of Roe</a> CNN: Chief Justice John Roberts wrote a razor-sharp opinion Friday emphasizing that Texas' abortion law defies Supreme Court precedent and should expose the many state officials who play a key role in the "scheme" to federal lawsuit. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
