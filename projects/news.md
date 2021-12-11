@@ -10,13 +10,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:40 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first in the EU to make vaccinations mandatory, from February. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first country in the EU to make vaccinations mandatory, from February. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59625362?at_medium=RSS&at_campaign=KARANGA">Biden: US will do whatever is needed to help Tornado victims</a> BBC: US president Joe Biden speaks to the country after states have been hit by deadly tornadoes. 
  <p class="updated_time"> 04:28 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos space company sends first US astronaut's daughter to space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos company sends first US astronaut's daughter to edge of space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
