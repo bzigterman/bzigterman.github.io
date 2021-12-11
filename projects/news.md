@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
- <p class="updated_time"> 11:03 AM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/health-59594000?at_medium=RSS&at_campaign=KARANGA">Omicron and boosters: Your questions answered</a> BBC: Will we need regular boosters, can we vaccinate children under 12? Experts answer your questions. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
