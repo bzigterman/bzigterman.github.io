@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 PM CT, Dec. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Crackdown on people smugglers launched</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in a truck crash. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
- <p class="updated_time"> 04:18 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Officials working to identify over 50 victims</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in the crash. 
  <p class="updated_time"> 04:08 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171454/decades-long-dispute-between-mikmaq-community-and-commercial-lobstermen-escalate">Decades-long dispute between Mi'kmaq community and commercial lobstermen escalates</a> NPR: The waters of Nova Scotia, Canada, hold one of the world's most lucrative lobster fisheries. A conflict over how to balance native treaty rights with commercial fishing rules is coming to a head. 
  <p class="updated_time"> 04:06 PM CT, Dec. 10 </p> 
