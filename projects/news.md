@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first in the EU to make vaccinations mandatory, from February. 
+ <p class="updated_time"> 04:28 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 04:21 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59623841?at_medium=RSS&at_campaign=KARANGA">'Deadliest tornado system to ever run through Kentucky'</a> BBC: The governor of the US state of Kentucky says Friday's tornadoes were the worst the state has seen. 
- <p class="updated_time"> 09:10 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59616114?at_medium=RSS&at_campaign=KARANGA">Indonesia volcano: Volunteers struggle to recover the dead, metres deep in ash and mud</a> BBC: The effort to recover bodies is continuing in Indonesia, after the eruption of Mount Semeru last week. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
- <p class="updated_time"> 12:34 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-59613540?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge'</a> BBC: Philippine journalist Maria Ressa accuses internet sites of using a "God-like power" to sow division. 
  <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/truck-in-fatal-mexican-crash-was-packed-with-over-160-migrants-11639176078">Truck in Fatal Crash Was Packed With Over 160 Migrants</a> WSJ: Smugglers have been cramming people into tractor-trailers to avoid increased inspections of passenger buses on their way to the U.S., human-rights workers said. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
