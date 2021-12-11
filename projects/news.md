@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
+ <p class="updated_time"> 12:20 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59623258?at_medium=RSS&at_campaign=KARANGA">Albert Benaiges: Ex-Barcelona academy chief faces sex abuse claims</a> BBC: The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s. 
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 11:14 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59620091?at_medium=RSS&at_campaign=KARANGA">More than 70 killed in Kentucky's worst ever tornadoes</a> BBC: The governor says the number of victims could rise above 100, in the deadliest event in state history. 
- <p class="updated_time"> 11:02 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
+ <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -121,16 +125,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/truck-in-fatal-mexican-crash-was-packed-with-over-160-migrants-11639176078">Truck in Fatal Crash Was Packed With Over 160 Migrants</a> WSJ: Smugglers have been cramming people into tractor-trailers to avoid increased inspections of passenger buses on their way to the U.S., human-rights workers said. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
- <p class="updated_time"> 11:17 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59608785?at_medium=RSS&at_campaign=KARANGA">Spanish floods claim first victim as towns are engulfed</a> BBC: At least one person died when rivers burst their banks in northern Spain. 
  <p class="updated_time"> 11:10 AM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump uses expletive to attack ex-ally Benjamin Netanyahu</a> BBC: The former president rails against the ex-Israeli leader, saying he saved Israel from destruction. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 10:59 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
- <p class="updated_time"> 10:35 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59608484?at_medium=RSS&at_campaign=KARANGA">Ghana's Covid restrictions: Unvaccinated must get jabs on arrival</a> BBC: The restrictions appear to be some of the strictest in the world, with no option to self-isolate. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
