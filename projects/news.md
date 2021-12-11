@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
+ <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59623841?at_medium=RSS&at_campaign=KARANGA">'Deadliest tornado system to ever run through Kentucky'</a> BBC: The governor of the US state of Kentucky says Friday's tornadoes were the worst the state has seen. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59617510?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Donors to release frozen funds for food and health aid</a> BBC: The money will be used to fund nutrition and health services amid a growing humanitarian crisis. 
  <p class="updated_time"> 07:30 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59616743?at_medium=RSS&at_campaign=KARANGA">UK warns Russia of consequences if Ukraine invaded</a> BBC: The foreign secretary says G7 ministers will warn Moscow such action would be a "strategic mistake". 
- <p class="updated_time"> 07:00 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59587051?at_medium=RSS&at_campaign=KARANGA">The woman who digs for the truth in mass graves</a> BBC: Mercedes Doretti has dedicated her life to searching for victims of war and state violence, as part of the Argentine Forensic Anthropology Team. 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:42 PM CT, Dec. 10 </p> 
@@ -115,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171405/olympic-officials-avoided-direct-answers-when-asked-about-chinas-human-rights-is">Olympic officials avoided direct answers when asked about China's human rights issue</a> NPR: Four countries have announced diplomatic boycotts of the Beijing Winter Olympics because of China's human rights violations. The International Olympic Committee claimed neutrality around the issue. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
- <p class="updated_time"> 02:51 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59381081?at_medium=RSS&at_campaign=KARANGA">US Supreme Court says Texas abortion clinics can sue over law</a> BBC: The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
