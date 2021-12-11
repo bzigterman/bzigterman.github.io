@@ -24,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:42 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors say Ms Maxwell ran "a pyramid scheme of abuse" with paedophile Jeffrey Epstein. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors say Ms Maxwell ran "a pyramid scheme of abuse" with convicted sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
  <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
