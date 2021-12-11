@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Drone footage shows Amazon warehouse collapse</a> BBC: Tornadoes have ripped through several states killing more than 50 people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
- <p class="updated_time"> 12:57 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062922664/53-people-die-in-mexico-after-the-packed-truck-they-were-riding-in-crashed">53 people die in Mexico after the packed truck they were riding in crashed </a> NPR: The truck was driving along a highway near Chiapas, a Mexican state that borders Guatemala. Another 58 people were injured in the crash. 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
@@ -204,6 +204,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/malinowski-suporters-redistricting-524098">Malinowski supporters flood the zone, fearing he’ll be ‘sacrificed’ in redistricting</a> Politico: It’s an aggressive approach that’s alienated some in his party. But Malinowski, one of the nation’s most endangered incumbents, doesn’t have much choice. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337585/the-us-is-seeing-the-worst-monthly-inflation-numbers-in-40-years">The US is seeing the worst monthly inflation numbers in 40 years </a> NPR: Inflation is at its highest level since President Ronald Reagan was in office, and that's a big political problem for President Biden and the Democratic party. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063337543/week-in-politics-biden-holds-that-inflation-will-be-a-short-term-issue">Week in politics: Biden holds that inflation will be a short-term issue</a> NPR: November's Consumer Price Index spells trouble for President Biden, though he emphasizes inflation is a short-term problem. Also, the latest in the January 6th investigation. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063112721/as-the-2022-campaign-kicks-off-in-georgia-2020-casts-a-long-shadow">As the 2022 campaign kicks off in Georgia, 2020 casts a long shadow</a> NPR: The tight relationship between Georgia Gov. Brian Kemp and former President Trump crumbed after Kemp upheld the 2020 election results. Now, Trump has his staunch supporter challenging Kemp in 2022. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -360,14 +368,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062791879/criminal-justice-advocates-are-pressing-the-biden-administration-for-more-action">Criminal justice advocates are pressing the Biden administration for more action</a> NPR: Criminal justice advocates are frustrated with inaction from the White House and Justice Department on clemency, reducing racial disparities in the justice system and improving prisons. 
  <p class="updated_time"> 04:02 PM CT, Dec. 09 </p> 
  <a href="https://www.npr.org/2021/12/09/1062791773/presidential-race-in-france-shaken-up-as-far-right-tv-commentator-launches-campa">Presidential race in France shaken up as far-right TV commentator launches campaign</a> NPR: An extreme-right TV commentator has thrown the political world in France into turmoil by launching a presidential campaign ahead of next April's election. 
- <p class="updated_time"> 03:51 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791738/americans-dont-feel-direct-payments-or-child-tax-credits-helped-them-new-poll-fi">Americans don't feel direct payments or child tax credits helped them, new poll finds</a> NPR: An NPR/Marist poll shows that most Democrat voters are skeptical about the party's plans and few feel they were deeply helped by policies that already exist. 
- <p class="updated_time"> 03:20 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791696/biden-is-in-a-high-stakes-game-of-telephone-diplomacy-between-ukraine-and-russia">Biden is in a high-stakes game of telephone diplomacy between Ukraine and Russia</a> NPR: In a call on Thursday, President Biden briefed the Ukrainian president about his recent talks with the Russian leader Vladimir Putin. He'll soon have a call with nine NATO allies in the region. 
- <p class="updated_time"> 03:18 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/2021/12/09/1062791666/new-york-attorney-general-seeking-to-question-donald-trump">New York's attorney general is seeking to question Donald Trump under oath</a> NPR: The request by New York Attorney General Letitia James represents a significant milestone in a long-running fraud investigation into the Trump family's business practices. 
- <p class="updated_time"> 03:08 PM CT, Dec. 09 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2021/12/09/1062452143/bob-dole-death-senator-in-state-capitol-biden">Former Sen. Bob Dole lies in state at the Capitol as his colleagues pay tribute</a> NPR: The former lawmaker and presidential candidate was remembered by his former colleagues, including President Biden. He died on Dec. 5 at the age of 98. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
