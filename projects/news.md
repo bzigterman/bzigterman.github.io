@@ -199,7 +199,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
- <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Gov. Andy Beshear said about 110 people were in the factory in Mayfield, Kentucky, when the tornado hit. 
+ <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Kentucky Gov. Andy Beshear said the death toll could exceed 100 across 10 or more counties. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
  <p class="updated_time"> 10:04 AM CT, Dec. 11 </p> 
