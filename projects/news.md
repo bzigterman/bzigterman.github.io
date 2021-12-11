@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
+ <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Gov. Andy Beshear said about 110 people were in the factory in Mayfield, Kentucky, when the tornado hit. 
  <p class="updated_time"> 09:41 AM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
- <p class="updated_time"> 05:00 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/twitter-warped-politics-524059">Has Twitter warped politics?</a> Politico: On this episode of Playbook Deep Dive, we discuss the role of social media in political campaigns and the blindspots of digital campaigns. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden’s megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
