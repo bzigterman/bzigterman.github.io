@@ -207,11 +207,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337585/the-us-is-seeing-the-worst-monthly-inflation-numbers-in-40-years">The US is seeing the worst monthly inflation numbers in 40 years </a> NPR: Inflation is at its highest level since President Ronald Reagan was in office, and that's a big political problem for President Biden and the Democratic party. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063112721/as-the-2022-campaign-kicks-off-in-georgia-2020-casts-a-long-shadow">As the 2022 campaign kicks off in Georgia, 2020 casts a long shadow</a> NPR: The tight relationship between Georgia Gov. Brian Kemp and former President Trump crumbed after Kemp upheld the 2020 election results. Now, Trump has his staunch supporter challenging Kemp in 2022. 
- <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337543/week-in-politics-biden-holds-that-inflation-will-be-a-short-term-issue">Week in politics: Biden holds that inflation will be a short-term issue</a> NPR: November's Consumer Price Index spells trouble for President Biden, though he emphasizes inflation is a short-term problem. Also, the latest in the January 6th investigation. 
+ <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
+ <a href="https://www.npr.org/2021/12/11/1063112721/as-the-2022-campaign-kicks-off-in-georgia-2020-casts-a-long-shadow">As the 2022 campaign kicks off in Georgia, 2020 casts a long shadow</a> NPR: The tight relationship between Georgia Gov. Brian Kemp and former President Trump crumbed after Kemp upheld the 2020 election results. Now, Trump has his staunch supporter challenging Kemp in 2022. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
