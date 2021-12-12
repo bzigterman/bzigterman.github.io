@@ -308,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 05:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
- <p class="updated_time"> 05:16 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/canada-threats-retaliatory-tariffs-electric-vehicles-524104">Canada threatens U.S. with retaliatory tariffs in EV tax credit dispute</a> Politico: 'Canada will defend its national interests,' letter to U.S. lawmakers says. 
  <p class="updated_time"> 05:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html">Supreme Court Allows Challenge to Texas Abortion Law but Leaves It in Effect</a> NYT: The law, which bans most abortions after about six weeks of pregnancy, was drafted to evade review in federal court and has been in effect since September. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
