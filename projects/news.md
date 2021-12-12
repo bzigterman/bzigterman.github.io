@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
+ <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
  <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 07:42 AM CT, Dec. 12 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats are struggling to sell Biden's agenda. It isn't the first time, either</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062794539/november-cpi-inflation-high-prices-for-consumers">Inflation is red hot, soaring to 6.8% in November, the highest in nearly four decades</a> NPR: Businesses across the country, from restaurants to retail, must decide when, not if, to raises prices and by how much. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
