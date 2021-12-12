@@ -58,7 +58,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 11:15 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
+ <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weatherman films tornado 'ground zero'</a> BBC: Meteorologist Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
