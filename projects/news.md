@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:15 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 05:23 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett will travel to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 05:19 AM CT, Dec. 12 </p> 
@@ -15,14 +17,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
- <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came For It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 03:12 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 83 people are dead, many more are missing and entire towns have been destroyed. 
+ <p class="updated_time"> 01:12 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59626108?at_medium=RSS&at_campaign=KARANGA">Italian church apologises after bishop tells children 'Santa does not exist'</a> BBC: The bishop in Sicily told children Santa's red costume had been created by Coca-Cola, Italian media say. 
- <p class="updated_time"> 11:35 PM CT, Dec. 11 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Kentucky hit by 'worst ever tornadoes'</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Aerials show aftermath of deadly Kentucky tornadoes</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first country in the EU to make vaccinations mandatory, from February. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
@@ -198,6 +198,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">‘We’re getting hit from every angle’: Georgia Dems fight attempt to bulldoze 2020 gains</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
  <p class="updated_time"> 12:33 AM CT, Dec. 12 </p> 
@@ -248,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/11/politics/john-roberts-supreme-court-abortion-texas/index.html">What John Roberts' role in Texas' abortion case could signal for the future of Roe</a> CNN: Chief Justice John Roberts wrote a razor-sharp opinion Friday emphasizing that Texas' abortion law defies Supreme Court precedent and should expose the many state officials who play a key role in the "scheme" to federal lawsuit. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
- <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/islamic-state-figure-pleads-guilty-524119">Islamic State figure pleads guilty to aiding terrorist group</a> Politico: Prosecutors said Khalifa narrated two notorious Islamic State propaganda videos. 
  <p class="updated_time"> 07:54 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/cartoons/2021/12/10/the-nations-cartoonists-on-the-week-in-politics-000271">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:14 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/judges-vaccine-culture-war-mandate-opinions/index.html">Trump-appointed judges question role of vaccines in fight against Covid as they block mandates</a> CNN: In his order blocking the Biden administration's health care worker vaccine mandate, US District Judge Terry Doughty spent several sentences laying out -- without criticism -- the claims of a doctor who falsely said that the Covid-19 vaccine was not effective in preventing transmission of the disease. 
  <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
@@ -366,6 +366,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/09/1062829957/nyc-council-oks-measure-that-would-allow-legal-noncitizens-to-vote-in-local-elec">NYC Council OKs measure that would allow legal noncitizens to vote in local elections</a> NPR: If enacted, New York City would become the largest jurisdiction in the U.S. to allow legal permanent residents to vote in municipal elections. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
+ <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
+ <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/january-6-investigators-challenge-trump-allies-523967">Jan. 6 investigators’ new challenge: Trump allies pleading the Fifth</a> Politico: Three witnesses with ties to Donald Trump have signaled they intend to invoke their constitutional right against self-incrimination. 
  <p class="updated_time"> 09:04 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-workplace-vaccine-mandate-senate-523990">Senate issues rebuke of Biden's workplace vaccine mandate</a> Politico: Most Democrats blasted the repeal effort as “ridiculous” and “anti-science,” and warned it would prolong the pandemic and facilitate the emergence of new Covid variants. 
- <p class="updated_time"> 06:33 PM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/north-carolina-primaries-delayed-523976">North Carolina primaries delayed more than 2 months</a> Politico: The state Supreme Court ordered the March 8 contests delayed until May 17, as lower courts examine whether the state's new, GOP-drawn political maps were unlawfully gerrymandered. 
  <p class="updated_time"> 06:16 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/house-gop-nunes-exit-523969">House GOP jockeys for top panel spots after Nunes exit</a> Politico: His departure opens up his post as top Republican on the Intelligence Committee. He was also in line to lead Ways and Means, where “anybody who says they’re not interested is lying.” 
  <p class="updated_time"> 05:24 PM CT, Dec. 08 </p> 
