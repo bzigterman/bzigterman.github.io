@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:01 AM CT, Dec. 12 </p> 
+ <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires employee who accused boss of rape</a> BBC: The Chinese e-commerce firm has fired the woman, who went public with accusations in August. 
+ <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
+ <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-says-non-to-independence.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
+ <p class="updated_time"> 09:07 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-56043096?at_medium=RSS&at_campaign=KARANGA">Obituary: Vicente Fernández, Mexico's king of ranchera</a> BBC: Known as the king of ranchera music, Fernández was immensely popular in Mexico and the US. 
  <p class="updated_time"> 08:36 AM CT, Dec. 12 </p> 
@@ -19,10 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59628176?at_medium=RSS&at_campaign=KARANGA">Reckya Madougou: Opposition leader jailing damages Benin democracy - lawyer</a> BBC: Reckya Madougou becomes the second opposition figure to be convicted in Benin in less than a week. 
  <p class="updated_time"> 06:21 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 05:50 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
- <p class="updated_time"> 05:23 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett will travel to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 05:19 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
- <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59617508?at_medium=RSS&at_campaign=KARANGA">Brazil nightclub fire: Four convicted over blaze that killed 242</a> BBC: The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:22 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. It has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
  <p class="updated_time"> 08:54 AM CT, Dec. 12 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 04:45 PM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/russia-costs-of-invading-ukraine-us-state-department/index.html">'More and more convergence' with allies on costs to Russia if they invade Ukraine, says State Department official</a> CNN: Each day there has been "more and more convergence" between the US and European allies about the costs that would be inflicted on Russia if they invade Ukraine, a senior State Department official said in a briefing with reporters after Secretary of State Tony Blinken met with G7 allies. 
- <p class="updated_time"> 03:07 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 02:08 PM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/mark-meadows-documents-2020-election/index.html">Lawyer says Meadows received, but did nothing, with document that detailed ways to undermine the 2020 election, per New York Times</a> CNN: A lawyer for Mark Meadows says the former Trump White House chief of staff was the recipient of a PowerPoint document detailing ways to undermine the count of the 2020 election but did nothing with it, according to the New York Times. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
@@ -366,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
- <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
