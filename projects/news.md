@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 07:42 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/tornadoesdeaths-kentucky-beshear-524125">Crews search for the missing after devastating tornadoes</a> Politico: “I pray that there will be another rescue. I pray that there will be another one or two,” Kentucky Gov. Andy Beshear said. 
+ <a href="https://www.politico.com/news/2021/12/12/tornadoesdeaths-kentucky-beshear-524125">Crews search for the missing after devastating tornadoes</a> Politico: Kentucky’s governor said his state’s death toll will surpass 100. 
  <p class="updated_time"> 07:30 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/fact-check-nc-senate-mccrory-attack-ad-trump-romney-blm/index.html">Fact check: Deceptive attack ad against GOP Senate candidate Pat McCrory edits his quotes about Trump and rioters</a> CNN: A television attack ad from conservative Super PAC Club for Growth Action uses egregiously deceptive editing to build its case that Pat McCrory, a Republican candidate for a US Senate seat in North Carolina, is a "Trump-hater" and "liberal faker." 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
