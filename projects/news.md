@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 11:58 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/59628024?at_medium=RSS&at_campaign=KARANGA">Verstappen wins F1 world title, Mercedes protest</a> BBC: Red Bull's Max Verstappen wins his first Formula 1 world title in dramatic circumstances at the season finale in Abu Dhabi. 
  <p class="updated_time"> 11:06 AM CT, Dec. 12 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 10:44 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
- <p class="updated_time"> 10:38 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 10:32 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59628178?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in rebel hands</a> BBC: Tigray forces had left Lalibela 11 days ago as federal forces and their allies had been advancing. 
  <p class="updated_time"> 10:11 AM CT, Dec. 12 </p> 
@@ -31,12 +31,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
  <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-56043096?at_medium=RSS&at_campaign=KARANGA">Obituary: Vicente Fernández, Mexico's king of ranchera</a> BBC: Known as the king of ranchera music, Fernández was immensely popular in Mexico and the US. 
+ <p class="updated_time"> 07:39 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett Visits U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 07:20 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59628176?at_medium=RSS&at_campaign=KARANGA">Reckya Madougou: Opposition leader jailing damages Benin democracy - lawyer</a> BBC: Reckya Madougou becomes the second opposition figure to be convicted in Benin in less than a week. 
- <p class="updated_time"> 05:56 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border 
  <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
