@@ -28,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Kentucky hit by 'worst ever tornadoes'</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory, and the death toll is expected to rise above 100. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Kentucky hit by 'worst ever tornadoes'</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first country in the EU to make vaccinations mandatory, from February. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
