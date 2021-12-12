@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:15 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
+ <p class="updated_time"> 06:21 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
+ <p class="updated_time"> 05:50 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
  <p class="updated_time"> 05:23 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett will travel to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 05:19 AM CT, Dec. 12 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59616743?at_medium=RSS&at_campaign=KARANGA">UK warns Russia of consequences if Ukraine invaded</a> BBC: The foreign secretary says G7 ministers will warn Moscow such action would be a "strategic mistake". 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 06:42 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59616024?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell prosecutors rest their case</a> BBC: Prosecutors say Ms Maxwell ran "a pyramid scheme of abuse" with convicted sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
  <p class="updated_time"> 06:20 PM CT, Dec. 10 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/tornadoesdeaths-kentucky-beshear-524125">Crews search for the missing after devastating tornadoes</a> Politico: “I pray that there will be another rescue. I pray that there will be another one or two,” Kentucky Gov. Andy Beshear said. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
- <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
- <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Kentucky Gov. Andy Beshear said the death toll could exceed 100 across 10 or more counties. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
  <p class="updated_time"> 10:04 AM CT, Dec. 11 </p> 
