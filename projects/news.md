@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:30 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
+ <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578223?at_medium=RSS&at_campaign=KARANGA">The Nigerian woman whose life changed when she visited a leprosy colony</a> BBC: A Nigerian woman living in the US never imagined that leprosy still existed in her home country. 
  <p class="updated_time"> 06:31 PM CT, Dec. 11 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59602724?at_medium=RSS&at_campaign=KARANGA">ICYMI: Scuba-diving Santa and other festive moments</a> BBC: Why has Father Christmas swapped his sleigh for diving gear and skis this week? 
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
- <p class="updated_time"> 05:33 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Kentucky hit by 'worst ever tornadoes'</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory, and the death toll is expected to rise above 100. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
- <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59617510?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Donors to release frozen funds for food and health aid</a> BBC: The money will be used to fund nutrition and health services amid a growing humanitarian crisis. 
  <p class="updated_time"> 07:30 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59616743?at_medium=RSS&at_campaign=KARANGA">UK warns Russia of consequences if Ukraine invaded</a> BBC: The foreign secretary says G7 ministers will warn Moscow such action would be a "strategic mistake". 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
