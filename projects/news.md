@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser">Chris Wallace announces abrupt departure from Fox News to join CNN streaming service</a> NPR: The respected journalist, who kept the news of his exit secret from colleagues, will head to CNN's new streaming service. 
  <p class="updated_time"> 12:49 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/iran-space-launch-satellite-524132">Satellite images, expert suggest Iranian space launch coming</a> Politico: Conducting a launch amid the Vienna talks would fit the hard-line posture struck by Tehran’s negotiators. 
  <p class="updated_time"> 12:30 PM CT, Dec. 12 </p> 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
+ <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">GOP takes aim at the engine that turned Georgia blue</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062895561/democrats-struggles-to-sell-bidens-agenda-mirror-past-messaging-woes">Democrats are struggling to sell Biden's agenda. It isn't the first time, either</a> NPR: Democrats have staked their political future on enacting President Biden's plans for trillions in social spending, but they have struggled to convince voters. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
