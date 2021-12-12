@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:41 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente Fernández, "El Rey" of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
+ <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires employee who accused boss of rape</a> BBC: The Chinese e-commerce firm has fired the woman, who went public with accusations in August. 
  <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
