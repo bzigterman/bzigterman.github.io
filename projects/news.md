@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:02 PM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain will speed up its booster rollout, targeting all adults by the end of the year.</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 02:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
- <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
- <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
- <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
 
 
 </details>
