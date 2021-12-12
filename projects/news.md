@@ -204,6 +204,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:49 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/iran-space-launch-satellite-524132">Satellite images, expert suggest Iranian space launch coming</a> Politico: Conducting a launch amid the Vienna talks would fit the hard-line posture struck by Tehran’s negotiators. 
+ <p class="updated_time"> 12:30 PM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/blinken-biden-russia-ukraine-524128">Blinken: Biden administration ‘prepared’ to take steps against Russia</a> Politico: His remarks came as the G-7 warned of “massive consequences” if Russia attacks Ukraine. 
+ <p class="updated_time"> 12:04 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/larry-summers-economic-signals/index.html">How Larry Summers makes sense of confusing economic signals</a> CNN: Making sense of today's confusing economic signals is difficult. It's no surprise Larry Summers finds something for both sides of the fight over President Joe Biden's policies. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
@@ -332,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
- <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
