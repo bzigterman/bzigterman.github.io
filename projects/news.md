@@ -31,7 +31,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first country in the EU to make vaccinations mandatory, from February. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59625362?at_medium=RSS&at_campaign=KARANGA">Biden: US will do whatever is needed to help Tornado victims</a> BBC: US president Joe Biden speaks to the country after states have been hit by deadly tornadoes. 
- <p class="updated_time"> 04:28 PM CT, Dec. 11 </p> 
+ <p class="updated_time"> 04:29 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos company sends first US astronaut's daughter to edge of space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
