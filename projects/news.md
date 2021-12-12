@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:01 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-says-non-to-independence.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
+ <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-56043096?at_medium=RSS&at_campaign=KARANGA">Obituary: Vicente Fernández, Mexico's king of ranchera</a> BBC: Known as the king of ranchera music, Fernández was immensely popular in Mexico and the US. 
  <p class="updated_time"> 08:36 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
@@ -200,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
+ <p class="updated_time"> 08:54 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
  <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
@@ -310,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
  <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">Here's How Philadelphia's Covid Mandate for Health Workers Worked</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
- <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
