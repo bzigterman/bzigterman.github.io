@@ -24,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 06:05 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59602724?at_medium=RSS&at_campaign=KARANGA">ICYMI: Scuba-diving Santa and other festive moments</a> BBC: Why has Father Christmas swapped his sleigh for diving gear and skis this week? 
+ <a href="https://www.bbc.co.uk/news/world-59602724?at_medium=RSS&at_campaign=KARANGA">ICYMI: House breaks Christmas tree world record</a> BBC: Record-breaking decorations you have to see to believe and other festive stories you may have missed. 
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
