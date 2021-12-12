@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett will travel to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
+ <p class="updated_time"> 05:19 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
- <p class="updated_time"> 04:18 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/isreal-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett will travel to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came For It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 03:12 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 83 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59626108?at_medium=RSS&at_campaign=KARANGA">Italian church apologises after bishop tells children 'Santa does not exist'</a> BBC: The bishop in Sicily told children Santa's red costume had been created by Coca-Cola, Italian media say. 
+ <p class="updated_time"> 11:35 PM CT, Dec. 11 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
- <p class="updated_time"> 05:50 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/china-shifts-back-to-emphasizing-economic-stability-11639153119">China Shifts Back to Emphasizing Economic Stability</a> WSJ: Chinese leaders said in a statement after a closed-door three-day economic conference that “Ensuring stability is the top priority for the economy next year.” 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:29 AM CT, Dec. 10 </p> 
