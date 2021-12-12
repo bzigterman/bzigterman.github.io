@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100 year-old-church destroyed in seconds</a> BBC: Nomia Iqbal reports from the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 03:50 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 02:25 PM CT, Dec. 12 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59577949?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'misty mornings'</a> BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
- <p class="updated_time"> 06:05 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59602724?at_medium=RSS&at_campaign=KARANGA">ICYMI: House breaks Christmas tree world record</a> BBC: Record-breaking decorations you have to see to believe and other festive stories you may have missed. 
  <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
+ <p class="updated_time"> 04:01 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 02:41 PM CT, Dec. 12 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 11:03 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/john-roberts-supreme-court-abortion-texas/index.html">What John Roberts' role in Texas' abortion case could signal for the future of Roe</a> CNN: Chief Justice John Roberts wrote a razor-sharp opinion Friday emphasizing that Texas' abortion law defies Supreme Court precedent and should expose the many state officials who play a key role in the "scheme" to federal lawsuit. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/bob-dole-funeral-biden.html">Biden Eulogizes Dole as ‘Genuine Hero’ Who ‘Lived by a Code of Honor’</a> NYT: The funeral at Washington National Cathedral evoked a kind of Old Home Week ritual as one momentous Washington figure after another soldiered into the rows. 
  <p class="updated_time"> 07:54 PM CT, Dec. 10 </p> 
@@ -316,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 04:21 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
- <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/biden-manchin-vote/index.html">Biden not sure whether Manchin will back 'Build Back Better' bill ahead of call next week</a> CNN: President Joe Biden said Friday he doesn't know if he can get West Virginia Democratic Sen. Joe Manchin on board to support his social safety net bill, but is expected to speak with him about the legislation next week as the Senate moves closer to its holiday recess. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
@@ -336,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
