@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 07:20 AM CT, Dec. 12 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
- <p class="updated_time"> 03:12 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 83 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 01:12 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
