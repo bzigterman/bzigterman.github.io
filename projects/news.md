@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/59628024?at_medium=RSS&at_campaign=KARANGA">Verstappen wins F1 world title, Mercedes protest</a> BBC: Red Bull's Max Verstappen wins his first Formula 1 world title in dramatic circumstances at the season finale in Abu Dhabi. 
  <p class="updated_time"> 11:06 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border 
  <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
+ <p class="updated_time"> 04:59 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59627124?at_medium=RSS&at_campaign=KARANGA">Indian PM Modi's Twitter hacked with bitcoin tweet</a> BBC: The Indian prime minister's account had a message stating that bitcoin would be distributed to citizens. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
@@ -66,13 +70,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Aerials show aftermath of deadly Kentucky tornadoes</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
  <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59625302?at_medium=RSS&at_campaign=KARANGA">Covid in Austria: Mass protest in Vienna against measures</a> BBC: Austria has become the first country in the EU to make vaccinations mandatory, from February. 
- <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59625362?at_medium=RSS&at_campaign=KARANGA">Biden: US will do whatever is needed to help Tornado victims</a> BBC: US president Joe Biden speaks to the country after states have been hit by deadly tornadoes. 
  <p class="updated_time"> 04:29 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
- <p class="updated_time"> 03:53 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos company sends first US astronaut's daughter to edge of space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
@@ -227,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:02 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Are Solidly Behind Biden. There’s No Consensus About a Plan B.</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
@@ -301,7 +301,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">Jan. 6 Committee Examines PowerPoint Document Sent to Meadows</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
  <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
