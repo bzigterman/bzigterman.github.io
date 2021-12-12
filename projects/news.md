@@ -9,10 +9,6 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:06 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
- <p class="updated_time"> 11:04 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/the-new-language-of-the-office.html">The office lingo has changed during the pandemic along with everything else.</a> NYT: You can still circle back and touch base, but now you might meet a ‘Zoombie’ in your department, too. 
- <p class="updated_time"> 11:04 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/return-to-office-delays.html">When it comes to returning to the office, more companies are asking workers to stay tuned.</a> NYT: More and more companies are saying: We’ll get back to you. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 10:44 AM CT, Dec. 12 </p> 
@@ -26,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
+ <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires employee who accused boss of rape</a> BBC: The Chinese e-commerce firm has fired the woman, who went public with accusations in August. 
  <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
@@ -39,10 +35,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59628176?at_medium=RSS&at_campaign=KARANGA">Reckya Madougou: Opposition leader jailing damages Benin democracy - lawyer</a> BBC: Reckya Madougou becomes the second opposition figure to be convicted in Benin in less than a week. 
  <p class="updated_time"> 05:56 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett to Visit U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
+ <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border 
+ <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
+ <p class="updated_time"> 03:39 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941">In France, Criticism Grows Over U.S.-Inspired Social Activism</a> WSJ: President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society. 
  <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59626108?at_medium=RSS&at_campaign=KARANGA">Italian church apologises after bishop tells children 'Santa does not exist'</a> BBC: The bishop in Sicily told children Santa's red costume had been created by Coca-Cola, Italian media say. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
@@ -104,8 +106,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
- <a href="https://www.wsj.com/articles/austrias-restrictions-on-the-unvaccinated-appear-to-be-working-11639234806">Austria's Curbs on the Unvaccinated Appear to Be Working</a> WSJ: One of the worst-hit countries in Europe’s latest Covid-19 surge, Austria has seen infections plummet and vaccination rates soar after imposing a lockdown and saying it would make the shots mandatory next year. 
- <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.wsj.com/articles/brazil-grapples-with-old-nemesis-inflation-amid-pandemic-11639234804">Brazil Grapples With Old Nemesis Inflation</a> WSJ: Latin America’s biggest economy is seen remaining stuck in recession during 2022 as it confronts double-digit price increases for items including food in the wake of Covid-19. 
  <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/africa/ethiopia-executions-rebels.html">Tigray Rebels Executed Dozens of Civilians, Report Says</a> NYT: The report from Human Rights Watch adds to the mounting violations committed by the warring parties since the conflict in Ethiopia’s northern Tigray region began over a year ago. 
  <p class="updated_time"> 01:21 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
- <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/truck-in-fatal-mexican-crash-was-packed-with-over-160-migrants-11639176078">Truck in Fatal Crash Was Packed With Over 160 Migrants</a> WSJ: Smugglers have been cramming people into tractor-trailers to avoid increased inspections of passenger buses on their way to the U.S., human-rights workers said. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
@@ -167,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/macron-france-eu.html">Macron Presents Vision of a More Assertive European Union</a> NYT: President Emmanuel Macron of France laid out plans for a Europe that is “master of its own destiny.” 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/abandoned-ships-hazardous-cargo-global-shipping-11639148303">Leaking Hull, Hazardous Cargo: Aboard a Stranded Ship No One Would Help</a> WSJ: Impoverished nations supplying flags on to cargo ships offer little help to crews on abandoned vessels; “an urgent solution is needed before it’s too late.” 
  <p class="updated_time"> 08:30 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
@@ -187,6 +183,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
  <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/asia/indonesian-militant-bombing-sentence.html">Upik Lawanga, Indonesian Militant, Is Sentenced to Life in Prison</a> NYT: A court said Upik Lawanga made bombs for an attack that killed 22 people at a market. He is a member of a terrorist group that bombed churches, hotels and a Bali nightclub in the 2000s. 
+ <p class="updated_time"> 08:14 AM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/covid-fat-obesity.html">The Coronavirus Attacks Fat Tissue, Scientists Find</a> NYT: The research may help explain why people who are overweight and obese have been at higher risk of severe illness and death from Covid. 
  <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
  <p class="updated_time"> 11:01 PM CT, Dec. 08 </p> 
@@ -195,6 +193,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/business/economy/us-russia-sanctions-ukraine.html">U.S. Threat to Squeeze Russia’s Economy Is a Tactic With a Mixed Record</a> NYT: Sanctions, like aiming to cut oil exports, could also hurt European allies. “It’s a limited toolbox,” one expert said. 
  <p class="updated_time"> 07:14 PM CT, Dec. 08 </p> 
  <a href="https://www.nytimes.com/2021/12/08/health/pfizer-booster-omicron.html">Pfizer Says Its Booster Is Effective Against Omicron</a> NYT: The company’s finding is based on only a small study of blood samples in a laboratory, but others are sure to follow. 
+ <p class="updated_time"> 05:17 PM CT, Dec. 08 </p> 
+ <a href="https://www.nytimes.com/2021/12/08/health/covid-pandemic-preparedness.html">The World Is Unprepared for the Next Pandemic, Report Says</a> NYT: The latest Global Health Security Index finds that no country is positioned well to respond to outbreaks. 
 
 
 </details>
@@ -204,16 +204,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
+ <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Russia's Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
+ <p class="updated_time"> 11:12 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/midterm-election-2022-republican-wave/index.html">Why the 2022 midterms look like the opposite of 2018</a> CNN: What a difference four years makes in politics. At this point in 2017, Democrats were about to pull off a stunning Senate win against a very flawed opponent in the deeply red state of Alabama. It was one of many indications that Democrats were on their way to a big 2018 victory. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace exits Fox News for CNN+</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said of “Fox News Sunday.” 
+ <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace exits Fox News for CNN+</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said on “Fox News Sunday.” 
  <p class="updated_time"> 10:34 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/deanne-criswell-fema-climate-change-cnntv/index.html">This is the crisis of our generation, FEMA chief says</a> CNN: Powerful storms like the ones that tore through parts of the central United States this weekend are the "new normal" in an era of climate change, the top federal emergency management official said on Sunday. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
- <p class="updated_time"> 10:17 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Russia's Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 10:02 AM CT, Dec. 12 </p> 
@@ -316,14 +318,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
- <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
- <p class="updated_time"> 12:52 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored 2 memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
  <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
@@ -384,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
- <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -446,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
- <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
 
 
 </details>
