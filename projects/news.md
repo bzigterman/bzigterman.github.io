@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59631743?at_medium=RSS&at_campaign=KARANGA">Indian police 'foil man's attempt to fake death'</a> BBC: Officers say he murdered another man to try to fake his own death to avoid being returned to prison. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100 year-old-church destroyed in seconds</a> BBC: Nomia Iqbal reports from the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 03:50 PM CT, Dec. 12 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 11:58 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/sport/formula1/59628024?at_medium=RSS&at_campaign=KARANGA">Verstappen wins F1 world title, Mercedes protest</a> BBC: Red Bull's Max Verstappen wins his first Formula 1 world title in dramatic circumstances at the season finale in Abu Dhabi. 
  <p class="updated_time"> 11:06 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
@@ -45,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border 
  <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
- <p class="updated_time"> 04:59 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59627124?at_medium=RSS&at_campaign=KARANGA">Indian PM Modi's Twitter hacked with bitcoin tweet</a> BBC: The Indian prime minister's account had a message stating that bitcoin would be distributed to citizens. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59627125?at_medium=RSS&at_campaign=KARANGA">Anne Rice, author of Interview with the Vampire, dies aged 80</a> BBC: The American author was best known for her 1976 gothic novel Interview with the Vampire. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
