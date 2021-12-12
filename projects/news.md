@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59626108?at_medium=RSS&at_campaign=KARANGA">Italian church apologises after bishop tells children 'Santa does not exist'</a> BBC: The bishop in Sicily told children Santa's red costume had been created by Coca-Cola, Italian media say. 
  <p class="updated_time"> 09:42 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/truck-in-fatal-mexican-crash-was-packed-with-over-160-migrants-11639176078">Truck in Fatal Crash Was Packed With Over 160 Migrants</a> WSJ: Smugglers have been cramming people into tractor-trailers to avoid increased inspections of passenger buses on their way to the U.S., human-rights workers said. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
- <p class="updated_time"> 11:10 AM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59571713?at_medium=RSS&at_campaign=KARANGA">Donald Trump uses expletive to attack ex-ally Benjamin Netanyahu</a> BBC: The former president rails against the ex-Israeli leader, saying he saved Israel from destruction. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 10:59 AM CT, Dec. 10 </p> 
