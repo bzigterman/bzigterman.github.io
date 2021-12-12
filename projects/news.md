@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
+ <p class="updated_time"> 07:20 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59628176?at_medium=RSS&at_campaign=KARANGA">Reckya Madougou: Opposition leader jailing damages Benin democracy - lawyer</a> BBC: Reckya Madougou becomes the second opposition figure to be convicted in Benin in less than a week. 
  <p class="updated_time"> 06:21 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 05:50 AM CT, Dec. 12 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
- <p class="updated_time"> 07:30 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59616743?at_medium=RSS&at_campaign=KARANGA">UK warns Russia of consequences if Ukraine invaded</a> BBC: The foreign secretary says G7 ministers will warn Moscow such action would be a "strategic mistake". 
  <p class="updated_time"> 06:53 PM CT, Dec. 10 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59607504?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 4-10 December 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:24 PM CT, Dec. 10 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171433/nicole-kidman-went-all-in-on-becoming-lucille-ball-for-role-in-being-the-ricardo">Nicole Kidman went all in on becoming Lucille Ball for role in 'Being The Ricardos'</a> NPR: NPR's Ailsa Chang talks with Nicole Kidman about portraying Lucille Ball and Lucy Ricardo in the new film, Being the Ricardos. 
- <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171426/truck-crash-kills-more-than-50-migrants-in-southern-mexico">Truck crash kills more than 50 migrants in southern Mexico</a> NPR: A truck believed to be carrying migrants crashed near Mexico's southen border with Guatemala, killing more than 50 people. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -205,9 +205,9 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">‘We’re getting hit from every angle’: Georgia Dems fight attempt to bulldoze 2020 gains</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
  <p class="updated_time"> 12:33 AM CT, Dec. 12 </p> 
@@ -394,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html">Biden seizes the chance to make his next moves in the geopolitical chess match with China and Russia</a> CNN: President Joe Biden this week has confronted escalating tensions with China and Russia, testing his ability to manage antagonistic leaders and forcing other countries to pick sides. 
- <p class="updated_time"> 08:53 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935">Pfizer says its booster shot can protect against Omicron</a> Politico: The companies said a third dose appears to provide a similar number of antibodies as a two-dose series against the original virus and other variants. 
  <p class="updated_time"> 07:32 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/08/congress-waves-its-procedural-magic-wand-495371">Congress waves its procedural magic wand</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:20 AM CT, Dec. 08 </p> 
