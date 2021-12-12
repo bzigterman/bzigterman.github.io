@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
+ <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59629670?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: I moonlighted as a taxi driver in the 1990s</a> BBC: Russia's president says he had to top up his income during economic troubles when the USSR collapsed. 
  <p class="updated_time"> 04:35 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59631743?at_medium=RSS&at_campaign=KARANGA">Indian police 'foil man's attempt to fake death'</a> BBC: Officers say he murdered another man to try to fake his own death to avoid being returned to prison. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 10:32 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59628178?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in rebel hands</a> BBC: Tigray forces had left Lalibela 11 days ago as federal forces and their allies had been advancing. 
- <p class="updated_time"> 10:11 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59577375?at_medium=RSS&at_campaign=KARANGA">Finnish teacher who secretly taught IS children in Syrian camps by text</a> BBC: Using WhatsApp, Ilona Taimela found a novel way to educate Finnish children held in a Syrian camp. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
- <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/health-59609452?at_medium=RSS&at_campaign=KARANGA">Watch: Ros Atkins on… Compulsory Covid vaccinations</a> BBC: Ros Atkins examines the ethical arguments surrounding vaccine mandates. 
  <p class="updated_time"> 05:46 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
