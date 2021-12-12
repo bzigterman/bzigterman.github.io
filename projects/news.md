@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 03:50 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain will speed up its booster rollout, targeting all adults by the end of the year.</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 02:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 02:41 PM CT, Dec. 12 </p> 
@@ -360,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/judges-vaccine-culture-war-mandate-opinions/index.html">Trump-appointed judges question role of vaccines in fight against Covid as they block mandates</a> CNN: In his order blocking the Biden administration's health care worker vaccine mandate, US District Judge Terry Doughty spent several sentences laying out -- without criticism -- the claims of a doctor who falsely said that the Covid-19 vaccine was not effective in preventing transmission of the disease. 
  <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
- <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062757169/house-democrats-are-introducing-a-bill-to-overhaul-the-clemency-process">House Democrats are introducing a bill to overhaul the clemency process </a> NPR: A group of House lawmakers are proposing legislation that would take the clemency process out of the Justice Department and create an independent clemency board. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
