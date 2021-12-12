@@ -198,10 +198,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 07:42 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/tornadoesdeaths-kentucky-beshear-524125">Crews search for the missing after devastating tornadoes</a> Politico: “I pray that there will be another rescue. I pray that there will be another one or two,” Kentucky Gov. Andy Beshear said. 
+ <p class="updated_time"> 07:30 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/fact-check-nc-senate-mccrory-attack-ad-trump-romney-blm/index.html">Fact check: Deceptive attack ad against GOP Senate candidate Pat McCrory edits his quotes about Trump and rioters</a> CNN: A television attack ad from conservative Super PAC Club for Growth Action uses egregiously deceptive editing to build its case that Pat McCrory, a Republican candidate for a US Senate seat in North Carolina, is a "Trump-hater" and "liberal faker." 
  <p class="updated_time"> 07:08 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
@@ -212,16 +218,24 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
  <p class="updated_time"> 12:33 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
+ <p class="updated_time"> 08:18 PM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/11/politics/dhs-log4j-software-flaw-warning/index.html">DHS warns of critical flaw in widely used software</a> CNN: The Department of Homeland Security's top cyber official on Saturday urged government and private-sector organizations to address a critical flaw in widely used software that hackers were actively using to try to breach networks. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
+ <p class="updated_time"> 04:45 PM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/11/politics/russia-costs-of-invading-ukraine-us-state-department/index.html">'More and more convergence' with allies on costs to Russia if they invade Ukraine, says State Department official</a> CNN: Each day there has been "more and more convergence" between the US and European allies about the costs that would be inflicted on Russia if they invade Ukraine, a senior State Department official said in a briefing with reporters after Secretary of State Tony Blinken met with G7 allies. 
  <p class="updated_time"> 03:07 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
+ <p class="updated_time"> 02:08 PM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/11/politics/mark-meadows-documents-2020-election/index.html">Lawyer says Meadows received, but did nothing, with document that detailed ways to undermine the 2020 election, per New York Times</a> CNN: A lawyer for Mark Meadows says the former Trump White House chief of staff was the recipient of a PowerPoint document detailing ways to undermine the count of the 2020 election but did nothing with it, according to the New York Times. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
+ <p class="updated_time"> 12:56 PM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
  <p class="updated_time"> 10:04 AM CT, Dec. 11 </p> 
@@ -250,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 02:36 AM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/donald-trump-benjamin-netanyahu/index.html">Trump accuses Netanyahu of disloyalty for congratulating Biden after 2020 win: 'F**k him'</a> CNN: Former President Donald Trump railed against his one-time close ally Benjamin Netanyahu in a new interview series, saying he felt betrayed by the then-prime minister of Israel's call to Joe Biden congratulating him on winning the presidency. 
  <p class="updated_time"> 11:03 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/john-roberts-supreme-court-abortion-texas/index.html">What John Roberts' role in Texas' abortion case could signal for the future of Roe</a> CNN: Chief Justice John Roberts wrote a razor-sharp opinion Friday emphasizing that Texas' abortion law defies Supreme Court precedent and should expose the many state officials who play a key role in the "scheme" to federal lawsuit. 
  <p class="updated_time"> 08:30 PM CT, Dec. 10 </p> 
@@ -260,16 +272,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
- <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/roger-carstens-venezuela-visit/index.html">Top State Department official travels to Venezuela to meet with detained Americans</a> CNN: A top State Department official traveled to Venezuela this week and met with detained Americans as the Biden administration continues to seek their release, multiple sources confirmed to CNN Friday. 
- <p class="updated_time"> 07:22 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/felony-obstruction-law-january-6-capitol-riot-cases/index.html">Judge upholds prosecutors' use of felony obstruction law in January 6 cases in pivotal ruling</a> CNN: A federal judge on Friday upheld the Justice Department's decision to use a felony obstruction law against US Capitol rioters, a major victory for prosecutors who have used the statute to charge hundreds of Donald Trump supporters who were involved in the January 6 insurrection. 
- <p class="updated_time"> 07:08 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/build-back-better-cbo-score/index.html">CBO issues score on how much Build Back Better would cost if programs were permanent</a> CNN: The Congressional Budget Office has released a revised score on the Democrats' social safety net plan based on a Republican request to see how much the bill would cost if a series of provisions -- including the child tax credit expansion -- were extended for the full 10 years. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">Jan. 6 Committee Examines PowerPoint Document Sent to Meadows</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
- <p class="updated_time"> 06:52 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/jenna-ellis-trump-lawyer-memos-pence-biden/index.html">Memos from Trump campaign lawyer outline her theories for how Pence could reject Electoral College votes</a> CNN: In the weeks leading up to January 6, one of Donald Trump's campaign lawyers wrote memos outlining how she believed then-Vice President Mike Pence could reject electoral college votes and overturn the 2020 election, including one theory that he could ignore a federal law. 
  <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 04:15 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-manchin-vote/index.html">Biden not sure whether Manchin will back 'Build Back Better' bill ahead of call next week</a> CNN: President Joe Biden said Friday he doesn't know if he can get West Virginia Democratic Sen. Joe Manchin on board to support his social safety net bill, but is expected to speak with him about the legislation next week as the Senate moves closer to its holiday recess. 
- <p class="updated_time"> 04:09 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/abortion-rights-supporters-reaction-texas/index.html">Abortion rights supporters see little to cheer in new Supreme Court opinion</a> CNN: One hundred days after allowing a Texas law that bars abortion after the first six weeks of pregnancy to go into effect -- sending women scrambling to neighboring states to obtain a procedure protected by the Constitution -- the Supreme Court on Friday gave supporters of abortion rights little to celebrate. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
@@ -296,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
- <p class="updated_time"> 02:14 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/january-6-subpoenas-max-miller-/index.html">January 6 committee subpoenas Trump-backed House candidate involved in planning rally</a> CNN: The House select committee investigating the January 6 riot at the US Capitol issued six additional subpoenas Friday, including one to former aide to former President Donald Trump and current Ohio congressional candidate Max Miller. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
@@ -312,10 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">Here's How Philadelphia's Covid Mandate for Health Workers Worked</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
  <p class="updated_time"> 12:26 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/nyregion/eric-adams-ghana.html">Eric Adams Returns From Ghana, His Spirit Cleansed and To-Do List Full</a> NYT: Mr. Adams, the mayor-elect of New York City, embarked on a weeklong spiritual journey to Ghana, less than a month before assuming office. 
- <p class="updated_time"> 12:14 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html">Supreme Court lets Texas abortion law continue but says providers can sue</a> CNN: The Supreme Court left in place Friday a Texas abortion law that bars the procedure after around six weeks of pregnancy, but the justices said that abortion providers had the right to challenge the law in federal court. 
- <p class="updated_time"> 11:58 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/astronaut-wings-bezos-branson-shatner/index.html">US gives Bezos, Branson and Shatner their astronaut wings </a> CNN: The US government is making it official -- Jeff Bezos, Richard Branson, and William Shatner have earned the title of "astronaut" after their flights to the edge of space. 
  <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
@@ -338,6 +334,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
+ <p class="updated_time"> 05:06 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/january-6-committee-witness-cooperation-trump-allies-stonewall/index.html">January 6 committee touts cooperation among witnesses as key Trump allies stonewall panel</a> CNN: Two parallel realities are emerging as the House select committee investigating the January 6 attack on the US Capitol continues to build its investigation. While a growing list of individuals are cooperating, a small but key group of former President Donald Trump's allies continue to stonewall the panel. Information serves as the committee's most valuable currency on both fronts, while the clock is becoming its worst enemy. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden’s megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
@@ -360,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/f/?id=0000017d-a190-dca7-a1fd-b19949d40000">Build Back Better Act Fiscal Responsibility Memo</a> Politico: This memo from Treasury Secretary Janet Yellen addresses the fiscal impact of the Build Back Better Act. 
- <p class="updated_time"> 06:10 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/debt-limit-mcconnell-gop-senate.html">Debt Limit Split Shows Pragmatic Republicans Are Dwindling</a> NYT: Fearing backlash from the right, most in the party dug in against a bipartisan deal needed to stave off a federal default. 
  <p class="updated_time"> 06:06 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
@@ -376,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
@@ -390,6 +388,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/08/politics/white-house-new-infrastructure-brand/index.html">White House launches new branding for infrastructure law: 'Building a Better America'</a> CNN: The White House on Wednesday launched a new website and an accompanying brand to promote the bipartisan infrastructure law, a White House official told CNN.  
  <p class="updated_time"> 03:23 PM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/anti-islamaphobia-bill-boebert-omar-523953">Dem leaders considering anti-Islamophobia bill to answer Boebert-Omar controversy</a> Politico: An ethics committee referral for the Colorado conservative is also on the table. Either choice, however, falls short of sanction demands by progressives. 
+ <p class="updated_time"> 01:29 PM CT, Dec. 08 </p> 
+ <a href="https://www.cnn.com/2021/12/08/politics/biden-executive-order-net-zero-government-2050-climate/index.html">Biden will sign executive order setting 2050 net-zero emissions target for federal government</a> CNN: President Joe Biden will sign an executive order Wednesday directing the federal government to get to net-zero emissions by 2050, using the power of the federal purse to buy clean energy, purchase electric vehicles and make federal buildings more energy efficient. 
  <p class="updated_time"> 11:40 AM CT, Dec. 08 </p> 
  <a href="https://www.cnn.com/2021/12/08/politics/biden-putin-us-troops/index.html">Biden says US troops in Ukraine off the table but promises withering sanctions if Russia invades</a> CNN: President Joe Biden on Wednesday ruled out sending US troops to Ukraine to defend the country from a Russian invasion a day after laying out the consequences for such an incursion in a tense phone call with President Vladimir Putin. 
  <p class="updated_time"> 09:14 AM CT, Dec. 08 </p> 
