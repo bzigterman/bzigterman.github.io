@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 83 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 11:48 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59626108?at_medium=RSS&at_campaign=KARANGA">Italian church apologises after bishop tells children 'Santa does not exist'</a> BBC: The bishop in Sicily told children Santa's red costume had been created by Coca-Cola, Italian media say. 
- <p class="updated_time"> 09:42 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 03:07 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
