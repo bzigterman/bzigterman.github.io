@@ -194,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:33 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
  <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
- <p class="updated_time"> 08:26 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/presidential-power-trump.html">House Approves Post-Trump Curbs on Presidential Power</a> NYT: Republicans almost unanimously opposed the Protecting Our Democracy Act, which might be broken into separate components in the Senate. 
  <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
