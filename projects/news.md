@@ -161,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
- <p class="updated_time"> 04:26 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
