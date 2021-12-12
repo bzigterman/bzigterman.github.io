@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59578223?at_medium=RSS&at_campaign=KARANGA">The Nigerian woman whose life changed when she visited a leprosy colony</a> BBC: A Nigerian woman living in the US never imagined that leprosy still existed in her home country. 
+ <p class="updated_time"> 06:31 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59506656?at_medium=RSS&at_campaign=KARANGA">The priests navigating Colombia's conflict zones</a> BBC: Catholic clergy are sometimes the only ones who can access areas where armed groups are active. 
+ <p class="updated_time"> 06:18 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59608474?at_medium=RSS&at_campaign=KARANGA">Meth and heroin fuel Afghanistan drugs boom</a> BBC: With a collapsing economy and severe drought, Afghanistan’s drug trade is on the rise. 
+ <p class="updated_time"> 06:13 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59577949?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'misty mornings'</a> BBC: A selection of striking images from our readers around the world. 
+ <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
+ <p class="updated_time"> 06:05 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59602724?at_medium=RSS&at_campaign=KARANGA">ICYMI: Scuba-diving Santa and other festive moments</a> BBC: Why has Father Christmas swapped his sleigh for diving gear and skis this week? 
+ <p class="updated_time"> 06:02 PM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 05:33 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Biden reaches out to affected US states</a> BBC: He promises the government will do all it can to help, as the death toll is expected to pass 100. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
@@ -21,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623264?at_medium=RSS&at_campaign=KARANGA">Alan Shepard: Bezos company sends first US astronaut's daughter to edge of space</a> BBC: Laura Shepard Churchley's father, Alan, became the first American in space in 1961. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/nyregion/panama-president-sons-charges.html">Ex-Panama President’s Sons Are Extradited to U.S. After Multicountry Chase</a> NYT: Two sons of the former president Ricardo Martinelli fled the United States by Uber, private jet and an “unknown vessel,” prosecutors said. The second has now been extradited, weeks after his brother. 
- <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 12:32 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/rome-christmas-tree.html">Less Mange, More Frills: Rome’s New Mayor Bets on His Christmas Tree</a> NYT: The annual Christmas tree in the Italian capital has come under scrutiny ever since a 2017 debacle. Will this year’s pass social media muster? 
  <p class="updated_time"> 12:20 PM CT, Dec. 11 </p> 
@@ -33,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59623945?at_medium=RSS&at_campaign=KARANGA">Kentucky weather man films tornado 'ground zero'</a> BBC: Weather man Noah Bergren shows the BBC the "utter devastation" of the tornadoes in the town of Mayfield. 
  <p class="updated_time"> 10:56 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
- <p class="updated_time"> 10:40 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59623841?at_medium=RSS&at_campaign=KARANGA">'Deadliest tornado system to ever run through Kentucky'</a> BBC: The governor of the US state of Kentucky says Friday's tornadoes were the worst the state has seen. 
  <p class="updated_time"> 08:49 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/mexico-truck-crash.html">Migrant Truck Crash in Mexico Kills More Than 50</a> NYT: The migrants, mostly from Guatemala and apparently U.S.-bound, had been crammed into a tractor-trailer that flipped and slammed into a bridge in southern Mexico. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
@@ -91,16 +101,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism">Nobel Peace laureates blast tech giants and warn against rising authoritarianism</a> NPR: "If you're working in tech, I'm talking to you," Rappler CEO Maria Ressa said. She later added, "What happens on social media doesn't stay on social media." 
- <p class="updated_time"> 04:55 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59604645?at_medium=RSS&at_campaign=KARANGA">Kashmir killings: The families still waiting for bodies of loved ones</a> BBC: Relatives of people killed by security forces during encounters say they have little hope of justice. 
  <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 04:08 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171454/decades-long-dispute-between-mikmaq-community-and-commercial-lobstermen-escalate">Decades-long dispute between Mi'kmaq community and commercial lobstermen escalates</a> NPR: The waters of Nova Scotia, Canada, hold one of the world's most lucrative lobster fisheries. A conflict over how to balance native treaty rights with commercial fishing rules is coming to a head. 
- <p class="updated_time"> 04:06 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59527051?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Key moments in the trial so far</a> BBC: Ghislaine Maxwell is accused of grooming girls for abuse by late paedophile Jeffrey Epstein. 
  <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
@@ -151,10 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
- <p class="updated_time"> 06:38 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59595276?at_medium=RSS&at_campaign=KARANGA">Madagascar food crisis: How a woman helped save her village from starvation</a> BBC: Loharano has avoided the fate of many in southern Madagascar through the use of new farming methods. 
- <p class="updated_time"> 06:30 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59590518?at_medium=RSS&at_campaign=KARANGA">Valérie Pécresse: Part-Thatcher, part-Merkel and wants to run France</a> BBC: Valérie Pécresse has given the Republicans a lift, and a poll suggests she could be president. 
  <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/08/world/europe/justo-gallego-dead.html">Justo Gallego, Who Built a Cathedral, Brick by Brick, Dies at 96</a> NYT: A former monk, he spent decades constructing a grand edifice as an act of faith and devotion, and did so almost single-handedly. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
- <p class="updated_time"> 03:04 PM CT, Dec. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59582146?at_medium=RSS&at_campaign=KARANGA">How a Russian invasion of Ukraine could spill over into Europe</a> BBC: A senior Western intel official warns war would have far-reaching consequences on the continent. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
@@ -196,14 +196,16 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
+ <a href="https://www.politico.com/news/2021/12/11/navarro-refuses-subpoena-house-coronavirus-probe-524123">Navarro says he won't comply with subpoena in House Covid investigation</a> Politico: Trump last month told Navarro “to protect executive privilege and not let these unhinged Democrats discredit our great accomplishments” with respect to the House probe. 
+ <p class="updated_time"> 06:12 PM CT, Dec. 11 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 03:07 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Wyden and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
+ <a href="https://www.nytimes.com/2021/12/10/us/politics/taxing-the-rich.html">Rift Between Senator and Son Shows the Challenge of Taxing the Ultrarich</a> NYT: A dispute between Ron Wyden, the Democratic Senate Finance Committee chairman, and his hedge fund-manager son illustrates how the merely rich help the fabulously rich resist tax increases. 
  <p class="updated_time"> 01:58 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/trust-in-elections-trump-democracy.html">In Bid for Control of Elections, Trump Loyalists Face Few Obstacles</a> NYT: A movement animated by Donald J. Trump’s 2020 election lies is turning its attention to 2022 and beyond. 
  <p class="updated_time"> 01:56 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/us/politics/biden-jimmy-fallon-vaccines.html">Biden Talks Vaccines and Bob Dole in Interview With Jimmy Fallon</a> NYT: It was the president’s third interview with the comedian Jimmy Fallon, but his first visit to a late-night show since his inauguration. 
- <p class="updated_time"> 01:30 PM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/magazine/fall-of-kabul-afghanistan.html">Inside the Fall of Kabul: An On-the-Ground Account</a> NYT: Against all predictions, the Taliban took the Afghan capital in a matter of hours. This is the story of why and what came after, by a reporter and photographer who witnessed it all. 
  <p class="updated_time"> 10:59 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/beshear-biden-pledge-relief-storm-system-524121">Beshear, Biden pledge relief as storm system inflicts catastrophic toll</a> Politico: Kentucky Gov. Andy Beshear said the death toll could exceed 100 across 10 or more counties. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
@@ -318,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:55 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/uk-court-extradition-us-spying-524073">U.K. court permits Assange extradition to U.S. on spying charges</a> Politico: A British appellate court opened the door Friday for Julian Assange to be extradited to the United States by overturning a lower court ruling that found the WikiLeaks founder’s mental health was too fragile to withstand the American criminal justice system. 
  <p class="updated_time"> 06:52 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/congress-flood-risk-infrastructure-climate/index.html">These lawmakers' districts are at highest risk of flooding. See how they voted on two critical climate bills.</a> CNN: UN scientists were unequivocal in a landmark report published this summer: Human-caused climate change is intensifying extreme weather events. No region is spared from extreme weather, but America's coasts are overwhelmingly at risk to flooding caused by rising seas, stronger hurricanes and torrential rain. 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
@@ -438,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:12 AM CT, Dec. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/06/return-of-the-debt-ceiling-drama-495335">POLITICO Playbook: Return of the debt ceiling drama</a> Politico: And a former D.C. National Guard official levels explosive new claims about two Army leaders' response to the Jan. 6 Capitol attack. 
- <p class="updated_time"> 04:42 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/news/2021/12/06/islamophobia-anti-semitism-controversies-congress-523724">Islamophobia and anti-Semitism controversies dominate Congress. Diplomacy, not so much.</a> Politico: Lawmakers and advocates still pressing for a two-state solution in the Middle East are wincing as political weaponization of the conflict becomes the norm. 
  <p class="updated_time"> 11:36 AM CT, Dec. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/05/cuomos-final-straw-495329">POLITICO Playbook: Cuomo’s final straw</a> Politico: And what Chris Christie and Jamie Raskin said at the Gridiron Club dinner. 
 
