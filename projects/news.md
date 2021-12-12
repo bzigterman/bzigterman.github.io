@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
+ <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
+ <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente Fernández, "El Rey" of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires employee who accused boss of rape</a> BBC: The Chinese e-commerce firm has fired the woman, who went public with accusations in August. 
  <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
- <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-says-non-to-independence.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
+ <p class="updated_time"> 09:22 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. It has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:07 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/brazil-grapples-with-old-nemesis-inflation-amid-pandemic-11639234804">Brazil Grapples With Old Nemesis Inflation</a> WSJ: Latin America’s biggest economy is seen remaining stuck in recession during 2022 as it confronts double-digit price increases for items including food in the wake of Covid-19. 
  <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
- <p class="updated_time"> 11:42 PM CT, Dec. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59612811?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: Crackdown on people smugglers launched</a> BBC: More than 50 people. thought to be migrants from Central America, were killed in a truck crash. 
  <p class="updated_time"> 11:33 PM CT, Dec. 10 </p> 
  <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas's Popularity Rests on Hopes It Can Collect the West Bank's Trash</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063171447/new-caledonia-goes-to-the-polls-on-self-determination">New Caledonia goes to the polls on self-determination</a> NPR: The French territory of New Caledonia holds its final referendum on independence on Sunday. The outcome could have implications for all the major powers jostling for influence in the vast Pacific. 
  <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
- <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171433/nicole-kidman-went-all-in-on-becoming-lucille-ball-for-role-in-being-the-ricardo">Nicole Kidman went all in on becoming Lucille Ball for role in 'Being The Ricardos'</a> NPR: NPR's Ailsa Chang talks with Nicole Kidman about portraying Lucille Ball and Lucy Ricardo in the new film, Being the Ricardos. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 09:22 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. It has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
