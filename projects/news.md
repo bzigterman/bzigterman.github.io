@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:17 AM CT, Dec. 12 </p> 
+ <p class="updated_time"> 10:44 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
+ <p class="updated_time"> 10:42 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
+ <p class="updated_time"> 10:38 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
+ <p class="updated_time"> 10:32 AM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59628178?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in rebel hands</a> BBC: Tigray forces had left Lalibela 11 days ago as federal forces and their allies had been advancing. 
  <p class="updated_time"> 10:11 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Is to Meet Emirati Prince, Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday — the first such visit by an Israeli leader. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
- <p class="updated_time"> 09:54 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59628178?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in rebel hands</a> BBC: Tigray forces had left Lalibela 11 days ago as federal forces and their allies had been advancing. 
- <p class="updated_time"> 09:41 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president, Emmanuel Macron, has made shoring up the country’s international profile a priority and sees its military in the region as a bulwark against China. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
  <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-56043096?at_medium=RSS&at_campaign=KARANGA">Obituary: Vicente Fernández, Mexico's king of ranchera</a> BBC: Known as the king of ranchera music, Fernández was immensely popular in Mexico and the US. 
- <p class="updated_time"> 08:36 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 94 people are dead, many more are missing and entire towns have been destroyed. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 07:20 AM CT, Dec. 12 </p> 
@@ -202,20 +202,24 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace leaving Fox News</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said. 
+ <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace exits Fox News</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said. 
+ <p class="updated_time"> 10:34 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/deanne-criswell-fema-climate-change-cnntv/index.html">This is the crisis of our generation, FEMA chief says</a> CNN: Powerful storms like the ones that tore through parts of the central United States this weekend are the "new normal" in an era of climate change, the top federal emergency management official said on Sunday. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
+ <p class="updated_time"> 10:17 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Russia's Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 10:02 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
- <p class="updated_time"> 09:24 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/deanne-criswell-fema-climate-change-cnntv/index.html">This is the crisis of our generation, FEMA chief says</a> CNN: Powerful storms like the ones that tore through parts of the central United States this weekend are the "new normal" in an era of climate change, the top federal emergency management official said on Sunday. 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
@@ -262,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
  <a href="https://www.cnn.com/2021/12/11/politics/joe-biden-tonight-show-jimmy-fallon/index.html">Biden talks Washington partisanship in first late-night interview as president</a> CNN: President Joe Biden lamented hyper-partisanship in Washington in his first late-night interview since taking office, saying that while he used to have a cordial relationship with Republicans, "the Big Lie ... makes it awful hard." 
- <p class="updated_time"> 07:06 AM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/11/politics/january-6-capitol-riot-punishments-jail/index.html">After 50 rioters sentenced for January 6 insurrection, a debate rages over what justice looks like</a> CNN: Of the 50-plus defendants who have been sentenced for their role in the January 6 attack on the US Capitol, fewer than half were sent to jail for their crimes. Most received an assortment of lesser penalties, including brief terms of house arrest, a couple years of probation, four-figure fines or court-ordered community service, according to a CNN analysis. 
  <p class="updated_time"> 07:04 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337627/what-russell-kansas-meant-to-late-senator-bob-dole">What Russell, Kansas, meant to late Senator Bob Dole</a> NPR: Senator Bob Dole's remains lie in repose in his hometown of Russell, Kansas, where residents once raised funds for his recovery from war wounds, and later, helped launch his long political career. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
