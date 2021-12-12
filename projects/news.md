@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: Agent and informant secretly recorded GOP lawmaker during probe of illegal donations from abroad. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">‘We’re getting hit from every angle’: Georgia Dems fight attempt to bulldoze 2020 gains</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
+ <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">GOP takes aim at the engine that turned Georgia blue</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
