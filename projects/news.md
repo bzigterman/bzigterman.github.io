@@ -16,8 +16,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came For It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/fr/2021/12/12/world/americas/haiti-jovenel-trafic-drogue.html">Le président haïtien dressait une liste de narco-trafiquants. Ses tueurs l’ont saisie.</a> NYT: Dans les mois précédant son meurtre, Jovenel Moïse avait entrepris de lutter contre des trafiquants d’armes et de drogues. Certains responsables craignent aujourd’hui que ce fut sa perte. 
- <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 03:12 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623970?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Desperate search for survivors as death toll rises</a> BBC: At least 83 people are dead, many more are missing and entire towns have been destroyed. 
