@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:50 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
+ <p class="updated_time"> 10:47 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to 'in principle'</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 10:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
- <p class="updated_time"> 08:43 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
- <p class="updated_time"> 08:19 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:06 PM CT, Dec. 12 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
- <p class="updated_time"> 06:19 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/us/politics/biden-democracy-summit.html">Biden's Democracy Summit Convenes as U.S. Hits a ‘Rough Patch’</a> NYT: The president kicked off his summit as critics questioned the guest list and whether the United States could be an effective advocate for democracy amid problems at home. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
@@ -196,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
  <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
@@ -242,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
- <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 07:30 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/fact-check-nc-senate-mccrory-attack-ad-trump-romney-blm/index.html">Fact check: Deceptive attack ad against GOP Senate candidate Pat McCrory edits his quotes about Trump and rioters</a> CNN: A television attack ad from conservative Super PAC Club for Growth Action uses egregiously deceptive editing to build its case that Pat McCrory, a Republican candidate for a US Senate seat in North Carolina, is a "Trump-hater" and "liberal faker." 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
