@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 07:52 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
+ <p class="updated_time"> 07:37 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/china-reports-first-omicron-covid-19-case-in-the-mainland-11639418519">China Reports First Omicron Case in the Mainland</a> WSJ: The infection was discovered in a traveler who arrived in the northern port city of Tianjin from overseas on Thursday, putting what China has called its “zero tolerance” Covid-19 strategy to a further test. 
  <p class="updated_time"> 07:14 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
  <p class="updated_time"> 07:08 AM CT, Dec. 13 </p> 
@@ -69,16 +71,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
+ <p class="updated_time"> 03:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/global-central-banks-diverge-as-omicron-clouds-growth-inflation-outlook-11639404005">Global Central Banks Diverge as Omicron Clouds Growth, Inflation Outlook</a> WSJ: Central banks in the U.S., the U.K. and the eurozone are set to provide guidance this week on future interest rates. They are expected to move at different speeds, reflecting varying responses to the pandemic and divergent outlooks. 
  <p class="updated_time"> 02:56 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803">As Turkey's Currency Collapses, Erdogan's Support Sinks Even in His Hometown</a> WSJ: In President Recep Tayyip Erdogan’s hometown on Turkey’s Black Sea coast, residents are questioning the leadership of their city’s favorite son amid an economic crisis that is driving up the cost of food, gasoline and medicine. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
- <p class="updated_time"> 01:03 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/india-investigates-hacking-of-prime-minister-narendra-modis-twitter-account-11639397030">India Investigates Hacking of Modi's Twitter Account</a> WSJ: Prime Minister Narendra Modi’s Twitter account was hacked, with a tweet to his more than 73 million followers falsely saying India was adopting bitcoin as legal tender and distributing it to people in the country. 
- <p class="updated_time"> 01:00 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/chinas-quest-for-space-power-starts-with-moon-dust-11639396804">China's Quest for Space Power Starts With Moon Dust</a> WSJ: The country’s lunar program is a key step toward Beijing’s vision of achieving territorial power in space, and scientists think lunar material could one day provide safer nuclear energy in a fusion reactor. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">'It's the definition of hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
@@ -208,14 +208,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin raises red flags over Dems' agenda ahead of Biden talk</a> Politico: “Everyone has to choose basically what we can sustain,” the Democratic senator said Monday. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
+ <p class="updated_time"> 12:51 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
+ <p class="updated_time"> 12:44 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
+ <p class="updated_time"> 12:38 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/democrats-ukraine-budget-letter/index.html">Democrats say Biden's 'hands partly tied' on Ukraine assistance by budget gridlock </a> CNN: Democratic lawmakers say President Joe Biden's "hands are partly tied" when it comes to sending new military equipment to Ukraine to fend off a potential Russian invasion because Congress has still not passed a budget for 2022 that would unlock "vital additional assistance" to the country. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 12:27 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
- <p class="updated_time"> 12:07 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 12:04 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/mary-miller-republican-primary-illinois/index.html">GOP leaders seek to fend off Trump endorsement as far-right Republican eyes Illinois primary bid</a> CNN: Donald Trump's closest Hill allies are privately lobbying the former President to get involved in a Republican-on-Republican matchup in Illinois, a potentially messy scenario that has sparked internal strife in the party and prompted GOP leaders to launch a counter-campaign aimed at keeping Trump on the sidelines. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
@@ -229,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063654263/congress-considers-contempt-of-congress-charge-for-mark-meadows-in-relation-to-j">Congress considers contempt of Congress charge for Mark Meadows in relation to Jan. 6</a> NPR: The congressional committee investigating the Jan. 6 attack on the U.S. Capitol will vote to recommend a contempt of Congress charge against former White House Chief of Staff Mark Meadows. 
  <p class="updated_time"> 08:31 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as President tries to secure senator's vote on 'Build Back Better' bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
+ <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 07:34 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
@@ -255,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
  <p class="updated_time"> 11:54 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
@@ -269,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of her Paris trip but avoids questions on recent staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
+ <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of Paris trip but avoids questions on staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
@@ -278,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser">Chris Wallace announces abrupt departure from Fox News to join CNN streaming service</a> NPR: The respected journalist, who kept the news of his exit secret from colleagues, will head to CNN's new streaming service. 
  <p class="updated_time"> 12:49 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/iran-space-launch-satellite-524132">Satellite images, expert suggest Iranian space launch coming</a> Politico: Conducting a launch amid the Vienna talks would fit the hard-line posture struck by Tehran’s negotiators. 
- <p class="updated_time"> 12:04 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/larry-summers-economic-signals/index.html">Analysis: How Larry Summers makes sense of confusing economic signals</a> CNN: Making sense of today's confusing economic signals is difficult. It's no surprise Larry Summers finds something for both sides of the fight over President Joe Biden's policies. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace exits Fox News for CNN+</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said on “Fox News Sunday.” 
- <p class="updated_time"> 10:34 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/deanne-criswell-fema-climate-change-cnntv/index.html">FEMA chief says powerful storms 'new normal' in era of climate change</a> CNN: Powerful storms like the ones that tore through parts of the central United States this weekend are the "new normal" in an era of climate change, the top federal emergency management official said on Sunday. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
