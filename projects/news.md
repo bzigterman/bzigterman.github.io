@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:58 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to 'in principle'</a> BBC: President Moon Jae-in says talks have yet to begin because of North Korea's demands. 
  <p class="updated_time"> 08:43 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
  <p class="updated_time"> 08:19 PM CT, Dec. 12 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border 
+ <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border. 
  <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
  <p class="updated_time"> 04:21 AM CT, Dec. 12 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941">In France, Criticism Grows Over U.S.-Inspired Social Activism</a> WSJ: President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society. 
  <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/business/china-alibaba-rape-metoo.html">Alibaba Dismisses Employee Who Accused Her Boss of Rape</a> NYT: After initially supporting her #MeToo accusation, the company now blames her for damaging the company’s reputation with false claims. 
- <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578223?at_medium=RSS&at_campaign=KARANGA">The Nigerian woman whose life changed when she visited a leprosy colony</a> BBC: A Nigerian woman living in the US never imagined that leprosy still existed in her home country. 
  <p class="updated_time"> 06:31 PM CT, Dec. 11 </p> 
@@ -201,7 +201,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Mark Meadows Sought to Fight Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
