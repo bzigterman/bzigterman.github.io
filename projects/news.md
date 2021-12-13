@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
+ <p class="updated_time"> 09:18 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: Search efforts continue as families await news of loved ones following Kentucky's deadly tornadoes. 
  <p class="updated_time"> 09:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
- <p class="updated_time"> 08:59 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: Sir Kenneth Branagh's Belfast and The Power of the Dog, starring Benedict Cumberbatch, lead the race. 
  <p class="updated_time"> 08:54 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 08:44 AM CT, Dec. 13 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: A number of people were injured after the blast at an Orthodox school near a nunnery outside Moscow. 
  <p class="updated_time"> 08:37 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
- <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: Search efforts continue as families await news of loved ones following Kentucky's deadly tornadoes. 
  <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
- <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/denmark-mink.html">Denmark’s Prime Minister is Questioned Over Mass Mink Slaughter</a> NYT: The prime minister, Mette Frederiksen, said she did not know the government lacked legal authority to order the mass slaughter of 17 million minks after infected animals passed the virus to humans. 
  <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
