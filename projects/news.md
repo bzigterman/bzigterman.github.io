@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:20 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage 
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 01:01 PM CT, Dec. 13 </p> 
