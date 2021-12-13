@@ -8,6 +8,8 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: Search efforts continue as families await news of loved ones following Kentucky's deadly tornadoes. 
+ <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
@@ -51,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
+ <p class="updated_time"> 02:56 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803">As Turkey's Currency Collapses, Erdogan's Support Sinks Even in His Hometown</a> WSJ: In President Recep Tayyip Erdogan’s hometown on Turkey’s Black Sea coast, residents are questioning the leadership of their city’s favorite son amid an economic crisis that is driving up the cost of food, gasoline and medicine. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
@@ -60,13 +64,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:00 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/chinas-quest-for-space-power-starts-with-moon-dust-11639396804">China's Quest for Space Power Starts With Moon Dust</a> WSJ: The country’s lunar program is a key step toward Beijing’s vision of achieving territorial power in space, and scientists think lunar material could one day provide safer nuclear energy in a fusion reactor. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">'It's the definition of hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
- <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
- <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to in principle</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Man returns to destroyed home</a> BBC: This survivor shows us what's left of his house - and what he was able to retrieve from the rubble. 
  <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
@@ -101,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border. 
- <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
@@ -145,6 +143,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
+ <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -206,7 +206,7 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 08:31 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as President tries to secure senator's vote on 'Build Back Better' bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 07:34 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
@@ -358,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
- <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
