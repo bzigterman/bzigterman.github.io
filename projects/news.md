@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse survivors to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
+ <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/health/omicron-cases-denmark-norway.html">Denmark and Norway Predict Drastic Spike in Omicron Cases</a> NYT: Health authorities in Europe are warning of a sharp increase in Omicron cases, adding to an existing surge from the Delta variant. 
  <p class="updated_time"> 02:51 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
  <p class="updated_time"> 02:49 PM CT, Dec. 13 </p> 
@@ -27,10 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 01:51 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
- <p class="updated_time"> 01:49 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse victims to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
- <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 01:36 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
@@ -44,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 12:00 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than 100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
@@ -208,7 +208,9 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:38 PM CT, Dec. 13 </p> 
+ <p class="updated_time"> 03:10 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Healthcare Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
+ <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
  <p class="updated_time"> 02:29 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/insurrection-sedition-coup-january-6/index.html">Here's what 'insurrection,' 'coup' and 'sedition' mean</a> CNN: As the House January 6 committee continues its probe into the US Capitol riot and issues subpoenas, there are questions surrounding the role allies of former President Donald Trump may have played. 
@@ -259,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is" in the party's social spending bill, as one senator put it. And it's expiring any day now. 
+ <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
  <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 02:41 PM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser">Chris Wallace announces abrupt departure from Fox News to join CNN streaming service</a> NPR: The respected journalist, who kept the news of his exit secret from colleagues, will head to CNN's new streaming service. 
- <p class="updated_time"> 12:49 PM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/iran-space-launch-satellite-524132">Satellite images, expert suggest Iranian space launch coming</a> Politico: Conducting a launch amid the Vienna talks would fit the hard-line posture struck by Tehran’s negotiators. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
@@ -362,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
- <p class="updated_time"> 05:21 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
