@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:50 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to 'in principle'</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to in principle</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 10:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
