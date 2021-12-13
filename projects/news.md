@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:05 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Cargo ships collide in Baltic Sea off Sweden's coast</a> BBC: A vessel registered in Denmark has capsized after hitting a British flagged ship. 
+ <p class="updated_time"> 01:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <p class="updated_time"> 01:23 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Cargo ships collide off Sweden's coast</a> BBC: A vessel registered in Denmark has capsized after colliding with a British-flagged ship off Sweden. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59631743?at_medium=RSS&at_campaign=KARANGA">Indian police 'foil man's attempt to fake death'</a> BBC: Officers say he murdered another man to try to fake his own death to avoid being returned to prison. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
- <p class="updated_time"> 03:50 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
