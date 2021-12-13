@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:45 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/air-force-discharged-vaccine-524167">Air Force discharges 27 for refusal to get Covid vaccine</a> Politico: The Air Force gave its forces until Nov. 2 to get the vaccine. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
@@ -231,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS call back? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
+ <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS callback? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
  <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
  <p class="updated_time"> 02:59 PM CT, Dec. 13 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
- <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
@@ -372,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
- <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
@@ -410,6 +408,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
