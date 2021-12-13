@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
  <p class="updated_time"> 05:32 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
@@ -50,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 01:01 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military </a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
+ <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military</a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
- <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
@@ -165,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
- <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
@@ -199,6 +197,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
+ <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
+ <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
 
 
 </details>
