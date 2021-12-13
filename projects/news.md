@@ -36,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:35 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59631743?at_medium=RSS&at_campaign=KARANGA">Indian police 'foil man's attempt to fake death'</a> BBC: Officers say he murdered another man to try to fake his own death to avoid being returned to prison. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100 year-old-church destroyed in seconds</a> BBC: Nomia Iqbal reports from the ruins of the Mayfield First United Methodist Church in Kentucky. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 03:50 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
