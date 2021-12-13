@@ -12,11 +12,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:52 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Two missing after cargo ships collide off Sweden</a> BBC: A Danish vessel has capsized after colliding with a British-flagged ship in the Baltic Sea. 
  <p class="updated_time"> 02:31 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai, along with seven other activists, were given sentences ranging from four to 14 months. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven other activists received sentences ranging from four to 14 months. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S., other ex-foes</a> NPR: Afghan Foreign Minister Amir Khan Muttaqi said the Taliban have changed since they last ruled 
  <p class="updated_time"> 01:30 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: The community of Mayfield tries to rebuild</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
@@ -31,6 +33,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Residents revisit destroyed home</a> BBC: Kentucky residents are gathering the pieces that are left of their homes after the deadly tornadoes. 
+ <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinas-sensetime-postpones-ipo-after-u-s-blacklisting-11639375812">China's SenseTime Postpones IPO After U.S. Blacklisting</a> WSJ: Chinese AI company SenseTime said it would postpone its Hong Kong IPO days after it was added to an investment blacklist of companies that the U.S. government says are supporting Chinese military development. 
+ <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/australia-steps-up-military-overhaul-with-korea-arms-deal-11639375800">Australia Steps Up Military Overhaul With Korea Arms Deal</a> WSJ: Australia signed a contract to buy self-propelled howitzers from South Korea, broadening its military cooperation as it seeks to counter China’s influence in the Indo-Pacific region. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:06 PM CT, Dec. 12 </p> 
@@ -41,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
  <p class="updated_time"> 05:41 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
+ <p class="updated_time"> 05:34 PM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/vicente-chente-fernandez-king-of-ranchera-music-and-mariachis-dies-at-81-11639349746">Vicente 'Chente' Fernández, King of Ranchera Music and Mariachis, Dies at 81</a> WSJ: The last of the great charro singers wore the traditional outfit of a Mexican rodeo cowboy. No night in a Mexican cantina is complete without a rendition of his songs. 
  <p class="updated_time"> 05:18 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
@@ -67,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border. 
- <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 03:39 AM CT, Dec. 12 </p> 
@@ -89,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59620096?at_medium=RSS&at_campaign=KARANGA">Mexico truck crash: 'I woke up 50 metres from the truck'</a> BBC: A survivor of a crash that killed 54 speaks to the BBC about the people who did not survive. 
  <p class="updated_time"> 04:55 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59623946?at_medium=RSS&at_campaign=KARANGA">Aerials show aftermath of deadly Kentucky tornadoes</a> BBC: More than 70 people died in Kentucky in Friday night's storms, including dozens in a candle factory. 
- <p class="updated_time"> 04:33 PM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59625362?at_medium=RSS&at_campaign=KARANGA">Biden: US will do whatever is needed to help Tornado victims</a> BBC: US president Joe Biden speaks to the country after states have been hit by deadly tornadoes. 
  <p class="updated_time"> 04:29 PM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/canada/missing-indigenous-children-police.html">Should Police Investigate Residential Schools Cases in Canada?</a> NYT: The Six Nations in Ontario have set up a special group to oversee the investigation of student deaths, in a rare collaboration between an Indigenous group and the police. 
  <p class="updated_time"> 03:10 PM CT, Dec. 11 </p> 
@@ -123,12 +127,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
- <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
- <a href="https://www.wsj.com/articles/brazil-grapples-with-old-nemesis-inflation-amid-pandemic-11639234804">Brazil Grapples With Old Nemesis Inflation</a> WSJ: Latin America’s biggest economy is seen remaining stuck in recession during 2022 as it confronts double-digit price increases for items including food in the wake of Covid-19. 
  <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
- <p class="updated_time"> 11:33 PM CT, Dec. 10 </p> 
- <a href="https://www.wsj.com/articles/after-battling-israel-hamas-aims-to-fix-roads-collect-trash-to-stay-popular-11639218800">After Battling Israel, Hamas's Popularity Rests on Hopes It Can Collect the West Bank's Trash</a> WSJ: Local elections will test whether Hamas can hold on to gains after it received a jolt of popular support from Palestinians in the West Bank following a conflict with Israel in spring. 
  <p class="updated_time"> 10:14 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/asia/taiwan-nicaragua-china.html">Taiwan Loses Nicaragua as Ally as Tensions With China Rise</a> NYT: The nation switched diplomatic allegiance to Beijing, leaving 13 nations and the Vatican still recognizing Taiwan as a sovereign nation. 
  <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
