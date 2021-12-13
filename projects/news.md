@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/americas/un-climate-change-russia.html">Russia Blocks U.N. Move to Treat Climate as Security Threat</a> NYT: The Russian veto of a widely supported Security Council resolution pointed to the difficulty of achieving a unified response to global warming. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1059861848/encore-sula-vineyards-makes-wine-in-indias-unlikely-terroir">Encore: Sula Vineyards makes wine in India's unlikely terroir</a> NPR: You may have heard of India's famous beer, Kingfisher. But wine? In the tropics? With spicy curries? Sula Vineyards is India's leading winemaker. 
  <p class="updated_time"> 03:25 PM CT, Dec. 13 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/middleeast/erdogan-economy-lira-turkey.html">Turkey’s President Follows His Own Advice Even as Economy Slips</a> NYT: President Recep Tayyip Erdogan is increasingly isolated as he clings to an economic prescription that few endorse but that he believes will bear results before elections. 
- <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
 
 
 </details>
@@ -236,6 +236,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Ahead of panel vote, Meadows' attorney says contempt referral runs contrary to law</a> NPR: The former Trump White House chief of staff said through his attorney that the effort to refer him for contempt was unwise, unfair and contrary to law. The panel will vote on that referral on Monday. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
+ <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
- <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/gop-escalates-air-wars-bidens-megabill-524045">GOP escalates air wars over Biden’s megabill</a> Politico: But Democrats will have air cover against inflation-related attacks as the social spending plan comes to the floor. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
