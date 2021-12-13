@@ -269,6 +269,10 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">GOP takes aim at the engine that turned Georgia blue</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
+ <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
@@ -434,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/mark-meadows-capitol-riot-investigation-523876">Jan. 6 panel threatens to hold Meadows in contempt</a> Politico: Lawmakers say if the former White House chief of staff does not appear for a scheduled deposition Wednesday, they'll vote to hold him in contempt of Congress. 
  <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:01 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/biden-cyber-officials-technology-cybersecurity-523866">Biden’s cyber leaders go to Silicon Valley for more help fighting hackers</a> Politico: As cyber threats from countries like Russia multiply, officials met with corporate executives to pitch their vision for “operational collaboration.” 
  <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
