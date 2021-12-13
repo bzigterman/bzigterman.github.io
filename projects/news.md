@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:30 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/covid-omicron-depression-lockdowns.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
+ <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 05:22 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven others are jailed for marking the Tiananmen massacre in Beijing in 1989. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
@@ -219,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
  <p class="updated_time"> 09:50 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">January 6 committee releases resolution recommending holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
+ <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/israel-bennett-united-arab-emirates-524135">Israel’s Bennett makes first official visit to United Arab Emirates</a> Politico: The visit is part of a regional blitz of diplomacy. 
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
