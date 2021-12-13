@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 11:14 PM CT, Dec. 12 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
  <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
- <p class="updated_time"> 03:59 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/ukraine-military-russia-invasion.html">Ukraine Commanders Say a Russian Invasion Would Overwhelm Them</a> NYT: If Russia opts for an invasion, Ukraine’s generals say, they would have no hope of repelling it without a major infusion of military help from the West. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
