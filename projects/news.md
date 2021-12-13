@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
+ <p class="updated_time"> 11:50 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas to face Westminster magistrates</a> BBC: Mrs Sacoolas returned to the US after diplomatic immunity was asserted on her behalf. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 11:22 AM CT, Dec. 13 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
- <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/chris-wallace-to-leave-fox-news-524127">Chris Wallace exits Fox News for CNN+</a> Politico: “It is the last time, and I say this with real sadness, we will meet like this,” Wallace said on “Fox News Sunday.” 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/de-blasio-vaccine-mandates-new-york-524126">De Blasio defends vaccine mandates, points to effectiveness in NYC</a> Politico: New York’s mayor said business owners in the city would prefer a mandate over shutdowns. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
