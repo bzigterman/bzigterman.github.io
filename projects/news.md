@@ -63,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 03:39 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941">In France, Criticism Grows Over U.S.-Inspired Social Activism</a> WSJ: President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society. 
+ <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/business/china-alibaba-rape-metoo.html">Alibaba Dismisses Employee Who Accused Her Boss of Rape</a> NYT: After initially supporting her #MeToo accusation, the company now blames her for damaging the company’s reputation with false claims. 
  <p class="updated_time"> 07:16 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59625304?at_medium=RSS&at_campaign=KARANGA">Covid: Brazil to demand proof of vaccination from foreign visitors</a> BBC: Foreign travellers will need to provide a vaccination certificate in order to enter the country. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
@@ -197,7 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:46 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated National Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid intense scrutiny of the Guard’s slow response to violence at the Capitol on Jan. 6. 
+ <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
