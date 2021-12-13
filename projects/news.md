@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 11:38 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
- <p class="updated_time"> 10:56 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing on a Danish boat after a collision with a UK vessel off Sweden. 
  <p class="updated_time"> 10:25 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
  <p class="updated_time"> 10:16 AM CT, Dec. 13 </p> 
@@ -206,6 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
+ <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
+ <p class="updated_time"> 11:40 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 11:25 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
@@ -254,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
- <p class="updated_time"> 07:04 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
@@ -288,6 +292,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Analysis: Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Back Biden, But No Consensus About Plan B for 2024</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
+ <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/newsom-california-guns-texas-abortion-524129">California governor wants Texas-like law to ban assault guns</a> Politico: Gavin Newsom wants to pass a law that would let private citizens sue to enforce California’s ban on assault weapons. 
  <p class="updated_time"> 08:49 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
@@ -350,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/economy/kellogg-strike-biden.html">Biden Assails Kellogg’s Plan to Replace Striking Workers</a> NYT: The president said he was “deeply troubled” by management’s plan, calling it an “existential attack” on union members. Their walkout began in October. 
  <p class="updated_time"> 04:45 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/david-perdue-georgia-election.html">Echoing Trump, David Perdue Sues Over Baseless Election Claims</a> NYT: The legal action by Mr. Perdue, a Republican candidate for governor of Georgia, was the latest sign that 2020 election falsehoods will be a main focus of his bid. 
- <p class="updated_time"> 04:21 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
@@ -398,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/09/bidens-cash-fuels-desantis-budget-wishlist-524055">Biden’s cash fuels DeSantis’ budget wishlist</a> Politico: The governor wants to use $3.5 billion from Biden's American Rescue Plan to help fund his budget. 
  <p class="updated_time"> 04:46 PM CT, Dec. 09 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/dhs-public-input-family-separation/index.html">Biden administration asks public for help stopping family separation in the future </a> CNN: The Department of Homeland Security is asking the public for help to stop the federal government from ever again using family separation as a tactic against undocumented migrants, issuing an open request for recommendations. 
- <p class="updated_time"> 04:38 PM CT, Dec. 09 </p> 
- <a href="https://www.politico.com/news/2021/12/09/appeals-court-denies-trump-effort-to-block-white-house-records-from-jan-6-investigators-524046">Appeals court denies Trump effort to block White House records from Jan. 6 investigators</a> Politico: The court gave the former president two weeks to seek an appeal before the order takes effect. 
  <p class="updated_time"> 12:26 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/guard-leaders-push-back-army-january-6-report-523995">‘This call never happened’: Ex-D.C. Guard leaders push back as internal Army report on Jan. 6 emerges</a> Politico: The report’s narrative is surfacing days after POLITICO first revealed a memo from a former top Guard official accusing two generals of lying to Congress. 
  <p class="updated_time"> 10:13 AM CT, Dec. 09 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/08/the-least-bad-deal-495366">POLITICO Playbook: ‘The least bad deal’</a> Politico: And a judge in Georgia blocks Biden's federal worker vaccine mandate. 
  <p class="updated_time"> 04:31 AM CT, Dec. 08 </p> 
  <a href="https://www.politico.com/news/2021/12/08/biden-filibuster-voting-rights-senate-523917">Senate Dems launch last-ditch effort to change the rules of the chamber</a> Politico: The hope is to pave the way for nominees and, potentially, election reform. It’s not clear how it will work and stakeholders are being hush hush. 
- <p class="updated_time"> 04:30 AM CT, Dec. 08 </p> 
- <a href="https://www.politico.com/news/2021/12/08/biden-administration-officials-questions-vaccine-donations-523922">‘It’s a sore spot’: Why officials are raising questions about Biden’s vaccine donations</a> Politico: Despite promises to distribute shots based on need alone, U.S. negotiations with Myanmar and Taiwan have fanned fears that the administration is mixing politics and public health. 
  <p class="updated_time"> 09:37 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/house-debt-ceiling-senate-523919">House passes workaround to move forward on raising the debt ceiling</a> Politico: The vote creates a path for Congress to prevent the government from defaulting on more than $29 trillion in debt. 
  <p class="updated_time"> 08:25 PM CT, Dec. 07 </p> 
