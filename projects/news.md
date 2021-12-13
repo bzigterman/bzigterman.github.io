@@ -11,8 +11,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1059861848/encore-sula-vineyards-makes-wine-in-indias-unlikely-terroir">Encore: Sula Vineyards makes wine in India's unlikely terroir</a> NPR: You may have heard of India's famous beer, Kingfisher. But wine? In the tropics? With spicy curries? Sula Vineyards is India's leading winemaker. 
  <p class="updated_time"> 03:25 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 74 now confirmed dead, with more than 100 still missing, Governor Andy Beshear said. 
- <p class="updated_time"> 03:18 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
  <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse survivors to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
  <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
@@ -206,16 +204,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
+ <p class="updated_time"> 03:42 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 03:34 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
+ <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/trump-tax-returns-dc-circuit/index.html">Appeals court wary of Trump's arguments for throwing out House subpoena of his financial docs</a> CNN: A federal appeals court sounded dubious Monday of arguments put forward by former President Donald Trump for why a House subpoena for his financial records should be wholly invalidated. 
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
- <p class="updated_time"> 03:13 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS call back? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
  <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
@@ -234,10 +236,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Ahead of panel vote, Meadows' attorney says contempt referral runs contrary to law</a> NPR: The former Trump White House chief of staff said through his attorney that the effort to refer him for contempt was unwise, unfair and contrary to law. The panel will vote on that referral on Monday. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
- <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
- <p class="updated_time"> 12:38 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/democrats-ukraine-budget-letter/index.html">Democrats say Biden's 'hands partly tied' on Ukraine assistance by budget gridlock </a> CNN: Democratic lawmakers say President Joe Biden's "hands are partly tied" when it comes to sending new military equipment to Ukraine to fend off a potential Russian invasion because Congress has still not passed a budget for 2022 that would unlock "vital additional assistance" to the country. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
@@ -374,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored 2 memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
@@ -394,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
  <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
- <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
