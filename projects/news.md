@@ -7,22 +7,38 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:56 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 04:39 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
- <p class="updated_time"> 03:19 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
+ <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
+ <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-reactor-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/covid-omicron-depression-lockdowns.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
  <p class="updated_time"> 02:52 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Two missing after cargo ships collide off Sweden</a> BBC: A Danish vessel has capsized after colliding with a British-flagged ship in the Baltic Sea. 
  <p class="updated_time"> 02:31 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven other activists received sentences ranging from four to 14 months. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S., other ex-foes</a> NPR: Afghan Foreign Minister Amir Khan Muttaqi said the Taliban have changed since they last ruled 
- <p class="updated_time"> 01:30 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: The community of Mayfield tries to rebuild</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
+ <p class="updated_time"> 11:17 PM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinas-sensetime-postpones-ipo-after-u-s-blacklisting-11639375812">China's SenseTime Postpones IPO After U.S. Blacklisting</a> WSJ: Chinese AI company SenseTime said it would postpone its Hong Kong IPO days after it was added to an investment blacklist of companies that the U.S. government says are supporting Chinese military development. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 11:14 PM CT, Dec. 12 </p> 
@@ -32,9 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to in principle</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Residents revisit destroyed home</a> BBC: Kentucky residents are gathering the pieces that are left of their homes after the deadly tornadoes. 
- <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/chinas-sensetime-postpones-ipo-after-u-s-blacklisting-11639375812">China's SenseTime Postpones IPO After U.S. Blacklisting</a> WSJ: Chinese AI company SenseTime said it would postpone its Hong Kong IPO days after it was added to an investment blacklist of companies that the U.S. government says are supporting Chinese military development. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Man returns to destroyed home</a> BBC: This survivor shows us what's left of his house - and what he was able to retrieve from the rubble. 
  <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/australia-steps-up-military-overhaul-with-korea-arms-deal-11639375800">Australia Steps Up Military Overhaul With Korea Arms Deal</a> WSJ: Australia signed a contract to buy self-propelled howitzers from South Korea, broadening its military cooperation as it seeks to counter China’s influence in the Indo-Pacific region. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
@@ -143,12 +157,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
- <p class="updated_time"> 04:08 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171454/decades-long-dispute-between-mikmaq-community-and-commercial-lobstermen-escalate">Decades-long dispute between Mi'kmaq community and commercial lobstermen escalates</a> NPR: The waters of Nova Scotia, Canada, hold one of the world's most lucrative lobster fisheries. A conflict over how to balance native treaty rights with commercial fishing rules is coming to a head. 
  <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
- <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171447/new-caledonia-goes-to-the-polls-on-self-determination">New Caledonia goes to the polls on self-determination</a> NPR: The French territory of New Caledonia holds its final referendum on independence on Sunday. The outcome could have implications for all the major powers jostling for influence in the vast Pacific. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -159,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
  <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
- <p class="updated_time"> 10:59 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/new-zealand-smoking-ban.html">New Zealand Plans to Eventually Ban All Cigarette Sales</a> NYT: The proposal, expected to become law next year, would raise the smoking age year by year until it covers the entire population. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
  <p class="updated_time"> 06:51 AM CT, Dec. 10 </p> 
@@ -179,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/europe/uk-omicron-spreading-restrictions.html">Omicron Wave Heads for U.K., but It’s Not Clear How Bad It’ll Be</a> NYT: Britain could be a bellwether of what other countries will see from the new coronavirus variant. Officials say Omicron could account for most cases within weeks. 
  <p class="updated_time"> 07:55 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
- <p class="updated_time"> 04:40 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/finland-prime-minister-clubbing-apology.html">Finland's Prime Minister Apologizes for Clubbing After Covid Exposure</a> NYT: Prime Minister Sanna Marin said she should have “double-checked the guidance” after someone in her government tested positive for the coronavirus. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
  <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
@@ -197,9 +203,19 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">'Who is he?' The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">The judges drawing America's political maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">Dems hustle for year-end deal as child tax credit cliff looms</a> Politico: “It’s as important a thing as there is" in the party's social spending bill, as one senator put it. And it's expiring any day now. 
+ <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
+ <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063593984/some-countries-which-identify-as-democracies-werent-invited-to-the-democracy-sum">Some countries which identify as democracies, weren't invited to the democracy summit</a> NPR: After President Biden's democracy summit, what does it mean when countries say they are a democracy? NPR's Steve Inskeep talks to Seema Shah, co-author of the Global State of Democracy report. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
@@ -253,10 +269,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">GOP takes aim at the engine that turned Georgia blue</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
@@ -304,8 +316,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 07:54 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/michigan-school-shooting-prosecutor.html">In the Michigan School Shooting, the Prosecutor Asks, What About the Parents?</a> NYT: After seeing the evidence, Karen McDonald made an instinctual, and unusual, decision to charge Ethan Crumbley’s mother and father. Can she succeed? 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
@@ -332,12 +342,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
- <p class="updated_time"> 12:38 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/health/philadelphia-vaccine-mandate.html">Here's How Philadelphia's Covid Mandate for Health Workers Worked</a> NYT: Federal officials point to the city’s mandate as a success story and a shield against new Covid outbreaks at hospitals and nursing homes. 
- <p class="updated_time"> 11:01 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/sections/health-shots/2021/12/10/1062700278/how-the-u-s-got-on-the-slow-track-with-at-home-covid-tests">How the U.S. got on the slow track with at-home COVID tests </a> NPR: With a fast-growing winter surge upon us, self-testing kits remain expensive and hard to find. The reasons go back to the approach the U.S. took from the outset in developing tests. 
- <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
  <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 04:14 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/judges-vaccine-culture-war-mandate-opinions/index.html">Trump-appointed judges question role of vaccines in fight against Covid as they block mandates</a> CNN: In his order blocking the Biden administration's health care worker vaccine mandate, US District Judge Terry Doughty spent several sentences laying out -- without criticism -- the claims of a doctor who falsely said that the Covid-19 vaccine was not effective in preventing transmission of the disease. 
- <p class="updated_time"> 04:08 AM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1062944477/trump-slams-israels-netanyahu-for-congratulating-biden">Trump slams Israel's Netanyahu for congratulating Biden</a> NPR: Trump used profanity in accusing the former Israeli leader of disloyalty for congratulating President Joe Biden in last year's election, an Israeli newspaper reports. 
  <p class="updated_time"> 12:49 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/09/politics/biden-summit-for-democracy/index.html">'Democracy needs champions:' Biden kicks off first 'Summit for Democracy'</a> CNN: President Joe Biden is set to participate a virtual "Summit for Democracy" from the White House beginning on Thursday, where he'll host more than 100 participants representing governments, civil society and private-sector leaders. 
  <p class="updated_time"> 07:40 PM CT, Dec. 09 </p> 
