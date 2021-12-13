@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S., other ex-foes</a> NPR: Afghan Foreign Minister Amir Khan Muttaqi said the Taliban have changed since they last ruled 
  <p class="updated_time"> 02:04 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Cargo ships collide off Sweden's coast</a> BBC: A Danish vessel has capsized after colliding with a British-flagged ship in the Baltic Sea. 
  <p class="updated_time"> 01:30 AM CT, Dec. 13 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/uk-julian-assange-extradition.html">U.K. Court Rules Julian Assange Can Be Extradited to U.S.</a> NYT: The WikiLeaks founder will seek to appeal. But if the extradition goes ahead, he would face espionage charges that could put him in prison for decades. 
  <p class="updated_time"> 03:41 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063171447/new-caledonia-goes-to-the-polls-on-self-determination">New Caledonia goes to the polls on self-determination</a> NPR: The French territory of New Caledonia holds its final referendum on independence on Sunday. The outcome could have implications for all the major powers jostling for influence in the vast Pacific. 
- <p class="updated_time"> 03:24 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063171440/we-will-fight-for-our-independence-says-ukraines-ambassador-to-the-u-s">'We will fight for our independence,' says Ukraine's ambassador to the U.S.</a> NPR: NPR's Mary Louise Kelly speaks with Amb. Oksana Markarova, ambassador of Ukraine to the United States, on relations between the two countries and increased pressure from Russia. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
@@ -203,7 +203,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
+ <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Mark Meadows Sought to Fight Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
