@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:08 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven others are jailed for marking the Tiananmen massacre in Beijing in 1989. 
+ <p class="updated_time"> 07:07 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
  <p class="updated_time"> 06:59 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Holds Historic Meeting With Emirati Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
  <p class="updated_time"> 06:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 06:49 AM CT, Dec. 13 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Two feared dead as British and Danish ships collide</a> BBC: Shouts were heard in the cold water off the Swedish coast when the Danish vessel capsized. 
  <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
- <p class="updated_time"> 05:22 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven others are jailed for marking the Tiananmen massacre in Beijing in 1989. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636399?at_medium=RSS&at_campaign=KARANGA">Italy: Seven dead as rescuers find bodies in Sicily blast</a> BBC: Rescuers are still searching for two missing people in the rubble of four collapsed buildings. 
  <p class="updated_time"> 05:02 AM CT, Dec. 13 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
  <p class="updated_time"> 04:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
- <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
@@ -47,12 +47,16 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
+ <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
+ <p class="updated_time"> 01:03 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/india-investigates-hacking-of-prime-minister-narendra-modis-twitter-account-11639397030">India Investigates Hacking of Modi's Twitter Account</a> WSJ: Prime Minister Narendra Modi’s Twitter account was hacked, with a tweet to his more than 73 million followers falsely saying India was adopting bitcoin as legal tender and distributing it to people in the country. 
+ <p class="updated_time"> 01:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/chinas-quest-for-space-power-starts-with-moon-dust-11639396804">China's Quest for Space Power Starts With Moon Dust</a> WSJ: The country’s lunar program is a key step toward Beijing’s vision of achieving territorial power in space, and scientists think lunar material could one day provide safer nuclear energy in a fusion reactor. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
- <p class="updated_time"> 11:17 PM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/chinas-sensetime-postpones-ipo-after-u-s-blacklisting-11639375812">China's SenseTime Postpones IPO After U.S. Blacklisting</a> WSJ: Chinese AI company SenseTime said it would postpone its Hong Kong IPO days after it was added to an investment blacklist of companies that the U.S. government says are supporting Chinese military development. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
@@ -89,16 +93,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
- <p class="updated_time"> 07:39 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett Visits U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
  <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 12 </p> 
+ <a href="https://www.wsj.com/articles/iran-steps-up-deportations-of-afghans-trying-to-flee-taliban-and-poverty-11639324804">Iran Steps Up Deportations of Afghans Trying to Flee Taliban and Poverty</a> WSJ: A record number of expulsions add to the tension on the Iranian-Afghan border months after the collapse of the U.S.-backed government in Kabul. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
- <p class="updated_time"> 03:39 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941">In France, Criticism Grows Over U.S.-Inspired Social Activism</a> WSJ: President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society. 
  <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/business/china-alibaba-rape-metoo.html">Alibaba Dismisses Employee Who Accused Her Boss of Rape</a> NYT: After initially supporting her #MeToo accusation, the company now blames her for damaging the company’s reputation with false claims. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
@@ -203,7 +205,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
+ <p class="updated_time"> 07:06 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/13/debt-limit-byrd-bath-and-manchin-meetings-495441">Debt limit, Byrd bath and Manchin meetings</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:04 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as President tries to secure senator's vote on 'Build Back Better' bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 06:13 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/tornadoes-and-climate-change-what-matters/index.html">Why extreme weather might be our new normal</a> CNN: A level of devastation "unlike anything I have ever seen." 
  <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
@@ -232,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
- <p class="updated_time"> 09:50 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/israel-bennett-united-arab-emirates-524135">Israel’s Bennett makes first official visit to United Arab Emirates</a> Politico: The visit is part of a regional blitz of diplomacy. 
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
@@ -354,10 +358,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
- <p class="updated_time"> 01:23 PM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
+ <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
@@ -448,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
  <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
- <p class="updated_time"> 07:17 AM CT, Dec. 06 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/06/defense-and-debt-limit-dominate-capitol-hill-495338">Defense and debt limit dominate Capitol Hill</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
