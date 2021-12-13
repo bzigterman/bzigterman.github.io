@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
+ <p class="updated_time"> 08:59 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: Sir Kenneth Branagh's Belfast and The Power of the Dog, starring Benedict Cumberbatch, lead the race. 
+ <p class="updated_time"> 08:54 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 08:44 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
  <p class="updated_time"> 08:43 AM CT, Dec. 13 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 06:47 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59636279?at_medium=RSS&at_campaign=KARANGA">Israeli Prime Minister Bennett in first trip to UAE as Iran threat looms</a> BBC: Naftali Bennett meets Abu Dhabi's crown prince at a time of rising tensions in the region. 
- <p class="updated_time"> 06:40 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 06:30 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59637370?at_medium=RSS&at_campaign=KARANGA">Police and migrants clash outside Mexico City</a> BBC: The migrant caravan has been slowly winding its way through Mexico to the United States border. 
  <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/australia-steps-up-military-overhaul-with-korea-arms-deal-11639375800">Australia Steps Up Military Overhaul With Korea Arms Deal</a> WSJ: Australia signed a contract to buy self-propelled howitzers from South Korea, broadening its military cooperation as it seeks to counter China’s influence in the Indo-Pacific region. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
- <p class="updated_time"> 06:06 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59630424?at_medium=RSS&at_campaign=KARANGA">Black Axe: Leaked documents shine spotlight on secretive Nigerian gang</a> BBC: Documents suggest the feared 'cult' has infiltrated Nigerian politics and launched a global fraud operation. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59614595?at_medium=RSS&at_campaign=KARANGA">The ultra-violent cult that became a global mafia</a> BBC: A BBC investigation into Black Axe has unearthed new evidence of political infiltration, and a scamming and killing operation spanning the globe. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
- <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
 
 
 </details>
