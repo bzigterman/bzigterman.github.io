@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S., other ex-foes</a> NPR: Afghan Foreign Minister Amir Khan Muttaqi said the Taliban have changed since they last ruled 
  <p class="updated_time"> 02:04 AM CT, Dec. 13 </p> 
@@ -26,7 +28,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Residents revisits destroyed home</a> BBC: Kentucky residents are gathering the pieces that are left of their homes after the deadly tornadoes. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Residents revisit destroyed home</a> BBC: Kentucky residents are gathering the pieces that are left of their homes after the deadly tornadoes. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:06 PM CT, Dec. 12 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
- <p class="updated_time"> 04:00 AM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/middleeast/saudi-arabia-women-mbs.html">Progress for Saudi Women Is Uneven, Despite Cultural Changes and More Jobs</a> NYT: Women say Saudi Arabia has advanced significantly in just the past year, with more choices regarding work, fashion (including colored abayas) and social spaces, but restrictions remain everywhere. 
 
 
 </details>
