@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
+ <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
  <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/israel-bennett-united-arab-emirates-524135">Israel’s Bennett makes first official visit to United Arab Emirates</a> Politico: The visit is part of a regional blitz of diplomacy. 
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063483626/democrats-need-a-boost-could-they-find-it-in-rural-america">Democrats need a boost. Could they find it in rural America?</a> NPR: Don Gonyea speaks with former Montana Governor Steve Bullock about the state of the Democratic party ahead of the 2022 midterm elections. 
  <p class="updated_time"> 08:00 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
- <p class="updated_time"> 07:42 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/tornadoesdeaths-kentucky-beshear-524125">Crews search for the missing after devastating tornadoes</a> Politico: Kentucky’s governor said his state’s death toll will surpass 100. 
  <p class="updated_time"> 07:30 AM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/fact-check-nc-senate-mccrory-attack-ad-trump-romney-blm/index.html">Fact check: Deceptive attack ad against GOP Senate candidate Pat McCrory edits his quotes about Trump and rioters</a> CNN: A television attack ad from conservative Super PAC Club for Growth Action uses egregiously deceptive editing to build its case that Pat McCrory, a Republican candidate for a US Senate seat in North Carolina, is a "Trump-hater" and "liberal faker." 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
