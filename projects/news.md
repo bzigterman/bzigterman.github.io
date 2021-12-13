@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:16 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 11:38 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
+ <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
+ <p class="updated_time"> 11:22 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59642262?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian passes California 'baby bar' law exam</a> BBC: The reality TV star and businesswoman says "don't ever give up" after passing on her fourth attempt. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 10:56 AM CT, Dec. 13 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
- <p class="updated_time"> 09:00 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 08:54 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 08:44 AM CT, Dec. 13 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
  <p class="updated_time"> 05:41 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
- <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59629670?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: I moonlighted as a taxi driver in the 1990s</a> BBC: Russia's president says he had to top up his income during economic troubles when the USSR collapsed. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 02:02 PM CT, Dec. 12 </p> 
@@ -207,7 +207,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:25 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the F.D.I.C.’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 10:42 AM CT, Dec. 13 </p> 
