@@ -204,20 +204,22 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/manchin-fiscal-concerns-524158">Manchin raises red flags over Dems' agenda ahead of Biden talk</a> Politico: “Everyone has to choose basically what we can sustain,” the Democratic senator said Monday. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
+ <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
+ <p class="updated_time"> 12:27 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 12:07 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 12:04 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/mary-miller-republican-primary-illinois/index.html">GOP leaders seek to fend off Trump endorsement as far-right Republican eyes Illinois primary bid</a> CNN: Donald Trump's closest Hill allies are privately lobbying the former President to get involved in a Republican-on-Republican matchup in Illinois, a potentially messy scenario that has sparked internal strife in the party and prompted GOP leaders to launch a counter-campaign aimed at keeping Trump on the sidelines. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
- <p class="updated_time"> 11:40 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
- <p class="updated_time"> 11:25 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the F.D.I.C.’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 10:42 AM CT, Dec. 13 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063521670/chris-wallace-announces-abrupt-departure-from-fox-news-to-join-cnn-streaming-ser">Chris Wallace announces abrupt departure from Fox News to join CNN streaming service</a> NPR: The respected journalist, who kept the news of his exit secret from colleagues, will head to CNN's new streaming service. 
  <p class="updated_time"> 12:49 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/iran-space-launch-satellite-524132">Satellite images, expert suggest Iranian space launch coming</a> Politico: Conducting a launch amid the Vienna talks would fit the hard-line posture struck by Tehran’s negotiators. 
- <p class="updated_time"> 12:30 PM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/blinken-biden-russia-ukraine-524128">Blinken: Biden administration ‘prepared’ to take steps against Russia</a> Politico: His remarks came as the G-7 warned of “massive consequences” if Russia attacks Ukraine. 
  <p class="updated_time"> 12:04 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/larry-summers-economic-signals/index.html">Analysis: How Larry Summers makes sense of confusing economic signals</a> CNN: Making sense of today's confusing economic signals is difficult. It's no surprise Larry Summers finds something for both sides of the fight over President Joe Biden's policies. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
@@ -454,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/07/bidens-whac-a-mole-covid-problem-495350">POLITICO Playbook: Biden’s Whac-A-Mole Covid problem</a> Politico: And President Joe Biden prepares for his call with Vladimir Putin. 
- <p class="updated_time"> 04:30 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/news/2021/12/07/dems-weigh-forcing-manchins-hand-523844">Dems weigh forcing Manchin's hand on their $1.7T megabill</a> Politico: Some Democrats, eager to pass their social spending bill before Christmas, want to move forward on a vote before they get a firm commitment from the West Virginia centrist. 
 
 
 </details>
