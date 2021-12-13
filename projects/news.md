@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
  <p class="updated_time"> 07:38 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">UK ship investigated after Danish boat capsizes</a> BBC: Two people on the Danish boat are feared dead after a collision off the Swedish coast. 
  <p class="updated_time"> 07:36 AM CT, Dec. 13 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven others are jailed for marking the Tiananmen massacre in Beijing in 1989. 
  <p class="updated_time"> 07:07 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
- <p class="updated_time"> 06:59 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
  <p class="updated_time"> 06:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 06:49 AM CT, Dec. 13 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:13 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/kamala-harris-private-sector-investments-north-triangle/index.html">Harris to announce new private sector investments in Northern Triangle</a> CNN: Vice President Kamala Harris on Monday will announce a new slate of commitments from the private sector to invest in the Northern Triangle, senior White House officials say, marking the administration's latest attempt to address the root causes of migration from the region by promoting economic opportunity. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">'Who is he?' The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
+ <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">The judges drawing America's political maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
