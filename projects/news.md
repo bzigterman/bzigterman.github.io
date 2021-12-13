@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
+ <p class="updated_time"> 02:49 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 02:36 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
  <p class="updated_time"> 02:32 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632657?at_medium=RSS&at_campaign=KARANGA">Canada apologises for 'scourge' of military sexual misconduct</a> BBC: Eleven of Canada's top brass have been removed from their posts in connection with sexual misconduct. 
  <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
- <p class="updated_time"> 02:23 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
  <p class="updated_time"> 02:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 02:13 PM CT, Dec. 13 </p> 
@@ -69,12 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-reports-first-omicron-covid-19-case-in-the-mainland-11639418519">China Reports First Omicron Case in the Mainland</a> WSJ: The infection was discovered in a traveler who arrived in the northern port city of Tianjin from overseas on Thursday, putting what China has called its “zero tolerance” Covid-19 strategy to a further test. 
  <p class="updated_time"> 07:14 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
- <p class="updated_time"> 06:47 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59636279?at_medium=RSS&at_campaign=KARANGA">Israeli Prime Minister Bennett in first trip to UAE as Iran threat looms</a> BBC: Naftali Bennett meets Abu Dhabi's crown prince at a time of rising tensions in the region. 
- <p class="updated_time"> 06:30 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59637370?at_medium=RSS&at_campaign=KARANGA">Police and migrants clash outside Mexico City</a> BBC: The migrant caravan has been slowly winding its way through Mexico to the United States border. 
- <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636399?at_medium=RSS&at_campaign=KARANGA">Italy: Seven dead as rescuers find bodies in Sicily blast</a> BBC: Rescuers are still searching for two missing people in the rubble of four collapsed buildings. 
  <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
