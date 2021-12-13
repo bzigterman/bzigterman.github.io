@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:52 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Cargo ships collide off Sweden's coast</a> BBC: A Danish vessel has capsized after colliding with a British-flagged ship in the Baltic Sea. 
- <p class="updated_time"> 02:36 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 03:19 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/hongkong-jimmy-lai-tiananmen.html">Hong Kong Court Sentences Jimmy Lai to Prison Over Tiananmen Vigil</a> NYT: The former media mogul and other prominent pro-democracy activists were previously convicted of inciting others to take part in an unauthorized assembly. 
+ <p class="updated_time"> 02:52 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Two missing after cargo ships collide off Sweden</a> BBC: A Danish vessel has capsized after colliding with a British-flagged ship in the Baltic Sea. 
+ <p class="updated_time"> 02:31 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai, along with seven other activists, were given sentences ranging from four to 14 months. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S., other ex-foes</a> NPR: Afghan Foreign Minister Amir Khan Muttaqi said the Taliban have changed since they last ruled 
  <p class="updated_time"> 01:30 AM CT, Dec. 13 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
- <p class="updated_time"> 10:32 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59628178?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: World heritage site Lalibela back in rebel hands</a> BBC: Tigray forces had left Lalibela 11 days ago as federal forces and their allies had been advancing. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
