@@ -9,7 +9,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:52 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
- <p class="updated_time"> 07:38 AM CT, Dec. 13 </p> 
+ <p class="updated_time"> 07:51 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">UK ship investigated after Danish boat capsizes</a> BBC: Two people on the Danish boat are feared dead after a collision off the Swedish coast. 
  <p class="updated_time"> 07:36 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
  <p class="updated_time"> 06:47 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59636279?at_medium=RSS&at_campaign=KARANGA">Israeli Prime Minister Bennett in first trip to UAE as Iran threat looms</a> BBC: Naftali Bennett meets Abu Dhabi's crown prince at a time of rising tensions in the region. 
+ <p class="updated_time"> 06:40 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 06:30 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59637370?at_medium=RSS&at_campaign=KARANGA">Police and migrants clash outside Mexico City</a> BBC: The migrant caravan has been slowly winding its way through Mexico to the United States border. 
  <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/09/world/australia/rain-soaked-rural-australia-asks-when-will-it-end.html">Rain-Soaked Rural Australia Asks: When Will It End?</a> NYT: After years of climate extremes, even the toughest, most community-minded Australians are desperate for a break from the deluge of disaster. 
  <p class="updated_time"> 02:24 PM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/middleeast/us-iraq-combat-mission.html">U.S. Announces End to Combat Mission in Iraq, but Troops Will Not Leave</a> NYT: The U.S. military said it had transitioned to an advise and assist mission in the country, but the roughly 2,500 service members on the ground will remain, staying on in support roles. 
- <p class="updated_time"> 01:44 PM CT, Dec. 09 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/asia/india-farmer-protests-end.html">India’s Farmers Call Off Yearlong Protest Against Hated Farm Laws</a> NYT: Prime Minister Narendra Modi unexpectedly conceded protesters’ main demand weeks ago, but serious problems remain with the country’s agricultural system. 
  <p class="updated_time"> 09:22 AM CT, Dec. 09 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/europe/boris-carrie-johnson-baby.html">Boris Johnson and Wife, Carrie Johnson, Announce Birth of Second Child</a> NYT: The birth comes as the British prime minister faces a political scandal over Covid rules. 
 
@@ -227,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">Dems hustle for year-end deal as child tax credit cliff looms</a> Politico: “It’s as important a thing as there is" in the party's social spending bill, as one senator put it. And it's expiring any day now. 
+ <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is" in the party's social spending bill, as one senator put it. And it's expiring any day now. 
  <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1062794948/authoritarians-migrants-weapons-white-house-worries">Authoritarians are using migrants as weapons. The White House frets it's on the rise</a> NPR: The White House is concerned migrants will be increasingly used as a geopolitical tool as migration increases because of instability and climate change. 
  <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
@@ -358,6 +358,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
+ <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
