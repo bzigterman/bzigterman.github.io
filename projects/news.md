@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military </a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
- <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 11:31 AM CT, Dec. 13 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:45 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/air-force-discharged-vaccine-524167">Air Force discharges 27 for refusal to get Covid vaccine</a> Politico: The Air Force gave its forces until Nov. 2 to get the vaccine. 
+ <p class="updated_time"> 05:26 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
  <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 committee to vote Monday on holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
- <p class="updated_time"> 03:42 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-vaccine-mandate-new-york-healthcare.html">Supreme Court Allows Vaccine Mandate for New York Health Care Workers</a> NYT: Doctors and nurses challenged a state coronavirus vaccine requirement that had medical but not religious exemptions, saying it violated their right to free exercise of their faiths. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
