@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
+ <p class="updated_time"> 02:23 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
  <p class="updated_time"> 02:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 02:13 PM CT, Dec. 13 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
  <p class="updated_time"> 01:49 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse victims to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
- <p class="updated_time"> 01:44 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
  <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 01:36 PM CT, Dec. 13 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
- <p class="updated_time"> 11:50 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas to face Westminster magistrates</a> BBC: Mrs Sacoolas returned to the US after diplomatic immunity was asserted on her behalf. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:12 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the F.D.I.C.’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
- <p class="updated_time"> 10:42 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
