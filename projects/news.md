@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59636399?at_medium=RSS&at_campaign=KARANGA">Italy: Seven dead as rescuers find bodies in Sicily blast</a> BBC: Rescuers are still searching for two missing people in the rubble of four collapsed buildings. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: At least 12 are reported injured after the blast at an Orthodox school near a nunnery outside Moscow. 
+ <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1062498943/latin-grammy-winner-to-cuban-leaders-were-done-with-your-lies-and-indoctrination">Latin Grammy winner to Cuban leaders: 'We're done with your lies and indoctrination'</a> NPR: Afro-Cuban rapper Yotuel Romero discusses the song that  won Song of the Year and inspired protesters in one of the biggest waves of demonstrations in Cuba in decades. 
  <p class="updated_time"> 04:39 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military  as a bulwark against China. 
  <p class="updated_time"> 04:26 AM CT, Dec. 13 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632403?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Death toll likely to pass 100, governor says</a> BBC: Rescue workers have continued to scour the rubble but hopes of finding survivors are waning. 
  <p class="updated_time"> 11:14 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59633388?at_medium=RSS&at_campaign=KARANGA">Nicaragua receives China vaccines after cutting ties with Taiwan</a> BBC: The Central American nation cut all diplomatic ties with Taiwan last week in favour of China relations. 
- <p class="updated_time"> 10:50 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to in principle</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59629670?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: I moonlighted as a taxi driver in the 1990s</a> BBC: Russia's president says he had to top up his income during economic troubles when the USSR collapsed. 
- <p class="updated_time"> 04:35 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59631743?at_medium=RSS&at_campaign=KARANGA">Indian police 'foil man's attempt to fake death'</a> BBC: Officers say he murdered another man to try to fake his own death to avoid being returned to prison. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
@@ -79,10 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 09:30 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
- <p class="updated_time"> 09:26 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires woman who claimed sexual assault</a> BBC: The woman said a colleague and client had assaulted her on a business trip earlier this year. 
- <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
  <p class="updated_time"> 07:39 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett Visits U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
@@ -93,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 03:39 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/in-france-criticism-grows-over-u-s-inspired-activism-on-race-gender-11639319941">In France, Criticism Grows Over U.S.-Inspired Social Activism</a> WSJ: President Emmanuel Macron and some other public figures say that “woke” movements reflecting American ideas about multiculturalism pose a threat to French society. 
- <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/business/china-alibaba-rape-metoo.html">Alibaba Dismisses Employee Who Accused Her Boss of Rape</a> NYT: After initially supporting her #MeToo accusation, the company now blames her for damaging the company’s reputation with false claims. 
  <p class="updated_time"> 06:35 PM CT, Dec. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59578223?at_medium=RSS&at_campaign=KARANGA">The Nigerian woman whose life changed when she visited a leprosy colony</a> BBC: A Nigerian woman living in the US never imagined that leprosy still existed in her home country. 
  <p class="updated_time"> 06:31 PM CT, Dec. 11 </p> 
@@ -153,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 05:05 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism">Nobel Peace laureates blast tech giants and warn against rising authoritarianism</a> NPR: "If you're working in tech, I'm talking to you," Rappler CEO Maria Ressa said. She later added, "What happens on social media doesn't stay on social media." 
- <p class="updated_time"> 04:50 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/2021/12/10/1063204745/the-video-game-pioneer-behind-nintendos-groundbreaking-console-has-died">The video game pioneer behind Nintendo's groundbreaking console has died</a> NPR: Masayuki Uemura was the lead architect behind the Nintendo Entertainment System, which dominated the home video game industry and helped launch games like Mario and Donkey Kong. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
@@ -200,6 +194,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:08 AM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/12/13/all-eyes-on-the-joes-495439">POLITICO Playbook: All eyes on the Joes</a> Politico: And Nancy Pelosi plays down retirement rumors. 
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">'Who is he?' The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
@@ -213,13 +209,17 @@ permalink: /projects/news/
  <p class="updated_time"> 04:03 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063593984/some-countries-which-identify-as-democracies-werent-invited-to-the-democracy-sum">Some countries which identify as democracies, weren't invited to the democracy summit</a> NPR: After President Biden's democracy summit, what does it mean when countries say they are a democracy? NPR's Steve Inskeep talks to Seema Shah, co-author of the Global State of Democracy report. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
- <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/email-political-misinformation.html">Now in Your Inbox: Political Misinformation</a> NYT: One of the most powerful communication tools available to politicians teems with unfounded claims and largely escapes notice. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/supreme-court-roe-v-wade-precedent.html">With Roe at Risk, Justices Explore a New Way to Question Precedents</a> NYT: A new study traces a trend at the Supreme Court: looking to what the lawyers had argued in assessing whether to follow a precedent. 
+ <p class="updated_time"> 11:54 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
  <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
+ <p class="updated_time"> 09:50 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">January 6 committee releases resolution recommending holding Meadows in contempt of Congress</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/israel-bennett-united-arab-emirates-524135">Israel’s Bennett makes first official visit to United Arab Emirates</a> Politico: The visit is part of a regional blitz of diplomacy. 
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
@@ -228,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/mark-meadows-capitol-attack.html">Meadows Was Deeply Involved in Fighting Election Outcome, Jan. 6 Panel Says</a> NYT: The House committee laid out its case for a contempt of Congress charge against Mark Meadows, the chief of staff to former President Donald J. Trump. 
  <p class="updated_time"> 06:35 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/meadows-jan-6-national-guard-trump-524133">Meadows Jan. 5 email indicated Guard on standby to ‘protect pro Trump people,’ investigators say</a> Politico: The context for the message is unclear, but it comes amid scrutiny of the Guard’s slow response to the Jan. 6 violence at the Capitol. 
+ <p class="updated_time"> 05:39 PM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/kamala-harris-negative-headlines-media-coverage/index.html">Harris calls out 'ridiculous' press coverage of her Paris trip but avoids questions on recent staff exits</a> CNN: Vice President Kamala Harris blasted press coverage of a personal shopping trip she took during an official visit to France last month as "ridiculous" but avoided questions about recent high-profile staff departures from her office, the San Francisco Chronicle reported Sunday. 
  <p class="updated_time"> 04:04 PM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063539443/nyc-granted-noncitizens-the-right-to-vote-in-local-elections-the-idea-isnt-so-ne">NYC granted noncitizens the right to vote in local elections. The idea isn't so new</a> NPR: Following New York City's move to allow noncitizens to vote in local elections, NPR's Adrian Florido speaks with professor Hiroshi Motomura about the history of immigrant voting rights in the U.S. 
  <p class="updated_time"> 03:48 PM CT, Dec. 12 </p> 
@@ -239,13 +241,11 @@ permalink: /projects/news/
  <p class="updated_time"> 12:30 PM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/blinken-biden-russia-ukraine-524128">Blinken: Biden administration ‘prepared’ to take steps against Russia</a> Politico: His remarks came as the G-7 warned of “massive consequences” if Russia attacks Ukraine. 
  <p class="updated_time"> 12:04 PM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/larry-summers-economic-signals/index.html">How Larry Summers makes sense of confusing economic signals</a> CNN: Making sense of today's confusing economic signals is difficult. It's no surprise Larry Summers finds something for both sides of the fight over President Joe Biden's policies. 
+ <a href="https://www.cnn.com/2021/12/12/politics/larry-summers-economic-signals/index.html">Analysis: How Larry Summers makes sense of confusing economic signals</a> CNN: Making sense of today's confusing economic signals is difficult. It's no surprise Larry Summers finds something for both sides of the fight over President Joe Biden's policies. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
  <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Russia's Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
- <p class="updated_time"> 11:12 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/midterm-election-2022-republican-wave/index.html">Why the 2022 midterms look like the opposite of 2018</a> CNN: What a difference four years makes in politics. At this point in 2017, Democrats were about to pull off a stunning Senate win against a very flawed opponent in the deeply red state of Alabama. It was one of many indications that Democrats were on their way to a big 2018 victory. 
+ <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:53 AM CT, Dec. 12 </p> 
@@ -257,7 +257,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/g7-russia-ukraine.html">Diplomats Warn Russia of ‘Massive Consequences’ if It Invades Ukraine</a> NYT: The foreign ministers for the Group of 7 urged Russia to pull back from the tense border standoff. Moscow has massed as many as 100,000 troops on Ukraine’s eastern, northern and southern frontiers. 
  <p class="updated_time"> 10:02 AM CT, Dec. 12 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
+ <a href="https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html">Analysis: Let the people vote. But which people?</a> CNN: While numerous US states are doing everything they can to make voting more difficult and shrink the number of people taking part in elections, New York City has gone the opposite direction and opened the polls to noncitizen legal immigrants. 
  <p class="updated_time"> 09:57 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/biden-democrats-2024.html">Democrats Are Solidly Behind Biden. There’s No Consensus About a Plan B.</a> NYT: Leaders with White House aspirations all say they’ll support the president for another term. But there is no shortage of chatter about the options if he continues to falter. 
  <p class="updated_time"> 09:21 AM CT, Dec. 12 </p> 
@@ -346,14 +346,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/bob-dole-funeral-washington/index.html">Bob Dole celebrated by Biden and national leaders at Washington funeral</a> CNN: A funeral service and tribute ceremony for the late Kansas Republican Sen. Bob Dole are scheduled to be held in Washington, DC, on Friday. 
  <p class="updated_time"> 12:39 PM CT, Dec. 10 </p> 
  <a href="https://www.npr.org/2021/12/10/1063015742/remembering-sen-bob-dole-former-republican-presidential-candidate">Remembering Sen. Bob Dole, former Republican presidential candidate</a> NPR: Dole, who died Dec. 5, represented Kansas in the Senate for 27 years, and was the Republican nominee for president in 1996. He spoke to Fresh Air in '05 about his experiences fighting in World War II. 
- <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
- <p class="updated_time"> 08:06 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/cia-shift-china-train-manage-spies/index.html">After 20 years of anti-terror work, CIA gets back to spycraft basics in shift to China</a> CNN: The CIA is overhauling how it trains and manages its network of spies as part of a broader effort to transition away from 20 years of counterterrorism wars and focus more closely on adversaries like China and Russia, multiple sources familiar with the move tell CNN. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/10/debt-limit-vote-kicked-to-next-week-495417">Debt limit vote kicked to next week</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:52 AM CT, Dec. 10 </p> 
