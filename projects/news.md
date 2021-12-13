@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:25 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
+ <p class="updated_time"> 10:16 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
+ <p class="updated_time"> 10:13 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: At least 64 residents are confirmed dead and over 100 are still missing, Governor Andy Beshear said. 
+ <p class="updated_time"> 10:09 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">UK ship investigated over Danish capsize death</a> BBC: One person is dead and one missing on a Danish boat after a collision with a UK vessel off Sweden. 
  <p class="updated_time"> 09:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
- <p class="updated_time"> 09:21 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
- <p class="updated_time"> 09:18 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: Search efforts continue as families await news of loved ones following Kentucky's deadly tornadoes. 
  <p class="updated_time"> 09:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-travel-setbacks.html">How Conflicting Guidance on Travel During the Pandemic Shows Little Progress</a> NYT: The Omicron variant turned my trip home from South Africa into a nightmare episode of conflicting public health orders that often seemed to have little connection to science. 
  <p class="updated_time"> 08:54 AM CT, Dec. 13 </p> 
@@ -23,16 +27,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
  <p class="updated_time"> 08:43 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: A number of people were injured after the blast at an Orthodox school near a nunnery outside Moscow. 
- <p class="updated_time"> 08:37 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
  <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 07:52 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
- <p class="updated_time"> 07:51 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">UK ship investigated after Danish boat capsizes</a> BBC: Two people on the Danish boat are feared dead after a collision off the Swedish coast. 
  <p class="updated_time"> 07:08 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59632728?at_medium=RSS&at_campaign=KARANGA">Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil</a> BBC: Jimmy Lai and seven others are jailed for marking the Tiananmen massacre in Beijing in 1989. 
  <p class="updated_time"> 06:51 AM CT, Dec. 13 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 08:46 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 10:22 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/iran-nuclear-us-israel-biden-bennett.html">Iran’s Nuclear Program Ignites New Tension Between U.S. and Israel</a> NYT: Strains emerged during talks this week after a short period of strong relations between a new Israeli government and new American one. 
- <p class="updated_time"> 10:04 AM CT, Dec. 11 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/capitol-hill-security-breach/index.html">Security breach on Capitol Hill included missteps, such as giving officers wrong description for the suspect</a> CNN: A security breach at an office building on the US Capitol complex on Thursday included a number of missteps, such as Capitol Police failing to notice a handgun on the X-ray security screen and erroneously telling officers to look for a White woman instead of a Black man, sources familiar with the situation told CNN. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
  <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
@@ -364,6 +364,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/10/trump-lawyer-pence-biden-524088">Trump campaign lawyer authored 2 memos claiming Pence could halt Biden’s victory</a> Politico: In one previously unreported memo, Jenna Ellis delivered a technical — and far-fetched — legal argument to another of the former president's outside lawyers. 
  <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
+ <p class="updated_time"> 10:12 AM CT, Dec. 10 </p> 
+ <a href="https://www.cnn.com/2021/12/10/politics/white-house-red-line-policy-cyberattacks/index.html">New White House policy gives agencies 24 hours to assess cyberattacks of potential national security concern</a> CNN: The White House has enacted a new policy requiring the FBI and other agencies to help US officials quickly assess whether a cyberattack "rises to the level of a national security concern" that could hamper the provision of key services such as fuel or food, according to a National Security Council memo obtained by CNN and two US officials. 
  <p class="updated_time"> 09:50 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/foreign-governments-lobbying-covid-vaccines-524068">These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</a> Politico: Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
@@ -442,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/manchin-warning-inflation-social-spending-523913">Manchin issues warning about rising inflation, as clock ticks on social spending bill</a> Politico: “We’ve got to make sure we get this right,” the West Virginia Democrat said. 
  <p class="updated_time"> 06:57 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
- <p class="updated_time"> 06:41 PM CT, Dec. 07 </p> 
- <a href="https://www.cnn.com/2021/12/07/politics/senate-confirms-magnus-border-agency/index.html">Senate confirms Biden's pick to lead border agency </a> CNN: The Senate confirmed President Joe Biden's pick to lead US Customs and Border Protection, Chris Magnus, on Tuesday after months of confirmation setbacks that left the agency with a void at the top amid a record number of border arrests. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
  <p class="updated_time"> 12:08 PM CT, Dec. 07 </p> 
