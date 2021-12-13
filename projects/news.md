@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/manchin-social-policy-bill.html">Manchin Casts Doubt on Quick Vote on Biden’s Social Policy Bill</a> NYT: The West Virginia Democrat said he still harbored serious concerns about the $2.2 trillion measure, potentially frustrating his party’s push to win Senate approval before Christmas. 
+ <p class="updated_time"> 05:48 PM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063903536/survivors-of-gun-violence-are-running-for-office-saying-they-bring-a-new-perspec">Survivors of gun violence are running for office, saying they bring a new perspective</a> NPR: Gun control groups are recruiting candidates to run for office whose lives have been affected by gun violence. The candidates say they'll bring a new perspective to understanding issues around guns. 
  <p class="updated_time"> 05:45 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/air-force-discharged-vaccine-524167">Air Force discharges 27 for refusal to get Covid vaccine</a> Politico: The Air Force gave its forces until Nov. 2 to get the vaccine. 
  <p class="updated_time"> 05:26 PM CT, Dec. 13 </p> 
@@ -260,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
- <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the F.D.I.C.’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/malinowski-suporters-redistricting-524098">Malinowski supporters flood the zone, fearing he’ll be ‘sacrificed’ in redistricting</a> Politico: It’s an aggressive approach that’s alienated some in his party. But Malinowski, one of the nation’s most endangered incumbents, doesn’t have much choice. 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
- <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337585/the-us-is-seeing-the-worst-monthly-inflation-numbers-in-40-years">The US is seeing the worst monthly inflation numbers in 40 years </a> NPR: Inflation is at its highest level since President Ronald Reagan was in office, and that's a big political problem for President Biden and the Democratic party. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
