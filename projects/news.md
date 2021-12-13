@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1059861848/encore-sula-vineyards-makes-wine-in-indias-unlikely-terroir">Encore: Sula Vineyards makes wine in India's unlikely terroir</a> NPR: You may have heard of India's famous beer, Kingfisher. But wine? In the tropics? With spicy curries? Sula Vineyards is India's leading winemaker. 
+ <p class="updated_time"> 03:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 74 now confirmed dead, with more than 100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 03:18 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-northamptonshire-59643750?at_medium=RSS&at_campaign=KARANGA">Harry Dunn crash: Anne Sacoolas case to go before UK court</a> BBC: Magistrates in London will hear the case concerning the death of motorcyclist Harry Dunn. 
  <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063510196/in-times-of-crisis-or-to-create-one-russias-putin-turns-to-his-military">In times of crisis — or to create one — Russia's Putin turns to his military </a> NPR: When Vladimir Putin assumed power in 1999, he immediately sent the Russian military into Chechnya. For more than 20 years, Putin has repeatedly looked to the military to strengthen his rule. 
  <p class="updated_time"> 12:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">In Response to Omicron, U.K. Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
- <p class="updated_time"> 12:00 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than 100 still missing, Governor Andy Beshear said. 
  <p class="updated_time"> 11:57 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing after a Danish ship collides with a UK vessel in the Baltic Sea. 
  <p class="updated_time"> 11:33 AM CT, Dec. 13 </p> 
@@ -73,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636399?at_medium=RSS&at_campaign=KARANGA">Italy: Seven dead as rescuers find bodies in Sicily blast</a> BBC: Rescuers are still searching for two missing people in the rubble of four collapsed buildings. 
+ <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/africa/cyril-ramaphosa-covid.html">South Africa’s president tests positive for the coronavirus.</a> NYT: The 69-year-old leader was displaying mild Covid-19 symptoms. New cases in the country are rising quickly. 
  <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1062498943/latin-grammy-winner-to-cuban-leaders-were-done-with-your-lies-and-indoctrination">Latin Grammy winner to Cuban leaders: 'We're done with your lies and indoctrination'</a> NPR: Afro-Cuban rapper Yotuel Romero discusses the song that  won Song of the Year and inspired protesters in one of the biggest waves of demonstrations in Cuba in decades. 
  <p class="updated_time"> 04:39 AM CT, Dec. 13 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
- <p class="updated_time"> 05:46 PM CT, Dec. 10 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world">What omicron's fast spread could mean for the U.S. – and the world</a> NPR: The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant. 
  <p class="updated_time"> 04:23 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/sports/autoracing/al-unser-dead.html">Al Unser, Four-Time Winner of the Indy 500, Dies at 82</a> NYT: He was part of one of auto racing’s most celebrated families, whose members won the Indianapolis 500 a combined nine times. 
  <p class="updated_time"> 04:05 PM CT, Dec. 10 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
  <p class="updated_time"> 07:43 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/tour-de-france-crash.html">Tour de France Fan Is Fined for Causing Huge Crash in June</a> NYT: The fan’s cardboard sign, held up for television cameras with a message for her grandparents, sent dozens of cyclists tumbling to the ground. 
- <p class="updated_time"> 06:20 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/09/world/americas/mexico-migrants-killed-accident.html">Mexico Migrant Truck Crash Leaves at Least 54 Dead</a> NYT: Over 100 others were reported injured in the crash in southern Chiapas State, where many migrants regularly cross into Mexico from Central America. 
  <p class="updated_time"> 05:34 AM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/09/world/australia/earth-black-box-climate-change.html">Earth Is Getting a 'Black Box' Because of Climate Change</a> NYT: When a plane crashes, its flight recorder is critical to piecing together the missteps that led to calamity. Now the planet is getting its own in case it self-destructs. 
  <p class="updated_time"> 04:00 AM CT, Dec. 10 </p> 
@@ -206,6 +206,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
+ <p class="updated_time"> 03:34 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
+ <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
+ <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 03:13 PM CT, Dec. 13 </p> 
@@ -214,12 +220,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS call back? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
  <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
+ <p class="updated_time"> 02:59 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/no-troops-punished-kabul-strike/index.html">Pentagon decides no US troops will be punished over botched Kabul drone strike that killed 10 civilians</a> CNN: Defense Secretary Lloyd Austin has decided that no US military personnel will be punished over the August drone strike in Kabul that killed 10 civilians, including seven children. 
  <p class="updated_time"> 02:29 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/insurrection-sedition-coup-january-6/index.html">Here's what 'insurrection,' 'coup' and 'sedition' mean</a> CNN: As the House January 6 committee continues its probe into the US Capitol riot and issues subpoenas, there are questions surrounding the role allies of former President Donald Trump may have played. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
- <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/mary-miller-republican-primary-illinois/index.html">GOP leaders seek to fend off Trump endorsement as far-right Republican eyes Illinois primary bid</a> CNN: Donald Trump's closest Hill allies are privately lobbying the former President to get involved in a Republican-on-Republican matchup in Illinois, a potentially messy scenario that has sparked internal strife in the party and prompted GOP leaders to launch a counter-campaign aimed at keeping Trump on the sidelines. 
  <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
@@ -234,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/democrats-ukraine-budget-letter/index.html">Democrats say Biden's 'hands partly tied' on Ukraine assistance by budget gridlock </a> CNN: Democratic lawmakers say President Joe Biden's "hands are partly tied" when it comes to sending new military equipment to Ukraine to fend off a potential Russian invasion because Congress has still not passed a budget for 2022 that would unlock "vital additional assistance" to the country. 
  <p class="updated_time"> 12:35 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
- <p class="updated_time"> 12:27 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337585/the-us-is-seeing-the-worst-monthly-inflation-numbers-in-40-years">The US is seeing the worst monthly inflation numbers in 40 years </a> NPR: Inflation is at its highest level since President Ronald Reagan was in office, and that's a big political problem for President Biden and the Democratic party. 
- <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
- <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
