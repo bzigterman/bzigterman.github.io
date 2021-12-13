@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage 
+ <p class="updated_time"> 01:44 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
+ <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
+ <p class="updated_time"> 01:36 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
+ <p class="updated_time"> 01:36 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 01:27 PM CT, Dec. 13 </p> 
@@ -37,14 +43,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
- <p class="updated_time"> 08:54 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 08:44 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
  <p class="updated_time"> 08:43 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636123?at_medium=RSS&at_campaign=KARANGA">Russia explosion: Teen detonates device at Orthodox convent school</a> BBC: A number of people were injured after the blast at an Orthodox school near a nunnery outside Moscow. 
- <p class="updated_time"> 08:20 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/arts/music/vicente-fernandez-dead.html">Vicente Fernández, ‘El Rey’ of Mexican Ranchera Music, Is Dead at 81</a> NYT: A beloved Mexican singer, Mr. Fernández was known for his powerful operatic range and marathon performances, delivered in a signature charro outfit and intricately embroidered sombrero. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 08:01 AM CT, Dec. 13 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59631837?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: 100-year-old church destroyed in seconds</a> BBC: The BBC's Nomia Iqbal shows us the ruins of the Mayfield First United Methodist Church in Kentucky. 
- <p class="updated_time"> 02:02 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/sports/soccer/ligue-1-france-violence.html">French Soccer Wrestles Surge in Stadium Violence</a> NYT: The return of supporters to stadiums in France has been accompanied by a series of games postponed or marred by trouble in the stands. 
  <p class="updated_time"> 12:42 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/americas/jovenel-moise-haiti-president-drug-traffickers.html">Haiti’s Leader Kept a List of Drug Traffickers. His Assassins Came for It.</a> NYT: In the months before his murder, President Jovenel Moïse took a number of steps to fight drug and arms smugglers. Some officials now fear he was killed for it. 
  <p class="updated_time"> 10:09 AM CT, Dec. 12 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
+ <p class="updated_time"> 01:42 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/mary-miller-republican-primary-illinois/index.html">GOP leaders seek to fend off Trump endorsement as far-right Republican eyes Illinois primary bid</a> CNN: Donald Trump's closest Hill allies are privately lobbying the former President to get involved in a Republican-on-Republican matchup in Illinois, a potentially messy scenario that has sparked internal strife in the party and prompted GOP leaders to launch a counter-campaign aimed at keeping Trump on the sidelines. 
  <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063652510/mark-meadows-contempt-vote-jan-6-committee-house">Ahead of panel vote, Meadows' attorney says contempt referral runs contrary to law</a> NPR: The former Trump White House chief of staff said through his attorney that the effort to refer him for contempt was unwise, unfair and contrary to law. The panel will vote on that referral on Monday. 
  <p class="updated_time"> 12:53 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/biden-kentucky-deadly-tornados-524155">Biden to survey Kentucky tornado damage Wednesday</a> Politico: A severe storm across several states has left dozens dead and tens of thousands without power. 
- <p class="updated_time"> 12:51 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 12:43 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dr-oz-show-end-2022-524157">'Dr. Oz Show' will end in 2022 amid host's Senate bid</a> Politico: The long-running daytime TV show will end in its 13th season as Mehmet Oz makes a run for the U.S. Senate. 
  <p class="updated_time"> 12:38 PM CT, Dec. 13 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-kentucky-visit-tornado-damage/index.html">Biden to travel to Kentucky to survey storm damage on Wednesday</a> CNN: President Joe Biden on Monday announced he will travel to Kentucky later on this week to survey damage from tornadoes and severe storms. 
  <p class="updated_time"> 12:27 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
- <p class="updated_time"> 12:04 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/mary-miller-republican-primary-illinois/index.html">GOP leaders seek to fend off Trump endorsement as far-right Republican eyes Illinois primary bid</a> CNN: Donald Trump's closest Hill allies are privately lobbying the former President to get involved in a Republican-on-Republican matchup in Illinois, a potentially messy scenario that has sparked internal strife in the party and prompted GOP leaders to launch a counter-campaign aimed at keeping Trump on the sidelines. 
  <p class="updated_time"> 11:52 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/democratic-governors-2022-messaging/index.html">Democratic governors worry about threat to democracy but don't see it as a winning message for 2022 </a> CNN: Democratic governors are facing a messaging conundrum: they say American democracy may hinge on their elections in 2022, but they're not sure they can get most voters to care. 
  <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
