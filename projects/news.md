@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Holds Historic Meeting With Emirati Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the Israeli leader’s first official trip to the Gulf state. 
+ <p class="updated_time"> 06:51 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
+ <p class="updated_time"> 06:49 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister for asylum separations</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
+ <p class="updated_time"> 06:47 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59636279?at_medium=RSS&at_campaign=KARANGA">Israeli Prime Minister Bennett in first trip to UAE as Iran threat looms</a> BBC: Naftali Bennett meets Abu Dhabi's crown prince at a time of rising tensions in the region. 
  <p class="updated_time"> 06:30 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59637370?at_medium=RSS&at_campaign=KARANGA">Police and migrants clash outside Mexico City</a> BBC: The migrant caravan has been slowly winding its way through Mexico to the United States border. 
- <p class="updated_time"> 06:22 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59636124?at_medium=RSS&at_campaign=KARANGA">Inger Stoejberg: Jail for Danish ex-minister in impeachment trial</a> BBC: Inger Stoejberg faces 60 days in prison for separating young asylum-seeking couples in 2016. 
- <p class="updated_time"> 06:04 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Meets Emirati Crown Prince in Abu Dhabi</a> NYT: Prime Minister Naftali Bennett met Prince Mohammed bin Zayed, the de facto leader of the United Arab Emirates, on a historic official trip to the Gulf state. 
  <p class="updated_time"> 06:02 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Baltic Sea: Two feared dead as British and Danish ships collide</a> BBC: Shouts were heard in the cold water off the Swedish coast when the Danish vessel capsized. 
  <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
- <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/europe/uk-boosters.html">Britain Accelerates Plan to Get Third Shot in All Adults</a> NYT: The British government has accelerated its goal to a month earlier than planned, the prime minister said. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1063337634/two-investigative-journalists-were-awarded-this-years-nobel-peace-prize">Two investigative journalists were awarded this year's Nobel Peace Prize</a> NPR: Maria Ressa of the Philippines is one of two journalists to have received the Nobel Peace Prize this week, highlighting a message about the need for press freedom. 
  <p class="updated_time"> 06:56 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063337550/hong-kong-democracy-activist-says-the-us-must-recognize-chinas-threat-to-its-val">Hong Kong democracy activist says the US must recognize China's threat to its values</a> NPR: Scott Simon talks with Hong Kong activist Nathan Law about speaking at The Summit for Democracy and about the "special administrative zone's" fight for freedom. 
- <p class="updated_time"> 06:20 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
