@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:16 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: A baby is among 64 now confirmed dead, with more than100 still missing, Governor Andy Beshear said. 
+ <p class="updated_time"> 11:04 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
+ <p class="updated_time"> 10:56 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Two detained after UK boat's fatal collision off Sweden</a> BBC: One person is dead and one missing on a Danish boat after a collision with a UK vessel off Sweden. 
  <p class="updated_time"> 10:25 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59635607?at_medium=RSS&at_campaign=KARANGA">Golden Globes: Belfast and The Power of the Dog lead field for troubled awards</a> BBC: The Power of the Dog, starring Benedict Cumberbatch, and Sir Kenneth Branagh's Belfast lead the race. 
  <p class="updated_time"> 10:16 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59635277?at_medium=RSS&at_campaign=KARANGA">Cyril Ramaphosa: South Africa president being treated for Covid</a> BBC: Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy. 
- <p class="updated_time"> 10:13 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59637898?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Race to find missing in flattened US towns</a> BBC: At least 64 residents are confirmed dead and over 100 are still missing, Governor Andy Beshear said. 
- <p class="updated_time"> 10:09 AM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">UK ship investigated over Danish capsize death</a> BBC: One person is dead and one missing on a Danish boat after a collision with a UK vessel off Sweden. 
  <p class="updated_time"> 09:51 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59637370?at_medium=RSS&at_campaign=KARANGA">Police and migrants clash outside Mexico City</a> BBC: The migrant caravan has been slowly winding its way through Mexico to the United States border. 
  <p class="updated_time"> 05:52 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
+ <p class="updated_time"> 05:35 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/israeli-u-a-e-leaders-meet-amid-flurry-of-middle-east-diplomacy-11639413346">Israeli, U.A.E. Leaders Meet Amid Flurry of Middle East Diplomacy</a> WSJ: The first-ever official meeting Monday between Israel’s prime minister and the United Arab Emirates’ de facto leader were driven in part by Iran nuclear talks and worries over a shrinking U.S. regional role. 
  <p class="updated_time"> 05:12 AM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59636399?at_medium=RSS&at_campaign=KARANGA">Italy: Seven dead as rescuers find bodies in Sicily blast</a> BBC: Rescuers are still searching for two missing people in the rubble of four collapsed buildings. 
  <p class="updated_time"> 05:00 AM CT, Dec. 13 </p> 
@@ -61,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
+ <p class="updated_time"> 03:49 AM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-k-reports-first-omicron-death-as-government-warns-of-a-tidal-wave-of-cases-11639406945">U.K. Sees First Death of a Person With Omicron</a> WSJ: Prime Minister Boris Johnson said the death was a reminder of the risks the country faces as Britain races to offer its adult population a third Covid-19 vaccination dose by the end of the year. 
  <p class="updated_time"> 02:56 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/as-turkeys-currency-collapses-erdogans-support-sinks-even-in-his-hometown-11639403803">As Turkey's Currency Collapses, Erdogan's Support Sinks Even in His Hometown</a> WSJ: In President Recep Tayyip Erdogan’s hometown on Turkey’s Black Sea coast, residents are questioning the leadership of their city’s favorite son amid an economic crisis that is driving up the cost of food, gasoline and medicine. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
@@ -77,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Man returns to destroyed home</a> BBC: This survivor shows us what's left of his house - and what he was able to retrieve from the rubble. 
- <p class="updated_time"> 07:10 PM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/australia-steps-up-military-overhaul-with-korea-arms-deal-11639375800">Australia Steps Up Military Overhaul With Korea Arms Deal</a> WSJ: Australia signed a contract to buy self-propelled howitzers from South Korea, broadening its military cooperation as it seeks to counter China’s influence in the Indo-Pacific region. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
  <p class="updated_time"> 05:41 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
- <p class="updated_time"> 05:18 PM CT, Dec. 12 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59629670?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: I moonlighted as a taxi driver in the 1990s</a> BBC: Russia's president says he had to top up his income during economic troubles when the USSR collapsed. 
  <p class="updated_time"> 04:25 PM CT, Dec. 12 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/12/1063497595/vicente-fernandez-obituary">Vicente 'Chente' Fernández, 'El Rey' of ranchera music, has died at 81</a> NPR: The singer had been in critical condition recently after being hospitalized due to a fall at his Guadalajara ranch in August, and being diagnosed with Guillain–Barré syndrome afterwards. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483633/thousands-of-russian-troops-have-massed-on-the-border-of-ukraine">Thousands of Russian troops have massed on the border of Ukraine</a> NPR: Don Gonyea speaks with Angela Stent of the Brookings Institution about how the crisis on the Ukraine-Russia border can be resolved. 
- <p class="updated_time"> 05:13 AM CT, Dec. 12 </p> 
- <a href="https://www.wsj.com/articles/g-7-officials-warn-of-massive-consequences-if-russia-invades-ukraine-11639324020">G-7 Officials Warn of 'Massive Consequences' if Russia Invades Ukraine</a> WSJ: The meeting in the U.K comes as concerns rise over the large scale military buildup by Russian forces on Ukraine’s border. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1059976638/india-china-conflict-chinatown-chinese-indians">Tensions with China revive old fears for Indians of Chinese descent</a> NPR: In 1962, thousands of Indians of Chinese descent were sent to prison camps during a brief war with Beijing. Recent clashes on the India-China border have revived Chinese Indians' fears of persecution. 
  <p class="updated_time"> 02:02 AM CT, Dec. 12 </p> 
@@ -206,10 +206,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:25 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the August strike, which killed 10 civilians including seven children, in the days afterward, but ultimately called it a tragic mistake. 
+ <p class="updated_time"> 11:15 AM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the F.D.I.C.’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
+ <p class="updated_time"> 10:42 AM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 09:56 AM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/december-child-tax-credit-payment/index.html">December's child tax credit payment will be the last one unless Congress acts</a> CNN: Parents are set to get their last monthly infusion of the expanded child tax credit starting Wednesday -- unless Congress acts to extend it for another year. 
- <p class="updated_time"> 08:46 AM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html">Meadows said National Guard would be ready to 'protect pro Trump people' before riot, House investigators say</a> CNN: The House select committee investigating the January 6 attack on the US Capitol has issued a resolution recommending that the House of Representatives find Mark Meadows, former President Donald Trump's chief of staff, in contempt of Congress. 
  <p class="updated_time"> 08:38 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063654263/congress-considers-contempt-of-congress-charge-for-mark-meadows-in-relation-to-j">Congress considers contempt of Congress charge for Mark Meadows in relation to Jan. 6</a> NPR: The congressional committee investigating the Jan. 6 attack on the U.S. Capitol will vote to recommend a contempt of Congress charge against former White House Chief of Staff Mark Meadows. 
  <p class="updated_time"> 08:31 AM CT, Dec. 13 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
  <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
- <p class="updated_time"> 06:38 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/jan-6-capitol-riot-subpoenas.html">6 More Subpoenas Issued in House Panel’s Jan. 6 Investigation</a> NYT: Those issued subpoenas included two men who met with President Donald J. Trump in his private dining room on Jan. 4 and Mr. Trump’s former political affairs director. 
  <p class="updated_time"> 06:10 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/science/astronaut-wings-faa-bezos-musk.html">Jeff Bezos Is Getting Astronaut Wings. But Soon, the F.A.A. Won’t Award Them.</a> NYT: Starting in January, space tourists will not receive a participation trophy for flying to space. But everyone will be on the honor roll. 
  <p class="updated_time"> 05:21 PM CT, Dec. 10 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/perdue-disproven-2020-election-fraud-claims/index.html">David Perdue sues over 2020 election, further embracing disproven fraud claims</a> CNN: Just days after launching a bid for Georgia governor, Republican David Perdue on Friday deepened his support of election fraud conspiracies by filing a lawsuit that seeks to inspect absentee ballots from the 2020 election. 
  <p class="updated_time"> 03:43 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/bannon-judge-protective-order/index.html">In rebuff to Bannon, judge puts limits on public disclosure of evidence in his case</a> CNN: A federal judge on Friday rejected Steve Bannon's challenge to the limits the Justice Department was seeking on public disclosure of evidence the government turned over to him in his case. 
- <p class="updated_time"> 03:25 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/business/jelena-mcwilliams-fdic-bank-regulation-trump.html">How Bank Regulators Are Trying to Oust a Trump Holdover</a> NYT: Jelena McWilliams, the FDIC’s chairwoman, doesn’t always go along with President Biden’s agenda. Other regulators want to push her out. 
  <p class="updated_time"> 02:42 PM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/biden-inflation-peak/index.html">Biden says he thinks it's 'the peak' of inflation crisis</a> CNN: President Joe Biden on Friday said that -- while he recognizes that inflation "is a real problem" -- he feels the US is at the peak of price inflation. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
