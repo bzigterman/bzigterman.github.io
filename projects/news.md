@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:02 PM CT, Dec. 12 </p> 
+ <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to 'in principle'</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
+ <p class="updated_time"> 10:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
- <p class="updated_time"> 08:58 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to 'in principle'</a> BBC: President Moon Jae-in says talks have yet to begin because of North Korea's demands. 
  <p class="updated_time"> 08:43 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59632567?at_medium=RSS&at_campaign=KARANGA">Queensland border reopens to other Australian states</a> BBC: Families enjoy emotional reunions after a controversial five-month border closure ends. 
  <p class="updated_time"> 08:19 PM CT, Dec. 12 </p> 
@@ -25,7 +25,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59613217?at_medium=RSS&at_campaign=KARANGA">Howard University: Why these students slept out in tents on campus for weeks</a> BBC: After reports of mould and rodents in dorms, protesters at Howard University took over a campus building. 
  <p class="updated_time"> 05:41 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59612846?at_medium=RSS&at_campaign=KARANGA">Omicron: India aims to avoid 'pandemic roulette'</a> BBC: A virology institute boss says India will see a third wave "depending on how warmly we invite it". 
- <p class="updated_time"> 05:17 PM CT, Dec. 12 </p> 
+ <p class="updated_time"> 05:18 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 05:13 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59629670?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin: I moonlighted as a taxi driver in the 1990s</a> BBC: Russia's president says he had to top up his income during economic troubles when the USSR collapsed. 
