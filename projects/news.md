@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:05 AM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59633882?at_medium=RSS&at_campaign=KARANGA">Cargo ships collide in Baltic Sea off Sweden's coast</a> BBC: A vessel registered in Denmark has capsized after hitting a British flagged ship. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 11:16 PM CT, Dec. 12 </p> 
@@ -19,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59632727?at_medium=RSS&at_campaign=KARANGA">South Korea: End to Korean War agreed to in principle</a> BBC: But talks have yet to begin because of North Korea's demands, says President Moon Jae-in. 
  <p class="updated_time"> 10:24 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/asia/new-caledonia-independence-vote.html">New Caledonia Says ‘Non’ to Independence</a> NYT: The vote on the Pacific island territory comes as France’s president has prioritized shoring up the country’s international profile, seeing its military as a bulwark against China. 
+ <p class="updated_time"> 08:13 PM CT, Dec. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59632355?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Residents revisits destroyed home</a> BBC: Kentucky residents are gathering the pieces that are left of their homes after the deadly tornadoes. 
  <p class="updated_time"> 06:20 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59584125?at_medium=RSS&at_campaign=KARANGA">France resists US challenge to its values</a> BBC: The government is fighting back at what it sees as imported cultural ideas from the UK and US. 
  <p class="updated_time"> 06:06 PM CT, Dec. 12 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59627131?at_medium=RSS&at_campaign=KARANGA">Alibaba fires woman who claimed sexual assault</a> BBC: The woman said a colleague and client had assaulted her on a business trip earlier this year. 
  <p class="updated_time"> 09:23 AM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59627275?at_medium=RSS&at_campaign=KARANGA">Russia Ukraine: Massive consequences if Moscow invades, G7 says</a> BBC: Moscow is amassing troops on Ukraine's border, but President Putin insists they pose no threat. 
- <p class="updated_time"> 08:55 AM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-56043096?at_medium=RSS&at_campaign=KARANGA">Obituary: Vicente Fernández, Mexico's king of ranchera</a> BBC: Known as the king of ranchera music, Fernández was immensely popular in Mexico and the US. 
  <p class="updated_time"> 07:39 AM CT, Dec. 12 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-to-visit-united-arab-emirates-11639303037">Israeli Prime Minister Naftali Bennett Visits U.A.E.</a> WSJ: The meeting with Abu Dhabi’s crown prince will mark the first official trip to the United Arab Emirates by an Israeli leader since the countries established diplomatic ties. 
  <p class="updated_time"> 07:22 AM CT, Dec. 12 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59621245?at_medium=RSS&at_campaign=KARANGA">Tornado rips through Amazon warehouse: Drone footage shows destruction</a> BBC: Tornadoes have ripped through several states killing dozens of people, authorities say. 
  <p class="updated_time"> 06:01 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063034858/npr-sues-pentagon-syria-isis-baghdadi-raid-civilian-casualties">NPR sues the Pentagon for info on possible civilian deaths during the Baghdadi raid</a> NPR: NPR has sued the Defense Department to get it to release files regarding possible civilian casualties during the 2019 raid in Syria that resulted in the death of Abu Bakr al-Baghdadi. 
- <p class="updated_time"> 04:21 AM CT, Dec. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59619247?at_medium=RSS&at_campaign=KARANGA">US Olympic boycott: Uyghurs and Hong Kongers react</a> BBC: Protesters at the US Capitol welcomed the diplomatic boycott of the Beijing games, but say more is needed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.npr.org/2021/12/11/1063074122/new-caledonia-might-break-from-france-in-third-independence-referendum-on-sunday">New Caledonia might be about to break from France. Here's why the world is watching</a> NPR: Many voters in the French territory of New Caledonia go to the polls this Sunday to vote on a referendum on independence. It's a moment not lost on China and the United States. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
