@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
+ <p class="updated_time"> 04:21 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
+ <p class="updated_time"> 04:16 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse survivors to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
  <p class="updated_time"> 04:11 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59646231?at_medium=RSS&at_campaign=KARANGA">How much does the diplomatic boycott of Beijing 2022 matter?</a> BBC: The Winter Olympics have been hit by a flurry of protests from governments in the West. 
  <p class="updated_time"> 04:10 PM CT, Dec. 13 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/americas/un-climate-change-russia.html">Russia Blocks U.N. Move to Treat Climate as Security Threat</a> NYT: The Russian veto of a widely supported Security Council resolution pointed to the difficulty of achieving a unified response to global warming. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1059861848/encore-sula-vineyards-makes-wine-in-indias-unlikely-terroir">Encore: Sula Vineyards makes wine in India's unlikely terroir</a> NPR: You may have heard of India's famous beer, Kingfisher. But wine? In the tropics? With spicy curries? Sula Vineyards is India's leading winemaker. 
- <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59645647?at_medium=RSS&at_campaign=KARANGA">Larry Nassar abuse survivors to receive $380m settlement</a> BBC: Hundreds of women abused by the ex-US gymnastics team doctor reach a settlement with USA Gymnastics. 
  <p class="updated_time"> 02:58 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/omicron-cases-denmark-norway.html">Denmark and Norway Predict Drastic Spike in Omicron Cases</a> NYT: Health authorities in Europe are warning of a sharp increase in Omicron cases, adding to an existing surge from the Delta variant. 
  <p class="updated_time"> 02:49 PM CT, Dec. 13 </p> 
@@ -37,10 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
- <p class="updated_time"> 01:51 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/india-kashmir-policemen-killed.html">Militants Kill 2 Policemen in Kashmir as Violence Escalates</a> NYT: The clash on Monday came three days after a similar attack on a squad of police officers patrolling streets in northern Kashmir left two of its men dead. 
- <p class="updated_time"> 01:36 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/business/workers-pay-europe-inflation.html">Workers in Europe Are Demanding Higher Pay as Inflation Soars</a> NYT: Prices are rising at the fastest rate on record, and unions want to keep up. Policymakers worry that might make inflation worse. 
  <p class="updated_time"> 01:33 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 01:27 PM CT, Dec. 13 </p> 
@@ -206,6 +206,10 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
+ <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
  <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
  <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
@@ -280,10 +284,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/joe-biden-tornadoes-climate-politics/index.html">Analysis: An existential threat runs into political realities of US democracy</a> CNN: The devastation from this weekend's tornadoes was a stark reminder of the future that awaits humans on this planet, when weird weather is increasingly unpredictable and severe. 
  <p class="updated_time"> 10:54 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/arts/television/sesame-street.html">‘Sesame Street’ Was Always Political</a> NYT: The beloved children’s show has been a recurrent culture-war target, but a documentary on HBO shows how social purpose was built into it. 
- <p class="updated_time"> 10:37 PM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/kentucky-tornado-candle-factory-524136">Kentucky tornado toll  less than feared at factory</a> Politico: “We are praying that maybe original estimates of those we have lost were wrong,” the governor said. 
- <p class="updated_time"> 09:41 PM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/israel-bennett-united-arab-emirates-524135">Israel’s Bennett makes first official visit to United Arab Emirates</a> Politico: The visit is part of a regional blitz of diplomacy. 
  <p class="updated_time"> 08:57 PM CT, Dec. 12 </p> 
  <a href="https://www.cnn.com/2021/12/12/politics/nancy-pelosi-house-democrats-leadership-2022/index.html">Pelosi will stay around to lead House Democrats through the next election -- and perhaps beyond</a> CNN: Speaker Nancy Pelosi will stay until at least after the midterm elections, extending her nearly 20-year run as the House's top Democrat after she turns 82 and, perhaps, beyond. 
  <p class="updated_time"> 08:24 PM CT, Dec. 12 </p> 
@@ -388,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/10/politics/congress-flood-risk-infrastructure-climate/index.html">These lawmakers' districts are at highest risk of flooding. See how they voted on two critical climate bills.</a> CNN: UN scientists were unequivocal in a landmark report published this summer: Human-caused climate change is intensifying extreme weather events. No region is spared from extreme weather, but America's coasts are overwhelmingly at risk to flooding caused by rising seas, stronger hurricanes and torrential rain. 
  <p class="updated_time"> 06:09 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
- <p class="updated_time"> 06:07 AM CT, Dec. 10 </p> 
- <a href="https://www.cnn.com/2021/12/10/politics/biden-democracy-summit-and-election-challenges-at-home/index.html">As Biden promotes democracy abroad, advocates urge him to focus on fixing US elections</a> CNN: President Joe Biden kicked off the inaugural White House "Summit for Democracy" on Thursday by sounding alarms about challenges to democracy around the globe as authoritarian governments gain ground. 
  <p class="updated_time"> 06:03 AM CT, Dec. 10 </p> 
  <a href="https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html">Do charges of carpetbagging still matter? A number of 2022 elections may provide an answer</a> CNN: Political candidates across the country this year have been forced to defend their ties to the states they hope to represent. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
@@ -410,6 +408,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/09/senate-starts-debt-action-dole-honored-at-capitol-495406">Dems enjoy a moment of GOP cooperation</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/09/why-tongues-are-wagging-inside-the-house-gop-495402">POLITICO Playbook: Why tongues are wagging inside the House GOP</a> Politico: And Biden kicks off his Summit for Democracy. 
+ <p class="updated_time"> 05:02 AM CT, Dec. 09 </p> 
+ <a href="https://www.cnn.com/2021/12/09/politics/fema-strategic-plan-climate/index.html">New FEMA plan puts climate crisis front and center after Trump administration erased it</a> CNN: President Joe Biden's Federal Emergency Management Agency is putting climate front and center in its new four-year strategic planning document, after the Trump administration erased all mention of climate from its previous plan. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/biden-foreign-policy-foes-523994">Old foes thwart Biden’s foreign policy pivot</a> Politico: The president wants to focus on the national security threats of the future, but past conflicts continue to cause headaches. 
  <p class="updated_time"> 04:30 AM CT, Dec. 09 </p> 
