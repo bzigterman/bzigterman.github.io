@@ -17,10 +17,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
+ <p class="updated_time"> 10:00 PM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/omicron-will-slow-oil-demand-recovery-but-not-destroy-it-iea-says-11639472417">Omicron Will Slow Oil Demand Recovery but Not Destroy It, IEA Says</a> WSJ: The new variant’s emergence will allow the supply of oil to overtake the rate at which the world is consuming it, easing the supply tightness of recent months, the International Energy Agency said Tuesday. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
+ <p class="updated_time"> 08:30 PM CT, Dec. 13 </p> 
+ <a href="https://www.wsj.com/articles/australia-eases-covid-19-travel-rules-as-others-bolster-omicron-defenses-11639467056">Australia Eases Covid-19 Travel Rules as Others Bolster Omicron Defenses</a> WSJ: Australia said it would move ahead with the next stage of its border reopening, allowing in vaccinated international students, skilled migrants and people who hold working-holiday visas. 
  <p class="updated_time"> 08:25 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/11/health/covid-vaccine-africa.html">As Vaccines Trickle Into Africa, Zambia’s Challenges Highlight Other Obstacles</a> NYT: Vaccinating Africa is critical to protecting the continent and the world against dangerous variants, but supply isn’t the only problem countries face. 
  <p class="updated_time"> 08:14 PM CT, Dec. 13 </p> 
@@ -117,12 +121,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
- <p class="updated_time"> 03:00 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/global-central-banks-diverge-as-omicron-clouds-growth-inflation-outlook-11639404005">Global Central Banks Diverge as Omicron Clouds Growth, Inflation Outlook</a> WSJ: Central banks in the U.S., the U.K. and the eurozone are set to provide guidance this week on future interest rates. They are expected to move at different speeds, reflecting varying responses to the pandemic and divergent outlooks. 
  <p class="updated_time"> 02:30 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
- <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
  <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
