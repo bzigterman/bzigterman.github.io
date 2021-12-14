@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:52 PM CT, Dec. 14 </p> 
+ <p class="updated_time"> 02:19 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
+ <p class="updated_time"> 02:11 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
+ <p class="updated_time"> 02:03 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
+ <p class="updated_time"> 02:00 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
+ <p class="updated_time"> 01:57 PM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59659513?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: I spent my 40th birthday trapped under rubble</a> BBC: Kyanna Parsons-Perez never imagined that her 40th birthday would be spent pinned to the floor of the Mayfield candle factory. 
  <p class="updated_time"> 01:18 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59659543?at_medium=RSS&at_campaign=KARANGA">Russia told to pay compensation to woman whose hands were cut off</a> BBC: Europe's top human rights court says authorities failed to protect her against domestic violence. 
  <p class="updated_time"> 12:58 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Omicron May Cause Fewer Hospitalizations Than Previous Variants, Early Study Shows</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
+ <a href="https://www.nytimes.com/2021/12/14/world/africa/omicron-south-africa-study.html">Illnesses Tied to Omicron May Be Milder, Preliminary Study Suggests</a> NYT: The findings, which also show that the new variant partly dodges the Pfizer-BioNTech vaccine, are based on only three weeks of data. Epidemiologists cautioned that the full picture is still emerging. 
  <p class="updated_time"> 12:49 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Gasoline Truck in Haiti Explodes, Killing More Than 60</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 12:44 PM CT, Dec. 14 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Even as Omicron Cases Rise in U.K., Johnson Faces Mutiny Over New Rules</a> NYT: The British prime minister, under fire for his government’s handling of the coronavirus, is facing deep opposition within his party over new rules aimed at quelling a surge of the variant. 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650239?at_medium=RSS&at_campaign=KARANGA">Channel tragedy: French authorities identify 26 victims</a> BBC: Sixteen Kurdish people, including two friends from Iraq, were among those who perished last month. 
- <p class="updated_time"> 11:56 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 11:52 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59657761?at_medium=RSS&at_campaign=KARANGA">Toronto police release video of 'suspect' in billionaires' 2017 murders</a> BBC: Barry and Honey Sherman were found dead at home four years ago, but police have made no arrests. 
  <p class="updated_time"> 11:18 AM CT, Dec. 14 </p> 
@@ -47,22 +53,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 09:51 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/asia/duterte-philippines-senate.html">Philippines President Rodrigo Duterte Won't Run for Senate</a> NYT: The populist president also promised a peaceful transition of power when his term ends next year. 
+ <p class="updated_time"> 09:07 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 62 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 09:05 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 08:15 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/first-big-omicron-study-finds-two-doses-of-pfizers-vaccine-cuts-hospitalization-risk-by-70-11639495432">Study Finds Two Pfizer Vaccine Doses Offer Less Protection Against Omicron Than Against Delta</a> WSJ: The first large real-world study found that while Omicron reduced vaccine effectiveness against infection to 33% from 80% for Delta, its effect on protection against hospitalization was less marked, falling to 70% from 93%. 
  <p class="updated_time"> 07:10 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/united-arab-emirates-threatens-to-pull-out-of-23-billion-f-35-drone-deal-with-u-s-11639491997">U.A.E. Threatens to Pull Out of $23 Billion F-35, Drone Deal With U.S.</a> WSJ: The Emirati government told U.S. officials that it intended to halt the deal because Abu Dhabi thought security requirements the U.S. had laid out to safeguard the high-tech weaponry from Chinese espionage were too onerous, and the country’s national sovereignty was in jeopardy. 
- <p class="updated_time"> 07:07 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains. 
- <p class="updated_time"> 06:55 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59649075?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Two-month-old girl is youngest victim</a> BBC: The parents of Oaklynn Charleigh Koon say their hearts are "shattered" over their daughter's death. 
  <p class="updated_time"> 06:53 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
- <p class="updated_time"> 06:23 AM CT, Dec. 14 </p> 
- <a href="https://www.wsj.com/articles/gas-truck-blast-in-haiti-kills-some-40-in-latest-disaster-for-nation-11639490464">Haiti Gas-Truck Blast Kills at Least 60 People</a> WSJ: The explosion hit the hemisphere’s poorest nation, which is already contending with the recent assassination of its president, a devastating earthquake and the kidnapping of a group of mostly American missionaries. 
  <p class="updated_time"> 06:21 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/famed-russian-rights-group-that-investigated-soviet-era-crimes-faces-closure-under-putin-11639502515">Famed Russian Rights Group That Investigated Soviet-Era Crimes Faces Closure Under Putin</a> WSJ: Government prosecutors are pushing for Memorial’s umbrella organization and its human-rights wing to be dissolved in what many people here view as one of the most shocking examples yet of how the Kremlin is squeezing space for dissent. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/israel-uae-naftali-bennett.html">Israeli Leader Travels to U.A.E., Showcasing Deepening Ties</a> NYT: Prime Minister Naftali Bennett traveled to Abu Dhabi on Sunday, the first such visit by an Israeli leader, with plans to meet with the Emirati prince. 
  <p class="updated_time"> 10:02 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/inflation-turkey-brazil-hungary.html">Inflationary Wave Changes Political Terrain for Right-Wing Populists</a> NYT: The leaders of Turkey, Hungary and Brazil are all grappling with problems posed by the global rise in prices ahead of national elections. 
- <p class="updated_time"> 09:51 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
@@ -212,12 +212,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
+ <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
+ <p class="updated_time"> 01:59 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/cuomo-book-return-money/index.html">Ethics commission orders former NY Gov. Andrew Cuomo to give state back earnings from $5.1M pandemic book deal</a> CNN: A New York State public ethics commission has voted to order former Gov. Andrew Cuomo to pay back earnings from the $5.1 million deal he received to write a book about leading the state during the coronavirus pandemic, after the commission previously found that state resources were used in connection with the book's creation. 
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
- <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/capitol-pelosi-threat/index.html">Man who threatened to shoot Pelosi sentenced to more than two years in prison</a> CNN: A Georgia man who drove cross-country with an assault rifle and threatened to kill House Speaker Nancy Pelosi was sentenced to 28 months behind bars during in an emotional hearing on Tuesday. 
+ <p class="updated_time"> 01:33 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/student-loans-biden-february/index.html">Biden still plans to restart federal student loan payments in February</a> CNN: President Joe Biden still plans to restart federal student loan payments in February, resisting pressure from some fellow Democrats who continue to call for an extension of coronavirus pandemic relief benefits. 
  <p class="updated_time"> 01:01 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/14/latino-voters-2020-election-524190">Report: Socialism attacks hurt Dems with Latino voters</a> Politico: The attacks resonated beyond Florida, according to a new post-mortem on the 2020 election. 
  <p class="updated_time"> 09:00 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/transportation-doe-team-up-electric-vehicles/index.html">Energy, Transportation departments team up to help states develop electric vehicle charging infrastructure</a> CNN: Two key federal agencies are joining forces to speed things along as billions in federal funding for a national network of electric vehicle charging stations goes out to states. 
- <p class="updated_time"> 08:51 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/abortion-rights-states-children-health-poverty/index.html">Life can be tough for kids in many anti-abortion states</a> CNN: Almost all of the states that produce the most unfavorable economic and health care outcomes for children are among those poised to ban or severely restrict access to abortion if the Supreme Court overturns the nearly 50-year-old Roe v. Wade decision. 
  <p class="updated_time"> 08:39 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/business/media/fox-news-trump-jan-6-meadows.html">Fox News Hosts Sent Texts to Meadows Urging Trump to Act as Jan. 6 Attack Unfolded</a> NYT: Afterward, on their shows, Laura Ingraham spread the false claim of antifa involvement, and Sean Hannity referred to the 2020 election as a “train wreck.” 
  <p class="updated_time"> 08:36 AM CT, Dec. 14 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
- <p class="updated_time"> 05:53 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/blinken-indo-pacific/index.html">Blinken says the Indo-Pacific will shape the trajectory of the 21st century as counterweight to China's aggressive actions </a> CNN: Secretary of State Antony Blinken committed to bolstering US partnerships in the Indo-Pacific as a counterweight to China's aggressive actions during a speech in Indonesia on Tuesday, coming as the Biden administration has been largely focused on foreign policy challenges in other areas of the world. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/sections/money/2021/12/14/1063703904/the-best-and-worst-places-to-live-if-you-care-only-about-money">The best and worst places to live if you only care about money</a> NPR: A new study looks at the finances of 3 million households over the course of a year. It finds significant differences in the standard of living across America. 
  <p class="updated_time"> 05:09 AM CT, Dec. 14 </p> 
@@ -338,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
- <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/trump-tax-returns-dc-circuit/index.html">Appeals court wary of Trump arguments for throwing out House subpoena of financial docs</a> CNN: A federal appeals court sounded dubious Monday of arguments put forward by former President Donald Trump for why a House subpoena for his financial records should be wholly invalidated. 
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
@@ -365,8 +363,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jeffries-mccarthy-house-election-524100">‘Who is he?’ The X-factor relationship that could soon rule the House</a> Politico: Hakeem Jeffries and Kevin McCarthy may well lead their parties in the lower chamber come 2023. But their relationship is a black box. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/political-maps-redistricting-state-supreme-courts-524150">States’ high courts poised to draw new congressional maps</a> Politico: State supreme courts are increasingly being charged with drawing new map lines in gridlocked states and policing partisan gerrymandering. 
- <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/schumer-pressure-holiday-delivery-524093">Old St. Chuck? Schumer under pressure to deliver by Christmas</a> Politico: The Senate Democratic leader wants to wrap up the $1.7 trillion social spending bill for the holiday — which may well prove impossible. 
  <p class="updated_time"> 04:30 AM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/dems-child-tax-credit-expire-social-bill-524084">As Dems sprint against the clock, child tax credit might slip away</a> Politico: “It’s as important a thing as there is” in the party's social spending bill, as one senator put it. And it's expiring any day now. 
@@ -384,6 +380,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/us/politics/teachers-union-becky-pringle.html">New Leader Pushes Teachers’ Union to Take On Social Justice Role</a> NYT: Becky Pringle, the country’s top Black labor leader, has plunged the National Education Association into the reckoning unfolding in public schools. 
  <p class="updated_time"> 11:51 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/12/harris-trashes-her-media-coverage-495430">POLITICO Playbook: Harris trashes her media coverage</a> Politico: And Chris Wallace leaves Fox News. 
+ <p class="updated_time"> 11:37 AM CT, Dec. 12 </p> 
+ <a href="https://www.cnn.com/2021/12/12/europe/russia-putin-biden-intl/index.html">Putin told Biden he would 'really like' to meet</a> CNN: Russian President Vladimir Putin told his US counterpart Joe Biden he would "really like" to meet for more talks, according to a video clip released by Russian state TV on Sunday from the leaders' virtual call on Tuesday. 
  <p class="updated_time"> 11:02 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fauci-vaccination-boosters-equity-524131">Fauci: Booster shots for Americans won’t deprive unvaccinated people around the globe</a> Politico: “We’re very firmly in the corner of equity,” he said. 
  <p class="updated_time"> 10:26 AM CT, Dec. 12 </p> 
