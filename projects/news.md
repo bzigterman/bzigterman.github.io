@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 05:15 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/greece-covid-school-abduction.html">Three Jailed in Greece After a Principal was Handcuffed Over Virus Measures</a> NYT: Police said a group of people handcuffed the principal on Friday and drove him to a local precinct, suggesting that officers arrest him for enforcing Covid measures. 
  <p class="updated_time"> 04:37 PM CT, Dec. 14 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/14/business/economy/turkey-inflation-economy-lira.html">How Inflation Affects Turkey's Struggling Economy</a> NYT: Even before the pandemic, Turkey was trying to ward off financial meltdown. The crisis has accelerated as President Recep Tayyip Erdogan has doubled down on his unorthodox policies. 
  <p class="updated_time"> 03:14 PM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59660856?at_medium=RSS&at_campaign=KARANGA">Malta becomes first EU nation to legalise cannabis</a> BBC: The landmark move is expected to be followed by more European countries. 
- <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/world/europe/britain-covid-restrictions.html">Conservatives Abandon Johnson Over New Covid Rules</a> NYT: A record number of Prime Minister Boris Johnson’s fellow party members voted against his plan for Covid certificates. But the plan passed with the help of the opposition. 
  <p class="updated_time"> 02:41 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/uk-south-africa-travel-ban.html">Britain lifts ban on travelers arriving from southern Africa</a> NYT: With the Omicron variant already spreading, officials conclude they’ve lost the battle to prevent its entering Britain. 
  <p class="updated_time"> 02:36 PM CT, Dec. 14 </p> 
@@ -201,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/europe/eric-zemmour-rally-france.html">Echoes of Trump at Zemmour’s Rally in France </a> NYT: Éric Zemmour, the polarizing far-right polemicist, launched his presidential campaign last week with a frenzied rally that was disrupted by a violent brawl. 
  <p class="updated_time"> 08:42 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/europe/silent-film-ireland-discovery.html">Silent Films Offer Rare Glimpses of Life in 1920s Ireland</a> NYT: Shot by an American ornithologist in the early years of Irish independence, the footage turned up in the archives of the Chicago Academy of Sciences and is being restored. 
- <p class="updated_time"> 08:18 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/ukraine-russia-war-naval-vessel.html">Russia-Ukraine Sea Encounter Highlights Jittery Nerves in the Region</a> NYT: The Russians intercepted a half-century-old Ukrainian naval vessel, then portrayed its actions as a provocative prelude to war. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
 
@@ -212,34 +210,40 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/iran-nuclear-united-nations-524274">U.N. nuclear chief says view of Iran ‘blurred’</a> Politico: Rafael Mariano Grossi said Iran must work with international inspectors. 
  <p class="updated_time"> 06:02 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-cruz-hawley-biden-ambassadors-524220">Dems launch talks to break Cruz-Hawley blockade of Biden ambassadors</a> Politico: But while the price for one GOP 2024 contender's help is clear, another is less open about what it'll take to ease his holds. 
  <p class="updated_time"> 05:45 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/trump-tax-returns-legal-524235">Judge scraps Trump lawsuit to shield tax returns from Congress</a> Politico: But the judge stayed the impact of his ruling for 14 days. 
  <p class="updated_time"> 05:40 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/califf-fda-gop-524226">Biden’s FDA pick on track for confirmation with GOP help</a> Politico: A confirmation vote in January would give the agency a permanent political leader for the first time during the Biden presidency. 
+ <p class="updated_time"> 05:34 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
+ <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
+ <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Judge throws out Trump bid to block IRS disclosure of his tax returns to House</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
+ <p class="updated_time"> 05:33 PM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1064266940/ethics-panel-andrew-cuomos-book-deal-money-more-than-5-million">N.Y. ethics panel wants ex-Gov. Andrew Cuomo's to turn over cash from his book deal </a> NPR: The Joint Commission on Public Ethics says the disgraced former governor violated the terms of its conditional approval to write the book and it wants him give to the state the money. 
  <p class="updated_time"> 05:23 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/senate-votes-debt-limit-congress-deadline/index.html">Senate votes to increase debt limit by $2.5 trillion extending into 2023</a> CNN: The Senate is on track to vote on Tuesday to raise the national debt limit as lawmakers race to avert a catastrophic default ahead of a critical mid-week deadline. 
+ <p class="updated_time"> 05:20 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/liz-cheney-trump-republicans/index.html">Liz Cheney's latest move against Trump highlights her distinct path among Republicans </a> CNN: Televisions and phone screens lit up Monday night with the face of Rep. Liz Cheney as she slowly read text messages sent on January 6 to former President Donald Trump's chief of staff. 
  <p class="updated_time"> 05:17 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/trump-hotel-dc-sale-gsa-review/index.html">Trump Organization formally notifies GSA of proposed sale of DC hotel</a> CNN: The Trump Organization has formally notified the General Service Administration about its proposed sale of the lease for its hotel in Washington, DC, moving a step closer to offloading the property. 
  <p class="updated_time"> 05:10 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/hospitals-vaccine-mandate.html">Big Hospital Chains Drop Vaccine Mandates for Health Workers</a> NYT: With the federal requirement in limbo because of legal challenges, some major multistate hospital systems have stopped enforcing their own policies. 
  <p class="updated_time"> 05:09 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html">'Need to end this call': Jan. 6 committee reveals new text message to Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol released new text messages obtained from former Trump White House chief of staff Mark Meadows that were sent to him in the days leading up to the insurrection and while the Capitol was under siege. 
- <p class="updated_time"> 05:09 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/media/new-york-times-project-veritas.html">Judge Clarifies Order on New York Times Coverage of Project Veritas</a> NYT: The decision allows some latitude for reporting until a final ruling is reached. The Times said the order remained “an unconstitutional prior restraint that should be dissolved.” 
  <p class="updated_time"> 05:07 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/fda-commissioner-califf-senate.html">Senators Question Califf, the F.D.A. Nominee, on Opioid Crisis and Pandemic Response</a> NYT: A Senate panel hearing on Tuesday signaled that Dr. Robert Califf, who briefly led the agency during the Obama administration, had some bipartisan support. 
- <p class="updated_time"> 05:06 PM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/trump-irs-disclosure-tax/index.html">Judge throws out Trump bid to block IRS disclosure of his tax returns to House</a> CNN: A federal judge on Tuesday dismissed former President Donald Trump's bid in court to stop the Treasury Department from turning over his tax returns to the House. 
  <p class="updated_time"> 04:47 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
  <p class="updated_time"> 04:32 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/senate-democrats-wrestle-with-two-end-of-the-year-priorities-524217">Senate Dems' choice: Election reform first, or Biden's megabill?</a> Politico: At the center of it all, with paltry few days left in the chamber's year, is Joe Manchin. 
  <p class="updated_time"> 04:29 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/white-house-scaled-back-holiday-parties/index.html">White House scales back holiday parties due to Covid concerns</a> CNN: The White House will dramatically scale back holiday party festivities this year, due to ongoing Covid-19 concerns, opting instead for smaller open house-style events. 
- <p class="updated_time"> 04:27 PM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/amtrak-vaccine-mandate.html">Amtrak Drops Its Vaccine Mandate, Avoiding Cuts to Service</a> NYT: The shift in policy means that Amtrak officials no longer anticipate cuts to service next month. 
  <p class="updated_time"> 04:24 PM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/texas-clinics-paperwork-supreme-court/index.html">Texas abortion clinics ask Supreme Court to speed up paperwork so appeals process can continue</a> CNN: In the latest attempt to move forward with a lawsuit to block enforcement of Texas' six-week abortion ban, lawyers for abortion providers asked the Supreme Court on Tuesday to immediately transfer a certified copy of its decision from last week back to a district court judge in order to restart proceedings in short order. 
  <p class="updated_time"> 04:13 PM CT, Dec. 14 </p> 
@@ -271,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:50 PM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064144431/d-c-attorney-general-karl-racine-sue-proud-boys-oath-keepers-jan-6-capitol">D.C.'s attorney general is suing the Proud Boys and Oath Keepers over Capitol attack</a> NPR: The District of Columbia is seeking damages from the two far-right groups for allegedly conspiring to terrorize the city with the violent attack on Jan. 6. 
  <p class="updated_time"> 01:48 PM CT, Dec. 14 </p> 
- <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: A disagreement over who controls the FDIC’s agenda flared after the Democrats who make up the majority of the board voted to solicit public feedback on potential changes to the agency’s bank merger approval process. 
+ <a href="https://www.politico.com/news/2021/12/14/fdic-chair-democrats-524212">Trump-appointed FDIC chair blocks Democratic bid to undercut her</a> Politico: At issue is whether a majority of the board at the agency can put items up for a vote without the consent of the chair. 
  <p class="updated_time"> 12:57 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/business/toyota-electric-vehicles.html">Toyota Outlines Electric Vehicle Expansion Plan</a> NYT: The company’s Lexus brand will only sell electric cars by 2030 in China, Europe and the United States. 
  <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
@@ -344,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Strike, Pentagon Chief Decides</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 05:59 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063767973/saule-omarova-gets-candid-banks-sank-her-nomination-to-head-occ">Saule Omarova gets candid: Banks sank her nomination to become a key regulator</a> NPR: Days after withdrawing her nomination to become a key banking regulator, Omarova blames banks for distorting her research and creating an ugly environment. 
- <p class="updated_time"> 05:54 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/biden-manchin-build-back-better/index.html">Biden and Manchin spoke last week as he tries to secure senator's vote on Build Back Better bill</a> CNN: President Joe Biden spoke with Sen. Joe Manchin late last week, according to a source familiar with the conversation, as the President works to secure the West Virginia Democrat's vote for his expansive economic and climate bill he wants passed by the end of the year.  
  <p class="updated_time"> 05:52 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/nashville-murder-for-hire-plot/index.html">4 men indicted in $750,000 murder-for-hire kidnapping plot to keep an affair secret</a> CNN: A Texas businessman and three others accused of conspiring in a murder-for-hire kidnapping plot were arrested last week, the Justice Department said. 
  <p class="updated_time"> 05:49 PM CT, Dec. 13 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:17 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
- <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
- <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS callback? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
@@ -420,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
- <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
