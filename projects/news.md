@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:44 PM CT, Dec. 13 </p> 
+ <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 09:43 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/mark-meadows-contempt.html">Jan. 6 Committee Recommends Contempt Charge for Meadows</a> NYT: The panel sent a criminal contempt of Congress referral to the full House, as the extent of Mark Meadows’s role in President Donald J. Trump’s efforts to overturn the election became clearer. 
  <p class="updated_time"> 09:39 PM CT, Dec. 13 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/israel-tankers-iran.html">Israel Finds Planes That Could Be Key to a Strike on Iran Badly Back-Ordered</a> NYT: The United States told Israel it was unlikely to deliver refueling tankers before 2024, amid tensions between the two nations over how to deal with Iran’s nuclear program. 
- <p class="updated_time"> 08:34 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils text messages to Meadows from Don Jr. and Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
  <p class="updated_time"> 08:19 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
