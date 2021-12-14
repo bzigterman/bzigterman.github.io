@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
+ <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 02:27 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Three dead, 11 injured in militant attack on police bus</a> BBC: Three militants fired at a bus carrying policemen in capital Srinagar on Monday, officials said. 
  <p class="updated_time"> 01:59 AM CT, Dec. 14 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59522532?at_medium=RSS&at_campaign=KARANGA">Miami is banking on cryptocurrency and New York wants in</a> BBC: MiamiCoin and NYCCoin are experiments designed to put these cities on the cryptocurrency map. 
  <p class="updated_time"> 07:14 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59635134?at_medium=RSS&at_campaign=KARANGA">How to make electricity for your neighbours</a> BBC: Sick of waiting for electricity to reach his home, a Kenyan man built his own power plant 
- <p class="updated_time"> 06:52 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 06:48 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand punishment for troops who shot dead civilians, repeal of AFSPA law. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59602955?at_medium=RSS&at_campaign=KARANGA">Canada offers up to $40bn to compensate indigenous children</a> BBC: It comes after a lengthy legal battle over the abuse of native children held in government care. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59645557?at_medium=RSS&at_campaign=KARANGA">Tom Holland: 'There are kids who look up to Spider-Man'</a> BBC: Spider-Man: No Way Home is Tom Holland's third solo film and his sixth as part of the Avengers. 
- <p class="updated_time"> 05:57 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/boris-johnson-uk-coronavirus.html">Boris Johnson Is in Trouble. The Question Is, How Much?</a> NYT: The British prime minister is facing a new virus variant, a rebellious Conservative Party, collapsing poll ratings and questions about whether he or his staff flouted the lockdown rules. 
  <p class="updated_time"> 05:37 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59645658?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... the Lewis Hamilton and Max Verstappen F1 title drama</a> BBC: Max Verstappen was crowned F1 world champion, after winning the Abu Dhabi Grand Prix. 
  <p class="updated_time"> 05:34 PM CT, Dec. 13 </p> 
