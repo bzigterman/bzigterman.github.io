@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
  <p class="updated_time"> 09:54 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Jammu and Kashmir: Two dead, 14 injured in attack on police bus</a> BBC: Militants attacked a bus carrying policemen in Srinagar city on Monday evening, officials said. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Two dead, 14 injured in attack on police bus</a> BBC: Militants attacked a bus carrying policemen in Srinagar city on Monday evening, officials said. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063591662/taliban-seek-ties-with-u-s-other-ex-foes">Taliban seek ties with U.S. and other ex-foes, Afghan foreign minister says </a> NPR: Afghan Foreign Minister Amir Khan Muttaqi, in an interview with The Associated Press, said the Taliban have changed since they last ruled. He says they have no issue with the United States. 
  <p class="updated_time"> 02:00 AM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/after-two-decades-abuse-crisis-has-humbled-the-catholic-church-11639400404">After Two Decades, Abuse Crisis Has Humbled the Catholic Church</a> WSJ: The Catholic hierarchy has transformed its response to abuse scandals, which have left the church poorer and less influential. 
- <p class="updated_time"> 11:38 PM CT, Dec. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59632356?at_medium=RSS&at_campaign=KARANGA">Kentucky tornadoes: Rebuilding lives from 'hell on Earth'</a> BBC: Residents in the US state are sifting through the rubble that was once a town. 
  <p class="updated_time"> 11:21 PM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html">Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.</a> NYT: Five days after Facebook changed its name to Meta, an Australian artist found herself blocked, with seemingly no recourse, from an account documenting nearly a decade of her life and work. 
  <p class="updated_time"> 06:01 PM CT, Dec. 12 </p> 
