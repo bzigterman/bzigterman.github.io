@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
+ <p class="updated_time"> 11:01 PM CT, Dec. 13 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
  <p class="updated_time"> 09:54 PM CT, Dec. 13 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
  <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
- <p class="updated_time"> 02:13 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Prime Minister Naftali Bennett and Prince Mohammed bin Zayed of the United Arab Emirates met for four hours on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/india-eggs-hindu-nationalism.html">India Cities Ban Eggs, Drawing a Backlash</a> NYT: Food-cart rules spurred by conservative beliefs draw a backlash, showcasing the tensions around the country’s rising Hindu nationalist movement. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/travel/mount-etna-olive-oil.html">Cultivating Olives on the Slopes of Mount Etna</a> NYT: For millenniums, farmers and vintners in northeastern Sicily have benefited from the area’s mineral-rich soil, a result of volcanic eruptions. 
- <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 04:00 AM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063595780/north-koreas-kim-at-a-critical-crossroads-a-decade-into-his-rule">North Korea's Kim at a critical crossroads a decade into his rule</a> NPR: As North Korea's dictator marks a milestone on Friday, he might be facing his toughest moment yet, as crushing sanctions, the pandemic and growing economic trouble converge 
  <p class="updated_time"> 03:00 AM CT, Dec. 13 </p> 
@@ -196,6 +196,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/sentencing-arbery-killing-524191">Jan. 7 sentencing set for men convicted in Arbery killing</a> Politico: Prosecutors chose not to seek the death penalty in the case of Ahmaud Arbery’s slaying. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden administration's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
@@ -336,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.politico.com/news/2021/12/12/georgia-democrats-fight-republicans-2020-524122">GOP takes aim at the engine that turned Georgia blue</a> Politico: Georgia became a swing state in 2020. Now Republicans are squeezing the region that made it happen. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
  <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
