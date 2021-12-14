@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
+ <p class="updated_time"> 08:06 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59650802?at_medium=RSS&at_campaign=KARANGA">Dozens killed in Haiti fuel tanker blast</a> BBC: The victims had been gathering leaking fuel from a vehicle involved in an accident, reports say. 
+ <p class="updated_time"> 08:05 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/asia/blinken-indonesia-china.html">Blinken, in Indonesia, Stresses Soft Power to Counter China</a> NYT: The U.S. secretary of state seeks to make the case that the United States is a better bet as a partner than China, even if it’s not spending so lavishly in the region. 
  <p class="updated_time"> 07:50 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/americas/haiti-fuel-tanker-explosion.html">Fuel Tanker Explodes in Haiti, Killing Dozens</a> NYT: Scores more were injured in the blast. It was the latest tragedy to hit the country, which has been rocked by political violence, natural disasters, poverty and hunger. 
  <p class="updated_time"> 07:17 AM CT, Dec. 14 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/12/14/1063947940/vaccine-protection-vs-omicron-infection-may-drop-to-30-but-does-cut-severe-disea">Vaccine protection vs. omicron infection may drop to 30% but does cut severe disease</a> NPR: Data from 78,000 South Africans with COVID show the Pfizer vaccine is far less effective in preventing infection by the omicron variant. But there is still significant protection from severe illness. 
  <p class="updated_time"> 06:24 AM CT, Dec. 14 </p> 
  <a href="https://www.npr.org/2021/12/14/1064018450/tensions-over-ukraine-come-as-relations-between-russia-and-nato-are-at-an-all-ti">Tensions over Ukraine come as relations between Russia and NATO are at an all-time low</a> NPR: Russian President Vladimir Putin once floated the prospect of his country joining NATO. 
- <p class="updated_time"> 06:11 AM CT, Dec. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
  <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/companies-are-hesitant-to-invest-even-if-demand-is-soaring-11639481681">Why Companies Are Hesitant to Invest, Even if Demand Is Soaring</a> WSJ: Investment spending in the world’s largest economies has stalled, as supply-chain disruptions and uncertainty over the durability of the current economic boom hold back spending, a trend that could further exacerbate already high inflation. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
- <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
  <p class="updated_time"> 10:00 PM CT, Dec. 13 </p> 
  <a href="https://www.wsj.com/articles/omicron-will-slow-oil-demand-recovery-but-not-destroy-it-iea-says-11639472417">Omicron Will Slow Oil Demand Recovery but Not Destroy It, IEA Says</a> WSJ: The new variant’s emergence will allow the supply of oil to overtake the rate at which the world is consuming it, easing the supply tightness of recent months, the International Energy Agency said. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
  <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
- <p class="updated_time"> 07:59 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/nobel-prize-journalism-ceremony.html">Nobel-Winning Journalists Denounce War Talk and Online ‘Toxic Sludge’</a> NYT: At an awards ceremony in Oslo, Maria Ressa of the Philippines and Dmitri A. Muratov of Russia called for peace, democratic renewal and support for a free press. 
  <p class="updated_time"> 06:02 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/americas/oscar-murillo-colombian-artist.html">‘Social Detonator’: In Artist’s Work, and Life, Different Classes Collide</a> NYT: Oscar Murillo, a Colombian-born painter raised in London, considers it an “infiltration” when his class-conscious canvases wind up on the walls of collectors. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/sentencing-arbery-killing-524191">Jan. 7 sentencing set for men convicted in Arbery killing</a> Politico: Prosecutors chose not to seek the death penalty in the case of Ahmaud Arbery’s slaying. 
  <p class="updated_time"> 11:03 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/abortion-rights-states-children-health-poverty/index.html">Life can be tough for kids in many anti-abortion states</a> CNN: Almost all of the states that produce the most unfavorable economic and health care outcomes for children are among those poised to ban or severely restrict access to abortion if the Supreme Court overturns the nearly 50-year-old Roe v. Wade decision. 
+ <a href="https://www.cnn.com/2021/12/14/politics/abortion-rights-states-children-health-poverty/index.html">Analysis: Life can be tough for kids in many anti-abortion states</a> CNN: Almost all of the states that produce the most unfavorable economic and health care outcomes for children are among those poised to ban or severely restrict access to abortion if the Supreme Court overturns the nearly 50-year-old Roe v. Wade decision. 
  <p class="updated_time"> 10:25 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden administration's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
