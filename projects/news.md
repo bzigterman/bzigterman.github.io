@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
+ <p class="updated_time"> 02:34 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/european-union-schengen-migrants-borders.html">E.U. Proposes Changes That Would Chip Away at Borderless Model</a> NYT: The plan would institutionalize internal border controls to respond to emergencies, suspending some protections for asylum seekers. 
  <p class="updated_time"> 02:19 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 02:11 PM CT, Dec. 14 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59634192?at_medium=RSS&at_campaign=KARANGA">Nagaland killings: Anger grows after Indian army’s botched ambush</a> BBC: Locals in Nagaland state demand punishment for troops who shot dead civilians, repeal of AFSPA law. 
  <p class="updated_time"> 06:42 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59646803?at_medium=RSS&at_campaign=KARANGA">Apology to US teachers over 'dash for cash' charity stunt</a> BBC: The US bank that donated the cash said they will give more after the "degrading and insulting" event. 
- <p class="updated_time"> 06:37 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/arts/music/vicente-fernandez-influence.html">Vicente Fernández, the King of Machos and Heartbreak</a> NYT: The singer’s brand of machismo may have frayed, but for many, he was the ideal of what it means to be hard-working, hard-loving Mexican man. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/politics/afghanistan-drone-strike.html">No U.S. Troops Will Be Punished for Deadly Kabul Drone Strike</a> NYT: The military initially defended the strike, which killed 10 civilians including seven children, but ultimately called it a tragic mistake. 
  <p class="updated_time"> 06:06 PM CT, Dec. 13 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/10/world/europe/antony-blinken-music-playlist.html">Secretary of State Antony Blinken Releases 16-Track Spotify Playlist</a> NYT: Secretary of State Antony Blinken, an amateur guitarist, offers a playlist of global tunes with resonance for his official travels. 
  <p class="updated_time"> 12:01 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/arts/design/notre-dame-contemporary-art.html">Modernization of Notre-Dame Interior Gets Green Light</a> NYT: A commission of heritage experts approved proposals to bring in contemporary art and move some furniture to make more space for visitors. Critics say it will debase the centuries-old church. 
- <p class="updated_time"> 11:00 AM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/vaccine-mandates-civil-liberties.html">Vaccine Mandates Rekindle Fierce Debate Over Civil Liberties</a> NYT: Tougher requirements in some European nations have inspired pushback from angry citizens as leaders grapple with how far to go in the name of public health. 
 
 
 </details>
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/fbi-soliciting-prostitution/index.html">Six FBI agents investigated for allegedly soliciting prostitution while on assignment overseas</a> CNN: Six FBI agents were investigated for allegedly soliciting prostitution, trafficking drugs and failing to report unofficial interactions for foreign nationals while on assignment overseas, a Justice Department watchdog says. 
  <p class="updated_time"> 02:17 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/qanon-follower-sentence-pelosi-death-threats-524209">QAnon follower gets 28-month sentence for death threats to Pelosi</a> Politico: Judge says continuing election-fraud rhetoric from Republican politicians makes defendant an ongoing threat. 
  <p class="updated_time"> 02:04 PM CT, Dec. 14 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063955835/rep-liz-cheney-read-text-messages-she-said-mark-meadows-got-during-the-jan-6-sie">Rep. Liz Cheney read text messages she said Mark Meadows got during the Jan. 6 siege</a> NPR: In the messages, Donald Trump Jr. and Fox News hosts Laura Ingraham and Sean Hannity urge Meadows to get then-President Donald Trump to tell his supporters to leave the Capitol. 
  <p class="updated_time"> 08:03 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/hes-got-to-condemn-this-shit-panel-releases-urgent-jan-6-texts-from-trump-jr-lawmakers-524188">‘He’s got to condemn this …’: Panel releases urgent Jan. 6 texts from Donald Trump Jr., lawmakers and Fox hosts</a> Politico: House investigators held Mark Meadows in criminal contempt after releasing a trove of messages aimed at getting President Trump to take stronger action amid the Capitol riot. 
- <p class="updated_time"> 07:17 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/us-warning-software-vulnerability/index.html">US warns hundreds of millions of devices at risk from newly revealed software vulnerability</a> CNN: Hundreds of millions of devices around the world could be exposed to a newly revealed software vulnerability, as a senior Biden administration cyber official warned executives from major US industries Monday that they need to take action to address "one of the most serious" flaws she has seen in her career. 
  <p class="updated_time"> 06:17 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/air-force-troops-discharged-covid-19-vaccine/index.html">Air Force discharges 27 troops for refusing Covid-19 vaccine</a> CNN: The Air Force has discharged 27 service members for refusing to get the Covid-19 vaccine, spokeswoman Ann Stefanek told CNN on Monday, making these likely the first troops to be removed from the military for failure to obey the vaccine mandate. 
  <p class="updated_time"> 06:07 PM CT, Dec. 13 </p> 
