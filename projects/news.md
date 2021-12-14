@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/israel-uae-naftali-bennett.html">Israeli Prime Minister Holds Historic Meeting With U.A.E Crown Prince</a> NYT: Cementing an alliance built on mutual fear of Iran, Prime Minister Naftali Bennett met Prince Mohammed bin Zayed of the United Arab Emirates on the first official visit by an Israeli leader to the Gulf state. 
  <p class="updated_time"> 12:42 AM CT, Dec. 14 </p> 
  <a href="https://www.wsj.com/articles/china-fines-weibo-for-spreading-illegal-information-11639482120">China Fines Weibo for Spreading 'Illegal Information'</a> WSJ: The popular Twitter-like site is the second Chinese social-media giant to be punished in two weeks as internet controls tighten. 
+ <p class="updated_time"> 12:34 AM CT, Dec. 14 </p> 
+ <a href="https://www.wsj.com/articles/companies-are-hesitant-to-invest-even-if-demand-is-soaring-11639481681">Why Companies Are Hesitant to Invest, Even if Demand Is Soaring</a> WSJ: Investment spending in the world’s largest economies has stalled, as supply-chain disruptions and uncertainty over the durability of the current economic boom hold back spending, a trend that could further exacerbate already high inflation. 
  <p class="updated_time"> 11:02 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/12/world/middleeast/migrants-channel-france-uk-sinking.html">‘Our Boat Was Surrounded by Dead Bodies’: Witnessing a Migrant Tragedy</a> NYT: Migrants who were on a separate boat described the horrible aftermath of the sinking in the English Channel that took at least 27 lives. 
  <p class="updated_time"> 09:27 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/health/merck-covid-pill-pregnancy-risk.html">Merck’s Covid Pill Might Pose Risks for Pregnant Women</a> NYT: Some laboratory studies suggest that molnupiravir can insert errors in DNA, which could in theory harm a developing fetus, sperm cells or children. 
- <p class="updated_time"> 09:02 AM CT, Dec. 13 </p> 
- <a href="https://www.wsj.com/articles/israeli-u-a-e-leaders-meet-amid-flurry-of-middle-east-diplomacy-11639413346">Fear of Iran, Shrinking U.S. Role in Middle East Push Rivals Together</a> WSJ: The first-ever official meeting Monday between Israel’s prime minister and the United Arab Emirates’ de facto leader were driven in part by Iran nuclear talks and worries over a shrinking U.S. regional role. 
  <p class="updated_time"> 08:16 AM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html">South Korean City to Test Facial Recognition to Track the Coronavirus</a> NYT: Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier. 
  <p class="updated_time"> 08:01 AM CT, Dec. 13 </p> 
@@ -196,12 +196,14 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:22 AM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/pfizer-covid-pill-524194">Pfizer's Covid-19 pill cut risk of hospitalization and death by 89 percent, final results show</a> Politico: The results tracked with interim findings the company reported last month. 
+ <p class="updated_time"> 07:27 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html">Newly revealed text messages to Meadows undercut GOP whitewashing of insurrection</a> CNN: Donald Trump Jr. was frantic. Fox News personalities who now dismiss the violence at the US Capitol were begging the White House to do something. On January 6, then-President Donald Trump wasn't listening to his kids or his media enablers. 
  <p class="updated_time"> 07:25 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/12/14/senate-moves-on-debt-defense-house-on-meadows-495455">Senate moves on debt, defense, House on Meadows</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/14/what-the-left-doesnt-get-about-the-media-495453">POLITICO Playbook: What the left doesn’t get about the media</a> Politico: And the Jan. 6 committee releases some of Mark Meadows' text messages. 
- <p class="updated_time"> 06:03 AM CT, Dec. 14 </p> 
- <a href="https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html">Newly revealed text messages to Meadows undercut GOP whitewashing of insurrection</a> CNN: Donald Trump Jr. was frantic. Fox News personalities who now dismiss the violence at the US Capitol were begging the White House to do something. On January 6, then-President Donald Trump wasn't listening to his kids or his media enablers. 
  <p class="updated_time"> 05:53 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/blinken-indo-pacific/index.html">Blinken says the Indo-Pacific will shape the trajectory of the 21st century as counterweight to China's aggressive actions </a> CNN: Secretary of State Antony Blinken committed to bolstering US partnerships in the Indo-Pacific as a counterweight to China's aggressive actions during a speech in Indonesia on Tuesday, coming as the Biden administration has been largely focused on foreign policy challenges in other areas of the world. 
  <p class="updated_time"> 05:31 AM CT, Dec. 14 </p> 
@@ -438,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/07/congress-russia-ukraine-523914">Congress frets over ‘missed opportunity’ on Russia’s Ukraine aggression</a> Politico: Differences over the annual defense bill emerged as President Joe Biden was meeting virtually with President Vladimir Putin of Russia. 
  <p class="updated_time"> 05:01 PM CT, Dec. 07 </p> 
  <a href="https://www.politico.com/news/2021/12/07/harris-black-women-523903">‘Her failing is not an option’ — Harris convenes Black women and charts the path ahead</a> Politico: Among the ideas thrown around during a private meeting: Town halls with the VP that would focus on her areas of interest. 
- <p class="updated_time"> 07:33 AM CT, Dec. 07 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/12/07/legislative-mix-and-match-combo-meal-495353">Legislative mix-and-match combo meal</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
