@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:31 PM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/world/europe/italy-bishop-santa-claus.html">Italian Bishop Gives Children Harsh News: There Is No Santa Claus</a> NYT: You’ve been lied to, children heard from a bishop, the latest Catholic clergyman to try to take down Santa Claus and consumerism. Many Italians were not pleased. 
  <p class="updated_time"> 01:18 PM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/world/europe/belarus-opposition-sergei-tikhanovsky.html">Belarus Opposition Leader Is Sentenced to 18 Years in Prison</a> NYT: The activist Sergei Tikhanovsky planned to challenge the country’s authoritarian leader, Aleksandr G. Lukashenko, in a presidential election last year. He was arrested before the vote and his wife stepped in. 
  <p class="updated_time"> 01:16 PM CT, Dec. 14 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/11/1062516219/british-columbia-canada-climate-change-wildfire-floods-shelter">A church retreat came to the aid of Canada's latest disaster survivors</a> NPR: British Columbia experienced major disasters this year that scientists say show the intensifying effects of climate change. Many of those affected by fires and floods took shelter at Camp Hope. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/world/australia/flooding-fire-climate-australia.html">First Fires, Then Floods: Climate Extremes Batter Australia</a> NYT: Many of the same areas that suffered through horrific bush fires in 2019 and 2020 are now dealing with prodigious rainfall that could leave some people stranded for weeks. 
- <p class="updated_time"> 01:57 AM CT, Dec. 11 </p> 
- <a href="https://www.nytimes.com/2021/12/10/world/europe/macron-scholz-france-germany-meeting.html">Macron and Scholz Meet and Call for More ‘European Sovereignty’ </a> NYT: The new German chancellor made his first foreign stop in Paris, where the two leaders discussed a more independent, bolder Europe. 
  <p class="updated_time"> 03:09 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/world/canada/british-columbia-opioid-overdoses.html">The Other, Seemingly Endless, State of Emergency in British Columbia</a> NYT: The province announced annual and monthly record numbers of opioid-related overdose deaths, further prompting calls for changes to laws. 
  <p class="updated_time"> 01:56 PM CT, Dec. 10 </p> 
