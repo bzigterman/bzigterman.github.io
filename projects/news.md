@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:27 AM CT, Dec. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Three dead, 11 injured in militant attack on police bus</a> BBC: Three militants fired at a bus carrying policemen in capital Srinagar on Monday, officials said. 
  <p class="updated_time"> 01:59 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/14/health/coronavirus-omicron-next-pandemic.html">Omicron Is a Dress Rehearsal for the Next Pandemic</a> NYT: America’s response to the variant highlights both how much progress we have made over the past two years — and how much work remains 
  <p class="updated_time"> 01:58 AM CT, Dec. 14 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/13/world/asia/south-korea-nuclear-submarines.html">South Korea Has Long Wanted Nuclear Subs. A New Reactor Could Open a Door.</a> NYT: The country plans to build a small modular reactor for marine propulsion, raising questions of whether it eventually intends to develop a nuclear submarine despite a U.S. treaty. 
  <p class="updated_time"> 10:31 PM CT, Dec. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-59646699?at_medium=RSS&at_campaign=KARANGA">Global supply chain: Toyota extends Japan production stoppages</a> BBC: The carmaker said components plants in South East Asia had faced disruptions due to the pandemic. 
- <p class="updated_time"> 09:54 PM CT, Dec. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59647425?at_medium=RSS&at_campaign=KARANGA">Srinagar: Two dead, 14 injured in attack on police bus</a> BBC: Militants attacked a bus carrying policemen in Srinagar city on Monday evening, officials said. 
  <p class="updated_time"> 09:29 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html">Across the World, Covid Anxiety and Depression Take Hold</a> NYT: It is still unclear how much of a threat the fast-spreading Omicron variant poses, but fear and a sudden revival of restrictions have added to an epidemic of loneliness. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
