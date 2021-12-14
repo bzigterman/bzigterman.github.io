@@ -208,14 +208,20 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:29 PM CT, Dec. 14 </p> 
+ <a href="https://www.politico.com/news/2021/12/14/biden-sandy-hook-9th-anniversary-524201">'We owe them action': Biden honors Sandy Hook victims on 9th anniversary</a> Politico: Biden called the shooting where 20 first graders and six teachers died "an unconscionable act of violence." 
  <p class="updated_time"> 12:01 PM CT, Dec. 14 </p> 
  <a href="https://subscriber.politicopro.com/states/new-york/city-hall/whiteboard/2021/12/14/legal-aid-sues-to-compel-state-to-reopen-rent-relief-program-9428027">Legal Aid sues to compel state to reopen rent relief program</a> Politico: The Legal Aid Society is suing to force the state to resume accepting applications to its emergency rental assistance program. Details: The organization charges in a new class-action lawsuit that the closure of the program in mid-November was unlawful and has put “pote… 
  <p class="updated_time"> 12:00 PM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/dc-jan-6-oath-keepers-proud-boys-524200">D.C. suing the Oath Keepers, Proud Boys for damage caused on Jan. 6</a> Politico: It's the first government-backed legal action against the groups whose members allegedly stormed the Capitol. 
  <p class="updated_time"> 11:53 AM CT, Dec. 14 </p> 
  <a href="https://www.politico.com/news/2021/12/14/democrats-raise-debt-ceiling-524204">Democrats to raise debt ceiling by $2.5T</a> Politico: The amount is expected to carry spending until after the 2022 midterms, preventing another standoff over the debt limit until after elections. 
+ <p class="updated_time"> 11:37 AM CT, Dec. 14 </p> 
+ <a href="https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html">House to vote to refer Mark Meadows to DOJ for contempt of Congress</a> CNN: The House is set to vote on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal charges for failing to appear for a deposition with the select committee investigating the January 6 attack. 
+ <p class="updated_time"> 11:35 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Democrats Set Debt Limit Increase at $2.5 Trillion Ahead of Senate Vote</a> NYT: The figure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
  <p class="updated_time"> 11:32 AM CT, Dec. 14 </p> 
- <a href="https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html">Senate Votes to Take Up $2.5 Trillion Debt Limit Increase</a> NYT: The measure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections. 
+ <a href="https://www.cnn.com/2021/12/14/politics/biden-sandy-hook/index.html">Biden marks 9 years since Sandy Hook shooting with renewed call for tougher gun laws</a> CNN: President Joe Biden on Tuesday marked nine years since the mass shooting at Sandy Hook Elementary School by pointing to his administration's efforts to combat gun violence as Democratic-led efforts to pass tougher gun laws have repeatedly failed in Congress. 
  <p class="updated_time"> 11:22 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/14/politics/kristi-noem-south-dakota-daughter-real-estate-license/index.html">Gov. Kristi Noem's daughter given extra chance to obtain real estate license, former state employee testifies</a> CNN: The former state employee who is at the center of the controversy over whether South Dakota Gov. Kristi Noem intervened to help her daughter obtain a real estate appraiser license testified before state lawmakers on Tuesday that Noem's daughter was given an extra chance to correct her work so that her application would not be denied and that the state's process for handling her application was unusual. 
  <p class="updated_time"> 11:03 AM CT, Dec. 14 </p> 
@@ -276,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/13/politics/remain-in-mexico-appeals-court/index.html">Appeals court rules against Biden admin's termination of 'remain in Mexico' policy</a> CNN: The 5th US Circuit Court of Appeals on Monday night ruled against the Biden administration's bid to terminate the Trump-era "remain in Mexico" policy, which requires non-Mexican migrants to stay in Mexico until their US immigration court dates. 
  <p class="updated_time"> 10:11 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html">January 6 panel unveils texts to Meadows from Don Jr., Fox hosts as contempt charge advances</a> CNN: The House select committee investigating the January 6 riot at the US Capitol is prepared to vote Monday on whether former White House chief of staff Mark Meadows should be referred to the Department of Justice on criminal contempt of Congress charges. 
- <p class="updated_time"> 10:08 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/william-walker-dc-national-guard-january-6-committee/index.html">Former DC National Guard commander meets with January 6 committee</a> CNN: William Walker, who was the top commander for Washington, DC's National Guard and responsible for troop deployment in support of law enforcement overwhelmed on January 6, met Monday with the House select committee investigating the attack on the US Capitol, a source familiar with his appearance has confirmed to CNN. 
  <p class="updated_time"> 09:21 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/jan-6-rally-organizers-sue-verizon-524189">Jan. 6 rally organizers sue Verizon to block release of cell phone data to congressional committee</a> Politico: The lawsuit said the plaintiffs have personally complied with the committee’s investigation. 
  <p class="updated_time"> 09:17 PM CT, Dec. 13 </p> 
@@ -312,12 +316,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/12/13/millions-gymnastics-sexual-abuse-524165">$380M settlement reached with victims of U.S. gymnastics scandal</a> Politico: A federal bankruptcy court in Indianapolis confirmed the settlement involving USA Gymnastics and the U.S. Olympic and Paralympic Committee. 
  <p class="updated_time"> 05:18 PM CT, Dec. 13 </p> 
  <a href="https://www.politico.com/news/2021/12/13/defense-claims-politics-fortenberry-indictment-524164">Defense claims politics behind indictment of Rep. Jeff Fortenberry</a> Politico: A federal judge in Los Angeles heard arguments on the Nebraska Republican’s bid to toss out the criminal false-statement case. 
- <p class="updated_time"> 04:57 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/no-troops-punished-kabul-strike/index.html">Pentagon decides no US troops will be punished over botched Kabul drone strike that killed 10 civilians</a> CNN: Defense Secretary Lloyd Austin has decided that no US military personnel will be punished over the August drone strike in Kabul that killed 10 civilians, including seven children. 
  <p class="updated_time"> 04:56 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/joe-manchin-congress-social-safety-net-bill/index.html">Manchin signals major changes needed to win his support on Biden's safety net plan</a> CNN: Sen. Joe Manchin, the most pivotal swing vote in the Senate, indicated on Monday that a significant amount of work remains to be done to earn his support for President Joe Biden's sweeping social safety net expansion, potentially delivering a fatal blow to Democratic leaders' hopes of getting the bill passed in the Senate before Christmas. 
- <p class="updated_time"> 04:35 PM CT, Dec. 13 </p> 
- <a href="https://www.politico.com/news/2021/12/13/afghanistan-drone-strike-troops-524162">No troops disciplined in U.S. strike killing Afghan civilians</a> Politico: A review found there were breakdowns in communication and in the process of identifying and confirming the target of the bombing, which killed 10 civilians. 
+ <p class="updated_time"> 04:25 PM CT, Dec. 13 </p> 
+ <a href="https://www.politico.com/news/2021/12/13/chauvin-expected-plead-floyd-civil-rights-case-524161">Chauvin expected to plead guilty in Floyd civil rights case</a> Politico: A federal docket entry shows a hearing has been scheduled for former Minneapolis Police Officer Derek Chauvin to change his current not guilty plea in the case. 
  <p class="updated_time"> 03:28 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063824307/cop26-president-alok-sharma-on-the-road-ahead-after-glasgow">COP26 president Alok Sharma on the road ahead after Glasgow</a> NPR: NPR's Ari Shapiro speaks with COP26 president Alok Sharma about promises and agreements made at the recent climate summit in Glasgow and what more needs to be done. 
  <p class="updated_time"> 03:27 PM CT, Dec. 13 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/12/13/1063824286/jan-6-panel-report-shows-mark-meadows-role-in-trying-to-overturn-election">Jan. 6 panel report shows Mark Meadows' role in trying to overturn election</a> NPR: The House committee investigating the Jan. 6 insurrection is moving forward to hold former Trump White House chief of staff Mark Meadows in contempt of Congress after he stopped cooperating with them. 
  <p class="updated_time"> 03:08 PM CT, Dec. 13 </p> 
  <a href="https://www.npr.org/2021/12/13/1063740685/biden-executive-order-government-more-consumer-friendly-irs">Frustrated that you can't schedule an IRS callback? Biden signed an order to do that</a> NPR: The provision is part of an order Biden signed to make the government more consumer friendly. It also makes it simpler for disaster survivors to apply for help. The order covers 17 federal agencies. 
- <p class="updated_time"> 03:06 PM CT, Dec. 13 </p> 
- <a href="https://www.cnn.com/2021/12/13/politics/supreme-court-new-york-vaccine-mandate/index.html">Supreme Court declines to block New York vaccine mandate</a> CNN: The Supreme Court turned away two emergency requests Monday from health care workers, doctors and nurses in New York to block the state's vaccine mandate. 
  <p class="updated_time"> 01:48 PM CT, Dec. 13 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/government-processes-executive-order/index.html">Biden administration taking steps to improve government processes like going through airport security, filing taxes</a> CNN: The Biden administration is taking steps to make government services easier, more accessible and streamlined for Americans across agencies through an executive order President Joe Biden is slated to sign Monday afternoon. 
  <p class="updated_time"> 01:30 PM CT, Dec. 13 </p> 
@@ -394,16 +394,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/11/politics/iran-nuclear-weapon-us-military-options/index.html">Biden administration has reviewed military options as part of effort to keep Iran from obtaining a nuclear weapon</a> CNN: The Biden administration has reviewed military options that could be part of an effort to prevent Iran from obtaining a nuclear weapon, if a multilateral deal between the United States, Iran and other nations on Tehran's nuclear program is not salvaged, according to administration officials. 
  <p class="updated_time"> 09:40 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/12/11/middle-class-joe-visits-late-night-jimmy-495429">POLITICO Playbook: ‘Middle-class Joe’ visits late-night Jimmy</a> Politico: And what the Supreme Court's Texas ruling means for Roe v. Wade. 
+ <p class="updated_time"> 09:19 AM CT, Dec. 11 </p> 
+ <a href="https://www.cnn.com/2021/12/11/politics/joe-biden-tonight-show-jimmy-fallon/index.html">Biden talks Washington partisanship in first late-night interview as president</a> CNN: President Joe Biden lamented hyper-partisanship in Washington in his first late-night interview since taking office, saying that while he used to have a cordial relationship with Republicans, "the Big Lie ... makes it awful hard." 
  <p class="updated_time"> 07:01 AM CT, Dec. 11 </p> 
  <a href="https://www.politico.com/news/2021/12/11/soaring-inflation-wealth-racial-disparities-524111">Soaring inflation could hamper Biden’s effort to narrow wealth, racial disparities</a> Politico: Biden campaigned on addressing structural inequities. Rising prices could jeopardize that. 
  <p class="updated_time"> 04:00 AM CT, Dec. 11 </p> 
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
- <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/democrats-schumer-hardball-biden-nominees-524085">Dems want Schumer to play hardball against GOP blockade on ambassadors</a> Politico: Senators are urging Schumer to hold weekend and late-night sessions over the holidays to plow through the dozens of nominees lagging on the Senate floor. 
- <p class="updated_time"> 10:28 AM CT, Dec. 10 </p> 
- <a href="https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083">SCOTUS allows clinics’ challenge to Texas abortion ban to proceed</a> Politico: The court's ruling allows for some cases brought by opponents of the law to proceed but closed major avenues for legal challenges, including one sought by the Biden administration. 
  <p class="updated_time"> 08:55 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/consumer-prices-surge-biden-setback-524075">Inflation accelerates at lightning pace in new setback for Biden</a> Politico: Costs for key goods and services soared 0.8 percent for the month and 6.8 percent for the year, the highest since 1982, the Labor Department reported Friday. 
  <p class="updated_time"> 07:29 AM CT, Dec. 10 </p> 
@@ -412,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/12/10/trumps-terrible-thursday-followed-by-bidens-bad-friday-495415">POLITICO Playbook: Trump’s terrible Thursday, followed by Biden’s bad Friday?</a> Politico: And the U.S. clears a hurdle in its pursuit of the extradition of Julian Assange. 
  <p class="updated_time"> 04:31 AM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/mccarthy-proxy-voting-house-524054">McCarthy’s proxy voting opposition could reshape the House</a> Politico: The Supreme Court will decide as soon as Friday whether to take up the lawsuit that Kevin McCarthy and House Republicans filed against a measure allowing proxy voting in the House. 
+ <p class="updated_time"> 04:30 AM CT, Dec. 10 </p> 
+ <a href="https://www.politico.com/news/2021/12/10/17-ways-covid-hit-fast-forward-on-the-future-523845">17 pandemic innovations that are here to stay</a> Politico: During the pandemic, necessity became a mother of invention. Here are some innovations that are like to stick. 
  <p class="updated_time"> 07:23 PM CT, Dec. 09 </p> 
  <a href="https://www.politico.com/news/2021/12/09/yellen-gop-social-spending-bill-524061">Yellen to lawmakers: Ignore the GOP-pushed analysis of Biden’s social spending bill</a> Politico: The Treasury secretary, in a memo to lawmakers, insists the president won’t extend Build Back Better programs unless they’re paid for. 
  <p class="updated_time"> 06:41 PM CT, Dec. 09 </p> 
