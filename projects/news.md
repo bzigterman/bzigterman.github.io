@@ -82,7 +82,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:36 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/us/50-million-covid-cases.html">At Least 50 Million Total Coronavirus Cases Have Been Found in the U.S.</a> NYT: It is almost certainly a substantial undercount, since many infected people have no symptoms or mistake them for those of another illness, and not everyone gets tested. 
  <p class="updated_time"> 02:26 PM CT, Dec. 13 </p> 
- <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Juan Carlos</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
+ <a href="https://www.nytimes.com/2021/12/13/world/europe/switzerland-money-laundering-case-juan-carlos.html">Swiss Prosecutors Drop Money-Laundering Case Against Former Spanish King</a> NYT: A criminal inquiry into allegations that Spain’s former king laundered illegal commission payments from Saudi Arabia related to a high-speed rail deal was closed because of insufficient evidence. 
  <p class="updated_time"> 01:57 PM CT, Dec. 13 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/europe/denmark-immigration-minister-migrants-prison.html">Former Immigration Minister in Denmark Sentenced to Prison for Separating Couples</a> NYT: Inger Stojberg was sentenced to two months’ incarceration after being found by a court to have illegally ordered the separations of married migrant couples in which at least one person was underage. 
  <p class="updated_time"> 01:05 PM CT, Dec. 13 </p> 
