@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:32 AM CT, Dec. 14 </p> 
+ <p class="updated_time"> 05:45 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59650238?at_medium=RSS&at_campaign=KARANGA">Belarus: Opposition leader Tikhanovsky jailed for 18 years over protests</a> BBC: Sergei Tikhanovsky, a former presidential candidate, is convicted after a trial condemned as a sham. 
  <p class="updated_time"> 04:16 AM CT, Dec. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59649066?at_medium=RSS&at_campaign=KARANGA">Arctic heat record is like Mediterranean, says UN</a> BBC: The highest temperature recorded in the region last year - 38C (100F) - is officially confirmed. 
