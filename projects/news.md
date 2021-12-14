@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/insider/why-i-keep-writing-about-dive-bars.html">Why a Times Reporter Keeps Writing About Dive Bars</a> NYT: Attracted to the grit, equality and community of those modest watering holes, a Times reporter has worked them into his coverage. 
  <p class="updated_time"> 03:50 AM CT, Dec. 14 </p> 
  <a href="https://www.nytimes.com/2021/12/13/world/middleeast/tunisia-saied-constitution-election.html">Tunisia’s President Promises Vote on Constitution and Sets Election Date</a> NYT: President Kais Saied’s announcement dispelled some of the uncertainty Tunisians have endured for months since he shunted aside Parliament in what critics called a soft coup. 
  <p class="updated_time"> 03:48 AM CT, Dec. 14 </p> 
@@ -196,6 +198,12 @@ permalink: /projects/news/
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1063766485/their-lives-were-changed-by-gun-violence-and-now-theyre-running-for-office">Their lives were changed by gun violence, and now they're running for office</a> NPR: One of the country's top gun control groups is now actively recruiting candidates who have experienced the effects of gun violence to run for local, state and national offices. 
+ <p class="updated_time"> 04:01 AM CT, Dec. 14 </p> 
+ <a href="https://www.npr.org/2021/12/14/1055186046/census-bureau-leadership-racial-diversity-staff-senior-executive-service-ses">The federal agency that measures racial diversity is led mostly by white people</a> NPR: While the Census Bureau's set to have its first director who's Latinx, an NPR analysis finds people of color are underrepresented in the top rank of civil servants at the country's main data producer. 
+ <p class="updated_time"> 04:00 AM CT, Dec. 14 </p> 
+ <a href="https://www.nytimes.com/2021/12/14/business/birth-control-pill-over-counter.html">Firms Push for Over-the-Counter Access to Birth-Control Pills</a> NYT: Two drug makers have been mired for years in the pre-application phase of getting F.D.A. approval for over-the-counter use. 
  <p class="updated_time"> 12:24 AM CT, Dec. 14 </p> 
  <a href="https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html">Donald Trump Jr. said his father needed to 'condemn' Capitol violence as it unfolded, Meadows texts reveal</a> CNN: Donald Trump Jr. said in a series of text messages to then-White House chief of staff Mark Meadows that his father needed to "condemn" the US Capitol insurrection as it unfolded. 
  <p class="updated_time"> 12:12 AM CT, Dec. 14 </p> 
@@ -338,10 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/12/12/politics/child-tax-credit-lowest-income-parents/index.html">Getting child tax credit to lowest-income parents proves challenging</a> CNN: When President Joe Biden and congressional Democrats temporarily expanded the child tax credit this spring, they repeatedly touted that it would help cut child poverty nearly in half. 
  <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
  <a href="https://www.politico.com/news/2021/12/12/fortenberry-indictment-524107">Fortenberry indictment raises questions about the FBI’s tactics</a> Politico: The GOP lawmaker was secretly recorded during a probe of illegal donations from abroad. 
- <p class="updated_time"> 07:00 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1063483556/politics-chat-biden-sending-help-after-tornadoes-build-back-better-bill-in-congr">Politics chat: Biden sending help after tornadoes; Build Back Better bill in Congress</a> NPR: President Biden is sending federal resources to the Midwest following devastating tornadoes. He'll also try to muster support for the Build Back Better bill this week. 
- <p class="updated_time"> 04:00 AM CT, Dec. 12 </p> 
- <a href="https://www.npr.org/2021/12/12/1062485458/biden-criminal-justice-system-clemency">Activists wanted Biden to revamp the justice system. Many say they're still waiting</a> NPR: Advocates who want big changes to the criminal justice system are pressing the Biden administration. They want him to grant clemency for a few thousand people and make key personnel decisions. 
  <p class="updated_time"> 12:33 AM CT, Dec. 12 </p> 
  <a href="https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html">Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law</a> NYT: Gov. Gavin Newsom of California accused Texas of insulating its abortion law from the courts, and then called on lawmakers to use a similar strategy to go after the gun industry. 
  <p class="updated_time"> 07:32 PM CT, Dec. 11 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/12/11/business/congress-tech-regulation.html">Congress, Far From ‘a Series of Tubes,’ Is Still Nowhere Near Reining In Tech</a> NYT: Holding a hearing that humbles the most powerful business executives in the world is much easier than legislating. 
  <p class="updated_time"> 07:53 PM CT, Dec. 10 </p> 
  <a href="https://www.nytimes.com/2021/12/10/us/politics/republicans-amarillo-potter-county-primary.html">Republicans in Texas County, in Unusual Move, Upend Primary System</a> NYT: The G.O.P. in Potter County is planning to break away from a nonpartisan election board and hold its own primary next year, in a move criticized by election experts. 
- <p class="updated_time"> 06:59 PM CT, Dec. 10 </p> 
- <a href="https://www.nytimes.com/2021/12/10/us/politics/capitol-attack-meadows-powerpoint.html">PowerPoint Sent to Mark Meadows Is Examined by Jan. 6 Panel</a> NYT: Mark Meadows’s lawyer said the former White House chief of staff did not act on the document, which recommended that President Donald J. Trump declare a national emergency to keep himself in power. 
  <p class="updated_time"> 02:36 PM CT, Dec. 10 </p> 
  <a href="https://www.politico.com/news/2021/12/10/jan-6-committee-issues-six-new-subpoenas-524095">New Jan. 6 subpoenas target Trump associates, rally planners</a> Politico: Congressional investigators are focused on who coordinated Jan. 6 rally with Trump. 
  <p class="updated_time"> 01:28 PM CT, Dec. 10 </p> 
